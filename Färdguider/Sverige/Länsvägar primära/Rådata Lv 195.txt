@@ -1,0 +1,192 @@
+Time	Km	Instruction	For	Toward
+Summary:  10,7 kilometres (8 minutes)
+09:00	0,0	Depart 47, 555 94 Jönköping on 26 [47] (North)	70 m	
+09:00	0,1	Road name changes to 195	2,9 km	
+09:02	3,0	At 195, 564 91 Bankeryd, stay on 195 (North)	1,4 km	
+09:03	4,4	At T-korsning Bankeryd V, stay on 195 (North)	10 m	
+09:03	4,5	At near Ebbarpsby, stay on 195 (North)	2,0 km	
+09:04	6,5	At T-korsning Fiskebäck, stay on 195 (North)	0,3 km	
+09:05	6,8	At 195, 566 91 Habo, stay on 195 (North)	1,1 km	
+09:05	7,9	At roundabout, take the SECOND exit onto 195	2,0 km	
+09:07	9,9	At T-korsning, stay on 195 (North)	0,8 km	
+09:08	10,7	Arrive T-korsning Habo NO		
+
+SUMMARY
+Driving distance:  10,7 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  14,87 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,9 kilometres (8 minutes)
+09:00	0,0	Depart T-korsning Habo NO on 195 (South)	0,8 km	
+09:00	0,8	At T-korsning, stay on 195 (South)	2,0 km	
+09:02	2,8	At roundabout, take the SECOND exit onto 195	1,2 km	
+09:02	4,0	At 195, 566 Habo, stay on 195 (South)	0,3 km	
+09:03	4,3	At T-korsning Fiskebäck, stay on 195 (South)	2,0 km	
+09:04	6,3	At near Ebbarpsby, stay on 195 (South)	0,3 km	
+09:04	6,6	At T-korsning Bankeryd V, stay on 195 (South)	1,4 km	
+09:06	8,1	At T-korsning Ekeryd, stay on 195 (South)	2,8 km	
+09:08	10,9	Arrive 195, 555 Jönköping		
+
+SUMMARY
+Driving distance:  10,9 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  12,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,8 kilometres (29 minutes)
+09:00	0,0	Depart T-korsning Habo NO on 195 (North)	2,0 km	
+09:01	2,0	At T-korsning Kvarnekulla, stay on 195 (North)	2,7 km	
+09:03	4,8	At T-korsning Källebäcken, stay on 195 (North)	6,4 km	
+09:08	11,2	At T-korsning Baskarp, stay on 195 (North-East)	1,1 km	
+09:09	12,3	At Korsning Sibbatorp, stay on 195 (North-East)	8,8 km	
+09:18	21,1	At Korsning Brandstorp, stay on 195 (North)	4,4 km	
+09:21	25,6	At 195, 544 Hjo, stay on 195 (North)	3,4 km	
+09:24	28,9	At Korsning Kolabotten, stay on 195 (North)	2,0 km	
+09:25	31,0	At T-korsning Gate N, stay on 195 (North)	1,7 km	
+09:27	32,7	At Korsning S Fågelås, stay on 195 (North)	3,1 km	
+09:29	35,8	Arrive T-korsning Linderyd		
+
+SUMMARY
+Driving distance:  35,8 kilometres
+Trip duration:  29 minutes
+Driving time:  29 minutes
+Cost:  42,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,8 kilometres (28 minutes)
+09:00	0,0	Depart T-korsning Linderyd on 195 (South)	3,1 km	
+09:02	3,1	At Korsning S Fågelås, stay on 195 (South)	1,7 km	
+09:03	4,8	At T-korsning Gate N, stay on 195 (South)	2,0 km	
+09:05	6,8	At Korsning Kolabotten, stay on 195 (South)	3,4 km	
+09:07	10,2	At near Gate, stay on 195 (South)	4,4 km	
+09:11	14,7	At Korsning Brandstorp, stay on 195 [Brandstorpsvägen] (South)	8,8 km	
+09:18	23,4	At Korsning Sibbatorp, stay on 195 (South-West)	1,1 km	
+09:19	24,6	At T-korsning Baskarp, stay on 195 (South-West)	6,4 km	
+09:24	31,0	At T-korsning Källebäcken, stay on 195 (South)	2,7 km	
+09:26	33,7	At T-korsning Kvarnekulla, stay on 195 (South)	2,0 km	
+09:28	35,8	Arrive T-korsning Habo NO		
+
+SUMMARY
+Driving distance:  35,8 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  48,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,8 kilometres (11 minutes)
+09:00	0,0	Depart T-korsning Linderyd on 195 (North)	2,9 km	
+09:02	2,9	At Korsning, stay on 195 (North)	1,0 km	
+09:02	3,9	At Korsning Korsgården, stay on 195 (North-East)	1,3 km	
+09:04	5,2	At Korsning Myrebo, stay on 195 (North)	2,8 km	
+09:06	7,9	At T-korsning Hjo SV, stay on 195 (North)	1,6 km	
+09:08	9,6	At roundabout, take the SECOND exit onto 195	2,2 km	
+09:11	11,8	Arrive 195, 544 Hjo		
+
+SUMMARY
+Driving distance:  11,8 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  15,50 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,9 kilometres (9 minutes)
+09:00	0,0	Depart near Hjo on Local road(s) (North-West)	80 m	
+09:00	0,1	Stay on Local road(s) (South-West)	60 m	
+09:00	0,1	Bear RIGHT (South-West) onto 195	2,1 km	
+09:02	2,2	At roundabout, take the SECOND exit onto 195	1,8 km	
+09:03	4,0	At T-korsning Hjo SV, stay on 195 (South)	2,8 km	
+09:05	6,7	At Korsning Myrebo, stay on 195 (South-West)	1,3 km	
+09:06	8,0	At Korsning Korsgården, stay on 195 (South-West)	1,0 km	
+09:07	9,0	At Korsning, stay on 195 (South)	2,9 km	
+09:09	11,9	Arrive T-korsning Linderyd		
+
+SUMMARY
+Driving distance:  11,9 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  16,89 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (17 minutes)
+09:00	0,0	Depart near Hjo on Local road(s) (East)	70 m	
+09:00	0,1	Stay on Local road(s) (East)	80 m	
+09:00	0,1	Keep STRAIGHT onto 195	2,6 km	
+09:02	2,8	At T-korsning Hjo N, stay on 195 (East)	3,9 km	
+09:05	6,7	At T-korsning Grevbäck, stay on 195 (North)	1,6 km	
+09:06	8,3	At T-korsning Ekhammar, stay on 195 (North)	2,0 km	
+09:07	10,3	At T-korsning Spånhult, stay on 195 (North)	2,6 km	
+09:09	12,9	At 195, 546 91 Hjo, stay on 195 (North-East)	4,3 km	
+09:13	17,2	At Korsning Brevik, stay on 195 (North)	5,9 km	
+09:17	23,1	Arrive T-korsning Mölltorp södra		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  29,27 kr
+Time	Km	Instruction	For	Toward
+Summary:  23,0 kilometres (17 minutes)
+09:00	0,0	Depart T-korsning Mölltorp södra on 195 (South)	5,9 km	
+09:04	5,9	At Korsning Brevik, stay on 195 (South)	4,4 km	
+09:07	10,2	At 195, 546 Karlsborg, stay on 195 (South-West)	2,6 km	
+09:09	12,8	At T-korsning Spånhult, stay on 195 (South)	2,0 km	
+09:11	14,8	At T-korsning Ekhammar, stay on 195 (South)	1,6 km	
+09:12	16,4	At T-korsning Grevbäck, stay on 195 (South)	3,9 km	
+09:15	20,3	At T-korsning Hjo N, stay on 195 (West)	2,7 km	
+09:17	23,0	Arrive 195, 544 Hjo		
+
+SUMMARY
+Driving distance:  23,0 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  25,62 kr
+
+Trafikplats - Bankeryd V
+3.0 km/2.8 km	2 min 0 s/1 min 52 s	90
+1.4 km/1.4 km	0 min 56 s/0 min 56 s
+
+Bankeryd V - Sjogarp
+0.3 km/0.3 km	0 min 14 s/0 min 14 s	80
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+0.3 km/0.3 km	0 min 14 s/0 min 14 s
+1.1 km/1.2 km	0 min 50 s/0 min 54 s
+
+Sjogarp - Habo NO
+2.0 km/2.0 km	1 min 20 s/1 min 20 s	90
+0.8 km/0.8 km	0 min 32 s/0 min 32 s
+
+Habo NO - Källebäcken
+2.0 km/2.0 km	1 min 30 s/1 min 30 s	80
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+
+Källebäcken - Baskarp
+6.4 km/6.4 km	5 min 29 s/5 min 29 s	70
+
+Baskarp - Linderyd
+1.1 km/1.1 km	0 min 50 s/0 min 50 s	80
+8.8 km/8.8 km	6 min 36 s/6 min 36 s
+4.4 km/4.4 km	3 min 18 s/3 min 18 s
+3.4 km/3.4 km	2 min 33 s/2 min 33 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+3.1 km/3.1 km	2 min 20 s/2 min 20 s
+
+Linderyd - Hjo NV
+2.9 km/2.9 km	2 min 11 s/2 min 11 s	80
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+1.6 km/1.8 km	1 min 12 s/1 min 21 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+
+Hjo NV - Mölltorp södra
+2.8 km/2.7 km	2 min 6 s/2 min 2 s	80
+3.9 km/3.9 km	2 min 56 s/2 min 56 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+2.6 km/2.6 km	1 min 57 s/1 min 57 s
+4.3 km/4.4 km	3 min 14 s/3 min 18 s
+5.9 km/5.9 km	4 min 26 s/4 min 26 s

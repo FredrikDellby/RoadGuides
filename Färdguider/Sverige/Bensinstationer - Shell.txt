@@ -1,0 +1,1039 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Höganäs, Bruksgatan (Express)				X
+   Bruksgatan 39
+- Helsingborg, Regementsvägen				X
+   Regementsvägen 11
+- Helsingborg, Rännarbanan (Express)			X
+- Helsingborg, Ättekulla				X
+   Rusthållsgatan 47
+- Helsingborg, Trintegatan (CityDiesel)			-
+- Helsingborg, Muskötgatan				
+- Helsingborg, Regementsvägen				X
+- Billesholm, Skruvgatan (CityDiesel)			-
+- Rydebäck						X
+   Landskronavägen 671
+- Landskrona, Malmövägen (Express)			X
+- Landskrona, Pumpgatan					-
+- Hörby, Ringsjövägen					X
+- Löddeköpinge						X
+- Kävlinge, Nordanvägen					X
+- Flyinge, Gårdstånga					X
+- Lund, Dalbyvägen (Express)				X
+- Lund, Fjelievägen					X
+- Lund, Trollebergsvägen				X
+- Dalby							X
+- Malmö, Bellevuevägen					X
+- Malmö, Eriksfältsgatan				X
+- Malmö, Holma						X
+   Holmavågnsvägen 1
+- Malmö, Kabingatan 1					X
+- Malmö, Kabingatan (CityDiesel)			X
+- Malmö, Lantmannavägen					
+   Lantmannavägen 45
+- Malmö, Lundavägen (Express)				X
+   Lundavägen 92
+- Malmö, Rosengård					X
+   Ramels väg 70
+- Malmö, Limhamnsvägen (osäker)				-
+   Limhamnsvägen 106
+- Malmö, Ö. Farmvägen					-
+   Ö. Farmvägen 11
+- Limhamn, Hyllie Kyrkoväg				X
+- Staffanstorp						X
+   Skånevägen 71
+- Sjöbo, Västergatan					X
+   Västergatan 22
+- Trelleborg						X
+   Strangatan 3
+- Trelleborg, Hedvägen					X
+   Hedvägen 125
+- Trelleborg, Strandridaregatan (CityDiesel)		X
+- Ystad, Hedeskogavägen	(CityDiesel)			X
+- Ystad, Missunavägen (Express)				X
+
+f.d. Kristianstad län:
+- Ängelholm						X
+   Klippanvägen 14
+- Örkelljunga, Laholmsvägen (CityDiesel)		X
+   Laholmsvägen 1
+- Östra Ljungby						X
+   Gamla Vägen 2
+- Åstorp, Borrgatan					X
+   Turistgatan 5
+- Bjärnum, Södra vägen (Express)			X
+   Södra Vägen 25
+- Tyringe (Express)					X
+   Helsingborgsvägen 49
+- Hässleholm						X
+   Grönängsplan 2
+- Hässleholm (Express)					X
+   Svedjemarksgatan 2
+- Osby, Såggatan					X
+   Såggatan 2
+- Kristianstad, Långebro (Express)			X
+   Långebrogatan 58
+- Kristianstad, Blekingevägen				X
+   Blekingevägen 2
+- Fjälkinge						X
+- Bromölla, Riksvägen (osäker)				-
+- Simrishamn, Storgatan					X
+   Storgatan 52
+
+
+Blekinge län
+=============
+
+- Sölvesborg (Express)					-
+   Snapphanegatan
+- Olofström, Ö. Storgatan				-
+   Östra Storgatan 44
+- Karlshamn, Munkahusvägen (CityDiesel)			-*
+- Backaryd (osäker)					-*
+- Ronneby, Listebyvägen	(osäker)			X*
+- Karlskrona (City Diesel)
+- Karlskrona, Vedebyvägen				-*
+
+Hallands län
+=============
+- Väröbacka (Bua)					X
+- Varberg, Cylindervägen (CityDiesel)			-*
+- Varberg, Lassabacka					X
+   Birger Svenssons Väg
+- Varberg, Södra väg					X
+   Södra Vägen 21
+- Ullared						X
+   Falkenbergsvägen 2
+- Falkenberg, Arvidstorp
+- Falkenberg, Holgers					-
+   Holgersgatan 9
+- Falkenberg, Skrea					X
+   Skreamotet
+- Halmstad (Express)					-
+   Nyhemsgatan 16
+- Halmstad, Fräsaregatan (City Diesel)			-*
+- Halmstad, Svarvaregatan (City Diesel)			-*
+- Halmstad, Laholmsvägen				X
+   Laholmsvägen 80
+- Halmstad, Tylösandsvägen				X
+   Gamla Tylösandsvägen 2
+- Mellbystrand (Express)				-
+   Söderleden 3
+- Laholm, Ängelholmsvägen				X
+   Ängelholmsvägen 15
+- Knäred, Otterdalsvägen
+
+
+Kronobergs län
+===============
+
+Västra delen:
+- Ljungby						X
+- Ljungby, Kungsgatan (osäker)
+- Strömsnäsbruk, Traryd					X
+- Markaryd (CityDiesel)
+- Älmhult, Bäckgatan (CityDiesel)			-*
+
+Östra delen:
+- Växjö, Ljungadalsgatan (CityDiesel)
+- Växjö, Mörnersvägen					X
+- Växjö, Rådjursvägen					-*
+- Växjö, Teleborgsvägen					X
+- Växjö, Mörners Väg Dalbo				X
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Loftahammar						
+- Vimmerby, Målillavägen
+- Västervik
+- Västervik, Industrigatan
+- Oskarshamn
+- Virserum
+
+Södra delen:
+- Nybro, Norra Vägen
+- Kalmar
+- Kalmar, Oxhagen
+- Kalmar, Torsåsgatan
+- Ljungbyholm
+
+Öland:
+- Löttorp
+
+
+Jönköpings län
+===============
+
+Norra delen:
+- Gränna, Norrtull
+- Jönköping, Barnarpsgatan
+- Jönköping, A6
+- Jönköping, Herculesvägen
+- Jönköping, Skiffervägen
+- Jönköping, Torsvik
+- Huskvarna
+
+Västra delen:
+- Gnosjö
+- Vaggeryd
+- Värnamo
+- Värnamo
+
+Östra delen:
+- Nässjö
+- Eksjö, Stockholmsvägen
+- Nässjö
+- Sävsjö
+- Vetlanda, Nygatan
+
+
+Västra Götalands län
+=====================
+
+Inre Göteborgsområdet:
+- Torslanda, Kongahällavägen
+- Hisings Backa, Importgatan
+- Hisings Backa, Importgatan (CityDiesel)
+- Göteborg, Stigs Center
+- Göteborg, Tuve
+- Göteborg, Ringön
+- Göteborg, Sandiahamnen
+- Torslanda, Rödgv
+- Angered
+- Göteborg, Centralen
+- Göteborg, Ullevi
+- Göteborg, Djurgårdsplatsen
+- Göteborg, Stureplatsen
+- Partille
+- Västra Frölunda, Frölunda
+- Västra Frölunda, Musikvägen
+- Västra Frölunda, A. Odhners gata
+- Mölndal
+- Mölndal, Åbyvägen
+
+Yttre Göteborgsområdet:
+- Stenungsund
+- Stenungsund
+- Kungälv, Romelanda
+- Kungälv, Rödbo
+- Älvängen, Tolleredsvägen
+- Nol, Alevägen
+- Gråbo, Industrivägen
+- Lerum
+- Mölnlycke
+- Landvetter
+- Särö							-
+- Fjärås						-
+- Åsa							-
+   Varbergsvägen
+
+
+
+Stationsinformation
+
+Trelleborg, Hedv
+HEDVÄGEN 125
+231 66  TRELLEBORG
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 740
+Produkter
+
+    * Blyfri 95
+
+Stationsinformation
+
+TRELLEBORG
+STRANDGATAN 3
+231 42  TRELLEBORG
+Telefon:  	0410 - 142 95
+Fax:  	0410 - 128 80
+Stationsnummer: 326
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+TRELLEBORG, STRANDRIDAREGATAN
+Strandridaregatan 1
+23161  TRELLEBORG
+Telefon:  	0200-810 400
+Fax:  	
+Stationsnummer: 403
+Produkter
+
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+ÖRESUND
+Bronsgjutaregatan 1
+23841  OXIE
+Telefon:  	040-22 13 92
+Fax:  	040-94 03 68
+Stationsnummer: 1860
+Produkter
+
+    * Select-butik
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+LIMHAMN, HYLLIE KYRKOV
+HYLLIE KYRKOVÄG 45
+21616  LIMHAMN
+Telefon:  	040 - 15 83 31
+Fax:  	040 - 15 23 41
+Stationsnummer: 434
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+MALMÖ, BELLEVUEV
+BELLEVUEV 89
+216 20  MALMÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 1730
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+MALMÖ, HOLMA
+HOLMAVÅNGSV 1
+215 26  MALMÖ
+Telefon:  	040 - 13 04 01
+Fax:  	040 - 13 31 05
+Stationsnummer: 557
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+MALMÖ, ERIKSFÄLTSG
+ERIKSFÄLTSGATAN 80
+21455  MALMÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 5403
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+MALMÖ, LANTMANNAG 45
+LANTMANNAG 45
+214 48  MALMÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 619
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+MALMÖ, ROSENGÅRD
+RAMELS VÄG 70
+213 69  MALMÖ
+Telefon:  	040 - 21 28 28
+Fax:  	040 - 21 28 84
+Stationsnummer: 504
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+MALMÖ, KABING 1
+KABING 1
+212 39  MALMÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 618
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+MALMÖ, LUNDAVÄGEN
+LUNDAVÄGEN 92
+212 24  MALMÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 104
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+ARLÖV
+VÄSTKUSTVÄGEN
+232 35  ARLÖV
+Telefon:  	
+Fax:  	040 - 43 07 50
+Stationsnummer: 7
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+YSTAD, MISSUNAV
+Missunnavägen
+271 54  YSTAD
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 1853
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+YSTAD, HEDESKOGAVÄGEN
+Hedeskogavägen 2
+271 99  YSTAD
+Telefon:  	0200-810 400
+Fax:  	
+Stationsnummer: 2900
+Produkter
+
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+STAFFANSTORP
+SKÅNEVÄGEN 71
+24538  STAFFANSTORP
+Telefon:  	046 - 25 47 40
+Fax:  	046 - 25 23 53
+Stationsnummer: 259
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+DALBY
+VEBERÖDSV
+240 10  DALBY
+Telefon:  	046-209111
+Fax:  	046-209897
+Stationsnummer: 984
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+SJÖBO,VÄSTERG
+VÄSTERGATAN 22
+275 33  SJÖBO
+Telefon:  	0416-109 03
+Fax:  	0416-105 62
+Stationsnummer: 116
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+SIMRISHAMN,STORG
+STORGATAN 52
+272 33  SIMRISHAMN
+Telefon:  	0414-411686
+Fax:  	0414-10866
+Stationsnummer: 483
+Produkter
+
+    * Kiosk
+    * Tvätt
+    * Hyrbil
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+LUND,TROLLEBERGSV
+TROLLEBERGSVÄGEN 28
+22731  LUND
+Telefon:  	046-128110
+Fax:  	046-158575
+Stationsnummer: 760
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrbil
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+LUND, DALBYV
+DALBYV 38
+22460  LUND
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 1819
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+LUND, FJELIEVÄGEN
+FÖRHANDLINGSVÄGEN 2A
+22761  LUND
+Telefon:  	046 - 32 39 20
+Fax:  	046 - 39 78 65
+Stationsnummer: 741
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+LÖDDEKÖPINGE
+MARKNADSVÄGEN 1
+246 42  LÖDDEKÖPINGE
+Telefon:  	046 - 70 50 90
+Fax:  	046 - 70 90 57
+Stationsnummer: 528
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+LANDSKRONA, MALMÖV
+MALMÖV
+261 51  LANDSKRONA
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 91
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+RYDEBÄCK
+LANDSKRONAV 671
+257 30  RYDEBÄCK
+Telefon:  	042 - 22 24 88
+Fax:  	042 - 22 10 95
+Stationsnummer: 748
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+HELSINGBORG, ÄTTEKULLA
+RUSTHÅLLSG 47
+253 61  HELSINGBORG
+Telefon:  	042 - 29 67 70
+Fax:  	042 - 29 67 95
+Stationsnummer: 173
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+HELSINGBORG, TRINTEGATAN
+Trintegatan 6
+253 68  HELSINGBORG
+Telefon:  	0200-810 400
+Fax:  	
+Stationsnummer: 109
+Produkter
+
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+HELSINGBORG, RÄNNARBANAN
+RÄNNARBANAN
+252 30  HELSINGBORG
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 1149
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+Stationsinformation
+
+HELSINGBORG, REGEMENTSVÄGEN
+REGEMENTSVÄGEN 11
+254 57  HELSINGBORG
+Telefon:  	042 - 15 64 14
+Fax:  	042 - 15 65 35
+Stationsnummer: 738
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+HÖGANÄS, BRUKSG
+BRUKSG 39
+263 39  HÖGANÄS
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 2605
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+ÄNGELHOLM
+KLIPPANVÄGEN14
+262 71  ÄNGELHOLM
+Telefon:  	0431 - 100 12
+Fax:  	0431 - 831 73
+Stationsnummer: 1216
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+ÅSTORP
+Turistgatan 5
+265 39  ÅSTORP
+Telefon:  	042-55606
+Fax:  	042-55626
+Stationsnummer: 333
+Produkter
+
+    * Livsmedel
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+ÖSTRA LJUNGBY
+GAMLA VÄGEN 2
+264 71  ÖSTRA LJUNGBY
+Telefon:  	0435-21260
+Fax:  	0435-21262
+Stationsnummer: 5541
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+ÖRKELLJUNGA, LAHOLMSVÄGEN
+Laholmsvägen 1 (Bokliden 14)
+28636  ÖRKELLJUNGA
+Telefon:  	0200-810 400
+Fax:  	
+Stationsnummer: 3104
+Produkter
+
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+FLYINGE,GÅRDSTÅNGA
+GÅRDSTÅNGA E 66
+240 32  FLYINGE
+Telefon:  	046-52385
+Fax:  	046-52742
+Stationsnummer: 627
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+    * E85
+
+Stationsinformation
+
+HÖRBY, RINGSJÖV
+RINGSJÖVÄGEN 12
+242 31  HÖRBY
+Telefon:  	0415 - 31 12 38
+Fax:  	0415 - 106 10
+Stationsnummer: 107
+Produkter
+
+    * Kiosk
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+TOLLARP, ÖSTRA VRAMS V 7
+Östra Vrams väg 7
+290 10  TOLLARP
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 24
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+KRISTIANST,LÅNGEBRO
+LÅNGEBROGATAN 58
+291 59  KRISTIANSTAD
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 248
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+KRISTIANST,BLEK.V
+BLEKINGEVÄGEN 2
+291 54  KRISTIANSTAD
+Telefon:  	044-124635
+Fax:  	044-124500
+Stationsnummer: 275
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+FJÄLKINGE
+SÖLVESBORGSVÄGEN
+290 34  FJÄLKINGE
+Telefon:  	044-50459
+Fax:  	044-50459
+Stationsnummer: 196
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+    * Höghastighetspump/Lastbilsdiesel
+
+Stationsinformation
+
+TYRINGE
+HELSINGBORGSV 49
+282 00  TYRINGE
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 3350
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+HÄSSLEHOLM
+GRÖNÄNGSPLAN 2
+28133  HÄSSLEHOLM
+Telefon:  	0451 - 100 83
+Fax:  	0451 - 899 03
+Stationsnummer: 369
+Produkter
+
+    * Select-butik
+    * Reflex-tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+HÄSSLEHOLM
+SVEDJEMARKSG 2
+28136  HÄSSLEHOLM
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 547
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+KÄVLINGE,NORDAN.V
+NORDANVÄG 1
+244 38  KÄVLINGE
+Telefon:  	046-71 11 85
+Fax:  	046-73 34 02
+Stationsnummer: 126
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Verkstad
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+BJÄRNUM, SÖDRA V
+SÖDRA VÄGEN 25
+280 20  BJÄRNUM
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 1790
+Produkter
+
+    * Blyfri 95
+    * Citydiesel/Personbilsdiesel
+    * E85
+
+Stationsinformation
+
+OSBY, SÅGGATAN
+SÅGGATAN 2
+28341  OSBY
+Telefon:  	0479-122 50
+Fax:  	0479-121 85
+Stationsnummer: 1747
+Produkter
+
+    * Select-butik
+    * Tvätt
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Jönköpings län
+===============
+
+Norra delen av länet:
+
+Stationsinformation
+
+NÄSSJÖ
+SÖRÄNGSVÄGEN 9
+571 38  NÄSSJÖ
+Telefon:  	0200-810400
+Fax:  	
+Stationsnummer: 880
+Produkter
+
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+Stationsinformation
+
+EKSJÖ,STHLMV
+STOCKHOLMSVÄGEN 9
+575 34  EKSJÖ
+Telefon:  	0381-611368
+Fax:  	0381-611031
+Stationsnummer: 209
+Produkter
+
+    * Livsmedel
+    * Tvätt
+    * Hyrbil
+    * Hyrsläp
+    * Gasol
+    * Blyfri 95
+    * V-Power
+    * Citydiesel/Personbilsdiesel
+
+

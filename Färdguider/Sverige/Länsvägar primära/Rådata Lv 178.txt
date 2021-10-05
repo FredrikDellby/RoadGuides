@@ -1,0 +1,56 @@
+Time	Km	Instruction	For	Toward
+Summary:  17,2 kilometres (13 minutes)
+09:00	0,0	Depart Korsning Ellös korsväg on 178 [Glimsåsvägen] (South-East)	0,4 km	
+09:00	0,4	At near Slätthult, stay on 178 (South-East)	0,8 km	
+09:01	1,3	At Korsning Huseby, stay on 178 (South)	1,3 km	
+09:02	2,5	At near Rålanda, stay on 178 (East)	2,1 km	
+09:03	4,7	At T-korsning Rålanda korsväg, stay on 178 (East)	3,5 km	
+09:06	8,2	At near Holm, stay on 178 (East)	3,2 km	
+09:09	11,5	At Korsning Härlycke, stay on 178 (South-East)	1,5 km	
+09:10	12,9	At near Svanvik, stay on 178 (East)	2,8 km	
+09:12	15,7	At near Varekil, stay on 178 (East)	1,1 km	
+09:13	16,9	At T-korsning Varekil, stay on 178 (South-East)	0,3 km	
+09:13	17,2	Arrive T-korsning Varekil korsväg		
+
+SUMMARY
+Driving distance:  17,2 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  20,17 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  17,2 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Varekil korsväg on 178 (West)	0,3 km	
+09:00	0,3	At T-korsning Varekil, stay on 178 (North-West)	1,1 km	
+09:01	1,4	At 178, 472 Varekil, stay on 178 (West)	2,7 km	
+09:03	4,1	At T-korsning Hjälmvik, stay on 178 (West)	1,6 km	
+09:04	5,7	At Korsning Härlycke, stay on 178 (North-West)	3,1 km	
+09:06	8,9	At T-korsning Tegneby, stay on 178 (West)	3,6 km	
+09:09	12,5	At T-korsning Rålanda korsväg, stay on 178 (West)	2,1 km	
+09:11	14,6	At Korsning, stay on 178 (West)	1,4 km	
+09:12	15,9	At Korsning Huseby, stay on 178 (North)	0,8 km	
+09:13	16,8	At near Slätthult, stay on 178 (North-West)	0,4 km	
+09:13	17,2	Arrive Korsning Ellös korsväg		
+
+SUMMARY
+Driving distance:  17,2 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  20,17 kr
+
+Ellös korsväg - Huseby
+0.4 km/0.4 km	0 min 29 s/0 min 29 s	50
+0.8 km/0.8 km	0 min 58 s/0 min 58 s
+
+Huseby - Korsning
+1.3 km/1.4 km	0 min 59 s/1 min 3 s	80
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+3.5 km/3.6 km	2 min 38 s/2 min 42 s
+3.2 km/3.1 km	2 min 24 s/2 min 20 s
+1.5 km/1.6 km	1 min 8 s/1 min 12 s
+2.8 km/2.7 km	2 min 6 s/2 min 2 s
+
+Korsning - Varekil korsväg
+1.1 km/1.1 km	0 min 57 s/0 min 57 s	70
+0.3 km/0.3 km	0 min 15 s/0 min 15 s

@@ -1,0 +1,83 @@
+Vägar i Västra Götaland:
+
+E6
+E20
+E45
+
+15
+24
+25
+26
+27
+40
+41
+42
+44
+46
+47
+49
+
+115
+150
+153
+154
+155
+156
+157
+158
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+176
+178
+180
+181
+182
+183
+184
+185
+186
+187
+190
+193
+194
+195
+200
+201
+202
+204
+
+Vägar i Värmland:
+
+E18		(Oslo) - Årjäng - Grums - Karlstad - Kristinehamn - (Karlskoga)
+E16		(Kongsvinger) - Lekvattnet - Torsby - Stöllet - (Malung)
+E45		(Åmål) - Säffle - Grums - Kil - Sunne - Torsby - Stöllet - (Malung)
+
+26		(Gullspång) - Kristinehamn - Filipstad - Persberg - Lesjöfors - Rämmen - (Vansbro)
+61		(Kongsvinger) - Charlottenberg - Arvika - Finnebäck - Kil - Karlstad
+62		Karlstad - Forshaga - Munkfors - Råda - Ekshärad - Stöllet - Sysslebäck - Höljes - (Trysil)
+63		Karlsstad - Molkom - Filipstad - Persberg - (Hällefors)
+
+172		(Bengtsfors) - Årjäng - Vännacka - Arvika														Flik: Ja, Listfil: Ja
+175		Säffle - Nysäter - Klässbol - Arvika															Flik: Ja, Listfil: Ja
+177		Vännacka - Koppom - Åmotfors																	Flik: Ja, Listfil: Ja
+236		Skoghall - Karlstad																				Flik: Nej, Listfil: Nej
+237		(Karlskoga) - Storfors																			Flik: Nej, Listfil: Nej
+238		Finnebäck - Västra Ämtevik																		Flik: Ja, Listfil: Ja
+239		Torsby - Ekshärad																				Flik: Ja, Listfil: Ja
+240		Väse - Molkom - Sunnansjö - Uddeholm															Flik: Ja, Listfil: Nej
+241		Sunne - Munkfors																				Flik: Ja, Listfil: Ja
+245		Råda - Uddeholm - Hagfors - Gumhöjden - Rämmen - (Ludvika)										Flik: Nej, Listfil: Nej
+246		Råda - Uddeholm - Hagfors - Nordmark - Gumhöjden - Filipstad									Flik: Ja, Listfil: Ja

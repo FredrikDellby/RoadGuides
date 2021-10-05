@@ -1,0 +1,40 @@
+Time	Km	Instruction	For	Toward
+Summary:  18,1 kilometres (15 minutes)
+09:00	0,0	Depart 222, 131 40 Nacka on 222 [Värmdöleden] (East)	1,2 km	
+09:00	1,2	At 222, 131 42 Nacka, stay on 222 [Värmdöleden] (East)	1,1 km	
+09:01	2,3	At 222, 131 47 Nacka, stay on 222 [Värmdöleden] (East)	0,9 km	
+09:02	3,2	At 222, 132 42 Saltsjö Boo, stay on 222 [Värmdöleden] (East)	1,7 km	
+09:03	4,8	At 222, 132 35 Saltsjö Boo, stay on 222 [Värmdöleden] (East)	4,4 km	
+09:07	9,2	At 222, 132 36 Saltsjö Boo, stay on 222 [Värmdöleden] (East)	2,9 km	
+09:09	12,2	At Värmdöleden, 134 40 Gustavsberg, stay on 222 [Värmdöleden] (South-East)	1,4 km	
+09:10	13,5	At Värmdöleden, 134 41 Gustavsberg, stay on 222 [Värmdöleden] (East)	2,8 km	
+09:12	16,3	At roundabout, take the SECOND exit onto 222 [SKÄRgårdsvägen]	1,4 km	
+09:14	17,8	At roundabout, take the SECOND exit onto 222 [SKÄRgårdsvägen]	0,3 km	
+09:15	18,1	Arrive 222 196, 139 36 Hemmesta		
+
+SUMMARY
+Driving distance:  18,1 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  26,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,6 kilometres (15 minutes)
+09:00	0,0	Depart 222, 139 40 Hemmesta on Local road(s) (East)	50 m	
+09:00	0,1	Turn RIGHT (West) onto 222 [SKÄRgårdsvägen]	0,3 km	
+09:00	0,3	At roundabout, take the FIRST exit onto 222 [SKÄRgårdsvägen]	1,4 km	
+09:02	1,7	At roundabout, take the SECOND exit onto 222 [Värmdöleden]	2,5 km	
+09:05	4,2	At Värmdöleden, 134 41 Gustavsberg, stay on 222 [Värmdöleden] (West)	1,8 km	
+09:06	6,0	At Värmdöleden, 134 40 Gustavsberg, stay on 222 [Värmdöleden] (North-West)	2,0 km	
+09:07	8,0	At 222, 132 36 Saltsjö Boo, stay on 222 [Värmdöleden] (North-West)	4,8 km	
+09:11	12,9	At 222, 132 35 Saltsjö Boo, stay on 222 [Värmdöleden] (West)	2,1 km	
+09:13	15,0	At Värmdöleden, 132 40 Saltsjö Boo, stay on 222 [Skurusundsbron] (West)	0,4 km	
+09:13	15,4	At Skurusundsbron, 131 46 Nacka, stay on 222 [Skurusundsbron] (West)	1,6 km	
+09:14	17,0	At 222, 131 42 Nacka, stay on 222 [Värmdöleden] (West)	0,6 km	
+09:15	17,6	Arrive 222, 131 40 Nacka		
+
+SUMMARY
+Driving distance:  17,6 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  25,93 kr

@@ -1,0 +1,43 @@
+Time	Km	Instruction	For	Toward
+Summary:  7,3 kilometres (7 minutes)
+09:00	0,0	Depart 155 on Ramp [Trafikplats Nyboda] (East)	0,9 km	73 / 222 / 226 / Nynäshamn / Årsta
+09:00	0,9	Road name changes to 75 [Årstalänken]	0,4 km	
+09:01	1,3	At 75, 120 44 Årsta, stay on 75 [Årstalänken] (East)	1,0 km	73 / 222 / 226 / Nynäshamn / Gustavsberg / Huddinge
+09:02	2,3	At Hammarbytunneln, 120 55 Årsta, stay on 75 [Hammarbytunneln] (East)	0,8 km	
+09:03	3,1	At Hammarbytunneln, 120 51 Årsta, stay on 75 [Hammarbytunneln] (East)	0,8 km	
+09:03	3,9	At Hammarbytunneln, 121 43 Johanneshov, stay on 75 [Hammarbytunneln] (East)	1,1 km	
+09:04	5,0	At Hammarbytunneln, 121 38 Johanneshov, stay on 75 [Hammarbytunneln] (East)	1,1 km	222 / Gustavsberg
+09:06	6,1	At 75, 131 34 Nacka, stay on 75 [Södra Länken] (North-East)	1,3 km	
+09:07	7,3	Arrive Värmdöleden, 131 35 Nacka		
+
+SUMMARY
+Driving distance:  7,3 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  12,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,3 kilometres (6 minutes)
+09:00	0,0	Depart Värmdöleden, 131 35 Nacka on 75 [Södra Länken] (West)	1,2 km	E4 / E20 / 73
+09:01	1,2	At 75, 131 34 Nacka, stay on 75 [Hammarby Fabriksväg] (South-West)	0,3 km	
+09:01	1,5	At Södra Länken, 120 32 Johanneshov, stay on 75 [Södra Länken] (West)	0,9 km	E4 / E20 / 73 / 226 / Nynäshamn / Huddinge
+09:02	2,4	At Årstatunneln, 121 45 Johanneshov, keep STRAIGHT to stay on 75 [Årstatunneln]	1,3 km	E4 / E20 / 226 / Huddinge
+09:03	3,7	At Årstatunneln, 121 43 Johanneshov, stay on 75 [Årstatunneln] (West)	1,2 km	
+09:04	4,9	At Årstatunneln, 120 55 Årsta, stay on 75 [Årstatunneln] (West)	0,3 km	
+09:05	5,3	At Årstatunneln, 120 57 Årsta, stay on 75 [Årstatunneln] (West)	1,0 km	E4 / E20 / Stockholm Centrum
+09:06	6,3	Arrive 75, 117 43 Hägersten		
+
+SUMMARY
+Driving distance:  6,3 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  10,90 kr
+
+Nyboda - Alphyttan
+1.3 km/1.0 km	0 min 52 s/0 min 40 s
+1.0 km/0.3 km	0 min 40 s/0 min 12 s
+0.8 km/1.2 km	0 min 32 s/0 min 48 s
+0.8 km/1.3 km	0 min 32 s/0 min 52 s
+1.1 km/0.9 km	0 min 44 s/0 min 36 s
+1.1 km/0.3 km	0 min 44 s/0 min 12 s
+1.3 km/1.2 km	0 min 52 s/0 min 48 s

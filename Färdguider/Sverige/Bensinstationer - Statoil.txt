@@ -1,0 +1,1593 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Höganäs					X
+   Triangelplatsen
+- 1-2-3 Viken					X
+   Karfältsvägen 1
+- Helsingborg Berga Center			X
+   Florettgatan 43
+- Helsingborg Bergarondellen			X
+   Garnisonsgatan 2
+- Helsingborg Ängelholmsvägen			X
+   Grenadjärgatan 19
+- Helsingborg Ramlösa				X
+   La Coursgatan
+- Helsingborg Ättekulla				X
+   Rusthållsgatan 51
+- Helsingborg TruckDiesel (1)
+   Bunkaårdsgatan 1x
+- Helsingborg TruckDiesel (2)
+   Bunkagårdsgatan 8x
+- Bjuv						X
+   Mellersta vägen
+- 1-2-3 Ekeby					X
+   Storgatan 62
+- Landskrona					X
+   Pumpgatan 5
+- TruckDiesel Landskrona
+   Varvsvägen 125
+- Eslöv						X
+   Vikhemsvägen 1
+- Höör						X
+   Ringsjövägen
+- 1-2-3 Hörby					X
+   Kristianstadsvägen
+- Bjärred					X
+   N. Västkustvägen 32
+- Lomma						X
+   Bronsgatan 5/Prästgatan
+- Lund Magistratvägen				X
+   Magistratvägen 2
+- Lund Södra					X
+   Malmövägen 91
+- Arlöv						X
+   Kronetorpsvägen 8
+- Staffanstorp					X
+   Meteorvägen
+- Malmö TruckDiesel (1)				-*
+   Terminalgatan Frihamnen
+- Malmö TruckDiesel (2)				X
+   Blidögatan 25
+- Malmö Spillepengen				X
+   Blidögatan 42
+- Malmö 1-2-3 Lundavägen			X
+   Lundavägen 94
+- Malmö Caroli City				X
+   Rundelsgatan 21
+- Malmö-Midhem					X
+   Lundavägen 24
+- Malmö TruckDiesel (3)				X
+   Skogholmsgatan 1A
+- Malmö 1-2-3 Lorensborgsgatan			X
+   Lorensborgsgatan 2x
+- Malmö Bellevue				X
+   Bellevuevägen 52
+- Malmö Ystadsvägen				X
+   Silverviksgatan 1
+- Malmö Almgården				X
+   Derbyvägen 2
+- Malmö 1-2-3 Jägersro				X
+   Jägersrovägen 160
+- 1-2-3 Bunkeflostrand				X
+   Klaghamnsvägen
+- Malmö 1-2-3 Vintrie				X
+   Ollebovägen 4
+- Vellinge					-
+   Falsterbovägen 9
+- 1-2-3 Skanör					X
+   Falsterbovägen
+- Trelleborg TruckDiesel (1)			X
+   Genvägen 10
+- 1-2-3 Trelleborg				X
+   Strandridaregatan xx
+- Trelleborg TruckDiesel (2)			X
+   Strandridaregatan
+- Trelleborg Hesekillegatan			X
+   Hesekillegatan 3
+- Svedala					X
+   Företagsgatan 19
+- 1-2-3 Skurup					-
+   Femkorset
+- Ystad Malmörondellen				X
+   Granatvägen 4
+- Ystad Kristianstadsvägen 			X
+- Ystad TruckDiesel				X
+   Dragongatan
+
+f.d. Kristianstads län:
+- Båstad					X
+   Köpmansgatan 34
+- Förslöv					X
+   Grvievägen 48
+- Ängelholm					X
+   Klippanvägen 12
+- 1-2-3 Munka-Ljungby				X
+   S:a Järnvägsgatan xx
+- Örkelljunga TruckDiesel
+   Industrigatan
+- Örkelljunga Skåneporten E4			X
+- 1-2-3 Åstorp					X
+   Ormanstorpsgatan 49
+- Mölletorp TruckDiesel
+   Stidsvig/Lisåkravägen
+- 1-2-3 Klippan					X
+   Vebyvägen 35
+- Perstorp TruckDiesel
+   Arons Väg
+- 1-2-3 Perstorp				X
+   Stockholmsvägen 2
+- Osby, Rastplats				X
+   Marklunda 2330
+- 1-2-3 Lönsboda				X
+   Loshultsvägen 9
+- Hässleholm 1-2-3 Esplanadgatan		X	
+   Esplanadgatan 4
+- Hässleholm Grönängsplan			X
+- 1-2-3 Hässleholm				-*
+   Borggårdsgatan
+- Hässleholm TruckDiesel
+   Bultvägen
+- 1-2-3 Kristianstad				-
+   Lyckans Höjd
+- Kristianstad					X
+   Ringvägen 22
+- Kristianstad TruckDiesel
+   Annedalsvägen 23
+- 1-2-3 Tollarp					-
+   Kungsvägen 62
+- Åhus TruckDiesel
+   Fregattvägen 1
+- 1-2-3 Åhus					X
+   Nordanvägen 4
+- 1-2-3 Tomelilla				X
+   Kärngatan 2
+- Simrishamn					-
+   Fabriksgatan 21
+
+
+Blekinge län
+=============
+
+- 1-2-3 Olofström				-
+   S. Kyrkhultsvägen 4
+- Sölvesborg Ö. Storgatan			-
+   Ö. Storgatan 37
+- Sölvesborg TruckDiesel			-
+   Lörbyvägen 423
+- 1-2-3 Norjeby					-
+   Karlshamnsvägen 5x
+- Karlshamn TruckDiesel (1)			-
+   Södra Stillerydsvägen
+- Karlshamn Jannebergsvägen			-
+   Jannebergsvägen 2
+- Karlshamn TruckDiesel (2)			-
+   Knutbergsvägen 1
+- 1-2-3 Karlshamn				-
+   Idrottsvägen 1
+- Ronneby TruckDiesel				-
+   Telegatan 3
+- 1-2-3 Kallinge				-
+   Ronnebyvägen 57
+- 1-2-3 Ronneby					-
+   Övre Brunnsvägen
+- Karlskrona					-
+   Karlskrona Angöring
+- TruckDiesel Karlskrona			-*
+   Gullbernavöägen 19
+
+
+Hallands län
+=============
+
+- Varberg-Nord					X
+   Gunnestorpsvägen
+- Varberg Lassabacka				X
+- Varberg TruckDiesel				-
+   Cylindervägen 12
+- Varberg Håsten				X
+   Håstens Torg 1
+- 1-2-3 Tvååker					-
+   Fastarpsvägen 20
+- 1-2-3 Vessigebro				X
+   Brogatan 33
+- 1-2-3 Hyltebruk				-
+   G:a Nissastigen 38
+- Gamla E6 Falkenberg				X
+   Oktanvägen 1
+- Falkenberg TruckDiesel			-
+   Åkarevägen 2
+- Falkenberg Södra Infarten E6			X
+- Getinge					X
+   Ekebergsvägen 35
+- Halmstad Järnvägsleden			X
+   Söndrumsvägen 25
+- Halmstad Senarp				X
+   Växjövägen 70
+- Halmstad TruckDiesel				-
+   Verkstadsgatan 6
+- Halmstad Eurostop				-
+   Prästvägen 1
+- Snapparp Västra				-
+- Snapparp Östra				-
+
+
+Kronobergs län
+===============
+
+Västra delen:
+- Lagans Motell					-
+   Laganvägen 2
+- Ljungby Kånnavägen				X
+   Kånnavägen 18
+- Ljungby TruckDiesel				-
+   Kungsgatan 66
+- Ljunby					X
+   Ringvägen 1
+
+Östra delen:
+- 1-2-3 Lammhult				X
+   Jönköpingsvägen 14
+- 1-2-3 Alvesta					X
+   Ågatan 1
+- Växjö TruckDiesel (1)				-
+   Bävervägen 10
+- Växjö TruckDiesel (2)				-
+   Hjalmar Petris Väg 45
+- Växjö Evedal					X
+   Evedalsvägen
+- Växjö Hejaregatan				X
+   Hejaregatan 17
+- Växjö Teleborg				X
+   Södra Vallviksvägen
+- 1-2-3 Lenhovda				X
+   Växjövägen 1
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Västervik TruckDiesel				-*
+   Traktorsvägen
+- 1-2-3 Västervik				X
+   Allén 54
+- Vimmerby					X
+   Storgatan 2
+- Vimmerby TruckDiesel				-
+   Älåkragatan
+- Hultsfred TruckDiesel				-*
+   Transportgatan
+- 1-2-3 Målilla					X
+   Linköpingsvägen
+- Oskarshamn					X
+   Åsavägen
+- 1-2-3 Oskarshamn				-
+   Södra Fabriksgatan
+
+Södra delen:
+- 1-2-3 Högsby					-
+   Kyrkogatan
+- Mönsterås					X
+   Älgerumsvägen 35
+- Nybro TruckDiesel (1)				-
+   Madesjövägen 13
+- Nybro						-*
+   Lilla Vägen 1
+- Nybro TruckDiesel (2)				-
+   Tegelvägen
+- 1-2-3 Kalmar					X
+   Burgundvägen
+- Kalmar Dragonvägen				-
+   Dragonvägen 7
+- TruckDiesel Kalmar				-
+   Tjuvbackevägen 7
+
+Öland:
+- 1-2-3 Borgholm				X
+   Storgatan 45
+- Färjestaden					-
+   Hamnen
+
+
+Jönköpings län
+===============
+
+Norra delen:
+- 1-2-3 Mullsjö					X
+   Tidaholmsvägen 1
+- 1-2-3 Ljunga Motell				X
+- 1-2-3 Väst Göte				-
+   Fiskebäck
+- 1-2-3 Bankeryd				X
+   Kortebovägen 6
+- Gränna Galgen (Trp 104)			-
+- Tranås					X
+   Mjölbyvägen 1
+- Tranås TruckDiesel				-
+   Koppargatan 2
+- Västra Jära					-
+- Kortebovägen					X
+- 1-2-3 Jönköping				-
+   Odengatan
+- Österängen					X
+- Jönköping TruckDiesel (1)			-
+   Solåsvägen 5
+- Jönköping Eurostop				-
+   Ryhovsgatan 2
+- Jönköping TruckDiesel (2)			-*
+   Skruvgatan
+- Jönköping TruckDiesel (3)			-*
+   Verktygsgatan
+- 1-2-3 Taberg					-
+   Bergslagsvägen 7
+- Jönköping TruckDiesel (4)			-*
+   Byråvägen
+- Jönköping TruckDiesel (5)			-*
+   Lampvägen 2
+- Hyltena					X
+
+Västra delen:
+- Skillingaryd					-
+   S. Vägen
+- TruckDiesel Gisslaved				-*
+   Baldersvägen 45
+- Smålandsstenar TruckDiesel			-
+   Östra Järnvägsgatan
+- 1-2-3 Skeppshult				X
+   Nissastigen 7
+- Värnamo					X
+   Växjövägen 8
+
+Östra delen:
+- Nässjö TruckDiesel (1)			-*
+   Terminalgatan
+- Nässjö TruckDiesel (2)			-
+   Gjutaregatan
+- 1-2-3 Nässjö					-*
+   Bandygatan 5
+- Nässjö Brånavägen				X
+   Brånavägen 1
+- Vrigstad					X
+   Jönköpingsvägen 6x
+- Vetlanda					X
+   Storgatan 51
+- Vetlanda TruckDiesel				-*
+   Brogårdsgatan 22
+
+
+Västra Götalands län
+=====================
+
+Inre Göteborgsområdet:
+- TruckDiesel HisingsBacka (1)			-*
+   Transportgatan
+- TruckDiesel HisingsBacka (2)			-*
+   Transportgatan 7
+- Backadal					-
+   Bäckebolsvägen
+- TruckDiesel Göteborg (1)			-*
+   Oljevägen/Arendalsvägen
+- 1-2-3 Länsmansgården				X
+   Stackmolnsgatan 2x
+- Hjalmar Brantingsgatan			X
+- 1-2-3 Backaplan				-
+   S. Deltavägen
+- Tingstad					X
+   Tingstadsmotet
+- Eriksberg					X
+   Säterigatan
+- Hjällbo					X
+   Hjällbovägen 1
+- TruckDiesel Göteborg (2)			-
+   Bassänggatan 5
+- 1-2-3 Kviberg					X
+- Munkebäck					X
+   Munkebäcksmotet
+- Sävedalen					X
+   Göteborgsvägen 100
+- Gasklockan					X
+   Partihandelsgatan
+- TruckDiesel Göteborg (3)			-*
+   Gullbergsvassgatan
+- Olskroken					X
+   Lilla Olskroksgatan
+- Gårda						X
+   Ullevimotet/Gårda
+- Marklandsgatan				X
+   Marklandsgatan 2
+- 1-2-3 Traneredsvägen				X
+   Traneredsvägen 119
+- Marconimotet					X
+   A. Ohdners Gata 2
+- Frölunda Torg					X
+   Näsetvägen 1
+- 1-2-3 Åkeredsvägen				X
+   Åkeredsvägen 1
+- Askim						X
+   Askims stationsväg
+- Lackarebäck					X
+   Göteborgsvägen
+- Söderleden					X
+   Jolengatan 1
+- Mölndal Nedanvägsgatan			X
+
+
+Yttre Göteborgsområdet:
+- Kållekärr					X
+- 1-2-3 Häggvall				X
+- Stenungsund Tjörnbron				-
+   Göteborgsvägen 26
+- Spekeröd E6					X
+   Stora Högamotet
+- Stora Höga					X
+- Kode						X
+   Jörlandavägen 2
+- Älvängen					X
+   Göteborgsvägen 92
+- Kungälv TruckDiesel				-
+   Rollsbovägen 46
+- Kungälv					X
+   Teknikergatan 1
+- Lerum						X
+   Almekärrsvägen
+- Floda						X
+   Flodamotet E20
+- Mölnlycke					X
+   Rörsvägen 1
+- 1-2-3 Landvetter Flygplats			-
+- 1-2-3 Hällingsjö				-
+   Källarbacken
+- Kungsmässan					X
+- Kungsbacka					X
+   Varbergsvägen
+- Onsala					X
+   Mariedal 975
+
+Sjuhärad:
+- 1-2-3 Fristad					X
+   Rv42
+- Bollebygd					X
+   Kappared
+- TruckDiesel Borås				-*
+   Viaredsvägen 6
+- Borås Kasernvägen				X
+- Borås Hulta					X
+   Hultasjögatan 2
+- Borås Hedvigsborg				X
+   Von Lingens Väg 3
+- 1-2-3 Kinna					X
+   Boråsvägen 54
+- Skene TruckDiesel				-
+   Varbergsvägen 86
+- 1-2-3 Horred					X
+   Varbergsvägen 410
+
+Mellersta Västergötland:
+- 1-2-3 Vänersborg				X
+   Djupedalsvägen 1
+- 1-2-3 Trollhättan				X
+   Tunhemsvägen 38
+- Trollhättan Lasarettet			X
+   Lasarettsvägen
+- 1-2-3 Grästorp				X
+   Södergatan 37
+- 1-2-3 Lödöse E45				X
+- Vårgårda					X
+   Stockholmsvägen 1x
+- 1-2-3 Hol E20					-
+- TruckDiesel Alingsås				-*
+   Hol E20
+- Alingsås Vänersborgsvägen			X
+- Alingsås Kristineholm				X
+   Kristineholmsvägen
+
+Bohuslän:
+- Strömstad TruckDiesel (1)			-*
+   Sältegatan
+- Strömstad					-
+   Olsovägen 42
+- 1-2-3 Skee					-
+   Stationsvägen 26
+- Strömstad TruckDiesel (2)			-*
+   Överby E6
+- Knäm E6					X
+- Tanumshede TruckDiesel			-
+   Storemyrsvägen 13
+- 1-2-3 Brastad					X
+   Hallindenvägen 16
+- Lysekil TruckDiesel
+   Kontorsvägen 3
+- Hogstorp E6					-
+- Hogstorp TruckDiesel				-*
+- 1-2-3 Rotviksbro				X
+- Uddevalla 1-2-3 Helenedalsvägen		X
+- Uddevalla 1-2-3 Bastiongatan			X
+   Bastiongatan 1
+- Uddevalla TruckDiesel				-
+   Björbäcksvägen 6
+- Uddevalla 1-2-3 ICA Kvantum			X
+   Göteborgsvägen 18
+- Henån						X*
+   Stranvägen 4
+- 1-2-3 Varekil					X
+   Korsvägen 1
+
+Dalsland:
+- 1-2-3 Bengtsfors				X
+   Strömgatan 17
+- 1-2-3 Åmål					X
+   Karlstadsvägen 18x
+- TruckDiesel Åmål				-
+   Fågelmyrsgatan 2x
+- TruckDiesel Billingsfors			-*
+   Korsbyn
+- Åmål Tösse					X
+   Tösse 68
+- TruckDiesel Ed				-*
+   Industrigatan
+- 1-2-3 Bäckefors				X
+   Uddevallavägen 6
+- 1-2-3 Högsäter				X
+   Rv172
+- 1-2-3 Frändefors				X
+   E45
+
+Skaraborg:
+- 1-2-3 Gullspång				-
+   Mogatan 1
+- 1-2-3 Hova, E20				X
+- TruckDiesel Hova				-*
+   Örebrovägen 3
+- Mariestad Göteborgsvägen			X
+   Göteborgsvägen 6
+- Mariestad TruckDiesel				-
+   Förrådsgatan 43
+- Mariestad Ulriksdal				-
+- 1-2-3 Töreboda				-
+   Kungsgatan 1
+- Lidköping					X
+   Wennerbergsvägen
+- Götene TruckDiesel				-*
+   Kinnekullevägen
+- Skara TruckDiesel				-*
+   Kampetorpsgatan 1
+- 1-2-3 Skara					-
+   Smedstorpsgatan
+- Skara						X
+   Skaraborgsgatan 39
+- Skövde Rydsrondellen				X
+   Handelsvägen 2
+- Skövde Hallenbergsrondellen			X
+   Varnhemsgatan 14
+- 1-2-3 Tibro					-
+   Storgatan 37
+- 1-2-3 Hjo					X
+   Falköpingsvägen 41
+- 1-2-3 Vara Kungsgatan				X
+   Kungsgatan 35
+- TruckDiesel Vara				-*
+   Heljevedsvägen 4
+- 1-2-3 Vara E20				-
+   Naum
+- Falköping Hotellplan				X
+- Falköping TruckDiesel				-
+   Österängsgatan 4
+- Tidaholm Nya Torget				
+
+
+Östergötlands län
+==================
+
+Västra delen:
+- 1-2-3 Maxi Motala
+   Bråstorp, Hökaretorp
+- 1-2-3 Motala
+   Lustigkullevägen 2x
+- TruckDiesel Motala
+   Vintergatan 15
+- 1-2-3 Vadstena
+   Motalagatan 26
+- Mjölby TruckDiesel (1)
+   Linköpingsvägen 4x
+- 1-2-3 Mjölby
+   Skänningevägen
+- Mjölby TruckDiesel (2)
+   Transformatorgatan
+- Mantorp
+   Motalagatan 26
+
+Södra delen:
+- TruckDiesel Boxholm
+   Väderstad Svängen
+- 1-2-3 Rimforsa
+   Ulrikavägen 1
+- 1-2-3 Kisa
+   Östgötagatan 2
+
+Östra delen:
+- Finspång
+   Norrköpingsutfarten
+- Norrköping TruckDiesel (1)
+   Zinkgatan 10
+- Norrköping Ingelsta
+   Järngatan 15
+- Norrköping TruckDiesel (2)
+   Blygatan 25
+- Norrköping 1-2-3 De Geersgatan
+   De Geersgatan 97
+- Norrköping Karusellen
+   Stockholmsvägen 7x
+- Norrköping TruckDiesel (3)
+   Kommendantvägen
+- Norrköping Norra Promenaden
+- Norrköping Gamla Övägen
+- Norrköping Fjärilsgatan
+   Fjärilsgatan 23
+- 1-2-3 Hageby Centrum
+- Söderköping
+   Ågatan / Riksvägen
+- 1-2-3 Valdemarsvik
+   Storgatan / Riksvägen
+
+
+Gotlands län
+=============
+
+- 1-2-3 Fårösund
+   Fårövägen 27
+- Visby Broväg
+   Broväg 12
+- Visby Söderväg
+   Stenkumlavägen 2x
+- 1-2-3 Visby Färjeleden
+- 1-2-3 Romakloster
+   Visbyvägen 39
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+- 1-2-3 Morokulien
+- Charlottenberg
+   Charlottenbergsvägen
+- Arvika Palmviksgatan
+   Palmviksgatan 7
+- 1-2-3 Mötterudsvägen
+   Mötterudsvägen
+- TruckDiesel Årjäng
+   Smedgatan 4
+- Årjäng
+   Snickargatan 2a
+- 1-2-3 Säffle
+   Karlstadsvägen 3
+
+Karlstadområdet:
+- 1-2-3 Kil
+   Storgatan 19
+- Karlstad V:a Infarten
+   Traktorgatan 1
+- 1-2-3 Borgmästarh..
+   Sandbäcksgatan 6x
+- Karlstad Sundstavägen
+   Sävegatan 2
+- Karlstad TruckDiesel (1)
+   Brisgatan 4
+- Karlstad TruckDiesel (2)
+   Lovartsgatan 9
+
+Norra och Centrala:
+- 1-2-3 Vägsjöfors
+- 1-2-3 Ekshärad
+   Klarälvsgatan 8a
+- Hagfors TruckDiesel
+   Uddeholmsvägen 6x
+- TruckDiesel Sunne
+   E45/Norrgårdsgatan
+- 1-2-3 Sunne
+   Ekebyvägen 6
+- TruckDiesel Munkfors
+   Industrivägen 41
+- 1-2-3 Munkfors
+   Munkerudsnäset
+
+Östra Värmland:
+- (Filipstad) Lasarettsgatan
+   Lasarettsgatan 1
+- 1-2-3 Ölme
+- (Kristinehamn) Stationsgatan
+   Stationsgatan 13
+- TruckDiesel Kristinehamn
+   Båjortsgatan
+
+
+Örebro län
+===========
+
+Värmland/Västernärke:
+- TruckDiesel Karlskoga
+   Maskinvägen 1
+- Karlskoga
+   Filipstadsvägen 1
+- 1-2-3 Degerfors
+   Agens Torg/Karlskogavägen
+- 1-2-3 Laxå
+   Midsommarberget
+- 1-2-3 Askersund
+   Parkgatan 3
+
+Östernärke:
+- Örebro Eurostop
+   Boglundsgatan 2
+- (Örebro) Dalbygatan
+   Dalbygatan 2/Sva...
+- Örebro-Västhaga
+   Västhagagatan 1a
+- Örebro TruckDiesel (1)
+   Västhagagatan 5
+- (Örebro) Österplan
+- (Örebro) Almbyplan
+   Hjälmarvägen 2
+- Örebro TruckDiesel (2)
+   Pilkullagatan 2
+- (Örebro) Marieberg
+   Mariebergs Centrum
+- (Kumla) Drottninggatan
+   Östra Drottninggatan
+- Sköllersta
+   Kävesta
+- Brändåsen
+- 1-2-3 Hallsberg
+   Långgatan 50
+
+Västra Västmanland:
+- Hällefors
+   Sikforsvägen 58
+- 1-2-3 Grythyttan
+   Hälleforsvägen
+- 1-2-3 Guldsmedshyttan
+   Solvägen 4
+- Lindesberg
+   Kristinavägen 4
+- Nora
+   Hagavägen 2
+
+
+Södermanlands län
+===================
+
+Norra delen:
+- Eskilstuna Västerleden
+   Västerleden 38
+- TruckDiesel Eskilstuna
+   Mått Johanssons Väg
+- Eskilstuna Tunavallen
+   Västeråsvägen 18
+- Eskilstuna Vasavägen
+   Vasavägen 1
+- Strängnäs
+   Eskilstunavägen 35
+- Biskopskvarn
+   E20/Rv 55
+- 1-2-3 Åkers Styckebruk
+   Bruksvägen 1
+- Mariefred
+   Storgatan 18
+
+Mellersta delen:
+- 1-2-3 Vingåker
+   Vannalavägen 16
+- Katrineholm Vingåkersvägen
+   Vingåkersvägen 16
+- Katrineholm 1-2-3 Vasavägen
+   Vasavägen 6
+- Flen
+   Kungsvägen 10
+- 1-2-3 Malmköping
+   Landsvägsgatan
+- Gnesta
+   Ö. Storgatan 71
+
+Södra delen:
+- Stavsjö
+   Trafikplats Stavsjö
+- 1-2-3 Nyköping
+   Oppenby C
+- Nyköping Norrköpingsvägen
+   Norrköpingsvägen 2x
+- Nyköping Östra Rundgatan
+   Östra Rundgatan 2x
+- 1-2-3 Oxelösund
+   Torggatan
+- 1-2-3 Trosa
+   Bråtagatan 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statoil Lomma
+==============
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Anders Nilsson
+Adress:
+Bronsgatan 5/prästbergarondellen
+23435 Lomma
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        07.00-24.00
+Sön       07.00-24.00
+Tel.: 040-413002 
+
+
+Statoil Arlöv
+==============
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Peter Jönsson
+Adress:
+Kronetorpsvägen 8
+23237 Arlöv
+	
+Öppettider:
+Mån-Fre 06.15-21.00
+Lör        08.00-21.00
+Sön       09.00-21.00
+Tel.: 040433730 
+
+Statoil Malmö Spillepengen
+===========================
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Andreas Karlsson
+Adress:
+Blidögatan 42
+21124 Malmö
+	
+Öppettider:
+Alltid öppen
+Tel.: 040187801
+
+Statoil TruckDiesel Malmö
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Blidögatan 25
+21124 Malmö
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+1-2-3 Vintrie
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Ollebovägen 4
+21845 Vintrie
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Vellinge
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Kenneth Rubin
+Adress:
+Falsterbovägen 9
+23535 Vellinge
+	
+Öppettider:
+Mån-Fre 07.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 040420570
+
+1-2-3 Skanör
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Falsterbovägen
+23933 Skanör
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil TruckDiesel Trelleborg
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Genvägen 10
+23121 Trelleborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+1-2-3 Trelleborg
+Bensin 95 Diesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Strandridaregatan 12
+23161 Trelleborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil TruckDiesel Trelleborg
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Strandridaregatan
+23102 Trelleborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+Statoil Trelleborg Hesekillegatan
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Helén Wickström
+Adress:
+Hesekillegatan 3
+23153 Trelleborg
+	
+Öppettider:
+Mån-Fre 05.00-24.00
+Lör        07.00-24.00
+Sön       07.00-24.00
+Tel.: 041010212
+
+Statoil Svedala
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Göran Bengtsson
+Adress:
+Företagsgatan 19
+23351 Svedala
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        07.00-24.00
+Sön       08.00-24.00
+Tel.: 040401843
+
+Statoil Staffanstorp
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Björn Ohlsson
+Adress:
+Meteorvägen
+24534 Staffanstorp
+	
+Öppettider:
+Alltid öppen
+Tel.: 046-256300
+
+Statoil Lund Södra
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Peter Andersson
+Adress:
+Malmövägen 91
+22270 Lund
+	
+Öppettider:
+Alltid öppen
+Tel.: 046-399010
+
+Statoil Magistratsvägen
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Annika Raneheim Persson
+Adress:
+Magistratsvägen 2
+22643 Lund
+	
+Öppettider:
+Alltid öppen
+Tel.: 046131301
+
+1-2-3 Skurup
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Femkorset
+27431 Skurup
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Ystad Malmörondellen
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Peter Lindberg
+Adress:
+Granatvägen 4
+27153 Ystad
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 041172760
+
+Statoil Ystad Kristianstadsvägen
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Joachim Andersson
+Adress:
+Kristianstadsvägen
+27133 Ystad
+	
+Öppettider:
+Mån-Fre 06.00-22.00
+Lör        07.30-22.00
+Sön       07.30-22.00
+Tel.: 041113320
+
+Statoil Landskrona
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Andreas Karlsson
+Adress:
+Pumpgatan 5
+26135 Landskrona
+	
+Öppettider:
+Alltid öppen
+Tel.: 041810711
+
+Statoil Eslöv
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Johan Anderberg
+Adress:
+Vikhemsvägen 1
+24138 Eslöv
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        07.00-24.00
+Sön       07.00-24.00
+Tel.: 041360102
+
+1-2-3 Ekeby
+Bensin 95 Diesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Storgatan 62
+26051 Ekeby
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Höör
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Peter & Carina Carlsson
+Adress:
+Ringsjövägen
+24330 Höör
+	
+Öppettider:
+Mån-Fre 07.00-22.00
+Lör        07.00-22.00
+Sön       07.00-22.00
+Tel.: 041321133
+
+1-2-3 Hörby
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Kristianstadsvägen 42
+24234 Hörby
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Tollarp
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Kungsvägen 62
+29010 Tollarp
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Ramlösa
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Johan Örliden
+Adress:
+La Coursgatan
+25231 Helsingborg
+	
+Öppettider:
+Mån-Fre 05.30-24.00
+Lör        06.00-24.00
+Sön       06.00-24.00
+Tel.: 042271612
+
+Statoil Helsingborg Ättekulla
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Martina Tinnert
+Adress:
+Rusthållsgatan 51
+25361 Helsingborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 042294904
+
+Statoil Ängelholmsvägen
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Martina Tinnert
+Adress:
+Grenadjärgatan 19
+25453 Helsingborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 042144868
+
+Statoil Bergarondellen
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Peter Kennedy
+Adress:
+Garnisonsgatan 2
+25466 Helsingborg
+	
+Öppettider:
+Mån-Fre 05.30-24.00
+Lör        06.30-24.00
+Sön       07.00-24.00
+Tel.: 042151080
+
+Statoil Berga Center
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Inge Eriksson
+Adress:
+Florettgatan 43
+25467 Helsingborg
+	
+Öppettider:
+Mån-Fre 06.30-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 042155315
+
+Statoil Bjuv
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Magnus Meiby
+Adress:
+Mellersta Vägen
+26737 Bjuv
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 04281120
+
+Statoil Hässleholm Grönängsplan
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Thomas Hermansson
+Adress:
+Grönängsplan
+28149 Hässleholm
+	
+Öppettider:
+Mån-Fre 06.30-24.00
+Lör        07.00-24.00
+Sön       08.00-24.00
+Tel.: 0451-12410
+
+Statoil Kristianstad
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Johnny Björnsson
+Adress:
+Ringvägen 22
+29154 Kristianstad
+	
+Öppettider:
+Alltid öppen
+Tel.: 044127112
+
+1-2-3 Viken
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Karlfältsvägen 1
+26040 Viken
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Åstorp
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Ormastorpsgatan 49
+26536 Åstorp
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Klippan
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Vedbyvägen 35
+26435 Klippan
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Perstorp
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Stockholmsvägen 2
+28431 Perstorp
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Hässleholm
+Bensin 95 Bensin 98
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Borggårdsgatan
+28133 Hässleholm
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Esplanadgatan
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Esplanadgatan 4
+28138 Hässleholm
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Höganäs
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Torbjörn Larsson
+Adress:
+Triangelplatsen
+26331 Höganäs
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 042342898
+
+Statoil Ängelholm
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Ted Olausson
+Adress:
+Klippanvägen 12
+26233 Ängelholm
+	
+Öppettider:
+Alltid öppen
+Tel.: 0431411707
+
+Statoil Örkelljunga Skåneporten
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Lars-Inge Stigsson & Ronny Stigsson
+Adress:
+E4
+28638 Örkelljunga
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        07.00-24.00
+Sön       07.00-24.00
+Tel.: 0435-51441
+
+Statoil Förslöv
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Thomas Andersson
+Adress:
+Grevievägen 48
+26091 Förslöv
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        07.00-24.00
+Sön       07.00-24.00
+Tel.: 0431458100
+
+Statoil Båstad
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Mats Persson
+Adress:
+Köpmansgatan 34
+26901 Båstad
+	
+Öppettider:
+Mån-Fre 07.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 043170327
+
+Statoil Osby
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+lars arvidsson
+Adress:
+Marklunda 2330
+28391 Osby
+	
+Öppettider:
+Mån-Fre 06.30-22.00
+Lör        08.00-22.00
+Sön       08.00-22.00
+Tel.: 047916065
+
+1-2-3 Munka Ljungby
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+S:a Järnsvägsgatan 3
+26632 Munka-Ljungby
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+1-2-3 Lönsboda
+Bensin 95 Diesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Loshultsvägen 9
+28070 Lönsboda
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil TruckDiesel Ystad
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Dragongatan
+27144 Ystad
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+Statoil TruckDiesel Landskrona
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Varvsvägen 125
+26135 Landskrona
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+Statoil TruckDiesel Helsingborg
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Bunkagårdsgatan 14
+25368 Helsingborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+Statoil TruckDiesel Helsingborg
+TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Bunkagårdsgatan 8
+25368 Helsingborg
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-320325
+
+Jönköpings län
+===============
+
+Östra delen av länet:
+
+Statoil Brånavägen
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Pierre Hylén
+Adress:
+Brånavägen 1
+57138 Nässjö
+	
+Öppettider:
+Alltid öppen
+Tel.: 038015875 
+
+1-2-3 Nässjö
+Bensin 95 Bensin 98
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Bandygatan 5
+57131 Nässjö
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Vrigstad
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Tommy Gunnarsson
+Adress:
+Jönköpingsvägen 6
+57003 Vrigstad
+	
+Öppettider:
+Mån-Fre 07.00-24.00
+Lör        08.00-24.00
+Sön       09.00-24.00
+Tel.: 038230029
+
+Statoil Vetlanda
+Bensin 95 Bensin 98 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Leif Christiansson
+Adress:
+Storgatan 51
+57431 Vetlanda
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 038310380
+
+Kalmar län
+===========
+
+Norra delen av länet:
+
+1-2-3 Målilla
+Bensin 95 Diesel Etanol E85
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Linköpingsvägen
+57082 Målilla
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123
+
+Statoil Oskarshamn
+Bensin 95 Bensin 98 Diesel Etanol E85 TruckDiesel
+Välkommen till oss 
+Stationsföreståndare:
+Petra Learmont
+Adress:
+Åsavägen
+57236 Oskarshamn
+	
+Öppettider:
+Mån-Fre 06.00-24.00
+Lör        08.00-24.00
+Sön       08.00-24.00
+Tel.: 049113100 
+
+1-2-3 Oskarshamn
+Bensin 95 Diesel
+Välkommen till oss 
+Stationsföreståndare:
+Adress:
+Södra Fabriksgatan
+57231 Oskarshamn
+	
+Öppettider:
+Alltid öppen
+Tel.: 020-333123 
+

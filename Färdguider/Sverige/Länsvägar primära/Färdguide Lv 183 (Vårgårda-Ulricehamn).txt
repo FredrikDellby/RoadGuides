@@ -1,0 +1,75 @@
+Korsning Stenatorp
+ 42 s: Borås, Fristad
+ 42 n: Trollhättan, Vårgårda
+ Siene
+					2.8 km/3.0 km	2 min 24 s/2 min 34 s
+Dubbel T-korsning
+ Ljur-Halla
+ Landa, Kvinnestad
+					3.7 km/3.5 km	3 min 10 s/3 min 0 s
+T-korsning Västergården
+ Kvinnestad
+					1.4 km/1.4 km	1 min 12 s/1 min 12 s
+Korsning Galstad
+ Ornunga
+					2.1 km/2.1 km	1 min 48 s/1 min 48 s
+Vårgårda / Herrljunga
+					3.0 km/3.0 km	2 min 34 s/2 min 34 s
+T-korsning
+ 183 s: Borås, Borgstena
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Grude
+ 183 n: Herrljunga
+					2.0 km/2.0 km	1 min 43 s/1 min 43 s
+Järnvägskorsning
+					1.0 km/1.0 km	1 min 12 s/1 min 12 s
+T-korsning Ljung östra
+ Molla
+					1.2 km/1.3 km	1 min 26 s/1 min 34 s
+Tankställe Annelund
+Korsning Mörlanda affär
+ Herrljunga, Hudene
+ Borgstena, Vesene
+					0.4 km/0.3 km	29 s/22 s
+T-korsning TA Östra
+ Floby, Skölvene
+					1.0 km/1.0 km	45 s/45 s
+Korsning Örekulla
+ Molla
+ Hov
+					1.0 km/1.0 km	45 s/45 s
+T-korsning Uddby
+ Skölvene, Säm
+					5.3 km/5.5 km	3 min 59 s/4 min 8 s
+T-korsning Holmen
+ Alboga
+Korsning Holmen
+ Borgstena, Od
+					1.5 km/1.3 km	1 min 8 s/0 min 59 s
+Korsning Upptorp
+ Borgstena, Od
+ Alboga
+					1.5 km/1.5 km	1 min 8 s/1 min 8 s
+Korsning Holmåkra
+ Fänneslunda
+					0.8 km/0.8 km	36 s/36 s
+Herrljunga / Ulricehamn
+					3.6 km/3.6 km	3 min 5 s/3 min 5 s
+Korsning Murum
+ --
+ Öra, Murum
+					3.5 km/3.5 km	3 min 0 s/3 min 0 s
+Korsning Hällstad
+ Hökerum, Hällstad
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Älmestad
+ Möne, Älmestad
+					4.3 km/4.3 km	3 min 41 s/3 min 41 s
+T-korsning Vång
+ Dalum
+					2.7 km/2.8 km	2 min 19 s/2 min 24 s
+T-korsning Timmele affär
+ Hökerum
+T-korsning Timmele
+ 46 s: Ulricehamn
+ 46 n: Skövde, Falköping

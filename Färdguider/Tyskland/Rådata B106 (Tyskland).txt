@@ -1,0 +1,40 @@
+Time	Km	Instruction	For	Toward
+Summary:  14,8 kilometres (14 minutes)
+09:00	0,0	Depart B106, 19069 Klein Trebbow on B106 (West)	3,2 km	
+09:02	3,2	At B106, 19057 Schwerin, stay on B106 (West)	2,4 km	A24 / B104 / Lübeck / Gadebusch / Ludwigslust
+09:04	5,6	At B106, 19057 Schwerin, stay on B106 (South)	2,8 km	
+09:07	8,4	At B106, 19057 Schwerin, stay on B106 (South)	2,2 km	B106 / A24 / Ludwigslust / Görries / Zoo
+09:09	10,6	At B106, 19061 Schwerin, stay on B106 (South)	0,5 km	B106 / Ludwigslust / Parchim / Hagenow
+09:10	11,2	At B106, 19061 Schwerin, stay on B106 (South-East)	0,5 km	
+09:10	11,7	At near Krebsförden, stay on B106 (South-East)	0,9 km	
+09:11	12,6	At B106, 19061 Schwerin, stay on B106 (South)	0,4 km	B106 / Ludwigslust / Parchim / Hagenow
+09:12	13,0	At B106, 19061 Schwerin, keep STRAIGHT to stay on B106	0,8 km	B106 / A24 / B321 / Berlin / Ludwigslust / Parchim / GR. Dreesch
+09:13	13,8	At near Krebsförden, stay on B106 [B321] (East)	1,0 km	
+09:14	14,8	Arrive B106, 19061 Schwerin		
+
+SUMMARY
+Driving distance:  14,8 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  19,65 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,8 kilometres (14 minutes)
+09:00	0,0	Depart Karl-Marx-Allee, 19061 Schwerin on B106 [Ludwigsluster Chaussee] (North)	20 m	
+09:00	0,1	Turn LEFT (West) onto B106 [B321]	0,9 km	
+09:01	0,9	At B106, 19061 Schwerin, stay on B106 [B321] (West)	0,4 km	
+09:01	1,3	At B106, 19061 Schwerin, stay on B106 (West)	0,9 km	B104 / Wismar / Lübeck / Görries
+09:02	2,3	At near Krebsförden, stay on B106 (North)	0,3 km	
+09:02	2,5	At B106, 19061 Schwerin, stay on B106 (North)	0,9 km	
+09:03	3,4	At Schulzenweg 40, 19061 Schwerin, stay on B106 (North-West)	0,7 km	
+09:04	4,1	At B106, 19061 Schwerin, stay on B106 (North)	2,4 km	B104 / Lübeck / Wismar / Lankow
+09:06	6,5	At B106, 19057 Schwerin, stay on B106 (North)	2,6 km	B106 / Wismar / Lübeck / Lankow
+09:09	9,2	At near Sacktannen, stay on B106 (North)	2,4 km	
+09:11	11,5	At near Klein Medewege, stay on B106 (East)	3,3 km	B106 / B104 / Güstrow / Wismar
+09:14	14,8	Arrive An Der Chaussee, 19069 Klein Trebbow		
+
+SUMMARY
+Driving distance:  14,8 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  19,70 kr

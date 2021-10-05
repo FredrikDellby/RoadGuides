@@ -1,0 +1,193 @@
+E4 Jönköping - Helsingborg
+===========================
+
+Etapp 3: Helsingborg - Åstorp (12,0 km/11,6 km)
+
+Trafikplats Kropp (30)
+ Helsingborg N
+ E4-E6-E20 s: Malmö
+ E6-E20 n: Göteborg
+					4,7 km/4,1 km	2 min 34 s/2 min 14 s
+Trafikplats Hyllinge (65)
+ 110: Bjuv
+
+Helsingborg / Åstorp)
+					5,0 km/4,9 km	2 min 44 s/2 min 40 s
+Trafikplats Nyvång (66)
+ Nyvång
+ Åstorp S
+					2,4 km/2,6 km	1 min 19 s/1 min 25 s
+Trafikplats Åstorp (67)
+ Åstorp N
+ 21: Kristianstad, Klippan
+ 112: Höganäs
+
+Etapp 4: Åstorp - Markaryd (58,9 km/58,7 km)
+					6,8 km/6,0 km	3 min 43 s/3 min 16 s
+Åstorp / Klippan
+(Tranarpsbron-syd)
+ Rönne å
+					0,5 km/0,5 km	16 s/16 s
+Tranarpsbron-nord
+					1,8 km/2,5 km	0 min 59 s/1 min 22 s
+Trp Östra Ljungby (68)
+ 13 s: Höör, Klippan
+ 13 n: Ängelholm, Munka-Ljungby
+					3,9 km/3,5 km	2 min 8 s s/1 min 55 s
+Trp Mölletofta (69)
+ Stidsvig
+ Rastplats Mölletofta
+					3,1 km/2,9 km	1 min 41 s/1 min 35 s
+Klippan / Örkelljunga
+					2,8 km/3,5 km	1 min 32 s/1 min 55 s
+Trafikplats Eket (70)
+ Eket
+					2,3 km/2,3 km	1 min 15 s/1 min 15 s
+Trp Ljungaskog (71)
+ Örkelljunga
+					9,4 km/9,5 km	5 min 8 s/5 min 11 s
+Trp Örkelljunga (72)
+ 24 s: Hässleholm
+ [108]: Perstorp
+ 24 n: Laholm, Örkelljunga
+ Rastplats Skåneporten
+					12,2 km/12,2 km	6 min 39 s/6 min 39 s
+Trp Skånes Fagerhult (73)
+ Skånes Fagerhult
+ Rastplats "Sjuttion3:an"
+					6,9 km/6,1 km	3 min 46 s/3 min 20 s
+Skåne / Kronoberg
+Örkelljunga / Markaryd
+ Landskapsröse
+					6,2 km/6,5 km	3 min 23 s/3 min 33 s
+Trp Markaryd Södra (74)
+ Markaryd S, C
+ 117: Hässleholm, Vittsjö
+					2,9 km/3,2 km	1 min 35 s/1 min 45 s
+Trp Markaryd Norra (75)
+ Markaryd N, C
+ 15 v: Halmstad
+ 15 ö: Karlshamn, Osby
+
+Etapp 5: Markaryd - Ljungby (43,3 km/43,3 km)
+					4,3 km/4,0 km	2 min 21 s/2 min 11 s
+Laganbron (363 m)
+					7,9 km/8,1 km	4 min 19 s/4 min 25 s
+Trp Strömsnäs-Traryd (76)
+ Traryd, Strömsnäsbruk
+ 120: Tingsryd, Älmhult
+ Hinneryd
+					7,0 km/6,6 km	3 min 49 s/3 min 36 s
+(Markaryd / Ljungby)
+Rastplats Sjöboda
+(Lagan)
+					1,4 km/1,9 km	0 min 46 s/1 min 2 s
+Trp Hornsborg (77)
+ Traryd
+ [120]: Tingsryd, Älmhult
+					3,5 km/2,9 km	1 min 55 s/1 min 35 s
+Lagan
+					5,7 km/6,2 km	3 min 7 s/3 min 23 s
+Trafikplats Hamneda (78)
+ Hornsborg, Hamneda
+ Nöttja
+					8,4 km/7,8 km	4 min 35 s/4 min 15 s
+Motorväg / Motortrafikled
+					5,2 km/5,8 km	3 min 7 s/3 min 29 s
+Trp Ljungby Södra (79)
+ 25 v: Halmstad
+ Bolmen, Bolmsö
+
+Etapp 6: Ljungby - Värnamo (41,4 km/41,7 km)
+					5,9 km/5,9 km	3 min 32 s/3 min 32 s
+Trp Ljungby Norra (80)
+ Ljungby N, C
+ 25 ö: Kalmar, Växjö
+					7,0 km/6,6 km	3 min 49 s/3 min 36 s
+Trafikplats Lagan (81)
+ Lagan
+ Vittaryd, Bolmsö
+					3,0 km/2,7 km	1 min 38 s/1 min 28 s
+Rastplats Laganrasten
+(Lagan)
+					2,5 km/3,0 km	1 min 22 s/1 min 38 s
+Trafikplats Hallsjö (82)
+ Åby
+ Toftaholm, Dörarp
+					7,6 km/7,1 km	4 min 9 s/3 min 52 s
+Motortrafikled / Motorväg
+					1,3 km/2,2 km	0 min 43 s/1 min 12 s
+Trp Toftaholm (83)
+ Dörarp, Vittaryd
+ Toftaholm, Tånnö
+					1,5 km/0,7 km	49 s/23 s
+Kronoberg / Jönköping
+Ljungby / Värnamo
+					12,6 km/13,6 km	6 min 52 s/8 min 10 s
+Trp Värnamo Södra (84)
+ Värnamo S, C
+ 27 s: Karlskrona, Växjö
+ [153]: Varberg
+ 27 n: Göteborg, Gislaved
+
+Etapp 7: Värnamo - Stigamo (52,6 km/52,8 km)
+					4,1 km/3,8 km	2 min 14 s/2 min 4 s
+Trp Värnamo Norra (85)
+ Värnamo N, C
+ 127: Vetlanda, Sävsjö
+ 151: Hestra
+					6,5 km/5,6 km	3 min 33 s/3 min 3 s
+Rastplats Hörle
+					5,3 km/5,5 km	2 min 53 s/3 min 0 s
+Värnamo / Vaggeryd
+					4,7 km/5,3 km	2 min 34 s/2 min 53 s
+Trp Klevshult (86)
+ Hagshult
+ Hörle, Klevshult
+					7,8 km/7,9 km	4 min 15 s/4 min 19 s
+Trp Skillingaryd Södra (87)
+ Skillingaryd S
+ 152: Bredaryd, Hillerstorp
+ Tofteryd
+					4,2 km/4,2 km	2 min 17 s/2 min 17 s
+Trp Skillingaryd Norra (88)
+ Skillingaryd N, Götaström
+ Rastplats Götaström
+					4,5 km/4,6 km	2 min 27 s/2 min 31 s
+Trp Vaggeryd Södra (89)
+ Vaggeryd S
+ Götafors
+					3,9 km/4,0 km	2 min 8 s/2 min 11 s
+Trp Vaggeryd Norra (90)
+ Vaggeryd N, Byarum
+ Bondstorp
+					7,9 km/8,6 km	4 min 19 s/4 min 41
+Trafikkontrollplats
+					3,7 km/3,3 km	2 min 1 s/1 min 48 s
+Trp Stigamo (91)
+ 30: Ronneby, Växsjö, Vrigstad
+
+Etapp 8: Stigamo - Jönköping (15,1 km/15,0 km)
+					2,2 km/1,1 km	1 min 12 s/0 min 36 s
+Jönköping / Vaggeryd
+					2,6 km/3,3 km	1 min 25 s/1 min 48 s
+Trafikplats Hyltena (92)
+ Lovsjö, Torsvik S
+ Rastplats Hyltena
+ Bensinstation: Statoil
+					2,8 km/2,9 km	1 min 32 s/1 min 35 s
+Trafikplats Torsvik (93)
+ Torsvik N, Barnarp
+ Taberg, Norrahammar
+					6,5 km/6,4 km	3 min 33 s/3 min 26 s
+Trafikplats Råslätt (94)
+ Råslätt, Ljungarum
+					1,0 km/1,4 km	0 min 36 s/1 min 3 s
+Trp Ljungarum (95)
+ E4 n: Stockholm
+ 40 ö: Västervik, Nässjö
+ 40 v: Göteborg, Ulricehamn
+ [26]: Halmstad, Mariestad
+ 47: Trollhättan, Falköping
+ 195: Hjo, Habo
+ Jönköping C, Jordbron

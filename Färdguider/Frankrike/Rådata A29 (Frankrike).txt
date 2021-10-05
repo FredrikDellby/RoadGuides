@@ -1,0 +1,133 @@
+Time	Km	Instruction	For	Toward
+Summary:  27,1 kilometres (15 minutes)
+09:00	0,0	*Toll road* Depart E46, 27210 Beuzeville on A13 [E46] (West)	1,1 km	
+09:00	1,1	*Toll road* Take Local road(s) (RIGHT) onto A29 [E44]	10,6 km	A29 / Le Havre / Honfleur / Pont de Normandie / St Gatien
+09:06	11,7	*Toll road* At 1, keep STRAIGHT to stay on A29 [E44]	3,5 km	
+09:08	15,2	*Toll road* At near Gonneville-sur-Honfleur, stay on A29 [E44] (East)	2,5 km	
+09:09	17,7	*Toll road* At 3, stay on A29 [E44] (North)	0,6 km	
+09:09	18,3	Stay on A29 [E44] (North-East)	4,2 km	
+09:12	22,4	At E44, 76430 Sandouville, stay on A29 [E44] (North)	3,4 km	
+09:14	25,8	At 5, stay on A29 [E44] (North)	1,3 km	A29 / E44 / Le Havre / Amiens / Calais / Car Ferries
+09:15	27,1	Arrive E44, 76700 Rogerville		
+
+SUMMARY
+Driving distance:  27,1 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  31,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,7 kilometres (14 minutes)
+09:00	0,0	Depart E44, 76700 Rogerville on A29 [E44] (West)	2,0 km	A29 / E44 / D1 / Pont de Tancarville / Caen / Le Mans / Z.Ind. Portuaire / Pont de Normandie
+09:01	2,0	At 5, stay on A29 [E44] (South)	3,5 km	A29 / Caen / Le Mans / Pont de Normandie / Honfleur
+09:02	5,4	At E44, 76430 Oudalle, stay on A29 [E44] (South)	4,4 km	A29 / Deauville-Trouville / Caen / Le Mans / Honfleur
+09:05	9,8	*Toll road* At 3, stay on A29 [E44] (South-West)	3,2 km	A29 / Deauville-Trouville / Caen
+09:07	13,0	*Toll road* At 2, stay on A29 [E44] (South-West)	3,5 km	
+09:09	16,5	*Toll road* At E44, 14600 Fourneville, stay on A29 [E44] (South-West)	9,2 km	
+09:14	25,7	Arrive near Quetteville		
+
+SUMMARY
+Driving distance:  25,7 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  29,92 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  82,1 kilometres (43 minutes)
+09:00	0,0	Depart E44, 76700 Rogerville on A29 [E44] (North)	8,3 km	A29 / Rouen-Nord / Dieppe / Amiens / Calais
+09:04	8,3	At 6, stay on A29 [E44] (North)	0,4 km	A29 / E44 / Rouen / Dieppe / Amiens / Calais
+09:04	8,7	*Toll road* *Tollbooth* Stay on A29 [E44] (North)	8,8 km	
+09:09	17,5	*Toll road* At 7, stay on A29 [E44] (East)	9,2 km	A29 / E44 / Rouen / Dieppe / Amiens / Calais
+09:14	26,7	*Toll road* At E44, 76210 Bolleville, stay on A29 [E44] (East)	7,5 km	
+09:17	34,2	*Toll road* At 8, keep STRAIGHT to stay on A29 [E44]	3,5 km	
+09:19	37,7	*Toll road* At E44, 76190 Écretteville-LÈS-Baons, stay on A29 [E44] (East)	5,7 km	
+09:22	43,4	*Toll road* At A15, 76190 Veauville-LÈS-Baons, bear RIGHT (East) onto Ramp [E44]	6,0 km	A29 / E44 / A151 / Dieppe / Amiens / Calais / Rouen
+09:25	49,4	*Toll road* At 9, stay on A29 [E44] (East)	2,7 km	
+09:27	52,1	*Toll road* At E44, 76760 Saint-Martin-aux-Arbres, stay on A29 [E44] (East)	13,4 km	
+09:34	65,5	*Toll road* At E44, 76890 Beautot, stay on A29 [E44] (East)	15,0 km	A29 / E44 / Abbeville / Amiens / Calais / Reims
+09:42	80,5	*Toll road* At 10, stay on A29 [E44] (East)	1,6 km	A29 / E44 / Abbeville / Amiens / Calais / Reims
+09:43	82,1	Arrive A28, 76680 Saint-Saëns		
+
+SUMMARY
+Driving distance:  82,1 kilometres
+Trip duration:  43 minutes
+Driving time:  43 minutes
+Cost:  94,68 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  81,1 kilometres (43 minutes)
+09:00	0,0	Depart 11 on A28 [E402] (South)	0,4 km	E44 / A28 / E402 / A29 / Le Havre / Caen / Le Moulin d'Écalles / Rouen
+09:00	0,4	*Toll road* Keep RIGHT onto Ramp [E44]	1,4 km	A29 / E44 / Le Havre / Caen
+09:01	1,8	*Toll road* At E44, 76680 Saint-Saëns, stay on A29 [E44] (West)	14,4 km	
+09:08	16,2	*Toll road* At E44, 76890 Varneville-Bretteville, stay on A29 [E44] (West)	13,4 km	A29 / E44 / Fécamp / Le Havre / Caen
+09:15	29,6	*Toll road* At E44, 76760 Saint-Martin-aux-Arbres, stay on A29 [E44] (West)	2,7 km	
+09:17	32,2	*Toll road* At 9, stay on A29 [E44] (West)	6,2 km	
+09:20	38,4	*Toll road* At A15, 76190 Veauville-LÈS-Baons, stay on A29 [E44] (West)	5,4 km	
+09:23	43,8	*Toll road* At E44, 76190 Hautot-le-Vatois, stay on A29 [E44] (West)	3,6 km	
+09:25	47,4	*Toll road* At 8, stay on A29 [E44] (West)	7,6 km	A29 / E44 / Le Havre / Caen
+09:29	55,0	*Toll road* At E44, 76210 Bolleville, stay on A29 [E44] (West)	9,2 km	
+09:34	64,2	*Toll road* At 7, stay on A29 [E44] (South-West)	9,1 km	
+09:39	73,2	*Toll road* At 6, stay on A29 [E44] (South)	0,3 km	A29 / E44 / Le Havre-Centre / Caen / Pont de Normandie
+09:39	73,6	*Tollbooth* Stay on A29 [E44] (South)	7,6 km	
+09:43	81,1	Arrive E44, 76700 Rogerville		
+
+SUMMARY
+Driving distance:  81,1 kilometres
+Trip duration:  43 minutes
+Driving time:  43 minutes
+Cost:  93,55 kr
+
+11.7 km/9.2 km	6 min 23 s/5 min 1 s
+3.5 km/3.5 km	1 min 55 s/1 min 55 s
+2.5 km/3.2 km	1 min 22 s/1 min 45 s
+4.8 km/4.4 km	2 min 37 s/2 min 24 s
+3.4 km/3.5 km	1 min 51 s/1 min 55 s
+1.3 km/2.0 km	0 min 43 s/1 min 5 s
+
+8.3 km/7.9 km	4 min 32 s/4 min 19 s
+
+Resultat:
+
+9.2 km/9.1 km	4 min 36 s/4 min 33 s
+9.2 km/9.2 km	4 min 36 s/4 min 36 s
+7.5 km/7.6 km	3 min 45 s/3 min 48 s
+3.5 km/3.6 km	1 min 45 s/1 min 48 s
+5.7 km/5.4 km	2 min 51 s/2 min 42 s
+6.0 km/6.2 km	3 min 0 s/3 min 6 s
+2.7 km/2.7 km	1 min 21 s/1 min 21 s
+13.4 km/13.4 km	6 min 42 s/6 min 42 s
+15.0 km/14.4 km	7 min 30 s/7 min 12 s
+1.6 km/1.8 km	0 min 48 s/0 min 54 s
+
+============
+
+Time	Km	Instruction	For	Toward
+Summary:  58,1 kilometres (31 minutes)
+09:00	0,0	*Toll road* Depart E402, 76270 Ménonval on Ramp (North)	0,6 km	E44 / A29 / Reims / Lille / Amiens
+09:00	0,6	*Toll road* Merge onto A29	3,8 km	
+09:02	4,3	*Toll road* At A29, 76270 Mortemer, stay on A29 (East)	12,4 km	
+09:09	16,7	*Toll road* At 12, stay on A29 (North-East)	21,5 km	
+09:20	38,3	*Toll road* At 13, stay on A29 [E44] (East)	19,8 km	
+09:31	58,1	Arrive E44, 80480 Salouël		
+
+SUMMARY
+Driving distance:  58,1 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  66,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  58,5 kilometres (32 minutes)
+09:00	0,0	*Toll road* Depart A16, 80480 Salouël on Ramp [E44] (North-East)	20,1 km	E44 / A29 / Le Havre / Rouen / Dieppe / Poix de Picardie
+09:11	20,1	*Toll road* At 13, stay on A29 [E44] (West)	16,7 km	
+09:20	36,7	*Toll road* At Viaduc de la Bresle, 80430 Lafresguimont-Saint-Martin, stay on A29 [Viaduc de la Bresle] (West)	4,5 km	
+09:22	41,2	*Toll road* At 12, stay on A29 (South)	13,9 km	A29 / E44 / Le Havre / Rouen / Dieppe
+09:30	55,1	*Toll road* At 11, stay on A29 (North-West)	3,4 km	
+09:32	58,5	Arrive A29, 76270 Ménonval		
+
+SUMMARY
+Driving distance:  58,5 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  67,39 kr
+

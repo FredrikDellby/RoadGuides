@@ -1,0 +1,80 @@
+Färdguide Lv 165 (Gläborg - Vassbotten)
+========================================
+
+Etapp 1: Gläborg - Hällevadsholm (11,4 km/11,2 km)
+
+Gläborgsmotet (101)
+ E6 s: Göteborg, Uddevalla
+ E6 n: Oslo, Strömstad
+T-korsning Gläborg
+ 162: Lysekil, Brastad
+	1.0 km/0.8 km	51 s/41 s
+Järnvägsviadukt
+ Lysekilsbanan
+	1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Leråker
+ Håby
+	2.1 km/2.1 km	2 min 6 s/2 min 6 s
+Rondell Dingle
+ [E6]: Göteborg, Oslo
+ 174: Smögen, Kungshamn
+	3.1 km/3.1 km	3 min 6 s/3 min 6 s
+(Järnvägsviadukt)
+ Bohusbanan
+Dubbel T-korsning Svarteborg
+ Hedekas, Svarteborg K:a
+	2.9 km/3.0 km	2 min 29 s/2 min 34 s
+Shell Hällevadsholm
+T-korsning Hällevadsholm S
+ Dingvall
+	0.8 km/0.6 km	58 s/43 s
+Korsning Hällevadsholm C
+ Rabbalshede
+
+Etapp 2: Hällevadsholm - Backa (25,4 km/25,5 km)
+	3.0 km/3.0 km	2 min 15 s/2 min 15 s
+T-korsning Aspång
+	6.6 km/6.6 km	4 min 57 s/4 min 57 s
+Munkedal / Tanum
+	0.6 km/0.6 km	27 s/27 s
+Korsning Smeviken
+ Rabbalshede
+	2.4 km/2.4 km	2 min 3 s/2 min 3 s
+T-korsning Fressland
+ Mo
+	2.4 km/2.6 km	2 min 3 s/2 min 14 s
+T-korsning Äspelunden
+ Mo
+T-korsning Grimmerland
+ Kustorp
+	3.6 km/3.4 km	3 min 5 s/2 min 55 s
+T-korsning Tingvall B&B
+	0.6 km/0.6 km	31 s/31 s
+T-korsning Tingvallsgård
+ Sundshult
+	3.0 km/3.0 km	2 min 34 s/2 min 34 s
+(T-korsning Naverstad K:a)
+
+Korsning Naverstad
+ 163: Tanumshede
+	1.8 km/1.9 km	1 min 33 s/1 min 38 s
+Tankställe: Pump
+	1.3 km/1.4 km	1 min 7 s/1 min 12 s
+Dubbel T-korsning Backa
+ 164 ö: Åmål, Ed
+ Skackestad
+
+Etapp 3: Backa - Norge (9,7 km/9,6 km)
+	4.0 km/3.9 km	3 min 26 s/3 min 21 s
+T-korsning Holkekärr
+ 164 v: Strömstad, Skee
+	4.8 km/4.8 km	3 min 36 s/3 min 36 s
+Camping Vassbotten
+	0.5 km/0.6 km	26 s/31 s
+Dubbel T-korsning Vassbotten
+ Ejgde
+ Fagerhult
+	0.4 km/0.2 km	21 s/10 s
+Sverige / Norge
+Västra Götaland / Östfold
+Tanum / Halden

@@ -1,0 +1,335 @@
+﻿Rv 25 (Hamar - Sverige)
+========================
+
+Etapp 1: Genom Hamar ()
+
+T-korsning Strandgata/Vangsvegen
+ Fv1758: Hamar stasjon
+ Fv1758: Skibladner brygga
+
+Korsning Vangsvegen/Grønnegata
+ 223: Hamar stasjon
+
+Korsning Rv 25/St. Olavs gate
+ Fv1772
+
+Rondell CC Hamar
+ Hamar park
+ CC Hamar kjøpesenter
+ Restaurang: Burger King, Subway
+
+T-korsning Rv 25/Disenvegen
+ Fv1754: 
+
+Rondell Utstillingsplassen
+(Avfart Nygata)
+
+Rondell Briskeby stadion
+
+Rondell Rv 25/Åkersvikvegen
+(Disen bru (37 m))
+ Åkersvika
+
+Rondell Midtstranda
+
+Åkerkrysset
+ E6 s: Oslo, Stange
+ E6 n: Trondheim, Lillehammer
+
+Etapp 2: Hamar - Brenneriroa ()
+
+Dubbel T-korsning Åker
+ Lokale veier
+
+Korsning Vang kirke
+ 224: Gåsbu, Narmo
+ Toneheim, Vang kirke Parkering
+
+T-korsning
+ Vang kirke, Kirkestua
+
+T-korsning Ridabu skole
+ 225: Ådalsbruk, Ilseng, Hjellum
+
+Dubbel T-korsning Torshov
+ Fv1800: Kapp
+ Fv1812: Hjellum, SI Sanderud
+ Bensinstasjon: Shell
+
+T-korsning Rv 25/Rogstadgutua
+ Torshov
+
+Kay Gartneri - Hageland
+
+(T-korsning Rysvea)
+
+Korsning Vang sentral
+ Fv1804: Dørum
+ Fv1804: Blæstad, Høyvang
+
+T-korsning Grubhol
+ Fv1806: Øvre Vang kirke
+ FL Fart
+
+(T-korsning Rv 25/Hafsalvegen)
+ Vartomten
+
+T-korsning Ålstad
+ Fv1816: Ilseng, Bjørke
+
+T-korsning Lageråen
+ Fv1820: Gåsbu, Skramstad
+ FL Fart
+
+Korsning Spaberg
+ Vang Auto
+
+Hamar / Løten: (60.8280777,11.266667)
+
+T-korsning Jevnaker
+ 227: Liberg
+ Heggvin avfall og gjenvinning, Grotten
+
+Korsning Balke
+ Fv1824: Haukstad
+
+Brennerikrysset: (60.826688, 11.292595)
+ 3 s: Oslo, Romedal
+ Løten, Brenneriroa
+
+Etapp 3: Brenneriroa - Elverum ()
+
+90 km/h / 110 km/h: (60.833941, 11.294482)
+
+Doksrud bru (Fura, 79,53 m): (60.83723, 11.30266)
+
+Kryss Ånestad: (60.848842, 11.370150)
+ Ånestad industri
+ Løten (Gl. Rv 3), Bjørnstad, Rokosjøen (Fv168)
+ Bensinstasjon: Esso
+ Hotel/Restaurang: Myklegard
+					
+Løten / Elverum: (60.877898, 11.455533)
+					4,3 km/4,4 km	3 min 14 s/3 min 18 s
+Terningåa bru (Terningåa, 52 m): (60.88057, 11.47075)
+
+Skansen bru (Terningåa, 66,4 m): (60.8869, 11.50627)
+
+(Bomstasjon)
+ 43 kr (bil), 46 kr (lastbil)
+Rondell Åkroken: (60.88764, 11.50808)
+ 25 v: Trysil
+ [2 s]: Kongsvinger
+ Elgstua, Terningmoen
+ Restaurang: McDonald's, Myklegard
+
+Etapp 4: Genom Elverum ()
+
+Rondell
+ Restaurang: McDonald's, Myklegard
+
+Rondell Rv 25/Hamarvegen
+ Bensinstasjon: Uno-X
+
+Rondell Elgstua
+ Bensinstasjon: Esso
+ Restaurang: Elgstua
+					0,4 km/0,2 km	29 s/14 s
+T-korsning Rv 25/Grundsetvegen
+(Elverum bru (63 m))
+ Rørosbanen og Solørbanen
+					0,4 km/0,6 km	29 s/43 s
+T-korsning Rv 25/Vestsivegen
+
+T-korsning Rv 25/Jernbanegata
+ Restaurang: Stengrundet Gatekjøkken
+(Glåmbrua)
+ Glåma, 180 m
+					0,4 km/0,3 km	29 s/22 s
+Rondell Rv 2/Rv 25
+ 2 s: Kongsvinger, Flisa
+
+Etapp 5: Elverum - Hernes (8,6 km/8,6 km)
+
+Leirettunnelen
+ 85 m
+					0,5 km/0,5 km	30 s/30 s
+T-korsning Rv25/Strandbygdevegen
+ 235: Strandbygda
+					1,4 km/1,5 km	1 min 24 s/1 min 30 s
+(T-korsning Rv 25/Sandbakken)
+
+T-korsning Rv 25/Olav Sæters veg
+ Elbilsladdning: Fortum, Charge-And-Drive
+
+T-korsning Rv 25/Røsslyngvegen
+					1,4 km/1,2 km	1 min 24 s/1 min 12 s
+T-korsning Rv25/Langholsvegen
+ Fv2126
+					0,5 km/0,5 km	23 s/23 s
+T-korsning Rv25/Hernesvegen
+ Fv2142
+					3,2 km/3,2 km	2 min 24 s/2 min 24 s
+Korsning Rv 25/Sagene Ring
+ Meljordshagen
+ Grinda
+					1,0 km/1,0 km	45 s/45 s
+Korsning Rv 25/Sagene Ring
+ Finstad
+					0,8 km/0,8 km	36 s/36 s
+Korsning Hernes Rv 25
+ Fv2096: Gravberget, Sørskogbygda
+ Fv2140: Nordskogbygda
+ Bensinstasjon: Circle-K
+
+Etapp 6: Hernes - Midtskogberget (32,1 km/32,1 km)
+					4,7 km/4,7 km	3 min 32 s/3 min 32 s
+T-korsning Skogen Rv 25
+ Fv2134
+					2,4 km/2,4 km	1 min 48 s/1 min 48 s
+T-korsning Rv 25/Øvre Skurubergs veg
+ Fv2132
+					0,7 km/0,7 km	32 s/32 s
+T-korsning
+ Elverum Grus & Transport, Pukkverk
+					1,3 km/1,3 km	59 s/59 s
+(T-korsning)
+ Sopcontainer
+
+(Bru over Julussa)
+
+Korsning Julussa
+					1,8 km/1,8 km	1 min 33 s/1 min 33 s
+Korsning Rv 25/Feltvegen
+					0,6 km/0,6 km	31 s/31 s
+Korsning Rv 25/Styggbergsvegen
+					0,6 km/0,6 km	31 s/31 s
+Korsning Rv 25/Klingenbergvegen
+					4,6 km/4,6 km	3 min 57 s/3 min 57 s
+(Korsning Ulvålia Camping)
+
+Ulvåa bru (20 m)
+ Ulvåa
+
+Korsning Rv 25/Klingenbergvegen
+					1,3 km/1,3 km	1 min 7 s /1 min 7 s
+T-korsning Rv 25/Ørbekkenvegen
+ Ørbekken
+					3,5 km/3,5 km	3 min 0 s/3 min 0 s
+Korsning Rv 25/Flisbruavegen
+					0,9 km/0,9 km	46 s/46 s
+Elverum / Trysil: (61.0563097672248, 11.950123348765878
+					4,3 km/4,2 km	3 min 41 s/3 min 36 s
+Korsning Kjernmoen
+ Fv2156
+					1,1 km/1,2 km	0 min 57 s/1 min 2 s
+Rasteplass Kjernmolia
+					4,5 km/4,5 km	3 min 51 s/3 min 51 s
+Bru over vassdrag
+
+Korsning Midtskogberget
+ 208: [26 s]
+
+Etapp 7: Midtskogberget - Rv 26 (22,7 km/22,8 km)
+					3,3 km/3,3 km	2 min 29 s/2 min 29 s
+Korsning Tørberget
+ Tørberget kirke, Bær og Antik
+
+Bru over Varåa
+					5,2 km/5,2 km	3 min 54 s/3 min 54 s
+Korsning Nyhus Rv 25
+ Nyhus, Varaholla
+					6,8 km/6,8 km	5 min 6 s/5 min 6 s
+Bru over Søndergrønfossen
+
+T-korsning Grøndalen
+ Grøndalen, Krigsminne, Galleri
+					2,2 km/2,2 km	1 min 39 /1 min 39 s
+Korsning Sæteråsen
+ Trysil flyplass
+ Sæteråsen Hytter & Camping
+					4,0 km/4,0 km	3 min 0 s/3 min 0 s
+(T-korsning)
+ Skytebane
+
+T-korsning Rv 25/Brubakken
+ Nybergsund, Trysil interiøre
+					1,2 km/1,3 km	1 min 2 s/1 min 7 s
+T-korsning Rv25/Rv26
+ 26 n: Trysil
+Infoplass
+(Nybergsund bru)
+ Trysilelva, 117 m
+
+Rondell Kilenkrysset
+ 26 s: Karlstad, Nybergsund
+ Fv2172: Trysil sentrum (Innbygda)
+
+(Korsning Knettenkrysset)
+
+(Parkeringsplass, grusvei): (61.2611208, 12.3581052)
+
+(Parkeringsplass, grusvei): (61.2626477, 12.3620963)
+
+Bru over Svartbekken
+
+Rasteplass Gjetsjøen
+
+(Grønlibrua)
+ Vestre Grøna
+Dubbel T-korsning Grønlibrua
+ Kværnmosæter
+
+T-korsning Østby Vest
+ Sentrum
+
+T-korsning Rv 25/Ny Jord Vegen
+ Ny Jord
+
+T-korsning Østby Øst
+ Fv2162: Ljørdalen
+
+T-korsning
+ Fv2162: Plassen (kapell)
+
+Østby tollstasjon
+
+Bru over floen
+
+T-korsning Nesvoldberget vest
+ Nesvollberget (endast skyltad mot øst)
+
+T-korsning Nesvoldberget øst
+ Nesvollberget (endast skyltad mot vest)
+
+T-korsning Berg
+ Tannåneset
+
+T-korsning Flermokrysset
+ Fv2168: Sälen, Rörbäcksnäs, Flermoen
+ Scandinavian Mountains Airport
+
+Bjønnbekkmora hyttefelt
+
+(Nesvollbekken)
+
+T-korsning Storbekken vest
+(endast skyltad östgående)
+ Storbekken V
+
+Dubbel T-korsning Storbekken øst
+ Storbekken V (endast västgående)
+ Storbekken Ø
+
+(T-korsning Flersjøen)
+
+Dubbel T-korsning Støa
+ Ljørdalen, Fulufjellet Alpinsenter
+ Støa kanal
+
+Ljøra bru (56 m)
+ Ljøra
+
+Norge / Sverige
+Innlandet / Dalarna
+Trysil / Malung-Sälen

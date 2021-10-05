@@ -1,0 +1,34 @@
+Färjeterminalerna
+ Färja: Helsingör
+	(Scandlines)			0.4 km/0.6 km	0 min 48 s/1 min 12 s
+	(HH-Ferries)			0.6 km/0.6 km	1 min 12 s/1 min 12 s
+Rondell Helsingborgs hamn
+					0.8 km/0.9 km	0 min 58 s/1 min 5 s
+T-korsning
+Korsning Bredgatan/Oljehamnsleden
+					0.5 km/0.5 km	36 s/36 s
+Korsning
+ Helsingborg C, Knutpunkten
+Trafikplats
+					0.5 km/0.4 km	36 s/29 s
+Rondell
+ Lokala mål
+					0.5 km/0.4 km	20 s/16 s
+Trp Elineberg
+ Elineberg
+					0.7 km/1.6 km	0 min 28 s/1 min 4 s
+Trp Ramlösa
+ Ramlösa
+ Råå
+					2.5 km/2.1 km	1 min 40 s/1 min 24 s
+Trp Ättekulla
+ 111: Höganäs
+ Ättekulla
+					0.9 km/1.6 km	0 min 36 s/1 min 4 s
+Trp Helsingborg Södra
+ E6-E20 s: Malmö
+ E4 n: Stockholm
+ 21 ö: Kristianstad, Åstorp
+ E6-E20 n: Göteborg, Ängelholm
+ 109: Ekeby
+

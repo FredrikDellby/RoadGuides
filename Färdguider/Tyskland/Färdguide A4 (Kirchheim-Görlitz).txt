@@ -1,0 +1,188 @@
+AB-Dreieck Kirchheim (31)
+ A7 s: Würzburg
+ [A5 s]: Frankfurt/Main
+ A7 n: Hannover, Kassel
+					4.2 km/4.3 km	2 min 17 s/2 min 21 s
+Parkplatz Asbachgrund
+(östgående riktning)
+Parkplatz Auerhahnkuppe
+(västgående riktning)
+					5.3 km/4.0 km	2 min 53 s/2 min 11 s
+(Asbachtalbrücke (280 m))
+
+Rastplatz Bingartes
+(västgående riktning)
+					1.6 km/1.1 km	52 s/36 s
+Fuldabrücke (110 m)
+					0.7 km/0.7 km	23 s/23 s
+Anschlausstelle 32
+ Bad Hersfeld B27, B62
+					11.4 km/11.9 km	6 min 13 s/6 min 29 s
+(Talbrücke Siebenborn (260 m))
+(Talbrücke Grosser Kessel (220 m))
+
+Anschlausstelle 33
+ Friedewald
+					7.5 km/7.0 km	4 min 5 s/3 min 49 s
+(Talbrücke Eichhorst (240 m))
+
+Anschlausstelle 34
+ Wildeck-Hönebach
+					6.6 km/6.7 km	3 min 36 s/3 min 39 s
+Anschlausstelle 35
+ Wildeck-Obersuhl
+					1.9 km/2.9 km	1 min 2 s/1 min 35 s
+Anschlausstelle 36
+ Gerstungen
+(Weihtalbrücke Richelsdorf (584 m))
+(Hessen / Thüringen)
+					7.2 km/5.8 km	3 min 56 s/3 min 10 s
+Talbrücke (70 m)
+Talbrücke Fuchsloch (80 m)
+Talbrücke Wommen (304 m)
+
+Thüringen / Hessen
+					2.5 km/3.4 km	1 min 22 s/1 min 51 s
+Anschlausstelle 37
+(avfart västgående riktning
+påfart östgående riktning)
+ Wommen
+ B400:
+					3.5 km/4.7 km	1 min 55 s/2 min 34 s
+(Brücke Frauenborner Bach (120 m))
+
+Anschlausstelle 38
+ Herleshausen
+ 7a:
+					2.3 km/1.2 km	1 min 15 s/0 min 39 s
+Hessen / Thüringen
+					1.6 km/1.6 km	52 s/52 s
+Werrentalbücke Hörschel-west
+ 723 m
+					1.0 km/1.2 km	33 s/39 s
+Werrentalbücke Hörschel-ost
+					0.6 km/1.5 km	20 s/49 s
+Rasthof Eisenach
+ Benzin:
+					4.1 km/2.9 km	2 min 14 s/1 min 35 s
+Anschlausstelle 39a
+ Eisenach-West
+ B7:
+
+=================================
+
+Kreuz Erfurt (45)
+ A71 n: Halle, Sangerhausen
+ A71 s: Schweinfurt, Suhl
+					4.5 km/3.4 km	2 min 15 s/1 min 42 s
+(Gerabrücke (110 m))
+
+Anschlausstelle 46
+ Erfurt-West
+ B4:
+					4.3 km/4.8 km	2 min 9 s/2 min 24 s
+Rastplatz Willroder Forst
+					4.8 km/4.7 km	2 min 24 s/2 min 21 s
+Anschlausstelle 47a
+ Erfurt-Ost
+					3.4 km/3.2 km	1 min 42 s/1 min 36 s
+Anschlausstelle 47b
+ Erfurt-Vieselbach
+					1.6 km/2.1 km	0 min 48 s/1 min 3 s
+Raststätte Eichelborn
+ Benzin: Total
+					3.6 km/3.1 km	1 min 48 s/1 min 33 s
+Anschlausstelle 48
+ Nohra
+					3.9 km/3.6 km	1 min 57 s/1 min 48 s
+Anschlausstelle 49
+ Weimar
+ B85:
+					3.9 km/4.5 km	1 min 57 s/2 min 15 s
+Rastplatz
+					2.5 km/2.6 km	1 min 15 s/1 min 18 s
+Anschlausstelle 50
+ Apolda
+ B87:
+					5.3 km/5.3 km	2 min 39 s/2 min 39 s
+(Ilmtalbrücke (385 m))
+
+Anschlausstelle 51
+ Magdala
+					2.8 km/2.8 km	1 min 24 s/1 min 24 s
+Rastplatz Schorba
+					0.9 km/0.5 km	27 s/15 s
+Anschlausstelle 52
+ Schorba
+					3.2 km/3.1 km	1 min 36 s/1 min 33 s
+Parkplatz
+					5.7 km/5.7 km	2 min 51 s/2 min 51 s
+(Jagdbergtunnel (3034 m/2822 m))
+
+Anschlausstelle 53
+ Jena-Göschwitz
+ B88:
+(Saalebrücke-west)
+ 794 m
+					0.7 km/0.8 km	21 s/24 s
+Saalebrücke-ost
+Lobdeburgtunnel-west
+ (600 m)
+					1.0 km/1.4 km	30 s/42 s
+(Lobdeburgtunnel-ost)
+Anschlausstelle 54
+ Jena-Lobeda
+ B88:
+					6.7 km/6.5 km	3 min 21 s/3 min 15 s
+(Pdelsatzbrücke (224 m))
+
+Parkplatz (östgående)
+					4.9 km/4.7 km	2 min 27 s/2 min 21 s
+(Talbrücke Zeitzgrund (295 m))
+
+Anschlausstelle 55
+ Stadtroda
+					2.5 km/2.7 km	1 min 15 s/1 min 21 s
+Rasthof Teufelstal
+ Benzin:
+					2.2 km/3.1 km	1 min 6 s/1 min 33 s
+(Teufelstalbrücke (270 m))
+
+AB-Kreuz Hermsdorf (56a)
+ A9 n: Berlin, Leipzig, Halle
+ A9 s: München, Nürnberg, Hof
+
+==========
+
+Dreieck Nossen (76)
+ A14: Magdeburg, Leipzig, Halle
+
+Anschlausstelle 77a
+ Wilsdruff
+
+Rasthof Dresdner Tor
+
+Dreieck Dresden-West (77b)
+ A17: Prag, Dresden-Süd
+
+Anschlausstelle (78)
+ Dresden-Altstadt
+ B6
+
+Elbebrücke (496 m)
+
+Anschlausstelle 79
+ Dresden-Neustadt
+
+Anschlausstelle 80
+ Dresden-Wilder Mann
+
+Anschlausstelle 81a
+ Dresden-Hellerau
+ B170
+
+Anschlausstelle 81b
+ Dresden-Flughafen
+
+Dreieck Dresden-Nord (82)
+ A13: Berlin

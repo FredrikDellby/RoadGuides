@@ -1,0 +1,51 @@
+Reseguide A12 (Berlin-Frankfurt/Oder)
+======================================
+
+Dreieck Spreeau (1)
+ A10 ccw: [A13]: Dresden
+	  [A113]: Berlin-Ost
+	  [A115]: Berlin-West
+	  [A9]: Leipzig
+	  [A2]: Hannover, Magdeburg
+ A10 cw: [A11]: Schwerin
+	  [A19]: Rostock
+	  [A24]: Hamburg
+
+Anschlausstelle 2
+ Friedersdorf
+
+Anschlausstelle 3
+ Storkow
+
+Parkplatz
+
+Parkplatz (östgående)
+
+Anschlausstelle 4
+ Fürstenwalde-West
+
+Anschlausstelle 5
+ Fürstenwalde-Ost
+ B168:
+
+Dehmseebrücke
+
+Anschlausstelle 6
+ Brisen (Mark)
+
+Anschlausstelle 7
+ Müllrose
+
+Rasthof Biegener Hellen
+
+Anschlausstelle 8
+ Frankfurt (Oder)-West
+ B112
+
+Anschlausstelle 9
+ Frankfurt (Oder)-Mitte
+ B87, B112
+
+Oderbrücke (556 m)
+Gränsövergång Frankfurt/Oder
+Tyskland / Polen

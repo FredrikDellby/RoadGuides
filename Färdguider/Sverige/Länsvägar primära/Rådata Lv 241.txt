@@ -1,0 +1,75 @@
+Time	Km	Instruction	For	Toward
+Summary:  2,2 kilometres (3 minutes)
+09:00	0,0	Depart Korsning Sunne V on 241 [Storgatan] (East)	0,8 km	
+09:01	0,8	At Korsning Sunne centrum, stay on 241 [Storgatan] (East)	0,4 km	
+09:01	1,3	At Storgatan 22, 686 Sunne, stay on 241 [Storgatan] (East)	0,5 km	
+09:02	1,8	At Korsning Sunne kyrka, stay on 241 (East)	0,5 km	
+09:03	2,2	Arrive Korsning Sunne Ö		
+
+SUMMARY
+Driving distance:  2,2 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  3,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  2,2 kilometres (3 minutes)
+09:00	0,0	Depart Korsning Sunne Ö on 241 (West)	0,3 km	
+09:00	0,3	At Korsning Sunne kyrka, stay on 241 (West)	0,6 km	
+09:01	0,9	At near Sunne, stay on 241 [Storgatan] (West)	0,5 km	
+09:01	1,4	At Korsning Sunne centrum, stay on 241 [Storgatan] (West)	0,8 km	
+09:03	2,2	Arrive Korsning Sunne V		
+
+SUMMARY
+Driving distance:  2,2 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  4,23 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,2 kilometres (26 minutes)
+09:00	0,0	Depart Korsning Sunne Ö on 241 (East)	0,6 km	
+09:00	0,6	At T-korsning, stay on 241 (East)	4,5 km	
+09:05	5,1	At T-korsning Torsberg, stay on 241 [Torsberg] (East)	10,9 km	
+09:16	16,1	At near Torsby, stay on 241 (East)	0,5 km	
+09:17	16,6	At near Torsby, stay on 241 (East)	8,8 km	
+09:26	25,4	At Korsning Munkfors V, stay on 241 [Fryksdalsvägen] (East)	0,8 km	
+09:26	26,2	Arrive Korsning Munkfors Näset		
+
+SUMMARY
+Driving distance:  26,2 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  30,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,2 kilometres (20 minutes)
+09:00	0,0	Depart Korsning Munkfors Näset on 241 [Fryksdalsvägen] (North)	0,8 km	
+09:01	0,8	At Korsning Munkfors V, stay on 241 [Fryksdalsvägen] (West)	8,8 km	
+09:08	9,6	At near Torsby, stay on 241 (West)	0,5 km	
+09:08	10,1	At near Torsby, stay on 241 (West)	10,9 km	
+09:16	21,1	At T-korsning Torsberg, stay on 241 [Torsberg] (West)	4,5 km	
+09:20	25,6	At T-korsning, stay on 241 (West)	0,6 km	
+09:20	26,2	Arrive Korsning Sunne Ö		
+
+SUMMARY
+Driving distance:  26,2 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  34,71 kr
+
+Sunne V - Sunne Ö
+0.8 km/0.8 km	0 min 58 s/0 min 58 s	50
+0.4 km/0.5 km	0 min 29 s/0 min 36 s
+0.5 km/0.6 km	0 min 36 s/0 min 43 s
+0.5 km/0.3 km	0 min 36 s/0 min 22 s
+
+Sunne Ö - Munkfors V
+0.6 km/0.6 km	0 min 31 s/0 min 31 s	70
+4.5 km/4.5 km	3 min 51 s/3 min 51 s
+10.9 km/10.9 km	9 min 21 s/9 min 21 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+8.8 km/8.8 km	7 min 33 s/7 min 33 s
+
+Munkfors V - Munkfors Näset
+0.8 km/0.8 km	0 min 58 s/0 min 58 s	50

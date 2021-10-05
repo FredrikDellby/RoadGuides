@@ -1,0 +1,105 @@
+Färdguide Lv 112 (Höganäs - Åstorp)
+====================================
+
+Rondell Lv 111/Lv 112
+ 112 s: Helsingborg, Viken
+ 112 n: Mölle
+					0.8 km/0.7 km	48 s/42 s
+Korsning Höganäs N
+ Tjörröd
+ Höganäs konsthall
+ Bensinstation: OKQ8
+					1.0 km/1.1 km	1 min 0 s/1 min 6 s
+Rondell Väsby S
+ Ingelsträde
+ Väsby kyrka
+					2.6 km/2.5 km	1 min 57 s/1 min 53 s
+T-korsning 112/Hustoftavägen
+ Viken
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+T-korsing Görslöv
+ Kullabygdens Bed & Breakfast
+ Konstgalleri
+
+T-korsing Görslöv Ö
+ Enskild väg
+
+T-korsning Jonstorp S
+ Jonstorp
+					0.8 km/0.8 km	36 s/36 s
+(Görslövsån)
+
+Korsning 112/Mjöhultsv.
+ Allerum, Mjöhult
+ Kullabygdens Lantbruksmuseum
+					1.3 km/1.3 km	59 s/59 s
+T-korsing 112/Svartelandsv.
+ Farhult
+					0.7 km/0.7 km	31 s/31 s
+Korsning 112/Farhultsv.
+ Mjöhult
+ Farhult
+					2.3 km/2.3 km	1 min 43 s/1 min 43 s
+Höganäs / Helsingborg
+					2.1 km/2.1 km	1 min 35 s/1 min 35 s
+Korsning 112/Tångavägen
+ Utvälinge
+ Tånga
+					0.7 km/0.7 km	31 s/31 s
+Helsingborg / Ängelholm
+
+Järnvägsviadukt
+ Västkusetbanan
+					0.7 km/0.7 km	31 s/31 s
+Korsning 112/Välingev.
+ Välinge
+					3.3 km/3.9 km	2 min 28 s/2 min 56 s
+(T-korsing Lv 112/Vegeholmsv. V)
+ Vegeholms Slott
+
+(T-korsing Lv 112/Vegeholmsv. Ö)
+ Vegeholms Slott, Mia's Cottage
+
+Rondell Lv112/Lv107
+ 107 n: Ängelholm
+ 107 s: Bjuv, Strövelstorp
+
+T-korsing Erikslund
+ Bensinstation: Preem
+ Hotel/Restaurang: Hotell Erikslund
+
+Trp Norra Varalöv
+ E6-E20 s: Malmö, Helsingborg
+ E6-E20 n: Göteborg, Ängelholm
+					2.0 km/1.5 km	1 min 30 s/1 min 8 s
+Korsning
+ Enskild väg
+					0.5 km/0.6 km	23 s/27 s
+Korsning 112/Spannarpsv.
+ Ausås
+ Höja
+					0.9 km/0.8 km	36 s/32 s
+T-korsning
+ Enskild väg
+					0.8 km/0.9 km	32 s/36 s
+Korsning
+ Enskild väg
+					0.6 km/0.6 km	24 s/24 s
+Korsning 112/Häringev.
+ Starby
+					0.6 km/0.6 km	24 s/24 s
+T-korsning 112/Heagårdsv.
+ Heagården
+					0.9 km/0.9 km	36 s/36 s
+T-korsing
+ Enskild väg
+
+Korsning 112/Ausåsvägen
+ Ausås
+T-korsning 112/Humlarpsv.
+(Ängelholm / Åstorp)
+					1.7 km/1.9 km	1 min 8 s/1 min 16 s
+Trp Åstorp
+ E4 s: Helsingborg
+ E4 n: Stockholm, Örkelljunga
+ 21 ö: Kristianstad, Åstorp

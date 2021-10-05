@@ -1,0 +1,52 @@
+Färdguide A3 (Porte de Bagnolet - A1)
+======================================
+
+Échangeur Porte de Bagnolet
+ BP med:
+ BP mot:
+					1.5 km/1.6 km	1 min 0 s/1 min 4 s
+Sortie 1
+(avfart nordgående riktning
+påfart sydgående riktning)
+Échangeur A1 et A186
+ A186: Montreuil
+					1.4 km/0.8 km	56 s/32 s
+Sortie 2
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Montreuil, Romainville
+					0.6 km/0.9 km	24 s/36 s
+Aire de service
+(nordgående riktning)
+					1.1 km/2.1 km	0 min 44 s/1 min 24 s
+Échangeur A3 et A86 et A183
+ A86 med:
+ A103: Villemomble
+					2.2 km/0.9 km	1 min 28 s/0 min 36 s
+Échangeur A3 et A86
+(avfart nordgående riktning
+påfart sydgående riktning)
+ A86 mot: Bobigny
+					0.5 km/1.1 km	18 s/40 s
+Sortie 3
+ Bondy
+ Bobigny, Noisy-le-Sec
+					1.7 km/0.9 km	1 min 1 s/0 min 32 s
+Sortie 4
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Bondy-nord
+					1.0 km/1.8 km	0 min 36 s/1 min 5 s
+Sortie 5
+ Aulnay-sous-Bois
+ Drancy
+					2.4 km/2.6 km	1 min 26 s/1 min 34 s
+Sortie 6
+ Villepinte
+ Le Blanc-Mesnil
+					2.9 km/0.6 km	1 min 44 s/0 min 22 s
+Sortie
+(avfart nordgående riktning
+påfart sydgående riktning)
+Échangeur A1 et A3
+

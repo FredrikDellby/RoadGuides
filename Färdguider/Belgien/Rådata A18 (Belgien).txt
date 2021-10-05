@@ -1,0 +1,50 @@
+Time	Km	Instruction	For	Toward
+Summary:  43,7 kilometres (22 minutes)
+09:00	0,0	Depart 6 on A10 [E40] (West)	1,9 km	
+09:01	1,9	Keep LEFT onto A18 [E40]	6,5 km	E40 / Veurne / Nieuwpoort / Luchthaven Oostende
+09:04	8,3	At E40, 8460 Oudenburg, stay on A18 [E40] (West)	4,7 km	
+09:06	13,0	At 5BIS, stay on A18 [E40] (West)	5,7 km	
+09:09	18,7	At 4, stay on A18 [E40] (West)	2,7 km	
+09:11	21,4	At E40, 8433 Middelkerke, stay on A18 [E40] (West)	5,3 km	
+09:14	26,7	At 3, stay on A18 [E40] (South-West)	4,5 km	
+09:16	31,2	At 2, stay on A18 [E40] (South-West)	4,3 km	
+09:18	35,5	At 1A, stay on A18 [E40] (West)	4,6 km	
+09:21	40,1	At 1, stay on A18 [E40] (West)	3,6 km	
+09:22	43,7	Arrive near Ghyvelde		
+
+SUMMARY
+Driving distance:  43,7 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  48,93 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,2 kilometres (21 minutes)
+09:00	0,0	Depart near Ghyvelde on A16 [E40] (East)	10 m	
+09:00	0,1	Entering Belgium		
+09:00	0,1	Road name changes to A18 [E40]	2,7 km	
+09:01	2,7	At 1, stay on A18 [E40] (East)	4,8 km	
+09:03	7,5	At 1A, stay on A18 [E40] (East)	4,2 km	
+09:06	11,7	At 2, stay on A18 [E40] (North-East)	4,6 km	
+09:08	16,3	At 3, stay on A18 [E40] (North-East)	5,4 km	
+09:11	21,7	At E40, 8433 Middelkerke, stay on A18 [E40] (East)	3,4 km	
+09:13	25,0	At 4, stay on A18 [E40] (East)	5,3 km	
+09:15	30,3	At 5, stay on A18 [E40] (East)	4,5 km	
+09:18	34,8	At E40, 8460 Oudenburg, stay on A18 [E40] (East)	5,3 km	
+09:21	40,2	Arrive 6		
+
+SUMMARY
+Driving distance:  40,2 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  45,01 kr
+
+8.3 km/5.3 km	4 min 32 s/2 min 53 s
+4.7 km/4.5 km	2 min 34 s/2 min 27 s
+5.7 km/5.3 km	3 min 7 s/2 min 53 s
+2.7 km/3.4 km	1 min 28 s/1 min 51 s
+5.3 km/5.4 km	2 min 53 s/2 min 57 s
+4.5 km/4.6 km	2 min 27 s/2 min 31 s
+4.3 km/4.2 km	2 min 21 s/2 min 17 s
+4.6 km/4.8 km	2 min 31 s/2 min 37 s
+3.6 km/2.7 km	1 min 58 s/1 min 28 s

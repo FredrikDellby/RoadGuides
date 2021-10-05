@@ -1,0 +1,52 @@
+Time	Km	Instruction	For	Toward
+Summary:  21,1 kilometres (16 minutes)
+09:00	0,0	Depart Korsning on B202 [Berliner Eck] (North-West)	1,6 km	
+09:01	1,6	At T-korsning, stay on B202 [Kieler Chaussee] (West)	1,4 km	
+09:02	3,0	At T-korsning Ehlerstorf, stay on B202 [Ehlerstorf] (West)	2,4 km	
+09:04	5,4	At Korsning Hohenstein, stay on B202 (West)	2,0 km	
+09:05	7,4	At Korsning Weißenhaus-ost, stay on B202 (West)	0,4 km	
+09:05	7,8	At Korsning Weißenhaus-mitte, stay on B202 (West)	1,0 km	
+09:06	8,8	At T-korsning Fiederikenhof, stay on B202 (West)	1,5 km	
+09:08	10,3	At T-korsning Döhnsdorf, stay on B202 (West)	1,0 km	
+09:09	11,3	At T-korsning, stay on B202 (South-West)	2,7 km	
+09:11	14,0	At T-korsning Kaköhl-ost, stay on B202 [Lütjenburger Straße] (West)	0,3 km	
+09:11	14,4	At T-korsning Kaköhl-west, stay on B202 [Lütjenburger Straße] (West)	1,1 km	
+09:12	15,5	At T-korsning B202/K27, stay on B202 [Bundesstraße] (North-West)	0,5 km	
+09:13	16,0	At T-korsning B202/K20, stay on B202 [Bundesstraße] (West)	0,8 km	
+09:13	16,8	At Korsning Futterkamp, stay on B202 [Bundesstraße] (North-West)	2,5 km	
+09:15	19,2	At T-korsning Schmiedendorf, stay on B202 [Schmiedendorf] (West)	0,5 km	
+09:15	19,7	At Korsning Lütjenburg-ost, stay on B202 (West)	1,4 km	
+09:16	21,1	Arrive B202, 24321 Lütjenburg		
+
+SUMMARY
+Driving distance:  21,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  26,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (16 minutes)
+09:00	0,0	Depart B202, 24321 Lütjenburg on B202 (East)	1,2 km	
+09:00	1,2	At Korsning Lütjenburg-ost, stay on B202 (East)	0,5 km	
+09:01	1,6	At T-korsning Schmiedendorf, stay on B202 [Schmiedendorf] (East)	2,3 km	
+09:02	4,0	At T-korsning Futterkamp, stay on B202 [Bundesstraße] (South-East)	0,9 km	
+09:03	4,9	At T-korsning B202/K20, stay on B202 [Bundesstraße] (East)	0,5 km	
+09:03	5,4	At T-korsning B202/K27, stay on B202 [Bundesstraße] (South-East)	1,1 km	
+09:04	6,5	At L258, 24327 Blekendorf, stay on B202 [Lütjenburger Straße] (East)	0,4 km	
+09:05	6,9	At T-korsning Kaköhl-ost, stay on B202 [Lütjenburger Straße] (East)	2,7 km	
+09:07	9,6	At T-korsning, stay on B202 (East)	1,0 km	
+09:08	10,6	At T-korsning Döhnsdorf, stay on B202 (East)	1,5 km	
+09:09	12,1	At T-korsning Fiederikenhof, stay on B202 (East)	1,0 km	
+09:10	13,1	At Korsning Weißenhaus-mitte, stay on B202 (East)	0,4 km	
+09:11	13,5	At Korsning Weißenhaus-ost, stay on B202 (East)	2,0 km	
+09:12	15,4	At Korsning Hohenstein, stay on B202 (East)	2,4 km	
+09:14	17,9	At T-korsning Ehlerstorf, stay on B202 [Ehlerstorf] (East)	1,4 km	
+09:15	19,3	At T-korsning, stay on B202 [Kieler Chaussee] (East)	1,1 km	
+09:16	20,4	Arrive Kieler Chaussee, 23758 Oldenburg in Holstein		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  25,30 kr
+

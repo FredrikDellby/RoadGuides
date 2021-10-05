@@ -1,0 +1,23 @@
+Kungälvsmotet - Järnväg
+1.6 km/1.1 km	1 min 55 s/1 min 19 s	50
+1.8 km/1.5 km	2 min 10 s/1 min 48 s
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+Järnväg - Tjuvkil
+3.7 km/3.7 km	3 min 10 s/3 min 10 s	70
+1.8 km/2.1 km	1 min 33 s/1 min 48 s
+2.8 km/2.5 km	2 min 24 s/2 min 9 s
+3.9 km/3.9 km	3 min 21 s/3 min 21 s
+
+Tjuvkil - Koön tätort
+1.1 km/1.2 km	0 min 57 s/1 min 2 s	70
+1.6 km/1.9 km	1 min 22 s/1 min 38 s
+1.1 km/0.9 km	0 min 57 s/0 min 46 s
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+0.9 km/0.8 km	0 min 46 s/0 min 41 s
+1.5 km/1.7 km	1 min 17 s/1 min 27 s
+1.9 km/1.7 km	1 min 38 s/1 min 27 s
+
+Koön tätort - Koön färja
+0.8 km/0.8 km	1 min 12 s/1 min 12 s	40

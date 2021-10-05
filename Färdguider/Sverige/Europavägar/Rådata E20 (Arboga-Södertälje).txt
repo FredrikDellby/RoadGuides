@@ -1,0 +1,161 @@
+Time	Km	Instruction	For	Toward
+Summary:  33,7 kilometres (24 minutes)
+09:00	0,0	Depart 121 on Ramp (East)	1,2 km	E20 / Stockholm / Eskilstuna / Arboga Östra
+09:01	1,2	Keep STRAIGHT onto E20 [249]	2,3 km	
+09:02	3,4	At 122, stay on E20 [249] (South)	1,1 km	
+09:03	4,5	At roundabout, take the THIRD exit onto E20	2,1 km	
+09:05	6,6	At E20, 732 94 Arboga, stay on E20 (East)	2,5 km	
+09:07	9,0	At near Nedre Skäftruna, stay on E20 (East)	6,3 km	
+09:12	15,3	At E20, 736 35 Kungsör, stay on E20 [56] (East)	2,2 km	
+09:13	17,6	At E20, 736 91 Kungsör, stay on E20 [56] (East)	3,7 km	
+09:16	21,3	At E20, 736 92 Kungsör, stay on E20 (East)	1,8 km	
+09:18	23,1	At E20, 736 92 Kungsör, stay on E20 (East)	0,5 km	
+09:18	23,6	At E20, 736 92 Kungsör, stay on E20 (East)	2,6 km	
+09:20	26,2	At E20, 736 92 Kungsör, stay on E20 (East)	1,7 km	
+09:21	27,8	At E20, 736 92 Kungsör, stay on E20 (East)	0,5 km	
+09:21	28,3	At E20, 736 92 Kungsör, stay on E20 (East)	5,4 km	
+09:24	33,7	Arrive 129		
+
+SUMMARY
+Driving distance:  33,7 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  43,23 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,2 kilometres (23 minutes)
+09:00	0,0	Depart 129 on E20 (West)	4,4 km	
+09:02	4,4	At E20, 635 12 Eskilstuna, stay on E20 (West)	1,8 km	
+09:03	6,2	At near Mälhammar, stay on E20 (West)	1,6 km	
+09:04	7,8	At E20, 736 92 Kungsör, stay on E20 (West)	2,6 km	
+09:06	10,4	At E20, 736 92 Kungsör, stay on E20 (West)	0,5 km	
+09:06	10,9	At E20, 736 92 Kungsör, stay on E20 (West)	1,7 km	
+09:07	12,6	At E20, 736 92 Kungsör, stay on E20 (West)	3,8 km	
+09:10	16,4	At E20, 736 91 Kungsör, stay on E20 [56] (West)	2,2 km	
+09:12	18,6	At E20, 736 35 Kungsör, stay on E20 [56] (West)	6,3 km	
+09:17	25,0	At E20, 732 94 Arboga, stay on E20 (West)	2,4 km	
+09:19	27,4	At E20, 732 94 Arboga, stay on E20 (West)	1,9 km	
+09:20	29,3	At roundabout, take the FIRST exit onto E20	0,8 km	
+09:21	30,1	At 122, stay on E20 (North)	2,1 km	
+09:23	32,2	Arrive 249, 732 95 Arboga		
+
+SUMMARY
+Driving distance:  32,2 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  41,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,7 kilometres (18 minutes)
+09:00	0,0	Depart 129 on E20 (East)	2,3 km	
+09:01	2,3	At 130, stay on E20 [53] (East)	3,4 km	
+09:02	5,7	At 131, stay on E20 [53] (East)	3,1 km	
+09:04	8,7	At 132, stay on E20 (East)	3,7 km	
+09:06	12,5	At 133, keep STRAIGHT to stay on E20	5,8 km	
+09:09	18,3	At 134, stay on E20 (East)	13,5 km	
+09:16	31,8	At 135, stay on E20 (East)	3,0 km	
+09:18	34,7	Arrive 136		
+
+SUMMARY
+Driving distance:  34,7 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  48,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,2 kilometres (18 minutes)
+09:00	0,0	Depart 136 on E20 (West)	3,1 km	
+09:01	3,1	At 135, stay on E20 (West)	13,9 km	
+09:08	16,9	At 134, stay on E20 (West)	5,2 km	
+09:11	22,1	At 133, stay on E20 (West)	3,8 km	
+09:13	25,9	At 132, stay on E20 (West)	3,4 km	
+09:15	29,3	At 131, stay on E20 [53] (West)	3,1 km	
+09:17	32,4	At 130, stay on E20 [53] (North-West)	2,8 km	
+09:18	35,1	At exit 129, keep RIGHT onto Ramp	50 m	53 / Västerås
+09:18	35,2	Arrive near Egelsta		
+
+SUMMARY
+Driving distance:  35,2 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  48,87 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  48,0 kilometres (25 minutes)
+09:00	0,0	Depart 136 on E20 (East)	6,2 km	
+09:03	6,2	At 137, stay on E20 (South)	8,1 km	
+09:07	14,3	At 138, stay on E20 (South-East)	4,8 km	
+09:10	19,1	At 139, stay on E20 (South-East)	17,9 km	
+09:19	37,0	At 140, stay on E20 (East)	5,9 km	
+09:22	43,0	At 141, stay on E20 (East)	5,0 km	
+09:25	48,0	Arrive E20, 151 47 Södertälje		
+
+SUMMARY
+Driving distance:  48,0 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  64,30 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,9 kilometres (25 minutes)
+09:00	0,0	Depart 143 on Ramp (South)	60 m	E20 / Göteborg / Strängnäs / Södertälje Centrum
+09:00	0,1	Take Ramp (LEFT) onto E20	4,7 km	E20 / Göteborg / Strängnäs / Södertälje Centrum
+09:02	4,8	At E20, 151 Södertälje, keep RIGHT to stay on E20	6,0 km	
+09:06	10,7	At E20, 155 Nykvarn, stay on E20 (West)	18,9 km	
+09:15	29,6	At E20, 647 Mariefred, stay on E20 (North-West)	4,4 km	
+09:18	34,0	At E20, 640 Åkers Styckebruk, stay on E20 (North-West)	7,8 km	
+09:22	41,8	At E20, 645 Strängnäs, stay on E20 (North-West)	6,1 km	
+09:25	47,9	Arrive E20, 645 Strängnäs		
+
+SUMMARY
+Driving distance:  47,9 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  57,50 kr
+
+Gärsnäs (121) - Marielund (122)
+3.4 km/2.1 km	2 min 16 s/1 min 24 s	90
+
+Marielund (122) - Kungsör syd
+1.1 km/0.8 km	0 min 50 s/0 min 36 s	80
+2.1 km/1.9 km	1 min 35 s/1 min 26 s
+2.5 km/2.4 km	1 min 53 s/1 min 48 s
+6.3 km/6.3 km	4 min 44 s/4 min 44 s
+
+Kungsör väst - Kungsör syd
+2.2 km/2.2 km	1 min 53 s/1 min 53 s	70
+
+Kungsör syd - Östertibble
+3.7 km/3.8 km	2 min 47 s/2 min 51 s	80
+1.8 km/1.7 km	1 min 21 s/1 min 17 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+2.6 km/2.6 km	1 min 57 s/1 min 57 s
+
+Östertibble - Gröndal (129)
+1.7 km/1.6 km	1 min 8 s/1 min 4 s	90
+0.5 km/1.8 km	0 min 20 s/1 min 12 s
+5.4 km/4.4 km	3 min 36 s/2 min 56 s
+
+Gröndal (129) - Svista (133)
+2.3 km/2.8 km	1 min 32 s/1 min 52 s	90
+3.4 km/3.1 km	2 min 16 s/2 min 4 s
+3.1 km/3.4 km	2 min 4 s/2 min 16 s
+3.7 km/3.8 km	2 min 28 s/2 min 32 s
+
+Svista (133) - Lunda (136)
+5.8 km/5.2 km	3 min 10 s/2 min 50 s	110
+8.9 km/8.7 km	4 min 51 s/4 min 45 s
+4.6 km/5.2 km	2 min 31 s/2 min 50 s
+3.0 km/3.1 km	1 min 38 s/1 min 41 s
+
+Lunda (136) - Vasa (141)
+6.2 km/6.1 km	3 min 23 s/3 min 20 s	110
+8.1 km/7.8 km	4 min 25 s/4 min 15 s
+4.8 km/4.4 km	2 min 37 s/2 min 24 s
+6.7 km/6.6 km	3 min 39 s/3 min 36 s
+11.2 km/12.3 km	6 min 7 s/6 min 43 s
+5.5 km/4.7 km	3 min 0 s/2 min 34 s
+0.4 km/1.3 km	0 min 13 s/0 min 43 s
+
+Vasa (141) - Saltskog (142/143)
+5.0 km/4.8 km	3 min 0 s/2 min 53 s	100

@@ -1,0 +1,732 @@
+Time	Km	Instruction	For	Toward
+Summary:  33,2 kilometres (27 minutes)
+09:00	0,0	Depart Korsning Östervik on 26 (South)	8,5 km	
+09:07	8,5	At Korsning Lesjöfors, stay on 26 [Bergslagsgatan] (South)	9,5 km	
+09:15	17,9	At T-korsning Dalen, stay on 26 (South)	0,8 km	
+09:16	18,8	At near Långban, stay on 26 (South)	3,6 km	
+09:19	22,4	At T-korsning Långban N, stay on 26 (South)	2,5 km	
+09:21	24,9	At near Långban, stay on 26 (South)	8,3 km	
+09:27	33,2	Arrive T-korsning Rv 26/Rv 63		
+
+SUMMARY
+Driving distance:  33,2 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  40,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,2 kilometres (27 minutes)
+09:00	0,0	Depart T-korsning Rv 26/Rv 63 on 26 (West)	8,3 km	
+09:06	8,3	At near Långban, stay on 26 (North)	2,5 km	
+09:08	10,8	At T-korsning Långban N, stay on 26 (North)	3,6 km	
+09:11	14,4	At near Långban, stay on 26 (North)	0,8 km	
+09:11	15,3	At T-korsning Dalen, stay on 26 (North)	9,5 km	
+09:20	24,7	At Korsning Lesjöfors, stay on 26 [Bergslagsgatan] (North)	8,5 km	
+09:27	33,2	Arrive Korsning Östervik		
+
+SUMMARY
+Driving distance:  33,2 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  40,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,5 kilometres (17 minutes)
+09:00	0,0	Depart Korsning Filipstad Ö on 26 [Nykroppavägen] (South)	11,2 km	
+09:09	11,2	At near Nykroppa, stay on 26 (South)	0,5 km	
+09:09	11,7	At Korsning Nykroppa V, stay on 26 (South)	3,8 km	
+09:12	15,5	At near Riddarnäset, stay on 26 (South)	5,2 km	
+09:16	20,7	At T-korsning Storfors N, stay on 26 (South)	0,6 km	
+09:16	21,2	At roundabout, take the SECOND exit onto 26	0,3 km	
+09:17	21,5	Arrive near Storfors		
+
+SUMMARY
+Driving distance:  21,5 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,55 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,6 kilometres (17 minutes)
+09:00	0,0	Depart Korsning Storfors Ö on 26 (North)	0,5 km	
+09:00	0,5	At roundabout, take the SECOND exit onto 26	0,6 km	
+09:01	1,1	At T-korsning Storfors N, stay on 26 (North)	5,2 km	
+09:05	6,2	At near Riddarnäset, stay on 26 (North)	3,8 km	
+09:08	10,0	At Korsning Nykroppa V, stay on 26 (North)	0,5 km	
+09:08	10,5	At 26, 682 92 Filipstad, stay on 26 (North)	11,1 km	
+09:17	21,6	Arrive Nykroppavägen, 682 34 Filipstad		
+
+SUMMARY
+Driving distance:  21,6 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,6 kilometres (21 minutes)
+09:00	0,0	Depart near Storfors on 26 (South-East)	0,9 km	
+09:01	0,9	At Korsning Storfors K:a, stay on 26 (South)	0,5 km	
+09:02	1,4	At T-korsning Storfors S, stay on 26 (South)	3,1 km	
+09:04	4,5	At near Släbråten, stay on 26 (West)	8,2 km	
+09:10	12,7	At T-korsning Bergsjö N, stay on 26 (South-West)	0,8 km	
+09:11	13,5	At near Södra Ullvettern, stay on 26 [Nässundet Norsbäcken] (South)	6,4 km	
+09:16	19,9	At Korsning Niklasdamm, stay on 26 (South)	5,0 km	
+09:19	24,9	At T-korsning Kristinehamn GK, stay on 26 (South)	1,7 km	
+09:21	26,6	Arrive 26, 681 35 Kristinehamn		
+
+SUMMARY
+Driving distance:  26,6 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  31,14 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,8 kilometres (21 minutes)
+09:00	0,0	Depart E18, 681 34 Kristinehamn on Ramp (West)	0,4 km	26 / Filipstad / Kristinehamn Centrum
+09:00	0,4	Turn RIGHT (North) onto 26	1,6 km	
+09:01	2,1	At T-korsning Kristinehamn GK, stay on 26 (North)	5,0 km	
+09:05	7,1	At Korsning Niklasdamm, stay on 26 (North)	6,4 km	
+09:10	13,5	At near Södra Ullvettern, stay on 26 [Nässundet Norsbäcken] (North)	0,8 km	
+09:10	14,3	At T-korsning Bergsjö N, stay on 26 (North-East)	8,2 km	
+09:17	22,5	At near Släbråten, stay on 26 (North-East)	3,1 km	
+09:19	25,6	At T-korsning Storfors S, stay on 26 (North)	0,5 km	
+09:20	26,1	At Korsning Storfors K:a, stay on 26 (North)	0,7 km	
+09:21	26,8	Arrive Korsning Storfors Ö		
+
+SUMMARY
+Driving distance:  26,8 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  31,54 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,0 kilometres (11 minutes)
+09:00	0,0	Depart T-korsning Slättäng on 26 [47] (South)	5,5 km	
+09:04	5,5	At T-korsning Mon norra, stay on 26 [47] (South)	0,9 km	
+09:04	6,5	At T-korsning Mon södra, stay on 26 [47] (South)	0,7 km	
+09:05	7,2	At T-korsning Broholm, stay on 26 [47] (South)	4,6 km	
+09:08	11,8	At T-korsning Mullsjö N, stay on 26 [47] (South)	2,1 km	
+09:10	13,9	At 26, 565 33 Mullsjö, stay on 26 [47] (South)	1,1 km	
+09:11	15,0	Arrive 26, 565 33 Mullsjö		
+
+SUMMARY
+Driving distance:  15,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,79 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,0 kilometres (11 minutes)
+09:00	0,0	Depart 26, 565 Mullsjö on Local road(s) (North-East)	80 m	
+09:00	0,1	Bear RIGHT (North-West) onto 26 [47]	1,1 km	
+09:00	1,2	At 26, 565 Mullsjö, stay on 26 [47] (North)	2,1 km	
+09:02	3,3	At 26, 565 Mullsjö, stay on 26 [47] (North)	4,6 km	
+09:05	7,9	At 26, 560 Sandhem, stay on 26 [47] (North)	0,7 km	
+09:06	8,6	At 26, 560 Sandhem, stay on 26 [47] (North)	0,9 km	
+09:07	9,5	At 26, 560 Sandhem, stay on 26 [47] (North)	5,5 km	
+09:11	15,0	Arrive 26, 560 Sandhem		
+
+SUMMARY
+Driving distance:  15,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  17,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,4 kilometres (13 minutes)
+09:00	0,0	Depart 26, 565 33 Mullsjö on Local road(s) (South-West)	80 m	
+09:00	0,1	Bear RIGHT (South-East) onto 26 [47]	0,5 km	
+09:00	0,6	At 26, 565 91 Mullsjö, stay on 26 [47] (South)	3,0 km	
+09:03	3,5	At Korsning Bäckebo, stay on 26 [47] (East)	3,3 km	
+09:05	6,8	At Korsning Ljunga, stay on 26 [47] (East)	0,8 km	
+09:06	7,6	At 26, 566 91 Habo, stay on 26 [47] (East)	2,7 km	
+09:08	10,3	At T-korsning Tuvebo, stay on 26 [47] (East)	1,7 km	
+09:09	12,0	At near Ebbarpsby, stay on 26 [47] (East)	0,7 km	
+09:10	12,7	At Korsning Domnaryd, stay on 26 [47] (South)	1,3 km	
+09:11	13,9	At Korsning Skirebo, stay on 26 [47] (East)	0,5 km	
+09:11	14,4	At Korsning Sjövik, stay on 26 [47] (East)	2,5 km	
+09:13	16,9	At T-korsning, stay on 26 [47] (East)	0,5 km	
+09:13	17,4	Arrive 47, 555 94 Jönköping		
+
+SUMMARY
+Driving distance:  17,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  22,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,7 kilometres (14 minutes)
+09:00	0,0	Depart 47, 555 Jönköping on Ramp (North)	90 m	26 / 47 / Mariestad / Trollhättan / Mullsjö / Kortebo
+09:00	0,1	Bear LEFT (North) onto 26 [47]	0,8 km	
+09:00	0,9	At 26, 564 Bankeryd, stay on 26 [47] (North-West)	2,5 km	
+09:02	3,4	At Sjövik, 564 Bankeryd, stay on 26 [47] (West)	0,5 km	
+09:03	3,9	At Sjövik, 564 Bankeryd, stay on 26 [47] (West)	1,3 km	
+09:03	5,2	At Fröjden, 564 Bankeryd, stay on 26 [47] (North)	0,5 km	
+09:04	5,7	At 47, 564 Bankeryd, stay on 26 [47] (North)	1,6 km	
+09:05	7,3	At 26, 566 Habo, stay on 26 [47] (West)	2,9 km	
+09:08	10,1	At 26, 566 Habo, stay on 26 [47] (West)	0,9 km	
+09:09	11,0	At 26, 566 Habo, stay on 26 [47] (West)	3,3 km	
+09:11	14,3	At 26, 565 Mullsjö, stay on 26 [47] (West)	3,0 km	
+09:14	17,3	At near Mullsjö, stay on 26 [47] (North)	0,5 km	
+09:14	17,7	Arrive 26, 565 Mullsjö		
+
+SUMMARY
+Driving distance:  17,7 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  20,06 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,5 kilometres (9 minutes)
+09:00	0,0	Depart 26, 560 42 Sandhem on Local road(s) (North)	60 m	
+09:00	0,1	Keep STRAIGHT onto 26	0,5 km	
+09:00	0,5	At Korsning, stay on 26 (North)	0,7 km	
+09:01	1,3	At Korsning, stay on 26 (North)	2,1 km	
+09:02	3,4	At Korsning, stay on 26 (North)	3,0 km	
+09:04	6,3	At Korsning Vättak V, stay on 26 (North-East)	4,4 km	
+09:08	10,7	At T-korsning, stay on 26 (North)	0,3 km	
+09:08	11,0	At T-korsning, stay on 26 (North)	1,4 km	
+09:09	12,5	Arrive 26, 522 92 Tidaholm		
+
+SUMMARY
+Driving distance:  12,5 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  15,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,5 kilometres (9 minutes)
+09:00	0,0	Depart 26, 522 91 Tidaholm on Local road(s) (West)	70 m	
+09:00	0,1	Bear RIGHT (South) onto 26	1,5 km	
+09:01	1,5	At T-korsning, stay on 26 (South)	0,3 km	
+09:01	1,9	At T-korsning, stay on 26 (South)	4,4 km	
+09:04	6,2	At Korsning Vättak V, stay on 26 (South)	3,0 km	
+09:07	9,2	At Korsning, stay on 26 (South)	1,9 km	
+09:08	11,1	At 26, 522 92 Falköping, stay on 26 (South)	0,9 km	
+09:09	12,0	At Korsning, stay on 26 (South)	0,5 km	
+09:09	12,5	Arrive 47, 560 42 Sandhem		
+
+SUMMARY
+Driving distance:  12,5 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  15,89 kr
+Time	Km	Instruction	For	Toward
+Summary:  19,8 kilometres (15 minutes)
+09:00	0,0	Depart 26, 522 92 Tidaholm on Local road(s) (East)	60 m	
+09:00	0,1	Bear RIGHT (North) onto 26	2,6 km	
+09:02	2,7	At Korsning Ängatorp, stay on 26 (North)	3,6 km	
+09:04	6,3	At Korsning Acklinga, stay on 26 (North)	3,3 km	
+09:07	9,6	At T-korsning Kavlåsbruket, stay on 26 (North-West)	2,2 km	
+09:08	11,8	At Korsning Kungslena Mad, stay on 26 (North-West)	1,5 km	
+09:10	13,3	At 26, 522 93 Tidaholm, stay on 26 (North-West)	1,3 km	
+09:11	14,6	At Korsning Åsebacken, stay on 26 (North)	4,3 km	
+09:14	18,9	At Korsning Borgunda Ö, stay on 26 (North)	0,9 km	
+09:15	19,8	Arrive Korsning Munkabo		
+
+SUMMARY
+Driving distance:  19,8 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  25,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (15 minutes)
+09:00	0,0	Depart 26, 541 93 Skövde on Local road(s) (West)	80 m	
+09:00	0,1	Turn RIGHT (South-East) onto 26	0,9 km	
+09:00	1,0	At Korsning Borgunda Ö, stay on 26 (South)	4,3 km	
+09:04	5,4	At Korsning Åsebacken, stay on 26 (South)	1,3 km	
+09:05	6,7	At 26, 522 93 Tidaholm, stay on 26 (South-East)	1,5 km	
+09:06	8,1	At Korsning Kungslena Mad, stay on 26 (South-East)	2,0 km	
+09:07	10,2	At T-korsning Kavlåsbruket, stay on 26 (South-East)	3,5 km	
+09:10	13,6	At Korsning Acklinga, stay on 26 (South)	3,6 km	
+09:13	17,2	At Korsning Ängatorp, stay on 26 (South)	2,6 km	
+09:15	19,9	Arrive 26, 522 91 Tidaholm		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  25,18 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,9 kilometres (6 minutes)
+09:00	0,0	Depart Korsning Munkabo on 26 (North-West)	0,9 km	
+09:00	0,9	At 26, 541 93 Skövde, stay on 26 (North)	2,5 km	
+09:02	3,3	At 26, 541 93 Skövde, stay on 26 (North-East)	2,5 km	
+09:04	5,8	At 26, 541 93 Skövde, stay on 26 (North)	1,5 km	
+09:05	7,3	At 26, 541 36 Skövde, stay on 26 (North)	1,6 km	
+09:06	8,9	Arrive 26, 541 36 Skövde		
+
+SUMMARY
+Driving distance:  8,9 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  11,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,5 kilometres (7 minutes)
+09:00	0,0	Depart 26, 541 36 Skövde on 26 [49] (South)	1,8 km	
+09:01	1,8	At 26, 541 36 Skövde, stay on 26 (South)	1,7 km	
+09:02	3,5	At 26, 541 93 Skövde, stay on 26 (South)	2,7 km	
+09:04	6,2	At 26, 541 93 Skövde, stay on 26 (South-West)	2,2 km	
+09:06	8,4	At 26, 541 93 Skövde, stay on 26 (South)	1,1 km	
+09:07	9,5	Arrive 26, 541 93 Skövde		
+
+SUMMARY
+Driving distance:  9,5 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  12,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,0 kilometres (7 minutes)
+09:00	0,0	Depart 26, 541 36 Skövde on 26 (North)	1,1 km	
+09:00	1,1	At roundabout, take the SECOND exit onto 26 [49]	1,2 km	
+09:02	2,3	At roundabout, take the SECOND exit onto 26 [49]	1,5 km	
+09:03	3,9	At 26, 541 34 Skövde, stay on 26 [49] (North)	0,7 km	
+09:03	4,5	At T-korsning, stay on 26 [Östra Leden] (North)	0,8 km	
+09:04	5,3	Bear RIGHT (East) onto Local road(s)	40 m	
+09:04	5,4	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:04	5,5	Keep STRAIGHT onto 26 [Östra Leden]	1,4 km	
+09:05	6,9	At roundabout, take the SECOND exit onto 26 [Törebodavägen]	0,6 km	
+09:06	7,5	At 26, 541 91 Skövde, stay on 26 [Törebodavägen] (West)	0,5 km	
+09:07	8,0	Arrive 26, 541 91 Skövde		
+
+SUMMARY
+Driving distance:  8,0 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  14,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  7,3 kilometres (6 minutes)
+09:00	0,0	Depart Karstorpsrondellen, 541 42 Skövde on Karstorpsrondellen (South-West)	0,1 km	
+09:00	0,1	Bear RIGHT (East) onto 26 [Törebodavägen]	0,4 km	
+09:00	0,5	At 26, 541 91 Skövde, stay on 26 [Törebodavägen] (East)	0,6 km	
+09:01	1,1	At roundabout, take the FIRST exit onto 26 [Östra Leden]	1,4 km	
+09:02	2,5	Keep RIGHT onto Local road(s)	60 m	
+09:02	2,5	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:02	2,7	Bear RIGHT (South) onto 26 [Östra Leden]	0,8 km	
+09:03	3,5	At T-korsning, stay on 26 [Östra Leden] (South)	0,8 km	
+09:03	4,3	At 26, 541 34 Skövde, stay on 26 [49] (South)	1,4 km	
+09:04	5,6	At roundabout, take the SECOND exit onto 26 [49]	1,2 km	
+09:06	6,8	At roundabout, take the SECOND exit onto 26 [49]	0,5 km	
+09:06	7,3	Arrive 26, 541 36 Skövde		
+
+SUMMARY
+Driving distance:  7,3 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  14,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,3 kilometres (22 minutes)
+09:00	0,0	Depart 26, 541 91 Skövde on Karstorpsrondellen (North-West)	20 m	
+09:00	0,1	Keep RIGHT onto 26	3,5 km	
+09:02	3,5	At 26, 541 91 Skövde, stay on 26 (North)	2,9 km	
+09:04	6,4	At Korsning Stöpen väg 26, stay on 26 (North)	3,7 km	
+09:07	10,2	At 26, 541 91 Skövde, stay on 26 (North)	0,8 km	
+09:08	11,0	At Korsning Mobacka, stay on 26 (North)	1,7 km	
+09:09	12,7	At Korsning Lövåsen väg 26, stay on 26 (North)	2,6 km	
+09:11	15,3	At T-korsning Rambotorp, stay on 26 (North)	1,4 km	
+09:12	16,7	At T-korsning, stay on 26 (North-West)	3,3 km	
+09:15	20,0	At Korsning Kröken, stay on 26 (North)	0,4 km	
+09:15	20,4	At Korsning Boterstena, stay on 26 (North)	2,4 km	
+09:17	22,8	At Korsning Ek, stay on 26 (North)	5,8 km	
+09:21	28,7	At Korsning Karleby väg 26, stay on 26 (North)	0,7 km	
+09:22	29,3	Arrive 26, 542 35 Mariestad		
+
+SUMMARY
+Driving distance:  29,3 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  38,34 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,8 kilometres (22 minutes)
+09:00	0,0	Depart near Leksberg on Ramp (West)	0,2 km	26 / Horn / Jönköping / Skövde / Mariestad Södra / Centrum / Haggården
+09:00	0,2	Keep RIGHT to stay on Ramp	60 m	
+09:00	0,2	Turn RIGHT (South) onto 26	0,9 km	Jönköping / Skövde
+09:01	1,2	At 26, 542 Mariestad, stay on 26 (South)	5,8 km	
+09:05	7,0	At 26, 542 Mariestad, stay on 26 (South)	2,4 km	
+09:07	9,4	At Ek Boterstena Gång, 542 Mariestad, stay on 26 (South)	0,4 km	
+09:07	9,8	At 26, 542 Mariestad, stay on 26 (South)	3,3 km	
+09:10	13,2	At near Slättäng, stay on 26 (South)	1,4 km	
+09:11	14,6	At 26, 540 Timmersdala, stay on 26 (South)	2,5 km	
+09:13	17,1	At near Låstad, stay on 26 (South-East)	1,7 km	
+09:14	18,8	At near Frösve, stay on 26 (South)	0,7 km	
+09:15	19,6	At 26, 541 Skövde, stay on 26 (South)	3,8 km	
+09:18	23,4	At 26, 541 Skövde, stay on 26 (South)	2,7 km	
+09:20	26,1	At 26, 541 Skövde, stay on 26 (South)	3,7 km	
+09:22	29,8	Arrive Karstorpsrondellen, 541 Skövde		
+
+SUMMARY
+Driving distance:  29,8 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  34,21 kr
+
+Hedenstorp - Trafikplats
+1.1 km/0.9 km	0 min 57 s/0 min 46 s	70
+
+Trafikplats - Trafikplats
+2.5 km/2.1 km	1 min 40 s/1 min 24 s	90
+3.9 km/4.3 km	2 min 36 s/2 min 52 s
+
+Mullsjö V - Trafikplats
+0.9 km/0.5 km	0 min 41 s/0 min 23 s	80
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+0.5 km/0.7 km	0 min 23 s/0 min 31 s
+1.6 km/1.7 km	1 min 12 s/1 min 17 s
+2.9 km/2.7 km	2 min 11 s/2 min 2 s
+0.9 km/0.8 km	0 min 41 s/0 min 36 s
+3.3 km/3.3 km	2 min 28 s/2 min 28 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+0.5 km/0.6 km	0 min 23 s/0 min 27 s
+
+Mullsjö V - Slättäng
+1.2 km/1.1 km	0 min 54 s/0 min 50 s	80
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+4.6 km/4.6 km	3 min 27 s/3 min 27 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+5.5 km/5.5 km	4 min 8 s/4 min 8 s
+
+Slättäng - Suntakstan
+0.5 km/0.5 km	0 min 23 s/0 min 23 s	80
+0.7 km/0.9 km	0 min 31 s/0 min 41 s
+2.1 km/1.9 km	1 min 35 s/1 min 26 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+4.4 km/4.4 km	3 min 18 s/3 min 18 s
+0.3 km/0.3 km	0 min 14 s/0 min 14 s
+1.4 km/1.5 km	1 min 3 s/1 min 8 s
+
+Suntakstan - Munkabro
+2.7 km/2.6 km	2 min 2 s/1 min 57 s	80
+3.6 km/3.6 km	2 min 42 s/2 min 42 s
+3.3 km/3.5 km	2 min 28 s/2 min 38 s
+2.2 km/2.0 km	1 min 39 s/1 min 30 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+4.3 km/4.3 km	3 min 14 s/3 min 14 s
+0.9 km/1.0 km	0 min 41 s/0 min 45 s
+
+Munkabro - Grevagården
+0.9 km/1.1 km	0 min 41 s/0 min 50 s	80
+
+Grevagården - Skövde Södra
+2.5 km/2.2 km	1 min 40 s/1 min 28 s	90
+2.5 km/2.7 km	1 min 40 s/1 min 48 s
+1.5 km/1.7 km	1 min 0 s/1 min 8 s
+1.6 km/1.8 km	1 min 4 s/1 min 12 s
+
+Skövde Södra - Karstorpsrondellen
+1.1 km/0.5 km	0 min 57 s/0 min 26 s	70
+1.2 km/1.2 km	1 min 2 s/1 min 2 s
+1.5 km/1.4 km	1 min 17 s/1 min 12 s
+0.7 km/0.8 km	0 min 36 s/0 min 41 s
+0.9 km/1.0 km	0 min 46 s/0 min 51 s
+1.5 km/1.4 km	1 min 17 s/1 min 12 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+
+Karstorpsrondellen - Trp Haggården
+3.5 km/3.7 km	2 min 38 s/2 min 47 s	80
+2.9 km/2.7 km	2 min 11 s/2 min 2 s
+3.7 km/3.8 km	2 min 47 s/2 min 51 s
+0.8 km/0.7 km	0 min 36 s/0 min 31 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+2.6 km/2.5 km	1 min 57 s/1 min 53 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+3.3 km/3.3 km	2 min 28 s/2 min 28 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+5.8 km/5.8 km	4 min 21 s/4 min 21 s
+0.7 km/1.2 km	0 min 31 s/0 min 54 s
+
+Time	Km	Instruction	For	Toward
+Summary:  26,0 kilometres (19 minutes)
+09:00	0,0	Depart T-korsning Hasslerör Ö on 26 (North-West)	0,7 km	
+09:00	0,7	At T-korsning Hasslerör N, stay on 26 (North)	2,4 km	
+09:02	3,1	At T-korsning Fåleberg, stay on 26 (North)	6,8 km	
+09:07	9,9	At T-korsning Sjötorp S, stay on 26 (North)	0,6 km	
+09:07	10,5	At 26, 540 Sjötorp, stay on 26 (North)	1,3 km	
+09:08	11,8	At T-korsning Sjötorp N, stay on 26 (North)	0,4 km	
+09:09	12,2	At T-korsning Kullerud, stay on 26 (North)	1,4 km	
+09:10	13,6	At T-korsning Sannerudskärr, stay on 26 (North)	3,3 km	
+09:12	16,8	At T-korsning Askeviken, stay on 26 (North)	0,9 km	
+09:13	17,7	At near Tattertorp, stay on 26 (North)	0,7 km	
+09:13	18,4	At T-korsning Ekenäs, stay on 26 (North)	3,8 km	
+09:16	22,2	At T-korsning Otterbäcken S, stay on 26 (North)	1,6 km	
+09:17	23,8	At Korsning Otterbäcken Ö, stay on 26 (North)	2,2 km	
+09:19	26,0	Arrive Korsning Otterbäcken N		
+
+SUMMARY
+Driving distance:  26,0 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  31,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,4 kilometres (19 minutes)
+09:00	0,0	Depart Korsning Otterbäcken N on 26 (South)	2,2 km	
+09:01	2,2	At Korsning Otterbäcken Ö, stay on 26 (South)	1,6 km	
+09:02	3,8	At T-korsning Otterbäcken S, stay on 26 (South)	3,8 km	
+09:05	7,5	At T-korsning Ekenäs, stay on 26 (South)	0,7 km	
+09:06	8,3	At near Tattertorp, stay on 26 (South)	0,2 km	
+09:06	8,5	At T-korsning Askeviken, stay on 26 (South)	3,3 km	
+09:08	11,8	At T-korsning Sannerudskärr, stay on 26 (South)	1,4 km	
+09:09	13,2	At T-korsning Kullerud, stay on 26 (South)	0,4 km	
+09:10	13,5	At T-korsning Sjötorp N, stay on 26 (South)	1,3 km	
+09:11	14,9	At near Sjötorp, stay on 26 (South)	0,5 km	
+09:11	15,4	At T-korsning Sjötorp S, stay on 26 (South)	6,9 km	
+09:16	22,3	At T-korsning Fåleberg, stay on 26 (South)	2,3 km	
+09:18	24,6	At near Hasslerör, stay on 26 (South)	0,8 km	
+09:19	25,4	Arrive T-korsning Hasslerör Ö		
+
+SUMMARY
+Driving distance:  25,4 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  34,98 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,6 kilometres (26 minutes)
+09:00	0,0	Depart T-korsning Bjurvik on 26 [Gränsen] (North)	4,0 km	
+09:03	4,0	At Korsning Värmlands Säby, stay on 26 [Värmlands-Säby Karlslund] (North)	1,7 km	
+09:04	5,7	At T-korsning Nybble, stay on 26 (North)	1,9 km	
+09:05	7,6	At Korsning Visnum Vall, stay on 26 (North)	1,1 km	
+09:06	8,7	At Korsning Visnum S, stay on 26 (North)	0,5 km	
+09:07	9,2	At Korsning Visnum N, stay on 26 (North)	0,4 km	
+09:07	9,6	At T-korsning Långserud, stay on 26 (North)	3,0 km	
+09:09	12,5	At T-korsning Bäckhammar väg 26, stay on 26 (North)	1,6 km	
+09:10	14,2	At T-korsning Hultsvägen, stay on 26 (North)	0,8 km	
+09:11	14,9	At T-korsning, stay on 26 (North)	7,8 km	
+09:17	22,7	At T-korsning Agetorp, stay on 26 (North)	4,2 km	
+09:20	26,9	At T-korsning Järsberg, stay on 26 [Karaby] (North-West)	1,5 km	
+09:21	28,4	At 26, 681 91 Kristinehamn, keep RIGHT onto Varnumsleden	0,1 km	
+09:21	28,5	Bear RIGHT (North-East) onto 26 [Varnumsleden]	0,8 km	
+09:22	29,2	At near Kristinehamn, stay on 26 [Varnumsleden] (East)	1,2 km	
+09:23	30,5	At T-korsning Rv26/Närkevägen, stay on 26 [Närkevägen] (North)	0,5 km	
+09:24	31,0	At Korsning Kvarndammen, stay on 26 [Närkevägen] (North)	0,5 km	
+09:25	31,5	At 26, 681 91 Kristinehamn, bear RIGHT (South-East) onto Ramp	0,2 km	26 / E18 / Karlstad / Oslo / Filipstad
+09:25	31,7	Bear RIGHT (West) onto E18 [26]	1,9 km	
+09:26	33,6	Arrive E18, 681 34 Kristinehamn		
+
+SUMMARY
+Driving distance:  33,6 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  42,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,2 kilometres (27 minutes)
+09:00	0,0	Depart 26, 681 35 Kristinehamn on 26 (South)	0,2 km	
+09:00	0,2	At Dalavägen, 681 35 Kristinehamn, turn LEFT (East) onto Ramp	0,2 km	E18 / 26 / Stockholm / Mariestad
+09:00	0,4	Bear RIGHT (East) onto E18 [26]	2,1 km	
+09:01	2,5	At E18, 681 43 Kristinehamn, return West on E18 [26]	10 m	
+09:01	2,6	Turn LEFT (East) onto Ramp	0,3 km	26 / Mariestad / Kristinehamn Ö / Centrum
+09:02	2,9	Turn LEFT (South) onto 26 [Närkevägen]	0,7 km	Mariestad / Centrum
+09:03	3,6	At Närkevägen, 681 43 Kristinehamn, stay on 26 [Närkevägen] (South)	1,3 km	
+09:04	4,8	At near Kristinehamn, stay on 26 [Varnumsleden] (West)	0,8 km	
+09:05	5,6	At roundabout, take the THIRD exit onto 26	1,6 km	
+09:06	7,3	At T-korsning Järsberg, stay on 26 [Karaby] (South-East)	4,2 km	
+09:10	11,5	At T-korsning Agetorp, stay on 26 (South)	7,8 km	
+09:15	19,2	At T-korsning, stay on 26 (South)	0,8 km	
+09:16	20,0	At T-korsning Hultsvägen, stay on 26 (South)	1,6 km	
+09:17	21,7	At T-korsning Bäckhammar väg 26, stay on 26 (South)	3,0 km	
+09:19	24,6	At T-korsning Långserud, stay on 26 (South)	0,4 km	
+09:20	25,0	At Korsning Visnum N, stay on 26 (South)	0,5 km	
+09:20	25,5	At Korsning Visnum S, stay on 26 (South)	1,1 km	
+09:21	26,6	At Korsning Visnum Vall, stay on 26 (South)	1,9 km	
+09:23	28,5	At T-korsning Nybble, stay on 26 (South)	1,7 km	
+09:24	30,2	At Korsning Värmlands Säby, stay on 26 [Värmlands-Säby Löten] (South)	4,0 km	
+09:27	34,2	Arrive T-korsning Bjurvik		
+
+SUMMARY
+Driving distance:  34,2 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  43,66 kr
+
+Hasslerör Ö - Otterbäcken N
+0.7 km/0.8 km	0 min 31 s/0 min 36 s
+2.4 km/2.3 km	1 min 48 s/1 min 43 s
+6.8 km/6.9 km	5 min 6 s/5 min 11 s
+0.6 km/0.5 km	0 min 27 s/0 min 23 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+3.3 km/3.3 km	2 min 28 s/2 min 28 s
+0.9 km/0.2 km	0 min 41 s/0 min 9 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+
+Otterbäcken N - Gullspång
+2.6 km/2.6 km	2 min 14 s/2 min 14 s
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+
+Gullspång - Bjurvik
+7.3 km/7.3 km	5 min 29 s/5 min 29 s
+
+Bjurvik - Kristinehamn SO
+4.0 km/4.0 km	3 min 0 s/3 min 0 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+7.8 km/7.8 km	5 min 51 s/5 min 51 s
+4.2 km/4.2 km	3 min 9 s/3 min 9 s
+1.5 km/1.6 km	1 min 8 s/1 min 12 s
+
+Kristinehamn SO - Övre Kvarn
+0.8 km/0.8 km	0 min 41 s/0 min 41 s
+1.2 km/1.3 km	1 min 2 s/1 min 7 s
+0.5 km/1.0 km	0 min 26 s/0 min 51 s
+
+Övre Kvarn - Solbacken
+2.6 km/2.5 km	1 min 57 s/1 min 53 s
+
+Solbacken - Storfors S
+2.1 km/1.7 km	1 min 35 s/1 min 17 s
+5.0 km/5.0 km	3 min 45 s/3 min 45 s
+6.4 km/6.4 km	4 min 48 s/4 min 48 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+8.2 km/8.2 km	6 min 9 s/6 min 9 s
+3.1 km/3.1 km	2 min 20 s/2 min 20 s
+
+Storfors S - Storfors Ö
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.7 km/0.9 km	0 min 50 s/1 min 5 s
+
+Storfors Ö - Storfors N
+0.5 km/0.3 km	0 min 36 s/0 min 22 s
+0.6 km/0.6 km	0 min 43 s/0 min 43 s
+
+Storfors N - Nykroppa V
+5.2 km/5.2 km	3 min 54 s/3 min 54 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+
+Nykroppa V - Filipstad Ö
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+11.1 km/11.2 km	9 min 31 s/9 min 36 s
+
+Time	Km	Instruction	For	Toward
+Summary:  54,6 kilometres (42 minutes)
+09:00	0,0	Depart Korsning Östervik on 26 [245] (North)	4,2 km	
+09:03	4,2	At Korsning, stay on 26 [245] (North)	3,9 km	
+09:06	8,1	At T-korsning, stay on 26 [245] (East)	2,3 km	
+09:07	10,4	At Korsning Harkfallet, stay on 26 [245] (North-East)	3,2 km	
+09:10	13,6	At T-korsning Tyfors, stay on 26 (North)	11,2 km	
+09:18	24,7	At Korsning Laxtjärn, stay on 26 [Laxtjärn] (North)	20,6 km	
+09:34	45,4	At T-korsning Eldforsen S, stay on 26 (North)	8,2 km	
+09:40	53,5	At Korsning Bomled, stay on 26 [Filipsstadsvägen] (North)	1,0 km	
+09:42	54,5	Keep STRAIGHT onto Local road(s)	20 m	
+09:42	54,6	Arrive near Vansbro		
+
+SUMMARY
+Driving distance:  54,6 kilometres
+Trip duration:  42 minutes
+Driving time:  42 minutes
+Cost:  61,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  55,3 kilometres (43 minutes)
+09:00	0,0	Depart T-korsning Vansbro Ö on 26 [71] (West)	0,2 km	
+09:00	0,2	Keep RIGHT onto Ramp	90 m	
+09:00	0,3	At near Vansbro, stay on Ramp (North-East)	0,2 km	
+09:00	0,5	Bear RIGHT (South) onto Local road(s)	20 m	
+09:00	0,5	Road name changes to 26 [Filipsstadsvägen]	1,0 km	
+09:01	1,5	At Korsning Bomled, stay on 26 [Filipsstadsvägen] (South)	4,5 km	
+09:05	6,0	At 26, 780 50 Vansbro, stay on 26 (South)	3,8 km	
+09:08	9,7	At T-korsning Eldforsen S, stay on 26 (South)	20,6 km	
+09:24	30,4	At Korsning Laxtjärn, stay on 26 (South)	1,2 km	
+09:25	31,6	At 26, 780 50 Vansbro, stay on 26 (South)	10,2 km	
+09:32	41,7	At T-korsning Tyfors, stay on 26 (South)	2,8 km	
+09:34	44,5	At 26, 680 96 Lesjöfors, stay on 26 (South)	2,7 km	
+09:36	47,2	At T-korsning, stay on 26 [245] (West)	3,9 km	
+09:39	51,1	At Korsning, stay on 26 [245] (South)	4,2 km	
+09:43	55,3	Arrive Korsning Östervik		
+
+SUMMARY
+Driving distance:  55,3 kilometres
+Trip duration:  43 minutes
+Driving time:  43 minutes
+Cost:  62,44 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,0 kilometres (31 minutes)
+09:00	0,0	Depart near Vansbro on Ramp (West)	90 m	
+09:00	0,1	Keep RIGHT to stay on Ramp	70 m	
+09:00	0,2	Keep STRAIGHT onto 26 [71]	0,2 km	
+09:00	0,4	Turn LEFT (North) onto 26 [Moravägen]	1,5 km	
+09:02	1,8	At Moravägen 51, 780 50 Vansbro, stay on 26 (West)	1,0 km	
+09:03	2,9	At T-korsning Dalasågen, stay on 26 (North)	17,4 km	
+09:17	20,3	At near Van, stay on 26 (North)	2,3 km	
+09:18	22,5	At near Finngruvan, stay on 26 (West)	3,1 km	
+09:21	25,7	At Korsning Lödrogsnäs, stay on 26 [Landbobyn] (North)	5,7 km	
+09:26	31,4	At T-korsning Landbobyn, stay on 26 [Siknäs] (North)	1,5 km	
+09:27	32,8	At T-korsning Gävunda V, stay on 26 (North)	5,2 km	
+09:31	38,0	Arrive T-korsning Johannisholm		
+
+SUMMARY
+Driving distance:  38,0 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  43,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,9 kilometres (31 minutes)
+09:00	0,0	Depart 26 3, 792 92 Mora on E45 [26] (South)	0,3 km	
+09:00	0,3	Keep STRAIGHT onto 26	5,2 km	
+09:04	5,4	At T-korsning Gävunda V, stay on 26 [Siknäs] (South)	1,5 km	
+09:05	6,9	At T-korsning Landbobyn, stay on 26 [Siknäs] (South)	5,7 km	
+09:10	12,6	At Korsning Lödrogsnäs, stay on 26 [Landbobyn] (South)	3,1 km	
+09:12	15,7	At 26, 792 92 Mora, stay on 26 (East)	2,3 km	
+09:14	18,0	At near Van, stay on 26 (South)	17,4 km	
+09:27	35,4	At T-korsning Dalasågen, stay on 26 (South)	1,0 km	
+09:29	36,4	At Moravägen 48, 780 50 Vansbro, stay on 26 [Moravägen] (East)	1,5 km	
+09:31	37,9	Arrive T-korsning Vansbro Ö		
+
+SUMMARY
+Driving distance:  37,9 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  43,04 kr
+
+
+Persberg - Långban S
+8.3 km/8.3 km	6 min 14 s/6 min 14 s
+
+Långban S - Långban N
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+
+Långban N - Östervik
+3.6 km/3.6 km	2 min 42 s/2 min 42 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+9.5 km/9.5 km	7 min 8 s/7 min 8 s
+8.5 km/8.5 km	6 min 23 s/6 min 23 s
+
+Östervik - Bomled
+4.2 km/4.2 km	3 min 9 s/3 min 9 s
+3.9 km/3.9 km	2 min 56 s/2 min 56 s
+2.3 km/2.7 km	1 min 43 s/2 min 2 s
+3.2 km/2.8 km	2 min 24 s/2 min 6 s
+10.2 km/10.2 km	7 min 39 s/7 min 39 s
+1.0 km/1.2 km	0 min 45 s/0 min 54 s
+20.6 km/20.6 km	15 min 27 s/15 min 27 s
+3.6 km/3.8 km	2 min 42 s/2 min 51 s
+4.6 km/4.5 km	3 min 27 s/3 min 23 s
+
+Bomled - Vansbro
+1.1 km/1.5 km	1 min 19 s/1 min 48 s

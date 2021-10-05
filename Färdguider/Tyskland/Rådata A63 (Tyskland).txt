@@ -1,0 +1,90 @@
+Time	Km	Instruction	For	Toward
+Summary:  23,4 kilometres (11 minutes)
+09:00	0,0	Depart 2 on A63 (South-West)	2,8 km	
+09:01	2,8	At 3, stay on A63 (West)	4,5 km	A63 / Nieder-Olm
+09:04	7,2	At 4, stay on A63 (South)	2,4 km	
+09:05	9,6	At 5, stay on A63 (South)	6,0 km	
+09:08	15,7	At 6, stay on A63 (South)	5,4 km	
+09:10	21,1	At 7, stay on A63 (South)	2,3 km	
+09:11	23,4	Arrive 8		
+
+SUMMARY
+Driving distance:  23,4 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  29,70 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,3 kilometres (11 minutes)
+09:00	0,0	Depart 8 on A63 (North-East)	3,3 km	
+09:01	3,3	At 7, stay on A63 (North)	5,4 km	
+09:04	8,7	At 6, stay on A63 (North)	6,6 km	
+09:07	15,3	At 5, stay on A63 (North)	2,8 km	
+09:08	18,1	At 4, stay on A63 (North)	4,4 km	
+09:10	22,5	At 3, stay on A63 (North-East)	1,8 km	
+09:11	24,3	Arrive 2		
+
+SUMMARY
+Driving distance:  24,3 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  27,06 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,3 kilometres (21 minutes)
+09:00	0,0	Depart 8 on A63 (South-West)	4,5 km	
+09:02	4,5	At 9, stay on A63 (South)	3,8 km	
+09:03	8,3	At 10, stay on A63 (South)	4,0 km	
+09:05	12,3	At A63, 67294 Bischheim, stay on A63 (South-West)	2,0 km	
+09:06	14,3	At 11, stay on A63 (South)	8,1 km	
+09:10	22,4	At 12, stay on A63 (West)	3,1 km	
+09:11	25,5	At A63, 67725 Börrstadt, stay on A63 (West)	8,6 km	
+09:15	34,0	At 13, stay on A63 (South-West)	5,8 km	
+09:18	39,8	At 14, stay on A63 (South)	6,5 km	
+09:21	46,3	Arrive 15		
+
+SUMMARY
+Driving distance:  46,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  58,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,9 kilometres (22 minutes)
+09:00	0,0	Depart near Kaiserslautern on A6 [E50] (East)	10 m	
+09:00	0,1	At Exit 16, keep RIGHT onto Ramp	0,5 km	A63 / Frankfurt A.M. / Mainz / Kaiserslautern-Centrum
+09:00	0,5	Keep LEFT onto A63	6,9 km	
+09:03	7,4	At 14, stay on A63 (North)	6,1 km	
+09:06	13,5	At 13, keep STRAIGHT to stay on A63	8,2 km	
+09:10	21,6	At A63, 67725 Börrstadt, stay on A63 (East)	3,1 km	
+09:12	24,8	At 12, stay on A63 (East)	7,8 km	
+09:16	32,5	At 11, stay on A63 (North)	2,4 km	
+09:17	35,0	At A63, 67294 Bischheim, stay on A63 (North-East)	4,2 km	
+09:19	39,1	At 10, stay on A63 (North)	3,8 km	
+09:21	43,0	At 9, stay on A63 (North)	3,0 km	
+09:22	45,9	Arrive 8		
+
+SUMMARY
+Driving distance:  45,9 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  51,07 kr
+
+Mainz-Süd (2) - Alzey (8)
+2.8 km/1.8 km	1 min 24 s/0 min 54 s	120
+4.5 km/4.4 km	2 min 15 s/2 min 12 s
+2.4 km/2.8 km	1 min 12 s/1 min 24 s
+6.0 km/6.6 km	3 min 0 s/3 min 18 s
+5.4 km/5.4 km	2 min 42 s/2 min 42 s
+2.3 km/3.3 km	1 min 9 s/1 min 39 s
+
+Alzey (8) - Kaiserslautern (15)
+4.5 km/3.0 km	2 min 15 s/1 min 30 s	120
+3.8 km/3.8 km	1 min 54 s/1 min 54 s
+4.0 km/4.2 km	2 min 0 s/2 min 6 s
+2.0 km/2.4 km	1 min 0 s/1 min 12 s
+8.1 km/7.8 km	4 min 3 s/3 min 54 s
+3.1 km/3.1 km	1 min 33 s/1 min 33 s
+8.6 km/8.2 km	4 min 18 s/4 min 6 s
+5.8 km/6.1 km	2 min 54 s/3 min 3 s
+6.5 km/7.4 km	3 min 15 s/3 min 42 s

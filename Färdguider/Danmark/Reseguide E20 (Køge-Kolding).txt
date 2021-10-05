@@ -1,0 +1,170 @@
+Reseguide E20 (Køge - Kolding)
+===============================
+
+Etapp 3: Køge - Slagelse (55,1 km/55,9 km)
+
+Motorvejskryds Køge-Vest
+ E20: København
+ E47-E55: Helsingør
+					3,2 km/3,2 km	1 min 36 s/1 min 36 s
+Rasteplads
+(östgående riktning)
+					2,6 km/2,1 km	1 min 18 s/1 min 3 s
+Trp Vemmedrup (33)
+(avfart östgående riktning
+påfart västgående riktning)
+ 150: Køge
+ [E47-E55 s]
+					1,6 km/2,1 km	0 min 48 s/1 min 3 s
+Rastplats Bjæverskov
+(västgående riktning)
+					3,0 km/3,5 km	1 min 30 s/1 min 45 s
+Trp Borup (34)
+					2,2 km/1,7 km	1 min 6 s/0 min 51 s
+Rasteplatds Bøgede
+(västgående riktning)
+					0,9 km/1,3 km	27 s/39 s
+Rasteplads Kongsted
+					6,1 km/4,9 km	3 min 3 s/2 min 27 s
+Rasteplads Kværkeby
+					1,4 km/2,2 km	0 min 42 s/1 min 6 s
+Trp Ringsted Ø (35)
+ 14 n: Roskilde
+ 14 s: Næstved
+					1,8 km/2,4 km	0 min 54 s/1 min 12 s
+Trp Ringsted N (36)
+ 215: Store Merløse
+ Bensinstation: F24
+ Hotel/Restaurang: Scandic
+					11,9 km/12,3 km	5 min 57 s/6 min 9 s
+Serviceanlæg Tuelsø
+ Restaurang
+ Bensinstation: Statoil (vest)
+	       HydroTexaco (øst)
+					3,2 km/2,4 km	1 min 36 s/1 min 12 s
+Trp Sorø (37)
+					10,5 km/10,6 km	5 min 15 s/5 min 18 s
+Trp Slagelse Ø (38)
+					3,5 km/3,1 km	1 min 55 s/1 min 41 s
+Rasteplads Antvorskov
+					1,8 km/1,4 km	59 s/46 s
+Trp Slagelse S (39)
+ Rasteplads: Stop 39
+ Bensinstation: OK, Statoil
+ Restaurang: Milestone
+					1,6 km/2,7 km	0 min 52 s/1 min 28 s
+Trp Slagelse V (40A)
+ 22 n: Kalundborg
+ 22 s: Næstved
+
+Etapp 4: Slagelse - Odense (60,5 km/60,9 km)
+					4,2 km/3,8 km	2 min 17 s/2 min 4 s
+Trp Vemmelev (40B)
+					3,5 km/2,9 km	1 min 55 s/1 min 35 s
+Trp Tjæreby (41)
+(avfart östgående riktning
+påfart västgående riktning)
+ 277: Kalundborg, Næsby Strand
+					5,1 km/5,3 km	2 min 47 s/2 min 53 s
+Trp Korsør (42)
+ 265: Skælskør
+					1,3 km/1,9 km	0 min 43 s/1 min 2 s
+Trp Halsskov (43)
+ Bensinstation: OK, Q8
+					1,2 km/0,5 km	43 s/18 s
+Betalstation Stora-Bæltbroen
+(Østbroen-øst)
+ 6790 m
+					7,6 km/7,6 km	3 min 48 s/3 min 48 s
+Sprogø-øst
+					3,1 km/3,1 km	1 min 33 s/1 min 33 s
+Sprogø-vest
+					7,1 km/7,9 km	3 min 33 s/3 min 57 s
+(Vestbroen-vest)
+ 6611 m
+Trp Knudshoved (44)
+ Rasteplads
+					2,0 km/2,0 km	1 min 5 s/1 min 5 s
+Trp Nyborg Ø (45)
+ 163: Svendborg
+					6,4 km/6,6 km	3 min 29 s/3 min 36 s
+Trp Nyborg V (46)
+ 8: Fåborg
+					9,6 km/9,4 km	4 min 48 s/4 min 42 s
+Rasteplads Langeskov
+					2,2 km/2,0 km	1 min 6 s/1 min 0 s
+Trp Langeskov (47)
+					3,3 km/3,3 km	1 min 39 s/1 min 39 s
+Trp Tietgenbyen (48)
+					3,9 km/4,6 km	1 min 57 s/2 min 18 s
+Motorvejskryds Odense (49)
+ 9: Svendborg
+ O3: Odense Centrum
+
+Etapp 5: Odense - Kolding (65,8 km/64,3 km)
+					3,6 km/2,7 km	1 min 58 s/1 min 28 s
+Trp Hjallese (50)
+ Bensinstation: Shell (Metax)
+					1.9 km/2.2 km	1 min 2 s/1 min 12 s
+Trp Odense S (51)
+					2.4 km/2.1 km	1 min 19 s/1 min 9 s
+Trp Odense SV (52)
+ 168: Assens
+ Hotel/Restaurang: Scandic
+					9.0 km/9.4 km	4 min 30 s/4 min 42 s
+Trp Odense V (53)
+ 161: Vissenbjerg
+					1.7 km/1.4 km	51 s/42 s
+Serviceanlæg Kildebjerg
+ Restaurang
+ Bensinstation: Q8, Shell
+					2.1 km/2.4 km	1 min 3 s/1 min 12 s
+Trp Vissenbjerg (54)
+ 335: Morud
+					6.6 km/6.4 km	3 min 18 s/3 min 12 s
+Trp Aarup (55)
+ 329 n: Bogense
+ 329 s: Faaborg
+					3.6 km/3.9 km	1 min 48 s/1 min 57 s
+Rasteplads Ålsbo
+Rasteplads Fjelsted
+					4.8 km/4.5 km	2 min 24 s/2 min 15 s
+Trp Ejby (56)
+					4.6 km/2.9 km	2 min 18 s/1 min 27 s
+Trp Nørre Aaby (57)
+ 313: Assens
+ Bensinstation: OK
+					3.2 km/2.3 km	1 min 36 s/1 min 9 s
+Rastplats Lillebælt
+					1,9 km/4,5 km	0 min 57 s/2 min 15 s
+Trp Middelfart Øst (58A)
+					3,5 km/3,6 km	1 min 45 s/1 min 48 s
+Trp Middelfart (58B)
+ 28 n: Vejle
+ 28 s: Middelfart
+(Lille Bæltbroen-øst)
+					3.0 km/2.0 km	1 min 30 s/1 min 0 s
+Lille Bæltbroen-vest
+					1.5 km/2.0 km	0 min 45 s/1 min 0 s
+Trp Fredericia S (59)
+ 29:
+Bensinstation: Statoil, JET
+Restaurang: Burger King
+					1.8 km/1.2 km	54 s/36 s
+Trp Fredericia V (60)
+(avfart västgående riktning
+påfart östgående riktning)
+ 171: Skærup
+					1.8 km/1.7 km	54 s/51 s
+Motorvejskryds Fredericia
+(avfart västgående riktning
+påfart östgående riktning)
+ [E45 n]: Århus, Vejle
+					1.4 km/2.3 km	0 min 42 s/1 min 9 s
+Trp Taulov (61)
+					7.7 km/6.9 km	3 min 51 s/3 min 27 s
+Motorvejskryds Kolding
+(avfart östgående riktning
+påfart västgående riktning)
+ E20 v: Esbjerg
+ E45 s: Padborg, Kolding

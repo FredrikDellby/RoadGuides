@@ -1,0 +1,47 @@
+sdffs (A100-9)
+AB-Dreieck Funkturm (1)
+
+Rasthof Avus
+ Bensin, Restaurang
+
+Anschlausstelle 2
+ Hüttenweg
+
+Anschlausstelle 3
+ Spanische Allee
+
+Rasthof Grunewald
+ Bensin, Restaurang
+
+Anschlausstelle 4
+ Zehlendorf
+ B1: 
+
+Kleinraststätte Dreilinden
+ Restaurang
+
+Anschlausstelle 5
+ Kleinmachnow
+
+Teltowkanalbrücke (80 m)
+
+Rastplatz Am Stern
+(sydgående riktning)
+Rastplatz Parforceheide
+(nordgående riktning)
+
+Anschlausstelle 6
+ Potsdam-Babelsberg
+ (Nutheschnellstrasse)
+
+Anschlausstelle 7
+ Potsdam-Drewitz
+
+Anschlausstelle 8
+ Saarmund
+
+AB-Dreieck Nuthedal (9)
+ A10 w: [A2]: Hannover
+        [A9]: München
+ A10 o: [A12]: Frankfurt/Oder
+        [A13]: Dresden

@@ -1,0 +1,64 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,3 kilometres (10 minutes)
+09:00	0,0	Depart 3 on A210 (East)	7,3 km	A210 / Kiel / Bredenbeck
+09:03	7,3	At 4, stay on A210 (East)	3,7 km	
+09:05	11,0	At A210, 24242 Felde, stay on A210 (East)	2,7 km	
+09:07	13,8	At 5, stay on A210 (East)	5,4 km	
+09:10	19,2	At 6, stay on A210 (East)	1,2 km	
+09:10	20,3	Arrive 7		
+
+SUMMARY
+Driving distance:  20,3 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  25,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,5 kilometres (10 minutes)
+09:00	0,0	Depart near Melsdorf on Ramp (West)	0,5 km	A210 / Flensburg / Rendsburg / Melsdorf / Kiel-Mettenhof
+09:00	0,5	At Exit 7, take Ramp (LEFT) onto A210	1,6 km	
+09:01	2,1	At 6, stay on A210 (West)	6,1 km	
+09:04	8,3	At 5, stay on A210 (West)	1,9 km	
+09:05	10,1	At A210, 24242 Felde, stay on A210 (West)	3,9 km	
+09:07	14,0	At 4, stay on A210 (West)	6,5 km	
+09:10	20,5	Arrive 3		
+
+SUMMARY
+Driving distance:  20,5 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  22,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (11 minutes)
+09:00	0,0	Depart Schützenwall, 24114 Kiel on Schützenwall (West)	20 m	
+09:00	0,1	Road name changes to A215	0,3 km	A215 / B76 / Hamburg / Flensburg / Rendsburg / Ki-Mettenhof / Eckernförde
+09:00	0,3	At A215, 24114 Kiel, keep STRAIGHT to stay on A215	2,7 km	
+09:02	3,0	At near Melsdorf, stay on A215 (West)	7,9 km	
+09:06	10,9	At A215, 24254 Rumohr, stay on A215 (South)	2,6 km	
+09:07	13,5	At A215, 24241 Blumenthal, stay on A215 (South-West)	3,4 km	
+09:08	16,9	At A215, 24241 Sören, stay on A215 (South-West)	6,2 km	
+09:11	23,1	Arrive E45, 24644 Loop		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  26,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,9 kilometres (10 minutes)
+09:00	0,0	Depart 12 on Ramp (North)	1,8 km	A215 / Kiel / Blumenthal
+09:00	1,8	Merge onto A215	2,4 km	
+09:01	4,2	At A215, 24241 Sören, stay on A215 (North-East)	3,5 km	
+09:03	7,7	At A215, 24241 Blumenthal, stay on A215 (North)	2,0 km	
+09:04	9,7	At A215, 24254 Rumohr, stay on A215 (North)	6,9 km	
+09:07	16,7	At A215, 24111 Kiel, keep STRAIGHT to stay on A215	3,6 km	
+09:10	20,3	At A215, 24114 Kiel, keep STRAIGHT to stay on A215	0,6 km	Kiel-Zentrum / Fähre Ostseekai / Fähre Schwedenkai
+09:10	20,9	Arrive A215, 24114 Kiel		
+
+SUMMARY
+Driving distance:  20,9 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  27,34 kr

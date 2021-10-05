@@ -1,0 +1,54 @@
+﻿Armar av E6 (Oslo)
+===================
+
+Kryss Sørenga-vest (3)
+(avfart östgående riktning
+påfart västgående riktning)
+ E18 ö: Stockholm
+ [E6 s]: Gøteborg
+ E18 v: Drammen, Oslo-Sentrum
+					0,5 km/0,9 km	23 s/41 s
+Kryss Sørenga-øst (3)
+(avfart västgående riktning
+påfart östgående riktning)
+ Oslo sentral
+					0,9 km/0,5 km	41 s/23 s
+Kryss 2
+(avfart östgående riktning
+påfart västgående riktning)
+ [E6 s]: Gøteborg, Ryen
+
+===================================
+					0,2 km/0,5 km	9 s/23 s
+Kryss Konows gate (1)
+(avfart västgående riktning
+påfart östgående riktning)
+					1,2 km/1,2 km	54 s/54 s
+Svartdalstunnelen-øst
+					0,4 km/0,7 km	21 s/23 s
+Ryenkrysset (32)
+ E6 s: Gøteborg, Moss
+ E6 n: Trondheim, Gardemoen
+
+===================================
+					0,3 km/0,5 km	14 s/23 s
+Kryss Kværnerbyen
+(Vålerengtunnelen-vest)
+					1,2 km/1,2 km	54 s/54 s
+Kryss Etterstad
+					0,4 km/0,5 km	18 s/23 s
+Kryss Helsfyr (65)
+					1,0 km/0,6 km	45 s/27 s
+Teisenkrysset (36)
+(avfart östgående riktning
+påfart västgående riktning)
+ Ring 3 (150) n
+					0,3 km/0,7 km	14 s/32 s
+Kryss Teisenveien
+(östgående riktning)
+					1,1 km/0,9 km	50 s/41 s
+Alnabrukrysset (39)
+(avfart östgående riktning
+påfart västgående riktning)
+ E6 s: Gøteborg, Moss
+ E6 n: Trondheim, Gardemoen

@@ -1,0 +1,339 @@
+Time	Km	Instruction	For	Toward
+Summary:  21,4 kilometres (13 minutes)
+09:00	0,0	Depart Quai de Bercy, 75012 Paris on Quai de Bercy (South-East)	0,3 km	
+09:00	0,3	Take Ramp (LEFT) onto A4 [E50]	1,2 km	
+09:01	1,5	At E50, 94220 Charenton-le-Pont, stay on A4 [E50] (East)	0,9 km	
+09:02	2,4	At 3, stay on A4 [E50] (East)	1,6 km	
+09:03	4,0	At A86, 94410 Saint-Maurice, stay on A4 [E50] (East)	3,7 km	A4 / Troyes / A5 / Metz / Marne la Vallée / Champigny S/Marne / Nogent S/Marne / Nancy
+09:06	7,6	At A86, 94500 Champigny-sur-Marne, stay on A4 [Autoroute de l'Est] (East)	1,9 km	A4 / Troyes / A5 / Metz / Marne la Vallée / Champigny-Centre / Nancy
+09:07	9,5	At 6, stay on A4 [E50] (East)	1,0 km	
+09:07	10,4	At E50, 94500 Champigny-sur-Marne, stay on A4 [E50] (East)	1,8 km	
+09:08	12,3	At 8, stay on A4 [E50] (North-East)	2,4 km	A4 / A5 / Troyes / Metz / Nancy / Marne la Vallée-Cité Descartes / Noisy le GD-Richardets
+09:09	14,7	At E50, 93160 Noisy-le-Grand, stay on A4 [E50] (East)	0,7 km	
+09:10	15,3	At 10, stay on A4 [E50] (East)	2,5 km	A4 / A5 / Troyes / Metz / Nancy / Reims / Aéroport Ch. de Gaulle / Marne la Vallée-Val Maubuée
+09:11	17,8	At E50, 77184 Émerainville, stay on A4 [E50] (East)	2,1 km	A4 / A104 / Aéroport Ch. de Gaulle / Metz / Nancy / Reims / Marne la Vallée-Val Maubuée Sud
+09:12	19,9	At 10.1, stay on A4 [E50] (East)	1,6 km	A4 / A104 / Aéroport Ch. de Gaulle / Lille / Metz / Reims / Marne la Vallée-Val d'Europe / Nancy
+09:13	21,4	Arrive E50, 77183 Croissy-Beaubourg		
+
+SUMMARY
+Driving distance:  21,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  35,26 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,0 kilometres (13 minutes)
+09:00	0,0	Depart E50, 77090 Collégien on A4 [E50] (West)	2,0 km	A4 / Lyon / Melun-Sénart / Évry / Paris / Marne la Vallée-Val Maubuée Sud
+09:01	2,0	At 10.1, stay on A4 [E50] (West)	1,5 km	A4 / A104 / Lyon / Melun-Sénart / Évry / Paris / Marne la Vallée-Porte de Paris
+09:01	3,5	At E50, 77185 Lognes, stay on A4 [E50] (West)	2,9 km	A4 / Paris / Créteil / Cité Descartes
+09:03	6,4	At 10, stay on A4 [E50] (West)	1,4 km	A4 / E50 / Paris / Créteil / Porte de Paris / Noisy le GD-Autres Quartiers
+09:04	7,8	At 9, stay on A4 [E50] (West)	1,3 km	A4 / E50 / Paris / Créteil / Marne la Vallée-Pte de Paris / Noisy le GD-Mont d'Est
+09:04	9,1	At 8, stay on A4 [E50] (West)	2,9 km	A4 / Paris / Champigny S/Marne / Nogent S/Marne / Créteil
+09:06	12,0	At E50, 94500 Champigny-sur-Marne, stay on A4 [E50] (West)	0,8 km	
+09:07	12,8	At E50, 94500 Champigny-sur-Marne, stay on A4 [E50] (West)	0,6 km	
+09:07	13,4	At 5, stay on A4 [E50] (West)	2,4 km	A4 / Créteil / Paris
+09:09	15,8	At 4, stay on A4 [A86] (West)	1,0 km	
+09:10	16,8	At A4, 75012 Paris, stay on A4 [E50] (South-West)	2,6 km	A4 / E50 / Ivry S/Seine / Paris / Saint Maurice / Charenton le Pont
+09:12	19,4	At 3, stay on A4 [E50] (West)	1,8 km	A4 / Ivry S/Seine / Paris / Charenton-Centre / Charenton-Bercy
+09:13	21,2	At 1, stay on A4 [E50] (West)	0,8 km	
+09:13	22,0	Arrive E50, 94220 Charenton-le-Pont		
+
+SUMMARY
+Driving distance:  22,0 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  35,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (9 minutes)
+09:00	0,0	Depart E50, 77183 Croissy-Beaubourg on A4 [E50] (East)	3,0 km	
+09:01	3,0	At 12, stay on A4 [E50] (East)	2,8 km	A4 / E50 / Metz / Nancy / Reims / Meaux / Provins / Marne la Vallée-Val d'Europe
+09:03	5,7	At E50, 77600 Bussy-Saint-Georges, stay on A4 [E50] (East)	1,9 km	
+09:03	7,6	At 12.1, stay on A4 [E50] (East)	2,0 km	A4 / E50 / Metz / Nancy / Reims / Meaux / Serris / Parcs Disney
+09:05	9,6	At 13, stay on A4 [E50] (East)	1,5 km	A4 / E50 / Metz / Nancy / Reims / Meaux / Parcs Disney
+09:05	11,1	*Toll road* At 14, stay on A4 [E50] (East)	4,2 km	A4 / E50 / Metz / Nancy / Reims / Meaux
+09:08	15,3	At E50, 77580 Coutevroult, stay on A4 [E50] (North-East)	1,9 km	
+09:08	17,1	At 16, stay on A4 [E50] (East)	1,3 km	A4 / E50 / St Jean les Deux Jumeaux / Reims / Metz / Nancy / Strasbourg / Nanteuil / Meaux
+09:09	18,4	Arrive A140, 77860 Couilly-Pont-aux-Dames		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,93 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,1 kilometres (9 minutes)
+09:00	0,0	Depart E50, 77580 Bouleurs on A4 [E50] (South-West)	2,0 km	
+09:01	2,0	At E50, 77860 Couilly-Pont-aux-Dames, stay on A4 [E50] (West)	1,9 km	
+09:02	3,9	*Toll road* At 15, stay on A4 [E50] (South-West)	2,5 km	A4 / E50 / Marne la Vallée / Aéroport Ch. de Gaulle / Paris
+09:03	6,4	*Toll road* At 14, stay on A4 [E50] (South-West)	1,7 km	A4 / E50 / Paris / Aéroport Ch. de Gaulle / Évry / Marne la Vallée-Val de Lagny / Serris
+09:04	8,1	Stay on A4 [E50] (West)	1,1 km	
+09:04	9,1	At 13, stay on A4 [E50] (West)	2,4 km	A4 / E50 / Paris / Aéroport Ch. de Gaulle / Évry / Marne la Vallée-Val de Bussy
+09:06	11,5	At E50, 77600 Jossigny, stay on A4 [E50] (West)	1,0 km	
+09:06	12,5	At E50, 77600 Jossigny, stay on A4 [E50] (West)	2,8 km	
+09:08	15,3	At 12, stay on A4 [E50] (West)	2,8 km	A4 / E50 / Paris / Aéroport Ch. de Gaulle / Marne la Vallée-Val de Maubuée / Centre Commcial Ral
+09:09	18,1	Arrive E50, 77090 Collégien		
+
+SUMMARY
+Driving distance:  18,1 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,30 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  92,3 kilometres (48 minutes)
+09:00	0,0	*Toll road* Depart A140, 77860 Couilly-Pont-aux-Dames on A4 [E50] (North-East)	6,1 km	A4 / E50 / St Jean les Deux Jumeaux / Château-Thierry / Reims / Metz / Nancy / Strasbourg
+09:03	6,1	*Toll road* At E50, 77470 Boutigny, stay on A4 [E50] (East)	7,7 km	
+09:07	13,8	*Toll road* At 18, stay on A4 [E50] (North)	3,4 km	A4 / E50 / Montreuil aux Lions / Château-Thierry / Reims / Metz / Nancy / Strasbourg
+09:08	17,1	*Toll road* At E50, 77260 Ussy-sur-Marne, stay on A4 [E50] (North-East)	7,4 km	
+09:12	24,6	*Toll road* At 19, stay on A4 [E50] (North-East)	12,2 km	A4 / E50 / Château-Thierry / Reims / Metz / Nancy / Strasbourg
+09:19	36,8	*Toll road* At E50, 02400 Lucy-le-Bocage, stay on A4 [E50] (East)	8,5 km	
+09:23	45,3	*Toll road* At 20, stay on A4 [E50] (East)	11,7 km	A4 / E50 / Dormans / Epernay / Reims / Metz / Nancy / Strasbourg
+09:29	57,0	*Toll road* At E50, 02130 Fresnes-en-Tardenois, stay on A4 [E50] (East)	14,1 km	
+09:37	71,1	*Toll road* At 21, stay on A4 [E50] (East)	4,4 km	A4 / E50 / Reims-Tinqueux / Reims / Metz / Nancy / Strasbourg
+09:39	75,6	*Toll road* At E50, 51170 Romigny, stay on A4 [E50] (North)	14,1 km	
+09:47	89,6	*Toll road* At E50, 51390 Gueux, stay on A4 [E50] (East)	2,7 km	
+09:48	92,3	Arrive Autoroute de l'Est, 51370 Thillois		
+
+SUMMARY
+Driving distance:  92,3 kilometres
+Trip duration:  48 minutes
+Driving time:  48 minutes
+Cost:  106,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  92,9 kilometres (48 minutes)
+09:00	0,0	*Toll road* Depart A4, 51370 Thillois on A4 [E50] (West)	2,7 km	A4 / E50 / Dormans / Château-Thierry / Paris
+09:01	2,7	*Toll road* At E50, 51390 Vrigny, stay on A4 [E50] (West)	13,5 km	
+09:08	16,2	*Toll road* At E50, 51170 Lhéry, stay on A4 [E50] (South-West)	5,3 km	
+09:11	21,5	*Toll road* At 21, stay on A4 [E50] (South-West)	14,2 km	A4 / E50 / Château-Thierry / Meaux / Paris
+09:18	35,7	*Toll road* At E50, 02130 Fresnes-en-Tardenois, stay on A4 [E50] (West)	11,6 km	
+09:24	47,3	*Toll road* At 20, stay on A4 [E50] (West)	6,4 km	A4 / E50 / Montreuil aux Lions / Meaux / Paris
+09:28	53,7	*Toll road* At E50, 02400 Essômes-sur-Marne, stay on A4 [E50] (South-West)	14,6 km	
+09:35	68,3	*Toll road* At 19, stay on A4 [E50] (South-West)	8,7 km	A4 / E50 / St Jean les Deux Jumeaux / Meaux / Paris
+09:40	77,0	*Toll road* At E50, 77260 Ussy-sur-Marne, stay on A4 [E50] (South-West)	1,6 km	
+09:41	78,6	*Toll road* At 18, stay on A4 [E50] (South-West)	9,1 km	A4 / E50 / Coutevroult / Marne la Vallée / Paris
+09:46	87,8	*Toll road* At E50, 77470 Boutigny, stay on A4 [E50] (West)	5,2 km	
+09:48	92,9	Arrive A140, 77860 Quincy-Voisins		
+
+SUMMARY
+Driving distance:  92,9 kilometres
+Trip duration:  48 minutes
+Driving time:  48 minutes
+Cost:  107,12 kr
+
+Paris - Échangeur A4/A104
+1.5 km/0.8 km	1 min 8 s/0 min 36 s
+0.9 km/1.8 km	0 min 41 s/1 min 21 s
+1.6 km/2.6 km	1 min 12 s/1 min 57 s
+2.7 km/1.0 km	2 min 2 s/0 min 45 s
+1.0 km/2.4 km	0 min 45 s/1 min 48 s
+1.9 km/0.6 km	1 min 26 s/0 min 27 s
+1.0 km/0.8 km	0 min 45 s/0 min 36 s
+1.8 km/2.9 km	1 min 21 s/2 min 11 s
+2.4 km/1.3 km	1 min 48 s/0 min 59 s
+0.7 km/1.4 km	0 min 31 s/1 min 3 s
+2.5 km/2.9 km	1 min 53 s/2 min 11 s
+2.1 km/1.5 km	1 min 35 s/1 min 8 s
+1.6 km/2.0 km	1 min 12 s/1 min 30 s
+
+Échangeur A4/A104 - A4/A140
+3.0 km/2.8 km	1 min 48 s/1 min 41 s
+2.8 km/2.8 km	1 min 41 s/1 min 41 s
+1.9 km/1.0 km	1 min 8 s/0 min 36 s
+2.0 km/2.4 km	1 min 12 s/1 min 26 s
+1.5 km/2.7 km	0 min 54 s/1 min 37 s
+4.2 km/2.5 km	2 min 31 s/1 min 30 s
+1.9 km/1.9 km	1 min 8 s/1 min 8 s
+1.3 km/2.0 km	0 min 47 s/1 min 12 s
+
+Échangeur A4-A140 - A4-A26
+6.1 km/5.2 km	3 min 3 s/2 min 36 s
+7.7 km/9.1 km	3 min 51 s/4 min 33 s
+3.4 km/1.6 km	1 min 42 s/0 min 48 s
+7.4 km/8.7 km	3 min 42 s/4 min 21 s
+12.2 km/14.6 km	6 min 6 s/7 min 18 s
+8.5 km/6.4 km	4 min 15 s/3 min 12 s
+11.7 km/11.6 km	5 min 51 s/5 min 48 s
+14.1 km/14.2 km	7 min 3 s/7 min 6 s
+4.4 km/5.3 km	2 min 12 s/2 min 39 s
+14.1 km/13.5 km	7 min 3 s/6 min 45 s
+2.7 km/2.7 km	1 min 21 s/1 min 21 s
+
+Échangeur A4-A26 - Sortie 26
+1.1 km/1.0 km	0 min 44 s/0 min 40 s	90
+3.6 km/3.4 km	2 min 24 s/2 min 16 s
+1.5 km/1.1 km	1 min 0 s/0 min 44 s
+1.2 km/1.6 km	0 min 48 s/1 min 4 s
+2.1 km/2.2 km	1 min 24 s/1 min 28 s
+
+Sortie 26 - Échangeur A4-A26
+9.3 km/9.1 km	4 min 39 s/4 min 33 s	120
+8.5 km/8.9 km	4 min 15 s/4 min 27 s
+8.0 km/8.0 km	4 min 0 s/4 min 0 s
+
+Time	Km	Instruction	For	Toward
+Summary:  86,7 kilometres (45 minutes)
+09:00	0,0	*Toll road* Depart E17, 51400 Les Grandes-Loges on A4 [E50] (South-East)	3,1 km	A4 / E50 / La Veuve / Châlons en Ch. Centre / Verdun / Metz-Nancy / Strasbourg
+09:01	3,1	*Toll road* At 27, keep STRAIGHT to stay on A4 [E50]	8,8 km	A4 / E50 / St Étienne au Temple / Châlons en Ch. Mt Bernard / Charleville-Mézières / Verdun / Metz Nancy / Strasbourg
+09:06	12,0	*Toll road* At 28, stay on A4 [E50] (East)	6,0 km	A4 / E50 / Ste Ménéhould / Verdun / Metz / Nancy / Strasbourg
+09:09	18,0	*Toll road* At Autoroute de l'Est, 51600 La Cheppe, stay on A4 [E50] (East)	20,3 km	
+09:20	38,3	*Toll road* At E50, 51800 Valmy, stay on A4 [E50] (East)	6,8 km	
+09:23	45,1	*Toll road* At 29, stay on A4 [E50] (East)	6,1 km	A4 / E50 / Voie Sacrée / Verdun / Metz / Nancy / Strasbourg
+09:26	51,2	*Toll road* At A4, 51800 Sainte-Menehould, stay on A4 [E50] (East)	11,3 km	
+09:32	62,5	*Toll road* At 29.1, stay on A4 [E50] (East)	3,0 km	
+09:34	65,4	*Toll road* At E50, 55120 Rarécourt, stay on A4 [E50] (East)	10,2 km	
+09:39	75,6	*Toll road* At 30, stay on A4 [E50] (East)	1,7 km	A4 / E50 / Longwy / Metz / Nancy / Strasbourg
+09:40	77,3	*Toll road* At near Lempire-aux-Bois, stay on A4 [E50] (East)	9,4 km	
+09:45	86,7	Arrive E50, 55100 Haudainville		
+
+SUMMARY
+Driving distance:  86,7 kilometres
+Trip duration:  45 minutes
+Driving time:  45 minutes
+Cost:  99,96 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  85,8 kilometres (45 minutes)
+09:00	0,0	*Toll road* Depart 31 on A4 [E50] (West)	9,5 km	A4 / E50 / Voie Sacrée / Bar le Duc / Reims / Paris
+09:04	9,5	*Toll road* At E50, 55120 Nixéville-Blercourt, stay on A4 [E50] (West)	1,5 km	
+09:05	11,0	*Toll road* At 30, stay on A4 [E50] (West)	10,1 km	A4 / E50 / Ste Ménéhould / Châlons en Ch / Reims / Paris
+09:11	21,1	*Toll road* At E50, 55120 Clermont-en-Argonne, stay on A4 [E50] (West)	3,0 km	
+09:12	24,1	*Toll road* At 29.1, stay on A4 [E50] (West)	11,1 km	
+09:18	35,2	*Toll road* At E50, 51800 Sainte-Menehould, stay on A4 [E50] (West)	5,9 km	
+09:21	41,1	*Toll road* At 29, stay on A4 [E50] (West)	6,5 km	A4 / E50 / Saint Étienne au Temple / Châlons en Ch. / Reims / Paris
+09:25	47,7	*Toll road* At E50, 51800 Valmy, stay on A4 [E50] (West)	20,5 km	
+09:35	68,2	*Toll road* At near La Cheppe, stay on A4 [E50] (West)	6,1 km	
+09:39	74,3	*Toll road* At 28, stay on A4 [E50] (West)	9,1 km	A4 / E50 / La Veuve / Châlons en Ch. St Martin / Épernay / Troyes / Reims / Paris
+09:43	83,4	*Toll road* At 27, keep STRAIGHT to stay on A4 [E50]	2,4 km	A4 / E50 / Épernay / Troyes / Orléans / Reims / Lille / Paris
+09:45	85,8	Arrive E50, 51400 Les Grandes-Loges		
+
+SUMMARY
+Driving distance:  85,8 kilometres
+Trip duration:  45 minutes
+Driving time:  45 minutes
+Cost:  98,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  60,9 kilometres (32 minutes)
+09:00	0,0	*Toll road* Depart E50, 55100 Haudainville on A4 [E50] (East)	7,0 km	
+09:03	7,0	*Toll road* At E50, 55160 Haudiomont, stay on A4 [E50] (East)	8,6 km	
+09:08	15,7	*Toll road* At 32, stay on A4 [E50] (East)	5,9 km	A4 / E50 / Jarny / Briey / Metz / Nancy / Strasbourg
+09:11	21,5	*Toll road* At near Hennemont, stay on A4 [E50] (East)	14,9 km	
+09:19	36,4	*Toll road* At E50, 54800 Labry, stay on A4 [E50] (East)	1,9 km	
+09:20	38,3	*Toll road* At 33, stay on A4 [E50] (East)	7,0 km	A4 / E50 / Batilly / Ste Marie / Metz / Nancy / Strasbourg
+09:23	45,3	*Toll road* At 34A, stay on A4 [E50] (East)	5,3 km	A4 / E50 / Ste Marie / Auboué / Metz / Nancy / Strasbourg
+09:26	50,6	*Toll road* At E50, 57855 Saint-Privat-la-Montagne, stay on A4 [E50] (East)	6,7 km	
+09:30	57,2	At 35, stay on A4 [E50] (East)	1,5 km	A4 / E50 / Semécourt / Parc Waligator / Metz / Nancy / Luxembourg / Strasbourg
+09:31	58,7	At 36, stay on A4 [E50] (South-East)	2,2 km	A4 / E50 / Metz / Nancy / Thionville / Luxembourg / Saarbrucken / Strasbourg
+09:32	60,9	Arrive E50, 57280 Maizières-LÈS-Metz		
+
+SUMMARY
+Driving distance:  60,9 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  70,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  61,7 kilometres (32 minutes)
+09:00	0,0	Depart A4, 57280 Hauconcourt on A4 [E50] (West)	2,3 km	A4 / E50 / Semécourt / Parc Walygator / Verdun / Reims / Paris
+09:01	2,3	At 36, stay on A4 [E50] (West)	1,8 km	
+09:02	4,0	*Toll road* At 35, stay on A4 [E50] (West)	6,8 km	A4 / E50 / Sainte Marie / Verdun / Reims / Paris
+09:05	10,9	*Toll road* At near Saint-Privat-la-Montagne, stay on A4 [E50] (West)	5,0 km	
+09:08	15,9	*Toll road* At 34, keep RIGHT to stay on A4 [E50]	7,1 km	A4 / E50 / Jarny / Verdun / Reims / Paris
+09:12	23,0	*Toll road* At 33, stay on A4 [E50] (West)	2,3 km	A4 / E50 / Fresnes en Woëvre / Verdun / Reims / Paris
+09:13	25,3	*Toll road* At near Abbéville-lès-Conflans, stay on A4 [E50] (West)	13,1 km	
+09:20	38,4	*Toll road* At Autoroute de l'Est, 55400 Parfondrupt, stay on A4 [E50] (West)	6,6 km	
+09:23	45,0	*Toll road* At 32, stay on A4 [E50] (West)	9,0 km	A4 / E50 / Verdun / Reims / Paris
+09:28	54,0	*Toll road* At near Watronville, stay on A4 [E50] (West)	7,7 km	
+09:32	61,7	Arrive near Haudainville		
+
+SUMMARY
+Driving distance:  61,7 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  71,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  53,5 kilometres (28 minutes)
+09:00	0,0	Depart E50, 57280 Maizières-LÈS-Metz on A4 [E50] (East)	2,6 km	A4 / E50 / Argancy / Metz-Est / Sarrebruck / Strasbourg
+09:01	2,6	At 37, stay on A4 [E25] (East)	2,0 km	
+09:02	4,6	At E25, 57640 Argancy, stay on A4 [E25] (South-East)	6,8 km	
+09:06	11,4	*Toll road* At A315, 57070 Mey, keep LEFT to stay on A4 [E25]	2,0 km	A4 / E50 / E25 / Boulay / Saint-Avold / Sarrebruck / Strasbourg
+09:07	13,4	*Toll road* At A314, 57645 Noisseville, stay on A4 [E25] (East)	10,6 km	
+09:12	23,9	*Toll road* At E25, 57530 Courcelles-Chaussy, stay on A4 [E25] (East)	4,2 km	
+09:14	28,1	*Toll road* At 38, stay on A4 [E25] (East)	4,7 km	
+09:17	32,9	*Toll road* At E25, 57690 Marange-Zondrange, stay on A4 [E25] (East)	10,0 km	
+09:22	42,9	*Toll road* At near Longeville-lès-Saint-Avold, stay on A4 [E25] (East)	3,5 km	
+09:24	46,4	*Toll road* At 39, stay on A4 [E25] (East)	7,2 km	A4 / E25 / E50 / Freyming-Merlebach / Forbach / Sarrebruck / Sarreguemines / Strasbourg
+09:28	53,5	Arrive E25, 57470 Hombourg-Haut		
+
+SUMMARY
+Driving distance:  53,5 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  62,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  53,6 kilometres (28 minutes)
+09:00	0,0	*Toll road* Depart E25, 57800 Betting on A4 [E25] (West)	7,4 km	A4 / E50 / E25 / Saint-Avold / Metz / Paris
+09:03	7,4	*Toll road* At 39, stay on A4 [E25] (West)	4,1 km	A4 / E25 / E50 / Metz-Nancy / Paris
+09:06	11,5	*Toll road* At near Longeville-lès-Saint-Avold, stay on A4 [E25] (West)	8,6 km	
+09:10	20,1	*Toll road* At E25, 57220 Narbéfontaine, stay on A4 [E25] (West)	5,6 km	
+09:13	25,7	*Toll road* At 38, stay on A4 [E25] (West)	4,5 km	
+09:16	30,2	*Toll road* At A4, 57530 Courcelles-Chaussy, stay on A4 [E25] (West)	11,6 km	
+09:22	41,8	At A314, 57645 Noisseville, keep STRAIGHT to stay on A4 [E25]	1,9 km	A4 / E50 / E25 / Paris / Luxembourg / Thionville
+09:23	43,6	At A315, 57070 Mey, stay on A4 [E25] (North)	4,7 km	
+09:25	48,3	At E25, 57640 Charly-Oradour, stay on A4 [E25] (North-West)	2,7 km	
+09:27	51,0	At 37, stay on A4 [E25] (North-West)	2,6 km	
+09:28	53,6	Arrive E50, 57280 Hauconcourt		
+
+SUMMARY
+Driving distance:  53,6 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  62,92 kr
+
+A4-A26 - Verdun (31)
+3.1 km/2.4 km	1 min 33 s/1 min 12 s
+8.8 km/9.1 km	4 min 24 s/4 min 33 s
+6.0 km/6.1 km	3 min 0 s/3 min 3 s
+20.3 km/20.5 km	10 min 9 s/10 min 15 s
+6.8 km/6.5 km	3 min 24 s/3 min 15 s
+6.1 km/5.9 km	3 min 3 s/2 min 57 s
+3.4 km/2.8 km	1 min 42 s/1 min 24 s
+7.9 km/8.3 km	3 min 57 s/4 min 9 s
+3.0 km/3.0 km	1 min 30 s/1 min 30 s
+10.2 km/10.1 km	5 min 6 s/5 min 3 s
+1.7 km/1.5 km	0 min 51 s/0 min 45 s
+9.4 km/9.5 km	4 min 42 s/4 min 45 s
+
+Verdun (31) - Sortie 34
+7.0 km/7.7 km	3 min 30 s/3 min 51 s
+8.6 km/8.9 km	4 min 18 s/4 min 27 s
+5.9 km/6.7 km	2 min 57 s/3 min 21 s
+5.4 km/3.3 km	2 min 42 s/1 min 39 s
+9.5 km/9.8 km	4 min 45 s/4 min 54 s
+1.9 km/2.3 km	0 min 57 s/1 min 9 s
+7.0 km/7.1 km	3 min 30 s/3 min 33 s
+
+Sortie 34 - A4-A31
+5.3 km/5.0 km	2 min 53 s/2 min 44 s
+6.7 km/6.8 km	3 min 39 s/3 min 43 s
+1.5 km/1.8 km	0 min 49 s/0 min 59 s
+2.2 km/2.3 km	1 min 12 s/1 min 15 s
+
+A4-A31 - A4-A14
+2.6 km/2.6 km	1 min 25 s/1 min 25 s
+2.0 km/2.7 km	1 min 5 s/1 min 28 s
+6.8 km/4.7 km	3 min 43 s/2 min 34 s
+2.0 km/1.9 km	1 min 5 s/1 min 2 s
+
+A4-A14 - A4-A320
+10.6 km/11.6 km	5 min 18 s/5 min 48 s
+4.2 km/4.5 km	2 min 6 s/2 min 15 s
+4.7 km/5.6 km	2 min 21 s/2 min 48 s
+10.0 km/8.6 km	5 min 0 s/4 min 18 s
+3.5 km/4.1 km	1 min 45 s/2 min 3 s
+7.2 km/7.4 km	3 min 36 s/3 min 42 s

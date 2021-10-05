@@ -1,0 +1,133 @@
+2.1 km/2.0 km	1 min 9 s/1 min 5 s	110
+2.6 km/1.1 km	1 min 25 s/0 min 36 s
+1.3 km/2.5 km	0 min 43 s/1 min 22 s
+7.2 km/7.6 km	3 min 56 s/4 min 9 s
+1.8 km/1.9 km	0 min 59 s/1 min 2 s
+4.4 km/4.5 km	2 min 24 s/2 min 27 s
+2.8 km/2.3 km	1 min 32 s/1 min 15 s
+
+8.8 km/8.7 km	4 min 48 s/4 min 45 s	110
+1.9 km/1.6 km	1 min 2 s/0 min 52 s
+1.4 km/1.7 km	0 min 46 s/0 min 56 s
+4.0 km/4.0 km	2 min 11 s/2 min 11 s
+9.2 km/9.1 km	5 min 1 s/4 min 58 s
+1.4 km/3.7 km	0 min 46 s/2 min 1 s
+2.8 km/2.6 km	1 min 32 s/1 min 25 s
+
+1.1 km/0.9 km	0 min 44 s/0 min 36 s	90
+2.0 km/2.5 km	1 min 20 s/1 min 40 s
+2.9 km/2.3 km	1 min 56 s/1 min 32 s
+1.4 km/1.1 km	0 min 56 s/0 min 44 s
+0.5 km/1.2 km	0 min 20 s/0 min 48 s
+1.7 km/1.6 km	1 min 8 s/1 min 4 s
+1.4 km/1.0 km	0 min 56 s/0 min 40 s
+1.5 km/1.6 km	0 min 60 s/1 min 4 s
+
+2.8 km/3.1 km	1 min 32 s/1 min 41 s	110
+3.2 km/3.2 km	1 min 45 s/1 min 45 s
+3.7 km/3.6 km	2 min 1 s/1 min 58 s
+2.2 km/2.3 km	1 min 12 s/1 min 15 s
+1.0 km/0.5 km	0 min 33 s/0 min 16 s
+3.1 km/3.1 km	1 min 41 s/1 min 41 s
+
+1.5 km/1.6 km	1 min 8 s/1 min 12 s	80
+3.1 km/2.9 km	2 min 20 s/2 min 10 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+1.9 km/2.2 km	1 min 26 s/1 min 39 s
+2.3 km/1.9 km	1 min 43 s/1 min 26 s
+0.5 km/0.7 km	0 min 23 s/0 min 31 s
+
+2.6 km/2.5 km	1 min 44 s/1 min 40 s	90
+5.0 km/5.0 km	3 min 20 s/3 min 20 s
+3.4 km/3.4 km	2 min 16 s/2 min 16 s
+4.6 km/4.8 km	3 min 4 s/3 min 12 s
+1.4 km/1.3 km	0 min 56 s/0 min 52 s
+4.0 km/4.0 km	2 min 40 s/2 min 40 s
+
+3.2 km/3.2 km	2 min 8 s/2 min 8 s	90
+1.9 km/2.2 km	1 min 16 s/1 min 28 s
+4.3 km/4.0 km	2 min 52 s/2 min 40 s
+2.4 km/2.5 km	1 min 36 s/1 min 40 s
+0.9 km/1.3 km	0 min 36 s/0 min 52 s
+2.1 km/1.6 km	1 min 24 s/1 min 4 s
+1.8 km/1.8 km	1 min 12 s/1 min 12 s
+4.4 km/4.4 km	2 min 56 s/2 min 56 s
+1.6 km/1.8 km	1 min 4 s/1 min 12 s
+3.3 km/3.7 km	2 min 12 s/2 min 28 s
+1.3 km/1.3 km	0 min 52 s/0 min 52 s
+
+Kyllaredsmotet - Getared
+2.8 km/3.1 km	1 min 32 s/1 min 41 s	110
+3.2 km/3.4 km	1 min 45 s/1 min 51 s
+3.7 km/3.5 km	2 min 1 s/1 min 55 s
+2.5 km/2.2 km	1 min 22 s/1 min 12 s
+0.6 km/0.5 km	0 min 20 s/0 min 16 s
+3.0 km/3.1 km	1 min 38 s/1 min 41 s
+
+Time	Km	Instruction	For	Toward
+Summary:  17,9 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Ryd on 26 [40] (East)	1,3 km	
+09:00	1,3	At 40, 560 25 Bottnaryd, stay on 26 [40] (East)	1,1 km	
+09:01	2,4	At T-korsning Västra Jära, stay on 26 [40] (East)	0,8 km	
+09:02	3,2	At T-korsning Tank V. Jära 1, stay on 26 [40] (East)	0,6 km	
+09:02	3,8	At Untitled 2, stay on 26 [40] (East)	1,6 km	
+09:03	5,4	At Korsning Skogslund, stay on 26 [40] (East)	1,1 km	
+09:04	6,5	At T-korsning, stay on 26 [40] (East)	0,7 km	
+09:05	7,2	At T-korsning, stay on 26 [40] (East)	4,4 km	
+09:07	11,6	At T-korsning Axamo, stay on 26 [40] (East)	1,6 km	
+09:09	13,2	At 40, 555 94 Jönköping, road name changes to 40	3,3 km	
+09:12	16,6	At 94, stay on 40 (North)	1,3 km	
+09:13	17,9	Arrive near Jönköping		
+
+SUMMARY
+Driving distance:  17,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  21,32 kr
+
+Rondell - Trp Svensholm
+1.6 km/1.8 km	1 min 12 s/1 min 21 s
+1.0 km/0.8 km	0 min 45 s/0 min 36 s
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+1.6 km/1.7 km	1 min 12 s/1 min 17 s
+1.9 km/2.0 km	1 min 26 s/1 min 30 s
+2.3 km/2.0 km	1 min 43 s/1 min 30 s
+0.5 km/0.7 km	0 min 23 s/0 min 31 s
+
+Trp Svensholm - Länsgränsen
+2.6 km/2.5 km	1 min 44 s/1 min 40 s
+0.8 km/0.8 km	0 min 32 s/0 min 32 s
+0.9 km/0.9 km	0 min 36 s/0 min 36 s
+3.3 km/3.3 km	2 min 12 s/2 min 12 s
+1.7 km/1.7 km	1 min 8 s/1 min 8 s
+1.6 km/1.6 km	1 min 4 s/1 min 4 s
+1.4 km/1.4 km	0 min 56 s/0 min 56 s
+3.2 km/3.4 km	2 min 8 s/2 min 16 s
+1.4 km/1.2 km	0 min 56 s/0 min 48 s
+2.4 km/2.4 km	1 min 36 s/1 min 36 s
+0.6 km/0.6 km	0 min 24 s/0 min 24 s
+0.9 km/0.9 km	0 min 36 s/0 min 36 s
+
+Länsgränsen - Ryd
+2.2 km/2.3 km	1 min 28 s/1 min 32 s
+1.0 km/0.9 km	0 min 40 s/0 min 36 s
+0.6 km/0.7 km	0 min 24 s/0 min 28 s
+1.3 km/1.5 km	0 min 52 s/1 min 0 s
+2.3 km/2.1 km	1 min 32 s/1 min 24 s
+2.0 km/1.8 km	1 min 20 s/1 min 12 s
+
+Ryd - Ljungarum
+1.3 km/1.4 km	0 min 52 s/0 min 56 s
+1.1 km/1.1 km	0 min 44 s/0 min 44 s
+0.8 km/0.8 km	0 min 32 s/0 min 32 s
+0.6 km/0.5 km	0 min 24 s/0 min 20 s
+1.6 km/1.6 km	1 min 4 s/1 min 4 s
+1.1 km/1.2 km	0 min 44 s/0 min 48 s
+0.7 km/0.6 km	0 min 28 s/0 min 24 s
+4.4 km/4.4 km	2 min 56 s/2 min 56 s
+1.6 km/1.8 km	1 min 4 s/1 min 12 s
+3.3 km/3.6 km	2 min 12 s/2 min 24 s
+1.3 km/1.2 km	0 min 52 s/0 min 48 s

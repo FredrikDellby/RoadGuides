@@ -1,0 +1,3026 @@
+E4 Helsingborg-Haparanda
+=========================
+
+Mölletofta
+===========
+Lägesbeskrivning: E 4 vid Trafikplats Mölletofta (69), i riktning mot Örkelljunga.
+Avstånd från ort: 14 km nordost Åstorp
+Vägnr: E
+Turistinformation: Rastplatsen är övervakad
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats. Bensin. Servering
+
+Skåneporten
+============
+Lägesbeskrivning: E 4 vid Trafikplats Örkelljunga (72), i riktning mot Helsingborg.
+Avstånd från ort: 2 km öster Örkelljunga
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Bensin, Matservering
+
+
+Sjöboda väst
+=============
+Lägesbeskrivning: E 4 vid Trafikplats Hjulsnäs (77), i riktning mot Markaryd.
+Avstånd från ort: 10 km norr om Strömsnäsbruk
+Vägnr: E 4
+Öppet: Året runt
+Turistinformation: Informationstavla
+Rastplatsmöbler: Ja.
+Sophantering: Ja.
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Frasses Hamburgare
+Typ av servering: Restaurant
+Serveringens öppettider: 08.00 - 20.00 (stänger 22.00 sommartid)
+
+Sjöboda öst
+============
+Lägesbeskrivning: E 4 vid Trafikplats Hjulsnäs (77), i riktning mot Värnamo.
+Avstånd från ort: 10 km norr Strömsnäsbruk
+Vägnr: E 4
+Öppet: Året runt
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Frasses Hamburgare
+Typ av servering: Restaurant
+Serveringens öppettider: 08.00 - 20.00 (Stänger 22.00 sommartid)
+
+Laganrasten öst
+================
+Lägesbeskrivning: E 4 vid Laganrasten, i båda riktningar.
+Avstånd från ort: 13 km norr om Ljungby
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Laganrasten väst
+=================
+Lägesbeskrivning: E 4 vid Laganrasten, i riktning mot Markaryd.
+Avstånd från ort: 13 km norr om Ljungby
+Vägnr: E 4
+Öppet: Ja.
+Turistinformation: Informationstavla
+Rastplatsmöbler: Ja.
+Sophantering: Ja.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats för barn finns.
+
+Värnamo
+========
+Lägesbeskrivning: E 4 vid Trafikplats Värnamo Södra (84), i båda riktningar.
+Avstånd från ort: 2 km öster från Värnamo
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Vägverket, Värnamo kommun samt en allmän turistinformation.
+Rastplatsmöbler: 12 st. bord med bänkar varav 10 st. under tak. 2 st. lusthus
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Bredasten
+Typ av servering: Café, Restaurant, Snabbmat, Kiosk
+Serveringens öppettider: Hela året.
+
+Hörle östra
+============
+Lägesbeskrivning: E 4 vid Rastplats Hörle, i riktning mot Jönköping.
+Avstånd från ort: 10 km norr Värnamo
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Vägverket, Värnamo kommun
+Rastplatsmöbler: 16 st. bord med bänkar varav två står under tak. 6 st. är handikappanpassade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Rastplatsen är övervakad. Rastplatsen finns på båda sidor om vägen.
+
+Hörle västra
+=============
+Lägesbeskrivning: E 4 vid Rastplats Hörle, i riktning mot Värnamo.
+Avstånd från ort: 10 km norr Värnamo
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Vägverket, Värnamo kommun
+Rastplatsmöbler: 14 st. varav 2 finns under tak. 6. av dessa är handikappanpassade.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är övervakad. Rastplatsen finns på båda sidor om vägen. Lekplats för barn finns.
+
+Götaström
+==========
+Lägesbeskrivning: E 4 vid Trafikplats Skillingaryd Norra (88), i båda riktningar.
+Avstånd från ort: 40 km söder Jönköping
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Vägverket, Upptäck Småland, Vaggeryds kommun
+Rastplatsmöbler: 16 st. bord med bänkar varav 7 är under tak. 2 st. lusthus.
+Sophantering: Ja
+HandikappToalett: Ja
+Serveringsnamn: Värdshus Götaström
+Typ av servering: Café, Restaurant, Kiosk
+Serveringens öppettider: Året runt
+Serveringens telefon: 0370-76670
+Övrig information: Belysning finns vid parkeringsytor och toalettbyggnad.
+
+Hyltena
+========
+Lägesbeskrivning: E 4 vid Trafikplats Hyltena, i båda riktningar.
+Avstånd från ort: 9 km söder Jönköping
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Vägverket, Jönköpings kommun.
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Serveringsnamn: Lovsjöbadens Servering o Camping
+Typ av servering: Restaurant, Kiosk
+Serveringens öppettider: Året runt.
+Övrig information: En liten badplats finns intill.
+
+Vista Kulle
+============
+Lägesbeskrivning: E 4 vid Rastplats Vistakulle, i riktning mot Jönköping.
+Avstånd från ort: 5 km norr Huskvarna
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+
+Vätterleden
+============
+Lägesbeskrivning: E 4 vid Trafikplats Vättersmålen (102), i båda riktningar.
+Avstånd från ort: 15 km norr Huskvarna
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Serveringsnamn: Vätterleden AB, Restaurang&Motell
+Typ av servering: Restaurant
+
+Gunneryd
+=========
+Lägesbeskrivning: E 4 mellan Trafikplats Gyllene Uttern och Trafikplats Vättersmålen (102), i riktning mot Jönköping.
+Avstånd från ort: 10 km söder Gränna
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+
+Gyllene Uttern
+===============
+Lägesbeskrivning: E 4 mellan Trafikplats Gyllene Uttern och Trafikplats Gränna (104), i båda riktningar.
+Avstånd från ort: 30 km norr om Jönköping
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Serveringsnamn: Gyllene Uttern
+Övrig information: Ej tillgänglig för tunga fordon.
+
+Brahehus
+=========
+Lägesbeskrivning: E 4 vid Rastplats Brahehus, i båda riktningar.
+Avstånd från ort: 20 km söder om Ödeshög
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Serveringsnamn: Restaurang Brahehus
+
+Vida Vättern
+=============
+Lägesbeskrivning: Väg 918 i Ödeshögs kommun i Östergötlands län
+Avstånd från ort: 14 km norr om Gränna
+Vägnr: Väg 918
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Serveringsnamn: Vida Vättern motell&restaurang
+Typ av servering: Restaurant
+
+Östgötaporten
+==============
+Lägesbeskrivning: E 4 vid Trafikplats Ödeshög, i båda riktningar.
+Avstånd från ort: 1 km öster om Ödeshög vid E4 och väg 50
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Dinners Östgötaporten
+Övrig information: Lekplats
+
+Albacken
+=========
+Lägesbeskrivning: E 4 vid Trafikplats Mjölby Öst (109), i båda riktningar.
+Avstånd från ort: 2 km norr om Mjölby
+Vägnr: E 4
+HandikappToalett: Ja
+Type av telefon: Kort
+
+Svartån
+========
+Lägesbeskrivning: E 4 mellan Bro över Svartån och Trafikplats Mjölby Öst (109), i riktning mot Gränna.
+Avstånd från ort: Ca 18 km söder Linköping
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+
+Herrbeta norra
+===============
+Lägesbeskrivning: E 4 vid Rastplats Herrbeta, i riktning mot Linköping.
+Avstånd från ort: 16 km norr Linköping
+Vägnr: E 4
+Toalett: Ja
+Serveringsnamn: Värdhus
+
+Herrbeta södra
+===============
+Lägesbeskrivning: E 4 vid Rastplats Herrbeta, i riktning mot Strömsfors.
+Avstånd från ort: 16 km norr Linköping
+Vägnr: E 4
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Klinga
+=======
+Lägesbeskrivning: E 4 vid Trafikplats Klinga (118), i båda riktningar.
+Avstånd från ort: 9 km sydväst Norrköping
+Vägnr: E 4
+Turistinformation: Vägverket,
+Rastplatsmöbler: 20 st. bord med bänkar
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Serveringsnamn: McDonalds
+Typ av servering: Restaurant
+Serveringens öppettider: Året runt
+Övrig information: Rastplatsen ligger i skogskanten med ett antal stora ekar. Planteringar ramar in de nedre sittplatserna medan de övre ligger öppet i skogskanten längs körslingan. Belysning på parkering och körslingan. Lekplats för barn
+
+Tintomara, Stavsjö
+===================
+Lägesbeskrivning: Väg 800 vid Tintomara, Stavsjö, i riktning mot Stockholms länsgräns.
+Avstånd från ort: 35 km väster om Nyköping
+Vägnr: Väg 800
+Turistinformation: Informationstavla
+Sophantering: Latrintömning (lös tank)
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: 20090914: Toaletterna är avstängda på grund av dåligt avlopp.
+
+Nyköpingsbro
+=============
+Lägesbeskrivning: E 4 vid Nyköpingsbro, i båda riktningar.
+Avstånd från ort: 4 km väster om Nyköping
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Typ av servering: Café, Restaurant
+
+Sillekrog
+==========
+Lägesbeskrivning: E 4 vid Sillekrog, i båda riktningar.
+Avstånd från ort: 32 km nordost om Nyköping
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Serveringsnamn: Restaurang
+Övrig information: Toaletterna finns på den närliggande bensinstationen.
+
+Stora Wäsby
+============
+Lägesbeskrivning: E 4 på Uppsalavägen vid Trafikplats Stora Wäsby, i båda riktningar.
+Avstånd från ort: ca 30 km norr om Stockholm C
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Snabbmat
+Serveringens öppettider: 06.00-23.00
+Bensinstationens typ: Automat
+Butik: Ja
+Bensinstationens öppettider: Dygnet runt
+Övrig information: Vissa rastplatsmöbler är anpassade för funktionshindrade. Belysning.
+
+Mora stenar
+============
+Lägesbeskrivning: E 4 på Uppsalavägen vid Mora stenar, söder Uppsala, i riktning mot Uppsala.
+Avstånd från ort: 10 km söder Uppsala
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats. Latrintömning (bärbar).
+
+Torsberget
+===========
+Lägesbeskrivning: E 4 vid Torsberget, i riktning mot Uppsala.
+Avstånd från ort: 10 km norr om Uppsala
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats. Latrintömning (bärbar).
+
+Tre ängar
+==========
+Lägesbeskrivning: E 4 vid Tre ängar, i riktning mot Gävle.
+Avstånd från ort: 12 km norr om Uppsala
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats. Latrintömning (bärbar).
+
+Arvidsbo, Tierp
+================
+Lägesbeskrivning: E 4 vid Trafikplats Tierp (193), i båda riktningar.
+Vägnr: E 4
+Turistinformation: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Gävlebro
+=========
+Lägesbeskrivning: E 4 mellan Trafikplats Gävle Södra och Gävle.
+Avstånd från ort: 3 km till Gävle C
+Vägnr: E 4
+Turistinformation: Hänvisning till Gävle & Co i centrala Gävle
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Dinners
+Typ av servering: Restaurant
+
+Rastplats Skorvberget
+======================
+Finns kvar??
+
+Hagsta
+=======
+Lägesbeskrivning: E 4 vid Hagsta Krog, i båda riktningar.
+Avstånd från ort: 30 km norr om Gävle
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Typ av telefon: Kort
+Serveringsnamn: Hakkegård
+Typ av servering: Restaurant
+Övrig information: Lekplats.
+
+Tönnebro
+=========
+Lägesbeskrivning: E 4 vid Tönnebro, i riktning mot Söderhamn.
+Avstånd från ort: 28 km S Söderhamn
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Typ av telefon: Kort
+Serveringsnamn: Tönnebro Värdshus
+Övrig information: Möjlighet till bad, vacker utsikt över sjön Noran. Lekplats.
+
+Högbacka
+=========
+Lägesbeskrivning: E 4 vid Trafikplats Sörljusne, i riktning mot Gävle.
+Avstånd från ort: 35 km S Söderhamn
+Vägnr: E 4
+Toalett: Ja
+HandikappToalett: Ja
+Typ av telefon: Kort
+Övrig information: Promenadstig ner till sjö med möjlighet till bad
+
+Alebosjön
+==========
+Lägesbeskrivning: E 4 vid Trafikplats Losjö, i riktning mot Söderhamn.
+Vägnr: E 4
+Turistinformation: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats
+
+Harmånger
+==========
+Lägesbeskrivning: E 4 vid Harmånger, i riktning mot Sundsvall.
+Avstånd från ort: 27 km norr Hudiksvall
+Vägnr: E 4
+Öppet: Dygnet runt
+Turistinformation: Bemanning sommartid. Informationstavlor
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats.
+
+Gnarp
+======
+Lägesbeskrivning: E 4 mellan Gnarp och Jättendal, i riktning mot Hudiksvall.
+Avstånd från ort: 35 km N Hudiksvall
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Typ av telefon: Kort
+Övrig information: Lekplats.
+
+Armsjön
+========
+Lägesbeskrivning: E 4 mellan Armsjön och Årskogen Norra, i riktning mot Hudiksvall.
+Avstånd från ort: 20 km S Sundsvall
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+Skönviksberget
+===============
+Lägesbeskrivning: E 4 mellan Trafikplats Bydalen och Trafikplats Birsta, i båda riktningar.
+Avstånd från ort: 5 N Sundsvall
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Vacker utsikt över Alnösundet. Motionsspår i anslutning till södergående rastplats. Gångtunnel
+
+Bölesjön
+=========
+Lägesbeskrivning: E 4 mellan Torsboda och Svarvarböle, i båda riktningar.
+Avstånd från ort: 10 km norr Timrå
+Vägnr: E 4
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Gatukök finns sommartid Lekplats
+
+E6 Göteborg-Svinesund
+======================
+
+Klareberg
+=========
+Lägesbeskrivning: E 6 på Kungälvsleden mellan Trafikplats Jordfallsmotet (Kungälvsleden) och Trafikplats Klarebergsmotet (Kungälvsleden), i riktning mot Göteborg.
+Avstånd från ort: Ca 12 km norr om Göteborg
+Vägnr: E 6
+Turistinformation: Bemannad sommartid
+Rastplatsmöbler: under tak.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Spekeröd
+=========
+Lägesbeskrivning: E 6 vid Spekeröd, i båda riktningar.
+Avstånd från ort: Ca 5 km söder om Stenungsund
+Vägnr: Väg 650
+Turistinformation: Bemannad sommartid
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Rastplatsen är övervakad. Belysning. Lekplats i anslutning till Spekeröds festplats.
+
+Ödsmålsbron
+============
+Lägesbeskrivning: E 6 vid Ödsmålsbron, i riktning mot Uddevalla.
+Avstånd från ort: Ca 6 km norr om Stenungsund
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Rastplatsen används som poliskontrollplats.
+
+Ljungskile
+===========
+Lägesbeskrivning: E 6 vid Trafikplats Ljungskilemotet, i båda riktningar.
+Avstånd från ort: Ca 0,5 km norr om Ljungskile centrum
+Vägnr: E 6
+Öppet: En stor del av rastplatsen stängs vintertid
+Turistinformation: Bemannad. Öppet 10-18.
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Serveringens öppettider: ej angivet
+Övrig information: Belysning. Lekplats.
+
+Håby
+=====
+Lägesbeskrivning: E 6 vid Håbymotet (100), i båda riktningar.
+Avstånd från ort: Ca 4 km norr om Munkedal
+Vägnr: E 6
+Turistinformation: Bemannad under sommaren
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Typ av servering: Restaurant
+Övrig information: Belysning. Stora grönytor och väl avskild från E6.
+
+Tegen
+======
+Lägesbeskrivning: E 6 vid Tegen, i riktning mot Uddevalla.
+Avstånd från ort: Ca 18 km söder om Tanumshede
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats. Väl avskild från E6.
+
+Huds Moar
+==========
+Lägesbeskrivning: E 6 mellan Solhem och Pålen, i båda riktningar.
+Avstånd från ort: Ca 8 km söder om Tanumshede
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Barnvänlig.
+
+Överby
+=======
+Lägesbeskrivning: E 6 vid Överby, i båda riktningar.
+Avstånd från ort: Ca 12 km sydost om Strömstad
+Vägnr: E 6
+Turistinformation: Bemannad sommartid
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Dynekilen
+==========
+Lägesbeskrivning: E 6 mellan Hogdalsmotet och Dynekilen, i riktning mot Uddevalla.
+Avstånd från ort: Ca 2 km söder om Hogdalsmotet, NO Strömstad
+Vägnr: E 6
+Turistinformation: Kartor
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+E6-E20 Göteborg-Malmö
+======================
+
+Mölndal
+========
+Lägesbeskrivning: E 6 på Kungsbackaleden vid Mölndal (Kungsbackaleden), i riktning mot Göteborg.
+Avstånd från ort: Ca 3 km norr om Kållered, 8 km söder om Göteborg
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Sandsjöbacka Västra
+====================
+Lägesbeskrivning: E 6 på Kungsbackaleden vid Sandsjöbacka (Kungsbackaleden), i riktning mot Varberg.
+Avstånd från ort: Ca 20 km söder om Göteborg
+Vägnr: E 6
+Turistinformation: Naturreservat. Motionsslinga.
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+Övrig information: Belysning. Gångbro till rastplats Sandsjöbacka Östra.
+
+Sandsjöbacka Östra
+===================
+Lägesbeskrivning: E 6 på Kungsbackaleden vid Sandsjöbacka (Kungsbackaleden), i riktning mot Göteborg.
+Avstånd från ort: Ca 6 km norr om Kungsbacka
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+Bensinstationens typ: Manuell
+Butik: Ja
+Bensinstationens öppettider: Dygnet runt-öppen
+Övrig information: Belysning. Gångbro till restaurang, rastplats Sandsjöbacka Västra.
+
+Torpasjön
+==========
+Lägesbeskrivning: E 6 vid Ölmevallasjön, i riktning mot Göteborg.
+Avstånd från ort: Ca 30 km norr om Varberg
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är övervakad. Belysning. Badplats, strövstig. Gångtunnel till Rastplats Ölmevallasjön.
+
+Ölmevallasjön
+==============
+Lägesbeskrivning: E 6 vid Ölmevallasjön, i riktning mot Varberg.
+Avstånd från ort: Ca 12 km söder om Kungsbacka
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Belysning. Badplats, strövstig. Gångtunnel till Rastplats Torpasjön.
+
+Himle
+======
+Lägesbeskrivning: E 6 vid Himle, i båda riktningar.
+Avstånd från ort: Ca 8 km söder om Varberg
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Anslutning till camping. Flyttning av rastplatsen till västra sidan av E6/E20 planeras till sommaren 2008 p.g.a. industrietablering.
+
+Skrea Backe
+============
+Lägesbeskrivning: E 6 vid Trafikplats Falkenberg Syd (Tpl 50), i båda riktningar.
+Avstånd från ort: Ca 6 km öster om Falkenberg centrum
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats. Strövstig, damm.
+
+Susedalen Östra
+================
+Lägesbeskrivning: E 6 mellan Susedalen och Trafikplats Slöinge, i riktning mot Falkenberg.
+Avstånd från ort: Ca 20 km norr om Halmstad
+Vägnr: E 6
+Toalett: Ja
+Typ av servering: Café
+Övrig information: Belysning. Lekplats. Gångtunnel och förbindelseväg till Susedalen Västra.
+
+Susedalen Västra
+=================
+Lägesbeskrivning: E 6 mellan Trafikplats Slöinge och Susedalen, i riktning mot Halmstad.
+Avstånd från ort: Ca 15 km söder om Falkenberg
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats. Café på Susedalen Östra. Gångtunnel och förbindelseväg till Susedalen Östra.
+
+Eurostop
+=========
+Lägesbeskrivning: E 6 vid Trafikplats Halmstad Östra (Tpl 44), i båda riktningar.
+Avstånd från ort: Ca 3 km öster om Halmstad centrum
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Lekplats. Rastplatsen i anslutning till Trafikplats Halmstad Östra.
+
+Snapparp Västra
+================
+Lägesbeskrivning: E 6 vid Snapparp, i riktning mot Båstad.
+Avstånd från ort: Ca 18 km söder om Halmstad
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Butik: Ja
+Bensinstationens öppettider: ej angivet
+Övrig information: Belysning. Restaurang på rastplats Snapparp Östra, som kan nås via förbindelseväg under motorvägen. Lekplats.
+
+Snapparp Östra
+===============
+Lägesbeskrivning: E 6 vid Snapparp, i riktning mot Halmstad.
+Avstånd från ort: Ca 11 km norr om Skottorp
+Vägnr: E 6
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+Serveringens öppettider: ej angivet
+Övrig information: Belysning. Rastplats Snapparp Västra kan nås via förbindelseväg under motorvägen. Lekplats.
+
+Kungsrasten
+============
+Lägesbeskrivning: E 6 vid Trafikplats Hallandsås (38), i riktning mot Båstad.
+Avstånd från ort: 16 km norr Ängelholm
+Vägnr: E 6
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Servering. Lekplats.
+
+Hallandsås
+===========
+Lägesbeskrivning: E 6 vid Trafikplats Hallandsås (38), i riktning mot Båstad.
+Avstånd från ort: Ca 16 km norr om Ängelholm
+Vägnr: E 6
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Restaurang och bensin ligger intill. Latrintömning för husvagnar.
+
+Erikslund
+==========
+Lägesbeskrivning: E 6 vid Trafikplats Norra Varalöv (33), i riktning mot Helsingborg.
+Avstånd från ort: 5 km söder Ängelholm
+Vägnr: E 6
+Öppet: Toaletten avstängd tills vidare på grund av skadegörelse
+Turistinformation: Rastplatsen är övervakad
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: .
+Övrig information: Lekplats. Latrintömning för husvagnar. Servering, bensinstation.
+
+Skåne Rasta Glumslöv V
+=======================
+Lägesbeskrivning: E 6 mellan Trafikplats Rydebäck (27) och Trafikplats Landskrona Norra (26), i båda riktningar.
+Avstånd från ort: 10 km söder Helsingborg
+Vägnr: E 6
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Servering. Bensin. Rastplatsen är övervakad.
+
+Skåne Rasta Glumslöv Ö
+=======================
+Lägesbeskrivning: E 6 mellan Trafikplats Rydebäck (27) och Trafikplats Landskrona Norra (26), i båda riktningar.
+Avstånd från ort: 8 km norr Landskrona
+Vägnr: E 6
+Turistinformation: Rastplatsen är övervakad
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Servering Bensin
+
+Skånegården
+============
+Lägesbeskrivning: E 20 mellan Lernacken, betalstation och Trafikplats Vintrie (11), i riktning mot Malmö.
+Avstånd från ort: Malmö
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats och postlåda finns. Servering. Bensinstation i närheten
+
+
+E18 Töcksfors-Örebro
+    Örebro-Arboga
+    Arboga-Kapellskär
+=======================
+
+Nyängen
+========
+Lägesbeskrivning: E 18 vid Grums Norr (Rv45) i Värmlands län. Båda riktningarna.
+Avstånd från ort: Ca 3 km norr om Grums
+Vägnr: E 18
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats.
+
+Stolpen
+========
+Lägesbeskrivning: E 18 mellan Ölme och Gustavsvik, i riktning mot Kristinehamn.
+Avstånd från ort: Ca 7 km nordväst om Kristinehamn
+Vägnr: E 18
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Värdshuset Stolpen
+Övrig information: Belysning
+
+Övre Kvarn
+===========
+Lägesbeskrivning: E 18 vid Öv Kvarnmotet, i båda riktningar.
+Avstånd från ort: Ca 2 km öster om Kristinehamn centrum
+Vägnr: E 18
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: McDonalds
+Typ av servering: Restaurant
+
+Ristjärn
+=========
+Lägesbeskrivning: E 18 mellan Bodalen och Ämtfalla, i riktning mot Kristinehamn.
+Avstånd från ort: Ca 9 km öster om Kristinehamn
+Vägnr: E 18
+Turistinformation: Ja
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Sandbäcken
+===========
+Lägesbeskrivning: E 18 mellan Trafikplats Immetorp och Villingsberg, i riktning mot Örebro.
+Avstånd från ort: 5 km öster Karlskoga
+Vägnr: E 18
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+Villingen
+==========
+Lägesbeskrivning: E 18 mellan Lekhyttan och Villingsberg, i riktning mot Karlskoga.
+Avstånd från ort: 9 km öster om Karlskoga
+Vägnr: E 18
+Turistinformation: Ja
+Sophantering: Latrintömning (lös tank)
+Toalett: Ja
+HandikappToalett: Ja
+
+Björnfallet
+============
+Lägesbeskrivning: E 18 mellan Trafikplats Skölv (117) och Trafikplats Munkatorp (116), i riktning mot Örebro.
+Avstånd från ort: 15 km öster Örebro
+Vägnr: E 18
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats
+
+Högsjön
+========
+Lägesbeskrivning: E 18 mellan Karlsvik och Trafikplats Jäder (119), i riktning mot Köping.
+Avstånd från ort: 10 km väster Arboga
+Vägnr: E 18
+Sophantering: Latrintömning (lös tank)
+HandikappToalett: Ja
+Serveringsnamn: Värdshus
+Övrig information: Lekutrustning i form av en rutschkana och gungor finns.
+
+Skoftesta skans
+================
+Lägesbeskrivning: E 18 vid Skoftesta skans, i båda riktningar.
+Avstånd från ort: 5 km sydväst Köping
+Vägnr: E 18
+Turistinformation: Ja
+Sophantering: Latrintömning (lös tank)
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekutrustning i form av en rutschkana, klätterställning och gungor finns.
+
+Svedvi
+=======
+Lägesbeskrivning: E 18 vid Svedvi, i riktning mot Köping.
+Avstånd från ort: 13 km väster om Västerås
+Vägnr: E 18
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekutrustning i form av gungor finns.
+
+Råby
+=====
+Lägesbeskrivning: E 18 vid Råby, i riktning mot Västerås.
+Avstånd från ort: 10 km väster om Västerås
+Vägnr: E 18
+Sophantering: Latrintömning (lös tank)
+Toalett: Ja
+
+Ekolskrog
+==========
+Lägesbeskrivning: E 18 vid Ekolskrog, i båda riktningar.
+Avstånd från ort: 20 km öster Enköping
+Vägnr: E 18
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Serveringsnamn: Ekolskrog
+Övrig information: Matservering
+
+
+E20 Göteborg-Örebro
+    Arboga-Södertälje
+======================
+
+Partille
+=========
+Lägesbeskrivning: E 20 på Alingsåsleden vid Partille (Alingsåsleden), i riktning mot Göteborg.
+Avstånd från ort: Ca 11 km öster om Göteborg
+Vägnr: E 20
+Turistinformation: Bemannad sommartid
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Tollered
+=========
+Lägesbeskrivning: E 20 vid Tollered, i riktning mot Lerum.
+Avstånd från ort: Ca 15 km sydväst om Alingsås
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+
+Vardsjön
+=========
+Lägesbeskrivning: E 20 vid Vardsjön, i båda riktningar.
+Avstånd från ort: Ca 3 km sydväst om Alingsås
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Busshållplats i samband med rastplatsen. Belysning.
+
+Nygård
+=======
+Lägesbeskrivning: E 20 mellan Bälinge och Alingsås, i riktning mot Lerum.
+Avstånd från ort: Ca 2 km nordost om Alingsås
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Kålltorp
+=========
+Lägesbeskrivning: E 20 mellan V Gerum och Kålltorp, i riktning mot Vara.
+Avstånd från ort: Ca 11 km sydväst om Skara
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn.
+
+Blombacka
+==========
+Lägesbeskrivning: E 20 mellan Kålltorp och V Gerum, i riktning mot Skara.
+Avstånd från ort: Ca 8 km sydväst om Skara
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn.
+
+Motorp
+=======
+Lägesbeskrivning: E 20 vid Motorp, i riktning mot Skara.
+Avstånd från ort: Ca 12 km sydväst om Mariestad
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Sandbäcken
+===========
+Lägesbeskrivning: E 20 vid Trafikplats Ullervad, i båda riktningar.
+Avstånd från ort: Ca 3 km söder om Mariestad centrum
+Vägnr: E 20
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Hova
+=====
+Lägesbeskrivning: E 20 vid Hova, i båda riktningar.
+Avstånd från ort: Ca 0,5 km norr om Hova samhälle
+Vägnr: E 20
+Turistinformation: Turistbyrå juni-aug
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Borasjön
+=========
+Lägesbeskrivning: E 20 vid Borasjön, i båda riktningar.
+Avstånd från ort: 6 km väster Laxå
+Vägnr: E 20
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Idag den 6/12 har golvvärmen kopplats ur då den måste lagas. Lekutrustning i form av gungor finns.
+
+Sickelsta
+==========
+Lägesbeskrivning: E 20 vid Sickelsta, i båda riktningar.
+Avstånd från ort: 17 km söder om Örebro
+Vägnr: E 20
+Turistinformation: Ja
+Rastplatsmöbler: 8 st bord med tak. Ett bord med omgivning är handikappanpassat.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Skilda uppställningsplatser för lastbilar, personbilar och husvagnar. Rastplats Sickelsta har utsetts till Närkes läns bästa rastplats av Motormännen år 2007.
+
+Råbyhed
+========
+Lägesbeskrivning: E 20 vid Råbyhed, i båda riktningar.
+Avstånd från ort: 15 km väster om Eskilstuna
+Vägnr: E 20
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+
+E22 Malmö-Norrköping
+=====================
+
+Gårdstånga
+===========
+Lägesbeskrivning: Väg 104 vid Gårdstånga, i riktning mot Kävlinge.
+Avstånd från ort: 9 km norr Lund
+Vägnr: Väg 104
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Samåkningsparkering ligger strax intill rastplatsen. Rastplatsen är övervakad
+
+Ekerödsrasten
+==============
+Lägesbeskrivning: E 22, Lund -> Kristianstad vid Ekerödsrasten i Skåne län.
+Avstånd från ort: 7 km norr Hörby
+Vägnr: E 22
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Motell på rastplatsen med konferensmöjligheter. Det finns minigolf, camping och lekplats.
+
+Vä
+===
+Lägesbeskrivning: E 22 vid Trafikplats Vä (36), i riktning mot Hörby.
+Avstånd från ort: 8 km sydväst om Kristianstad
+Vägnr: E 22
+Turistinformation: Informationstavla
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+
+Ynde / Sölvesborg
+==================
+Lägesbeskrivning: E 22 vid Trafikplats Sölvesborg Väst (45), i båda riktningar.
+Avstånd från ort: 1 km norr om Sölvesborg
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Sölvesborgs kommun
+Rastplatsmöbler: 13 st. bord med bänkar varav en är handikappanpassad.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Intill rastplatsen ligger Blekinge/Skåneleden där man kan vandra.
+
+Norje
+======
+Lägesbeskrivning: E 22 mellan Norje norra och Pukavik södra, i båda riktningar.
+Avstånd från ort: 15 km nordost Sölvesborg
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket
+Rastplatsmöbler: 4 st. bord med bänkar
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Avser norrgående trafik.
+
+Pukavik
+========
+Lägesbeskrivning: E 22 mellan Norje norra och Pukavik södra, i båda riktningar.
+Avstånd från ort: 10 km väster Karlshamn
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket, Sölvesborgs kommun samt en allmän tavla.
+Rastplatsmöbler: 8 st. bord med bänkar varav en är handikappanpassad.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Åryd
+=====
+Lägesbeskrivning: E 22 vid Trafikplats Åryd, i båda riktningar.
+Avstånd från ort: 12 km öster Karlshamn
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket, Karlshamns kommun och en allmän tavla.
+Rastplatsmöbler: 5 st. bord med bänkar varav 2 är handikappanpassade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Galtsjön
+=========
+Lägesbeskrivning: E 22 vid Rastplats Galtsjön, i båda riktningar.
+Avstånd från ort: 9 km väster Ronneby
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket samt en allmän tavla
+Rastplatsmöbler: 12 st. bord med bänkar varav 2 st. under tak. Flera är handikappanpassade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Dinners Hotell och Restaurang
+Typ av servering: Café, Restaurant
+Serveringens öppettider: Hela året.
+Serveringens telefon: 0457-16035
+Övrig information: Rastplatsen finns på båda sider om vägen.
+
+Förkärla
+=========
+Lägesbeskrivning: E 22 vid Rastplats Förkärla, i båda riktningar.
+Avstånd från ort: 12 km väster om Karlskrona
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket, Karlskrona kommun samt Förkärlaleden.
+Rastplatsmöbler: 7 st. bord med bänkar varav en är handikappanpassad
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen finns på båda sidor om vägen. Brevlåda finns.
+
+Torstäva
+=========
+Lägesbeskrivning: E 22 vid Cirkulationsplats Torstäva, i båda riktningar.
+Avstånd från ort: 5 km öster Karlskrona
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket samt Karlskrona kommun
+Rastplatsmöbler: 5 st. bord med bänkar varav en är handikappanpassad.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Bröms
+======
+Lägesbeskrivning: E 22 vid Rastplats Bröms, i båda riktningar.
+Avstånd från ort: 30 km norr om Karlskrona
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Östra småland, Öland samt en allmän tavla.
+Rastplatsmöbler: 11 bord med bänkar varav 2 är under tak.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats finns.
+
+Väntorp
+========
+Lägesbeskrivning: E 22 vid Rastplats Väntorp, i båda riktningar.
+Avstånd från ort: 20 km söder om Kalmar
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket samt Kalmar kommun.
+Rastplatsmöbler: 5 st bord med bänkar varav ett är under tak.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen ligger på båda sider av vägen. Lekplats
+
+Emån
+=====
+Lägesbeskrivning: E 22 mellan Emån och Trafikplats Emsfors/Påskallavik, i båda riktningar.
+Avstånd från ort: 18 km söder Oskarshamn
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket, Emåområdet, Glasriket, Mönsterås samt en allmän tavla
+Rastplatsmöbler: 15 st. bord varav 4 under tak. 1 st handikappanpassad.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen finns på båda sider om vägen. Lekplats för barn finns.
+
+Glabo
+======
+Lägesbeskrivning: E 22 vid Rastplats Glabo, i båda riktningar.
+Avstånd från ort: 25 km söder om Västervik
+Vägnr: E 22
+Turistinformation: Västeriks kommun, Vägverket samt en allmän skylt.
+Rastplatsmöbler: 3 st. bord med bänkar varav ett är under tak.
+Toalett: Ja
+HandikappToalett: Ja
+
+Lebo
+=====
+Lägesbeskrivning: E 22 mellan Rastplats Glabo och Bofall, i båda riktningar.
+Avstånd från ort: 23 km söder om Västervik
+Vägnr: E 22
+Turistinformation: Vägverket
+Rastplatsmöbler: 4 st bord varav ett är under tak
+Toalett: Ja
+HandikappToalett: Ja
+
+Tindered
+=========
+Lägesbeskrivning: E 22 vid Rastplats Tindered, i båda riktningar.
+Avstånd från ort: 10 km norr om Gamleby
+Vägnr: E 22
+Öppet: Ja
+Turistinformation: Vägverket, Gamleby, Östra småland och Öland
+Rastplatsmöbler: 11 bord med bänkar varav 4 under tak
+Sophantering: Glassortering finns
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Tindereds Restaurang och Café
+Typ av servering: Café, Restaurant, Kiosk
+Serveringens öppettider: 09.00 - 21.00 (sommartid)
+Övrig information: Lekplats för barn finns.
+
+Kårtorp
+========
+Lägesbeskrivning: E 22 vid Rastplats Kårtorp, i båda riktningar.
+Avstånd från ort: 6 km söder Valdemarsvik
+Vägnr: E 22
+Turistinformation: Informationstavla
+Rastplatsmöbler: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Cafe Kårtorp
+Typ av servering: Café
+
+
+E45 Göteborg-Segmon
+====================
+
+Agnesberg
+==========
+Avstånd från ort: Ca 11 km norr om Göteborg
+Vägnr: E 45
+Turistinformation: Bemannad sommartid
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Lilla Edet
+===========
+Lägesbeskrivning: Väg 167 vid Lilla Edet, i båda riktningar.
+Avstånd från ort: Ca 1 km norr om Lilla Edet centrum
+Vägnr: Väg 167
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Typ av servering: Restaurant
+Övrig information: Lekplats
+
+Karlsro
+========
+Lägesbeskrivning: Väg 45 vid Karlsro,Botered, i riktning mot Mellerud.
+Avstånd från ort: Ca 12 km norr om Trollhättan
+Vägnr: Väg 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning.
+
+Botered
+========
+Lägesbeskrivning: Väg 45 vid Karlsro,Botered, i riktning mot Trollhättan.
+Avstånd från ort: Ca 23 km söder om Brålanda
+Vägnr: Väg 45
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Snabbmat
+Övrig information: Belysning
+
+Bergs Kullar
+=============
+Lägesbeskrivning: Väg 45 mellan Svecklingebyn och Kambol, i båda riktningar.
+Avstånd från ort: Ca 5 km sydväst om Mellerud
+Vägnr: E 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Vänersborg.
+
+Linderud
+=========
+Lägesbeskrivning: Väg 45 vid Linderud, i båda riktningar.
+Avstånd från ort: Ca 5 km norr om Mellerud
+Vägnr: E 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Karlstad.
+
+Vassviken
+==========
+Lägesbeskrivning: Väg 45 mellan Vassviken och Dalängen, i riktning mot Mellerud.
+Avstånd från ort: Ca 15 km norr om Mellerud
+Vägnr: E 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Åmål
+=====
+Lägesbeskrivning: Väg 45 vid Åmål, i båda riktningar.
+Avstånd från ort: Ca 2 km nordväst om Åmål centrum
+Vägnr: E 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Stamfrändemonumentet
+=====================
+Lägesbeskrivning: Väg 45 vid Stamfrändemonumentet, i båda riktningar.
+Avstånd från ort: Ca 3 km söder om Sunne
+Vägnr: Väg 45
+Turistinformation: Ja
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Servering. På grund av miljöskäl får lastbilar INTE nyttja rastplatsen.
+
+Tossebergsklätten
+==================
+Lägesbeskrivning: Väg 45 mellan Stöpafors och Råby, i båda riktningar.
+Avstånd från ort: Ca 19 km norr om Sunne
+Vägnr: Väg 45
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats
+
+Hänsjön
+========
+Lägesbeskrivning: Väg 45 vid Hänsjön, i båda riktningar.
+Avstånd från ort: Ca 7 km norr om Torsby
+Vägnr: Väg 45
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belsyning.
+
+Lisskogsåsen
+=============
+Lägesbeskrivning: Väg 45 vid Lisskogsåsen, i båda riktningar.
+Vägnr: E 45
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+HandikappToalett: Ja
+
+Johannisholm
+=============
+Lägesbeskrivning: E 45 vid Johannisholm, i riktning mot Mora.
+Avstånd från ort: 31 km söder Mora
+Vägnr: E 45
+HandikappToalett: Ja
+
+Siljansfors
+============
+Lägesbeskrivning: E 45 vid Siljansfors, i riktning mot Malung.
+Vägnr: E 45
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: 10 Maj-30 Sept
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Skogsmuseum. Toalett endast när serveringen är öppen.
+
+Noppikoski
+===========
+Lägesbeskrivning: Väg 45 mellan Noppikoski och Västbacka, i riktning mot Sveg.
+Avstånd från ort: 50 km norr Orsa
+Vägnr: E 45
+Toalett: Ja
+
+Sandsjön
+=========
+Lägesbeskrivning: Väg 45 vid Västbacka, i båda riktningar.
+Avstånd från ort: 60 km norr Orsa
+Vägnr: E 45
+Typ av servering: Kiosk
+
+
+E65 Malmö-Ystad
+================
+
+Börringe
+=========
+Lägesbeskrivning: E 65 mellan Trafikplats Svedala (11) och Perstorp, i riktning mot Skurup.
+Avstånd från ort: 4 km öster Svedala
+Vägnr: E 65
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belägen söder om E 65
+
+Bjäresjö
+=========
+Lägesbeskrivning: E 65 vid Bjäresjö, i båda riktningar.
+Avstånd från ort: 4 km väster Ystad
+Vägnr: E 65
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Latrintömning för husvagnar.
+
+
+Rv 9 Trelleborg-Brösarp
+========================
+
+Vårhallarna
+============
+Lägesbeskrivning: Rv 9, Simrishamn -> Brösarp mellan Simrishamn (Kristianstadsvägen) och Baskemölla i Skåne län.
+Avstånd från ort: 2 km norr Simrishamn
+Vägnr: Väg 9
+Öppet: Tillfälligt stängd pga skadegörelse
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Utsikt över Hanöbukten. Badplats. Rastplatsens toaletter är för tillfället stängd pga vandalisering.
+
+Brösarps backar
+================
+Lägesbeskrivning: Rv 9, Simrishamn -> Brösarp vid Brösarp i Skåne län.
+Avstånd från ort: 24 km norr Simrishamn
+Vägnr: Väg 9
+Turistinformation: Informationstavla
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ligger i Verkeåns naturreservat. Ett mycket vackert backlandskap
+
+Vägstationen Brösarp
+=====================
+Lägesbeskrivning: Rv 9, Brösarp -> Simrishamn vid Brösarp i Skåne län.
+Avstånd från ort: 0 m från Brösarp
+Vägnr: Väg 9
+Rastplatsmöbler: 12 bord
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Samåkningsparkering Kaffeservering Dusch, tvätt Cykeluthyrning Lekplats
+
+
+Rv. 11 Malmö-Simrishamn
+========================
+
+Knivsåsen
+==========
+Lägesbeskrivning: Väg 11 vid Granedal, i riktning mot Dalby.
+Avstånd från ort: 15 km öster Lund
+Vägnr: Väg 11
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 13 Ängelholm-Klippan
+       Klippan-Ystad
+=========================
+
+Nackarp
+========
+Lägesbeskrivning: Rv 13, Klippan -> Höör vid Nackarpsdalen i Skåne län.
+Avstånd från ort: 0,5 km nordväst Röstånga
+Vägnr: Väg 13
+Turistinformation: Informationstavla
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ligger i Nackarpsdalen intill Odensjön vid Söderåsens nationalpark med vackra strövområden i skånsk bokskog.
+
+Hasslebro
+==========
+Lägesbeskrivning: Rv 13, Höör -> Klippan vid Hasslebro (Lv 113) i Skåne län.
+Avstånd från ort: 10 km väst Höör
+Vägnr: Väg 13
+Turistinformation: Informationstavla
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ligger vid Rönne å. Kanotuthyrning i Stockamöllan.
+
+
+Rv. 21 Åstorp-Kristianstad
+===========================
+
+Forsmöllan syd
+===============
+Lägesbeskrivning: Väg 13 vid Forsmöllan, i riktning mot Höör.
+Avstånd från ort: 1 km söder Klippan
+Vägnr: Väg 13
+Toalett: Ja
+HandikappToalett: Ja
+
+Forsmöllan nord
+================
+Lägesbeskrivning: Väg 13 vid Forsmöllan, i riktning mot Klippan.
+Avstånd från ort: 1 km söder om Klippan
+Vägnr: Väg 13
+Turistinformation: Informationstavla
+Rastplatsmöbler: Handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+
+Stoby
+======
+Lägesbeskrivning: Väg 119 mellan Stoby och Ljunghuset, i båda riktningar.
+Avstånd från ort: 4 km nordost Hässleholm
+Vägnr: Väg 119
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Samåkningsparkering och Mc Donalds finns vid anläggningen.
+
+
+Rv. 23 Trp Rolsberga-Målilla
+=============================
+
+Norra Mellby
+=============
+Lägesbeskrivning: Rv 23, Höör -> Hässleholm vid Norra Mellby i Skåne län.
+Avstånd från ort: C 12 km söder om Hässleholm
+Vägnr: Väg 23
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+Lars Dufwa
+===========
+Lägesbeskrivning: Väg 23 vid Bökeberga, i riktning mot Osby.
+Avstånd från ort: 2 km norr Osby
+Vägnr: Väg 23
+Rastplatsmöbler: 6 stycken bord, 1 handikappanpassat
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Handikapptoa inomhus. Latrintömning för husvagnar. Lekplats.
+
+Såganäs
+========
+Lägesbeskrivning: Väg 23 mellan Brännhult och Såganäs, i båda riktningar.
+Avstånd från ort: 8 km norr om Älmhult
+Vägnr: Väg 23
+Turistinformation: Älmhultsbygden samt vägverket.
+Rastplatsmöbler: Ja.
+Sophantering: Ja.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen finns på båda sidor om vägen.
+
+Innaren
+========
+Lägesbeskrivning: Väg 23 mellan Innaren och Skårtaryd, i båda riktningar.
+Avstånd från ort: 13 km norr Växjö
+Vägnr: Väg 23
+Öppet: Ja
+Turistinformation: Vägverket samt Glasriket.
+Rastplatsmöbler: 10 st. bord med bänkar
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Gustavssons / Cafiket
+Typ av servering: Café
+Serveringens öppettider: 09.00 - 19.00
+
+Sjöatorpasjön
+==============
+Lägesbeskrivning: Väg 23 mellan Sjöatorpsjön och Åseda, i båda riktningar.
+Avstånd från ort: 9 km sydväst Åseda
+Vägnr: Väg 23
+Turistinformation: Information från Fagraholms Fly naturreservat.
+Rastplatsmöbler: 3 st. rastplatsmöbler
+
+
+Rv. 24 Laholm-Hässleholm
+=========================
+
+Våxtorp
+========
+Lägesbeskrivning: Väg 24 vid Våxtorp rastplats, i båda riktningar.
+Avstånd från ort: Ca 15 km söder om Laholm
+Vägnr: Väg 24
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Halmstad.
+
+
+Rv. 25 Halmstad-Ljungby 
+       Ljungby-Växjö-Kalmar
+============================
+
+Esmared
+========
+Lägesbeskrivning: Väg 25 vid Esmared rastplats, i båda riktningar.
+Avstånd från ort: Ca 25 km öster om Halmstad
+Vägnr: Väg 25
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Halmstad.
+
+Boasjön
+========
+Lägesbeskrivning: Väg 25 vid Boasjön, i båda riktningar.
+Avstånd från ort: 24 km sydväst Ljungby
+Vägnr: Väg 25
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Badplats och busshållplats finns i närheten.
+
+Fenen
+======
+Lägesbeskrivning: Väg i Värnamo kommun i Jönköpings län
+Avstånd från ort: 19 km väster Alvesta
+Vägnr: Väg
+Öppet: Ja
+Turistinformation: Alvesta och Ljungby kommun samt Vägverkets information.
+Rastplatsmöbler: 4 st. bord m. bänkar samt 2 långbänkar
+Sophantering: Ej sortering
+Toalett: Ja
+HandikappToalett: Ja
+
+Spånen
+=======
+Lägesbeskrivning: Väg 25 vid Trafikplats Hanaslöv, i båda riktningar.
+Avstånd från ort: 2 km öster Alvesta
+Vägnr: Väg 25
+Öppet: Ja
+Turistinformation: Ja. Alversta kommun.
+Rastplatsmöbler: Ja. 2 bord med bänkar.
+Sophantering: Ja. Sortering finns.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen finns på båda sidor om vägen.
+
+Hyllsjön
+=========
+Lägesbeskrivning: Väg 25 vid Linneskruv, i båda riktningar.
+Avstånd från ort: 5 km nordväst Lessebo
+Vägnr: Väg 25
+Öppet: Ja
+Turistinformation: Ja. Information från Glasriet, Lessebo kommun samt Vägverket.
+Rastplatsmöbler: Ja. 11 st rastplatsmöbler varav en under tak.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Glasporten
+===========
+Lägesbeskrivning: Väg 25 vid Rastplats Glasporten (Nybro), i båda riktningar.
+Avstånd från ort: 3 km öster Nybro
+Vägnr: Väg 25
+Öppet: Ja
+Turistinformation: Vägverket, Nybro kommun samt Glasriket.
+Rastplatsmöbler: 4 st. bord med bänkar varav ett är under tak
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Glasportens Taverna
+Typ av servering: Café, Restaurant
+Serveringens öppettider: Mars - November. Mån.-Fre. 09.00-16.30. Lördagar stängt. Sönd. 09.00-17.00
+
+Gräsmo
+=======
+Lägesbeskrivning: Väg 25 vid Gräsmo, i båda riktningar.
+Avstånd från ort: 15 km väster om Kalmar
+Vägnr: Väg 25
+Öppet: Ja
+Turistinformation: Vägverket
+Rastplatsmöbler: 7 st. bord med bänkar varav ett är under tak.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 26 Halmstad-Ryd,
+       Jönköping-Mariestad,
+       Mariestad-Kristinehamn,
+       Kristinehamn-Filipstad-Mora
+===================================
+
+Skärshult
+==========
+Lägesbeskrivning: Väg 26 vid Skärshult, i båda riktningar.
+Avstånd från ort: Ca 6 km nordost om Hyltebruk
+Vägnr: Väg 26
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Tappkran i närbelägen camping.
+
+Isaberg
+========
+Lägesbeskrivning: Väg 26 vid Rastplats Isaberg, i båda riktningar.
+Avstånd från ort: 15 km norr Gislaved
+Vägnr: Väg 26
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Restaurang Höganloft
+Typ av servering: Café, Restaurant
+Serveringens öppettider: Året runt
+Serveringens telefon: 0370 339750
+Övrig information: Lekplats, restaurang, affär, boende och brevlåda på andra sidan väg 26 i Isabergs stugby.
+
+Risbro
+=======
+Lägesbeskrivning: Väg 26 vid Rastplats Risbro (Länsgräns), i båda riktningar.
+Avstånd från ort: 12 km nordväst Jönköping
+Vägnr: Väg 26
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+
+Grevagården
+============
+Lägesbeskrivning: Väg 26 vid Trafikplats Grevagården, i båda riktningar.
+Avstånd från ort: Ca 3 km söder om Skultorp
+Vägnr: Väg 26
+HandikappToalett: Ja
+
+Nybble
+========
+Lägesbeskrivning: Väg 26 mellan Sjötorp och Kullerud, i båda riktningar.
+Avstånd från ort: Ca 19 km norr om Mariestad
+Vägnr: Väg 26
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Husvagnsslinga.
+
+Prästbäcken
+============
+Lägesbeskrivning: Väg 26 vid Prästbäcken, i båda riktningar.
+Avstånd från ort: Ca 11 km söder om Filipstad
+Vägnr: Väg 26
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Belysning
+
+
+Rv. 27 Borås-Värnamo,
+       Värnamo-Alvesta,
+       Växjö-Ronneby
+========================
+
+Stora Transåssjön Östra
+========================
+Lägesbeskrivning: Väg 27 vid Stora Transåssjön, i riktning mot Borås.
+Avstånd från ort: Ca 3 km söder om Borås
+Vägnr: Väg 27
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Tavernan Tranås
+Typ av servering: Restaurant
+Övrig information: Belysning
+
+Stora Transåssjön Västra
+=========================
+Lägesbeskrivning: Väg 27 vid Stora Transåssjön, i riktning mot Tranemo.
+Avstånd från ort: Ca 3 km söder om Borås
+Vägnr: Väg 27
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Gångtunnel till Stora Transåssjön.
+
+Kroksjön Östra
+===============
+Lägesbeskrivning: Väg 27 vid Kroksjön, i riktning mot Tranemo.
+Avstånd från ort: Ca 3 km söder om Tranemo
+Vägnr: Väg 27
+Toalett: Ja
+HandikappToalett: Ja
+
+Kroksjön Västra
+================
+Lägesbeskrivning: Väg 27 vid Kroksjön, i riktning mot Gislaved.
+Avstånd från ort: Ca 3 km söder om Tranemo
+Vägnr: Väg 27
+Toalett: Ja
+HandikappToalett: Ja
+
+Forsheda
+=========
+Lägesbeskrivning: Väg 27 mellan Forsheda och Furekull, Bredaryd, i båda riktningar.
+Avstånd från ort: 15 km väster om Värnamo
+Vägnr: Väg 27
+Turistinformation: Ja
+Rastplatsmöbler: Ett fåtal bord finns
+
+Kungstenarna
+=============
+Lägesbeskrivning: Väg 27 mellan Kungsstenarna och Strömgatan, i båda riktningar.
+Avstånd från ort: 2 km sydost Tingsryd
+Vägnr: Väg 27
+Öppet: Ja
+Turistinformation: Tingsryds kommun, Tikens viskevårdsområde samt Vägverket.
+Rastplatsmöbler: Ja.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+
+
+Rv. 28 Sandsjön-Karlskrona
+===========================
+
+Fur
+====
+Lägesbeskrivning: Väg 28 vid Fur/Salebodavägen, i båda riktningar.
+Avstånd från ort: 20 km söder om Emmaboda
+Vägnr: Väg 28
+Öppet: Ja
+Turistinformation: Vägverket, Karlskrona kommun, samt en allmän turistinformation
+Rastplatsmöbler: 3 bord med bänkar varav en är handikappanpassad.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 29 Tingsryd-Karlshamn
+==========================
+
+Bräkneån / Knällsberg
+======================
+Lägesbeskrivning: Väg 29 vid Bräkneån, i båda riktningar.
+Avstånd från ort: 15 km söder Tingsryd
+Vägnr: Väg 29
+Turistinformation: Vägverket samt Tikens fiskevårdsområde
+Rastplatsmöbler: 2 st. bord
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 30 Jönköping-Växjö
+=======================
+
+Fräjen
+=======
+Lägesbeskrivning: Väg 30 vid Ugglehult, i båda riktningar.
+Avstånd från ort: Ca 5 km söder om Lammhult och 30 km norr om Växjö
+Vägnr: Väg 30
+Öppet: Ja
+Turistinformation: Ja. Vägverket och Lammhults kommun.
+Rastplatsmöbler: Ja. 7 bord varav 1 är hcp anpassat.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 31 Nässjö-Nybro
+====================
+
+Vetlanda
+=========
+Lägesbeskrivning: Väg 31 vid Cirkulationsplats Vetlanda centrum, i båda riktningar.
+Avstånd från ort: 2 km norr om Vetlanda
+Vägnr: Väg 31
+Öppet: Ja
+Turistinformation: Vägverket, Vetlanda kommun, Emån samt en allmän tavla.
+Rastplatsmöbler: 9 st. bord med bänkar, ett lusthus, en grillplats med 8 bänkar.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: En kiosk finns som är öppen sommartid. Smålandsleden går strax intill.
+
+Boskvarnasjön
+==============
+Lägesbeskrivning: Väg 31 mellan Kronobergs/Jönköpings länsgräns och Korsberga, i båda riktningar.
+Avstånd från ort: 20 km söder om Vetlanda
+Vägnr: Väg 31
+Öppet: Ja
+Turistinformation: Vägverket, Vetlanda kommun samt Glasriket
+Rastplatsmöbler: 4 st bord med bänkar.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen finns på båda sidor om vägen.
+
+Sandsjön
+=========
+Lägesbeskrivning: Väg 31 mellan Vägershult och Sandsjön, i båda riktningar.
+Avstånd från ort: 10 km norr Kosta
+Vägnr: Väg 31
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja. 9 st rastplatsmöbler varav 1 är hcp anpassad.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Orranässjön
+============
+Lägesbeskrivning: Väg 31 mellan Orranäsjön och Sjöabro, i båda riktningar.
+Avstånd från ort: 15 km nordväst om Nybro
+Vägnr: Väg 31
+Öppet: Ja
+Turistinformation: Vägverket
+Rastplatsmöbler: 9 st. bord med bänkar varav ett under tak. 8 st är handikappanpassade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: En camping med café och resaturang finns ett par hundra meter från rastplatsen.
+
+
+Rv. 32 Motala-Vetlanda
+=======================
+
+Dalstorp
+=========
+Lägesbeskrivning: Väg 32 mellan Boxholm centrum och Boxholm norra, i båda riktningar.
+Avstånd från ort: 15 km söder Mjölby
+Vägnr: Väg 32
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning finns vid rastplats och vid sittgrupper. Lekplats,
+
+Höganloft
+==========
+Lägesbeskrivning: Väg 32 vid Trafikplats Höganloft (Tranås), i båda riktningar.
+Avstånd från ort: 1 km från Tranås
+Vägnr: Väg 32
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja. 9 bord. Vissa nås lätt av handikappade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+
+Abborravik
+===========
+Lägesbeskrivning: Väg 32 vid Eksjö Södra, i båda riktningar.
+Avstånd från ort: 1 km väster om Eksjö vid infarten.
+Vägnr: Väg 32
+Turistinformation: Ja
+Rastplatsmöbler: Ja. De flesta är under tak
+Sophantering: Ja
+Toalett: Ja
+Serveringsnamn: Abborravikens Världshus AB
+Typ av servering: Café, Restaurant, Snabbmat, Kiosk
+Serveringens telefon: 0381 13010
+Övrig information: Lekplats för barn finns.
+
+
+Rv. 34 Motala-Kalmar
+=====================
+
+Kungs Norrby
+=============
+Lägesbeskrivning: Väg 34 vid Kungs Norrby, i båda riktningar.
+Avstånd från ort: 2 km öster Borensberg
+Vägnr: Väg 34
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Gångväg mellan Göta kanal och Kungs Norrby. Rastplatsen är belägen på båda sidor om väg 34.
+
+Hackelbo ö
+===========
+Lägesbeskrivning: Väg 23 vid Hackelboö, i båda riktningar.
+Avstånd från ort: 3 km norr Rimforsa
+Vägnr: Väg 23
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Rothult
+========
+Lägesbeskrivning: Väg 23 mellan Stora Rothult och Bjärkeryd, i båda riktningar.
+Avstånd från ort: 6 km söder om Kisa
+Vägnr: Väg 23
+Turistinformation: Ja
+Sophantering: Ej sopsortering
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Möjlighet till bad
+
+Rosenfors
+==========
+Lägesbeskrivning: Väg 34 mellan Rosenfors och Målilla, i båda riktningar.
+Avstånd från ort: 3 km söder om Målilla
+Vägnr: Väg 34
+Öppet: Ja
+Turistinformation: Ja.Vägverket, Emån samt Hultsfreds kommun.
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats
+
+Försjön
+========
+Lägesbeskrivning: Väg 34 mellan Glahytt och Ryningsnäs, i båda riktningar.
+Avstånd från ort: 3 km väster om Bockara
+Vägnr: Väg 34
+Turistinformation: Ja. Turistinformation från Vägverket.
+Rastplatsmöbler: 4 bord varav ett under tak.
+Toalett: Ja
+HandikappToalett: Ja
+
+Ruda
+=====
+Lägesbeskrivning: Väg 34 mellan Ruda/Strömsborg och Staby, i båda riktningar.
+Avstånd från ort: 5 km söder om Högsby
+Vägnr: Väg 34
+Öppet: Ja
+Turistinformation: Emåområdet, allmän tavla samt från Ruda aktivitetspark
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: American Pizza
+Typ av servering: Restaurant
+Övrig information: Lekplats för barn, Vollybollplan,
+
+
+Rv. 40 Göteborg-Jönköping
+       Jönköping-Västervik
+===========================
+
+Delsjön
+========
+Avstånd från ort: Ca 4 km sydost om Göteborg
+Vägnr: Väg 40
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+
+Grandalen
+==========
+Lägesbeskrivning: Väg 40 på Boråsleden vid Trafikplats Grandalsmotet (Boråsleden), i båda riktningar.
+Avstånd från ort: Ca 5 km väster om Bollebygd, 35 km öster Göteborg
+Vägnr: Väg 40
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats. Brygga vid vattnet med grillplats. Väl avskilt från Väg 40.
+
+Boråstorpet
+============
+Lägesbeskrivning: Väg 40 på Boråsleden vid Boråstorpet (Boråsleden), i riktning mot Borås.
+Avstånd från ort: Ca 52 km öster om Göteborg
+Vägnr: Väg 40
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Lekplats. Väl avskilt från Väg 40.
+
+Borås Sörbo
+============
+Lägesbeskrivning: Väg 40 mellan Trafikplats Dalsjöforsmotet och Trafikplats Kyllaredsmotet (89), i riktning mot Borås.
+Vägnr: Väg 40
+Rastplatsmöbler: Ett 10-tal sittgrupper utomhus
+Toalett: Ja
+HandikappToalett: Ja
+
+Kullen
+=======
+Lägesbeskrivning: Väg 40 mellan Strängsered och Gullered, i riktning mot Ulricehamn.
+Avstånd från ort: Ca 32 km väster om Jönköping
+Vägnr: Väg 40
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Västgöta Rasta
+===============
+Lägesbeskrivning: Väg 40 vid Strängsered, i riktning mot Ulricehamn.
+Avstånd från ort: Ca 15 km öster om Ulricehamn
+Vägnr: Väg 40
+Toalett: Ja
+HandikappToalett: Ja
+
+Nässjöbyn
+==========
+Lägesbeskrivning: Väg 40 mellan Trafikplats Nässjö Västra och Trafikplats Gamlarp (Nässjö), i båda riktningar.
+Avstånd från ort: Väster om Nässjö
+Vägnr: Väg 31
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Åkebo
+======
+Lägesbeskrivning: Väg 40 mellan Björnebovägen och Vimmerby (Åkebo), i båda riktningar.
+Avstånd från ort: 2 km väster om Vimmerby
+Vägnr: Väg 33
+Öppet: Ja
+Turistinformation: Från Vägverket samt Vimmerby kommun.
+Rastplatsmöbler: Ja. 7 st rastplatsmöbler finns.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats finns
+
+Långsjön
+=========
+Lägesbeskrivning: Väg 40 vid Långsjön, i båda riktningar.
+Avstånd från ort: 3 km väster om Ankarsrum
+Vägnr: Väg 33
+Öppet: Ja
+Turistinformation: Ja. Vägverket, Västerviks kommun samt en allmän tavla.
+Rastplatsmöbler: Ja. 5 bord med bänkar. en grillplats med 4 bänkar.
+Sophantering: Ja
+HandikappToalett: Ja
+Serveringsnamn: Långsjöns mat och camping.
+Typ av servering: Café, Restaurant
+Serveringens öppettider: Mån - Fred. 09.00 - 18.00. Lö - Sö. 10.00 - 18.00. (ons. 09.00 - 19.00)
+
+
+Rv. 41 Borås-Varberg
+=====================
+
+Häggån Östra
+=============
+Lägesbeskrivning: Väg 41 vid Häggån, i riktning mot Kinna.
+Avstånd från ort: Ca 2 km söder om Kinna centrum
+Vägnr: Väg 41
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Lekplats.
+
+Häggån Västra
+==============
+Lägesbeskrivning: Väg 41 vid Häggån, i riktning mot Varberg.
+Avstånd från ort: Ca 2 km söder om Kinna centrum
+Vägnr: Väg 41
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Lekplats.
+
+Rv. 42 Borås-Trollhättan
+=========================
+
+Vänga Östra
+============
+Lägesbeskrivning: Väg 42 vid Vänga, i riktning mot Vårgårda.
+Avstånd från ort: Ca 20 km norr om Borås
+Vägnr: Väg 42
+Toalett: Ja
+HandikappToalett: Ja
+
+Vänga Västra
+=============
+Lägesbeskrivning: Väg 42 vid Vänga, i riktning mot Borås.
+Avstånd från ort: Ca 20 km norr om Borås
+Vägnr: Väg 42
+Toalett: Ja
+HandikappToalett: Ja
+
+Rv. 44 Uddevalla-Götene
+========================
+
+Vittene
+========
+Lägesbeskrivning: Väg 44 mellan Smärgels kurva och Håsten, i riktning mot Trollhättan.
+Avstånd från ort: Ca 15 km öster om Trollhättan
+Vägnr: Väg 44
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats.
+
+Lidan
+======
+Lägesbeskrivning: Väg 44 vid Lidan, i båda riktningar.
+Avstånd från ort: Ca 1,5 km söder om Lidköping centrum
+Vägnr: Väg 44
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Lidköping.
+
+Klovet
+=======
+Lägesbeskrivning: Väg 44 vid Filsbäck, i båda riktningar.
+Avstånd från ort: Ca 5 km öster om Lidköping centrum
+Vägnr: Väg 44
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn. Rastplatsen skyltas ej för trafik i norrgående riktning pga olämplig vänstersväng.
+
+Rv. 46 Ulricehamn-Skövde
+=========================
+
+Trädet
+=======
+Lägesbeskrivning: Väg 46 mellan Trädet och Storåker, i båda riktningar.
+Avstånd från ort: Ca 25 km norr om Ulricehamn
+Vägnr: Väg 46
+Toalett: Ja
+HandikappToalett: Ja
+
+Åsarp
+======
+Lägesbeskrivning: Väg 46 mellan Åsarp Norr och Kinnarp, i båda riktningar.
+Avstånd från ort: Ca 18 km söder om Falköping
+Vägnr: Väg 46
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltad i riktning mot Falköping.
+
+Rv. 49 Skara-Askersund
+=======================
+
+Våmb
+=====
+Lägesbeskrivning: Väg 49 vid Våmb, i båda riktningar.
+Avstånd från ort: Ca 3 km sydväst om Skövde centrum
+Vägnr: Väg 49
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn. Skyltas endast från väst.
+
+Öltappen
+=========
+Lägesbeskrivning: Väg 49 mellan Karlsborg och Svanvik, i båda riktningar.
+Avstånd från ort: Ca 1 km norr om Karlsborg samhälle
+Vägnr: Väg 49
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Närbelägen turistbyrå.
+
+Koviken
+========
+Lägesbeskrivning: Väg 49 vid Koviken, i riktning mot Askersund.
+Avstånd från ort: 19 km söder om Askersund
+Vägnr: Väg 49
+Turistinformation: Ja
+
+Rv. 50 Ödeshög-Hallsberg
+       Örebro-Falun
+=========================
+
+Stora Hammarsundet
+===================
+Lägesbeskrivning: Väg 50 vid Stora Hammarsundet, i båda riktningar.
+Avstånd från ort: 6 km söder Askersund.
+Vägnr: Väg 50
+Turistinformation: Ja
+Sophantering: Latrintömning (lös tank)
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ett väderskydd med tillhörande bord har försetts med gångytor av marksten/asfalt. En turistinformationsbyggnad finns på andra sidan bron. Den når man via en gångväg under bron. Belysning finns.
+
+Bergslagsporten
+================
+Lägesbeskrivning: Väg 50 vid Bergslagsporten, i riktning mot Kopparberg.
+Avstånd från ort: 10 km öster Nora.
+Vägnr: Väg 50
+Turistinformation: Sommartid finns här en turistbyrå
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Informationstavla finns uppsatt. Belysning finns vid parkeringen och vid in-/utfart. Parkeringen är asfalterad, och har plats för två lastbilar och tio personbilar.
+
+Lindesberg
+===========
+Lägesbeskrivning: Väg 50 vid Lindesberg, i båda riktningar.
+Avstånd från ort: 1 km väster Lindesberg
+Vägnr: Väg 50
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+
+Norrsjön
+=========
+Lägesbeskrivning: Väg 50 vid Norrsjön, i riktning mot Kopparberg.
+Avstånd från ort: 7 km söder om Kopparberg
+Vägnr: Väg 50
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+Laxbäcken
+==========
+Lägesbeskrivning: Väg 50 vid Laxbäcken, i riktning mot Kopparberg.
+Avstånd från ort: 4 km norr Kopparberg
+Vägnr: Väg 50
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+Långsjön
+=========
+Lägesbeskrivning: Väg 50 vid Tunsnäs, i båda riktningar.
+Vägnr: Väg 50
+Sophantering: Latrintömning finns
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Kaffestuga
+Typ av servering: Café
+Övrig information: Lekplats
+
+Mats Knuts
+===========
+Lägesbeskrivning: Väg 50 vid Trafikplats Mats-Knuts, i riktning mot Borlänge.
+Vägnr: Väg 50
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Dubbelsidig. Obs den sidan med färdriktning mot Ludvika är bara en parkeringsficka. Lekplats.
+
+Kyrktjärn
+==========
+Lägesbeskrivning: Rv 50 mellan Alfta (Lv601) och Bollnäs (Rv83) i Gävleborgs län. Båda riktningarna.
+Avstånd från ort: invid kyrktjärn i Alfta
+Vägnr: Väg 50
+Öppet: Sommarhalvåret
+Turistinformation: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats
+
+
+Rv. 51 Norrköping-Kumla
+========================
+
+Hjortkvarn
+===========
+Lägesbeskrivning: Väg 51 vid Hjortkvarn, i båda riktningar.
+Avstånd från ort: Hjortkvarn
+Vägnr: Väg 51
+Turistinformation: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 55 Katrineholm-Uppsala
+==========================
+
+Gnallen
+========
+Lägesbeskrivning: Väg 55 vid Gnallen, öster Katrineholm, i riktning mot Katrineholm.
+Avstånd från ort: 15 km öster Katrineholm.
+Vägnr: Väg 55
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ett väderskydd med tillhörande bord har försetts med gångytor av marksten/asfalt.
+
+Stenhammars skans
+==================
+Lägesbeskrivning: Väg 55 vid Stenhammars skans, väster Flen, i riktning mot Strängnäs.
+Avstånd från ort: 7 km väster Flen
+Vägnr: Väg 55
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+
+Strängnäsbron
+==============
+Lägesbeskrivning: Väg 55 vid Strängnäsbron, i riktning mot Uppsala.
+Avstånd från ort: 2 km norr Strängnäs.
+Vägnr: Väg 55
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Rv. 56 Norrköping-Kungsör
+       Hällby-Västjädra
+       Västerås-Valbo
+===========================
+
+Djulö
+======
+Lägesbeskrivning: Väg 56 vid Djulö, i riktning mot Katrineholm.
+Avstånd från ort: 3 km söder Katrineholm
+Vägnr: Väg 55
+Toalett: Ja
+HandikappToalett: Ja
+
+Aspen
+======
+Lägesbeskrivning: Väg 56 vid Aspen, i riktning mot Sala.
+Avstånd från ort: 19 km norr Katrineholm
+Vägnr: Väg 56
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: 23/12 Stopp i toaletterna Information om Vägverket finns uppsatt. Det finns plats för två lastbilar och sex personbilar. Rastplats Aspen har utsetts till Södermanlands läns bästa rastplats av Motormännen år 2007.
+
+Tärnsjö
+========
+Lägesbeskrivning: Väg 56 vid Tärnsjö, i riktning mot Sala.
+Avstånd från ort: 40 km nordost om Sala
+Vägnr: Väg 56
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekutrustning i form av en klätterställning samt gungor finns.
+
+Hedesunda
+==========
+Lägesbeskrivning: Väg 56 vid Hedesunda, i båda riktningar.
+Avstånd från ort: 36 km söder Gävle
+Vägnr: Väg 56
+HandikappToalett: Ja
+Övrig information: Servering och kaffe finns. Bensinstation i närheten.
+
+
+
+Rv. 61 Karlstad-Morokulien
+===========================
+
+Norsälven Norra
+================
+Lägesbeskrivning: Väg 61 mellan Lersättersmotet och Fageråsmotet, i riktning mot Arvika.
+Avstånd från ort: Ca 3 km väster om Kil
+Vägnr: Väg 61
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Norsälven Södra
+================
+Lägesbeskrivning: Väg 61 mellan Fageråsmotet och Lersättersmotet, i riktning mot Karlstad.
+Avstånd från ort: Ca 3 km väster om Kil
+Vägnr: Väg 61
+Turistinformation: Ja
+Rastplatsmöbler: Bord under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Morokulien
+===========
+Lägesbeskrivning: Väg 61 vid Morokulien, i båda riktningar.
+Avstånd från ort: Ca 42 km norr om Arvika
+Vägnr: Väg 61
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Type av telefon: Kort
+Övrig information: Belysning. Lekplats. Bensin och servering på båda sidor om vägen.
+
+
+Rv. 62 Karlstad-Långflon
+=========================
+
+Ransäter
+=========
+Lägesbeskrivning: Väg 62 vid Ransäter rastplats, i båda riktningar.
+Avstånd från ort: Ca 51 km norr om Karlstad, 8 km söder om Munkfors
+Vägnr: Väg 62
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Lekplats. Café i nära anslutning.
+
+Råda
+=====
+Lägesbeskrivning: Väg 62 vid Råda, i båda riktningar.
+Avstånd från ort: Ca 9 km sydväst om Hagfors
+Vägnr: Väg 62
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Belysning. Lekplats. Badplats.
+
+
+Rv. 63 Karlstad-Kopparberg
+===========================
+
+Dammtjärn
+==========
+Lägesbeskrivning: Väg 63 vid Dammtjärn, i båda riktningar.
+Avstånd från ort: Ca 5 km sydväst om Filipstad Ca 2 km V Filipstad
+Vägnr: Väg 63
+Rastplatsmöbler: Under tak
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Belysning
+
+Rv. 70 Enköping-Drevsjö
+========================
+
+Evelund
+========
+Lägesbeskrivning: Väg 70 vid Evelund, i riktning mot Sala.
+Avstånd från ort: 3 km söder Sala
+Vägnr: Väg 56
+Toalett: Ja
+Övrig information: Lekplats finns. Bra uppställning för tung trafik. Pga av att låset till handikappstoaletten har gått i baklås, kommer den vara avstängd på obestämd tid. Vägverkets entreprenörer är informerade och kommer åtgärda felet senast den 4/7.
+
+Dala hästen
+============
+Lägesbeskrivning: Väg 70 vid Trafikplats Åsbo, i båda riktningar.
+Vägnr: Väg 70
+Turistinformation: Informationstavla
+Rastplatsmöbler: Ja
+HandikappToalett: Ja
+Typ av telefon: Kort
+Övrig information: Servering, bensinstation
+
+Säterdalen
+===========
+Lägesbeskrivning: Väg 70 vid Kullsveden, i riktning mot Säter.
+Vägnr: Väg 70
+Turistinformation: Ja
+HandikappToalett: Ja
+
+Gylle
+======
+Lägesbeskrivning: Väg 70 mellan Hytting och Grådarondellen, i riktning mot Borlänge.
+Vägnr: Väg 70
+HandikappToalett: Ja
+Serveringsnamn: Borlänge Värdshus
+Typ av servering: Café, Restaurant
+
+Gagnbro
+========
+Lägesbeskrivning: Väg 70 mellan Sifferbo och Mellstarondellen, i riktning mot Borlänge.
+Vägnr: Väg 70
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Toalett: Ja
+
+Djurås
+=======
+Lägesbeskrivning: Väg 70 vid Djurås, i båda riktningar.
+Vägnr: Väg 70
+
+Leksand
+========
+Lägesbeskrivning: Väg 70 mellan Leksand och Övermo, i riktning mot Leksand.
+Vägnr: Väg 70
+Toalett: Ja
+HandikappToalett: Ja
+
+Tällbergsporten
+================
+Lägesbeskrivning: Väg 70 mellan Leksand och Kullsjöbjörken, i riktning mot Rättvik.
+Vägnr: Väg 70
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekutrustning
+
+Gärdebyn
+=========
+Lägesbeskrivning: Väg 80 vid Gärdebyn, i riktning mot Rättvik.
+Vägnr: Väg 80
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Typ av telefon: Mynt
+
+Sjurberg (södra sidan)
+=======================
+Lägesbeskrivning: Väg 70 mellan Rättvik och Vikarbyn, i båda riktningar.
+Vägnr: Väg 70
+Toalett: Ja
+
+Sjurberg (norra sidan)
+=======================
+Lägesbeskrivning: Väg 70 vid Vikarbyn, i riktning mot Mora.
+Vägnr: Väg 70
+Toalett: Ja
+HandikappToalett: Ja
+
+Spjutmosjön
+============
+Lägesbeskrivning: Väg 70 mellan Oxberg och Frostkitten, i riktning mot Mora.
+Vägnr: Väg 70
+Toalett: Ja
+HandikappToalett: Ja
+Typ av servering: Café
+Övrig information: Lekplats
+
+Lomkällan
+==========
+Lägesbeskrivning: Väg 70 vid Norr Särna, i riktning mot Riksgränsen.
+Avstånd från ort: 2 km norr Särna
+Vägnr: Väg 70
+Turistinformation: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Lv. 110-119 "hundratiovägarna"
+===============================
+
+Italienska vägen
+=================
+Lägesbeskrivning: Lv 115, Torekov -> länsgräns M/N vid Båstad (Lv 105) i Skåne län.
+Avstånd från ort: 3 km väst Båstad
+Vägnr: Väg 115
+Turistinformation: Informationstavla
+Rastplatsmöbler: 10 stycken, även handikappanpassade
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Vacker utsikt över Laholmsbukten
+
+Levrasjön
+==========
+Lägesbeskrivning: Lv 116, Bromölla -> Östad vid Råby i Skåne län.
+Avstånd från ort: 2 km norr Bromölla
+Vägnr: Väg 116
+Turistinformation: Informationstavla
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ligger med utsikt över Levrasjön
+
+Knäred Södra
+=============
+Lägesbeskrivning: Väg 117 mellan Skogaby och Knäred, i riktning mot Markaryd.
+Avstånd från ort: Ca 12 km öster om Veinge
+Vägnr: Väg 117
+Turistinformation: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning
+
+Knäred Norra
+=============
+Lägesbeskrivning: Väg 117 mellan Knäred och Skogaby, i riktning mot Halmstad.
+Avstånd från ort: Ca 5 km väster om Knäreds samhälle
+Vägnr: Väg 117
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Grillplats vid Lagans strand. Busshållplats i samband med rastplatsen.
+
+
+Lv. 120-129, 130-136, 139 "hundratjugovägarna",
+"hundratrettiovägarna" (Småland)
+================================================
+
+Sandsjön
+=========
+Lägesbeskrivning: Väg 120 mellan Konga och Dångebo, i båda riktningar.
+Avstånd från ort: 11 km öster om Tingsryd
+Vägnr: Väg 120
+Turistinformation: Information om fiskeområdet
+Rastplatsmöbler: 3 bord med bänkar
+
+Änganäs
+========
+Lägesbeskrivning: Väg 126 vid Benestad, i båda riktningar.
+Avstånd från ort: 2 km söder om Alvesta
+Vägnr: Väg 126
+Turistinformation: Ja. Alvesta kommun, Vägverket
+Rastplatsmöbler: Två bänkar med bord samt en hcp anpassad.
+Övrig information: Rastplatsen är under avveckling och saknar toalett.
+
+Eksjöhovgård
+=============
+Lägesbeskrivning: Väg 127 vid Sävsjö öst, i båda riktningar.
+Avstånd från ort: 2 km öster om Sävsjö
+Vägnr: Väg 127
+Öppet: Året runt
+Turistinformation: Eksjö Hovgård, Njudungskyrkorna, Slottsruin, Emåområdet samt en allmän tavla.
+Rastplatsmöbler: 3 st. bord med bänkar.
+Övrig information: Strövområden med promenadstigar.
+
+Nästången
+==========
+Lägesbeskrivning: Väg 134 vid Nästången, i båda riktningar.
+Avstånd från ort: 8 km nordost om Österbymo
+Vägnr: Väg 134
+Sophantering: Ej sopsortering
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen har ett fint läge på en udde i sjön Nästången. Sittgrupperna har placerats längs med körslingan, som sträcker sig kring en höjdrygg med naturlig tallskog. Flera av sittgrupperna är fint placerade alldeles intill sjön.
+
+
+Lv. 136 samt övriga rastplatser på Öland
+==========================================
+
+Albrunna
+=========
+Lägesbeskrivning: Väg 136 vid Albrunna, i båda riktningar.
+Avstånd från ort: 35 km söder om Färjestaden på Öland
+Vägnr: Väg 136
+Turistinformation: Vägverket
+Rastplatsmöbler: 5 st. bord med bänkar.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Resmo
+======
+Lägesbeskrivning: Väg 136 mellan Mörbylånga och Resmo, i båda riktningar.
+Avstånd från ort: 12 km söder om Färjestaden på Öland
+Vägnr: Väg 136
+Öppet: Ja
+Turistinformation: Vägverket samt Mysinge Hög och Ölands gravfält.
+Rastplatsmöbler: 8 st. bord med bänkar varav ett har tak.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekpats finns.
+
+Eriksöre
+=========
+Lägesbeskrivning: Väg 136 mellan Karlevi och Skogsby, i båda riktningar.
+Avstånd från ort: 8 km söder om Färjestaden på Öland
+Vägnr: Väg 136
+Öppet: Toaletten öppen 1/4-31/10
+Turistinformation: Världsarvet, vägverket, Östra småland och Öland
+Rastplatsmöbler: 7 st. bord med bänkar varav ett med tak
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är enbart för södergående trafik. Rastplatsen är en så kallad "sommarrastplats". Skyltas om till P-plats vintertid eftersom toaletten är låst.
+
+Idehultet
+==========
+Lägesbeskrivning: Väg 136 mellan Algutsrum och Glömminge, i båda riktningar.
+Avstånd från ort: 2 km norr om Algutsrum
+Vägnr: Väg 136
+Öppet: Ja.
+Turistinformation: Vägverket, Borgholms kommun samt Öland
+Rastplatsmöbler: 6 st. bord med bänkar varav två har tak.
+Sophantering: Ja.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen avser norrgående trafik. Lekplats för barn.
+
+Glömminge
+==========
+Lägesbeskrivning: Väg 136 mellan Glömminge K:A och Isgärde södra, i båda riktningar.
+Avstånd från ort: 9 km norr om Färjestaden på Öland
+Vägnr: Väg 136
+Öppet: Ja
+Turistinformation: Vägverket, Kalmar kommun samt Öland
+Rastplatsmöbler: 8 st. bord varav två under tak. De flesta är handikappanpassade.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lekplats för barn.
+
+Ekerum
+=======
+Lägesbeskrivning: Väg 136 vid Ekerum, i båda riktningar.
+Avstånd från ort: 12 km söder om Borgholm på Öland
+Vägnr: Väg 136
+Turistinformation: Vägverket samt Naturreservat Halltorpshage
+Rastplatsmöbler: 10 st. bord med bänkar.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Enbart för södergående trafik.
+
+Halltorp
+=========
+Lägesbeskrivning: Väg 136 mellan Ekerum och Strandtorpshage, i båda riktningar.
+Avstånd från ort: 10 km söder om Borgholm på Öland
+Vägnr: Väg 136
+Öppet: Ja
+Turistinformation: Vägverket
+Rastplatsmöbler: 8 st. bord med bänkar.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Vannborga
+==========
+Lägesbeskrivning: Väg 136 mellan Lundegård och Alböke kyrka, i båda riktningar.
+Avstånd från ort: 10 km norr om Borgholm på Öland
+Vägnr: Väg 136
+Öppet: Toaletten öppen 1/4-31/10
+Turistinformation: Vägverket
+Rastplatsmöbler: 4 st. bord med bänkar.
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen ligger på båda sider om vägen. Rastplatsen är är en så kallad "sommarrastplats. Skyltas om till P-plats vintertid eftersom toaletten är låst.
+
+Långerum
+=========
+Lägesbeskrivning: Väg 136 mellan Stenninge och Källa kyrka, i båda riktningar.
+Avstånd från ort: 33 km norr om Borgholm
+Vägnr: Väg 136
+Öppet: Toaletten öppen 1/4-31/10
+Turistinformation: Vägverket samt Öland
+Rastplatsmöbler: 4 st. bord med bänkar
+Sophantering: Ja
+Övrig information: Rastplatsen är är en så kallad "sommarrastplats. Skyltas om till P-plats vintertid eftersom toaletten är låst.
+
+Kvinneby
+=========
+Lägesbeskrivning: Väg 925 mellan Alby och Stora Brunneby, i båda riktningar.
+Avstånd från ort: 12 km söder om Färjestaden
+Vägnr: Väg 925
+Öppet: Ja
+Turistinformation: Vägverket, Kalmar samt Öland
+Rastplatsmöbler: Bord och stolar
+Sophantering: Ja
+Toalett: Ja
+HandikappToalett: Ja
+
+Eksgården
+==========
+Lägesbeskrivning: Väg 925 mellan Gårdby och Dörby, i båda riktningar.
+Avstånd från ort: 2 km norr om Gårdby på Öland
+Vägnr: Väg 925
+Turistinformation: Vägverket, Öland samt Världsarvet södra Öland
+Rastplatsmöbler: 3 st. bord med bänkar
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Restaurang och rum Eksgården
+Typ av servering: Restaurant
+Serveringens öppettider: Öppnar kl. 12.00
+Serveringens telefon: 0485 33450 0485 33001
+
+
+Lv. 140-149 (länsvägarna på Gotland)
+samt övriga rastplatser gotland
+=====================================
+
+Träffpunkt Gotland
+===================
+Lägesbeskrivning: Väg 140 mellan Färjeleden/Söderväg och Österväg/Solbergagatan, i båda riktningar.
+Avstånd från ort: I Visby, 500 m söder om Hamnterminalen
+Vägnr: Väg 140
+Turistinformation: Ja
+Rastplatsmöbler: Rastplatsmöbler är anpassade för funktionshindrade.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är belyst.
+
+Käldhagen
+==========
+Lägesbeskrivning: Väg 142 vid Burgsvik, i båda riktningar.
+Avstånd från ort: 6 km N Burgsvik, 83 km söder om Visby
+Vägnr: Väg 142
+Turistinformation: Ja
+Rastplatsmöbler: Rastplatsmöbler är inte anpassade.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lutningar samt grus- och gräsytor förekommer. Rastplatsen är inte belyst.
+
+Hallute backe
+==============
+Lägesbeskrivning: Väg 143 mellan Hallute backe och Ardre ödekyrka, i båda riktningar.
+Avstånd från ort: 1 km Norr Ljugarn, 47 km sydöst Visby
+Vägnr: Väg 143
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Lutningar samt grus- och gräsytor förekommer. Rastplatsen är inte belyst.
+
+Ringkorset
+===========
+Lägesbeskrivning: Väg 148 mellan Västrume och Rute kyrka, i riktning mot Fårösund.
+Avstånd från ort: 10 km S Fårösund, ca 45 km norr om Visby
+Vägnr: Väg 148
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är inte belyst.
+
+Kyrkviken
+==========
+Lägesbeskrivning: Väg 699 i Gotlands kommun i Gotlands län
+Avstånd från ort: 7 km norr Fårösund, 63 km norr om Visby
+Vägnr: Väg 699
+Öppet: Juni-Augusti
+Turistinformation: Ja
+Rastplatsmöbler: Vissa rastplatsmöbler är anpassade för funktionshindrade.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Rastplatsen är inte belyst.
+
+
+Lv. 150-159 "hundrafemtiovägarna"
+==================================
+
+Övrarp
+=======
+Lägesbeskrivning: Väg 153 vid Övrarp, i båda riktningar.
+Avstånd från ort: Ca 2 km väster om Ätran samhälle
+Vägnr: Väg 153
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Endast skyltat i västlig riktning.
+
+Holsljunga
+===========
+Lägesbeskrivning: Väg 154 mellan Överlida och Holsljunga, i båda riktningar.
+Avstånd från ort: Ca 17 km sydväst om Svenljunga
+Vägnr: Väg 154
+Toalett: Ja
+HandikappToalett: Ja
+
+
+Lv. 160-163, 165, 168-169, 170-171,
+174, 176 (Länsvägarna i Bohuslän)
+===================================
+
+Tjörnbron
+==========
+Lägesbeskrivning: Väg 160 vid Tjörnbron rastplats, i båda riktningar.
+Avstånd från ort: Ca 3 km väster om Stenungsund
+Vägnr: Väg 160
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Ligger i anslutning till Tjörnbron och campingplats.
+
+Skåpesund
+==========
+Lägesbeskrivning: Väg 160 mellan Skåpesundsbron och Säckebäck, i båda riktningar.
+Avstånd från ort: Ca 10 km nordväst om Stenungsund
+Vägnr: Väg 160
+Toalett: Ja
+HandikappToalett: Ja
+
+Såten
+======
+Lägesbeskrivning: Väg 160 vid Såten, i båda riktningar.
+Avstånd från ort: Ca 3 km norr om Henån
+Vägnr: Väg 160
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Storslagen utsikt mot havet.
+
+
+Lv. 164, 166, 172-173, 175
+(länsvägar i Dalsland-Västra Värmland)
+=======================================
+
+Parsetjärn
+===========
+Lägesbeskrivning: Väg 166 vid Parsetjärn, i båda riktningar.
+Avstånd från ort: Ca 7 km väster om Ed
+Vägnr: Väg 166
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning.
+
+Ödskölt
+========
+Lägesbeskrivning: Väg 172 vid Ödskölt rastplats, i båda riktningar.
+Avstånd från ort: Ca 20 km söder om Bengtsfors
+Vägnr: Väg 172
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning.
+
+
+Lv. 180-199 (länsvägar i Västergötland)
+========================================
+
+Nävraspång
+===========
+Lägesbeskrivning: Väg 180 mellan Sandhult och Hedared, i båda riktningar.
+Avstånd från ort: Ca 12 km nordväst om Borås
+Vägnr: Väg 180
+Toalett: Ja
+HandikappToalett: Ja
+
+Kartåsen
+=========
+Lägesbeskrivning: Väg 184 vid Lidköping, i riktning mot Lidköping.
+Avstånd från ort: Ca 3 km sydost om Lidköping centrum
+Vägnr: Väg 184
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn.
+
+Trandansen
+===========
+Lägesbeskrivning: Väg 184 mellan Bjurum och Härlunda, i båda riktningar.
+Avstånd från ort: Ca 8 km söder om Skara
+Vägnr: Väg 184
+Turistinformation: Naturvårdsverkets informationsbyggnad. Bemannad i april.
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Trantorn.
+
+Västgöte
+=========
+Lägesbeskrivning: Väg 195 mellan Fiskebäck och VästGöte, i båda riktningar.
+Avstånd från ort: 20 km nordväst Jönköping
+Vägnr: Väg 195
+Öppet: Ja
+Turistinformation: Ja
+Rastplatsmöbler: Ja
+Sophantering: Ja
+HandikappToalett: Ja
+Typ av servering: Restaurant
+Övrig information: Tung trafik är separerad från personbilar.
+
+Ekhammar
+=========
+Lägesbeskrivning: Väg 195 vid Grevbäck, i båda riktningar.
+Avstånd från ort: Ca 6 km norr om Hjo
+Vägnr: Väg 195
+Toalett: Ja
+HandikappToalett: Ja
+Övrig information: Belysning. Poliskontrollplats. Rastplatsen skyltas endast för trafik i sydlig riktning.
+
+
+Övriga Rastplatser, Skåne-Blekinge
+===================================
+
+Senoren
+========
+Lägesbeskrivning: Väg 738 på Sturkövägen vid Möcklösundsbron, i riktning mot Västra Gårda.
+Avstånd från ort: Karlskrona 20 km
+Vägnr: Väg 738
+Turistinformation: Vägverket, Karlskrona kommun
+Rastplatsmöbler: 5 bord med bänkar varav 2 är under tak
+Toalett: Ja
+HandikappToalett: Ja
+Serveringsnamn: Brofästet
+Typ av servering: Café, Restaurant
+Serveringens öppettider: Endast sommartid
+Serveringens telefon: 045541673

@@ -1,0 +1,101 @@
+Time	Km	Instruction	For	Toward
+Summary:  39,9 kilometres (35 minutes)
+09:00	0,0	Depart Korsning Grythyttan Ö on 205 [Lokavägen] (South-West)	0,6 km	
+09:00	0,6	At T-korsning 205/Smedsgatan, stay on 205 [Lokavägen] (West)	0,3 km	
+09:00	0,9	At T-korsning 205/Magasinsg., stay on 205 [Lokavägen] (West)	2,5 km	
+09:03	3,4	At near Grythyttan, stay on 205 (South)	10,1 km	
+09:13	13,4	At Korsning Loka Brunn N, stay on 205 (South)	0,3 km	
+09:13	13,8	At Korsning Loka Brunn S, stay on 205 (South)	8,9 km	
+09:22	22,6	At near Sjökullen, stay on 205 (South)	6,1 km	
+09:27	28,8	At Korsning Kedjeåsen, stay on 205 (South)	2,0 km	
+09:28	30,7	At T-korsning Kärne, stay on 205 (South)	1,5 km	
+09:29	32,2	At Korsning, stay on 205 (South)	2,5 km	
+09:31	34,7	At T-korsning Tavlan, stay on 205 (South)	2,7 km	
+09:33	37,3	At T-korsning, stay on 205 (South)	2,5 km	
+09:35	39,9	Arrive Korsning Gälleråsen		
+
+SUMMARY
+Driving distance:  39,9 kilometres
+Trip duration:  35 minutes
+Driving time:  35 minutes
+Cost:  45,48 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  39,9 kilometres (33 minutes)
+09:00	0,0	Depart Korsning Gälleråsen on 205 (North)	2,5 km	
+09:01	2,5	At T-korsning, stay on 205 (North)	2,7 km	
+09:03	5,2	At T-korsning Tavlan, stay on 205 (North)	2,5 km	
+09:05	7,7	At Korsning, stay on 205 (North)	1,5 km	
+09:06	9,1	At T-korsning Kärne, stay on 205 (North)	2,0 km	
+09:08	11,1	At Korsning Kedjeåsen, stay on 205 (North)	6,1 km	
+09:12	17,2	At near Sjökullen, stay on 205 (North)	8,9 km	
+09:21	26,1	At Korsning Loka Brunn S, stay on 205 (North)	0,3 km	
+09:21	26,4	At Korsning Loka Brunn S, stay on 205 (North)	9,7 km	
+09:30	36,2	At 205, 712 94 Grythyttan, stay on 205 (East)	2,8 km	
+09:32	38,9	At near Grythyttan, stay on 205 [Lokavägen] (East)	0,4 km	
+09:33	39,3	At T-korsning Grythyttan S, stay on 205 [Lokavägen] (East)	0,6 km	
+09:33	39,9	Arrive Korsning Grythyttan Ö		
+
+SUMMARY
+Driving distance:  39,9 kilometres
+Trip duration:  33 minutes
+Driving time:  33 minutes
+Cost:  52,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,3 kilometres (5 minutes)
+09:00	0,0	Depart Korsning Gälleråsen on 205 (South)	3,1 km	
+09:02	3,1	At T-korsning Karlskoga flygpl., stay on 205 (South)	1,1 km	
+09:03	4,3	At Korsning Karlskoga NV, stay on 205 [237] (South)	1,4 km	
+09:05	5,7	At Flygfältsvägen, 691 Karlskoga, stay on 205 [237] (South)	0,7 km	
+09:05	6,3	Arrive 237, 691 Karlskoga		
+
+SUMMARY
+Driving distance:  6,3 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  8,51 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,5 kilometres (6 minutes)
+09:00	0,0	Depart 243, 691 42 Karlskoga on Local road(s) (East)	0,2 km	Hällefors / Filipstad / Flygplats
+09:00	0,2	Keep RIGHT onto 205 [237]	0,7 km	Hällefors / Filipstad / Flygplats
+09:00	0,8	At Gustavsgatan, 691 34 Karlskoga, stay on 205 [237] (North)	1,4 km	
+09:02	2,2	At 205, 691 35 Karlskoga, stay on 205 (North)	1,1 km	
+09:03	3,4	At T-korsning Karlskoga flygpl., stay on 205 (North)	3,1 km	
+09:06	6,5	Arrive Korsning Gälleråsen		
+
+SUMMARY
+Driving distance:  6,5 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  10,32 kr
+
+
+Grytthyttan Ö - 205/Magasinsg.
+0.6 km/0.6 km	0 min 43 s/0 min 43 s	50
+0.3 km/0.4 km	0 min 22 s/0 min 29 s
+
+205/Magasinsg. - Loka Brunn S
+2.5 km/2.8 km	2 min 9 s/2 min 24 s	70
+10.1 km/9.7 km	8 min 39 s/8 min 19 s
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+
+Loka Brunn S - Kedjeåsen
+8.9 km/8.9 km	6 min 41 s/6 min 41 s	80
+6.1 km/6.1 km	4 min 35 s/4 min 35 s
+
+Kedjeåsen - Gälleråsen
+2.0 km/2.0 km	1 min 43 s/1 min 43 s	70
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+2.7 km/2.7 km	2 min 19 s/2 min 19 s
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+
+Gälleråsen - Karlskoga NV
+3.1 km/3.1 km	2 min 39 s/2 min 39 s	70
+1.1 km/1.1 km	0 min 57 s/0 min 57 s
+
+Karlskoga NV - Jätterondell
+1.4 km/1.4 km	1 min 41 s/1 min 41 s	50
+0.7 km/0.8 km	0 min 50 s/0 min 58 s

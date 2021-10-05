@@ -1,0 +1,229 @@
+Färdguie Rv 15 (Halmstad - Pukavik)
+====================================
+
+Etapp 1: Halmstad - Tjärby (15,6 km/15,4 km)
+
+Trp Halmstad Södra
+ E6-E20 s: Malmö, Helsingborg
+ E6-E20 n: Göteborg, Falkenberg
+					0,5 km/0,2 km	45 s/18 s
+T-korsning Fyllebro
+ Eurostop
+ Restaurang: McDonald's
+ Bensinstation: Statoil
+(Fylleån)
+					0,5 km/0,5 km	36 s/36 s
+Rondell 15/Fyllingev.
+					1,1 km/1,1 km	1 min 19 s/1 min 19 s
+Rondell Kistinge
+					0,5 km/0,5 km	26 s/26 s
+Järnvägsbro
+ Industrispår
+					0,5 km/0,5 km	26 s/26 s
+T-korsning Pilkington
+ Pilkington industrier
+					1,0 km/1,0 km	45 s/45 s
+Korsning 15/Trönningevägen
+					1,4 km/1,4 km	1 min 3 s/1 min 3 s
+(T-korsning 15/Krontorpsvägen)
+
+T-korsning
+					0,3 km/0,3 km	14 s/14 s
+Järnvägsbro
+ Västkustbanan
+					0,5 km/0,6 km	23 s/27 s
+T-korsning Trönninge södra
+					1,9 km/2,1 km	1 min 26 s/1 min 35 s
+Korsning Eldsberga västra
+T-korsning
+					1,3 km/1,1 km	59 s/50 s
+Korsning Stora Fladje
+					2,2 km/2,2 km	1 min 39 s/1 min 39 s
+(Järnvägsbro)
+ Västkustbanan
+T-korsning Grönfodertorken
+ Enskild väg
+					0,3 km/0,5 km	14 s/23 s
+Halmstad / Laholm
+Korsning Genevad NV
+					1,3 km/1,1 km	59 s/50 s
+T-korsning Genevad SV
+					1,0 km/1,2 km	54 s/54 s
+Dubbel T-korsning
+					1,4 km/1,3 km	1 min 3 s/0 min 59 s
+Rondell Tjärby Rv 15
+ Laholm, Tjärby kyrka
+
+Etapp 2: Tjärby - Knäred (17,8 km/17,8 km)
+					1,2 km/1,3 km	54 s/59 s
+Dubbel T-korsning Veinge S
+					1,4 km/1,2 km	1 min 3 s/0 min 54 s
+T-korsning
+					3,5 km/3,5 km	2 min 38 s/2 min 38 s
+T-korsning Furudal
+ Enskild väg
+					1,8 km/1,9 km	1 min 21 s/1 min 26 s
+Dubbel T-korsning Kasteberg
+ Skogaby
+					1,1 km/1,1 km	50 s/50 s
+Dubbel T-korsning Kapellsjön
+ Skogaby
+					4,0 km/3,9 km	3 min 0 s/2 min 56 s
+T-korsning Uddared
+ Knäred
+					1,4 km/1,5 km	1 min 3 s/1 min 8 s
+(Lagan)
+Rastplats Knäred
+					2,7 km/2,6 km	2 min 2 s/1 min 57 s
+T-korsning Västralt
+ Enskild väg
+					0,8 km/0,8 km	36 s/36 s
+T-korsning 15/Hishultsvägen
+ Knäred, Hishult
+
+Etapp 3: Knäred - Markaryd (21,0 km/21,4 km)
+					0,4 km/0,6 km	18 s/27 s
+Bensinstation: Din-X
+T-korsning
+ Industriområde
+					8,6 km/8,4 km	6 min 27 s/6 min 18 s
+Halland / Kronoberg
+Laholm / Markaryd
+					5,2 km/5,3 km	3 min 54 s/3 min 59 s
+Korsning
+ Råstorp
+					2,2 km/2,2 km	1 min 39 s/1 min 39 s
+T-korsning Åmot
+					0,6 km/0,6 km	27 s/27 s
+T-korsning
+ Råstorp
+					0,5 km/0,5 km	23 s/23 s
+T-korsning Markaryd NV
+ Markaryd
+(Järnvägsviadukt)
+ Halmstad-Hässleholm
+					0,9 km/0,9 km	41 s/41 s
+T-korsning
+					1,0 km/1,1 km	45 s/50 s
+Järnvägskorsning
+ Markaryd-Traryd
+Rondell Markaryd N
+ Markaryd
+					1,7 km/2,0 km	1 min 17 s/1 min 43 s
+Rondell
+Trp Markaryd Norra
+ E4 s: Helsingborg, Örkelljunga
+ E4 n: Stockholm, Ljungby
+ [117]: Hässleholm, Vittsjö
+
+Etapp 4: Markaryd - Osby (27,9 km/27,8 km)
+					2,0 km/1,6 km	1 min 30 s/1 min 12 s
+T-korsning
+
+Markaryd / Älmhult
+
+Dubbel T-korsning
+ Hallaryd
+
+Kronoberg / Skåne
+Älmhult / Osby
+
+Dubbel T-korsning
+
+Helge å
+
+T-korsning
+
+T-korsning
+
+T-korsning
+
+T-korsning Rv 15/Mossvägen
+
+T-korsning Rv 15/Hallarydsv.
+
+Rondell Rv 15/V. Storgatan
+
+(Järnvägsbro)
+ Södra Stambanan
+T-korsning Rv 15/Kyrkogatan
+T-korsning Rv 15/Teodor Kvants v.
+
+Korsning Rv 15/Källvedsvägen
+
+T-korsning Rv 15/Vintervägen
+
+Korsning Rv 15/Karl Johans v.
+Rondell Rv 15/Rv 23
+ 23 s: Malmö, Hässleholm
+ 23 n: Växjö, Älmhult
+
+Etapp 5: Osby - Lönsboda ()
+
+T-korsning V Svenstorp
+
+Osby / Östra Göinge
+
+Korsning Boalt
+
+T-korsning Rv 15/Martin Nilssons väg
+
+Rönnebodaån
+Östra Göinge / Bromölla
+
+T-korsning Stenhagen N
+ 119 s: Broby, Glimåkra
+
+Rondell Lönsboda
+ 121: Älmhult
+
+Etapp 6: Lönsboda - Olofström ()
+
+T-korsning Örkeneds kyrka
+ 119 n: Tingsryd, Ryd
+
+T-korsning Lönsboda Nyteboda
+
+Skåne / Blekinge
+Bromölla / Olofström
+
+T-korsning Skälmershult
+
+Korsning Vilshult södra
+
+T-korsning Rv 15/Norra Ringvägen
+ 116 n:
+
+Etapp 7: Olofström - Jämshög ()
+
+T-korsning Rv 15/Rydvägen
+
+Korsning Olofström station
+
+Rondell Rv 15/Idrottsvägen
+
+T-korsning Jämshög nord
+
+Rondell Jämshög
+
+T-korsning Jämshög sydöst
+ 116 s: Bromölla
+
+Etapp 8: Jämshög - Pukavik ()
+
+Korsning Gränum Rv 15
+
+T-korsning Boa
+
+Korsning Kylinge Rv 15
+
+T-korsning V Sandbäck
+
+Järnvägsviadukt
+ Blekinge Kustbana
+
+T-korsning Ö Sandbäck
+
+Trp Pukavik (48)
+ E22 s: Malmö, Sölvesborg
+ E22 n: Kalmar, Karlshamn

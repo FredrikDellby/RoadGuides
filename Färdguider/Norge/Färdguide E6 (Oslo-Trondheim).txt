@@ -1,0 +1,398 @@
+	Färdguide E6 (Oslo - Trondheim)
+===============================
+
+Etapp 5: Oslo - Gardemoen (37,6 km/37,2 km)
+
+Hovinkrysset (37)
+ E6 s: Gøteborg, Oslo-Syd
+ Ring 3: Oslo-Nord
+					0,8 km/0,7 km	36 s/32 s
+Ulvenkrysset (38)
+					0,9 km/0,7 km	36 s/28 s
+Alnabrukrysset (39)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Oslo-Sentrum
+ [E18]: Drammen
+					0,5 km/0,9 km	20 s/36 s
+(Alnabru bomstasjon)
+Serviceplass Alnabru
+(sydgående riktning)
+ Bensinstasjon: Esso
+ Elbilsladdning: Fortum
+ Restaurang: McDonald's
+					1,1 km/1,2 km	44 s/48 s
+Kryss Trosterud (40)
+ Bensinstasjon: Circle-K, Checkpoint Oslo
+ Elbilsladdning: Grønn kontakt, Fortum
+ Restaurang: McDonald's
+ Hotel: Radisson Blu
+					1,6 km/1,9 km	1 min 4 s/1 min 16 s
+Kryss Furuset (41)
+ Bensinstasjon: St1
+ Livsmedel: Kiwi, Europris
+					2,3 km/1,2 km	1 min 32 s/0 min 48 s
+Kryss Karihaugen (42)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ 159: Lillestrøm
+					1,1 km/1,5 km	0 min 44 s/1 min 0 s
+Skogskrysset (42)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 159, 163
+					0,8 km/1,0 km	29 s/36 s
+Tangerudkrysset (43)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 163
+(Oslo / Viken)
+(Oslo / Lillestrøm)
+					4,2 km/4,5 km	2 min 31 s/2 min 42 s
+Hvamkrysset (44)
+ 22 ø: Fetsund, Lillestrøm
+ 22 v: Slattum, Skillebekk
+ Bensinstasjon: Uno-X
+ Elbilsladdning: Nobil
+ Hotel: Quality Hotel Olavsgaard
+ Livsmedel: Maxbo Stormarked
+(Nitsund bru (154 m))
+ Nitelva
+					3,4 km/3,3 km	2 min 2 s/1 min 59 s
+Skedsmovollkrysset (45)
+ 120 s: Lillestrøm, Kjeller
+ 120 n: Ask, Skedsmokorset
+ Bensinstasjon: Shell
+ Restaurang: Andi's Foodtruck
+ Livsmedel: MENY, REMA 1000
+					2,6 km/3,1 km	1 min 34 s/1 min 52 s
+Bergerkrysset (46)
+ Sorknes
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Fortum
+ Restaurang: McDonald's
+					3,2 km/2,5 km	1 min 55 s/1 min 30 s
+(Leira bru (180 m))
+ Leira
+
+Grankrysset (47)
+ 171: Lørenfallet, Frogner
+					3,8 km/3,6 km	2 min 17 s/2 min 10 s
+Lillestrøm / Ullensaker
+					2,1 km/2,9 km	1 min 16 s/1 min 44 s
+Kløftakrysset (48)
+ E16: Kongsvinger, Vormsund
+ Kløfta
+ Rasteplass Skibakk
+ Bensinstasjon: Shell, Esso
+ Restaurang: Burger King
+					6,5 km/6,0 km	3 min 54 s/3 min 36 s
+Langelandkrysset (49)
+ Jessheim
+					2,7 km/2,4 km	1 min 37 s/1 min 26 s
+Kverndalenkrysset (50)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Gardemoen Lufthavn
+ E16: Bergen, Roa
+
+Etapp 6: Gardemoen - Minnesund (29,6 km/30,6 km)
+					1,1 km/1,7 km	0 min 40 s/1 min 1 s
+Kryss Jessheim nord (51)
+ 174: Jessheim
+ Gardemoen Lufthavn
+ Bensinstasjon: Esso
+ Elbilsladdning: Charge And Drive, Fortum, Quality Hotel
+ Restaurang: McDonald's, Brasserie Bassit
+ Hotel: Quality Airport Hotel, Scandic Gardemoen, Thon Hotel Oslo Airport
+					3,0 km/2,9 km	1 min 48 s/1 min 44 s
+Avfart (sydgående riktning)
+
+Hovinmoen bomstasjon
+
+Hauerseterkrysset (52)
+ 179: Brårud, Nordkisa
+ Bensinstation: Statoil
+					5,1 km/5,0 km	3 min 4 s/3 min 0 s
+Mogreinakrysset (53)
+ Dal
+ Sessvollmoen
+					1,4 km/0,9 km	50 s/32 s
+Ullensaker / Eidsvoll
+					1,3 km/1,7 km	0 min 47 s/1 min 1 s
+Dalkrysset (54)
+ 176 n: Eidsvoll Verk, Råholt
+ 176 s: Maura, Nannestad
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Grønn kontakt, Ionity
+					4,1 km/4,0 km	2 min 28 s/2 min 24 s
+Rasteplass Andelva-sør
+(sydgående riktning)
+(Andelva bru (172 m))
+ Andelva
+					0,8 km/0,7 km	29 s/25 s
+Rasteplass Andelva-nord
+(nordgående riktning)
+					2,4 km/2,2 km	1 min 28 s/1 min 19 s
+Andelva bomstasjon
+
+Rasteplass Nebbenes-øst
+(nordgående riktning)
+ Bensinstasjon: Shell
+ Restaurang: Nebbenes Kro
+					0,4 km/0,9 km	14 s/32 s
+Kryss Eidsvoll Verk (55)
+ Eidsvoll Verk
+ 180: Hurdal
+ Rasteplass Nebbenes-vest (sydgående)
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum, Nobil, Tesla
+ Restaurang: Nebbenes Kro
+					3,2 km/3,2 km	1 min 55 s/1 min 55 s
+Boksrudkrysset (56)
+ Hammerstad
+ 181: Eidsvoll, Nord-Odal
+					1,0 km/0,5 km	36 s/18 s
+Eidsvolltunnelen-sør
+ 1193 m
+					1,2 km/1,2 km	43 s/43 s
+Eidsvolltunnelen-nord
+					2,8 km/3,5 km	1 min 41 s/2 min 6 s
+Tømte bomstasjon
+Julsrudbrua (314,5 m)
+					1,9 km/1,7 km	1 min 8 s/1 min 1 s
+Minnesundkrysset (58)
+ 33: Gjøvik, Feiring
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Circle-K
+
+Etapp 7: Minnesund - Kolomoen (37,0 km/36,6 km)
+					1,4 km/1,0 km	50 s/36 s
+Nye Minnesundbrua-sør
+ 565 m/532 m
+					0,5 km/0,5 km	18 s/18 s
+Nye Minnesundbrua-nord
+					1,1 km/1,8 km	0 min 40 s/1 min 5 s
+Langsetkrysset (59)
+ Langset
+(Ørbekk bomstasjon)
+
+Korslundtunnelen-syd
+ 635 m/624 m
+
+Korslundtunnelen-nord
+					5,2 km/5,2 km	3 min 28 s/3 min 28 s
+Morskogstunnelen-syd
+ 2350 m/2322 m
+
+Morskogstunnelen-nord
+
+Viken / Innlandet
+Eidsvoll / Stange
+					2,0 km/2,3 km	1 min 12/1 min 23 s
+Strandlykkjakrysset (60)
+ Nord-Odal, Strandlykkja
+					2,7 km/2,3 km	1 min 37 s/1 min 23 s
+Rasteplass Strandlykkja-øst
+(nordgående riktning)
+
+Rasteplass Strandlykkja-vest
+(sydgående riktning)
+					1,6 km/1,5 km	58 s/54 s
+Espa bomstasjon
+
+Espakrysset (61)
+ Tangen, Skaberud
+					1,0 km/1,6 km	36 s/58 s
+Espatunnelen-syd
+ 762 m/756 m
+
+Espatunnelen-nord
+
+Skaberudkrysset (62)
+ Bensinstation: Shell
+ Restaurang: By the Way
+					7,3 km/7,7 km	4 min 23 s/4 min 37 s
+Kryss Tangen/Vallset (63)
+ Gata
+ 222: Stange, Tangen
+ Bensinstasjon: Circle-K'
+ Elbilsladdning: Nobil, Grønn kontakt
+ Restaurang: Burger King
+					6,7 km/6,3 km	4 min 1 s/3 min 47 s
+Kolomoen bomstasjon
+
+Rasteplass Kolomoen
+(nordgående riktning)
+					1,2 km/1,6 km	43 s/58 s
+Kryss Kolostuen (64)
+ Sørli virkesterminal
+					1,4 km/1,0 km	50 s/36 s
+Kolomoen vegkryss (65)
+ 3: Trynset, Elverum, Ådalsbruk
+
+Etapp 8: Kolomoen - Hamar ()
+					0.9 km/1.0 km	41 s/45 s
+Rasteplass Kolomoen
+(sydgående riktning)
+					2.4 km/2.4 km	1 min 48 s/1 min 48 s
+Uthuskrysset (66)
+ 24: Skarnes, Gata
+ Stang
+
+Jønsberg bomstasjon
+					9.2 km/9.5 km	6 min 54 s/7 min 8 s
+Kåterudkrysset (67)
+ 222: Ottestad, Bekkelaget
+ Ilseng
+					0.8 km/0.4 km	36 s/18 s
+(Svartelva bru)
+ Svartelva, 49 m
+Stange / Hamar
+					0.8 km/1.2 km	36 s/54 s
+Kryss Ridabu (68)
+ 25: Elverum, Løten
+ Hamar-Sentrum
+
+Etapp 9: Hamar - Sandvoll ()
+					1.8 km/1.5 km	1 min 21 s/1 min 8 s
+Sælid bru
+ Flagstadelva, 41 m
+
+Kryss Vien (69)
+(ej avfart sydgående)
+ 224: Hamar-Sentrum
+					1.6 km/1.5 km	1 min 12 s/1 min 8 s
+Avfart (69) (sydgående)
+ 224: Hamar-Sentrum
+					0.7 km/1.4 km	0 min 31 s/1 min 3 s
+Hamar / Ringsaker
+Kryss Arnkvern (70)
+ Kårtorp, Hamar Flyplass
+ Bensinstation: YX
+					2.1 km/1.9 km	1 min 35 s/1 min 26 s
+Kryss Nydal (71)
+ Nydal
+ Bensinstation: Statoil
+					6.4 km/6.3 km	4 min 48 s/4 min 44 s
+Kryss
+
+Rasteplass Brumunddal
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+Kryss Brumunddal (72)
+ Brumunddal
+ Bensinstation: Esso
+					1.2 km/1.0 km	54 s/45 s
+Kryss Pellervika (73)
+ 212: Stavsberg
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Kryss Økelsrud (74)
+					2.5 km/2.8 km	1 min 53 s/2 min 6 s
+Kryss Rudshøgda (75)
+ Prøysenhuset
+ Bensinstation: YX
+					1.0 km/0.7 km	45 s/31 s
+Rasteplass (nordgående)
+					1.3 km/1.3 km	59 s/59 s
+Rasteplass (sydgående)
+					3.1 km/3.3 km	2 min 20 s/2 min 28 s
+80 km/h / 70 km/h
+Skarpsnotunnelen (310 m)
+					1.2 km/1.2 km	54 s/54 s
+Kryss Moelv (76)
+ 213 n: Moelv
+ 213 s: Stavsberg, Ringsaker
+ Bensinstation: Shell
+					1.0 km/0.8 km	45 s/36 s
+(Brennerivika bru)
+ Moelva, 41,5 m
+Moelvtunnelen (197 m)
+					0.5 km/0.3 km	23 s/14 s
+Mjøsbrua-øst
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+(Ringsaker / Gjøvik)
+
+(Mjøsbrua-vest)
+Rondell Sandvoll
+ 4: Gjøvik
+
+Etapp 10: Sandvoll - Lillehammer ()
+
+Rasteplass Biri
+
+70 km/h / 80 km/h
+
+Kryss Biri (77)
+ Bensinstasjon: Shell
+
+Strandengen bru (Kalverudelva, 56 m)
+
+Rasteplass Strandengen
+(nordgående riktning)
+
+Parkering (nordgående)
+
+Gjøvik / Lillehammer
+
+Vingrom bru (Rinda, 36 m)
+
+Kryss Vingrom (78)
+ 250: Dokka
+
+Rasteplass Vingrom kirke
+(nordgående riktning)
+
+(80 km/h / 70 km/h)
+Kryss Vingnes (79)
+ 253: Jørstadmoen
+ [255]: Gausdal
+ Bensinstasjon: HydroTexaco
+ Restaurang: Bjørn's Kro
+(Lillehammer bru-syd)
+ Mjøsa, 544 m
+
+(Lillehamer bru-nord)
+Kryss Strandtorget (80)
+ [213]: Vårsætergrenda
+ [216]: Moelv
+ Bensinstasjon: Statoil
+
+Mosoddentunnelen (212 m)
+
+Kryss Lillehammer N (81)
+ 213: Lillehammer-Sentrum
+ Bensinstasjon: Esso
+ Restaurang: By-the-way
+
+Kryss Storhove (82)
+ 255: Skåbu, Gausdal
+
+Lillehammer / Øyer
+
+Kryss Einsby (84)
+
+Kryss Grandrudmoen (85)
+ Bensinstasjon: Esso, Uno-X
+
+Kryss Tingberg (86)
+(Tingberg bomstasjon)
+
+Avfart+Påfart
+(avfart nordgående riktning
+påfart sydgående riktning)
+
+Kryss Skarsmoen
+(ej avfart nordgående)
+ Øyer kontrollstasjon
+(Øyertunnelen-syd)
+ 3873 m
+
+(Øyertunnelen-nord)
+Kryss Holmen (87)
+ Tretten
+ 254: Gausdal
+ Bensinstasjon: Circle-K, Shell
+
+T-korsning E6/Kongsvegen
+ Tretten
+ Restaurang: Tretten Kro

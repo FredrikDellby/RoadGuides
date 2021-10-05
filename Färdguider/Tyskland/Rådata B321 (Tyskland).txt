@@ -1,0 +1,18 @@
+Time	Km	Instruction	For	Toward
+Summary:  5,8 kilometres (7 minutes)
+09:00	0,0	Depart B321, 19061 Schwerin on B321 (East)	0,4 km	
+09:00	0,4	At Am Grünen Tal, 19063 Schwerin, stay on B321 [Am Grünen Tal] (East)	0,4 km	
+09:01	0,8	At Am Grünen Tal, 19063 Schwerin, stay on B321 [Am Grünen Tal] (East)	0,7 km	
+09:02	1,5	At B321, 19063 Schwerin, stay on B321 [An der Crivitzer Chaussee] (East)	0,6 km	
+09:02	2,0	At Bosselmannstraße, 19063 Schwerin, stay on B321 [An der Crivitzer Chaussee] (South-East)	0,5 km	
+09:03	2,5	At An der Crivitzer Chaussee, 19063 Schwerin, stay on B321 [An der Crivitzer Chaussee] (East)	1,2 km	
+09:05	3,7	At Alte Crivitzer Landstraße 1, 19063 Schwerin, stay on B321 [An der Crivitzer Chaussee] (East)	1,1 km	
+09:06	4,8	At An der Crivitzer Chaussee, 19063 Schwerin, stay on B321 [An der Crivitzer Chaussee] (East)	0,3 km	
+09:06	5,1	At near Rabensteinfeld, stay on B321 [An der Crivitzer Chaussee] (East)	0,7 km	
+09:07	5,8	Arrive An der Crivitzer Chaussee, 19065 Raben Steinfeld		
+
+SUMMARY
+Driving distance:  5,8 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  10,31 kr

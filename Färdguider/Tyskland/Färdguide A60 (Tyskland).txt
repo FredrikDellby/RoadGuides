@@ -1,0 +1,76 @@
+AB-Dreieck Nahetal (12)
+ A61 s: Mannheim, Ludwigshaven
+ A61 n: Köln, Koblenz
+	(A61-süd)			3.7 km/2.4 km	2 min 1 s/1 min 19 s
+	(A61-nord)			3.4 km/2.4 km	1 min 51 s/1 min 19 s
+Anschlausstelle 13
+ Bingen-Ost
+					1.8 km/2.2 km	0 min 59 s/1 min 12 s
+Anschlausstelle 14
+ Bingen-Gaulsheim
+					4.7 km/4.1 km	2 min 34 s/2 min 14 s
+Anschlausstelle 15
+ Ingelheim-West
+ B41: 
+					4.6 km/5.4 km	2 min 31 s/2 min 57 s
+Anschlausstelle 16
+ Ingelheim-Ost
+					1.8 km/1.5 km	59 s/49 s
+Raststätte Heidenfahrt
+ Bensin, Restaurang
+					1.9 km/1.8 km	1 min 2 s/0 min 59 s
+Anschlausstelle 17
+ Heidesheim
+					2.8 km/3.7 km	1 min 32 s/2 min 1 s
+AB-Dreieck Mainz (18)
+ A643: Wiesbaden
+					2.1 km/1.8 km	1 min 16 s/1 min 5 s
+(Gonsbachbrücke (200 m))
+
+Anschlausstelle 19
+ Mainz-Finthen
+					3.2 km/2.9 km	1 min 55 s/1 min 44 s
+Anschlausstelle 20
+ Mainz-Lerchenberg
+					1.1 km/1.4 km	40 s/50 s
+AB-Kreuz Mainz-Süd (21)
+ A63 s: Kaiserslautern
+ B40 n: Mainz-Zentrum
+					1.5 km/1.0 km	54 s/36 s
+Anschlausstelle 22a
+ Mainz-Hechtsheim West
+					1.3 km/1.4 km	47 s/50 s
+Anschlausstelle 22b
+ Mainz-Hechtsheim Ost
+					1.1 km/1.2 km	40 s/43 s
+Anschlausstelle 23
+ Mainz-Weisenau
+					1.8 km/1.8 km	1 min 5 s/1 min 5 s
+Anschlausstelle 24
+ Mainz-Laubenheim
+ B9: 
+(Weisenauer Brücke-west)
+ Rhein, 900 m
+					1.5 km/1.0 km	54 s/36 s
+Weisenauer Brücke-ost
+ Rhein, 900 m
+					0.4 km/0.5 km	14 s/18 s
+Anschlausstelle 25
+ Ginsheim-Gustavsburg
+					0.9 km/1.0 km	32 s/36 s
+AB-Dreieck Mainspitze (26)
+ A671: Wiesbaden
+					2.8 km/2.7 km	1 min 41 s/1 min 37 s
+Anschlausstelle 27
+ Bischofsheim
+					2.2 km/2.9 km	1 min 19 s/1 min 44 s
+Anschlausstelle 28
+ Rüsselsheim-Mitte
+ B519: 
+					2.0 km/1.5 km	1 min 12 s/0 min 54 s
+Anschlausstelle 29
+ Rüsselsheim-Königstädten
+	(A67-nord)			1.3 km/2.9 km	0 min 47 s/1 min 44 s
+	(A67-süd)			1.3 km/2.3 km	0 min 47 s/1 min 23 s
+AB-Dreieck Rüsselseim (30)
+ A67: Mannheim, Darmstadt

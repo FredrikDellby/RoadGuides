@@ -1,0 +1,217 @@
+Time	Km	Instruction	For	Toward
+Summary:  39,7 kilometres (22 minutes)
+09:00	0,0	Depart A6 B, 91320 Wissous on A10 (South-West)	1,9 km	A10 / E5 / E50 / Palaiseau / Étampes / Bordeaux-Nantes / Antony-Z.A. / Massy / Longjumeau
+09:01	1,9	At E5, 91320 Wissous, stay on A10 [E5] (South-West)	1,6 km	A10 / E5 / E50 / Orléans / Bordeaux / Nantes / Palaiseau
+09:02	3,5	At E5, 91300 Massy, stay on A10 [E5] (South)	1,6 km	A10 / E50 / E05 / Orléans / Nantes / Bordeaux / Palaiseau
+09:03	5,1	At E5, 91160 Champlan, stay on A10 [E5] (West)	3,5 km	A10 / E05 / E50 / Orléans / Nantes / Bordeaux / Chartres / Orsay
+09:05	8,6	At E5, 91140 Villebon-sur-Yvette, stay on A10 [E5] (South)	2,6 km	
+09:07	11,2	At 9, stay on A10 [E5] (South-West)	2,9 km	A10 / E5 / E50 / Bordeaux / Orléans / Nantes / Chartres
+09:08	14,1	*Toll road* At E5, 91940 Les Ulis, stay on A10 [E5] (South)	1,5 km	A10 / E5 / E50 / Chartres / Nantes / Orléans / Bordeaux
+09:09	15,6	*Toll road* At E5, 91460 Marcoussis, stay on A10 [E5] (South-West)	3,2 km	
+09:11	18,8	*Toll road* At E5, 91640 Janvry, stay on A10 [E5] (South-West)	13,9 km	
+09:18	32,7	*Toll road* At 10, stay on A10 [E5] (West)	4,7 km	A10 / E5 / A11 / Nantes / Chartres / Bordeaux / Orléans
+09:21	37,4	*Toll road* At E5, 91410 Dourdan, stay on A10 [E5] (West)	2,3 km	
+09:22	39,7	Arrive A11, 78730 Sainte-Mesme		
+
+SUMMARY
+Driving distance:  39,7 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  47,53 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,5 kilometres (22 minutes)
+09:00	0,0	*Toll road* Depart E5, 78660 Saint-Martin-de-Bréthencourt on Ramp (North)	0,9 km	
+09:00	0,9	*Toll road* Merge onto A11 [E50]	1,0 km	
+09:01	1,9	*Toll road* Merge onto A10 [E5]	1,0 km	
+09:01	3,0	*Toll road* At E5, 78730 Saint-Arnoult-en-Yvelines, stay on A10 [E5] (East)	3,8 km	
+09:03	6,7	*Toll road* At 10, stay on A10 [E50] (East)	14,4 km	A10 / Paris / Versailles / Évry
+09:11	21,1	*Toll road* At E50, 91640 Briis-Sous-Forges, stay on A10 [E50] (North)	3,1 km	
+09:12	24,2	*Toll road* At E5, 91460 Marcoussis, stay on A10 [E5] (North-East)	2,3 km	A10 / E5 / E50 / Palaiseau / Versailles / Paris / Lilles
+09:13	26,5	At E5, 91460 Marcoussis, stay on A10 [E5] (North)	2,6 km	
+09:15	29,1	At E5, 91140 Villebon-sur-Yvette, stay on A10 [E5] (North-East)	3,3 km	
+09:17	32,4	At E5, 91140 Villebon-sur-Yvette, stay on A10 [E5] (North)	1,2 km	
+09:17	33,6	At near Palaiseau, stay on A10 [E5] (North)	1,3 km	Palaiseau / Paris
+09:18	34,9	At E5, 91160 Champlan, stay on A10 [E5] (East)	1,2 km	A10 / Lilles / Metz-Nancy / Paris / Lyon
+09:19	36,1	At E5, 91160 Champlan, stay on A10 [E50] (East)	2,7 km	A10 / E50 / E05 / Lille / Metz-Nancy / Rungis / Aéroport Orly / Paris
+09:21	38,8	At E5, 91300 Massy, stay on A10 [E5] (North-East)	1,0 km	
+09:22	39,8	Keep RIGHT onto Local road(s)	0,8 km	A6 B / Lille / Villejuif / Metz-Nancy / Rungis / Aéroport Orly / Créteil
+09:22	40,5	Arrive A6 B, 91320 Wissous		
+
+SUMMARY
+Driving distance:  40,5 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  48,00 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  71,9 kilometres (37 minutes)
+09:00	0,0	*Toll road* Depart A11, 78730 Sainte-Mesme on A10 [E5] (South-West)	10,0 km	A10 / E5 / A20 / Toulouse / A71 / Clermont-FD / Bordeaux / Orléans
+09:05	10,0	*Toll road* At 11, stay on A10 [E5] (South)	7,6 km	A10 / Toulouse / Bordeaux / Clermont-FD / Orléans
+09:09	17,5	*Toll road* At E5, 28700 Sainville, stay on A10 [E5] (South)	13,1 km	
+09:16	30,7	*Toll road* At E5, 28310 Neuvy-en-Beauce, stay on A10 [E5] (South)	8,1 km	
+09:20	38,8	*Toll road* At 12, stay on A10 [E5] (South)	10,5 km	A10 / Toulouse / Bordeaux / Clermont-Ferrand / Orléans
+09:25	49,3	*Toll road* At E5, 28140 Dambron, stay on A10 [E5] (South)	2,7 km	
+09:27	52,0	*Toll road* At 13, stay on A10 [E5] (South)	5,3 km	A10 / Toulouse / Bordeaux / Clermont-Ferrand / Orléans
+09:30	57,2	*Toll road* At E5, 45520 Chevilly, stay on A10 [E5] (South)	6,7 km	
+09:33	63,9	*Toll road* At E5, 45520 Gidy, stay on A10 [E5] (South)	3,4 km	
+09:35	67,3	*Toll road* At 14, stay on A10 [E5] (South)	4,6 km	A10 / E5 / E60 / Toulouse / Clermont-FD / Bordeaux / Orléans-Centre
+09:37	71,9	Arrive E5, 45140 Ingré		
+
+SUMMARY
+Driving distance:  71,9 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  83,60 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  72,0 kilometres (37 minutes)
+09:00	0,0	*Toll road* Depart E9, 45140 Ingré on A71 [E9] (North)	0,4 km	A10 / E5 / E60 / Paris / Le Mans / Fontainebleau / Orléans-Nord
+09:00	0,4	*Toll road* Merge onto A10 [E5]	4,8 km	
+09:02	5,2	*Toll road* At 14, stay on A10 [E5] (North)	3,0 km	A10 / E5 / Paris / Chartres
+09:04	8,2	*Toll road* At E5, 45520 Gidy, stay on A10 [E5] (North)	7,5 km	
+09:08	15,6	*Toll road* At E5, 45520 Chevilly, stay on A10 [E5] (North)	5,0 km	
+09:10	20,6	*Toll road* At 13, stay on A10 [E5] (North)	2,7 km	A10 / Paris / Chartres
+09:12	23,3	*Toll road* At E5, 28140 Dambron, stay on A10 [E5] (North)	10,6 km	
+09:17	33,9	*Toll road* At 12, stay on A10 [E5] (North)	7,5 km	A10 / Paris / Étampes / Rambouillet
+09:21	41,4	*Toll road* At E5, 28310 Fresnay-l'Évêque, stay on A10 [E5] (North)	13,5 km	
+09:28	54,9	*Toll road* At E5, 28700 Vierville, stay on A10 [E5] (North)	7,5 km	
+09:32	62,4	*Toll road* At 11, stay on A10 [E5] (North)	9,7 km	A10 / Paris / Versailles / Évry
+09:37	72,0	Arrive E5, 78660 Saint-Martin-de-Bréthencourt		
+
+SUMMARY
+Driving distance:  72,0 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  83,77 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  99,5 kilometres (52 minutes)
+09:00	0,0	*Toll road* Depart E5, 45140 Ingré on A10 [E5] (South)	6,7 km	E5 / E60 / A10 / Bordeaux / Tours / Blois
+09:03	6,7	*Toll road* At E5, 45380 Chaingy, stay on A10 [E5] (West)	10,3 km	
+09:08	17,0	*Toll road* At 15, stay on A10 [E5] (South-West)	2,2 km	A10 / Blois / Tours / Bordeaux
+09:10	19,3	*Toll road* At E5, 45130 Baule, stay on A10 [E5] (South-West)	9,5 km	
+09:15	28,7	*Toll road* At E5, 41500 Lestiou, stay on A10 [E5] (South-West)	4,9 km	
+09:17	33,6	*Toll road* At 16, stay on A10 [E5] (South-West)	11,6 km	
+09:23	45,2	*Toll road* At E5, 41000 Villerbon, stay on A10 [E5] (South-West)	5,5 km	
+09:26	50,7	*Toll road* At 17, stay on A10 [E5] (South-West)	17,6 km	A10 / Bordeaux / Tours / Amboise
+09:35	68,2	*Toll road* At E5, 41190 Françay, stay on A10 [E5] (West)	12,2 km	
+09:42	80,4	*Toll road* At 18, stay on A10 [E5] (West)	2,2 km	A10 / E5 / E60 / Le Mans / Bordeaux / Angers / Tours
+09:43	82,6	*Toll road* At A10, 37110 Auzouer-en-Touraine, stay on A10 [E5] (South-West)	15,4 km	
+09:52	98,0	*Toll road* At E5, 37380 Monnaie, stay on A10 [E5] (South-West)	1,5 km	
+09:52	99,5	Arrive E5, 37380 Monnaie		
+
+SUMMARY
+Driving distance:  99,5 kilometres
+Trip duration:  52 minutes
+Driving time:  52 minutes
+Cost:  115,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  98,9 kilometres (52 minutes)
+09:00	0,0	*Toll road* Depart E5, 37210 Parçay-Meslay on A10 [E5] (North)	1,4 km	A10 / E5 / E60 / Paris / Orléans / Blois
+09:00	1,4	*Toll road* At E5, 37380 Monnaie, stay on A10 [E5] (North-East)	15,7 km	
+09:09	17,2	*Toll road* At E5, 37110 Auzouer-en-Touraine, stay on A10 [E5] (North-East)	2,1 km	
+09:10	19,2	*Toll road* At 18, stay on A10 [E5] (East)	12,3 km	A10 / Paris / Orléans / Blois
+09:16	31,5	*Toll road* At E5, 41190 Françay, stay on A10 [E5] (East)	17,3 km	
+09:26	48,8	*Toll road* At 17, stay on A10 [E5] (North-East)	5,3 km	A10 / Paris / Orléans
+09:28	54,1	*Toll road* At E5, 41000 Villerbon, stay on A10 [E5] (North)	11,9 km	
+09:35	66,0	*Toll road* At 16, stay on A10 [E5] (North-East)	4,9 km	
+09:37	70,9	*Toll road* At E5, 41500 Lestiou, stay on A10 [E5] (North-East)	9,3 km	
+09:42	80,2	*Toll road* At E5, 45190 Messas, stay on A10 [E5] (North-East)	2,4 km	
+09:43	82,6	*Toll road* At 15, stay on A10 [E5] (North-East)	6,2 km	A10 / Paris / Vierzon / Orléans
+09:47	88,8	*Toll road* At E5, 45130 Huisseau-sur-Mauves, stay on A10 [E5] (North-East)	10,1 km	
+09:52	98,9	Arrive L'Aquitaine, 45380 La Chapelle-Saint-Mesmin		
+
+SUMMARY
+Driving distance:  98,9 kilometres
+Trip duration:  52 minutes
+Driving time:  52 minutes
+Cost:  114,59 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,6 kilometres (11 minutes)
+09:00	0,0	*Toll road* Depart E5, 37380 Monnaie on A10 [E5] (South-West)	2,3 km	A10 / E5 / E60 / Bordeaux / Angers / Tours
+09:01	2,3	*Toll road* At 19, stay on A10 [E5] (South-West)	5,0 km	
+09:03	7,3	*Toll road* At 20, stay on A10 [E5] (South-West)	0,4 km	A10 / Bordeaux / Angers / Tours-Centre
+09:04	7,6	Stay on A10 [E5] (West)	1,7 km	
+09:05	9,4	At 21, stay on A10 [E5] (South)	3,3 km	
+09:07	12,6	*Toll road* At 22, stay on A10 [E5] (South)	1,8 km	A10 / Bordeaux / Poitiers / Angers / Châteauroux
+09:08	14,5	*Toll road* At 23, stay on A10 [E5] (South)	2,5 km	A10 / Bordeaux / Poitiers / Angers / Chatellerault
+09:10	17,0	*Toll road* At 24, stay on A10 [E5] (South)	2,6 km	A10 / Châtellerault / Limoges / Poitiers / Bordeaux
+09:11	19,6	Arrive E5, 37250 Veigné		
+
+SUMMARY
+Driving distance:  19,6 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  27,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (11 minutes)
+09:00	0,0	*Toll road* Depart near Montbazon on A10 [E5] (North)	3,5 km	A10 / E5 / Paris / Tours
+09:01	3,5	*Toll road* At 24, stay on A10 [E5] (North)	1,4 km	A10 / Paris / Le Mans / Tours / Chambray-Centre
+09:02	5,0	*Toll road* At 23, stay on A10 [E5] (North)	3,5 km	A10 / Paris / Le Mans / Tours-Centre
+09:04	8,4	At E5, 37200 Tours, stay on A10 [E5] (North)	2,7 km	
+09:06	11,2	At 21, stay on A10 [E5] (North)	2,3 km	A10 / Paris / Le Mans / Tours-Nord / Aéroport Tours Val de Loire
+09:08	13,5	*Toll road* At E5, 37100 Tours, stay on A10 [E5] (East)	4,6 km	A10 / Paris / Chartres / Le Mans / Blois
+09:10	18,1	*Toll road* At 19, stay on A10 [E5] (North-East)	2,3 km	A10 / Paris / Orléans / Blois / Le Mans
+09:11	20,4	Arrive E5, 37210 Parçay-Meslay		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  28,09 kr
+
+1.9 km/1.7 km	1 min 8 s/1 min 1 s
+1.6 km/2.7 km	0 min 58 s/1 min 37 s
+1.6 km/1.2 km	0 min 58 s/0 min 43 s
+0.9 km/1.3 km	0 min 32 s/0 min 47 s
+2.6 km/1.2 km	1 min 34 s/0 min 43 s
+2.6 km/3.3 km	1 min 34 s/1 min 59 s
+2.9 km/2.6 km	1 min 44 s/1 min 34 s
+1.5 km/2.3 km	0 min 54 s/1 min 23 s
+
+Resultat:
+3.2 km/3.1 km	1 min 36 s/1 min 33 s
+13.9 km/14.4 km	6 min 57 s/7 min 12 s
+4.7 km/3.8 km	2 min 21 s/1 min 54 s
+2.3 km/3.0 km	1 min 9 s/1 min 30 s
+
+Resultat:
+10.0 km/9.7 km	5 min 0 s/4 min 51 s
+1.5 km/0.7 km	0 min 45 s/0 min 21 s
+6.1 km/6.8 km	3 min 3 s/3 min 24 s
+13.1 km/13.5 km	6 min 33 s/6 min 45 s
+8.1 km/7.5 km	4 min 3 s/3 min 45 s
+10.5 km/10.6 km	5 min 15 s/5 min 18 s
+2.7 km/2.7 km	1 min 21 s/1 min 21 s
+5.3 km/5.0 km	2 min 39 s/2 min 30 s
+6.7 km/7.5 km	3 min 21 s/3 min 45 s
+3.4 km/3.0 km	1 min 42 s/1 min 30 s
+
+4.6 km/5.2 km	2 min 31 s/2 min 50 s
+
+Resultat:
+6.7 km/10.1 km	3 min 21 s/5 min 3 s
+10.3 km/6.2 km	5 min 9 s/3 min 6 s
+2.2 km/2.4 km	1 min 6 s/1 min 12 s
+9.5 km/9.3 km	4 min 45 s/4 min 39 s
+4.9 km/4.9 km	2 min 27 s/2 min 27 s
+11.6 km/11.9 km	5 min 48 s/5 min 57 s
+5.5 km/5.3 km	2 min 45 s/2 min 39 s
+17.6 km/17.3 km	8 min 48 s/8 min 39 s
+5.9 km/5.4 km	2 min 57 s/2 min 42 s
+6.3 km/6.9 km	3 min 9 s/3 min 27 s
+2.2 km/2.1 km	1 min 6 s/1 min 3 s
+15.4 km/15.7 km	7 min 42 s/7 min 51 s
+1.5 km/1.4 km	0 min 45 s/0 min 42 s
+
+2.3 km/2.3 km	1 min 23 s/1 min 23 s
+5.0 km/4.6 km	3 min 0 s/2 min 46 s
+2.1 km/2.3 km	1 min 16 s/1 min 23 s
+3.3 km/2.7 km	1 min 59 s/1 min 37 s
+1.8 km/3.5 km	1 min 5 s/2 min 6 s
+2.5 km/1.4 km	1 min 30 s/0 min 50 s
+2.6 km/3.5 km	1 min 34 s/2 min 6 s

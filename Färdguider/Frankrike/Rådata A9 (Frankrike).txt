@@ -1,0 +1,51 @@
+Time	Km	Instruction	For	Toward
+Summary:  54,4 kilometres (28 minutes)
+09:00	0,0	*Toll road* Depart A7, 84100 Orange on A9 [E15] (South-East)	7,7 km	A9 / E15 / Roquemaure / Nîmes / Montpellier / Toulouse / Barcelone
+09:04	7,7	*Toll road* At near Montfaucon, stay on A9 [E15] (South)	2,3 km	
+09:05	10,1	*Toll road* At E15, 30150 Roquemaure, stay on A9 [E15] (South)	4,0 km	
+09:07	14,1	*Toll road* At 22, stay on A9 [E15] (South-West)	3,5 km	A9 / Remoulins / Nîmes / Montpellier / Toulouse / Barcelone
+09:09	17,6	*Toll road* At E15, 30126 Tavel, stay on A9 [E15] (South-West)	6,7 km	
+09:12	24,3	*Toll road* At E15, 30390 Estézargues, stay on A9 [E15] (South-West)	4,7 km	
+09:15	29,0	*Toll road* At 23, stay on A9 [E15] (South-West)	6,4 km	A9 / Nîmes-Est / Nîmes / Montpellier / Toulouse / Barcelone
+09:18	35,4	*Toll road* At E15, 30210 Sernhac, stay on A9 [E15] (West)	7,5 km	
+09:22	42,9	*Toll road* At E15, 30320 Saint-Gervasy, stay on A9 [E15] (West)	3,3 km	
+09:24	46,2	*Toll road* At 24, stay on A9 [E15] (South)	8,2 km	A9 / Nîmes-Ouest / Nîmes-Quartiers Ouest / Aéroport Garons / Arles / Montpellier / Toulouse / Barcelone
+09:28	54,4	Arrive 25		
+
+SUMMARY
+Driving distance:  54,4 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  64,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  54,4 kilometres (28 minutes)
+09:00	0,0	*Toll road* Depart E15, 30900 Nîmes on A9 [E15] (East)	8,7 km	A9 / E15 / Avignon / Lyon
+09:04	8,7	*Toll road* At 24, stay on A9 [E15] (North)	1,6 km	A9 / Remoulins / Avignon / Lyon
+09:05	10,2	*Toll road* At E15, 30320 Marguerittes, stay on A9 [E15] (North-East)	8,5 km	
+09:09	18,7	*Toll road* At E15, 30210 Lédenon, stay on A9 [E15] (East)	6,9 km	
+09:13	25,6	*Toll road* At 23, stay on A9 [E15] (North-East)	4,4 km	A9 / Roquemaure / Orange / Montélimar / Valence / Lyon
+09:15	30,0	*Toll road* At E15, 30390 Estézargues, stay on A9 [E15] (North-East)	6,4 km	
+09:19	36,5	*Toll road* At E15, 30126 Tavel, stay on A9 [E15] (North-East)	4,0 km	
+09:21	40,4	*Toll road* At 22, stay on A9 [E15] (North-East)	4,2 km	A9 / Orange / Montélimar / Valence / Lyon
+09:23	44,6	*Toll road* At E15, 30150 Roquemaure, stay on A9 [E15] (North)	2,9 km	
+09:25	47,5	*Toll road* At near Montfaucon, stay on A9 [E15] (North)	6,9 km	
+09:28	54,4	Arrive 21		
+
+SUMMARY
+Driving distance:  54,4 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  64,30 kr
+
+A7/A9 - A9/A54
+7.7 km/6.9 km	3 min 51 s/3 min 27 s
+2.3 km/2.9 km	1 min 9 s/1 min 27 s
+4.0 km/4.2 km	2 min 0 s/2 min 6 s
+3.5 km/4.0 km	1 min 45 s/2 min 0 s
+6.7 km/6.4 km	3 min 21 s/3 min 12 s
+4.7 km/4.4 km	2 min 21 s/2 min 12 s
+6.4 km/6.9 km	3 min 12 s/3 min 27 s
+7.5 km/8.5 km	3 min 45 s/4 min 15 s
+3.3 km/1.6 km	1 min 39 s/0 min 48 s
+8.2 km/8.7 km	4 min 6 s/4 min 21 s

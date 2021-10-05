@@ -1,0 +1,41 @@
+Icke numrerade länsvägar i Västra Götaland
+===========================================
+
+O 501: Billdal-Skintebo-Brottkärrsmotet (Lv 158)
+O 560: Billdal-Lindås (Snipen)
+O 500: Snipen-Lindåsmotet (Lv 158)
+N 961: Lindåsmotet (Lv 158)-Hällesås
+O 503: Hällesås-Lindome-Eriksmyst (Lv 156)
+O 502: Billdal (väg 501)-Årekärr
+O 523: Lerum-(E20, Kastenhofsmotet)-Härskogen-Hindås
+O 563: Torslanda (Lv 155)-Björlanda-Säve
+O 570: Lindholmskorsningen (Lv 155)-E6.20-Säve-Kornhall-Tjuvkil (Lv 168)
+O 565: väg 570-Tollered-E6.20-Björlanda (väg 563)
+O 571: Brunnsbomotet (Lv 155)-Skogomo-Kärramotet (E6)
+O 574: Brunnsbomotet (Lv 155)-Tagene-Kungälv-Kode-Stora Höga (Lv 160)
+O 564: Lv 155-Sörred-väg 565
+O 561: Lv 155-Sandvik
+O 566: Björlanda (väg 563)-Nolvik
+O 573: Skogome (väg 571)-Backa (väg 574)
+O 575: Hönö-Öckerö-Hälsö
+O 579: Skogome (väg 571)-väg 570-Tuve-Säve depå (E6.20)
+O 580: Skogome (väg 571)-Säve station (väg 570)
+O 587: Säve (väg 570)-Rödbo (väg 574)-Jordfallsbron (E45)
+O 591: Lv 155-Hällsvik
+
+O 625: Kungälv (E6)-Lilla Edet (Lv 167)
+O 642:
+O 647: Norum (väg 649)-Strandnorum (Lv 160)
+O 649: Nösnäs (Lv 160)-Norum-Lv 170/E6-väg 650
+O 650: Grinneröd (Lv 167)-Ucklum-Stora Höga (E6)
+O 653: Ödsmål (väg 655)-Stripplekärr-Stenungsund (Lv 170)
+O 655: Ödsmål-Stenungsund (Lv 170)-Nösnäs (Lv 160)
+O 656: Svenshögen-Ödsmål (väg 655)
+O 658: väg 655 - väg 659
+O 659: Ljungsskile (Lv 167) - Kolhättan (väg 770)
+O 660:
+O 665:
+O 668:
+O 675:
+O 679:
+O 678:

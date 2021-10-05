@@ -1,0 +1,221 @@
+Nordmanneröd-Lönnebergshage
+0.6 km/0.6 km	0 min 31 s/0 min 31 s	70
+2.9 km/2.9 km	2 min 29 s/2 min 29 s
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+4.0 km/4.0 km	3 min 26 s/3 min 26 s
+2.1 km/2.1 km	1 min 48 s/1 min 48 s
+
+Lönnebergshage - Kärsrud
+3.6 km/3.6 km	3 min 5 s/3 min 5 s	70
+8.8 km/8.8 km	7 min 33 s/7 min 33 s
+
+Dals-Rostockvägen
+2.9 km/2.7 km	2 min 54 s/2 min 42 s	60
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+2.8 km/2.9 km	2 min 48 s/2 min 54 s
+4.0 km/4.0 km	4 min 0 s/4 min 0 s
+3.2 km/3.1 km	3 min 12 s/3 min 6 s
+0.9 km/0.9 km	0 min 54 s/0 min 54 s
+1.2 km/1.2 km	1 min 12 s/1 min 12 s
+
+2.8 km/2.9 km	3 min 22 s/3 min 29 s	50
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+Håverudsvägen
+3.8 km/3.8 km	3 min 15 s/3 min 15 s	70
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+0.8 km/0.8 km	0 min 41 s/0 min 41 s
+2.9 km/2.9 km	2 min 29 s/2 min 29 s
+
+0.5 km/0.6 km	0 min 36 s/0 min 43 s	50
+3.5 km/3.5 km	4 min 12 s/4 min 12 s
+
+1.3 km/1.2 km	1 min 18 s/1 min 12 s	60
+0.9 km/1.0 km	0 min 54 s/1 min 0 s
+1.3 km/1.3 km	1 min 18 s/1 min 18 s
+5.9 km/6.0 km	5 min 54 s/6 min 0 s
+1.7 km/1.6 km	1 min 42 s/1 min 36 s
+
+Time	Km	Instruction	For	Toward
+Summary:  21,8 kilometres (22 minutes)
+09:00	0,0	Depart near Tisselskog on Local road(s) (East)	0,2 km	
+09:00	0,2	Road name changes to Gullungebyn	0,3 km	
+09:00	0,5	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:01	0,7	At T-korsning Gullungebyn, stay on Local road(s) (North)	3,1 km	
+09:04	3,8	At T-korsning N. Lidtjärn, stay on Local road(s) (North)	2,4 km	
+09:05	6,2	At near Liden, stay on Local road(s) (North-East)	1,9 km	
+09:07	8,0	Bear LEFT (East) onto Local road(s)	1,1 km	
+09:08	9,1	At Korsning, stay on Local road(s) (North)	0,8 km	
+09:08	9,9	Keep STRAIGHT onto Fröskogs Hensbyn	0,4 km	
+09:09	10,4	Keep STRAIGHT onto Local road(s)	0,4 km	
+09:10	10,8	Bear LEFT (North-East) onto Local road(s)	0,3 km	
+09:11	11,1	At T-korsning Fröskog, stay on Local road(s) (North-East)	30 m	
+09:11	11,2	Bear RIGHT (East) onto Local road(s)	0,8 km	
+09:11	12,0	Bear RIGHT (East) onto Local road(s)	0,6 km	
+09:12	12,6	Bear LEFT (East) onto Local road(s)	0,6 km	
+09:12	13,2	Bear RIGHT (South) onto Local road(s)	90 m	
+09:12	13,3	At T-korsning Vallsjön, stay on Local road(s) (South-East)	1,8 km	
+09:14	15,0	Keep STRAIGHT onto Klapperud	0,3 km	
+09:14	15,4	Keep STRAIGHT onto Local road(s)	0,8 km	
+09:15	16,2	Road name changes to Kesebol [Tösse Hannebol]	0,6 km	
+09:16	16,8	Keep STRAIGHT onto Tösse Hannebol	0,7 km	
+09:17	17,5	Road name changes to Hängelsrud	2,4 km	
+09:20	19,9	At T-korsning Hängelserud, stay on Hängelsrud (East)	0,1 km	
+09:20	20,1	Bear RIGHT (East) onto Strömsberg	1,4 km	
+09:21	21,5	Keep STRAIGHT onto Gustavsberg	30 m	
+09:22	21,5	Bear LEFT (East) onto Gustavsberg [Tösse Kyrka]	0,2 km	
+09:22	21,7	Keep STRAIGHT onto Gustavsberg [Södergården]	90 m	
+09:22	21,8	Arrive near Tösse		
+
+SUMMARY
+Driving distance:  21,8 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  24,71 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,8 kilometres (22 minutes)
+09:00	0,0	Depart T-korsning Tösse on Gustavsberg [Södergården] (North-West)	0,1 km	
+09:00	0,1	Keep STRAIGHT onto Gustavsberg [Tösse Kyrka]	0,2 km	
+09:00	0,3	Bear RIGHT (North-West) onto Gustavsberg	30 m	
+09:00	0,3	Keep STRAIGHT onto Strömsberg	1,4 km	
+09:01	1,8	Bear LEFT (West) onto Hängelsrud	0,1 km	
+09:02	1,9	At T-korsning Hängelserud, stay on Hängelsrud (West)	2,4 km	
+09:04	4,3	Road name changes to Tösse Hannebol	0,7 km	
+09:05	5,0	Keep STRAIGHT onto Kesebol [Tösse Hannebol]	0,6 km	
+09:06	5,6	Road name changes to Local road(s)	0,8 km	
+09:07	6,5	Keep STRAIGHT onto Klapperud	0,3 km	
+09:08	6,8	Keep STRAIGHT onto Local road(s)	1,8 km	
+09:10	8,6	At T-korsning Vallsjön, stay on Local road(s) (North)	90 m	
+09:10	8,7	Bear LEFT (North-West) onto Local road(s)	0,6 km	
+09:10	9,3	Bear RIGHT (North-West) onto Local road(s)	0,6 km	
+09:10	9,8	Bear LEFT (West) onto Local road(s)	0,8 km	
+09:11	10,7	Bear LEFT (South-West) onto Local road(s)	30 m	
+09:11	10,7	At T-korsning Fröskog, stay on Local road(s) (South-West)	0,3 km	
+09:12	11,0	Bear RIGHT (West) onto Local road(s)	0,4 km	
+09:12	11,5	Keep STRAIGHT onto Fröskogs Hensbyn	0,4 km	
+09:13	11,9	Keep STRAIGHT onto Local road(s)	0,8 km	
+09:14	12,7	At Korsning, stay on Local road(s) (South)	1,1 km	
+09:15	13,8	Bear RIGHT (West) onto Local road(s)	1,9 km	
+09:16	15,7	At near Liden, stay on Local road(s) (West)	2,3 km	
+09:18	18,0	At T-korsning N. Lidtjärn, stay on Local road(s) (South)	3,1 km	
+09:21	21,1	At T-korsning Gullungebyn, stay on Local road(s) (South)	0,2 km	
+09:21	21,3	Keep STRAIGHT onto Gullungebyn	0,3 km	
+09:22	21,6	Road name changes to Local road(s)	0,2 km	
+09:22	21,8	Arrive near Tisselskog		
+
+SUMMARY
+Driving distance:  21,8 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  24,75 kr
+
+Tisselskog-Tösse
+0.7 km/0.7 km	0 min 36 s/0 min 36 s	70
+3.1 km/3.1 km	2 min 39 s/2 min 39 s
+2.4 km/2.3 km	2 min 3 s/1 min 58 s
+2.9 km/3.0 km	2 min 29 s/2 min 34 s
+2.0 km/2.0 km	1 min 43 s/1 min 43 s
+2.2 km/2.1 km	1 min 53 s/1 min 48 s
+6.6 km/6.7 km	5 min 39 s/5 min 45 s
+1.9 km/1.9 km	1 min 38 s/1 min 38 s
+
+Time	Km	Instruction	For	Toward
+Summary:  16,9 kilometres (17 minutes)
+09:00	0,0	Depart T-korsning Svanskog N on Storgatan (South-West)	0,7 km	
+09:01	0,7	At Uno-X [Storgatan 662 50, Svanskog, Sverige, Tel: +46 532-30020], stay on Storgatan (South-West)	0,4 km	
+09:01	1,1	At Storgatan, 662 50 Svanskog, stay on Storgatan (South-West)	0,7 km	
+09:02	1,8	At T-korsning Svanskog S, stay on Storgatan (South)	1,0 km	
+09:04	2,8	Road name changes to Södra Skarbol Svanvik	0,1 km	
+09:04	2,9	Road name changes to Local road(s)	0,8 km	
+09:05	3,7	Bear RIGHT (South-East) onto Local road(s)	1,5 km	
+09:06	5,2	Bear LEFT (East) onto Local road(s)	0,2 km	
+09:06	5,3	Bear RIGHT (South-East) onto Local road(s)	2,0 km	
+09:08	7,4	At near Gressbol, stay on Local road(s) (South-East)	0,1 km	
+09:08	7,5	Keep STRAIGHT onto Mo Kroken	0,8 km	
+09:09	8,3	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:09	8,5	Bear RIGHT (South) onto Local road(s)	0,3 km	
+09:10	8,8	Keep STRAIGHT onto Mo Kroken	0,1 km	
+09:10	8,9	Keep STRAIGHT onto Local road(s)	1,0 km	
+09:11	10,0	Keep STRAIGHT onto Persbyn	0,2 km	
+09:11	10,2	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:11	10,4	Bear RIGHT (South) onto Local road(s)	0,4 km	
+09:12	10,7	Keep STRAIGHT onto Persbyn	0,1 km	
+09:12	10,9	Road name changes to Local road(s)	0,7 km	
+09:13	11,6	Keep STRAIGHT onto Mo Byn	0,1 km	
+09:13	11,7	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:13	12,0	Bear RIGHT (South) onto Local road(s)	0,9 km	
+09:14	12,9	At Korsning Mo, stay on Local road(s) (South-East)	0,1 km	
+09:14	13,0	Keep STRAIGHT onto Mo Stom	0,3 km	
+09:14	13,3	Keep STRAIGHT onto Local road(s)	70 m	
+09:15	13,3	Bear RIGHT (South) onto Local road(s)	10 m	
+09:15	13,3	Keep STRAIGHT onto Mo Stom	0,3 km	
+09:15	13,7	Keep STRAIGHT onto Local road(s)	40 m	
+09:15	13,7	Bear LEFT (South-East) onto Mo Stom	0,2 km	
+09:15	13,9	Keep STRAIGHT onto Local road(s)	3,0 km	
+09:17	16,9	Arrive T-korsning Kasenberg S		
+
+SUMMARY
+Driving distance:  16,9 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  20,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,2 kilometres (6 minutes)
+09:00	0,0	Depart T-korsning Svanskog N on Strandvägen (North-West)	0,3 km	
+09:00	0,3	Road name changes to Local road(s)	0,6 km	
+09:00	0,9	Keep STRAIGHT onto Strand Solhem	0,4 km	
+09:01	1,3	Road name changes to Local road(s)	1,8 km	
+09:02	3,2	Keep STRAIGHT onto Hallanda Stationen	0,2 km	
+09:02	3,4	Keep STRAIGHT onto Local road(s)	0,5 km	
+09:03	3,8	At Untitled 19, stay on Local road(s) (North)	1,8 km	
+09:04	5,6	Bear LEFT (North-West) onto Local road(s)	1,6 km	
+09:05	7,2	Road name changes to Kettilsbyn Hagbacken	0,3 km	
+09:05	7,5	Road name changes to Local road(s)	70 m	
+09:05	7,6	Bear RIGHT (North-East) onto Local road(s)	0,4 km	
+09:06	8,0	Bear LEFT (North) onto Local road(s)	0,2 km	
+09:06	8,2	Arrive Korsning Kettilsbyn		
+
+SUMMARY
+Driving distance:  8,2 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  9,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,2 kilometres (6 minutes)
+09:00	0,0	Depart Korsning Kettilsbyn on Local road(s) (South)	0,2 km	
+09:00	0,2	Bear RIGHT (South-West) onto Local road(s)	0,4 km	
+09:00	0,6	Bear LEFT (South) onto Local road(s)	70 m	
+09:00	0,7	Road name changes to Kettilsbyn Hagbacken	0,3 km	
+09:00	0,9	Road name changes to Local road(s)	1,6 km	
+09:02	2,6	Bear RIGHT (South) onto Local road(s)	1,8 km	
+09:03	4,3	At T-korsning Hallanda, stay on Local road(s) (South)	0,5 km	
+09:03	4,8	Keep STRAIGHT onto Hallanda Stationen	0,2 km	
+09:03	5,0	Keep STRAIGHT onto Local road(s)	1,8 km	
+09:05	6,8	Road name changes to Strand Solhem	0,4 km	
+09:05	7,3	Keep STRAIGHT onto Local road(s)	0,6 km	
+09:06	7,9	Road name changes to Strandvägen [Villa Svansjön]	0,3 km	
+09:06	8,2	Arrive T-korsning Svanskog N		
+
+SUMMARY
+Driving distance:  8,2 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  9,24 kr
+
+Svanskogsvägen
+
+4.0 km/4.0 km	3 min 26 s/3 min 26 s	70
+5.5 km/5.5 km	4 min 43 s/4 min 43 s
+5.6 km/5.6 km	4 min 48 s/4 min 48 s
+
+0.7 km/0.7 km	0 min 36 s/0 min 36 s	50
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+
+3.8 km/3.9 km	3 min 15 s/3 min 21 s	70
+4.4 km/4.3 km	3 min 46 s/3 min 41 s
+

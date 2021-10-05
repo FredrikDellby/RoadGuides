@@ -1,0 +1,155 @@
+
+
+Interchange Sint Stevens-Woluwe
+ R0
+
+Afrit 21
+ Sterrebeek
+ N227:
+
+Park Everberg
+
+Afrit 22
+ Bertem
+ N3:
+
+Interchange Heverlee
+ A2:
+
+Tank Heverlee
+Benzin: Shell
+
+Afrit 23
+ Haasrode, Blanden
+ N25:
+
+Afrit 23a
+ Haasrode-Research
+ N25:
+
+Afrit 24
+ Boutersem
+ N234:
+
+Park Willebringen
+(västgående riktning)
+
+Afrit 25
+ Tienen
+ N29:
+
+Tank Tienen / Hélécine
+Benzin: Total (östgående)
+        Shell (västgående)
+Flandern / Vallonien
+Flembish Brabant / Brabant
+
+Sortie 26
+ Hélécine
+ N279:
+
+Sortie 27
+ Lincent
+ N64:
+
+Aire de Waasmont
+
+Sortie 28
+ Landen
+ N80:
+
+Sortie 28a
+ Berloz
+ N615:
+
+Aire de Bettincourt
+Benzin: Total
+
+Sortie 29
+ Waremme
+ N69:
+
+Aire de Pousset
+(västgående riktning)
+
+Sortie 30
+ Crisnée
+ N614:
+
+Aire de Louhin
+
+Sortie 31
+ Hognoul
+ N694:
+
+Interchange Loncin
+ A15, A602
+
+Sortie 32
+ Alleur
+
+Sortie 33
+ Rocourt
+ N20:
+
+Interchange Vottem
+ A13
+
+Interchange Hauts-Sarts
+(avfart västgående riktning
+påfart östgående riktning)
+ A601
+Sortie 34
+ Hauts-Sarts
+
+Sortie 35
+ Herstal
+ N671:
+
+(Viaduc de Chertal)
+
+Interchange Cheratte
+ A25 s: Liège-Centre
+ A25 n: Maastricht
+
+Sortie 36
+ Barchon
+ N604:
+
+Aire de Barchon
+Benzin: Shell
+
+Aire de Melen
+(östgående riktning)
+
+Sortie 37
+ Herve
+ N3:
+
+(Viaduct de José)
+(Viaduct de Herve)
+
+Aire d'Haut Regard
+(västgående riktning)
+
+Interchange Batticee
+ A27: Trier
+
+Sortie 37b
+ Thimister-Clermont
+
+Aire d'Haut Vent
+
+Sortie 38
+ Eupen, Welkenraedt
+ N67:
+
+Aire de Walhornerheide
+
+Sortie 39
+ Eynatten
+
+Sortie 40
+ Lichtenbusch
+Rast Lichtenbusch
+Belgien / Tyskland 

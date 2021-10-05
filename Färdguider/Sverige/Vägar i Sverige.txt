@@ -1,0 +1,79 @@
+Riksvägar
+
+  9: Trelleborg - Brösarp
+
+ 11: Malmö - Simrishamn
+
+ 13: Ängelholm - Ystad
+
+ 16: Bjärred - Dalby
+
+ 17: Landskrona - Fogdarp (E22)
+
+ 19: Kristianstad - Ystad
+
+ 23: Oskarshamn - Hurva (E22)
+
+ 24: Mellbystrand - Hässleholm
+
+ 25: Halmstad - Kalmar
+
+ 26: Örklingen (E45) - Halmstad
+
+ 27: Borås - Växjö
+ 28: Sandsjön (Rv 31) - Karlskrona
+ 29: - Karlshamn
+
+ 30: Jönköping - Ronneby
+ 31: Jönköping - Nybro
+ 32: Motala - Vetlanda
+ 33: Jönköping - Västervi
+ 34: Linköping - E22
+ 35: Linköping - Västervik
+ 36: Motala - Linköping
+ 40: Göteborg - Jönköping
+ 41: Borås - Varberg
+ 42: Trollhättan - Borås
+ 44: Uddevalla - Götene
+ 46: Skövde - Ulricehamn
+ 47: Trollhättan - Jönköping
+ 49: Skara - Askersund
+ 50: Söderhamn - Jönköping (Bergslagsdiagonalen)
+ 51: Kumla - Norrköping
+ 52: Kumla - Nyköping
+ 53: Kolbäck - Oxelösund
+ 55: Uppsala - Norrköping
+ 56: Köping - Norrköping
+ 57: Katrineholm - Järna
+ 61: Morokulien - Karlstad
+ 62: (Trysil-) Höljes - Karlstad
+ 63: Karlstad - Ludvika
+ 66: Ludvika - Västerås
+ 67: Gävle - Västerås
+ 68: Sandviken - Örebro
+ 70: (Norge-) Idre - Enköping
+ 71: Sälen - Borlänge
+ 72: Sala - Uppsala
+ 73: Stockholm - Nynäshamn
+ 80: Rättvik - Gävle
+ 83: Ånge - E4
+ 84: (Röros-) Fjällnäs - Hudiksvall
+ 86: Bispgården - Sundsvall
+ 87: Östersund - Sollefteå
+ 90: Meselefors (E45) - Utansjö (E4)
+ 92: Dorotea - Vännäs
+ 94: Arvidsjaur - Luleå
+ 95: Norge - Skellefteå
+ 97: Jokkmokk - Luleå
+ 99: Karesuando - Haparandra
+
+Länsvägar:
+ 100: Vellinge - Skanör
+ 101: Malmö - Mossbystrand (Rv 9)
+ 102: Veberöd - Skurup
+ 103: Lomma (E6-E20) - Lund
+ 104: Saxtorp (Lv 110) - Sjöbo
+ 105: Lv 115 - Hjärup (E6-E20)
+ 107: Ängelholm - Bjuv (Lv 110)
+
+ 

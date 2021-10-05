@@ -1,0 +1,24 @@
+Trafikplats Kärrbogärde
+ Ingared V
+					1,0 km/1.2 km	40 s/48 s
+Trafikplats Ingared
+ Hemsjö,
+ Ingared Ö, Norsesund
+					0.6 km/0.5 km	24 s/20 s
+T-korsning Godisfabriken
+					2.0 km/2.1 km	1 min 20 s/1 min 24 s
+T-korsning Hästeryd
+ Hemsjö
+					3.2 km/3.2 km	2 min 8 s/2 min 8 s
+Korsning V. Bodarna
+ Västra Bodarna
+					1.4 km/1.4 km	56 s/56 s
+T-korsning Vardsjön S
+ Rastplats Vardsjön
+					0.7 km/0.7 km	28 s/28 s
+T-korsning Vardsjön N
+ Rastplats Vardsjön
+					1.1 km/1.1 km	44 s/44 s
+Korsning Hedvigsborg
+ Bensinstation: Statoil (b), Preem
+					1.0 km/1.1 km	51 s/57 s

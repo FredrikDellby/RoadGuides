@@ -1,0 +1,33 @@
+
+Rondell Fredrikstad sentrum
+ Sentrum
+					0.3 km/0.2 km	22 s/14 s
+Rondell
+					1.4 km/1.4 km	1 min 41 s/1 min 41 s
+Rondell Rv 110/Gamlebyveien
+ Gamlebyen
+					0.6 km/0.5 km	43 s/36 s
+Rondell Rv 110/Rv 111
+ 111: Rakkestad, Sarpsborg
+					4.2 km/4.2 km	5 min 2 s/5 min 2 s
+T-korsning Rv 110/Fv113
+ Sellebakk
+					0.4 km/0.4 km	29 s/29 s
+T-korsning Rv 110/Grimstadveien
+ Krossnes
+					1.6 km/1.6 km	1 min 36 s/1 min 36 s
+T-korsning Självika-vest
+ Korssnes
+					0.9 km/0.9 km	1 min 5 s/1 min 5 s
+T-korsning Självika-öst
+ Årum
+Fredrikstad / Sarpsborg
+					5.4 km/5.8 km	4 min 38 s/4 min 58 s
+Kryss Solberg (4)
+ E6 s: Göteborg, Halden
+ E6 n: Oslo, Sarpsborg
+					1.9 km/1.6 km	1 min 38 s/1 min 22 s
+Järnvägskorsning
+T-korsning Skjeberg
+ 118 s: Halden
+ 118 n: Sarpsborg

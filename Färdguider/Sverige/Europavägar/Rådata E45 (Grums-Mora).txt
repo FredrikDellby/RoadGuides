@@ -1,0 +1,180 @@
+Time	Km	Instruction	For	Toward
+Summary:  34,3 kilometres (25 minutes)
+09:00	0,0	Depart Korsning Sunne V on E45 (North)	0,8 km	
+09:00	0,8	At Korsning E45/Bergavägen, stay on E45 (North)	1,1 km	
+09:01	1,9	At T-korsning Holmby, stay on E45 (North)	0,6 km	
+09:02	2,5	At T-korsning Ulfsby, stay on E45 [Ulfsby] (North)	11,6 km	
+09:10	14,1	At Korsning Stöpafors S, stay on E45 (North)	1,1 km	
+09:11	15,2	At Korsning Stöpafors N, stay on E45 (North)	1,6 km	
+09:12	16,8	At E45, 686 93 Sunne, stay on E45 (North)	3,7 km	
+09:15	20,5	At Korsning Västra Berga, stay on E45 (North)	3,1 km	
+09:17	23,6	At Korsning Bjälverud, stay on E45 (North)	3,8 km	
+09:20	27,4	At Inlandsvägen, 686 93 Sunne, stay on E45 [Inlandsvägen] (North-West)	2,5 km	
+09:22	29,8	At Korsning Bredviken, stay on E45 [Inlandsvägen] (North)	3,3 km	
+09:25	33,1	At T-korsning Torsby södra, stay on E45 [Inlandsvägen] (North-West)	1,2 km	
+09:25	34,3	Arrive Inlandsvägen, 685 33 Torsby		
+
+SUMMARY
+Driving distance:  34,3 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  40,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,4 kilometres (26 minutes)
+09:00	0,0	Depart 239, 685 32 Torsby on Local road(s) (South)	50 m	
+09:00	0,1	Bear RIGHT (South-East) onto E45 [Inlandsvägen]	1,0 km	
+09:00	1,1	At T-korsning Torsby södra, stay on E45 [Inlandsvägen] (South-East)	3,5 km	
+09:03	4,5	At Korsning Bredviken, stay on E45 [Inlandsvägen] (South)	2,5 km	
+09:05	7,0	At E45, 686 93 Sunne, stay on E45 (South-East)	3,8 km	
+09:08	10,8	At Korsning Bjälverud, stay on E45 (South)	3,1 km	
+09:10	13,9	At Korsning Västra Berga, stay on E45 (South)	3,7 km	
+09:13	17,6	At E45, 686 93 Sunne, stay on E45 (South)	1,6 km	
+09:14	19,2	At Korsning Stöpafors N, stay on E45 (South)	1,1 km	
+09:15	20,3	At Korsning Stöpafors S, stay on E45 (South)	11,6 km	
+09:24	31,9	At T-korsning Ulfsby, stay on E45 (South)	0,6 km	
+09:24	32,5	At T-korsning Holmby, stay on E45 (South)	1,1 km	
+09:25	33,6	At Korsning E45/Bergavägen, stay on E45 (South)	0,8 km	
+09:26	34,4	Arrive Korsning Sunne V		
+
+SUMMARY
+Driving distance:  34,4 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  40,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  44,9 kilometres (35 minutes)
+09:00	0,0	Depart Korsning Värnäs on E45 [Inlandsvägen] (North-East)	16,0 km	
+09:12	16,0	At Inlandsvägen, 782 91 Malung, stay on E45 [Inlandsvägen] (North-East)	3,5 km	
+09:14	19,5	At T-korsning Rastplats, stay on E45 [Inlandsvägen] (East)	0,9 km	
+09:15	20,4	At T-korsning Lisskogsåsen, stay on E45 [Inlandsvägen] (North-East)	23,2 km	
+09:33	43,6	At T-korsning Malung V, stay on E45 [Brogatan] (North-East)	0,4 km	
+09:33	44,0	At Brogatan 8, 782 35 Malung, stay on E45 [Brogatan] (East)	0,3 km	
+09:34	44,3	At T-korsning Malung Centrum, stay on E45 [Grönlandsvägen] (North-East)	0,6 km	
+09:35	44,9	Arrive Inlandsvägen 18, 782 31 Malung		
+
+SUMMARY
+Driving distance:  44,9 kilometres
+Trip duration:  35 minutes
+Driving time:  35 minutes
+Cost:  51,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,0 kilometres (35 minutes)
+09:00	0,0	Depart T-korsning E45/Källvägen on E45 [Inlandsvägen] (South)	0,6 km	
+09:00	0,6	At Korsning Malung Centrum, stay on E45 [Grönlandsvägen] (South-West)	0,3 km	
+09:01	0,9	At E45, 782 31 Malung, stay on E45 [Brogatan] (West)	0,4 km	
+09:01	1,3	At T-korsning Malung V, stay on E45 [Brogatan] (South-West)	23,3 km	
+09:19	24,6	At T-korsning Lisskogsåsen, stay on E45 [Inlandsvägen] (South-West)	0,9 km	
+09:20	25,5	At T-korsning Rastplats, stay on E45 [Inlandsvägen] (West)	3,5 km	
+09:23	29,0	At Inlandsvägen, 782 91 Malung, stay on E45 [Inlandsvägen] (South-West)	16,0 km	
+09:35	45,0	Arrive Korsning Värnäs		
+
+SUMMARY
+Driving distance:  45,0 kilometres
+Trip duration:  35 minutes
+Driving time:  35 minutes
+Cost:  52,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,1 kilometres (25 minutes)
+09:00	0,0	Depart Inlandsvägen 18, 782 31 Malung on Local road(s) (East)	40 m	
+09:00	0,1	Turn RIGHT (North) onto E45 [Inlandsvägen]	15,9 km	
+09:12	15,9	At T-korsning Öje södra, stay on E45 [Inlandsvägen] (North)	0,7 km	
+09:13	16,6	At T-korsning Öje östra, stay on E45 [Inlandsvägen] (North-East)	7,8 km	
+09:19	24,4	At near Ögviken, stay on E45 [Inlandsvägen] (East)	7,7 km	
+09:25	32,1	Arrive T-korsning Johannisholm		
+
+SUMMARY
+Driving distance:  32,1 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  37,19 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,3 kilometres (25 minutes)
+09:00	0,0	Depart 26 3, 792 92 Mora on E45 [26] (South)	0,3 km	
+09:00	0,3	Turn RIGHT (South-West) onto E45 [Inlandsvägen]	7,7 km	
+09:06	8,0	At Inlandsvägen, 792 92 Mora, stay on E45 [Inlandsvägen] (West)	7,8 km	
+09:12	15,7	At T-korsning Öje östra, stay on E45 [Inlandsvägen] (South-West)	0,7 km	
+09:13	16,4	At T-korsning Öje södra, stay on E45 [Inlandsvägen] (South)	15,8 km	
+09:25	32,3	Arrive KÄLLvägen, 782 33 Malung		
+
+SUMMARY
+Driving distance:  32,3 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  37,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,9 kilometres (30 minutes)
+09:00	0,0	Depart T-korsning Johannisholm on E45 [26] (North)	3,1 km	
+09:02	3,1	At T-korsning Sjöändan, stay on E45 [26] (East)	15,8 km	
+09:14	18,9	At T-korsning Siljansfors, stay on E45 [26] (North)	3,1 km	
+09:17	22,0	At near Åmberg, stay on E45 [26] (East)	2,8 km	
+09:19	24,8	At T-korsning, stay on E45 [26] (East)	1,1 km	
+09:20	26,0	At T-korsning, stay on E45 [26] (North)	0,8 km	
+09:20	26,8	At Korsning Södra Vika, stay on E45 [26] (North)	4,1 km	
+09:23	30,9	At Korsning N Vika E45, stay on E45 [26] (East)	2,5 km	
+09:26	33,4	At 26, 792 36 Mora, stay on E45 [26] (North)	0,6 km	
+09:26	34,0	At Korsning Mora södra, stay on E45 [26] (North-East)	1,6 km	
+09:28	35,6	At Korsning, stay on E45 [26] (North-East)	0,3 km	
+09:29	35,9	At near Mora, stay on E45 [26] (North-West)	0,4 km	
+09:29	36,3	At 26 9, 792 32 Mora, stay on E45 [26] (North-East)	50 m	
+09:29	36,4	At roundabout, take the SECOND exit onto E45 [Strandgatan]	0,5 km	
+09:30	36,9	Arrive T-korsning E45/Älvgatan		
+
+SUMMARY
+Driving distance:  36,9 kilometres
+Trip duration:  30 minutes
+Driving time:  30 minutes
+Cost:  43,63 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,7 kilometres (30 minutes)
+09:00	0,0	Depart T-korsning E45/Älvgatan on E45 [70] (South-West)	0,5 km	
+09:00	0,5	At roundabout, take the SECOND exit onto E45 [Strandgatan]	0,3 km	
+09:01	0,8	At Korsning E45/Köpmannag., stay on E45 [26] (South-West)	0,4 km	
+09:01	1,2	At T-korsning E45/Yvdradsv., stay on E45 [26] (South)	1,7 km	
+09:04	2,9	At Korsning Mora södra, stay on E45 [26] (South-West)	0,6 km	
+09:04	3,5	At 26, 792 36 Mora, stay on E45 [26] (South)	2,5 km	
+09:06	6,0	At Korsning N Vika E45, stay on E45 [26] (South-West)	4,1 km	
+09:09	10,1	At Korsning Södra Vika, stay on E45 [26] (South)	0,8 km	
+09:10	10,9	At T-korsning, stay on E45 [26] (South)	1,1 km	
+09:11	12,1	At T-korsning, stay on E45 [26] (West)	2,8 km	
+09:13	14,9	At 26, 792 92 Mora, stay on E45 [26] (West)	2,9 km	
+09:15	17,8	At T-korsning Siljansfors, stay on E45 [26] (South)	16,0 km	
+09:28	33,8	At T-korsning Sjöändan, stay on E45 [26] (South-West)	2,9 km	
+09:30	36,7	Arrive 26 3, 792 92 Mora		
+
+SUMMARY
+Driving distance:  36,7 kilometres
+Trip duration:  30 minutes
+Driving time:  30 minutes
+Cost:  43,36 kr
+
+
+
+1.1 km/1.2 km	1 min 6 s/1 min 12 s	60
+1.0 km/0.8 km	0 min 60 s/0 min 48 s
+1.7 km/1.7 km	1 min 42 s/1 min 42 s
+0.6 km/0.6 km	0 min 36 s/0 min 36 s
+
+5.3 km/5.3 km	3 min 59 s/3 min 59 s	80
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+7.4 km/7.7 km	5 min 33 s/5 min 47 s
+
+1.4 km/1.1 km	1 min 41 s/1 min 19 s	50
+
+19.9 km/20.1 km	14 min 55 s/15 min 5 s	80
+0.6 km/0.4 km	0 min 27 s/0 min 18 s
+
+16.0 km/16.0 km	11 min 60 s/11 min 60 s	80
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+23.2 km/23.3 km	17 min 24 s/17 min 29 s
+
+0.4 km/0.4 km	0 min 36 s/0 min 36 s	40
+0.4 km/0.3 km	0 min 36 s/0 min 27 s
+0.4 km/0.4 km	0 min 36 s/0 min 36 s

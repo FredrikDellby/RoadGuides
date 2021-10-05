@@ -1,0 +1,87 @@
+Time	Km	Instruction	For	Toward
+Summary:  26,6 kilometres (21 minutes)
+09:00	0,0	Depart 22, 1900 Fet on 22 [Fetveien] (East)	60 m	
+09:00	0,1	At roundabout, take the SECOND exit onto 170	4,2 km	
+09:03	4,2	At 170, 1925 Sørum, stay on 170 (East)	7,5 km	
+09:09	11,8	At near Hogsetfeltet, stay on 170 (East)	0,8 km	
+09:09	12,6	At 238, 1930 Aurskog-Høland, stay on 170 (South-East)	1,8 km	
+09:11	14,4	At 238, 1930 Aurskog-Høland, stay on 170 (East)	2,3 km	
+09:13	16,7	At roundabout, take the SECOND exit onto 170	1,6 km	
+09:14	18,3	At 170, 1930 Aurskog-Høland, stay on 170 (South-East)	1,6 km	
+09:15	19,9	At Flatbyveien 1, 1930 Aurskog-Høland, stay on 170 (East)	1,1 km	
+09:16	21,0	At 170, 1930 Aurskog-Høland, stay on 170 (East)	1,5 km	
+09:17	22,5	At 170, 1930 Aurskog-Høland, stay on 170 (East)	4,2 km	
+09:21	26,6	Arrive 170, 1940 Aurskog-Høland		
+
+SUMMARY
+Driving distance:  26,6 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  36,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,5 kilometres (20 minutes)
+09:00	0,0	Depart 115, 1940 Aurskog-Høland on 170 (North)	4,2 km	
+09:03	4,2	At 170, 1930 Aurskog-Høland, stay on 170 (West)	1,5 km	
+09:04	5,7	At 170, 1930 Aurskog-Høland, stay on 170 (West)	1,1 km	
+09:05	6,7	At Flatbyveien 1, 1930 Aurskog-Høland, stay on 170 (West)	1,5 km	
+09:06	8,2	At 170, 1930 Aurskog-Høland, stay on 170 (North-West)	1,6 km	
+09:08	9,8	At roundabout, take the SECOND exit onto 170	2,4 km	
+09:10	12,2	At 170, 1930 Aurskog-Høland, stay on 170 (West)	1,8 km	
+09:11	14,0	At 238, 1930 Aurskog-Høland, stay on 170 (North-West)	0,8 km	
+09:12	14,9	At near Hogsetfeltet, stay on 170 (West)	7,5 km	
+09:17	22,4	At near Tofsrud, stay on 170 (West)	4,1 km	
+09:20	26,5	Arrive 170, 1900 Fet		
+
+SUMMARY
+Driving distance:  26,5 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  36,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,2 kilometres (10 minutes)
+09:00	0,0	Depart 170, 1940 Aurskog-Høland on 170 (East)	0,8 km	
+09:00	0,8	At 170, 1940 Aurskog-Høland, stay on 170 (East)	11,4 km	
+09:10	12,2	Arrive 21, 1954 Aurskog-Høland		
+
+SUMMARY
+Driving distance:  12,2 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  16,17 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,2 kilometres (10 minutes)
+09:00	0,0	Depart 21, 1954 Aurskog-Høland on 170 (North)	11,3 km	
+09:10	11,3	At 170, 1940 Aurskog-Høland, stay on 170 (West)	0,9 km	
+09:10	12,2	Arrive 115, 1940 Aurskog-Høland		
+
+SUMMARY
+Driving distance:  12,2 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  16,17 kr
+
+Rv 22/Rv 170 - Rv 170/Rv 171
+4.2 km/4.1 km	3 min 36 s/3 min 31 s	70
+7.5 km/7.5 km	6 min 26 s/6 min 26 s
+0.8 km/0.8 km	0 min 41 s/0 min 41 s
+1.8 km/1.8 km	1 min 33 s/1 min 33 s
+2.3 km/2.4 km	1 min 58 s/2 min 3 s
+
+Rv 170/Rv 171 - Flatbyveien
+1.6 km/1.6 km	1 min 36 s/1 min 36 s	60
+1.6 km/1.5 km	1 min 36 s/1 min 30 s
+
+Flatbyveien - Rv 115/Rv 170
+1.1 km/1.1 km	0 min 57 s/0 min 57 s	70
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+4.2 km/4.2 km	3 min 36 s/3 min 36 s
+
+Rv 115/Rv 170 - Bjørkelangen-øst
+0.8 km/0.9 km	1 min 12 s/1 min 21 s	40
+
+Bjørkelangen-øst - Tangen
+11.4 km/11.3 km	9 min 46 s/9 min 41 s	70
+

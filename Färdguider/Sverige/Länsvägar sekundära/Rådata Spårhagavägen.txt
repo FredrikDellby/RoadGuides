@@ -1,0 +1,23 @@
+Kullavik - Lindåsmotet
+1.9 km/1.9 km	2 min 17 s/2 min 17 s	50
+0.7 km/1.1 km	0 min 50 s/1 min 19 s
+
+Lindåsmotet - Lindomemotet
+2.2 km/1.8 km	1 min 39 s/1 min 21 s	80
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+1.7 km/2.2 km	1 min 17 s/1 min 39 s
+
+Lindomemotet - Lindome K:a
+1.4 km/1.1 km	1 min 41 s/1 min 19 s	50
+1.1 km/1.1 km	1 min 19 s/1 min 19 s
+1.2 km/0.9 km	1 min 26 s/1 min 5 s
+
+Lindome K:a - Inseros Ö
+5.2 km/5.2 km	3 min 54 s/3 min 54 s	70
+4.6 km/4.6 km	3 min 27 s/3 min 27 s
+0.9 km/1.1 km	0 min 41 s/0 min 50 s´
+
+Inseros Ö - Lv 156
+6.9 km/6.7 km	6 min 54 s/6 min 42 s	60
+2.6 km/2.6 km	2 min 36 s/2 min 36 s
+0.6 km/0.6 km	0 min 36 s/0 min 36 s

@@ -1,0 +1,281 @@
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (15 minutes)
+09:00	0,0	Depart 88 on E20 (North-East)	2,2 km	
+09:01	2,2	At 89, stay on E20 (East)	1,6 km	
+09:02	3,8	At Volrath Bergsväg, 448 50 Tollered, stay on E20 (North-East)	0,6 km	
+09:03	4,4	At near Tollered, stay on E20 (North-East)	0,9 km	
+09:03	5,3	At E20, 448 95 Tollered, stay on E20 (North-East)	2,1 km	
+09:05	7,3	At E20, 441 96 Alingsås, stay on E20 (East)	1,0 km	
+09:06	8,3	At E20, 441 96 Alingsås, stay on E20 (North)	0,6 km	
+09:06	8,9	At Godisfabriken, stay on E20 (North)	2,0 km	
+09:07	10,9	At T-korsning Hästeryd, stay on E20 (North-East)	3,2 km	
+09:10	14,1	At Korsning V. Bodarna, stay on E20 (North)	1,4 km	
+09:11	15,5	At Korsning Vardsjön S, stay on E20 (North)	0,7 km	
+09:11	16,2	At Korsning Vardsjön N, stay on E20 (North-East)	1,1 km	
+09:12	17,3	At Untitled 3, stay on E20 (East)	1,0 km	
+09:13	18,3	At roundabout, take the SECOND exit onto E20 [Sveaplan]	1,0 km	
+09:15	19,3	Arrive Korsning Götaplan		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  24,74 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,1 kilometres (15 minutes)
+09:00	0,0	Depart Korsning Götaplan on E20 [Götaplan] (South-West)	0,9 km	
+09:01	0,9	At roundabout, take the SECOND exit onto E20 [Sveaplan]	1,1 km	
+09:02	2,0	At Korsning Alingsås syd, stay on E20 (South-West)	1,1 km	
+09:03	3,1	At Korsning Vardsjön N, stay on E20 (South-West)	0,7 km	
+09:03	3,8	At Korsning Vardsjön S, stay on E20 (South)	1,4 km	
+09:04	5,2	At Korsning V. Bodarna, stay on E20 (South)	3,2 km	
+09:07	8,4	At T-korsning Hästeryd, stay on E20 (South-West)	2,1 km	
+09:08	10,4	At Godisfabriken, stay on E20 (South)	0,5 km	
+09:09	10,9	At E20, 441 96 Alingsås, stay on E20 (South)	1,2 km	
+09:09	12,1	At E20, 441 65 Alingsås, stay on E20 (West)	2,0 km	
+09:11	14,1	At E20, 448 96 Tollered, stay on E20 (South-West)	0,7 km	
+09:11	14,7	At E20, 448 50 Tollered, stay on E20 (South-West)	0,9 km	
+09:12	15,6	At E20, 448 50 Tollered, stay on E20 (South)	1,3 km	
+09:13	16,9	At 89, stay on E20 (West)	2,2 km	
+09:15	19,1	Arrive 88		
+
+SUMMARY
+Driving distance:  19,1 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  24,44 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (14 minutes)
+09:00	0,0	Depart Korsning Götaplan on E20 [Götaplan] (East)	0,3 km	
+09:00	0,3	At near Alingsås, stay on E20 (East)	0,7 km	
+09:01	1,0	At Untitled 5, stay on E20 (East)	1,1 km	
+09:01	2,1	At E20, 441 39 Alingsås, stay on E20 (North-East)	2,1 km	
+09:03	4,2	At T-korsning Bälinge K:a, stay on E20 (North-East)	0,4 km	
+09:03	4,6	At T-korsning Ljurhalla, stay on E20 (North)	0,6 km	
+09:04	5,2	At T-korsning Risa, stay on E20 (North-East)	0,9 km	
+09:05	6,1	At T-korsning Marbogården, stay on E20 (North-East)	0,4 km	
+09:05	6,5	At T-korsning Marbogården, stay on E20 (East)	1,3 km	
+09:06	7,8	At T-korsning Hol västra, stay on E20 (East)	1,1 km	
+09:07	9,0	At Korsning Hol kyrka, stay on E20 (East)	1,6 km	
+09:08	10,5	At T-korsning Hol motell, stay on E20 (North-East)	1,3 km	
+09:09	11,8	At T-korsning Bäne, stay on E20 (North-East)	2,4 km	
+09:11	14,2	At T-korsning Lagmansholm, stay on E20 (East)	1,7 km	
+09:12	15,9	At T-korsning Tubbetorp, stay on E20 (East)	2,4 km	
+09:14	18,4	Arrive E20, 447 91 Vårgårda		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,6 kilometres (14 minutes)
+09:00	0,0	Depart E20, 447 91 Vårgårda on E20 [42] (South)	2,6 km	
+09:01	2,6	At T-korsning Tubbetorp, stay on E20 (West)	1,7 km	
+09:03	4,3	At T-korsning Lagmansholm, stay on E20 (West)	2,4 km	
+09:05	6,8	At T-korsning Bäne, stay on E20 (South-West)	1,1 km	
+09:05	7,8	At Infart_Statoil, stay on E20 (South-West)	1,8 km	
+09:07	9,6	At Korsning Hol kyrka, stay on E20 (West)	1,1 km	
+09:08	10,8	At T-korsning Hol västra, stay on E20 (West)	1,3 km	
+09:09	12,0	At T-korsning Marbogården, stay on E20 (West)	0,3 km	
+09:09	12,3	At near Skakeltorp, stay on E20 (South-West)	1,0 km	
+09:10	13,4	At T-korsning Risa, stay on E20 (South-West)	0,6 km	
+09:10	14,0	At T-korsning Ljurhalla, stay on E20 (South)	0,4 km	
+09:11	14,4	At T-korsning Bälinge K:a, stay on E20 (South-West)	2,0 km	
+09:12	16,4	At E20, 441 93 Alingsås, stay on E20 (South-West)	1,2 km	
+09:13	17,6	At Korsning Kristineholm, stay on E20 (West)	0,6 km	
+09:14	18,2	At near Alingsås, stay on E20 (West)	0,3 km	
+09:14	18,6	Arrive Korsning Götaplan		
+
+SUMMARY
+Driving distance:  18,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,60 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,4 kilometres (22 minutes)
+09:00	0,0	Depart E20, 447 91 Vårgårda on E20 (North)	1,0 km	
+09:00	1,0	At E20, 447 37 Vårgårda, stay on E20 [42] (North)	1,4 km	
+09:01	2,4	At E20, 447 37 Vårgårda, stay on E20 [42] (North-East)	1,4 km	
+09:02	3,8	At T-korsning Vårgårds N, stay on E20 (North)	0,9 km	
+09:03	4,7	At T-korsning Lund, stay on E20 (North)	3,9 km	
+09:06	8,6	At T-korsning St. Härene, stay on E20 (North-East)	0,3 km	
+09:06	8,9	At T-korsning St. Härene k:a, stay on E20 (North)	0,7 km	
+09:07	9,6	At T-korsning Tegalund, stay on E20 (North-East)	1,3 km	
+09:08	11,0	At T-korsning Ribbingsberg, stay on E20 (North)	0,7 km	
+09:08	11,7	At E20, 465 95 Nossebro, stay on E20 (North-East)	2,6 km	
+09:10	14,3	At Korsning Bragnum, stay on E20 (North)	0,6 km	
+09:11	14,9	At T-korsning Lekåsa, stay on E20 (North)	2,0 km	
+09:12	16,9	At near Lekåsa, stay on E20 (North-East)	1,4 km	
+09:13	18,3	At Korsning Eling, stay on E20 (North)	5,3 km	
+09:17	23,6	At T-korsning Vara motell, stay on E20 (North)	2,4 km	
+09:19	26,0	At T-korsning Naum, stay on E20 (North)	2,7 km	
+09:21	28,6	At near Vara, stay on E20 (East)	0,7 km	
+09:22	29,4	Arrive E20, 534 50 Vara	
+
+Time	Km	Instruction	For	Toward
+Summary:  29,0 kilometres (21 minutes)
+09:00	0,0	Depart E20, 534 50 Vara on E20 (South-West)	0,6 km	
+09:00	0,6	At near Vara, stay on E20 (West)	2,6 km	
+09:02	3,2	At T-korsning Naum, stay on E20 (South)	2,2 km	
+09:04	5,4	At T-korsning Vara motell, stay on E20 (South)	5,5 km	
+09:08	10,9	At Korsning Eling, stay on E20 (South)	1,4 km	
+09:09	12,3	At E20, 530 10 Vedum, stay on E20 (South)	1,9 km	
+09:10	14,2	At T-korsning Lekåsa, stay on E20 (South)	0,7 km	
+09:11	14,9	At Korsning Bragnum, stay on E20 (South)	2,6 km	
+09:13	17,6	At E20, 465 95 Nossebro, stay on E20 (South-West)	0,6 km	
+09:13	18,1	At E20, 465 95 Nossebro, stay on E20 (South)	1,5 km	
+09:14	19,6	At T-korsning Tegalund, stay on E20 (South-West)	0,7 km	
+09:15	20,4	At T-korsning St. Härene k:a, stay on E20 (South)	0,3 km	
+09:15	20,7	At T-korsning St. Härene, stay on E20 (South-West)	3,9 km	
+09:18	24,6	At T-korsning Lund, stay on E20 (South)	0,9 km	
+09:19	25,5	At T-korsning Vårgårds N, stay on E20 (South)	1,4 km	
+09:20	26,8	At Trafikplats Vårgårda, 447 37 Vårgårda, keep STRAIGHT to stay on E20 [Trafikplats Vårgårda]	1,5 km	
+09:21	28,3	At near Vårgårda, stay on E20 [42] (South)	0,7 km	
+09:21	29,0	Arrive E20, 447 91 Vårgårda		
+
+SUMMARY
+Driving distance:  29,0 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  32,73 kr
+	
+
+SUMMARY
+Driving distance:  29,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  33,19 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  3,8 kilometres (2 minutes)
+09:00	0,0	Depart E20, 534 50 Vara on E20 (North-East)	1,7 km	
+09:01	1,7	At Korsning Önum Syd, stay on E20 [Önum Ek] (North-East)	0,5 km	
+09:01	2,2	At Önum Ek 1, 534 91 Vara, stay on E20 [Önum Ek] (North-East)	0,6 km	
+09:01	2,8	At T-korsning Önum Nord, stay on E20 (East)	1,0 km	
+09:02	3,8	Arrive E20, 534 95 Vara		
+
+SUMMARY
+Driving distance:  3,8 kilometres
+Trip duration:  2 minutes
+Driving time:  2 minutes
+Cost:  4,81 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  4,3 kilometres (2 minutes)
+09:00	0,0	Depart E20, 534 95 Vara on E20 (South)	1,4 km	
+09:00	1,4	At T-korsning Önum Nord, stay on E20 [Önum Ek] (South-West)	0,5 km	
+09:01	1,9	At T-korsning Önum Ek, stay on E20 [Önum Ek] (South-West)	0,6 km	
+09:01	2,5	At Korsning Önum Syd, stay on E20 (South-West)	1,8 km	
+09:02	4,3	Arrive E20, 534 50 Vara		
+
+SUMMARY
+Driving distance:  4,3 kilometres
+Trip duration:  2 minutes
+Driving time:  2 minutes
+Cost:  5,42 kr
+
+
+
+Olskroksmotet - Munkebäck
+0.8 km/0.2 km	0 min 41 s/0 min 10 s	70
+0.7 km/0.8 km	0 min 36 s/0 min 41 s
+0.9 km/1.2 km	0 min 46 s/1 min 2 s
+
+Munkebäck - Jonsered
+0.8 km/0.8 km	0 min 32 s/0 min 32 s	90
+0.9 km/0.6 km	0 min 36 s/0 min 24 s
+0.5 km/0.5 km	0 min 20 s/0 min 20 s
+2.5 km/2.8 km	1 min 40 s/1 min 52 s
+2.0 km/1.5 km	1 min 20 s/1 min 0 s
+0.8 km/1.2 km	0 min 32 s/0 min 48 s
+1.0 km/0.8 km	0 min 40 s/0 min 32 s
+
+Jonsered - Floda
+1.7 km/1.6 km	0 min 56 s/0 min 52 s	110
+4.0 km/4.0 km	2 min 11 s/2 min 11 s
+3.9 km/4.1 km	2 min 8 s/2 min 14 s
+5.2 km/5.2 km	2 min 50 s/2 min 50 s
+
+Floda - Tollered
+2.2 km/2.2 km	1 min 19 s/1 min 19 s	100
+1.6 km/1.3 km	0 min 58 s/0 min 47 s
+
+Tollered - Alingsås syd
+0.6 km/0.9 km	0 min 24 s/0 min 36 s	90
+0.9 km/0.7 km	0 min 36 s/0 min 28 s
+2.1 km/2.0 km	1 min 24 s/1 min 20 s
+1.0 km/1.2 km	0 min 40 s/0 min 48 s
+0.6 km/0.5 km	0 min 24 s/0 min 20 s
+2.0 km/2.1 km	1 min 20 s/1 min 24 s
+3.2 km/3.2 km	2 min 8 s/2 min 8 s
+1.4 km/1.4 km	0 min 56 s/0 min 56 s
+0.7 km/0.7 km	0 min 28 s/0 min 28 s
+1.1 km/1.1 km	0 min 44 s/0 min 44 s
+
+Alingsås syd - Kristineholm
+1.0 km/1.1 km	0 min 51 s/0 min 57 s	70
+1.0 km/0.9 km	1 min 0 s/0 min 54 s	60
+0.3 km/0.3 km	0 min 18 s/0 min 18 s
+0.7 km/0.6 km	0 min 42 s/0 min 36 s
+
+Kristineholm - Hjultorp
+1.1 km/1.2 km	0 min 50 s/0 min 54 s	80
+2.1 km/2.0 km	1 min 35 s/1 min 30 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+0.9 km/1.0 km	0 min 41 s/0 min 45 s
+0.4 km/0.3 km	0 min 18 s/0 min 14 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+1.6 km/1.8 km	1 min 12 s/1 min 21 s
+1.3 km/1.1 km	0 min 59 s/0 min 50 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+2.4 km/2.6 km	1 min 48 s/1 min 57 s
+
+Hjultorp - Vara
+1.0 km/0.7 km	0 min 40 s/0 min 28 s	90
+1.4 km/1.5 km	0 min 56 s/1 min 0 s
+1.4 km/1.4 km	0 min 56 s/0 min 56 s
+0.9 km/0.9 km	0 min 36 s/0 min 36 s
+3.9 km/3.9 km	2 min 36 s/2 min 36 s
+0.3 km/0.3 km	0 min 12 s/0 min 12 s
+0.7 km/0.7 km	0 min 28 s/0 min 28 s
+1.3 km/1.5 km	0 min 52 s/1 min 0 s
+0.7 km/0.6 km	0 min 28 s/0 min 24 s
+2.6 km/2.6 km	1 min 44 s/1 min 44 s
+0.6 km/0.7 km	0 min 24 s/0 min 28 s
+2.0 km/1.9 km	1 min 20 s/1 min 16 s
+1.4 km/1.4 km	0 min 56 s/0 min 56 s
+5.3 km/5.5 km	3 min 32 s/3 min 40 s
+2.4 km/2.2 km	1 min 36 s/1 min 28 s
+2.7 km/2.6 km	1 min 48 s/1 min 44 s
+0.7 km/0.6 km	0 min 28 s/0 min 24 s
+
+Vara - Åsen
+1.7 km/1.8 km	1 min 8 s/1 min 12 s
+0.5 km/0.6 km	0 min 20 s/0 min 24 s
+0.6 km/0.5 km	0 min 24 s/0 min 20 s
+1.0 km/1.4 km	0 min 40 s/0 min 56 s
+
+Åsen - Vara/Skara
+
+Vara/Skara - Vilan
+
+Vilan - 
+
+
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+0.7 km/0.6 km	0 min 50 s/0 min 43 s
+
+T-korsn. - T-korsn. (förbi Götene)
+8.5 km/8.9 km	5 min 6 s/5 min 20 s	100
+3.0 km/2.6 km	1 min 48 s/1 min 34 s
+
+T-korsn. - Korsning Boamarken E20
+1.3 km/1.3 km	0 min 59 s/0 min 59 s	80

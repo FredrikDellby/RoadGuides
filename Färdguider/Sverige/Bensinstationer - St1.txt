@@ -1,0 +1,344 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Höganäs				-
+   Långarödsvägen
+- Helsingborg				-
+   Furutorpsgatan 78
+- Landskrona Ringvägen			-
+- Svalöv				-
+   Rönnebergsvägen 1
+- Eslöv Ystadsvägen			-
+   Ystadsvägen 12
+- Eslöv Trehäradsvägen			-
+   Trehäradsvägen 37
+- Hörby					-
+   Ringsjövägen 7
+- Löddeköpinge Center Syd		-
+   Marknadsvägen
+- Kävlinge				-
+   Boesholmsvägen 1
+- Lund					-
+   Bondevägen 1
+- Dalby					-
+   V:a Fäladsvägen 16
+- Veberöd				-
+   Mejerigatan 2
+- Malmö Nobelvägen			-
+   Nobelvägen 125
+- Malmö Sallerupsvägen			-*
+   Sallerupsvägen 200
+- Malmö Linnégatan			-
+   Linnégatan 78
+- Malmö Munkhättegatan			-
+   Munkhättegatan 77
+- Malmö Cypressvägen			-
+- Malmö Svågertorp
+- Skurp					-
+   Södergatan 39
+- Trelleborg E6/Stavstensvägen		-
+   Stavstensvägen 137
+
+f.d. Kristianstads län:
+- Ängelholm Verkstadsgatan (Hydro)	-
+   Verkstadsgatan 14
+- Ängelholm Helsingborgsvägen		-
+   Helsingborgsvägen 32
+- Klippan Lisåkravägen E4		-
+- Ljungbyhed				-
+   Storgatan 20
+- Hässleholm Norra Industrigatan	-
+   Norra Industrigatan 1
+- Hässleholm Mackgatan			-
+- Kristianstad				-
+   Långebrogatan 76
+- Åhus					-
+   Fregattvägen 1
+- Tomelilla				-
+   Östergatan 14
+- Simrishamn				-
+   Fabriksgatan/Christian IV:s Väg
+
+
+Blekinge län
+=============
+
+- Olofström					-
+   Östra Ringvägen 294
+- Sölvesborg					-
+   Skånevägen 30
+- Mörrum					-
+   Gustavstorpsvägen 691
+- Karlshamn Jannebergsvägen			-
+   Jannebergsvägen 6
+- Karlshamn Hinseleden				-
+- Bräkne-Hoby					-
+   Bräknevägen 17
+- Kallinge					-
+   Västervägen 1-3
+- Ronneby					-
+   Karlshamnsvägen/Sörbyvägen
+- Fågelmara Riksvägen				-*
+
+
+Hallands län
+=============
+
+- Veddige					-
+   Ringvägen 4
+- Falkenberg Industrivägen			-
+   Industrivägen 1
+- Falkenberg Smidesvägen			-*
+   Smidesvägen 1
+- Oskarström Nissastigen			-
+- Halmstad					-
+   Laholmsvägen/Wrangelsgatan
+
+
+Kronobergs län
+===============
+
+- Markaryd					-
+   Drottninggatan 50
+- Agunnaryd					-
+   Brånavägen 6
+- Älmhult Danska Vägen				-*
+   Danska Vägen 120
+- Älmhult Bäckgatan				-
+- Växjö						-
+   Vingavägen 1
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Vimmerby Norrgårdsgatan			-
+   Norrgårdsgatan 2
+- Vimmerby Södra Industrigatan			-
+   Södra Industrigatan 10
+- Hultsfred					-
+   Oskarsgatan 97
+
+Södra delen:
+- Kalmar Husmorsvägen				-
+   Husmorsvägen 1
+- Kalmar Norra Vägen/Funkabovägen		-
+
+
+Jönköpings län
+===============
+
+- Mullsjö Spåneryd				X
+- Habo Kråkerydsvägen				-
+   Kråkerydsvägen 1
+- Tranås					-
+   Östra Järnvägsgatan 12
+- Jönköping Jordbrovägen			X
+- Jönköping Ekhagsringen			-
+   Ekhagsringen 75
+- Jönköping Värnamovägen			-
+   Värnamovägen 50
+
+Västra delen:
+- Gislaved					X
+   Järnvägsgatan 16
+- Värnamo Malmövägen/Armaturgatan		-
+- Värnamo Trp Värnamo Södra			_
+
+Östra delen:
+- Eksjö						-
+   Kapellvägen/Tuvängsvägen
+- Vetlanda					-*
+   Lasarettsgatan 70
+
+
+Västra Götalands län
+=====================
+
+Inre Göteborgsområdet:
+- Säve (Hydro)					X
+   Bärby Bygdegårdsvägen 1
+- Hisings-Backa Transportgatan			X
+   Transportgatan 60
+- Torslanda Nordhagsvägen			-
+- Göteborg Gustaf Dalénsgatan (Hydro)		X
+   Gustaf Dalénsgatan 21
+- Angered Grepgatan				-
+- Olofstorp Gråbovägen				X
+- Göteborg Tideräkningsgatan			X
+   Tideräkningsgatan 9
+- Göteborg S:t Sigfridsgatan			X
+   S:t Sigfridsgatan 91
+- Västra Frölunda				-
+   Antenngatan 2
+- Mölndal Lammevallsgatan			X
+- Lindome					-
+   Smidesvägen 1
+
+Yttre Göteborgsområdet:
+- Myggenäs Mällbyvägen				-
+- Fagerfjäll					-
+   Fagerfjäll 80
+- Kungälv Rollsbovägen				-
+   Rollsbovägen 44
+- Kungälv Christian IV:s väg			X
+   Christian IV:s väg 1
+- Kungälv Gymnasiegatan				-
+- Lerum						-
+   Göteborgsvägen 2
+- Kungsbacka Varbergsvägen			X
+
+Sjuhärad:
+- Borås						-
+   Ålgårdsvägen 25
+- Ulricehamn					-
+   Karlsnäsvägen 1
+- Hyssna					X
+   Göteborgsvägen 116
+
+Mellersta Västergötland:
+- Vänersborg					-
+   Brogatan 4
+- Trollhättan Vårviksvägen			-*
+- Trollhättan Gärdhemsvägen/Lantmannavägen	-*
+- Lextorp					-
+   Lextorpsvägen 985
+- Lilla Edet					-
+   Göteborgsvägen 12
+- Vårgårda					-
+   Wallentinvägen 30
+- Alingsås					-
+   Borgens Gata - E20
+
+Bohuslän:
+- Strömstad					-
+   Oslovägen 37
+- Lysekil					X
+   Kontorsvägen 2
+- Uddevalla Rotvik				X
+   Rotvik 10
+- Uddevalla Herrestad				-
+   Nordgårdsvägen 1
+- Svanesund					X
+   Färjevägen 2
+
+Dalsland:
+- Bentsfors					-
+   Ekagatan 1
+- Åmål						X
+   Vänersborgsvägen 15
+- Ed						-
+   Industrigatan 2
+- Mellerud					X
+   Kornsjögatan 4
+
+Skaraborg:
+- Hova
+   Mariestadsvägen 36
+- Mariestad Vallby Herrgård
+- Mariestad Björnbärsvägen
+   Björnbärsvägen 1
+- Lidköping Strandgatan
+   Strandgatan 2
+- Lidköping Rörstrandsgatan
+   Rörstrandsgatan 4
+- Götene
+   Lundängsgatan 9
+- Skövde
+   Mariestadsvägen 96
+- Tibro Värsåsvägen
+- Hjo Falköpingsvägen
+   Falköpingsvägen 39
+- Hjo Bangatan
+   Bangatan 17
+- Vara
+   Torggatan 56
+- Falköping Nordmannagatan
+   Nordmannagatan 2
+- Falköping Fredsgatan
+   Fredsgatan 1
+- Falköping Ulricehamnsrondellen
+
+
+Östergötlands län
+==================
+
+Västra delen:
+- Motala
+   Vintergatan 16
+- Mantorp Runvägen CityGross
+   Hjortrongränd 3
+- Linköping Industrigatan
+   Industrigatan 46-48
+- Linköping Torvingegatan
+   Torvingegatan 1
+- Linköping Tallboda
+- Linköping Ekholmsvägen
+   Ekholmsvägen 3
+
+Södra delen:
+- Kisa
+   Västra Vägen 2
+
+Östra delen:
+- Skärblacka
+   Bergslagsvägen 18
+- Norrköping Koppargatan
+   Koppargatan 11
+- Norrköping Stockholmsv.
+   Stockholmsvägen 34
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+- Charlottenberg
+   Glasbruksvägen 28
+- Arvika
+   Mötterudsvägen 1
+- Årjäng
+   Smedgatan 4
+
+Karlstadområdet:
+- Grums
+   Sveagatan 156
+- Karlstad
+   Ventilgatan 1
+
+Norra och Centrala:
+- Hagfors
+   Görsjövägen 1
+
+
+Örebro län
+===========
+
+Värmland/Närke:
+- Karlskoga
+   Häsängsvägen 4
+- Örebro Nejlikegatan
+   Nejlikegatan 2
+- Örebro Karlsundsg./Älvtomtag.
+- Kumla
+   Stenevägen 18
+
+Västra Västmanland:
+- Hällefors
+   Kyllervägen 9
+- Lindesberg
+   Bergmansgatan 8
+
+
+Södermanlands län
+===================
+
+- Eskilstuna
+   Albertina Nyströms väg 1
+- Katrineholm
+   Stockholmsv./Vassmog.
+- Nyköping Skavsta Flygplats
+- Nyköping Norrköpingsvägen
+   Norrköpingsvägen 3

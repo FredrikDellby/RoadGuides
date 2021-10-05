@@ -1,0 +1,33 @@
+Trp Gislaved Norra
+ 26 n: Jönköping, Isaberg
+ 26 s: Halmstad, Smålandsstenar
+ Gislaved C, Handelsområde
+ Restaurang: Burger King, Rosegarden
+
+Etapp 7: Gislaved - Bredaryd (23,6 km/23,4 km)
+					1.9 km/1.7 km	2 min 17 s/2 min 2 s
+Korsning Rv 27/Mårtensg.
+Bensinstation: Preem
+					0.3 km/0.5 km	22 s/36 s
+Korsning Rv 27/Bangatan
+Bensinstation: Shell
+T-korsning Gislaved K:a
+ Burseryd
+					0.5 km/0.6 km	36 s/43 s
+T-korsning Rv 27/Stationsallén
+Bensinstation: Hydro
+Rondell
+					0.7 km/0.5 km	50 s/36 s
+Rondell
+					0.6 km/0.5 km	43 s/36 s
+T-korsning Gyllenfors
+ Reftele
+					0.3 km/0.3 km	22 s/22 s
+T-korsning Henja väg 27
+ Henja industri
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+T-korsning Mossarp
+ Mossarp industri
+					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+T-korsning Anderstorp V
+ Anderstorp, Gnosjö

@@ -1,0 +1,396 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Bilisten Bjuv				-
+- Pump Kågeröd				-
+- Bilisten Röstånga			-
+- Pump Röstånga				-
+- Bilisten Svalöv			-
+- Pump Torrlösa				-
+- Pump Tjörnarp				-
+- Pump Höör				-
+- Bilisten Eslöv			-
+- Pump Dösjebro				-
+- Bilisten Furulund			-
+- Sydoil Furulund			-
+- Q-star Borgeby			-
+- Pump Harlösa				-
+- Pump Rönås/Sjöbo			-
+- Pump Vollsjö				-
+- Pump Malmö				-
+- Bilisten Malmö			-
+- Pump Arrie				-
+- Pump Skanör				-
+- Pump Beddingestrand			-
+
+f.d. Kristianstad län:
+- Pump Ängelholm			-
+- Drakabygget (fri tank)		-
+- (Pump) Emmaljunga			-
+- Pump Åstorp				-
+- Pump Kvidinge				-
+- Pump Klippan				-
+- Pump Ljungbyhed			-
+- Bilisten Perstorp			-
+- Pump Tyringe				-
+- Oljeshejkerna Killeberg		-
+- Bilisten Glimåkra			-
+- Pump Sibbhult				-*
+- Bilisten Broby			-*
+- Pump Hanaskog				-
+- Pump Näsum				-
+- Pump Vinslöv				-
+- Bilisten Färlöv			-
+- Bilisten Önnestad			-
+- Pump Tollarp				-
+- Bilisten Gärds köpinge		-
+- Pump Everöd				-*
+- Huaröd (fri tank)			-
+- Bilisten Tomelilla			-
+- Pump Sankt Olof			-
+
+
+Blekinge län
+=============
+
+- Pump Ysane/Sölvesborg			-
+- Bilisten Asarum			-
+- Q-star Backaryd			-
+- Pump Kallinge				-
+- Bilisten Holmsjö			-
+- Bilisten Tvig				-
+- Pump Fridlevstad/Rödeby		-
+- Bilisten Jämjö			-
+
+
+Hallands län
+=============
+
+- Q-star Tångaberg			-
+- Q-star Källsjö			-
+- Q-star Varberg			-
+- Pump Ätran				-*
+- Bilisten Falkenberg			-
+- Pump Falkenberg			-
+- Bilisten Hyltebruk, Whalbecks bil	-
+- Bilisten Hyltebruk, Taxi Hylte	-
+- Q-star Kvibille			-
+- Bilisten Gullbrandstorp		-
+- Pump Simlångsdalen			-*
+- Pump Halmstad				-*
+- Bilisten Halmstad-Trönninge		-
+- Pump Veinge				-
+- Pump Knäred				-
+- Q-star Skottorp			-*
+- Q-star Edenberga			-
+
+
+Kronobergs län
+===============
+
+Västra delen:
+- Q-star Tannåker			-*
+- Q-star Vittaryd			-
+- Bilisten Lagan			-*
+- Bilisten Lidhult			-
+- Pump Berghem/Ljungby			-*
+- Pump Ryssby				-
+- Pump Markaryd				-*
+- Pump Delary/Älmhult			-*
+- Bilisten Älmhult			-
+- Pump Häradsbäck			-
+
+Östra delen:
+- Pump Norrhult				-
+- Pump Braås				-
+- Oljeshejkerna Öhr			-*
+- Oljeshejkerna Alvesta			-
+- Oljeshejkerna Vislanda		-
+- Bilisten Grimslöv			-*
+- Bilisten Ryd				-
+- Bilisten Tingsryd			-*
+- Pump Fridafors			-
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Q-star Tindered			-*
+- Q-star Odensvi			-*
+- Bilisten Gamleby			-*
+- Q-star Blackstad			-*
+- Q-star Västervik			-
+- Q-star Frödinge			-
+- Q-star Totebo				-
+- Q-star Hjorted			-
+- Pump Silverdalen			-
+- Pump Hultsfred			-
+- Q-star Vena				-
+- Bilisten Järnforsen			-
+- Q-star Kristdala			-
+- Q-star Oskarshamn			-
+
+Södra delen:
+- Fågelfors R-O Trappen			-*
+- Q-star Högsby				-
+- Bilisten Ruda				-
+- Bilisten Mönsterås			-
+- Q-star Timmernabben			-
+- Bilisten Eriksmåla			-
+- Pump Broakulla			-
+- Q-star Trekanten			-*
+- Q-star Kalmar				-*
+- Pump Kalmar				-
+- Bilisten Emmaboda			-
+
+Öland:
+- Pump Stacktorp			-*
+- Pump Köpingsvik			-
+- Ö Pumpen Degerhamn			-
+
+
+Jönköpings län
+===============
+
+Norra delen:
+- Bilisten Brandstorp			-
+- Q-star Habo				-
+- Q-star Sunhultsbrunn			X
+- Bilisten Aneby			-
+- Bilisten Lekeryd			-
+- Q-star Norrahammar			-
+
+Västra delen:
+- Q-star Hok				-
+- Q-star Skillingaryd			-
+- Pump Gislaved				-
+- Pump Hillerstorp			-
+- Pump Anderstorp			-
+- Q-star Anderstorp			X
+- Q-star Kulltorp			-			
+- Q-star Burseryd			-
+- Bilisten Smålandsstenar		X
+- Pump Smålandsstenar			X
+- Bilisten Forsheda			X
+- Q-star Broaryd			-
+- Oljeshejkerna Rydaholm
+
+Östra delen:
+- Q-star Bruzaholm			X
+- Pump Ingatorp				X
+- Pump Malmbäck				-
+- Pump Bodafors				-
+- Q-star Vetlanda			-
+- Pump Myresjö				-
+- Q-star Vrigstad			-
+- Pump Stockaryd			-
+- Bilisten Rörvik			-
+- Pump Ramkvilla			-
+
+
+Västra Götalands län
+=====================
+
+Göteborgsområdet:
+- Bilisten Jörlanda			-
+- Bilisten Älvängen			-*
+- Björkö (fri tank)			-
+- Pump Hönö				-
+- Bilisten Göteborg, Gårda Johan	-*
+- Bilisten Göteborg, Bergsjön		X
+- Bilisten Göteborg, Marinan		-
+
+Sjuhärad:
+- Bilisten Hedared			X
+- Pump Sandhult				X
+- Pump Hultafors			-
+- Bilisten Borgstena			X
+- Q-star Borås				-*
+- Bilisten Dalsjöfors			-
+- Q-star Äspered			X
+- Bilisten Blidsberg			X
+- Bilisten Dalum			X
+- Q-star Hökerum			-
+- Bilisten Ulricehamn			-
+- Q-star Tvärred/Hulu			-
+- Bilisten Fritsla			X
+- Bilisten Horred			-
+- Q-star Torestorp			-
+- Q-star Öxabäck			-
+- Q-star Överlida			-
+- Pump Länghem				X
+- Bilisten Dalstorp			-
+- Q-star Nittorp			X
+- Bilisten Tranemo			-
+- Pump Grimsås				X
+- Q-star Sjötofta			X
+
+Mellersta Västergötland:
+- Bilisten Grästorp			X
+- Q-star Grästorp			X
+- Bilisten Trollhättan, Väne-Åsaka	X
+- Bilisten Nossebro			-
+- Bilisten Lilla Edet, Göta		-
+
+Bohuslän:
+- Q-star Strömstad, S:a Infarten	-
+- Bullaren Bullarbygden			-
+- Bilisten Tanumshede			X
+- Pump Hamburgsund			-*
+- Q-star Kungshamn			-*
+- Pump Fiskebäckskil			-
+- Pump Ellös				X
+
+Dalsland:
+- Pump Dals Långed, Brohögen		X
+- Pump Mellerud				-
+- Bilisten Brålanda			X
+
+Skaraborg:
+- Bilisten Hova
+- Q-star Mariestad
+- Q-star Töreboda
+- Pump Undernäs
+- Bilisten Götene
+- Q-star Timmersdala
+- Bilisten Väring
+- Q-star Vinninga
+- Bilisten Skara
+- Bilisten Axvall
+- Q-star Varnhem
+- Bilisten Värsås
+- Bilisten Tibro
+- Pump Fagersanna
+- Pump Mölltorp
+- Q-star Vara
+- Pump Tråvad
+- Bilisten Floby
+- Q-star Tidaholm
+- Q-star Kättilstorp
+
+
+Östergötlands län
+==================
+
+Västra delen:
+- Q-star Godegård
+- Pump Tjällmo
+- Q-star Motala
+- Svensk Biogas Motala
+- Q-star Österstad
+- Q-star Hästholmen
+- Bilisten Ödeshög
+   Trp Vida Vättern
+- Q-star Skänninge
+- Q-star Väderstad
+- Q-star Mjölby
+- Svensk Biogas Linköping (5 st.)
+- Q-star Rycklösa
+
+Södra delen:
+- Q-star Grebo
+- Bilisten Boxholm
+- Q-star Kvarnvik
+- Q-star Malexander
+- Q-star Hycklinge
+- Q-star Horn
+- Q-star Rydsnäs
+
+Östra delen:
+- Pump Hävla
+- Q-star Igelfors
+- Q-star Rejmyre
+- Q-star Simonstorp
+- Q-star Finspång
+- Bilisten Krokek
+- Q-star Kolmården (Krokek)
+- Q-star Norrköping Åby
+- Q-star Norrköping Norra
+- Q-star Norrköping Södra
+- Q-star Östra Husby
+- Q-star Björnö Marin
+- Q-star Bottna
+- Q-star Gusum
+- Bilisten Valdemarsvik
+- Q-star Gryt
+- Q-star Gryt Varv och Marina
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+- Bilisten Värmlands Nysäter
+
+Karlstadområdet:
+- Pump Skattkärr/Karlstad
+- Bilisten Skoghall
+
+Norra och Centrala:
+- Bilisten Torsby
+- Q-star Lysvik
+- Bilisten Sunne
+- Bilisten Västra Ämtevik
+
+Östra Värmland:
+- Q-star Kristinehamn
+- Bilisten Kristinehamn
+
+
+Örebro län
+===========
+
+Värmland/Västernärke:
+- Bilisten Karlskoga
+- Q-star Lekhyttan
+- Q-star Svartå
+- Bilisten Fjugesta
+- Q-star Finnerödja
+- Q-star Laxå
+- Pump Laxå
+- Q-star Åsbro (2 st.)
+- Q-star Åminneberg
+- Q-star Olshammar
+
+Östernärke:
+- Pump Vintrosa
+- Svensk Biogas Örebro
+- Bilisten Kumla
+- Pump Kumla
+- Bilisten Odensbacken-Lännäs
+- Pump Hjortkvarn
+
+Västra Västmanland:
+- Q-star Vedevåg
+
+
+Södermanlands län
+===================
+
+Norra delen:
+- Bilisten Eskilstuna
+- Q-star Eskilstuna
+- Q-star Eskilstuna Strängnäsvägen
+- Pump Strängnäs
+- Bilisten Stora Sundby
+- Q-star Hållsta
+
+Mellersta delen:
+- Q-star Julita
+- Q-star Vingåker
+- Q-star Katrineholm
+- Svensk Biogas Katrineholm
+- Q-star Valla
+- Bilisten Sparreholm
+- Bilisten Stjärnhov
+- Q-star Björkvik
+
+Södra delen:
+- Q-star Jönåker
+- Svensk Biogas Nyköping
+- Q-star Nyköping
+- Q-star Nävekvarn
+- Bilisten Tystberga
+- Bilisten Vagnhärad

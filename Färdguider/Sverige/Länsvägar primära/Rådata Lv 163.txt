@@ -1,0 +1,147 @@
+Time	Km	Instruction	For	Toward
+Summary:  15,0 kilometres (13 minutes)
+09:00	0,0	Depart 163, 450 71 Fjällbacka on 163 (South)	0,7 km	
+09:00	0,7	At T-korsning Humlekärr, stay on 163 (South-West)	3,3 km	
+09:03	4,0	At T-korsning Sjöröd, stay on 163 [Sjöröd] (West)	4,0 km	
+09:06	8,1	At T-korsning Kville kyrka, stay on 163 (West)	0,4 km	
+09:07	8,4	At Korsning Kville, stay on 163 (West)	2,0 km	
+09:09	10,4	At T-korsning, stay on 163 (North-West)	2,4 km	
+09:10	12,8	At T-korsning Edsten, stay on 163 (West)	0,5 km	
+09:11	13,3	At T-korsning Lille Edsten, stay on 163 (North-West)	1,4 km	
+09:12	14,7	At roundabout, take the FIRST exit onto 163 [Dinglevägen]	0,3 km	
+09:13	15,0	Arrive T-korsning Fjällbacka C		
+
+SUMMARY
+Driving distance:  15,0 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  18,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,8 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Fjällbacka C on 163 [Dinglevägen] (East)	0,3 km	
+09:00	0,3	At roundabout, take the SECOND exit onto 163 [Dinglevägen]	1,5 km	
+09:02	1,8	At T-korsning Lille Edsten, stay on 163 (East)	0,5 km	
+09:02	2,3	At T-korsning Edsten, stay on 163 (East)	2,4 km	
+09:04	4,6	At T-korsning, stay on 163 (South)	2,0 km	
+09:06	6,6	At Korsning Kville, stay on 163 (East)	0,4 km	
+09:06	7,0	At T-korsning Kville kyrka, stay on 163 [Kville Kyrka] (East)	4,0 km	
+09:10	11,0	At T-korsning Sjöröd, stay on 163 (East)	3,3 km	
+09:12	14,3	At T-korsning Humlekärr, stay on 163 (North)	0,5 km	
+09:13	14,8	Arrive 163, 450 71 Fjällbacka		
+
+SUMMARY
+Driving distance:  14,8 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  17,93 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,6 kilometres (26 minutes)
+09:00	0,0	Depart T-korsning Fjällbacka C on 163 [Dinglevägen] (West)	2,2 km	
+09:02	2,2	At 163, 450 71 Fjällbacka, stay on 163 [Ramsfjorden] (North)	4,8 km	
+09:08	6,9	At T-korsning Kämperviks vgs, stay on 163 (North)	0,9 km	
+09:09	7,9	At T-korsning, stay on 163 (North)	1,5 km	
+09:10	9,4	At T-korsning Nästegård, stay on 163 (North-West)	2,1 km	
+09:13	11,5	At T-korsning Grebbestad S, stay on 163 (West)	1,8 km	
+09:17	13,3	At T-korsning Grebbestad N, stay on 163 [Gisslerödsbacken] (North)	1,4 km	
+09:18	14,7	At Korsning Greby gård, stay on 163 (North)	1,9 km	
+09:20	16,6	At 163, 457 91 Tanumshede, stay on 163 (North-East)	0,3 km	
+09:20	16,9	At T-korsning, stay on 163 (East)	0,4 km	
+09:21	17,3	At T-korsning Nedre Säm, stay on 163 (East)	0,5 km	
+09:21	17,8	At T-korsning Tanums station, stay on 163 (East)	1,4 km	
+09:23	19,2	At T-korsning 163/Gärdesv., stay on 163 (East)	0,3 km	
+09:23	19,4	At Korsning 163/Affärsvägen, stay on 163 [Apoteksvägen] (East)	0,3 km	
+09:24	19,7	At T-korsning Tanums centrum, stay on 163 [Riksvägen] (South)	0,7 km	
+09:25	20,4	At T-korsning Tanums kyrka, stay on 163 [Riksvägen] (East)	0,1 km	
+09:25	20,5	Turn LEFT (North-East) onto 163 [Bullarevägen]	1,1 km	
+09:26	21,6	Arrive 163, 457 91 Tanumshede		
+
+SUMMARY
+Driving distance:  21,6 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  29,31 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,9 kilometres (27 minutes)
+09:00	0,0	Depart Backa 3, 457 91 Tanumshede on 163 [Bullarevägen] (West)	1,5 km	Grebbestad / Tanumshede
+09:01	1,5	At T-korsning Tanums kyrka, stay on 163 [Riksvägen] (West)	0,6 km	
+09:02	2,0	At Untitled 12, stay on 163 [Riksvägen] (North-West)	0,2 km	
+09:03	2,2	Turn LEFT (West) onto 163 [Apoteksvägen]	0,3 km	
+09:03	2,5	At Untitled 11, stay on 163 (West)	0,3 km	
+09:03	2,8	At Untitled 10, stay on 163 (West)	1,4 km	
+09:05	4,2	At T-korsning Tanums station, stay on 163 (West)	0,5 km	
+09:06	4,7	At T-korsning Nedre Säm, stay on 163 (West)	0,4 km	
+09:06	5,0	At T-korsning, stay on 163 (West)	0,3 km	
+09:06	5,3	At 163, 457 91 Tanumshede, stay on 163 (South-West)	1,9 km	
+09:08	7,2	At Korsning Greby gård, stay on 163 (South)	1,3 km	
+09:09	8,6	At T-korsning Grebbestad N, stay on 163 [Gisslerödsbacken] (South)	1,9 km	
+09:14	10,4	At T-korsning Grebbestad S, stay on 163 (East)	2,1 km	
+09:16	12,6	At T-korsning Nästegård, stay on 163 [Nästegård] (South-East)	1,5 km	
+09:17	14,1	At T-korsning, stay on 163 (South)	0,8 km	
+09:18	14,9	At T-korsning Kämperviks vgs, stay on 163 (South)	4,9 km	
+09:24	19,8	At 163 1, 450 71 Fjällbacka, stay on 163 [Långö] (South)	2,1 km	
+09:27	21,9	Arrive T-korsning Fjällbacka C		
+
+SUMMARY
+Driving distance:  21,9 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  29,56 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,3 kilometres (11 minutes)
+09:00	0,0	Depart 163, 457 91 Tanumshede on 163 [Bullarevägen] (East)	1,2 km	
+09:01	1,2	At T-korsning Fossum V, stay on 163 (East)	0,7 km	
+09:01	2,0	At T-korsning Fossum N, stay on 163 (North-East)	6,3 km	
+09:06	8,2	At T-korsning Tyft V, stay on 163 (East)	0,4 km	
+09:06	8,7	At T-korsning Tyft Ö, stay on 163 (East)	3,9 km	
+09:09	12,6	At Korsning Korsvägen, stay on 163 (North-East)	1,7 km	
+09:11	14,3	Arrive T-korsning Naverstad		
+
+SUMMARY
+Driving distance:  14,3 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  15,87 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,0 kilometres (10 minutes)
+09:00	0,0	Depart Korsning Naverstad on 163 (West)	1,7 km	
+09:01	1,7	At Korsning Korsvägen, stay on 163 (South-West)	3,9 km	
+09:04	5,7	At T-korsning Tyft Ö, stay on 163 (West)	0,4 km	
+09:04	6,1	At T-korsning Tyft V, stay on 163 (West)	6,3 km	
+09:09	12,4	At T-korsning Fossum N, stay on 163 (South-West)	0,7 km	
+09:10	13,1	At T-korsning Fossum V, stay on 163 (West)	0,9 km	
+09:10	14,0	Arrive Backa 3, 457 91 Tanumshede		
+
+SUMMARY
+Driving distance:  14,0 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  15,57 kr
+
+0.7 km/0.5 km	0 min 36 s/0 min 26 s
+3.3 km/3.3 km	2 min 50 s/2 min 50 s
+4.0 km/4.0 km	3 min 26 s/3 min 26 s
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+2.0 km/2.0 km	1 min 43 s/1 min 43 s
+2.4 km/2.4 km	2 min 3 s/2 min 3 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+1.4 km/1.5 km	1 min 12 s/1 min 17 s
+
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+2.2 km/2.1 km	1 min 53 s/1 min 48 s
+4.8 km/4.9 km	4 min 7 s/4 min 12 s
+0.9 km/0.8 km	0 min 46 s/0 min 41 s
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+2.1 km/2.1 km	1 min 48 s/1 min 48 s
+
+==== Grebbestad - Tanumshede ===
+
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+0.3 km/0.5 km	0 min 22 s/0 min 36 s
+0.7 km/0.6 km	0 min 50 s/0 min 43 s
+1.2 km/1.5 km	1 min 26 s/1 min 48 s

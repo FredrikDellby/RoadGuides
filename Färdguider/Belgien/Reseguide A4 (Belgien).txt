@@ -1,0 +1,64 @@
+Interchange (1)
+ R0
+
+Afrit/Sortie 2
+ Jezus-Eik
+ N4:
+Brussel / Flandern
+
+Påfart (nordgående)
+
+Afrit 3
+ Overijse
+ N253:
+
+Flandern / Vallonien
+Flemish Brabant / Brabant
+
+Sortie 4
+ Rosières
+
+Sortie 5
+ Bierges
+ N257:
+Aire de Bierges
+
+Sortie 6
+ Wavre
+ N238:
+
+Sortie 7
+ Wavre-Sud
+ N4:
+Sortie 8
+ Louvranges
+ N25:
+
+Sortie 8a
+ Louvain-la-Neuve
+
+Sortie 9
+ Corroy-le-Grand
+ N25a:
+
+Aire de Nil Saint-Martin
+
+Sortie 10
+ Walhain
+ N243a:
+
+Sorite 11
+ Thorembais Saint-Trond
+ N29:
+
+(Brabant / Namur)
+Aire d'Aiche-en-Refail
+
+Sortie 12
+ Eghezée
+ N912:
+
+Aire d'Ostin
+
+Interchange Daussoulx
+ A15

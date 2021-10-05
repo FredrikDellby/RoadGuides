@@ -1,0 +1,24 @@
+AB-Dreieck Pankow (1)
+ A10 w: [A24]: Hamburg
+        [A2], [A9]
+ A10 o: [A11]: Stettin
+        [A12], [A13]
+
+Anschlausstelle 2
+ Schönerlinder Strasse
+ B109: 
+
+Anschlausstelle 3
+ Bucher Strasse
+
+Anschlausstelle 4
+ Pasewalker Strasse
+
+Anschlausstelle 5
+ Prenzlauer Promenade
+ B109: 
+
+Motorväg
+ upphör (sydgående)
+ börjar (nordgående)
+Korsning

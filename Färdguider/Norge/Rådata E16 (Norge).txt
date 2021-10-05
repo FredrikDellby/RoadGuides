@@ -1,0 +1,209 @@
+Time	Km	Instruction	For	Toward
+Summary:  3,1 kilometres (3 minutes)
+09:00	0,0	Depart Drammensveien, 1363 Bærum on Ramp (South-West)	70 m	E16 / Bergen / Hønefoss / Sandvika
+09:00	0,1	Take Ramp (LEFT) onto E16 [Ringeriksveien]	0,5 km	E16 / Bergen / Hønefoss
+09:00	0,5	At Bropunkt, stay on E16 [Ringeriksveien] (North-West)	0,3 km	
+09:00	0,9	At Ringeriksveien, 1337 Bærum, stay on E16 [Ringeriksveien] (North-West)	0,4 km	E16 / Hønefoss
+09:01	1,3	At Ringeriksveien, 1336 Bærum, stay on E16 [Ringeriksveien] (North-West)	1,2 km	
+09:02	2,5	At Ringeriksveien, 1351 Bærum, stay on E16 [Ringeriksveien] (North)	0,6 km	
+09:03	3,1	Arrive Ringeriksveien, 1351 Bærum		
+
+SUMMARY
+Driving distance:  3,1 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  4,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  3,1 kilometres (3 minutes)
+09:00	0,0	Depart Ringeriksveien, 1351 Bærum on E16 [Ringeriksveien] (East)	0,5 km	
+09:00	0,5	At Ringeriksveien, 1351 Bærum, stay on E16 [Ringeriksveien] (South)	1,1 km	
+09:01	1,6	At Ringeriksveien, 1336 Bærum, stay on E16 [Ringeriksveien] (East)	0,9 km	
+09:02	2,5	At Ringeriksveien, 1337 Bærum, stay on E16 [Ringeriksveien] (South-East)	0,3 km	
+09:02	2,8	At Bropunkt, stay on E16 [Ringeriksveien] (South-East)	0,3 km	
+09:03	3,1	Arrive Ringeriksveien, 1337 Bærum		
+
+SUMMARY
+Driving distance:  3,1 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  4,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,5 kilometres (4 minutes)
+09:00	0,0	Depart Ringeriksveien, 1351 Bærum on E16 [Ringeriksveien] (West)	0,5 km	
+09:00	0,5	Road name changes to Local road(s)	0,1 km	
+09:00	0,6	At roundabout, take the SECOND exit onto E16	0,5 km	
+09:01	1,1	At E16, 1339 Bærum, stay on E16 [Brennetunnelen] (North)	1,3 km	
+09:01	2,4	At E16, 1340 Bærum, stay on E16 (North-West)	1,8 km	
+09:03	4,2	At Skuitunnelen, 1340 Bærum, stay on E16 (North-West)	0,4 km	
+09:03	4,6	At E16, 1340 Bærum, stay on E16 (North-West)	0,9 km	
+09:04	5,5	Arrive T-korsning E16/Fv182		
+
+SUMMARY
+Driving distance:  5,5 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  6,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,4 kilometres (4 minutes)
+09:00	0,0	Depart T-korsning E16/Fv182 on E16 (East)	0,8 km	
+09:00	0,8	At E16, 1340 Bærum, stay on E16 (South-East)	0,5 km	
+09:01	1,3	At Skuitunnelen, 1340 Bærum, stay on E16 [Skuitunnelen] (South-East)	1,6 km	
+09:02	2,9	At E16, 1340 Bærum, stay on E16 (South-East)	1,5 km	
+09:03	4,4	At E16, 1339 Bærum, stay on E16 (South)	0,4 km	
+09:03	4,8	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:03	5,0	Road name changes to E16 [Ringeriksveien]	0,4 km	
+09:04	5,4	Arrive Ringeriksveien, 1351 Bærum		
+
+SUMMARY
+Driving distance:  5,4 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  6,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,7 kilometres (16 minutes)
+09:00	0,0	Depart E16, 1340 Bærum on E16 [Ringeriksveien] (West)	2,1 km	
+09:01	2,1	At Untitled 4, stay on E16 [Ringeriksveien] (West)	2,5 km	
+09:03	4,7	At Untitled 9, stay on E16 [Ringeriksveien] (North)	0,7 km	
+09:04	5,3	At Holeveien, 3538 Hole, stay on E16 [Holeveien] (West)	0,4 km	
+09:05	5,7	At T-korsning Ringeriksporten, stay on E16 [Holeveien] (West)	2,2 km	
+09:06	7,9	At E16, 3538 Hole, stay on E16 [Holeveien] (North-West)	1,0 km	
+09:07	8,9	At near Sollihogda, stay on E16 [Holeveien] (West)	1,0 km	
+09:08	9,9	At E16, 3531 Hole, stay on E16 [Holeveien] (North)	1,6 km	
+09:09	11,6	At E16, 3531 Hole, stay on E16 [Holeveien] (West)	3,0 km	
+09:11	14,5	At E16, 3531 Hole, stay on E16 [Holeveien] (North)	3,3 km	
+09:14	17,8	At near Sundvollen, stay on E16 [Holeveien] (North-East)	0,7 km	
+09:14	18,5	At T-korsning Tyriheim, stay on E16 [Holeveien] (North-East)	1,2 km	
+09:16	19,7	Arrive Åsaveien, 3531 Hole		
+
+SUMMARY
+Driving distance:  19,7 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  25,92 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,7 kilometres (16 minutes)
+09:00	0,0	Depart near Sundvollen on E16 [Holeveien] (South-East)	1,2 km	
+09:01	1,2	At T-korsning Tyriheim, stay on E16 [Holeveien] (West)	0,8 km	
+09:02	2,0	At near Sundvollen, keep LEFT to stay on E16 [Holeveien]	3,0 km	
+09:04	5,1	At E16, 3531 Hole, stay on E16 [Holeveien] (South)	3,0 km	
+09:06	8,1	At E16, 3531 Hole, stay on E16 [Holeveien] (South-East)	1,6 km	
+09:07	9,7	At E16, 3531 Hole, stay on E16 [Holeveien] (South)	1,0 km	
+09:08	10,7	At E16, 3531 Hole, stay on E16 [Holeveien] (South-East)	1,0 km	
+09:09	11,7	At E16, 3538 Hole, stay on E16 [Holeveien] (South-East)	2,3 km	
+09:11	14,0	At T-korsning Ringeriksporten, stay on E16 [Holeveien] (East)	0,4 km	
+09:11	14,4	At Holeveien, 3538 Hole, stay on E16 [Ringeriksveien] (East)	0,7 km	
+09:12	15,0	At T-korsning, stay on E16 [Ringeriksveien] (South)	2,5 km	
+09:14	17,6	At T-korsning, stay on E16 [Ringeriksveien] (East)	2,2 km	
+09:16	19,7	Arrive near Skui		
+
+SUMMARY
+Driving distance:  19,7 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  25,96 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,4 kilometres (12 minutes)
+09:00	0,0	Depart Åsaveien, 3531 Hole on E16 [Holeveien] (West)	0,7 km	
+09:00	0,7	At T-korsning Kroksund, stay on E16 [Holeveien] (North)	2,4 km	
+09:02	3,1	At E16, 3530 Hole, stay on E16 [Holeveien] (North)	1,2 km	
+09:03	4,2	At E16, 3530 Hole, stay on E16 [Holeveien] (North)	1,2 km	
+09:04	5,5	At T-korsning E18/Seiteveien, stay on E16 [Holeveien] (North)	1,0 km	
+09:05	6,4	At T-korsning E16/Fv157, stay on E16 [Holeveien] (North)	0,6 km	
+09:05	7,0	At T-korsning Hole kirke, stay on E16 [Holeveien] (North)	0,8 km	
+09:06	7,8	At near Norderhov, stay on E16 [Holeveien] (North)	1,0 km	
+09:07	8,8	At Osloveien, 3512 Ringerike, stay on E16 [Osloveien] (North)	0,5 km	
+09:07	9,3	At Hadelandsveien, 3511 Ringerike, stay on E16 [Osloveien] (North)	1,6 km	
+09:09	11,0	At E16, 3511 Ringerike, stay on E16 (West)	1,3 km	
+09:10	12,3	At E16, 3511 Ringerike, stay on E16 (West)	1,0 km	
+09:11	13,2	At T-korsning E16/Rv 35, stay on E16 (North)	2,2 km	
+09:12	15,4	Arrive E16, 3517 Ringerike		
+
+SUMMARY
+Driving distance:  15,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  22,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,7 kilometres (12 minutes)
+09:00	0,0	Depart E16, 3517 Ringerike on Local road(s) (West)	50 m	
+09:00	0,1	Bear RIGHT (South) onto E16	2,1 km	
+09:01	2,2	At E16, 3519 Ringerike, keep RIGHT to stay on E16	0,8 km	
+09:02	3,0	At E16, 3519 Ringerike, stay on E16 (East)	1,5 km	
+09:03	4,4	At E16, 3511 Ringerike, stay on E16 (East)	1,7 km	
+09:05	6,1	At T-korsning E16/Rv 241, stay on E16 [Osloveien] (South)	0,6 km	
+09:05	6,7	At Osloveien, 3512 Ringerike, stay on E16 [Osloveien] (South)	1,0 km	
+09:06	7,7	At E16, 3512 Ringerike, stay on E16 [Holeveien] (South)	0,8 km	
+09:07	8,5	At T-korsning Hole kirke, stay on E16 [Holeveien] (South)	0,6 km	
+09:07	9,0	At near Norderhov, stay on E16 [Holeveien] (South)	1,0 km	
+09:08	10,0	At T-korsning E18/Seiteveien, stay on E16 [Holeveien] (South)	1,0 km	
+09:09	11,0	At E16, 3530 Hole, stay on E16 [Holeveien] (South-West)	1,4 km	
+09:10	12,4	At E16, 3530 Hole, stay on E16 [Holeveien] (South)	2,3 km	
+09:12	14,8	At T-korsning Kroksund, stay on E16 [Holeveien] (South)	0,9 km	
+09:12	15,7	Arrive Holeveien, 3531 Hole		
+
+SUMMARY
+Driving distance:  15,7 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  23,44 kr
+
+Kjørbokrysset - Rondell
+0.5 km/0.3 km	0 min 23 s/0 min 14 s	80
+0.3 km/0.3 km	0 min 14 s/0 min 14 s
+0.4 km/0.9 km	0 min 18 s/0 min 41 s
+1.2 km/1.1 km	0 min 54 s/0 min 50 s
+0.6 km/0.4 km	0 min 27 s/0 min 18 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+
+Rondell - Skui N
+0.5 km/0.5 km	0 min 20 s/0 min 20 s	90
+1.2 km/1.5 km	0 min 48 s/1 min 0 s
+1.9 km/1.6 km	1 min 16 s/1 min 4 s
+0.4 km/0.4 km	0 min 16 s/0 min 16 s
+0.9 km/0.8 km	0 min 36 s/0 min 32 s
+
+Skui N - T-korsning
+2.1 km/2.2 km	1 min 35 s/1 min 39 s	80
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+
+T-korsning Skaret
+0.7 km/0.7 km	0 min 36 s/0 min 36 s	70
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+2.2 km/2.3 km	1 min 53 s/1 min 58 s
+
+Skaret - Utstranda
+1.0 km/1.0 km	0 min 40 s/0 min 40 s	90
+1.0 km/1.0 km	0 min 40 s/0 min 40 s
+1.6 km/1.6 km	1 min 4 s/1 min 4 s
+3.0 km/3.0 km	2 min 0 s/2 min 0 s
+3.3 km/3.0 km	2 min 12 s/2 min 0 s
+
+Utstranda - Sundvollen
+0.7 km/0.8 km	0 min 42 s/0 min 48 s	60
+1.2 km/1.2 km	1 min 12 s/1 min 12 s
+
+Sundvollen - Kroksund
+0.7 km/0.9 km	0 min 42 s/0 min 54 s	60
+
+Kroksund - Vik
+2.4 km/2.3 km	2 min 3 s/1 min 58 s	70
+
+Vik - Rondell E16/Rv7
+1.2 km/1.4 km	0 min 54 s/1 min 3 s	80
+1.2 km/1.0 km	0 min 54 s/0 min 45 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+0.5 km/0.6 km	0 min 23 s/0 min 27 s
+1.6 km/1.7 km	1 min 12 s/1 min 17 s
+1.3 km/1.5 km	0 min 59 s/1 min 8 s
+1.0 km/0.8 km	0 min 45 s/0 min 36 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s

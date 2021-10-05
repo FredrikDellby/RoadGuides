@@ -1,0 +1,54 @@
+Rondell Rv 22/Fv 170
+ 22 s: Mysen
+ 22 n: Oslo, Lillestrøm
+					2.0 km/1.9 km	2 min 0 s/1 min 54 s
+Korsning Gran
+
+T-korsning Heia
+ Heia industriområde
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+					6.0 km/6.0 km	4 min 30 s/4 min 30 s
+Korsning Mork bedehus
+ Fv251
+
+Korsning Mork
+					1.6 km/1.5 km	1 min 12 s/1 min 8 s
+Lillestrøm / Aurskog-Høland
+					0.8 km/0.8 km	36 s/36 s
+Korsning Harkerud veikryss
+ Fv238 Auli, Hogsetfeltet
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+Korsning Killingmo veikryss
+ Fv238 Auli, Hogsetfeltet
+					2.3 km/2.4 km	1 min 43 s/1 min 48 s
+Rondell Fv 170/Fv 171
+ 171: Frogner, Auli
+ Aurskog sentrum
+Bensinstasjon: HydroTexaco
+					1.6 km/1.6 km	1 min 36 s/1 min 36 s
+Dubbel T-korsning Aurskog-øst
+ Aurskog Sentrum
+(T-korsning + avfart)
+					1.6 km/1.5 km	1 min 36 s/1 min 30 s
+Korsning Toverudovergangen
+					1.1 km/1.1 km	1 min 6 s/1 min 6 s
+T-korsning Aurskog meieri
+ Fv239
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Lierfoss
+ Fv236
+					4.0 km/4.2 km	3 min 26 s/3 min 36 s
+Bensinstasjon: Shell
+T-korsning Bliksrud
+ 115: Askim, Løken
+					0.5 km/0.3 km	36 s/22 s
+Dubbel T-korsning Bjørkelangen-øst
+					11.4 km/11.3 km	9 min 46 s/9 min 41 s
+T-korsning
+ Motorpark
+
+Rasteplass
+
+T-korsning Tangen
+ 21 s: Ørje, Rømskog
+ 21 n: Skotterud, Vestmarka

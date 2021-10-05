@@ -1,0 +1,105 @@
+Trp 91 - Stenungsund N
+1.0 km/0.3 km	1 min 0 s/0 min 18 s	60
+0.5 km/0.3 km	0 min 30 s/0 min 18 s
+1.1 km/1.1 km	1 min 6 s/1 min 6 s
+1.1 km/1.1 km	1 min 6 s/1 min 6 s
+0.5 km/0.8 km	0 min 30 s/0 min 48 s
+
+Nösnäsmotet - Stenungsund N
+1.2 km/0.8 km	1 min 26 s/0 min 58 s	50
+1.5 km/1.2 km	1 min 48 s/1 min 26 s
+
+Stenungsund N - Kolhättan
+2.8 km/2.8 km	2 min 24 s/2 min 24 s	70
+0.7 km/0.8 km	0 min 36 s/0 min 41 s
+2.9 km/2.9 km	2 min 29 s/2 min 29 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+
+Time	Km	Instruction	For	Toward
+Summary:  5,0 kilometres (5 minutes)
+09:00	0,0	Depart Kornhallsvägen, 423 72 Säve on Kornhallsvägen (East)	1,8 km	
+09:01	1,8	At Kongahällavägen, 423 72 Säve, keep STRAIGHT onto Kongahällavägen	1,1 km	
+09:03	2,9	At Säve Stationsväg 6, 423 70 Säve, stay on Kongahällavägen (South)	0,9 km	
+09:04	3,8	At Kongahällavägen, 423 73 Säve, stay on Kongahällavägen (South)	0,3 km	
+09:04	4,1	Bear LEFT (South-East) onto Tuvevägen	0,9 km	
+09:05	5,0	Arrive Tuvevägen, 423 73 Säve		
+
+SUMMARY
+Driving distance:  5,0 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  9,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,0 kilometres (5 minutes)
+09:00	0,0	Depart Tuvevägen, 423 73 Göteborg on Tuvevägen (North-West)	0,9 km	
+09:00	0,9	At Kongahällavägen, 423 73 Säve, bear RIGHT (North) onto Kongahällavägen	1,2 km	
+09:02	2,1	At Säve Stationsväg 6, 423 70 Säve, stay on Kongahällavägen (North)	1,1 km	
+09:03	3,3	At Kornhallsvägen, 423 72 Säve, road name changes to Kornhallsvägen	1,8 km	
+09:05	5,0	Arrive Kornhallsvägen, 423 72 Säve		
+
+SUMMARY
+Driving distance:  5,0 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  9,55 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,1 kilometres (13 minutes)
+09:00	0,0	Depart Hisingsleden, 418 Göteborg on Hisingsleden (West)	2,2 km	E6 / 45 / Angered
+09:02	2,2	At T-korsning Volvo RA, stay on Hisingsleden (North)	0,8 km	
+09:02	3,0	At T-korsning Volvo PVH, stay on Hisingsleden (North)	2,6 km	
+09:04	5,6	At Korsning Östergärde, stay on Hisingsleden (North)	0,7 km	
+09:05	6,3	At Hisingsleden, 423 Torslanda, stay on Hisingsleden (North)	1,3 km	
+09:06	7,6	At T-korsning, stay on Hisingsleden (North)	1,1 km	
+09:07	8,6	At Korsning Stora Holm, stay on Hisingsleden (North)	2,8 km	
+09:09	11,4	At Korsning Skändla Rös, road name changes to Norrleden	3,5 km	
+09:12	14,9	At T-korsning, stay on Norrleden (East)	0,9 km	
+09:12	15,8	At Korsning Klareberg, stay on Norrleden (East)	0,3 km	
+09:13	16,1	Arrive Norrleden, 425 Hisings Kärra		
+
+SUMMARY
+Driving distance:  16,1 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  26,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,9 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Klareberg on Norrleden (West)	0,3 km	
+09:00	0,3	At Korsning Klareberg, stay on Norrleden (West)	0,9 km	
+09:01	1,3	At T-korsning, stay on Norrleden (West)	3,3 km	
+09:03	4,5	At Norrleden, 423 Säve, stay on Norrleden (South-West)	0,2 km	
+09:03	4,7	Road name changes to Hisingsleden	2,8 km	
+09:05	7,5	At Korsning Stora Holm, stay on Hisingsleden (South)	1,0 km	
+09:06	8,5	At Hisingsleden, 417 Göteborg, stay on Hisingsleden (South)	1,3 km	
+09:07	9,8	At T-korsning Volvo Tuve, stay on Hisingsleden (South)	0,7 km	
+09:08	10,5	At Korsning Östergärde, stay on Hisingsleden (South)	2,6 km	
+09:10	13,1	At T-korsning Volvo PVH, stay on Hisingsleden (South)	0,8 km	
+09:11	13,9	At T-korsning Volvo RA, stay on Hisingsleden (South)	2,0 km	
+09:13	15,9	Arrive Hisingsleden, 418 Göteborg		
+
+SUMMARY
+Driving distance:  15,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  25,71 kr
+
+Kungsten/Rödasten - Vädermotet
+2.4 km/1.6 km	2 min 3 s/1 min 22 s	70
+0.3 km/0.2 km	0 min 15 s/0 min 10 s
+1.1 km/1.4 km	0 min 57 s/1 min 12 s
+
+Vädermotet - Klareberg (K)
+2.2 km/2.0 km	1 min 39 s/1 min 30 s	80
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+2.6 km/2.6 km	1 min 57 s/1 min 57 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.1 km/1.0 km	0 min 50 s/0 min 45 s
+2.8 km/3.0 km	2 min 6 s/2 min 15 s
+3.5 km/3.3 km	2 min 38 s/2 min 28 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+
+Klareberg (K) - Klareberg (T)
+0.3 km/0.3 km	0 min 15 s/0 min 15 s	70

@@ -1,0 +1,52 @@
+Färdguide A113 (Berlin - Schönefeld)
+=====================================
+
+Dreieck Neukölln (25/1)
+ A100 w: Zentrum-West
+Anschlausstelle 26 (A100)
+ Grenzalle
+
+Britzer Verbindungskanal
+
+Anschlausstelle 2
+ Späthstraße
+
+Anschlausstelle 3
+ Johannisthaler Chaussee
+
+Anschlausstelle 4
+ Stubenrauchstraße
+
+Anschlausstelle 5
+ Adlershof
+
+Teltowkanalbrücke
+
+Tunnel Rudower Höhe-nord
+
+Tunnel Rudower Höhe-süd
+
+Tunnel Altglienicke
+
+Anschlausstelle 6
+ Shönefeld-Nord
+
+Anschlausstelle 7.1
+ Shönefeld-Süd
+
+Anschlausstelle 7.2
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Shönefeld-Süd
+
+Anschlausstelle 8
+ Flughafen Berlin-Brandenburg
+
+Dreieck Waltersdorf (9)
+(ej avfart sydgående)
+ A117
+
+Schönefelder Kreuz (10)
+ A10 ccw: [A12, A11]
+ A10 cw: [A115, A9, A2, A24]
+ A13: Dresden, Cottbus

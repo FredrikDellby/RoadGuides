@@ -1,0 +1,92 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (19 minutes)
+09:00	0,0	Depart 42 31, 513 34 Fristad on Local road(s) (East)	20 m	
+09:00	0,1	Turn RIGHT (North) onto 183 [Stora Vägen]	6,3 km	
+09:05	6,4	At Korsning Borgstena skola, stay on 183 (North)	0,8 km	
+09:05	7,2	At near Borgstena, stay on 183 [LÄNSvägen] (North-West)	0,5 km	
+09:06	7,7	At T-korsning Borgstena C, stay on 183 [LÄNSvägen] (North)	1,3 km	
+09:08	9,0	At near Mollaryd, stay on 183 (North)	4,7 km	
+09:12	13,7	At T-korsning Fagred, stay on 183 (North)	1,6 km	
+09:14	15,3	At T-korsning Vesene Ö, stay on 183 (West)	0,3 km	
+09:14	15,6	At T-korsning Vesene V, stay on 183 (North-West)	4,8 km	
+09:19	20,4	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  27,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,0 kilometres (20 minutes)
+09:00	0,0	Depart 182, 524 Ljung on 183 (South-West)	5,1 km	
+09:05	5,1	At 183, 524 Ljung, turn LEFT to stay on 183	0,3 km	
+09:05	5,4	At 183, 524 Ljung, return East on 183	1,9 km	
+09:07	7,3	At 183, 524 Ljung, stay on 183 (South)	4,7 km	
+09:12	12,0	At near Mollaryd, stay on 183 (South)	1,1 km	
+09:13	13,2	At 183, 513 Borgstena, stay on 183 [Länsvägen] (South)	0,6 km	
+09:14	13,8	At 183 7, 513 Borgstena, stay on 183 [Länsvägen] (East)	0,9 km	
+09:14	14,7	At 183, 513 Borgstena, stay on 183 (South)	6,3 km	
+09:20	21,0	Arrive 183 34, 513 Fristad		
+
+SUMMARY
+Driving distance:  21,0 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  24,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,7 kilometres (8 minutes)
+09:00	0,0	Depart T-korsning on 182 [183] (North-East)	0,6 km	
+09:00	0,6	At T-korsning Grude, turn LEFT (North-West) onto 183	2,3 km	
+09:02	2,8	At near Ljung, stay on 183 (North-East)	1,5 km	
+09:04	4,3	At Korsning Södra Björke, stay on 183 (North)	1,3 km	
+09:05	5,6	At T-korsning, stay on 183 (North)	1,4 km	
+09:07	7,0	At Korsning Ebbared, stay on 183 (North)	1,8 km	
+09:08	8,7	Arrive T-korsning Bergagärde		
+
+SUMMARY
+Driving distance:  8,7 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  11,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,7 kilometres (8 minutes)
+09:00	0,0	Depart 181, 524 Herrljunga on 183 (South)	1,8 km	
+09:01	1,8	At Ebbared, 524 Herrljunga, stay on 183 (South)	1,4 km	
+09:03	3,1	At 183, 524 Herrljunga, stay on 183 (South)	1,3 km	
+09:04	4,4	At 183, 524 Herrljunga, stay on 183 (South)	1,5 km	
+09:05	5,9	At 183, 524 Ljung, stay on 183 (West)	2,2 km	
+09:08	8,1	At 183, 524 Ljung, turn RIGHT (South-West) onto 182 [183]	0,6 km	
+09:08	8,7	Arrive 182, 524 Ljung		
+
+SUMMARY
+Driving distance:  8,7 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  9,70 kr
+
+Fristad N - Borgstena skola
+6.4 km/6.4 km	5 min 29 s/5 min 29 s
+
+Borgstena skola-Borgstena N
+0.8 km/0.9 km	0 min 58 s/1 min 5 s
+0.5 km/0.6 km	0 min 36 s/0 min 43 s
+
+Borgstena N - T-korsning
+1.3 km/1.1 km	1 min 7 s/0 min 57 s
+4.7 km/4.7 km	4 min 2 s/4 min 2 s
+1.6 km/1.9 km	1 min 22 s/1 min 38 s
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+4.8 km/5.1 km	4 min 7 s/4 min 22 s
+
+T-korsning - Södra Björke
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+2.3 km/2.2 km	1 min 58 s/1 min 53 s
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+
+Södra Björke - Bergagärde
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+1.8 km/1.8 km	1 min 21 s/1 min 21 s

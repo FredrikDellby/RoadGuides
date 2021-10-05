@@ -1,0 +1,406 @@
+
+Time	Km	Instruction	For	Toward
+Summary:  13,8 kilometres (12 minutes)
+09:00	0,0	Depart near Trelleborg on Local road(s) (North)	50 m	
+09:00	0,1	Bear LEFT (West) onto Norra Kajgatan	80 m	
+09:00	0,1	Keep STRAIGHT onto Travemündeallén	0,9 km	
+09:01	1,1	At T-korsning Hamnen V, turn LEFT (West) onto E22 [E6]	0,9 km	
+09:02	2,0	At Korsning Trelleborg västra, stay on E22 [E6] (West)	1,7 km	
+09:04	3,7	At T-korsning Väster Kurland, stay on E22 [E6] (West)	0,6 km	
+09:04	4,2	At T-korsning, stay on E22 [E6] (North-West)	0,8 km	
+09:05	5,0	At roundabout, take the SECOND exit onto E22 [E6]	0,5 km	
+09:05	5,6	At Korsning Maglarp, stay on E22 [E6] (North)	1,9 km	
+09:06	7,5	At Korsning Skegrie E22, stay on E22 [E6] (North)	0,8 km	
+09:07	8,3	At Korsning Rängsvägen, stay on E22 [E6] (North)	0,9 km	
+09:08	9,2	At E22, 235 91 Vellinge, stay on E22 [E6] (North-West)	2,2 km	
+09:10	11,4	At Korsning Håslövs K:a, stay on E22 [E6] (North)	2,4 km	
+09:12	13,8	Arrive E22, 235 91 Vellinge		
+
+SUMMARY
+Driving distance:  13,8 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,39 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,8 kilometres (12 minutes)
+09:00	0,0	Depart Korsning Postmannabacken on E22 [E6] (South)	2,4 km	
+09:01	2,4	At Korsning Håslövs K:a, stay on E22 [E6] (South)	2,3 km	
+09:04	4,6	At E22, 235 91 Vellinge, stay on E22 [E6] (South-East)	0,9 km	
+09:04	5,5	At Korsning Rängsvägen, stay on E22 [E6] (South)	0,8 km	
+09:05	6,3	At Korsning Skegrie E22, stay on E22 [E6] (South)	1,9 km	
+09:06	8,2	At Korsning Maglarp, stay on E22 [E6] (South)	0,5 km	
+09:07	8,7	At roundabout, take the SECOND exit onto E22 [E6]	0,9 km	
+09:07	9,6	At T-korsning, stay on E22 [E6] (South-East)	0,6 km	
+09:08	10,1	At T-korsning Väster Kurland, stay on E22 [E6] (East)	1,7 km	
+09:09	11,8	At Korsning Trelleborg västra, stay on E22 [E6] (East)	0,9 km	
+09:10	12,7	At E6, 231 62 Trelleborg, keep RIGHT onto Local road(s)	50 m	
+09:10	12,8	Bear RIGHT (South) onto Travemündeallén	0,9 km	
+09:12	13,7	Turn RIGHT (East) onto Norra Kajgatan	80 m	
+09:12	13,8	Arrive Norra Kajgatan, 231 42 Trelleborg		
+
+SUMMARY
+Driving distance:  13,8 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,34 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,0 kilometres (9 minutes)
+09:00	0,0	Depart E22, 235 Vellinge on E22 [E6] (North)	1,5 km	
+09:00	1,5	At E22, 235 Vellinge, stay on E22 [E6] (North)	1,2 km	
+09:01	2,7	At 9, stay on E22 [E6] (North)	5,7 km	
+09:04	8,4	At 11, stay on E22 [E6] (North)	1,8 km	
+09:05	10,2	At 12, keep STRAIGHT onto Trelleborgsvägen	2,0 km	
+09:06	12,3	At Trelleborgsvägen, 215 Malmö, stay on Trelleborgsvägen (North)	2,1 km	
+09:08	14,3	At Trelleborgsvägen, 214 Malmö, stay on Trelleborgsvägen (North)	0,7 km	
+09:09	15,0	Arrive Ystadvägen 8, 214 Malmö		
+
+SUMMARY
+Driving distance:  15,0 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,53 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,0 kilometres (9 minutes)
+09:00	0,0	Depart Trelleborgsvägen 1, 214 Malmö on Trelleborgsvägen (South)	0,6 km	
+09:00	0,6	At Stadiongatan 2, 214 Malmö, stay on Trelleborgsvägen (South)	1,2 km	
+09:02	1,8	At Trelleborgsvägen, 215 Malmö, stay on Trelleborgsvägen (South)	1,3 km	
+09:02	3,1	At Trelleborgsvägen, 215 Malmö, stay on Trelleborgsvägen (South)	1,6 km	
+09:03	4,7	Merge onto E22 [E6]	0,9 km	
+09:04	5,6	At 11, stay on E22 [E6] (South)	5,5 km	
+09:06	11,1	At 10, stay on E22 [E6] (South)	2,8 km	
+09:08	13,9	At 8, stay on E22 [E6] (South)	1,1 km	
+09:09	15,0	Arrive Korsning Postmannabacken		
+
+SUMMARY
+Driving distance:  15,0 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,55 kr
+
+Färjeterminalen - Hamnen V
+1.1 km/1.1 km	2 min 12 s/2 min 12 s	30
+
+Hamnen V - Väster Kurland
+0.9 km/0.9 km	1 min 5 s/1 min 5 s	50
+1.7 km/1.7 km	2 min 2 s/2 min 2 s
+
+Väster Kurland - Postmannabacken
+0.6 km/0.6 km	0 min 27 s/0 min 27 s	80
+0.8 km/0.9 km	0 min 36 s/0 min 41 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+2.2 km/2.3 km	1 min 39 s/1 min 43 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+
+Postmannabacken - Petersborg (12)
+1.5 km/1.1 km	0 min 49 s/0 min 36 s	110
+1.2 km/2.8 km	0 min 39 s/1 min 32 s
+3.6 km/2.4 km	1 min 58 s/1 min 19 s
+2.1 km/3.1 km	1 min 9 s/1 min 41 s
+1.8 km/2.5 km	0 min 59 s/1 min 22 s
+
+Petersborg (12) - Korsning
+2.1 km/1.3 km	1 min 24 s/0 min 52 s	90
+2.0 km/1.2 km	1 min 20 s/0 min 48 s
+
+Korsning - Dalaplan
+0.7 km/0.6 km	0 min 50 s/0 min 43 s	50
+
+Time	Km	Instruction	For	Toward
+Summary:  11,9 kilometres (6 minutes)
+09:00	0,0	Depart Stockholmsvägen, 232 39 Arlöv on Stockholmsvägen (North-East)	1,1 km	E22 / Kalmar / Karlskrona / Lund
+09:00	1,1	Merge onto E22	1,9 km	
+09:01	3,0	At near Stora Uppåkra, stay on E22 (East)	3,5 km	
+09:03	6,5	At 19, stay on E22 (East)	3,2 km	E22 / Kalmar / Lasarett
+09:05	9,7	At 21, stay on E22 (North)	2,2 km	E22 / Kalmar / Karlskrona
+09:06	11,9	Arrive 22		
+
+SUMMARY
+Driving distance:  11,9 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  16,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,6 kilometres (6 minutes)
+09:00	0,0	Depart 22 on E22 (South)	2,5 km	
+09:01	2,5	At 21, stay on E22 (South)	3,2 km	E22 / Malmö
+09:03	5,7	At 19, stay on E22 (South-West)	4,0 km	E22 / Malmö
+09:05	9,8	At near Stora Uppåkra, stay on E22 (West)	1,8 km	
+09:06	11,6	Arrive 18		
+
+SUMMARY
+Driving distance:  11,6 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  16,56 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,0 kilometres (11 minutes)
+09:00	0,0	Depart 22 on E22 (North)	7,6 km	
+09:04	7,6	At near Gårdstånga, stay on E22 (East)	0,8 km	
+09:04	8,4	At 23, stay on E22 (East)	3,3 km	
+09:06	11,7	At 24, stay on E22 (East)	3,0 km	
+09:08	14,8	At E22, 241 94 Eslöv, stay on E22 (East)	0,6 km	
+09:08	15,3	At 25, stay on E22 (East)	3,2 km	
+09:10	18,5	At T-korsning Hurva norra, stay on E22 (North-East)	0,4 km	
+09:10	18,9	At E22, 241 94 Eslöv, stay on E22 (East)	0,6 km	
+09:11	19,6	At Korsning, stay on E22 [Rolsberga Böstofta] (East)	0,4 km	
+09:11	20,0	Arrive 26		
+
+SUMMARY
+Driving distance:  20,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  24,03 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,5 kilometres (11 minutes)
+09:00	0,0	Depart 26 on E22 (West)	0,8 km	
+09:00	0,8	At Korsning, stay on E22 (West)	0,7 km	
+09:01	1,5	At E22, 241 94 Eslöv, stay on E22 (West)	0,4 km	
+09:01	1,9	At T-korsning Hurva norra, stay on E22 (South-West)	3,0 km	
+09:03	4,9	At 25, stay on E22 (West)	2,2 km	
+09:04	7,0	At E22, 240 32 Flyinge, stay on E22 (West)	1,7 km	
+09:05	8,7	At 24, stay on E22 (West)	2,3 km	
+09:07	11,0	At 23, keep STRAIGHT to stay on E22	1,8 km	
+09:08	12,8	At near Gårdstånga, stay on E22 (West)	6,7 km	
+09:11	19,5	Arrive 22		
+
+SUMMARY
+Driving distance:  19,5 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  22,91 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,6 kilometres (8 minutes)
+09:00	0,0	Depart 26 on E22 (East)	2,6 km	
+09:02	2,6	At T-korsning, stay on E22 [Fogdarp Nya Bo] (North-East)	1,0 km	
+09:02	3,6	At T-korsning Fogdarp väst, stay on E22 [Fogdarp Nya Bo] (East)	1,1 km	
+09:03	4,7	At T-korsning Fogdarp, stay on E22 (East)	0,8 km	
+09:04	5,5	At Korsning Fogdarp öst, stay on E22 (East)	0,5 km	
+09:04	6,0	At near Fogdarp, stay on E22 (East)	0,6 km	
+09:05	6,6	At E22, 242 93 Hörby, stay on E22 (East)	2,2 km	
+09:06	8,9	At 28, stay on E22 (East)	2,8 km	
+09:08	11,6	Arrive 29		
+
+SUMMARY
+Driving distance:  11,6 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  14,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,8 kilometres (8 minutes)
+09:00	0,0	Depart 29 on E22 (South-West)	3,3 km	
+09:02	3,3	At 28, stay on E22 (West)	2,1 km	
+09:03	5,4	At E22, 242 93 Hörby, stay on E22 (West)	0,8 km	
+09:03	6,2	At near Fogdarp, stay on E22 (West)	0,5 km	
+09:04	6,7	At Korsning Fogdarp öst, stay on E22 (West)	0,8 km	
+09:04	7,5	At T-korsning Fogdarp, stay on E22 [Fogdarp] (West)	1,1 km	
+09:05	8,6	At T-korsning Fogdarp väst, stay on E22 [Fogdarp Orup] (West)	1,0 km	
+09:06	9,6	At T-korsning, stay on E22 [Fogdarp Lillö] (South-West)	2,2 km	
+09:08	11,8	Arrive 26		
+
+SUMMARY
+Driving distance:  11,8 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  14,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,5 kilometres (25 minutes)
+09:00	0,0	Depart 29 on E22 (North-East)	1,7 km	
+09:01	1,7	At 30, stay on E22 (East)	2,2 km	
+09:02	3,9	At Korsning Stavröd, stay on E22 (East)	3,9 km	
+09:05	7,8	At Korsning Ekeröd södra, stay on E22 (North)	0,8 km	
+09:05	8,6	At T-korsning Ekerödsrasten, stay on E22 (North-East)	1,3 km	
+09:06	9,8	At Korsning, stay on E22 (North-East)	1,5 km	
+09:08	11,3	At near Torastorp, stay on E22 (East)	0,6 km	
+09:08	11,9	At T-korsning Linderödsgården, stay on E22 (North-East)	3,8 km	
+09:11	15,7	At Korsning Linderöd, stay on E22 [Tollarpsvägen] (East)	2,4 km	
+09:14	18,1	At T-korsning Spångarp, stay on E22 (East)	1,0 km	
+09:14	19,1	At T-korsning Sätaröd västra, stay on E22 (East)	1,8 km	
+09:16	21,0	At T-korsning Sätaröd östra, stay on E22 (South-East)	3,9 km	
+09:19	24,9	At Korsning Tollarp västra, stay on E22 [Linderödsvägen] (East)	0,9 km	
+09:20	25,8	At Korsning Tollarp södra, stay on E22 [Linderödsvägen] (East)	1,1 km	
+09:21	26,9	At Malmövägen 4, 290 10 Tollarp, stay on E22 [Malmövägen] (East)	2,6 km	
+09:23	29,5	At T-korsning Ö Vram, stay on E22 (East)	3,0 km	
+09:25	32,5	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  32,5 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  39,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,9 kilometres (25 minutes)
+09:00	0,0	Depart T-korsning on E22 (South-West)	3,0 km	
+09:01	3,0	At T-korsning Ö Vram, stay on E22 (West)	2,3 km	
+09:03	5,3	At Korsning Tollarp östra, stay on E22 [Malmövägen] (West)	1,4 km	
+09:05	6,7	At Korsning Tollarp södra, stay on E22 [Linderödsvägen] (West)	0,9 km	
+09:06	7,6	At Korsning Tollarp västra, stay on E22 [Linderödsvägen] (West)	3,7 km	
+09:08	11,3	At T-korsning Sätaröd östra, stay on E22 (North-West)	2,1 km	
+09:10	13,4	At T-korsning Sätaröd västra, stay on E22 (West)	1,0 km	
+09:11	14,4	At T-korsning Spångarp, stay on E22 (West)	2,4 km	
+09:13	16,8	At Korsning Linderöd, stay on E22 [Hörbyvägen] (West)	3,8 km	
+09:17	20,6	At T-korsning Linderödsgården, stay on E22 (South-West)	0,3 km	
+09:17	20,9	At near Torastorp, stay on E22 (West)	1,7 km	
+09:18	22,7	At Korsning, stay on E22 (South-West)	1,1 km	
+09:19	23,8	At Korsning Ekeröd norra, stay on E22 (West)	1,0 km	
+09:20	24,7	At near Kylestorp, stay on E22 (South)	3,9 km	
+09:23	28,6	At Korsning Stavröd, stay on E22 (West)	1,6 km	
+09:24	30,2	At 30, stay on E22 (West)	1,7 km	
+09:25	31,9	Arrive 29		
+
+SUMMARY
+Driving distance:  31,9 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  38,85 kr
+
+================
+
+Time	Km	Instruction	For	Toward
+Summary:  8,8 kilometres (5 minutes)
+09:00	0,0	Depart 37 on Ramp [37] (West)	0,5 km	E22 / 19 / 9 / Malmö / Simrishamn / Ystad / VÄ / Flygplats / Osby / Broby
+09:00	0,5	Turn RIGHT (South) onto E22 [19]	0,3 km	
+09:00	0,7	Keep RIGHT to stay on E22 [19]	1,6 km	
+09:01	2,3	At 36, stay on E22 [19] (South)	4,7 km	
+09:04	7,0	At Korsning, stay on E22 [19] (South)	0,4 km	
+09:04	7,5	At E22, 291 91 Kristianstad, stay on E22 [19] (South)	0,7 km	
+09:05	8,1	At Korsning Tings Nöbbelöv, stay on E22 [19] (South)	0,7 km	
+09:05	8,8	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  8,8 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  10,35 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,2 kilometres (15 minutes)
+09:00	0,0	Depart 37 on Ramp [37] (North)	0,5 km	E22 / Kalmar / Kristianstad / Sjukhus
+09:00	0,5	Merge onto E22 [Hässleholmsvägen]	1,4 km	
+09:01	1,9	At 38, stay on E22 [Hässleholmsvägen] (East)	0,8 km	
+09:01	2,6	At near Hedentorp, stay on E22 [Sölvesborgsvägen] (East)	0,7 km	
+09:01	3,3	At 39, stay on E22 [Sölvesborgsvägen] (East)	2,5 km	
+09:03	5,8	At 40, keep STRAIGHT to stay on E22 [Sölvesborgsvägen]	3,4 km	
+09:04	9,2	At 41, stay on E22 [Sölvesborgsvägen] (East)	2,6 km	
+09:06	11,8	At T-korsning Fjälkinge Ö, stay on E22 (East)	1,9 km	
+09:08	13,7	At Korsning Bäckaskog E22, stay on E22 [Sölvesborgsvägen] (East)	1,0 km	
+09:09	14,8	At T-korsning Bäckaskog Ö, stay on E22 (East)	1,3 km	
+09:10	16,0	At Korsning E22/Knutehusv., stay on E22 (East)	1,3 km	
+09:11	17,3	At near Gualöv, stay on E22 (East)	3,5 km	
+09:13	20,9	At 43, stay on E22 (North-East)	3,2 km	
+09:15	24,1	At near Bromölla, stay on E22 (East)	1,2 km	
+09:15	25,2	Arrive 44		
+
+SUMMARY
+Driving distance:  25,2 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  33,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,6 kilometres (16 minutes)
+09:00	0,0	Depart 44 on E22 (West)	2,0 km	
+09:01	2,0	At near Bromölla, stay on E22 (West)	2,9 km	
+09:02	4,8	At 43, stay on E22 (South-West)	2,5 km	
+09:04	7,4	At E22, 295 72 Gualöv, stay on E22 (West)	1,4 km	
+09:05	8,8	At E22, 295 72 Gualöv, stay on E22 (West)	1,1 km	
+09:05	9,9	At Korsning E22/Knutehusv., stay on E22 (West)	1,0 km	
+09:06	10,8	At E22, 290 34 Fjälkinge, stay on E22 (West)	1,3 km	
+09:07	12,2	At Korsning Bäckaskog E22, stay on E22 (West)	1,9 km	
+09:09	14,1	At T-korsning Fjälkinge Ö, stay on E22 (West)	1,8 km	
+09:11	15,9	At 41, stay on E22 [Sölvesborgsvägen] (West)	3,7 km	
+09:13	19,5	At 40, keep STRAIGHT to stay on E22 [Sölvesborgsvägen]	2,5 km	
+09:14	22,0	At 39, stay on E22 [Sölvesborgsvägen] (West)	1,1 km	
+09:14	23,1	At near Hedentorp, stay on E22 [Sölvesborgsvägen] (West)	0,5 km	
+09:15	23,6	At 38, stay on E22 [Sölvesborgsvägen] (West)	2,1 km	
+09:16	25,6	Arrive 37		
+
+SUMMARY
+Driving distance:  25,6 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  33,83 kr
+
+
+3.0 km/1.8 km	1 min 38 s/0 min 59 s
+3.5 km/4.0 km	1 min 55 s/2 min 11 s
+
+3.2 km/3.2 km	1 min 55 s/1 min 55 s
+2.2 km/2.5 km	1 min 19 s/1 min 30 s
+
+7.6 km/6.7 km	4 min 9 s/3 min 39 s
+0.8 km/1.8 km	26 s/59 s
+3.3 km/2.3 km	1 min 48 s/1 min 15 s
+3.0 km/1.7 km	1 min 38 s/0 min 56 s
+0.6 km/2.2 km	0 min 20 s/1 min 12 s
+
+3.2 km/3.0 km	1 min 55 s/1 min 48 s
+
+0.4 km/0.4 km	16 s/16 s
+0.6 km/0.7 km	24 s/28 s
+0.4 km/0.8 km	16 s/32 s
+
+2.6 km/2.2 km	1 min 44 s/1 min 28 s
+1.0 km/1.0 km	40 s/40 s
+1.1 km/1.1 km	44 s/44 s
+0.8 km/0.8 km	32 s/32 s
+0.5 km/0.5 km	20 s/20 s
+0.6 km/0.8 km	24 s/32 s
+2.2 km/2.1 km	1 min 28 s/1 min 24 s
+
+2.8 km/3.3 km	1 min 41 s/1 min 59 s
+
+1.7 km/1.7 km	1 min 8 s/1 min 8 s
+
+2.2 km/1.6 km	1 min 39 s/1 min 12 s
+3.9 km/3.9 km	2 min 56 s/2 min 56 s
+0.8 km/1.0 km	36 s/45 s
+1.3 km/1.1 km	59 s/50 s
+1.5 km/1.7 km	1 min 8 s/1 min 17 s
+0.6 km/0.3 km	27 s/14 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+
+2.4 km/2.4 km	2 min 3 s/2 min 3 s
+1.0 km/1.0 km	51 s/51 s
+1.8 km/2.1 km	1 min 33 s/1 min 48 s
+3.9 km/3.7 km	3 min 21 s/3 min 10 s
+
+0.9 km/0.9 km	54 s/54 s
+1.1 km/1.4 km	1 min 6 s/1 min 24 s
+
+2.6 km/2.3 km	1 min 44 s/1 min 32 s
+3.0 km/3.0 km	2 min 0 s/2 min 0 s
+
+T-korsning - Trp Härlöv
+0.7 km/0.7 km	28 s/28 s
+0.6 km/0.7 km	24 s/28 s
+0.5 km/0.4 km	20 s/16 s
+4.0 km/4.7 km	2 min 40 s/3 min 8 s
+2.2 km/2.3 km	1 min 28 s/1 min 32 s
+
+Trp Härlöv - Trp Fjälkinge
+1.9 km/2.1 km	1 min 8 s/1 min 16 s
+0.8 km/0.5 km	29 s/18 s
+0.7 km/1.1 km	25 s/40 s
+2.5 km/2.5 km	1 min 30 s/1 min 30 s
+3.4 km/3.7 km	2 min 2 s/2 min 13 s
+
+Trp Fjälkinge - Trp Gualöv
+2.6 km/1.8 km	1 min 44 s/1 min 12 s
+1.9 km/1.9 km	1 min 16 s/1 min 16 s
+1.0 km/1.3 km	40 s/52 s
+1.3 km/1.0 km	52 s/40 s
+1.3 km/1.1 km	52 s/44 s
+1.4 km/1.4 km	56 s/56 s

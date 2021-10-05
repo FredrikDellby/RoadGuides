@@ -1,0 +1,356 @@
+Rondell Nyängen E18
+ E18 ö: Stockholm, Karlstad
+ E18 v: Oslo, Grums
+ E45 s: Göteborg, Säffle
+Rastplats Nyängen
+					0.6 km/0.5 km	36 s/30 s
+(Järnvägsviadukt)
+ Vänerbanan
+T-korsning Nedre Medskog
+ Grums
+					1.6 km/1.4 km	1 min 36 s/1 min 24 s
+Grums / Karlstad
+					1.1 km/1.1 km	1 min 6 s/1 min 6 s
+T-korsning Vålberg S
+ Vålberg
+					2.5 km/2.5 km	2 min 30 s/2 min 30 s
+Korsning Vålberg N
+ Vålberg
+ Värmskog, Skruvstad
+					4.2 km/4.2 km	3 min 9 s/3 min 9 s
+Korsning Edsvalla N
+ Edsvalla
+					5.3 km/5.3 km	3 min 59 s/3 min 59 s
+Karlstad / Kil
+					2.2 km/2.4 km	1 min 39 s/1 min 48 s
+Fageråsmotet
+ 61 ö: Karlstad, Kil
+ 61 v: Kongsvinger, Arvika
+					0.8 km/0.7 km	36 s/31 s
+Blankebergsmotet
+ Fagerås
+					0.4 km/0.4 km	18 s/18 s
+Järnvägsviadukt
+ Värmlandsbanan
+					4.4 km/4.4 km	3 min 18 s/3 min 18 s
+T-korsning Aplungstorp
+ Frykerud
+					2.1 km/2.1 km	1 min 35 s/1 min 35 s
+T-korsning Fryknerudsvägen
+ Tolita
+ Frykerud
+					5.0 km/5.0 km	3 min 45 s/3 min 45 s
+T-korsning Sandviken
+ Frykåsen
+					4.0 km/4.0 km	3 min 0 s/3 min 0 s
+Kil / Sunne
+					1.1 km/1.1 km	50 s/50 s
+T-korsning Bäckebron E45
+ Bäckebron
+					6.6 km/6.6 km	4 min 57 s/4 min 57 s
+T-korsning V. Ämtevik S
+ Västra Ämtevik
+					1.9 km/2.0 km	1 min 26 s/1 min 30 s
+Dubbel T-korsning V. Ämtevik N
+ Västra Ämtevik
+ 238: Arvika, Skog
+					0.9 km/0.7 km	0 min 40 s/0 min 31 s
+T-korsning Berga N
+ Folkesgården
+					4.3 km/4.3 km	3 min 14 s/3 min 14 s
+Dubbel T-korsning Såneby
+ Öjervik
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+Korsning Rottneros Värdshus
+ Gräsmark, Ski Sunne
+					2.3 km/2.3 km	1 min 58 s/1 min 58 s
+T-korsning Rottneros N
+ Rottneros Bruk
+
+T-korsning Rottneros Park
+ Berättarladan
+
+Rastplats Stamfrändemonumentet
+					2.2 km/2.2 km	1 min 53 s/1 min 53 s
+Korsning Sunne S
+ Sunne Centrum
+					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+T-korsning Sundsberget
+
+Korsning Sunne V
+ 241: Munkfors
+ Sunne Centrum
+Bensinstation: OKQ8
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+Korsning E45/Bergavägen
+
+T-korsning Holmby
+ Gräsmark
+					0.6 km/0.6 km	0 min 31 s/0 min 31 s
+T-korsning Ulvsby
+ Sunne N
+
+Ulvsby Herrgård
+
+T-korsning Frykenstrand
+ Hotell Frykenstrand
+					14.3 km/14.4 km	10 min 44 s/10 min 48 s
+(T-korsning Stöpafors S)
+ Enskild väg
+
+Korsning Stöpafors E45
+(Enskild väg)
+ Bensinstation: Bilisten
+ Restaurang: Diner 45
+
+Korsning Tossebergsklätten
+(Enskild väg)
+ Tossebergsklätten
+
+Rastplats Tossebergsklätten
+					3.7 km/3.6 km	2 min 46 s/2 min 42 s
+Korsning Västra Berga
+					3.1 km/3.1 km	2 min 20 s/2 min 20 s
+Korsning
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Sunne / Torsby
+					2.5 km/2.5 km	1 min 53 s/1 min 53 s
+Korsning Bredviken E45
+ Svenneby, Torsby camping
+ Granevik, Åshagen
+					3.3 km/3.5 km	2 min 28 s/2 min 38 s
+T-korsning Torsby södra
+ Torsby S
+ Svenneby
+					1.1 km/1.2 km	1 min 6 s/1 min 12 s
+Rondell Torsby sydvästra
+ Torsby Centrum
+ E16 v: Oslo, Kongsvinger
+ Gräsmark
+ Bensinstation: OKQ8
+					1.0 km/0.8 km	0 min 60 s/0 min 48 s
+Bro över Röjdan
+
+Korsning Torsby västra
+ Torsby Centrum
+ Östmark
+					1.7 km/1.7 km	1 min 42 s/1 min 42 s
+Korsning Torsby Flygplats
+ Industri omr.
+ Torsby Flygplats, skitunnel
+					0.6 km/0.6 km	36 s/36 s
+T-korsning Torsby nordväst
+ 239: Ekshärad
+					5.3 km/5.3 km	3 min 59 s/3 min 59 s
+Rastplats Hänsjön
+					2.3 km/2.3 km	1 min 43 s/1 min 43 s
+Ljusnan
+
+T-korsning Fensbol
+ Utterbyn
+
+T-korsning E45/Skansenvägen
+ Enskild väg, Markusfolks Gård
+
+Ljusnan
+(T-korsning Västra Vadje)
+ Enskild väg
+					7.4 km/7.7 km	5 min 33 s/5 min 47 s
+Bensinstation: Circle-K
+Trippel T-korsning Överbyn S
+(Enskild väg)
+ Camping 45
+
+T-korsning E45/Hovfjällsvägen
+ Hovfjället
+
+T-korsning Vägsjöfors V
+ Bograngen, Vitsand
+					1.4 km/1.1 km	1 min 41 s/1 min 19 s
+Korsning Vägsjöfors Herrgård
+(Övre/Nedre Brocken)
+
+Korsning Vägsjöfors Ö
+ Björbysätern
+					19.9 km/20.1 km	14 min 55 s/15 min 5 s
+T-korsning (enskild väg)
+ Osebol
+
+Korsning Björby
+ Osebol
+ Ljusnäs
+(Bro över Klarälven)
+
+Klarälvens Camping
+					0.6 km/0.4 km	27 s/18 s
+Korsning Värnäs
+ 62 s: Karlstad, Hagfors
+ 62 n: Trysil, Sysslebäck
+ Bensinstation: Din-X
+ Restaurang/Kiosk: Mac 45
+					16.0 km/16.0 km	11 min 60 s/11 min 60 s
+T-korsning (enskild väg)
+ Naturreservat
+
+Halgån
+Parkeringsplats (ej skyltad)
+
+Värmland / Dalarna
+Torsby / Malung
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+Rastplats Lisskogsåsen
+ Restaurang: Dutch Mountain
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+T-korsning Lisskogsåsen
+ Ö. Näsberget, Lisskogsåsen
+					23.2 km/23.3 km	17 min 24 s/17 min 29 s
+Mellanhån-Järshån
+
+Parkeringsplats
+(Bro över Uvan)
+
+T-korsning (lokalt mål)
+ Byråsen, Skidbacke
+
+Dubbel T-korsning Malung V
+ V. Fors, Malungs Camping
+ V. Utsjö
+					0.4 km/0.4 km	36 s/36 s
+Västerdalälven
+					0.4 km/0.3 km	36 s/27 s
+Korsning E45/Äsbyvägen
+ Infoplats, Hotell och Spa
+Järnvägskorsning
+ Västerdalsbanan
+
+T-korsning Malung centrum
+Korsning Malung Centrum
+Bensinstation: Preem
+					0.4 km/0.4 km	36 s/36 s
+Rondell Malung Ö
+ 71 ö: Borlänge, Vansbro
+ 71 v: Särna, Sälen
+T-korsning E45/Källvägen
+ Bensinstation: Tanka
+
+Korsning Dansande paret
+ Lövängen industriomr.
+
+T-korsning Ryhagen
+ Ryhagen industriomr.
+
+(T-korsning Lännviken)
+ Enskild väg, Återvinningscentr.
+
+(T-korsning Öje södra)
+ Öje
+
+T-korsning Öje centrumhuset
+ Restaurang: Vita Älgen
+ Hotel: Öje Turistgård
+ Rastplats Öje
+(Ogströmmen)
+
+T-korsning Öje östra
+ Öje Camping (lokal väg)
+
+Ogströmmen
+
+Malung / Mora
+
+T-korsning Johannisholm
+ 26 s: Filipstad, Vansbro
+Rastplats Johannisholm
+ Restaurang: Johannis krog
+(Johannisholms stugby)
+
+Vanån
+
+T-korsning Sjöändan
+ Venjan
+
+T-korsning Kättbo E45
+ Gävunda
+
+T-korsning Vimo
+ Enskild väg
+
+(Restaurang: Siljansfors)
+
+T-korsning Siljansfors
+ Rastplats Siljansfors
+ Siljansfors Skogsmuseum
+
+Bro över Ryssån
+
+Järnvägsbro
+ Inlandsbanan
+
+T-korsning Budsel E45
+ Ryssa
+
+T-korsning
+ Leksand, Sollerön, Gesunda
+ Tomteland
+
+Korsning Vika Södra
+ Vika
+
+Korsning Vika Norra
+ Vika
+
+T-korsning E45/Vinäs byväg
+  Vinäs, Siljans flygplats
+
+T-korsning E45/Wibevägen
+
+Järnvägskorsning
+ Inlandsbanan
+
+Korsning Mora södra
+ Vinäs
+
+Rondell E45/Svedjärnsvägen
+ Örjastäppan industriomr.
+
+Korsning E45/Morkarlbyvägen
+ Oxberg, Selja
+T-korsning E45/Yvradsvägen
+ Vinäs
+ Bensinstation: OKQ8
+
+Järnvägskorsning
+ Älvdalsbanan
+T-korsning E45/Fridhemsgatan
+
+Korsning E45/Köpmannagatan
+ Mora turistinformation
+
+Korsning E45/Hamngatan
+
+Rondell E45/Kaplandsgatan
+ [70 n]: Älvdalen
+
+Rondell E45/Älvgatan
+ 70 n: Röros, Älvdalen
+
+T-korsning Mora station
+ Bensinstation: Shell
+
+T-korsning E45/Kristinebergsgatan
+ Bensinstation: Circle-K
+
+T-korsning E45/Stationsvägen
+ Bensinstation: OKQ8
+
+(Österdalälven/Orsaälven)
+T-korsning E45/Solgärdsvägen
+ Noret
+
+Järnvägsviadukt
+ Inlandsbanan
+
+Rondell Mora Noret
+ 70 s: Borlänge, Rättvik
+ Bensinstation: Preem, St1
+ Restaurang: McDonald's, Noret Restaurang

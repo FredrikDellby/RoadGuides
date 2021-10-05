@@ -1,0 +1,322 @@
+Time	Km	Instruction	For	Toward
+Summary:  25,3 kilometres (21 minutes)
+09:00	0,0	Depart 47, 467 Grästorp on Local road(s) (East)	10 m	
+09:00	0,1	Keep RIGHT onto 47	2,4 km	
+09:02	2,4	At T-korsning Forshall, stay on 47 (East)	1,1 km	
+09:03	3,5	At T-korsning Grästorp V, stay on 47 [Södergatan] (South-East)	0,7 km	
+09:04	4,2	At 47 39, 467 Grästorp, stay on 47 [Södergatan] (East)	0,3 km	
+09:05	4,5	At 47, 467 Grästorp, stay on 47 [Södergatan] (East)	0,4 km	
+09:05	4,9	At T-korsning Grästorp Ö, stay on 47 [Södergatan] (East)	4,1 km	
+09:09	9,0	At T-korsning Flakeberg, stay on 47 (East)	2,3 km	
+09:11	11,3	At near Ulvstorp, stay on 47 (East)	0,3 km	
+09:11	11,6	At Korsning Ulvstorp, stay on 47 (East)	5,6 km	
+09:15	17,1	At Korsning Rylanda, stay on 47 (East)	1,6 km	
+09:16	18,7	At near Stora Levene, stay on 47 (East)	2,2 km	
+09:18	21,0	At T-korsning, stay on 47 [187] (East)	0,6 km	
+09:18	21,6	At T-korsning Long S, stay on 47 (East)	3,0 km	
+09:21	24,6	At T-korsning Skatofta, stay on 47 (South-East)	0,7 km	
+09:21	25,3	Arrive 47, 534 Vara		
+
+SUMMARY
+Driving distance:  25,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  29,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,3 kilometres (22 minutes)
+09:00	0,0	Depart near Skatofta on 47 (West)	0,9 km	
+09:00	0,9	At near Skatofta, stay on 47 (North-West)	3,1 km	
+09:03	4,0	At T-korsning Long S, stay on 47 [187] (West)	0,5 km	
+09:03	4,5	At 187, 534 95 Vara, stay on 47 [187] (West)	2,3 km	
+09:05	6,8	At near Håkantorp, stay on 47 (West)	1,6 km	
+09:06	8,4	At Korsning Rylanda, stay on 47 (West)	5,6 km	
+09:10	14,0	At Korsning Ulvstorp, stay on 47 (West)	30 m	
+09:10	14,0	At near Ulvstorp, stay on 47 (West)	2,1 km	
+09:12	16,1	At near Flakeberg, stay on 47 (West)	4,2 km	
+09:15	20,3	At near Grästorp, stay on 47 [Södergatan] (West)	0,4 km	
+09:16	20,8	At 47, 467 30 Grästorp, stay on 47 [Södergatan] (West)	0,3 km	
+09:17	21,0	At near Grästorp, stay on 47 [Södergatan] (West)	0,8 km	
+09:18	21,8	At T-korsning Grästorp V, stay on 47 [Södergatan] (North-West)	1,1 km	
+09:19	22,9	At T-korsning Forshall, stay on 47 (West)	2,4 km	
+09:22	25,3	Arrive near Salstad		
+
+SUMMARY
+Driving distance:  25,3 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  33,21 kr
+
+Tre Älgar - Grästorp V
+2.4 km/2.4 km	2 min 3 s/2 min 3 s	70
+1.1 km/1.1 km	0 min 57 s/0 min 57 s
+
+Grästorp V - Grästorp Ö
+0.7 km/0.8 km	1 min 3 s/1 min 12 s	40
+0.3 km/0.2 km	0 min 27 s/0 min 18 s
+0.4 km/0.4 km	0 min 36 s/0 min 36 s
+
+Grästorp Ö - Trp Åsen
+4.1 km/4.2 km	3 min 5 s/3 min 9 s	80
+2.3 km/2.1 km	1 min 43 s/1 min 35 s
+0.3 km/30.0 km	0 min 14 s/22 min 30 s
+5.6 km/5.6 km	4 min 12 s/4 min 12 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+2.2 km/2.3 km	1 min 39 s/1 min 43 s
+0.6 km/0.5 km	0 min 27 s/0 min 23 s
+3.0 km/3.1 km	2 min 15 s/2 min 20 s
+0.7 km/0.9 km	0 min 31 s/0 min 41 s
+
+Trp Åsen - Gökhem korsväg
+2.8 km/2.6 km	2 min 6 s/1 min 57 s	80
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+5.6 km/5.6 km	4 min 12 s/4 min 12 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+7.0 km/7.0 km	5 min 15 s/5 min 15 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+2.6 km/2.8 km	1 min 57 s/2 min 6 s
+3.7 km/3.6 km	2 min 47 s/2 min 42 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+
+Gökhem korsväg - Falköping Ö
+2.6 km/2.6 km	2 min 14 s/2 min 14 s	70
+1.8 km/1.8 km	1 min 33 s/1 min 33 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+2.8 km/3.0 km	2 min 24 s/2 min 34 s
+0.8 km/0.9 km	0 min 41 s/0 min 46 s
+1.4 km/1.6 km	1 min 12 s/1 min 22 s
+
+Falköping Ö - T-korsning (Rv 26)
+4.4 km/4.2 km	3 min 18 s/3 min 9 s	80
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+1.8 km/1.8 km	1 min 21 s/1 min 21 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+
+Time	Km	Instruction	For	Toward
+Summary:  18,3 kilometres (13 minutes)
+09:00	0,0	Depart near Ormaryd on Local road(s) (South-East)	10 m	
+09:00	0,1	Keep STRAIGHT onto 31 [47]	1,7 km	
+09:01	1,7	At 31, 575 96 Eksjö, stay on 31 [47] (South-East)	2,9 km	
+09:03	4,5	At T-korsning, stay on 31 [47] (South)	1,6 km	
+09:04	6,1	At 31, 571 93 Nässjö, stay on 31 [47] (East)	1,0 km	
+09:05	7,1	At near Boda, stay on 31 [47] (South)	3,5 km	
+09:08	10,6	At Korsning Rödjenäs, stay on 31 [47] (South)	1,5 km	
+09:09	12,1	At Korsning, stay on 31 [47] (East)	3,5 km	
+09:11	15,6	At T-korsning Lygneshult, stay on 31 [47] (South-East)	2,4 km	
+09:13	18,0	At Korsning Björkeryd V, stay on 31 [47] (East)	0,3 km	
+09:13	18,3	Arrive T-korsning Björkeryd S		
+
+SUMMARY
+Driving distance:  18,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  23,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (13 minutes)
+09:00	0,0	Depart 32, 574 Björköby on 31 [32] (West)	0,4 km	
+09:00	0,4	At Korsning Björkeryd V, stay on 31 (North-West)	2,4 km	
+09:02	2,8	At T-korsning Lygneshult, stay on 31 (North-West)	3,5 km	
+09:04	6,4	At Korsning, stay on 31 (West)	1,5 km	
+09:06	7,8	At Korsning Rödjenäs, stay on 31 (North)	3,5 km	
+09:08	11,4	At near Boda, stay on 31 (North)	0,9 km	
+09:09	12,3	At 31, 571 Nässjö, stay on 31 (West)	1,6 km	
+09:10	13,9	At T-korsning, keep STRAIGHT to stay on 31	2,9 km	
+09:12	16,8	At 31, 575 Eksjö, stay on 31 (North-West)	1,6 km	
+09:13	18,4	Arrive 31, 571 Nässjö		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  20,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,9 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Björkeryd S on 31 [32] (East)	8,2 km	
+09:07	8,2	At Korsning, stay on 31 [32] (South-East)	1,3 km	
+09:09	9,5	At roundabout, take the SECOND exit onto 31 [47]	0,5 km	
+09:09	10,0	At 31, 574 35 Vetlanda, stay on 31 [47] (South)	1,3 km	
+09:10	11,4	At roundabout, take the SECOND exit onto 31 [47]	1,6 km	
+09:12	13,0	At T-korsning Vetlanda SV, stay on 31 [47] (South-East)	1,5 km	
+09:13	14,5	At T-korsning Brogård S, stay on 31 [47] (East)	0,3 km	
+09:13	14,9	Arrive near Vetlanda		
+
+SUMMARY
+Driving distance:  14,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  25,86 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,9 kilometres (14 minutes)
+09:00	0,0	Depart Västerleden, 574 Vetlanda on Local road(s) (West)	40 m	
+09:00	0,1	Keep RIGHT onto 31 [127]	0,3 km	
+09:00	0,4	At T-korsning Brogård S, stay on 31 [127] (West)	1,6 km	
+09:02	2,0	At T-korsning Vetlanda SV, stay on 31 [127] (North-West)	1,4 km	
+09:03	3,4	At T-korsning Vetlanda GK, stay on 31 [127] (North)	0,2 km	
+09:03	3,6	At roundabout, take the SECOND exit onto 31 [Västerleden]	1,4 km	
+09:04	5,0	At 31, 574 Vetlanda, stay on 31 [Västerleden] (East)	0,4 km	
+09:04	5,4	At roundabout, take the SECOND exit onto 31 [32]	1,2 km	
+09:06	6,6	At 31, 574 Vetlanda, stay on 31 [32] (North)	8,3 km	
+09:14	14,9	Arrive 32, 574 Björköby		
+
+SUMMARY
+Driving distance:  14,9 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  22,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,0 kilometres (27 minutes)
+09:00	0,0	Depart near Vetlanda on 31 [47] (East)	90 m	
+09:00	0,1	At roundabout, take the SECOND exit onto 47 [Västerleden]	1,2 km	
+09:01	1,3	At T-korsning Vetlanda SO, stay on 47 [Västerleden] (North-East)	0,6 km	
+09:01	1,9	At 47, 574 33 Vetlanda, stay on 47 [Västerleden] (East)	1,7 km	
+09:03	3,6	At Korsning Flugeby, stay on 47 [Berghagavägen] (East)	2,4 km	
+09:04	6,0	At Korsning Sjunnen, stay on 47 [Berghagavägen] (North)	2,4 km	
+09:06	8,4	At T-korsning Holsbybrunn, stay on 47 [Alsedavägen] (South-East)	2,7 km	
+09:08	11,1	At T-korsning Aspö, stay on 47 (East)	0,9 km	
+09:09	12,0	At T-korsning Alseda kyrka, stay on 47 (South)	1,0 km	
+09:11	13,0	At Korsning Alseda S, stay on 47 (East)	3,4 km	
+09:14	16,4	At T-korsning Ädelfors S, stay on 47 (South-East)	7,3 km	
+09:21	23,7	At T-korsning Tälläng, stay on 47 (East)	4,3 km	
+09:25	27,9	At T-korsning Kvillsfors, stay on 47 [Vetlandavägen] (East)	0,8 km	
+09:26	28,7	At Målillavägen, 570 16 Kvillsfors, stay on 47 [Målillavägen] (East)	1,3 km	
+09:27	30,0	Arrive 47, 570 16 Kvillsfors		
+
+SUMMARY
+Driving distance:  30,0 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  43,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,9 kilometres (27 minutes)
+09:00	0,0	Depart Målillavägen, 570 Kvillsfors on 127 [Målillavägen] (West)	1,3 km	
+09:00	1,3	At Vetlandavägen, 570 Kvillsfors, stay on 127 [Vetlandavägen] (West)	0,8 km	
+09:01	2,1	At T-korsning Kvillsfors, stay on 127 [Vetlandavägen] (South-West)	4,3 km	
+09:05	6,4	At T-korsning Tälläng, stay on 127 (West)	7,0 km	
+09:12	13,4	At T-korsning Ädelfors S, stay on 127 (West)	3,7 km	
+09:16	17,0	At Korsning Alseda S, stay on 127 (West)	1,0 km	
+09:17	18,0	At T-korsning Alseda kyrka, stay on 127 (North)	0,9 km	
+09:18	18,9	At T-korsning Aspö, stay on 127 (West)	2,7 km	
+09:20	21,6	At near Holsbybrunn, stay on 127 [Alsedavägen] (West)	2,4 km	
+09:22	24,1	At Korsning Sjunnen, stay on 127 [Berghagavägen] (South)	2,4 km	
+09:24	26,4	At Korsning Flugeby, stay on 127 (West)	1,4 km	
+09:25	27,8	At 127, 574 Vetlanda, stay on 127 [Västerleden] (West)	0,8 km	
+09:26	28,7	At T-korsning Vetlanda SO, stay on 127 [Västerleden] (South-West)	1,2 km	E45 N / Kolding / Årus / Vejle
+09:27	29,9	Arrive Västerleden, 574 Vetlanda		
+
+SUMMARY
+Driving distance:  29,9 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  38,26 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (18 minutes)
+09:00	0,0	Depart Målillavägen, 570 Kvillsfors on 127 (East)	5,5 km	
+09:04	5,5	At Korsning Järnforsen Rv47, stay on 127 [Videbrovägen] (North-East)	1,4 km	
+09:05	6,9	At T-korsning Klövdala, stay on 127 [Klövdala] (East)	8,4 km	
+09:14	15,3	At T-korsning, stay on 127 (East)	0,9 km	
+09:14	16,3	At 127, 570 Målilla, stay on 127 [Vetlandavägen] (East)	0,5 km	
+09:15	16,7	At T-korsning Gårdveda Ö, stay on 127 [Vetlandavägen] (East)	1,7 km	
+09:18	18,4	Arrive Atlantvägen 2, 570 Målilla		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  21,19 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,6 kilometres (18 minutes)
+09:00	0,0	Depart 34, 570 Målilla on Local road(s) (North)	90 m	
+09:00	0,1	Keep RIGHT onto 127 [Vetlandavägen]	1,8 km	
+09:02	1,9	At T-korsning Gårdveda Ö, stay on 127 [Vetlandavägen] (West)	0,5 km	
+09:03	2,4	At 127, 570 Målilla, stay on 127 (West)	0,9 km	
+09:04	3,3	At T-korsning, stay on 127 (West)	8,4 km	
+09:12	11,8	At T-korsning Klövdala, stay on 127 [Klövdala] (West)	1,3 km	
+09:14	13,0	At near Järnforsen, stay on 127 [Klövdalavägen] (West)	5,6 km	
+09:18	18,6	Arrive Målillavägen, 570 Kvillsfors		
+
+SUMMARY
+Driving distance:  18,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  21,49 kr
+
+Gölgaryd - Björkeryd S
+1.7 km/1.6 km	1 min 17 s/1 min 12 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+1.0 km/0.9 km	0 min 45 s/0 min 41 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+0.3 km/0.4 km	0 min 14 s/0 min 18 s
+
+Björkeryd S - Brogård S
+8.2 km/8.3 km	7 min 2 s/7 min 7 s
+1.3 km/1.2 km	1 min 7 s/1 min 2 s
+0.5 km/0.4 km	0 min 26 s/0 min 21 s
+1.3 km/1.6 km	1 min 7 s/1 min 22 s
+1.6 km/1.4 km	1 min 22 s/1 min 12 s
+1.5 km/1.6 km	1 min 17 s/1 min 22 s
+
+Brogård S - Vetlanda S
+0.3 km/0.4 km	0 min 22 s/0 min 29 s
+
+Vetlanda S - Sjunnen
+1.3 km/1.2 km	1 min 7 s/1 min 2 s
+0.6 km/0.8 km	0 min 31 s/0 min 41 s
+1.7 km/1.4 km	1 min 27 s/1 min 12 s
+2.4 km/2.4 km	2 min 3 s/2 min 3 s
+
+Sjunnen - Holsbybrunn
+2.4 km/2.4 km	2 min 53 s/2 min 53 s
+
+Holsbybrunn - Aspö
+2.7 km/2.7 km	2 min 42 s/2 min 42 s
+
+Aspö - Kvillsfors
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+3.4 km/3.7 km	2 min 55 s/3 min 10 s
+7.3 km/7.0 km	6 min 15 s/6 min 0 s
+4.3 km/4.3 km	3 min 41 s/3 min 41 s
+
+Kvillsfors - Länsgräns
+0.8 km/0.8 km	0 min 58 s/0 min 58 s
+1.3 km/1.3 km	1 min 34 s/1 min 34 s
+
+Länsgräns - Järnforsen
+5.5 km/5.6 km	4 min 43 s/4 min 48 s
+
+Järnforsen - Klövdala
+1.4 km/1.3 km	1 min 24 s/1 min 18 s
+
+Klövdala - Gårdveda Ö
+8.4 km/8.4 km	7 min 12 s/7 min 12 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+
+Gårdveda Ö - Målilla V
+1.7 km/1.9 km	1 min 42 s/1 min 54 s

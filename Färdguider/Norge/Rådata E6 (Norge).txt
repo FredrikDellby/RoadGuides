@@ -1,0 +1,556 @@
+Time	Km	Instruction	For	Toward
+Summary:  22,2 kilometres (14 minutes)
+09:00	0,0	Depart near Svinesund on E6 (North)	0,7 km	
+09:00	0,3	Entering Norway		
+09:00	0,7	At near Sponvika, stay on E6 (North)	1,7 km	
+09:01	2,4	At 1, stay on E6 (North-East)	1,8 km	
+09:03	4,2	At E6, 1789 Halden, stay on E6 (North)	7,0 km	
+09:07	11,2	At E6, 1746 Sarpsborg, stay on E6 (North-West)	4,6 km	
+09:10	15,8	At E6, 1747 Sarpsborg, stay on E6 (North)	6,3 km	
+09:14	22,2	Arrive E6, 1659 Fredrikstad		
+
+SUMMARY
+Driving distance:  22,2 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  28,18 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,7 kilometres (16 minutes)
+09:00	0,0	Depart E6, 1659 Fredrikstad on E6 [Sandesund Bru] (South)	7,7 km	
+09:05	7,7	At E6, 1747 Sarpsborg, stay on E6 (South)	11,3 km	
+09:12	19,0	At E6, 1789 Halden, stay on E6 (South)	2,4 km	
+09:14	21,4	At 1, stay on E6 (South)	2,3 km	
+09:15	23,4	Entering Sweden		
+09:16	23,7	Arrive near Svinesund		
+
+SUMMARY
+Driving distance:  23,7 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  30,63 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,6 kilometres (23 minutes)
+09:00	0,0	Depart E6, 1659 Fredrikstad on E6 (North)	4,6 km	
+09:03	4,6	At E6, 1711 Sarpsborg, stay on E6 (North-West)	4,1 km	
+09:06	8,7	At E6, 1712 Sarpsborg, stay on E6 [Eidettunnelen] (West)	1,2 km	
+09:07	9,9	At E6, 1712 Sarpsborg, stay on E6 (West)	0,4 km	
+09:07	10,3	At E6, 1719 Sarpsborg, stay on E6 (West)	2,0 km	
+09:09	12,3	At E6, 1719 Sarpsborg, stay on E6 (West)	3,4 km	
+09:11	15,7	At E6, 1640 Råde, stay on E6 (North-West)	5,0 km	
+09:14	20,7	At E6, 1640 Råde, stay on E6 (West)	5,7 km	
+09:18	26,4	At E6, 1580 Rygge, stay on E6 (North-West)	4,7 km	
+09:21	31,1	At E6, 1570 Rygge, stay on E6 (North)	1,3 km	
+09:22	32,4	At E6, 1529 Moss, stay on E6 (North)	2,1 km	
+09:23	34,6	Arrive E6, 1599 Moss		
+
+SUMMARY
+Driving distance:  34,6 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  46,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,6 kilometres (22 minutes)
+09:00	0,0	Depart E6, 1599 Moss on E6 (South)	3,6 km	
+09:02	3,6	At E6, 1529 Moss, stay on E6 (South)	4,3 km	
+09:05	8,0	At E6, 1580 Rygge, stay on E6 (South-East)	6,2 km	
+09:09	14,2	At E6, 1640 Råde, stay on E6 (East)	4,5 km	
+09:11	18,8	At E6, 1640 Råde, stay on E6 (East)	3,4 km	
+09:14	22,2	At near Missingmyr, stay on E6 (East)	2,7 km	
+09:16	24,8	At E6, 1719 Sarpsborg, stay on E6 (East)	0,4 km	
+09:16	25,2	At E6, 1712 Sarpsborg, stay on E6 [Eidettunnelen] (East)	1,2 km	
+09:17	26,4	At E6, 1712 Sarpsborg, stay on E6 (East)	1,0 km	
+09:18	27,4	At E6, 1712 Sarpsborg, stay on E6 (South)	5,1 km	
+09:22	32,5	At E6, 1711 Sarpsborg, stay on E6 (South-East)	1,1 km	
+09:22	33,6	Arrive E6, 1659 Fredrikstad		
+
+SUMMARY
+Driving distance:  33,6 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  44,98 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,5 kilometres (23 minutes)
+09:00	0,0	*Toll road* Depart E6, 1599 Moss on E6 (North)	5,4 km	
+09:04	5,4	Stay on E6 (North-East)	2,8 km	
+09:05	8,1	At E6, 1550 Vestby, stay on E6 (North-East)	1,6 km	
+09:06	9,8	At E6, 1550 Vestby, stay on E6 [Follotunnelen] (North)	1,0 km	
+09:07	10,8	At E6, 1550 Vestby, stay on E6 (North)	7,5 km	
+09:12	18,2	At E6, 1540 Vestby, stay on E6 (North)	2,3 km	
+09:13	20,5	At E6, 1540 Vestby, stay on E6 (North)	2,7 km	
+09:15	23,2	At E6, 1430 Ås, stay on E6 [Mosseveien] (North)	1,7 km	
+09:16	24,9	At E6, 1430 Ås, stay on E6 [Mosseveien] (North)	3,0 km	
+09:18	27,9	At E6, 1440 Frogn, stay on E6 (North)	2,0 km	
+09:19	30,0	At E6, 1440 Frogn, stay on E6 (North)	4,5 km	
+09:23	34,5	Arrive E6, 1407 Ås		
+
+SUMMARY
+Driving distance:  34,5 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  38,65 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,6 kilometres (23 minutes)
+09:00	0,0	Depart near Togrenda on E6 (South)	4,6 km	
+09:03	4,6	At E6, 1440 Frogn, stay on E6 (South)	1,8 km	
+09:04	6,4	At E6, 1440 Frogn, stay on E6 (South)	0,4 km	
+09:05	6,8	At E6, 1440 Frogn, stay on E6 (South)	3,0 km	
+09:07	9,8	At near Ås, stay on E6 [Mosseveien] (South)	1,6 km	
+09:08	11,4	At E6, 1430 ÅS, stay on E6 [Mosseveien] (South)	2,6 km	
+09:09	13,9	At E6, 1540 Vestby, stay on E6 (South)	2,6 km	
+09:11	16,6	At E6, 1540 Vestby, stay on E6 (South)	7,8 km	
+09:16	24,4	At E6, 1550 Vestby, stay on E6 [Follotunnelen] (South)	1,0 km	
+09:16	25,4	At E6, 1550 Vestby, stay on E6 (South)	1,1 km	
+09:17	26,5	At near Son, stay on E6 (South)	3,3 km	
+09:19	29,8	*Toll road* Stay on E6 (South)	0,7 km	
+09:20	30,5	Stay on E6 (South)	4,1 km	
+09:23	34,6	Arrive E6, 1599 Moss		
+
+SUMMARY
+Driving distance:  34,6 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  44,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,4 kilometres (12 minutes)
+09:00	0,0	Depart E6, 1405 Ski on E6 (North)	1,4 km	
+09:01	1,4	At near Oppegård, stay on E6 (North)	5,0 km	
+09:04	6,4	At E6, 1278 Oslo, stay on E6 (North)	1,3 km	
+09:05	7,7	At near Klemetsrud, stay on E6 (North)	1,5 km	
+09:06	9,1	At E6, 1164 Oslo, stay on E6 (North)	1,9 km	
+09:08	11,0	At E6, 1187 Oslo, stay on E6 (North-West)	1,6 km	
+09:09	12,5	At E6, 1184 Oslo, stay on E6 (North)	0,6 km	
+09:09	13,1	At E6, 0680 Oslo, stay on E6 (North)	0,8 km	
+09:10	13,9	At E6, 0679 Oslo, stay on E6 (North-East)	0,7 km	
+09:11	14,6	At E6, 0667 Oslo, stay on E6 (North)	0,8 km	
+09:11	15,4	At E6, 0667 Oslo, stay on E6 (North)	1,0 km	
+09:12	16,4	Arrive E6, 0665 Oslo		
+
+SUMMARY
+Driving distance:  16,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  23,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,8 kilometres (12 minutes)
+09:00	0,0	Depart Ulvensplitten, 0665 Oslo on Ramp (West)	0,7 km	E6 / E18 / Gøteborg / Stockholm / Ring 3 / Ryen / Sentrum
+09:00	0,7	Merge onto E6 [Hjalmar Brantings Vei]	1,0 km	
+09:01	1,7	At E6, 0667 Oslo, stay on E6 (South-East)	1,0 km	
+09:02	2,7	At E6, 0667 Oslo, stay on E6 (South)	0,7 km	
+09:02	3,4	At near Østensjø, stay on E6 (West)	0,5 km	
+09:03	3,9	At E6, 0679 Oslo, stay on E6 (South-West)	1,0 km	
+09:03	4,8	At E6, 1184 Oslo, stay on E6 (South)	1,1 km	
+09:04	5,9	At E6, 1187 Oslo, stay on E6 (South)	2,0 km	
+09:06	7,9	At E6, 1164 Oslo, stay on E6 (South)	1,4 km	
+09:07	9,3	At E6, 1283 Oslo, stay on E6 (South)	1,4 km	
+09:08	10,6	At E6, 1281 Oslo, stay on E6 (South)	2,2 km	
+09:09	12,9	At E6, 1291 Oslo, stay on E6 (South)	2,8 km	
+09:11	15,7	At E6, 1405 Ski, stay on E6 (South)	1,1 km	
+09:12	16,8	Arrive E6, 1405 Ski		
+
+SUMMARY
+Driving distance:  16,8 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  27,74 kr
+
+Svinesundsbron_syd - Ingedalskrysset (3)
+0.7 km/0.7 km	0 min 25 s/0 min 25 s	100
+1.7 km/1.6 km	1 min 1 s/0 min 58 s
+1.8 km/2.4 km	1 min 5 s/1 min 26 s
+3.3 km/2.8 km	1 min 59 s/1 min 41 s
+3.7 km/4.1 km	2 min 13 s/2 min 28 s
+
+Ingedalskrysset (3) - Avfart Årum
+4.6 km/4.5 km	3 min 4 s/3 min 0 s	90
+4.3 km/4.1 km	2 min 52 s/2 min 44 s
+2.0 km/3.6 km	1 min 20 s/2 min 24 s
+
+Avfart Årum - Avfart Solli
+2.3 km/1.1 km	1 min 32 s/0 min 44 s	90
+2.3 km/2.6 km	1 min 32 s/1 min 44 s
+3.1 km/2.5 km	2 min 4 s/1 min 40 s
+1.0 km/1.0 km	0 min 40 s/0 min 40 s
+1.2 km/1.2 km	0 min 48 s/0 min 48 s
+0.4 km/0.4 km	0 min 16 s/0 min 16 s
+2.0 km/2.7 km	1 min 20 s/1 min 48 s
+
+Avfart Solli - Patterødskrysset (14)
+3.4 km/3.4 km	2 min 2 s/2 min 2 s	100
+5.0 km/4.5 km	3 min 0 s/2 min 42 s
+3.9 km/3.6 km	2 min 20 s/2 min 10 s
+1.8 km/2.6 km	1 min 5 s/1 min 34 s
+4.7 km/4.3 km	2 min 49 s/2 min 35 s
+1.3 km/1.4 km	0 min 47 s/0 min 50 s
+2.1 km/2.2 km	1 min 16 s/1 min 19 s
+
+Patterødskrysset (14) - Vinterbrokrysset (21)
+5.4 km/4.8 km	3 min 14 s/2 min 53 s	100
+2.8 km/3.3 km	1 min 41 s/1 min 59 s
+1.6 km/1.1 km	0 min 58 s/0 min 40 s
+1.0 km/1.0 km	0 min 36 s/0 min 36 s
+7.5 km/7.8 km	4 min 30 s/4 min 41 s
+2.3 km/2.6 km	1 min 23 s/1 min 34 s
+1.2 km/0.5 km	0 min 43 s/0 min 18 s
+1.5 km/2.1 km	0 min 54 s/1 min 16 s
+1.7 km/1.6 km	1 min 1 s/0 min 58 s
+2.8 km/3.0 km	1 min 41 s/1 min 48 s
+1.1 km/0.4 km	0 min 40 s/0 min 14 s
+1.1 km/1.8 km	0 min 40 s/1 min 5 s
+1.1 km/0.6 km	0 min 40 s/0 min 22 s
+3.4 km/4.0 km	2 min 2 s/2 min 24 s
+
+Vinterbrokrysset (21) - Assurtjernkrysset (24)
+1.1 km/0.8 km	0 min 40 s/0 min 29 s
+4.3 km/4.1 km	2 min 35 s/2 min 28 s
+0.5 km/0.4 km	0 min 18 s/0 min 14 s
+0.4 km/1.0 km	0 min 14 s/0 min 36 s
+
+Assurtjernkrysset (24) - Ryenkrysset (32)
+1.4 km/1.1 km	0 min 56 s/0 min 44 s
+2.7 km/2.8 km	1 min 48 s/1 min 52 s
+2.3 km/2.2 km	1 min 32 s/1 min 28 s
+1.3 km/1.4 km	0 min 52 s/0 min 56 s
+1.5 km/1.4 km	1 min 0 s/0 min 56 s
+1.9 km/2.0 km	1 min 16 s/1 min 20 s
+1.6 km/1.1 km	1 min 4 s/0 min 44 s
+0.6 km/1.0 km	0 min 24 s/0 min 40 s
+
+Ryenkrysset (32) - Hovinkrysset (37)
+0.8 km/0.5 km	0 min 36 s/0 min 23 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+0.8 km/1.0 km	0 min 36 s/0 min 45 s
+1.0 km/1.7 km	0 min 45 s/1 min 17 s
+
+Time	Km	Instruction	For	Toward
+Summary:  37,9 kilometres (25 minutes)
+09:00	0,0	Depart Hjalmar Brantings Vei, 0665 Oslo on E6 [Hjalmar Brantings Vei] (West)	0,3 km	
+09:00	0,3	Keep RIGHT onto Ramp	0,5 km	E6 / Trondheim / Gardermoen Lufthavn / Alnabru / Ulven
+09:00	0,8	Road name changes to E6 [Ulvensplitten]	0,4 km	
+09:00	1,2	At Ulvensplitten, 0581 Oslo, stay on E6 [Ulvensplitten] (East)	0,3 km	
+09:01	1,4	Keep STRAIGHT onto Ramp	0,7 km	
+09:01	2,1	Road name changes to E6	1,5 km	
+09:02	3,6	At E6, 0668 Oslo, stay on E6 (North-East)	1,6 km	
+09:03	5,2	At near Alna, stay on E6 (East)	2,3 km	
+09:05	7,5	At E6, 1086 Oslo, stay on E6 (East)	2,1 km	E6 / Trondheim / Gardermoen
+09:07	9,6	At E6, 2010 Skedsmo, stay on E6 (North-East)	3,9 km	
+09:09	13,5	At E6, 2013 Skedsmo, stay on E6 (North)	3,5 km	
+09:11	17,0	At E6, 2020 Skedsmo, stay on E6 (North-East)	3,0 km	
+09:13	20,0	At E6, 2020 Skedsmo, stay on E6 (North)	2,7 km	
+09:15	22,8	At E6, 2016 Sørum, stay on E6 (North)	6,0 km	
+09:19	28,8	At E6, 2040 Ullensaker, stay on E6 (North)	6,3 km	
+09:23	35,1	At E6, 2050 Ullensaker, stay on E6 (North)	2,9 km	
+09:25	37,9	Arrive E6, 2050 Ullensaker		
+
+SUMMARY
+Driving distance:  37,9 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  56,49 kr		
+
+Time	Km	Instruction	For	Toward
+Summary:  37,3 kilometres (24 minutes)
+09:00	0,0	Depart E6, 2050 Ullensaker on E6 (South)	8,4 km	
+09:05	8,4	At E6, 2040 Ullensaker, stay on E6 (South)	6,6 km	
+09:09	15,0	At near Frogner, stay on E6 (West)	5,6 km	
+09:13	20,6	At E6, 2020 Skedsmo, stay on E6 (South-West)	3,3 km	
+09:15	23,9	At E6, 2013 Skedsmo, stay on E6 (South-West)	4,5 km	
+09:17	28,4	At E6, 2010 Skedsmo, stay on E6 (South-West)	0,9 km	
+09:18	29,3	At E6, 1088 Oslo, stay on E6 (South)	1,6 km	
+09:19	30,9	At E6, 1086 Oslo, stay on E6 (West)	1,1 km	
+09:20	32,0	At E6, 1086 Oslo, stay on E6 (West)	1,9 km	
+09:22	33,9	At near Grorud, stay on E6 (South-West)	1,3 km	
+09:23	35,2	At E6, 0668 Oslo, stay on E6 (West)	0,8 km	
+09:23	36,0	At near Oslo, keep STRAIGHT onto Ramp	0,6 km	E6 / E18 / Ring 3 / Gøteborg / Stockholm
+09:24	36,6	Keep LEFT onto E6 [Ulvensplitten]	0,7 km	
+09:24	37,3	Arrive Ulvensplitten, 0665 Oslo		
+
+SUMMARY
+Driving distance:  37,3 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  48,37 kr
+
+SUMMARY
+Driving distance:  30,3 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  38,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,6 kilometres (23 minutes)
+09:00	0,0	Depart E6, 2092 Eidsvoll on E6 (South-West)	2,8 km	
+09:02	2,8	At E6, 2080 Eidsvoll, stay on E6 (South)	3,0 km	
+09:04	5,8	At E6, 2080 Eidsvoll, stay on E6 [Eidsvolltunnelen] (South)	1,2 km	
+09:05	6,9	At E6, 2080 Eidsvoll, stay on E6 (South-West)	0,5 km	
+09:05	7,4	At E6, 2080 Eidsvoll, stay on E6 (South)	3,3 km	
+09:08	10,8	At E6, 2074 Eidsvoll, stay on E6 (South-West)	2,9 km	
+09:10	13,7	At E6, 2074 Eidsvoll, stay on E6 (South)	4,7 km	
+09:13	18,4	At near Dal, stay on E6 (South)	2,8 km	
+09:16	21,1	At E6, 2054 Ullensaker, stay on E6 (South)	5,0 km	
+09:19	26,1	At E6, 2050 Ullensaker, stay on E6 (South-West)	2,9 km	
+09:21	29,0	At E6, 2050 Ullensaker, stay on E6 (South)	1,6 km	
+09:23	30,6	Arrive 35, 2050 Ullensaker		
+
+SUMMARY
+Driving distance:  30,6 kilometres
+Trip duration:  23 minutesistance:  24,1 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  26,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,1 kilometres (10 minutes)
+09:00	0,0	Depart E6, 2330 Stange on E6 (North)	0,9 km	
+09:00	0,9	At E6, 2335 Stange, stay on E6 (North-West)	2,4 km	
+09:02	3,4	At E6, 2335 Stange, stay on E6 (North-West)	9,2 km	
+09:09	12,5	At E6, 2312 Stange, stay on E6 (North-West)	0,8 km	
+09:10	13,3	At E6, 2321 Hamar, stay on E6 (North)	0,8 km	
+09:10	14,1	Arrive E6, 2322 Hamar		
+
+SUMMARY
+Driving distance:  14,1 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  18,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,4 kilometres (10 minutes)
+09:00	0,0	Depart E6, 2322 Hamar on E6 (South)	1,2 km	
+09:00	1,2	At E6, 2321 Hamar, stay on E6 (South-East)	0,4 km	
+09:01	1,6	At E6, 2312 Stange, stay on E6 (South)	9,5 km	
+09:08	11,0	At E6, 2335 Stange, stay on E6 (South-East)	2,4 km	
+09:10	13,4	At E6, 2335 Stange, stay on E6 (South-East)	1,0 km	
+09:10	14,4	Arrive E6, 2330 Stange		
+
+SUMMARY
+Driving distance:  14,4 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  18,81 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,8 kilometres (24 minutes)
+09:00	0,0	Depart E6, 2322 Hamar on E6 (North)	1,8 km	
+09:01	1,8	At E6, 2318 Hamar, stay on E6 (North)	1,6 km	
+09:02	3,4	At E6, 2319 Hamar, stay on E6 (North)	0,7 km	
+09:03	4,1	At near Kårtorp, stay on E6 (West)	2,1 km	
+09:04	6,2	At E6, 2320 Ringsaker, stay on E6 (West)	6,4 km	
+09:09	12,6	At E6, 2380 Ringsaker, stay on E6 (North)	1,8 km	
+09:11	14,4	At E6, 2380 Ringsaker, stay on E6 (North-West)	1,2 km	
+09:11	15,6	At E6, 2380 Ringsaker, stay on E6 (West)	3,8 km	
+09:14	19,4	At E6, 2380 Ringsaker, stay on E6 (West)	2,5 km	
+09:16	21,9	At E6, 2360 Ringsaker, stay on E6 (North-West)	1,0 km	
+09:17	22,9	At E6, 2360 Ringsaker, stay on E6 (West)	1,3 km	
+09:18	24,2	At E6, 2360 Ringsaker, stay on E6 (West)	3,1 km	
+09:20	27,3	At Skarpsnovegen 60, 2390 Ringsaker, stay on E6 [Skarpsnotunnelen] (North-West)	1,2 km	
+09:21	28,5	At E6, 2390 Ringsaker, stay on E6 (West)	1,0 km	
+09:22	29,5	At near Moelv, stay on E6 [Moelvtunnelen] (North-West)	0,4 km	
+09:22	29,9	Bear LEFT (West) onto Local road(s)	0,1 km	
+09:22	30,0	At E6, 2390 Ringsaker, return East on Local road(s)	0,1 km	
+09:23	30,1	Turn LEFT (North-West) onto E6 [Mjøsbrua]	1,7 km	
+09:24	31,8	Arrive E6, 2836 Gjøvik		
+
+SUMMARY
+Driving distance:  31,8 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  42,44 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,6 kilometres (24 minutes)
+09:00	0,0	Depart E6, 2836 Gjøvik on E6 [Lillehammervegen] (South)	0,3 km	
+09:00	0,3	At roundabout, take the SECOND exit onto E6 [Mjøsbrua]	1,7 km	
+09:01	2,0	At near Moelv, stay on E6 [Mjøsbrua] (East)	0,3 km	
+09:01	2,2	At E6, 2390 Ringsaker, stay on E6 [Moelvtunnelen] (South-East)	0,8 km	
+09:02	3,0	At E6, 2390 Ringsaker, stay on E6 (East)	1,2 km	
+09:03	4,3	At E6, 2390 Ringsaker, stay on E6 [Skarpsnotunnelen] (South-East)	3,3 km	
+09:05	7,6	At E6, 2360 Ringsaker, stay on E6 (East)	1,3 km	
+09:06	8,9	At E6, 2360 Ringsaker, stay on E6 (East)	0,7 km	
+09:07	9,5	At E6, 2360 Ringsaker, stay on E6 (East)	2,8 km	
+09:09	12,3	At E6, 2360 Ringsaker, stay on E6 (East)	3,8 km	
+09:12	16,1	At E6, 2380 Ringsaker, stay on E6 (East)	1,0 km	
+09:13	17,1	At E6, 2380 Ringsaker, stay on E6 (East)	1,8 km	
+09:14	18,9	At E6, 2380 Ringsaker, stay on E6 (South)	6,3 km	
+09:19	25,3	At E6, 2320 Ringsaker, stay on E6 (East)	1,9 km	
+09:20	27,2	At E6, 2320 Ringsaker, stay on E6 (South-East)	1,4 km	
+09:21	28,6	At E6, 2319 Hamar, stay on E6 (South)	1,5 km	
+09:23	30,1	At E6, 2318 Hamar, stay on E6 (South-East)	1,5 km	
+09:24	31,6	Arrive E6, 2322 Hamar		
+
+SUMMARY
+Driving distance:  31,6 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  37,19 kr
+
+Hovinkrysset (37) - Bomstasjon
+1.2 km/1.3 km	0 min 54 s/0 min 59 s	80
+1.4 km/0.8 km	1 min 3 s/0 min 36 s
+
+Bomstasjon - Grønvoldkrysset (50)
+1.1 km/1.3 km	0 min 44 s/0 min 52 s	90
+1.6 km/1.9 km	1 min 4 s/1 min 16 s
+2.3 km/1.1 km	1 min 32 s/0 min 44 s
+1.1 km/1.6 km	0 min 44 s/1 min 4 s
+1.0 km/0.9 km	0 min 40 s/0 min 36 s
+3.9 km/4.5 km	2 min 36 s/3 min 0 s
+3.5 km/3.3 km	2 min 20 s/2 min 12 s
+3.0 km/3.1 km	2 min 0 s/2 min 4 s
+2.7 km/2.5 km	1 min 48 s/1 min 40 s
+3.9 km/3.6 km	2 min 36 s/2 min 24 s
+2.1 km/3.0 km	1 min 24 s/2 min 0 s
+6.3 km/5.9 km	4 min 12 s/3 min 56 s
+2.9 km/2.5 km	1 min 56 s/1 min 40 s
+
+Grønvoldkrysset (50) - Dal
+1.2 km/1.6 km	0 min 48 s/1 min 4 s	90
+2.9 km/2.9 km	1 min 56 s/1 min 56 s
+5.1 km/5.0 km	3 min 24 s/3 min 20 s
+2.6 km/2.8 km	1 min 44 s/1 min 52 s
+
+Dal - Minnesund
+4.8 km/4.7 km	3 min 36 s/3 min 32 s	80
+2.8 km/2.9 km	2 min 6 s/2 min 11 s
+3.2 km/3.3 km	2 min 24 s/2 min 28 s
+1.0 km/0.5 km	0 min 45 s/0 min 23 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+2.5 km/3.0 km	1 min 53 s/2 min 15 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+
+Minnesund - Akershus/Hedmark
+0.9 km/0.5 km	0 min 41 s/0 min 23 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+1.1 km/1.8 km	0 min 50 s/1 min 21 s
+1.1 km/0.4 km	0 min 50 s/0 min 18 s
+1.5 km/1.9 km	1 min 8 s/1 min 26 s
+0.7 km/0.6 km	0 min 31 s/0 min 27 s
+1.4 km/1.2 km	1 min 3 s/0 min 54 s
+5.2 km/5.2 km	3 min 54 s/3 min 54 s
+
+Akershus/Hedmark - Kolomoen
+1.0 km/0.8 km	0 min 45 s/0 min 36 s
+1.0 km/1.5 km	0 min 45 s/1 min 8 s
+2.7 km/2.3 km	2 min 2 s/1 min 43 s
+1.6 km/1.5 km	1 min 12 s/1 min 8 s
+1.0 km/1.6 km	0 min 45 s/1 min 12 s
+4.6 km/4.2 km	3 min 27 s/3 min 9 s
+2.7 km/3.5 km	2 min 2 s/2 min 38 s
+6.7 km/6.3 km	5 min 2 s/4 min 44 s
+1.2 km/1.6 km	0 min 54 s/1 min 12 s
+1.4 km/1.0 km	1 min 3 s/0 min 45 s
+
+Kolomoen - Åker gård
+0.9 km/1.0 km	0 min 41 s/0 min 45 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+9.2 km/9.5 km	6 min 54 s/7 min 8 s
+0.8 km/0.4 km	0 min 36 s/0 min 18 s
+0.8 km/1.2 km	0 min 36 s/0 min 54 s
+
+Åker gård - Sandvoll
+1.8 km/1.5 km	1 min 21 s/1 min 8 s
+1.6 km/1.5 km	1 min 12 s/1 min 8 s
+0.7 km/1.4 km	0 min 31 s/1 min 3 s
+2.1 km/1.9 km	1 min 35 s/1 min 26 s
+6.4 km/6.3 km	4 min 48 s/4 min 44 s
+1.8 km/1.8 km	1 min 21 s/1 min 21 s
+1.2 km/1.0 km	0 min 54 s/0 min 45 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+2.5 km/2.8 km	1 min 53 s/2 min 6 s
+1.0 km/0.7 km	0 min 45 s/0 min 31 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+3.1 km/3.3 km	2 min 20 s/2 min 28 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+1.0 km/0.8 km	0 min 45 s/0 min 36 s
+0.5 km/0.3 km	0 min 23 s/0 min 14 s
+1.8 km/2.0 km	1 min 21 s/1 min 30 s
+
+Time	Km	Instruction	For	Toward
+Summary:  28,3 kilometres (21 minutes)
+09:00	0,0	Depart Mjøsbrua, 2836 Gjøvik on Local road(s) (North)	20 m	
+09:00	0,1	Bear RIGHT (North) onto E6 [Lillehammervegen]	0,4 km	
+09:00	0,4	At Lillehammervegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (North)	2,8 km	
+09:02	3,2	At Paradisvegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (North-West)	4,3 km	
+09:05	7,6	At Lillehammervegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (West)	5,5 km	
+09:09	13,0	At Lillehammervegen, 2837 Gjøvik, stay on E6 [Lillehammervegen] (North-West)	3,3 km	
+09:12	16,3	At near Åsroa, stay on E6 (North-West)	2,6 km	
+09:14	18,9	At E6, 2607 Lillehammer, stay on E6 (North)	2,7 km	
+09:16	21,6	At E6, 2608 Lillehammer, stay on E6 (North)	3,9 km	
+09:19	25,5	At E6, 2608 Lillehammer, stay on E6 (North)	1,0 km	
+09:20	26,5	At E6, 2609 Lillehammer, stay on E6 (North)	0,8 km	
+09:21	27,3	At E6, 2619 Lillehammer, stay on E6 (North)	1,0 km	
+09:21	28,3	Arrive E6, 2619 Lillehammer		
+
+SUMMARY
+Driving distance:  28,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  37,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  28,9 kilometres (22 minutes)
+09:00	0,0	Depart E6, 2619 Lillehammer on E6 (South-East)	1,4 km	
+09:01	1,4	At E6, 2619 Lillehammer, stay on E6 (South)	0,6 km	
+09:01	2,0	At E6, 2615 Lillehammer, stay on E6 (South)	1,1 km	
+09:02	3,1	At E6, 2608 Lillehammer, stay on E6 (South)	3,9 km	
+09:05	7,0	At E6, 2608 Lillehammer, stay on E6 (South)	2,8 km	
+09:07	9,8	At E6, 2607 Lillehammer, keep STRAIGHT to stay on E6	2,8 km	
+09:09	12,6	At Lillehammervegen, 2837 Gjøvik, stay on E6 [Lillehammervegen] (South-East)	3,1 km	
+09:12	15,7	At Lillehammervegen, 2837 Gjøvik, stay on E6 [Lillehammervegen] (South-East)	5,5 km	
+09:16	21,2	At Lillehammervegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (East)	3,8 km	
+09:19	25,0	At Lillehammervegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (South)	3,6 km	
+09:21	28,6	At Lillehammervegen, 2836 Gjøvik, stay on E6 [Lillehammervegen] (South)	0,3 km	
+09:22	28,9	Arrive Lillehammervegen, 2836 Gjøvik		
+
+SUMMARY
+Driving distance:  28,9 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  38,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,9 kilometres (22 minutes)
+09:00	0,0	Depart E6, 2619 Lillehammer on E6 (North-West)	2,2 km	
+09:01	2,2	At E6, 2624 Lillehammer, stay on E6 (North)	4,5 km	
+09:04	6,7	At near Fåberg, stay on E6 (North)	0,8 km	
+09:05	7,5	At E6, 2636 Øyer, stay on E6 (North)	6,3 km	
+09:10	13,7	At E6, 2636 Øyer, stay on E6 (North)	2,8 km	
+09:12	16,5	At 312, 2636 Øyer, stay on E6 (North-West)	2,3 km	
+09:14	18,9	At 361, 2636 Øyer, stay on E6 (West)	2,5 km	
+09:16	21,4	At E6, 2635 Øyer, stay on E6 (West)	6,5 km	
+09:22	27,9	Arrive 254 1, 2635 Øyer		
+
+SUMMARY
+Driving distance:  27,9 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  36,57 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,3 kilometres (21 minutes)
+09:00	0,0	Depart E6, 2635 Øyer on E6 (South)	6,2 km	
+09:05	6,2	At E6, 2635 Øyer, stay on E6 (North-East)	2,8 km	
+09:08	9,0	At 361, 2636 Øyer, stay on E6 (East)	2,3 km	
+09:09	11,3	At E6, 2636 Øyer, stay on E6 (South-East)	2,5 km	
+09:11	13,8	At E6, 2636 Øyer, stay on E6 (South)	6,2 km	
+09:16	20,0	At E6, 2636 Øyer, stay on E6 (South)	1,2 km	
+09:17	21,2	At near Fåberg, stay on E6 (South)	3,9 km	
+09:20	25,2	At E6, 2624 Lillehammer, stay on E6 (South)	2,1 km	
+09:21	27,3	Arrive E6, 2619 Lillehammer		
+
+SUMMARY
+Driving distance:  27,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  35,49 kr
+
+Sandvoll - Lillehammer
+
+Lillehammer - Tretten
+

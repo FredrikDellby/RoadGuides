@@ -1,0 +1,248 @@
+Reseguide A20 (Lübeck - Uckermark)
+===================================
+
+AB-Kreuz Lübeck (1)
+ A1 n: Fehmarn, Lübeck-Zentrum
+ A1 s: Bremen, Hamburg
+					4,9 km/ 3,9 km	 2 min 27 s/1 min 57 s
+(Travebrücke)
+(Tunnel Moisling (120 m))
+(Elbe-Lübeck-Kanal-Brücke)
+
+Anschlausstelle 2a
+ Lübeck-Genin
+					3,6 km/ 3,8 km	 1 min 48 s/1 min 54 s
+Rastplatz Auf dem Karkfeld
+					3,4 km/ 3,1 km	 1 min 42 s/1 min 33 s
+Anschlausstelle 2b
+ Lübeck-Süd
+ Flughaven
+					3,5 km/ 3,5 km	 1 min 45 s/1 min 45 s
+Anschlausstelle 3
+ Gross Sarau
+ B207:
+					1,4 km/ 1,1 km	 42 s/33 s
+Schleswig-Holst. / Mecklenb.-Vorpommern
+					5,1 km/ 5,5 km	 2 min 33 s/2 min 45 s
+(Talbrücke Wakenitz (294 m))
+(Grünbrücke (50 m))
+
+Anschlausstelle 4
+ Lüdersdorf
+					3,0 km/ 2,9 km	 1 min 30 s/1 min 27 s
+Rastplatz
+					3,7 km/ 3,6 km	 1 min 51 s/1 min 48 s
+(Rasthof Schönberger Land)
+
+Talbrücke Maurine (140 m)
+					2,2 km/ 2,6 km	 1 min  6 s/1 min 18 s
+Anschlausstelle 5
+ Schönberg
+ B104: Schwerin, Gadebush
+					14,8 km/14,4 km	 7 min 24 s/7 min 12 s
+(Talbrücke Radegast (435 m))
+
+Talbrücke Stepenitz (85 m)
+					1,6 km/ 1,7 km	 48 s/51 s
+Anschlausstelle 6
+ Grevesmühlen
+					2,9 km/ 3,2 km	 1 min 27 s/1 min 36 s
+Rastplatz Bretthäger Wisch
+					5,6 km/ 5,4 km	 2 min 48 s/2 min 42 s
+(Talbrücke Plüschower Mühlenbach (318 m))
+
+Anschlausstelle 7
+ Bobitz
+					5,0 km/ 4,9 km   2 min 30 s/2 min 27 s
+Rastplatz Mölenbarg
+					4,3 km/ 4,4 km	 2 min  9 s/2 min 12 s
+(Talbrücke Barnekow (105 m))
+
+Anschlausstelle 8
+ Wismar-Mitte
+ B105: Schwerin
+ B208:
+					7,1 km/ 7,7 km	 3 min 33 s/3 min 51 s
+(Talbrücke Wallensteingraben (264 m))
+(Talbrücke Rosenthalgraben (216 m))
+(Talbrücke Triwalker Graben (395 m))
+(Talbrücke Greese (170 m))
+
+AB-Kreuz Wismar (9)
+ A14 s: Berlin, Magdeburg,
+        Schwerin
+					6,3 km/ 5,5 km	 3 min  9 s/2 min 45 s
+Anschlausstelle 10
+ Zurow
+ B192:
+					1,3 km/ 1,5 km	 39 s/45 s
+Rastplatz Selliner See
+					6,2 km/ 6,1 km	 3 min  6 s/3 min  3 s
+(Talbrücke Nevern (190 m))
+
+Anschlausstelle 11
+ Neukloster
+					2,6 km/ 2,8 km	 1 min 18 s/1 min 24 s
+Raststätte Fuchsberg
+ Bensin, Restaurang
+					10,2 km/10,3 km	 5 min  6 s/5 min  9 s
+(Talbrücke Warnkenhagen (190 m))
+(Talbrücke Radegaster Brücke (451 m))
+
+Anschlausstelle 12
+ Kröpelin
+					5,8 km/ 5,5 km	 2 min 54 s/2 min 45 s
+(Talbrücke Mühlenbach (325 m))
+
+Rastplatz Quellental
+					5,4 km/ 5,3 km	 2 min 42 s/2 min 39 s
+(Talbrücke Waidbach (70 m))
+
+Anschlausstelle 13
+ Bad Doberan
+					2,9 km/ 2,6 km	 1 min 27 s/1 min 18 s
+Anschlausstelle 14
+ Rostock-West
+ B103: Warnemünde
+					1,8 km/ 2,4 km	 0 min 54 s/1 min 12 s
+Anschlausstelle 15
+ Rostock-Südstadt
+					2,2 km/ 1,7 km	 1 min  6 s/0 min 51 s
+Warnowbrücke-west (930 m)
+					1,1 km/ 1,0 km	 33 s/30 s
+Warnowbrücke-ost (930 m)
+					1,1 km/ 2,0 km	 0 min 33 s/1 min  0 s
+Rastplatz Warnotal
+					2,3 km/ 2,6 km	 1 min  9 s/1 min 18 s
+AB-Kreuz Rostock (16)
+ A19 s: Berlin
+ A19 n: Rostock-Zentrum,
+        Rostock Haven
+					2,4 km/ 1,9 km	 1 min 12 s/0 min 57 s
+Anschlausstelle 17
+ Dummerstorf
+ B103:
+					9,4 km/ 9,4 km	 4 min 42 s/4 min 42 s
+Rastplatz Speckmoor
+					3,1 km/ 2,6 km	 1 min 33 s/1 min 18 s
+Anschlausstelle 18
+ Sanitz
+					3,1 km/ 3,1 km	 1 min 33 s/1 min 33 s
+Recknitztalbrücke-nord (720 m)
+					0,7 km/ 0,7 km	 21 s/21 s
+Recknitztalbrücke-süd (720 m)
+					5,6 km/ 5,7 km	 2 min 48 s/2 min 51 s
+Anschlausstelle 19
+ Tessin
+ B110:
+					8,0 km/ 8,0 km	 4 min  0 s/4 min  0 s
+Parkplatz (västgående)
+(Rasthof Lindholz (östgående))
+ Bensin, Restaurang
+					2,6 km/ 2,4 km	 1 min 18 s/1 min 12 s
+Anschlausstelle 20
+ Bad Sülze
+					4,9 km/ 5,3 km	 2 min 27 s/2 min 39 s
+Trebeltalbrücke (430 m)
+					1,0 km/ 0,5 km	 30 s/15 s
+Anschlausstelle 21
+ Tribsees
+					7,1 km/ 8,4 km	 3 min 33 s/4 min 12 s
+Rastplatz Trebeltal
+					8,5 km/ 7,1 km	 4 min 15 s/3 min 33 s
+Anschlausstelle 22
+ Grimmen-West
+					7,3 km/ 7,3 km	 3 min 39 s/3 min 39 s
+Anschlausstelle 23
+ Grimmen-Ost
+ B194:
+					2,8 km/ 3,1 km	 1 min 24 s/1 min 33 s
+Anschlausstelle 24
+ Stralsund
+ B96: Sassnitz, Rügen
+
+Rastplatz Riedbruch
+
+Anschlausstelle 25
+ Greifswald
+ B109:
+
+Rastplatz Peenetal
+
+Anschlausstelle 27
+ Gützkow
+ B111:
+
+Peenebrücke Jarmen-nord (1112 m)
+
+Peenebrücke Jarmen-süd (1112 m)´
+
+Anschlausstelle 28
+ Jarmen
+ B110:
+
+(Rasthof Demminer Land)
+(västgående riktning)
+ Bensin, Restaurang
+
+Anschlausstelle 29
+ Anklam
+ B199:
+
+(Brücke Grosser Landgraben (527 m))
+
+Anschlausstelle 30
+ Altentreptow
+
+(Brücke Kleiner Landgraben (306 m))
+
+Anschlausstelle 31
+ Neubrandenburg-Nord
+
+Rastplatz Vier-Tore-Stadt
+
+(Talbrücke Datzetal (530 m))
+
+Anschlausstelle 32
+ Neubrandenburg-Ost
+ B197:
+
+Anschlausstelle 33
+ Friedland in Mecklenburg
+
+(Ratshof Brohmer Berge)
+(östgående riktning)
+ Bensin, Restaurang
+
+(Talbrücke (110 m))
+
+Anschlausstelle 34
+ Strasburg (Uckermark)
+
+Rastplatz Ravensmühle
+
+Anschlausstelle 35
+ Pasewalk-Nord
+ B104:
+
+Ueckertalbrücke-nord (1182,5 m)
+
+Uecerktalbrücke-süd (1182,5 m)
+
+Anschlausstelle 36
+ Pasewalk-Süd
+ B109:
+
+Mecklenb.-Vorpommern / Brandenburg
+
+Rastplatz Klockow
+
+Anschlausstelle 37
+ Prenzlau-Ost
+
+Anschlausstelle 38
+ Prenzlau-Süd
+
+AB-Kreuz Uckermark (39)
+ A11 s: Berlin
+ A11 n: Stettin

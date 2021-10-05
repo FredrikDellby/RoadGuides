@@ -1,0 +1,118 @@
+Time	Km	Instruction	For	Toward
+Summary:  6,8 kilometres (5 minutes)
+09:00	0,0	Depart Bredgatan, 252 25 Helsingborg on Bredgatan (South-East)	0,3 km	
+09:00	0,3	Merge onto Local road(s)	0,1 km	
+09:00	0,4	At roundabout, take the THIRD exit onto Local road(s)	0,8 km	
+09:01	1,2	At Oljehamnsleden, 252 25 Helsingborg, turn LEFT (North) onto Oljehamnsleden	0,5 km	
+09:02	1,7	At near Helsingborg, stay on Oljehamnsleden (South)	20 m	
+09:02	1,7	Road name changes to Planteringsvägen	20 m	
+09:02	1,7	Turn LEFT (East) onto E4 [21]	0,5 km	
+09:03	2,2	At roundabout, take the FIRST exit onto E4 [21]	0,5 km	E4 / E6 / E20
+09:03	2,6	At 25, stay on E4 [21] (South)	0,7 km	
+09:04	3,3	At 26, stay on E4 [21] (South-East)	2,5 km	
+09:05	5,8	At 27, stay on E4 [21] (East)	0,9 km	
+09:05	6,8	Arrive 28		
+
+SUMMARY
+Driving distance:  6,8 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  13,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,0 kilometres (7 minutes)
+09:00	0,0	Depart 28 on Ramp [21] (South)	0,2 km	E4 / 109 / Helsingborg S / Ekeby
+09:00	0,2	Keep RIGHT to stay on Ramp [21]	1,4 km	E4 / Helsingborg
+09:01	1,6	At 27, stay on E4 [21] (West)	2,1 km	E4 / 21 / Centrum
+09:02	3,6	At 26, stay on E4 [21] (North)	1,6 km	E4 / 21 / Centrum
+09:03	5,2	At 21, 252 27 Helsingborg, stay on E4 [21] (North)	0,4 km	
+09:03	5,6	At roundabout, take the SECOND exit onto E4 [21]	0,4 km	E4 / 21 / Centrum
+09:04	6,0	At 21, 252 27 Helsingborg, stay on E4 [21] (West)	0,2 km	
+09:04	6,2	Turn RIGHT (North) onto Oljehamnsleden	0,4 km	
+09:05	6,5	At Oljehamnsleden, 252 25 Helsingborg, stay on Oljehamnsleden (South-West)	0,2 km	
+09:05	6,7	Turn RIGHT (West) onto Local road(s)	0,7 km	
+09:06	7,4	At roundabout, take the FIRST exit onto Local road(s)	0,2 km	
+09:06	7,6	Bear RIGHT (North) onto Local road(s)	60 m	
+09:06	7,6	Bear LEFT (North-West) onto Local road(s)	0,1 km	
+09:06	7,8	Turn RIGHT (North-West) onto Bredgatan	0,2 km	
+09:07	8,0	Arrive Bredgatan, 252 25 Helsingborg		
+
+SUMMARY
+Driving distance:  8,0 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  14,87 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  4,1 kilometres (5 minutes)
+09:00	0,0	Depart 21, 252 27 Helsingborg on E4 [21] (West)	0,2 km	
+09:00	0,2	Road name changes to Malmöleden	0,3 km	
+09:00	0,5	At Furutorpsgatan, 252 27 Helsingborg, stay on Malmöleden (North)	0,5 km	
+09:01	1,0	Road name changes to Järnvägsgatan	0,3 km	
+09:01	1,3	At Järnvägsgatan, 252 25 Helsingborg, stay on Järnvägsgatan (North)	0,3 km	
+09:01	1,5	At Järnvägsgatan, 252 24 Helsingborg, stay on Järnvägsgatan (North)	0,1 km	
+09:02	1,7	Road name changes to Drottninggatan	0,5 km	
+09:02	2,2	At Sankt Jörgens Plats 1, 252 21 Helsingborg, keep STRAIGHT onto Sankt Jörgens Plats	0,1 km	
+09:03	2,3	Road name changes to Hälsovägen	0,6 km	
+09:03	2,8	At Hälsovägen 25, 254 35 Helsingborg, stay on Hälsovägen (North-East)	0,4 km	
+09:04	3,2	At Norra Stenbocksgatan, 254 44 Helsingborg, stay on Hälsovägen (East)	0,3 km	
+09:04	3,5	At Ringstorpsvägen, 254 42 Helsingborg, road name changes to Ängelholmsvägen	0,6 km	
+09:05	4,1	Arrive Ängelholmsvägen, 254 53 Helsingborg		
+
+SUMMARY
+Driving distance:  4,1 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  8,09 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  3,9 kilometres (5 minutes)
+09:00	0,0	Depart E4, 254 Helsingborg on E4 [Ängelholmsvägen] (South-West)	0,6 km	
+09:00	0,6	At Ringstorpsvägen, 254 Helsingborg, stay on E4 [Hälsovägen] (South)	0,3 km	
+09:01	0,9	At Hälsovägen 46, 254 Helsingborg, stay on E4 [Hälsovägen] (South-West)	0,4 km	
+09:01	1,3	At Kopparmöllegatan 22, 254 Helsingborg, stay on E4 [Hälsovägen] (South-West)	0,7 km	
+09:02	1,9	At Drottninggatan 72, 252 Helsingborg, stay on E4 [Drottninggatan] (South)	0,7 km	
+09:03	2,6	At Kungstorget, 252 Helsingborg, stay on E4 [Järnvägsgatan] (South)	0,3 km	
+09:04	2,9	At E4, 252 Helsingborg, stay on E4 [Järnvägsgatan] (South)	0,8 km	
+09:05	3,6	At Malmöleden, 252 Helsingborg, stay on E4 [Malmöleden] (South)	0,3 km	
+09:05	3,9	Arrive Malmöleden, 252 Helsingborg		
+
+SUMMARY
+Driving distance:  3,9 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  6,80 kr
+
+
+Färjeterminalen - Rondell
+0.4 km/0.6 km	0 min 48 s/1 min 12 s	30
+0.6 km/0.6 km	1 min 12 s/1 min 12 s
+
+Rondell - Rondell
+0.8 km/0.9 km	0 min 58 s/1 min 5 s	50
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.5 km/0.4 km	0 min 36 s/0 min 29 s
+
+Rondell - Helsingborg Södra
+0.5 km/0.4 km	0 min 20 s/0 min 16 s	90
+0.7 km/1.6 km	0 min 28 s/1 min 4 s
+2.5 km/2.1 km	1 min 40 s/1 min 24 s
+0.9 km/1.6 km	0 min 36 s/1 min 4 s
+
+Korsning - Trp Kropp
+0.6 km/1.3 km	0 min 24 s/0 min 52 s	90
+1.3 km/1.4 km	0 min 52 s/0 min 56 s
+1.3 km/1.5 km	0 min 52 s/1 min 0 s
+1.9 km/1.7 km	1 min 16 s/1 min 8 s
+1.9 km/2.2 km	1 min 16 s/1 min 28 s
+
+Korsning - Korsning
+0.5 km/0.3 km	0 min 36 s/0 min 22 s
+0.8 km/0.8 km	0 min 58 s/0 min 58 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+0.7 km/0.7 km	0 min 50 s/0 min 50 s
+0.7 km/0.7 km	0 min 50 s/0 min 50 s
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+0.6 km/0.6 km	0 min 43 s/0 min 43 s

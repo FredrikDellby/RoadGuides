@@ -1,0 +1,75 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,1 kilometres (7 minutes)
+09:00	0,0	Depart 32, 595 34 Mjölby on 32 (North)	0,7 km	
+09:00	0,7	At Rondell Skänninge Ö, stay on 32 (North)	0,9 km	
+09:01	1,6	At Rondell Skänninge Ö, stay on 32 (North)	2,4 km	
+09:03	4,0	At T-korsning Högby N, stay on 32 (North)	0,5 km	
+09:03	4,5	At T-korsning Örbymon, stay on 32 (North)	0,9 km	
+09:04	5,5	At T-korsning Örbacken, stay on 32 (North)	2,1 km	
+09:06	7,6	At near Biskopsberga, stay on 32 (North)	0,3 km	
+09:06	7,9	At roundabout, take the SECOND exit onto 32	1,2 km	
+09:07	9,1	Arrive T-korsning Rv 32/Lv 206		
+
+SUMMARY
+Driving distance:  9,1 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  13,95 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,9 kilometres (7 minutes)
+09:00	0,0	Depart T-korsning Rv 32/Lv 206 on 32 (South)	1,1 km	
+09:00	1,1	At roundabout, take the SECOND exit onto 32	0,4 km	
+09:01	1,5	At T-korsning, stay on 32 (South)	2,1 km	
+09:03	3,7	At T-korsning Örbacken, stay on 32 (South)	0,9 km	
+09:03	4,6	At T-korsning Örbymon, stay on 32 (South)	0,5 km	
+09:04	5,1	At T-korsning Högby N, stay on 32 (South)	2,2 km	
+09:05	7,3	At Rondell Skänninge Ö, stay on 32 (South)	1,0 km	
+09:06	8,3	At Rondell Skänninge Ö, stay on 32 (South)	0,6 km	
+09:07	8,9	Arrive 32, 595 Mjölby		
+
+SUMMARY
+Driving distance:  8,9 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  11,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,4 kilometres (14 minutes)
+09:00	0,0	Depart 50, 713 91 Nora on 50 [Bergslagsdiagonalen] (North)	1,5 km	
+09:01	1,5	At T-korsning Fingerboda S, stay on 50 [Bergslagsdiagonalen] (North)	0,3 km	
+09:01	1,8	At T-korsning Fingerboda N, stay on 50 [Bergslagsdiagonalen] (North)	2,2 km	
+09:03	4,1	At near Järle, stay on 50 [Bergslagsdiagonalen] (North-East)	1,0 km	
+09:03	5,0	At T-korsning, stay on 50 [Bergslagsdiagonalen] (North)	2,3 km	
+09:05	7,4	At near Yxe, stay on 50 [Bergslagsdiagonalen] (North)	1,2 km	
+09:06	8,5	At T-korsning, stay on 50 [Bergslagsdiagonalen] (North)	1,8 km	
+09:07	10,3	At T-korsning, stay on 50 [Bergslagsdiagonalen] (North)	1,5 km	
+09:08	11,8	At 50, 711 91 Lindesberg, stay on 50 [Bergslagsdiagonalen] (North)	5,8 km	
+09:13	17,6	At T-korsning Torphyttan, stay on 50 [Bergslagsdiagonalen] (North)	1,9 km	
+09:14	19,4	Arrive 50, 711 91 Lindesberg		
+
+SUMMARY
+Driving distance:  19,4 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  26,43 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,3 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Lindesberg NV on 50 [Bergslagsdiagonalen] (South)	1,8 km	
+09:01	1,8	At T-korsning Torphyttan, stay on 50 [Bergslagsdiagonalen] (South)	5,8 km	
+09:05	7,6	At T-korsning, stay on 50 [Bergslagsdiagonalen] (South)	1,6 km	
+09:07	9,2	At T-korsning, stay on 50 [Bergslagsdiagonalen] (South-West)	1,8 km	
+09:08	10,9	At T-korsning, stay on 50 [Bergslagsdiagonalen] (South)	1,0 km	
+09:09	11,9	At 50, 713 Nora, stay on 50 [Bergslagsdiagonalen] (South-West)	2,5 km	
+09:11	14,4	At T-korsning, stay on 50 [Bergslagsdiagonalen] (South-West)	1,0 km	
+09:11	15,4	At 50, 713 Nora, stay on 50 [Bergslagsdiagonalen] (South-West)	1,7 km	
+09:13	17,1	At T-korsning Fingerboda N, stay on 50 [Bergslagsdiagonalen] (South)	0,3 km	
+09:13	17,4	At T-korsning Fingerboda S, stay on 50 [Bergslagsdiagonalen] (South)	0,9 km	
+09:14	18,3	Arrive near Järle		
+
+SUMMARY
+Driving distance:  18,3 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,94 kr

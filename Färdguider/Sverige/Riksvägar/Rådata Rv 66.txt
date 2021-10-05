@@ -1,0 +1,45 @@
+Time	Km	Instruction	For	Toward
+Summary:  62,1 kilometres (53 minutes)
+09:00	0,0	Depart Västerdalsvägen, 782 31 Malung on Local road(s) (North)	30 m	
+09:00	0,1	Bear RIGHT (North-West) onto 71 [Västerdalsvägen]	0,8 km	
+09:01	0,8	At Korsning Albacken, stay on 71 [Västerdalsvägen] (North-West)	10,0 km	
+09:09	10,8	At Korsning Malungsfors, stay on 71 [Östra Fors] (North-West)	15,4 km	
+09:21	26,1	At T-korsning Ö Tandö, stay on 71 (North)	5,0 km	
+09:25	31,1	At T-korsning Ytternäs, stay on 71 [Bu] (North)	2,3 km	
+09:27	33,4	At T-korsning Limedsforsen, stay on 71 (North)	3,3 km	
+09:30	36,7	At Korsning Bygärdet, stay on 71 [Kyrkbyn] (North)	5,8 km	
+09:35	42,5	At T-korsning Torgås, stay on 71 [Torgås] (North)	5,6 km	
+09:40	48,2	At T-korsning Kläppen, stay on 71 (North)	4,0 km	
+09:43	52,2	At T-korsning Fiskarheden, stay on 71 [Fiskarheden] (North)	2,8 km	
+09:46	55,0	At T-korsning Transtrand, stay on 71 [Vörderås] (North)	1,2 km	
+09:48	56,2	At Statoil [71 780 68, Transtrand, Sverige, Tel: +46 280-22134], stay on 71 [Östvalla] (West)	5,9 km	
+09:53	62,1	Arrive 71, 780 67 Sälen		
+
+SUMMARY
+Driving distance:  62,1 kilometres
+Trip duration:  53 minutes
+Driving time:  53 minutes
+Cost:  84,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  62,1 kilometres (53 minutes)
+09:00	0,0	Depart Sälenvägen, 780 67 Sälen on Sälenvägen (South-West)	40 m	
+09:00	0,1	Bear RIGHT (South-East) onto 71 [Sälenvägen]	5,9 km	
+09:05	6,0	At Statoil [71 780 68, Transtrand, Sverige, Tel: +46 280-22134], stay on 71 [Östvalla] (East)	1,2 km	
+09:07	7,2	At T-korsning Transtrand, stay on 71 [Vörderås] (South)	2,8 km	
+09:09	9,9	At T-korsning Fiskarheden, stay on 71 [Fiskarheden] (South)	4,0 km	
+09:13	13,9	At T-korsning Kläppen, stay on 71 (South)	5,6 km	
+09:17	19,6	At T-korsning Torgås, stay on 71 [Torgås] (South)	5,8 km	
+09:23	25,4	At Korsning Bygärdet, stay on 71 [Bygärde] (South)	3,3 km	
+09:25	28,7	At T-korsning Limedsforsen, stay on 71 (South)	2,3 km	
+09:27	31,0	At T-korsning Ytternäs, stay on 71 (South)	5,0 km	
+09:32	36,0	At T-korsning Ö Tandö, stay on 71 (South)	15,3 km	
+09:44	51,3	At Forsbyvägen 1, 782 75 Malungsfors, stay on 71 [Östra Fors] (South-East)	10,1 km	
+09:52	61,3	At Korsning Albacken, stay on 71 [Västerdalsvägen] (East)	0,8 km	
+09:53	62,1	Arrive 71, 782 33 Malung		
+
+SUMMARY
+Driving distance:  62,1 kilometres
+Trip duration:  53 minutes
+Driving time:  53 minutes
+Cost:  84,38 kr

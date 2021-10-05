@@ -1,0 +1,306 @@
+Time	Km	Instruction	For	Toward
+Summary:  13,5 kilometres (11 minutes)
+09:00	0,0	Depart 133 on Ramp [Skallbergsmotet] (East)	0,2 km	56 / Gävle / Sala
+09:00	0,2	At roundabout, take the THIRD exit onto 56	1,0 km	
+09:01	1,2	At roundabout, take the SECOND exit onto 56	0,6 km	
+09:02	1,8	At roundabout, take the SECOND exit onto 56	1,0 km	
+09:03	2,8	At Stolpgatan, 721 37 Västerås, stay on 56 [Bergslagsvägen] (North)	0,2 km	
+09:03	3,0	At roundabout, take the SECOND exit onto 56	1,1 km	
+09:04	4,2	At Alvestavägen, 722 31 Västerås, stay on 56 [Bergslagsvägen] (North)	1,4 km	
+09:05	5,5	At 56, 722 31 Västerås, stay on 56 (North)	0,9 km	
+09:06	6,4	At 56, 725 95 Västerås, stay on 56 (North)	1,9 km	
+09:07	8,4	At T-korsning Ansta, stay on 56 (North)	0,8 km	
+09:08	9,1	At T-korsning Äs, stay on 56 (North)	1,2 km	
+09:09	10,3	At Korsning Viggby, stay on 56 (North)	0,7 km	
+09:09	11,0	At T-korsning Gesala, stay on 56 [Utråby] (North)	0,5 km	
+09:10	11,5	At T-korsning Romfartuna vsk, stay on 56 (North-West)	1,4 km	
+09:11	12,9	At Korsning Gunsta Hotel, stay on 56 (North)	0,3 km	
+09:11	13,2	At T-korsning Romfartuna k:A, stay on 56 (North)	0,3 km	
+09:11	13,5	Arrive T-korsning Romfartuna N		
+
+SUMMARY
+Driving distance:  13,5 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  17,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,1 kilometres (11 minutes)
+09:00	0,0	Depart T-korsning Romfartuna N on 56 (South)	0,3 km	
+09:00	0,3	At T-korsning Romfartuna k:A, stay on 56 (South)	0,3 km	
+09:00	0,6	At Korsning Gunsta Hotel, stay on 56 (South)	1,4 km	
+09:01	2,0	At T-korsning Romfartuna vsk, stay on 56 [Utråby] (South)	0,5 km	
+09:01	2,5	At T-korsning Gesala, stay on 56 (South)	0,7 km	
+09:02	3,1	At Korsning Viggby, stay on 56 (South)	1,2 km	
+09:03	4,4	At T-korsning Äs, stay on 56 [ÄS] (South)	0,8 km	
+09:03	5,1	At T-korsning Ansta, stay on 56 (South)	1,9 km	
+09:05	7,0	At T-korsning Gryta, stay on 56 (South)	0,9 km	
+09:05	7,9	At T-korsning Hökåsen V, stay on 56 (South)	1,4 km	
+09:07	9,3	At T-korsning Hökåsen S, stay on 56 [Bergslagsvägen] (South)	1,1 km	
+09:08	10,4	At roundabout, take the SECOND exit onto 56	1,2 km	
+09:09	11,6	At roundabout, take the SECOND exit onto 56	0,6 km	
+09:10	12,2	At roundabout, take the SECOND exit onto 56	0,9 km	
+09:11	13,1	Arrive Korsning Rv56/Emausgatan		
+
+SUMMARY
+Driving distance:  13,1 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  16,53 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,2 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Romfartuna N on 56 (North)	2,4 km	
+09:01	2,4	At T-korsning Åbylunds vsk, stay on 56 (North)	1,5 km	
+09:02	3,9	At Korsning Hallsta vägskäl, stay on 56 (North)	3,3 km	
+09:05	7,2	At near Kapplinge, stay on 56 (North-West)	0,4 km	
+09:05	7,7	At T-korsning Tomta vsk, stay on 56 (North)	3,3 km	
+09:08	10,9	At Korsning Lånsta, stay on 56 (North)	0,5 km	
+09:09	11,4	At Korsning Lånsta N, stay on 56 (North)	2,8 km	
+09:12	14,2	At T-korsning Grällsta, stay on 56 (North)	0,4 km	
+09:12	14,6	At T-korsning Grällsta N, stay on 56 [Kullbacken] (North)	1,2 km	
+09:13	15,7	At T-korsning Kila, stay on 56 (North)	0,8 km	
+09:14	16,6	At Korsning Tullsta, stay on 56 (North)	1,3 km	
+09:15	17,9	At T-korsning Trefoten, stay on 56 (North-East)	0,3 km	
+09:15	18,2	Arrive 56, 733 94 Sala		
+
+SUMMARY
+Driving distance:  18,2 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  20,35 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,3 kilometres (15 minutes)
+09:00	0,0	Depart 70, 733 94 Sala on Local road(s) (North)	0,1 km	
+09:00	0,1	Bear RIGHT (South) onto 56	0,3 km	
+09:00	0,4	At 56, 733 94 Sala, stay on 56 (South-West)	1,3 km	
+09:01	1,8	At Korsning Tullsta, stay on 56 (South)	0,8 km	
+09:02	2,6	At T-korsning Kila, stay on 56 (South)	1,2 km	
+09:03	3,8	At T-korsning Grällsta N, stay on 56 (South)	0,4 km	
+09:03	4,2	At T-korsning Grällsta, stay on 56 (South)	2,8 km	
+09:06	7,0	At Korsning Lånsta N, stay on 56 (South)	0,5 km	
+09:06	7,4	At Korsning Lånsta, stay on 56 (South)	3,1 km	
+09:09	10,6	At T-korsning Tomta vsk, stay on 56 (South)	0,3 km	
+09:10	10,8	At T-korsning, stay on 56 (South)	3,6 km	
+09:12	14,4	At Korsning Hallsta vägskäl, stay on 56 (South)	1,5 km	
+09:14	16,0	At 56, 725 94 Västerås, stay on 56 (South)	2,4 km	
+09:15	18,3	Arrive T-korsning Romfartuna N		
+
+SUMMARY
+Driving distance:  18,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  20,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (15 minutes)
+09:00	0,0	Depart 56, 733 94 Sala on Local road(s) (East)	10 m	
+09:00	0,1	Keep STRAIGHT onto 56 [70]	3,5 km	
+09:02	3,5	At roundabout, take the SECOND exit onto 56	0,7 km	
+09:03	4,2	At 56, 733 93 Sala, stay on 56 (North)	1,9 km	
+09:04	6,1	At roundabout, take the FIRST exit onto 56 [Stockholmsvägen]	0,7 km	
+09:05	6,7	At roundabout, take the FIRST exit onto 56 [72]	0,3 km	
+09:06	7,0	At Korsning Rv56/Fabriksgatan, stay on 56 [72] (East)	0,3 km	
+09:06	7,3	At Korsning Norrby kyrka, stay on 56 [72] (East)	1,5 km	
+09:07	8,8	At T-korsning Modigsbacke, stay on 56 [72] (East)	4,8 km	
+09:11	13,6	At T-korsning Sala GK, stay on 56 [72] (North-East)	0,5 km	
+09:11	14,2	At T-korsning Rutiga huset, stay on 56 [72] (East)	1,3 km	
+09:12	15,5	At T-korsning Kärrbäck, stay on 56 [72] (East)	1,9 km	
+09:14	17,4	At 72, 733 92 Sala, stay on 56 [72] (East)	1,9 km	
+09:15	19,3	Arrive T-korsning Heby V		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  22,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,4 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Heby V on 56 [72] (West)	1,9 km	
+09:01	1,9	At near Gunnarsbo, stay on 56 [72] (West)	1,9 km	
+09:02	3,8	At T-korsning Kärrbäck, stay on 56 [72] (West)	1,3 km	
+09:03	5,1	At T-korsning Rutiga huset, stay on 56 [72] (West)	0,5 km	
+09:04	5,6	At T-korsning Sala GK, stay on 56 [72] (South-West)	4,8 km	
+09:07	10,5	At T-korsning Modigsbacke, stay on 56 [72] (West)	1,5 km	
+09:09	11,9	At Korsning Norrby kyrka, stay on 56 [72] (West)	0,3 km	
+09:09	12,2	At Korsning Rv56/Fabriksgatan, stay on 56 [72] (West)	0,3 km	
+09:09	12,5	At roundabout, take the FOURTH exit onto 56 [Stockholmsvägen]	0,8 km	
+09:10	13,3	At roundabout, take the SECOND exit onto 56	1,8 km	
+09:12	15,1	At 56, 733 93 Sala, stay on 56 (South)	0,8 km	
+09:12	15,9	At roundabout, take the FIRST exit onto 56 [70]	3,5 km	
+09:15	19,4	Arrive 70, 733 94 Sala		
+
+SUMMARY
+Driving distance:  19,4 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  23,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,9 kilometres (31 minutes)
+09:00	0,0	Depart T-korsning Heby V on 56 (North)	0,8 km	
+09:00	0,8	At T-korsning 56/Stationsv., stay on 56 (North)	0,3 km	
+09:01	1,2	At near Heby, stay on 56 (North-East)	1,2 km	
+09:02	2,4	At Korsning Tärnsjö vsk, stay on 56 (North)	4,7 km	
+09:05	7,1	At T-korsning Över Sävne, stay on 56 (North)	1,5 km	
+09:07	8,6	At Korsning Runhällen vägskäl, stay on 56 (North)	0,8 km	
+09:08	9,3	At Korsning, stay on 56 (North)	4,0 km	
+09:12	13,3	At T-korsning Kroksbo vägskäl, stay on 56 (North)	2,5 km	
+09:14	15,8	At T-korsning Rödmossa vägskäl, stay on 56 (North)	7,1 km	
+09:21	22,9	At T-korsning Östa vägskäl, stay on 56 (East)	3,5 km	
+09:24	26,4	At Korsning Tärnsjö Ö, stay on 56 (North)	1,5 km	
+09:25	27,9	At T-korsning Tärnsjö N, stay on 56 (North)	3,0 km	
+09:27	30,9	At T-korsning Skärsjö S, stay on 56 (North)	5,0 km	
+09:31	35,9	Arrive T-korsning Kerstinbo		
+
+SUMMARY
+Driving distance:  35,9 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  40,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,9 kilometres (31 minutes)
+09:00	0,0	Depart T-korsning Kerstinbo on 56 (South)	5,0 km	
+09:03	5,0	At T-korsning Skärsjö S, stay on 56 (South)	2,8 km	
+09:05	7,7	At T-korsning Tärnsjö N, stay on 56 (South)	1,7 km	
+09:07	9,5	At Korsning Tärnsjö Ö, stay on 56 (South)	3,5 km	
+09:09	13,0	At T-korsning Östa vägskäl, stay on 56 (West)	7,1 km	
+09:16	20,1	At T-korsning Rödmossa vägskäl, stay on 56 (South)	2,5 km	
+09:19	22,6	At T-korsning Kroksbo vägskäl, stay on 56 (South)	4,0 km	
+09:23	26,6	At Korsning, stay on 56 (South)	0,8 km	
+09:24	27,3	At Korsning Runhällen vägskäl, stay on 56 (South)	1,5 km	
+09:25	28,8	At T-korsning Över Sävne, stay on 56 [Källviken] (South)	4,7 km	
+09:29	33,5	At Korsning Tärnsjö vsk, stay on 56 (South)	1,2 km	
+09:30	34,7	At near Heby, stay on 56 (South)	0,3 km	
+09:30	35,0	At T-korsning 56/Stationsv., stay on 56 (South)	0,8 km	
+09:31	35,9	Arrive T-korsning Heby V		
+
+SUMMARY
+Driving distance:  35,9 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  40,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,9 kilometres (37 minutes)
+09:00	0,0	Depart T-korsning Kerstinbo on 56 [272] (North)	1,7 km	
+09:01	1,7	At T-korsning, stay on 56 [272] (North)	4,5 km	
+09:04	6,3	At near Gysinge, stay on 56 [272] (North-West)	1,3 km	
+09:05	7,6	At near Gysinge, stay on 56 [272] (North)	5,7 km	
+09:10	13,3	At Korsning Smedsäng, stay on 56 (North-East)	6,2 km	
+09:14	19,5	At Korsning Hedesunda väst, stay on 56 (North)	2,9 km	
+09:16	22,4	At T-korsning Norra Brunn, stay on 56 [Norra Gävlevägen] (North)	9,7 km	
+09:24	32,1	At T-korsning Främlingshem, stay on 56 [Norra Gävlevägen] (North)	11,0 km	
+09:33	43,0	At Korsning Rörberg, stay on 56 [Hedesundavägen] (North)	1,7 km	
+09:34	44,7	At T-korsning Stackbo, stay on 56 [Hedesundavägen] (North)	0,6 km	
+09:35	45,3	At Korsning Överhärde, turn RIGHT to stay on 56 [Valbovägen]	1,6 km	
+09:37	46,9	Arrive Valbovägen, 818 32 Valbo		
+
+SUMMARY
+Driving distance:  46,9 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  53,19 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,6 kilometres (38 minutes)
+09:00	0,0	Depart 80, 818 30 Valbo on Ramp (West)	0,3 km	56 / Västerås / Valbo
+09:00	0,3	At roundabout, take the THIRD exit onto 56 [Valbovägen]	1,9 km	
+09:02	2,3	At Korsning Överhärde, stay on 56 [Hedesundavägen] (South)	0,6 km	
+09:03	2,9	At T-korsning Stackbo, stay on 56 [Hedesundavägen] (South)	1,7 km	
+09:04	4,6	At Korsning Rörberg, stay on 56 [Hedesundavägen] (South)	11,0 km	
+09:13	15,6	At T-korsning Främlingshem, stay on 56 [Norra Gävlevägen] (South)	9,7 km	
+09:21	25,2	At T-korsning Norra Brunn, stay on 56 (South)	2,9 km	
+09:23	28,1	At Korsning Hedesunda väst, stay on 56 (South)	6,2 km	
+09:28	34,4	At Korsning Smedsäng, stay on 56 [Gysingevägen] (South-West)	5,7 km	
+09:32	40,0	At T-korsning Gysinge Ö, stay on 56 [272] (South)	1,3 km	
+09:33	41,4	At 272, 740 45 Tärnsjö, stay on 56 [272] (South)	4,5 km	
+09:37	45,9	At T-korsning, stay on 56 [272] (South)	1,7 km	
+09:38	47,6	Arrive T-korsning Kerstinbo		
+
+SUMMARY
+Driving distance:  47,6 kilometres
+Trip duration:  38 minutes
+Driving time:  38 minutes
+Cost:  54,38 kr
+
+Skallbergsmotet - Hökåsen S
+1.2 km/0.9 km	1 min 12 s/0 min 54 s
+0.6 km/0.6 km	36 s/36 s
+1.0 km/1.2 km	1 min 0 s/1 min 12 s
+1.4 km/1.1 km	1 min 24 s/1 min 6 s
+
+Hökåsen S - Romfartuna
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+0.9 km/0.9 km	41 s/41 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+0.8 km/0.8 km	36 s/36 s
+1.2 km/1.2 km	54 s/54 s
+0.7 km/0.7 km	31 s/31 s
+0.5 km/0.5 km	23 s/23 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+0.3 km/0.3 km	14 s/14 s
+0.3 km/0.3 km	14 s/14 s
+
+Romfartuna - Evelund
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+3.3 km/3.6 km	2 min 28 s/2 min 42 s
+0.4 km/0.3 km	18 s/14 s
+3.3 km/3.1 km	2 min 28 s/2 min 20 s
+0.5 km/0.5 km	23 s/23 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+0.4 km/0.4 km	18 s/18 s
+1.2 km/1.2 km	54 s/54 s
+0.8 km/0.8 km	36 s/36 s
+1.3 km/1.3 km	59 s/59 s
+0.3 km/0.4 km	14 s/18 s
+
+Evelund - Sala OKQ8
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+0.7 km/0.8 km	31 s/36 s
+1.9 km/1.8 km	1 min 26 s/1 min 21 s
+
+Sala OKQ8 - Norrby
+0.7 km/0.8 km	50 s/58 s
+0.3 km/0.3 km	22 s/22 s
+0.3 km/0.3 km	22 s/22 s
+
+Norrby - Heby V
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+4.8 km/4.8 km	3 min 36 s/3 min 36 s
+0.5 km/0.5 km	23 s/23 s
+1.3 km/1.3 km	59 s/59 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+
+Heby V - Kerstinbo
+0.8 km/0.8 km	36 s/36 s
+0.3 km/0.3 km	14 s/14 s
+1.2 km/1.2 km	54 s/54 s
+4.7 km/4.7 km	3 min 32 s/3 min 32 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+0.8 km/0.8 km	36 s/36 s
+4.0 km/4.0 km	3 min 0 s/3 min 0 s
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+7.1 km/7.1 km	5 min 20 s/5 min 20 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+1.5 km/1.7 km	1 min 8 s/1 min 17 s
+3.0 km/2.8 km	2 min 15 s/2 min 6 s
+5.0 km/5.0 km	3 min 45 s/3 min 45 s
+
+Kerstinbo - Mackmyra
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+4.5 km/4.5 km	3 min 23 s/3 min 23 s
+1.3 km/1.3 km	59 s/59 s
+5.7 km/5.7 km	4 min 17 s/4 min 17 s
+6.2 km/6.2 km	4 min 39 s/4 min 39 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+9.7 km/9.7 km	7 min 17 s/7 min 17 s
+11.0 km/11.0 km	8 min 15 s/8 min 15 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+0.6 km/0.6 km	27 s/27 s
+1.6 km/2.3 km	1 min 12 s/1 min 43 s

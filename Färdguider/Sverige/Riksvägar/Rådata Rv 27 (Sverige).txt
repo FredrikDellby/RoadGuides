@@ -1,0 +1,390 @@
+Time	Km	Instruction	For	Toward
+Summary:  3,8 kilometres (4 minutes)
+09:00	0,0	Depart 27, 504 46 Borås on Local road(s) (North)	70 m	
+09:00	0,1	Merge onto 27 [41]	0,7 km	
+09:00	0,8	At 41, 504 95 Borås, stay on 27 [41] (North)	1,0 km	
+09:01	1,8	At roundabout, take the FIRST exit onto 27 [41]	0,7 km	
+09:02	2,5	At roundabout, take the SECOND exit onto 27 [41]	0,3 km	
+09:02	2,8	At 41, 504 50 Borås, stay on 27 [41] (North)	0,5 km	
+09:03	3,3	At roundabout, take the FIRST exit onto 27 [41]	0,5 km	
+09:04	3,8	Keep RIGHT onto Local road(s)	20 m	
+09:04	3,8	Arrive near Borås		
+
+SUMMARY
+Driving distance:  3,8 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  6,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,4 kilometres (13 minutes)
+09:00	0,0	Depart 41, 504 46 Borås on Local road(s) (West)	70 m	
+09:00	0,1	Turn RIGHT (South-East) onto 27	0,7 km	
+09:00	0,7	At roundabout, take the SECOND exit onto 27	2,4 km	
+09:03	3,1	At 27, 504 95 Borås, stay on 27 (East)	1,0 km	
+09:04	4,1	At 27, 504 95 Borås, stay on 27 (East)	1,3 km	
+09:05	5,4	At Korsning Lökared, stay on 27 (East)	2,0 km	
+09:06	7,3	At 27, 516 95 Målsryd, stay on 27 (East)	1,5 km	
+09:08	8,8	At 27, 516 96 Aplared, stay on 27 (South-East)	1,3 km	
+09:08	10,2	At 27, 516 96 Aplared, stay on 27 (South)	0,4 km	
+09:09	10,6	At 27, 516 96 Aplared, stay on 27 (South-East)	1,3 km	
+09:10	11,9	At 27, 516 96 Aplared, stay on 27 (East)	1,9 km	
+09:11	13,8	At T-korsning Låckryd, stay on 27 (South-East)	1,7 km	
+09:13	15,4	Arrive 27, 512 91 Sexdrega		
+
+SUMMARY
+Driving distance:  15,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  19,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,4 kilometres (12 minutes)
+09:00	0,0	Depart 27, 512 91 Sexdrega on Local road(s) (North)	40 m	
+09:00	0,1	Turn RIGHT (North-West) onto 27	1,7 km	
+09:01	1,7	At T-korsning Låckryd, stay on 27 (West)	1,9 km	
+09:02	3,6	At 27, 516 96 Aplared, stay on 27 (West)	1,0 km	
+09:03	4,6	At T-korsning Grändvägen, stay on 27 (North-West)	0,8 km	
+09:04	5,3	At 27, 516 96 Aplared, stay on 27 (North)	1,2 km	
+09:05	6,6	At 27, 516 96 Aplared, stay on 27 (North-West)	1,6 km	
+09:06	8,1	At 27, 516 95 Målsryd, stay on 27 (North-West)	2,0 km	
+09:07	10,1	At Korsning Lökared, stay on 27 (West)	0,7 km	
+09:08	10,8	At Lökared, 504 95 Borås, stay on 27 (West)	1,5 km	
+09:09	12,3	At 27, 504 95 Borås, stay on 27 (West)	2,4 km	
+09:12	14,7	At roundabout, take the SECOND exit onto 27	0,7 km	
+09:12	15,4	Arrive 27, 504 46 Borås		
+
+SUMMARY
+Driving distance:  15,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,58 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,6 kilometres (15 minutes)
+09:00	0,0	Depart 27, 512 91 Sexdrega on Local road(s) (South)	40 m	
+09:00	0,1	Turn RIGHT (East) onto 27	2,7 km	
+09:02	2,7	At 27, 514 52 Länghem, stay on 27 (East)	2,1 km	
+09:03	4,9	At T-korsning Västergärdet, stay on 27 (South-East)	0,8 km	
+09:04	5,7	At Korsning Tingarör, stay on 27 (South-East)	5,2 km	
+09:08	10,8	At Korsning Kindsboda, stay on 27 (East)	4,1 km	
+09:11	14,9	At T-korsning Limmared västra, stay on 27 (South)	1,6 km	
+09:12	16,5	At Korsning Rosenlund, stay on 27 (South)	2,0 km	
+09:14	18,5	At T-korsning Tranemo N, stay on 27 (South)	2,2 km	
+09:15	20,6	Arrive Trafikplats Björsdamm, 514 91 Tranemo		
+
+SUMMARY
+Driving distance:  20,6 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  28,68 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (15 minutes)
+09:00	0,0	Depart 27, 514 Tranemo on 27 (North-West)	1,8 km	
+09:01	1,8	At T-korsning Tranemo N, stay on 27 (North)	2,1 km	
+09:02	3,9	At Korsning Rosenlund, stay on 27 (North)	1,6 km	
+09:04	5,5	At T-korsning Limmared västra, stay on 27 (North)	4,1 km	
+09:07	9,6	At Korsning Kindsboda, stay on 27 (West)	5,2 km	
+09:11	14,7	At Korsning Tingarör, stay on 27 (North-West)	0,8 km	
+09:11	15,5	At T-korsning Västergärdet, stay on 27 (North-West)	2,1 km	
+09:13	17,7	At 27, 514 Länghem, stay on 27 (West)	2,7 km	
+09:15	20,4	Arrive Rondell Kilabro vägskäl		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  24,70 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,3 kilometres (17 minutes)
+09:00	0,0	Depart Trafikplats Björsdamm, 514 91 Tranemo on 27 (South)	2,1 km	
+09:01	2,1	At 27, 514 91 Tranemo, stay on 27 (South)	5,9 km	
+09:06	8,1	At Korsning Mossebo vägskäl, stay on 27 (South)	3,8 km	
+09:09	11,8	At T-korsning Agnabo, stay on 27 (South)	2,5 km	
+09:11	14,3	At 27, 332 92 Gislaved, stay on 27 (South)	5,5 km	
+09:15	19,8	At T-korsning Ebbebo, stay on 27 (East)	2,5 km	
+09:17	22,3	Arrive 27, 332 92 Gislaved		
+
+SUMMARY
+Driving distance:  22,3 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  29,37 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,8 kilometres (17 minutes)
+09:00	0,0	Depart 27, 332 Gislaved on 27 (North-West)	2,6 km	
+09:02	2,6	At T-korsning Ebbebo, stay on 27 (West)	5,6 km	
+09:06	8,2	At 27, 332 Gislaved, stay on 27 (North)	2,3 km	
+09:07	10,5	At T-korsning Agnabo, stay on 27 (North-West)	4,0 km	
+09:11	14,5	At Korsning Mossebo vägskäl, stay on 27 (North)	6,0 km	
+09:15	20,5	At 27, 514 Tranemo, stay on 27 (North)	2,3 km	
+09:17	22,8	Arrive 27, 514 Tranemo		
+
+SUMMARY
+Driving distance:  22,8 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,6 kilometres (22 minutes)
+09:00	0,0	Depart 27, 332 92 Gislaved on 27 (South-East)	1,9 km	Karlskrona / Växjö / Anderstorp / Gislaved
+09:02	1,9	At Korsning Rv27/Mårtensg., stay on 27 [Norra Storgatan] (South)	0,3 km	
+09:02	2,2	At Korsning Rv27/Bangatan, stay on 27 [Norra Storgatan] (South)	0,2 km	
+09:03	2,4	Turn LEFT (East) onto 27 [Järnvägsgatan]	0,3 km	
+09:03	2,7	At Stationsallén 5, 332 30 Gislaved, stay on 27 [Järnvägsgatan] (South)	0,2 km	
+09:04	2,9	At roundabout, take the SECOND exit onto 27 [Anderstorpsvägen]	0,5 km	
+09:04	3,4	At roundabout, take the SECOND exit onto 27 [Anderstorpsvägen]	0,6 km	
+09:05	4,0	At T-korsning Gyllenfors, stay on 27 [Anderstorpsvägen] (East)	0,3 km	
+09:06	4,3	At T-korsning Henja väg 27, stay on 27 [Anderstorpsvägen] (East)	1,9 km	
+09:08	6,2	At T-korsning Mossarp, stay on 27 (South-East)	1,3 km	
+09:09	7,5	At T-korsning Anderstorp V, stay on 27 (South-East)	0,8 km	
+09:10	8,3	At T-korsning Stötabo, stay on 27 (South-East)	0,8 km	
+09:11	9,2	At T-korsning Anderstorp S, stay on 27 (South-East)	3,1 km	
+09:13	12,3	At T-korsning Södra Tånghult, stay on 27 (South-East)	1,2 km	
+09:14	13,5	At near Lövås, stay on 27 (East)	5,8 km	
+09:18	19,2	At T-korsning Tovaryd, stay on 27 (South)	2,4 km	
+09:20	21,7	At 27, 330 10 Bredaryd, stay on 27 (East)	1,6 km	
+09:21	23,3	At near Bredaryd, stay on 27 (South)	0,3 km	
+09:22	23,6	Arrive 27, 330 10 Bredaryd		
+
+SUMMARY
+Driving distance:  23,6 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  31,34 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,4 kilometres (21 minutes)
+09:00	0,0	Depart 153, 330 10 Bredaryd on Local road(s) (North)	20 m	
+09:00	0,1	Keep RIGHT onto 27	0,3 km	
+09:00	0,3	At near Bredaryd, stay on 27 (North)	1,4 km	
+09:01	1,7	At 27, 330 10 Bredaryd, stay on 27 (West)	2,6 km	
+09:03	4,3	At T-korsning Tovaryd, stay on 27 (North)	5,8 km	
+09:07	10,1	At near Lövås, stay on 27 (West)	1,2 km	
+09:08	11,3	At T-korsning Södra Tånghult, stay on 27 (North-West)	3,1 km	
+09:11	14,4	At 27, 334 33 Anderstorp, stay on 27 (North-West)	0,9 km	
+09:11	15,3	At T-korsning Stötabo, stay on 27 (North)	0,8 km	
+09:12	16,1	At T-korsning Anderstorp V, stay on 27 (North-West)	1,3 km	
+09:14	17,4	At T-korsning Mossarp, stay on 27 [Mossarp] (North-West)	1,9 km	
+09:16	19,3	At T-korsning Henja väg 27, stay on 27 [Anderstorpsvägen] (West)	0,3 km	
+09:16	19,6	At T-korsning Gyllenfors, stay on 27 [Anderstorpsvägen] (West)	0,5 km	
+09:17	20,2	At roundabout, take the FIRST exit onto 27 [Anderstorpsvägen]	0,5 km	
+09:18	20,7	At roundabout, take the SECOND exit onto 27 [Järnvägsgatan]	0,6 km	
+09:18	21,2	At T-korsning Gislaved K:a, stay on 27 [Norra Storgatan] (North)	0,5 km	
+09:19	21,7	At Korsning Rv27/Mårtensg., stay on 27 [Norra Storgatan] (North)	1,7 km	
+09:21	23,4	Arrive 27, 332 92 Gislaved		
+
+SUMMARY
+Driving distance:  23,4 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  31,17 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (15 minutes)
+09:00	0,0	Depart 27, 330 10 Bredaryd on Local road(s) (West)	90 m	
+09:00	0,1	Keep RIGHT onto 27 [153]	2,2 km	
+09:01	2,3	At 153, 330 12 Forsheda, stay on 27 [153] (East)	1,3 km	
+09:02	3,6	At near Forsheda, stay on 27 [153] (East)	0,5 km	
+09:03	4,0	At T-korsning Rv27/Forsgatan, stay on 27 [153] (East)	0,4 km	
+09:03	4,5	At Korsning Forsheda N, stay on 27 [153] (East)	0,7 km	
+09:04	5,1	At T-korsning Forsheda Ö, stay on 27 [153] (East)	4,9 km	
+09:07	10,1	At T-korsning Kärda Rv27, stay on 27 [153] (East)	2,9 km	
+09:10	12,9	At 153, 331 95 Värnamo, stay on 27 [153] (East)	0,4 km	
+09:10	13,3	At 153, 331 91 Värnamo, stay on 27 [153] (East)	1,9 km	
+09:11	15,2	At 153, 331 91 Värnamo, stay on 27 [153] (South-East)	2,2 km	
+09:13	17,4	At 153, 331 33 Värnamo, stay on 27 [153] (East)	2,1 km	
+09:15	19,5	At 153, 331 93 Värnamo, stay on 27 [153] (East)	0,4 km	
+09:15	19,9	Arrive Vandalorumrondellen, 331 93 Värnamo		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  26,31 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (15 minutes)
+09:00	0,0	Depart 27, 331 93 Värnamo on Bredastenrondellen (North-East)	70 m	
+09:00	0,1	Bear RIGHT (West) onto 27 [153]	0,8 km	
+09:00	0,9	At 153, 331 93 Värnamo, stay on 27 [153] (West)	2,0 km	
+09:02	2,9	At 153, 331 33 Värnamo, stay on 27 [153] (West)	2,3 km	
+09:04	5,2	At 153, 331 91 Värnamo, stay on 27 [153] (North-West)	1,7 km	
+09:05	6,9	At 153, 331 91 Värnamo, stay on 27 [153] (West)	0,6 km	
+09:05	7,5	At T-korsning, stay on 27 [153] (West)	2,8 km	
+09:08	10,3	At T-korsning Kärda Rv27, stay on 27 [153] (West)	5,0 km	
+09:11	15,3	At T-korsning Forsheda Ö, stay on 27 [153] (West)	0,7 km	
+09:12	16,0	At Korsning Forsheda N, stay on 27 [153] (West)	0,4 km	
+09:12	16,4	At T-korsning Rv27/Forsgatan, stay on 27 [153] (West)	0,5 km	
+09:13	16,9	At near Forsheda, stay on 27 [153] (West)	1,0 km	
+09:13	17,9	At 153, 330 12 Forsheda, stay on 27 [153] (West)	2,5 km	
+09:15	20,4	Arrive 153, 330 10 Bredaryd		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  26,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,9 kilometres (31 minutes)
+09:00	0,0	Depart Vandalorumrondellen, 331 93 Värnamo on Vandalorumrondellen (South)	90 m	
+09:00	0,1	Turn RIGHT (East) onto 27 [153]	0,4 km	
+09:00	0,5	At roundabout, take the SECOND exit onto 27	5,0 km	
+09:04	5,5	At Korsning Voxtorp, stay on 27 (East)	3,1 km	
+09:07	8,7	At T-korsning Bor, stay on 27 [Växjövägen] (South)	4,0 km	
+09:11	12,7	At T-korsning Ed, stay on 27 [Eds Skola] (South)	4,3 km	
+09:14	17,0	At T-korsning, stay on 27 [Horda Hästhagen] (South-East)	2,7 km	
+09:16	19,7	At Korsning Horda Rv27, stay on 27 (South-East)	3,2 km	
+09:19	22,8	At T-korsning, stay on 27 (South-East)	0,7 km	
+09:19	23,5	At T-korsning Upplid S, stay on 27 (East)	2,6 km	
+09:21	26,1	At 27, 330 17 Rydaholm, stay on 27 (South)	1,6 km	
+09:23	27,7	At Korsning Rydaholm S, stay on 27 (East)	5,6 km	
+09:27	33,3	At 27, 330 17 Rydaholm, stay on 27 (East)	3,6 km	
+09:29	36,9	At near Hult, stay on 27 (South)	2,0 km	
+09:31	38,9	Arrive 27, 342 93 Alvesta		
+
+SUMMARY
+Driving distance:  38,9 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  45,76 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,3 kilometres (31 minutes)
+09:00	0,0	Depart 27, 342 93 Alvesta on Local road(s) (North)	10 m	
+09:00	0,1	Keep RIGHT onto 27	2,0 km	
+09:01	2,0	At T-korsning Camping, stay on 27 (North)	3,6 km	
+09:04	5,6	At 27, 330 17 Rydaholm, stay on 27 (West)	5,6 km	
+09:08	11,2	At Korsning Rydaholm S, stay on 27 (West)	1,7 km	
+09:10	13,0	At 27, 330 17 Rydaholm, stay on 27 (North)	2,3 km	
+09:11	15,3	At T-korsning Upplid S, stay on 27 (West)	0,8 km	
+09:12	16,1	At T-korsning, stay on 27 (North-West)	3,2 km	
+09:14	19,2	At Korsning Horda Rv27, stay on 27 (North-West)	2,7 km	
+09:16	21,9	At T-korsning, stay on 27 (North-West)	4,3 km	
+09:20	26,2	At T-korsning Ed, stay on 27 (North)	4,0 km	
+09:24	30,2	At T-korsning Bor, stay on 27 [Värnamovägen] (North)	3,1 km	
+09:27	33,4	At Korsning Voxtorp, stay on 27 (North-West)	5,0 km	
+09:31	38,3	Arrive Bredastenrondellen, 331 93 Värnamo		
+
+SUMMARY
+Driving distance:  38,3 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  45,04 kr
+
+
+Annelundsmotet (86) - (R) Svedjeg.
+0.4 km/0.5 km	0 min 24 s/0 min 30 s	60
+0.7 km/0.5 km	0 min 42 s/0 min 30 s
+0.5 km/0.3 km	0 min 30 s/0 min 18 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+
+(R) Svedjeg. - (R) 27/41
+1.2 km/1.0 km	1 min 2 s/0 min 51 s	70
+0.6 km/0.8 km	0 min 31 s/0 min 41 s
+
+(R) 27/41 - (R) Kråkered
+0.7 km/0.7 km	0 min 42 s/0 min 42 s	60
+
+(R) Kråkered - T-korsning
+2.4 km/2.4 km	2 min 3 s/2 min 3 s	70
+
+T-korsning - (K) Lökared
+1.0 km/1.5 km	0 min 45 s/1 min 8 s	80
+1.3 km/0.7 km	0 min 59 s/0 min 31 s
+
+(K) Lökared - (T) Grändvägen
+2.0 km/2.0 km	1 min 20 s/1 min 20 s	90
+1.5 km/1.6 km	1 min 0 s/1 min 4 s
+1.3 km/1.2 km	0 min 52 s/0 min 48 s
+0.4 km/0.8 km	0 min 16 s/0 min 32 s
+
+(T) Grändvägen - (R) Kilabro
+1.3 km/1.0 km	0 min 59 s/0 min 45 s	80
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+
+(R) Kilabro - Trp Björsared
+2.7 km/2.7 km	2 min 2 s/2 min 2 s	80
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+5.2 km/5.2 km	3 min 54 s/3 min 54 s
+4.1 km/4.1 km	3 min 5 s/3 min 5 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+2.0 km/2.1 km	1 min 30 s/1 min 35 s
+2.2 km/1.8 km	1 min 39 s/1 min 21 s
+
+Björsared - Gislaved Norra
+2.1 km/2.3 km	1 min 35 s/1 min 43 s
+5.9 km/6.0 km	4 min 26 s/4 min 30 s
+3.8 km/4.0 km	2 min 51 s/3 min 0 s
+2.5 km/2.3 km	1 min 53 s/1 min 43 s
+5.5 km/5.6 km	4 min 8 s/4 min 12 s
+2.5 km/2.6 km	1 min 53 s/1 min 57 s
+
+Gislaved Norra - Henja
+1.9 km/1.7 km	2 min 17 s/2 min 2 s
+0.3 km/0.5 km	0 min 22 s/0 min 36 s
+0.5 km/0.6 km	0 min 36 s/0 min 43 s
+0.7 km/0.5 km	0 min 50 s/0 min 36 s
+0.6 km/0.5 km	0 min 43 s/0 min 36 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+Henja - Anderstorp S
+1.9 km/1.9 km	1 min 38 s/1 min 38 s
+1.3 km/1.3 km	1 min 7 s/1 min 7 s
+0.8 km/0.8 km	0 min 41 s/0 min 41 s
+0.8 km/0.9 km	0 min 41 s/0 min 46 s
+
+Anderstorp S - Bredaryd Ö
+3.1 km/3.1 km	2 min 20 s/2 min 20 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+5.8 km/5.8 km	4 min 21 s/4 min 21 s
+2.4 km/2.6 km	1 min 48 s/1 min 57 s
+1.6 km/1.4 km	1 min 12 s/1 min 3 s
+0.3 km/0.3 km	0 min 14 s/0 min 14 s
+
+Bredaryd Ö - Forsgatan
+2.3 km/2.5 km	1 min 43 s/1 min 53 s
+1.3 km/1.0 km	0 min 59 s/0 min 45 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+
+Forsgatan - Forsheda Ö
+0.4 km/0.4 km	0 min 24 s/0 min 24 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+
+Forsheda Ö - Kärda
+4.9 km/5.0 km	3 min 41 s/3 min 45 s
+
+Kära - Nöbbele
+2.9 km/2.8 km	1 min 56 s/1 min 52 s
+0.4 km/0.6 km	0 min 16 s/0 min 24 s
+1.9 km/1.7 km	1 min 16 s/1 min 8 s
+2.2 km/2.3 km	1 min 28 s/1 min 32 s
+2.1 km/2.0 km	1 min 24 s/1 min 20 s
+
+Nöbbele - Värnamo Södra
+0.4 km/0.9 km	0 min 24 s/0 min 54 s
+
+Värnamo Sösdra - Voxtorp
+5.5 km/5.0 km	4 min 8 s/3 min 45 s
+
+Voxtorp - Ed
+3.1 km/3.1 km	3 min 6 s/3 min 6 s
+4.0 km/4.0 km	4 min 0 s/4 min 0 s
+
+Ed - Sjöatorp
+4.3 km/4.3 km	3 min 14 s/3 min 14 s
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+3.2 km/3.2 km	2 min 24 s/2 min 24 s
+0.7 km/0.8 km	0 min 31 s/0 min 36 s
+2.6 km/2.3 km	1 min 57 s/1 min 43 s
+1.6 km/1.7 km	1 min 12 s/1 min 17 s
+5.6 km/5.6 km	4 min 12 s/4 min 12 s
+3.6 km/3.6 km	2 min 42 s/2 min 42 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s

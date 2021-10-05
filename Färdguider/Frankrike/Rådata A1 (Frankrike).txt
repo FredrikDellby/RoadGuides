@@ -1,0 +1,289 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,8 kilometres (8 minutes)
+09:00	0,0	Depart Rue de la Chapelle, 75018 Paris on Rue de la Chapelle (North)	0,1 km	
+09:00	0,1	Keep STRAIGHT onto Porte de la Chapelle	0,3 km	N1 / St Denis
+09:00	0,5	Road name changes to A1 [E19]	0,8 km	
+09:01	1,3	At E19, 93210 Saint-Denis, stay on A1 [E19] (North)	1,3 km	
+09:02	2,5	At 2, stay on A1 [E19] (North)	1,4 km	A1 / E19 / Sarcelles / Aéroport Ch. de Gaulle / Lille / St Denis-Universités / Pierrefitte / Stains
+09:03	4,0	At 3, stay on A1 [E19] (East)	1,8 km	A1 / E19 / Aéroport Charles de Gaulle / Lille / Stains / Aéroport le Bourget
+09:04	5,7	At E19, 93120 La Courneuve, stay on A1 [E19] (East)	1,8 km	
+09:06	7,6	At E19, 93120 La Courneuve, stay on A1 [E19] (East)	1,0 km	
+09:06	8,6	At 5, stay on A1 [E19] (East)	1,3 km	A1 / E19 / Aéroport Charles de Gaulle / Soissons / Lille / Garonor
+09:07	9,9	At E19, 93150 Le Blanc-Mesnil, stay on A1 [E19] (North-East)	1,9 km	
+09:08	11,8	Arrive E19, 93600 Aulnay-Sous-Bois		
+
+SUMMARY
+Driving distance:  11,8 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  20,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,2 kilometres (6 minutes)
+09:00	0,0	Depart E19, 93600 Aulnay-Sous-Bois on A1 [E19] (West)	1,5 km	
+09:00	1,5	At E19, 93150 Le Blanc-Mesnil, stay on A1 [E19] (South-West)	1,2 km	
+09:01	2,6	At 5, stay on A1 [E19] (West)	1,6 km	
+09:02	4,2	At E19, 93120 La Courneuve, stay on A1 [E19] (West)	1,2 km	A1 / E19 / St Denis-Centre / Paris-Pte de la Chapelle
+09:03	5,4	At E19, 93120 La Courneuve, stay on A1 [E19] (West)	1,1 km	
+09:03	6,5	At E19, 93200 Saint-Denis, stay on A1 [E19] (West)	1,6 km	
+09:04	8,1	At 2, stay on A1 [E19] (West)	2,4 km	A1 / E19 / Paris-Pte de la Chapelle
+09:06	10,5	At E19, 93210 Saint-Denis, stay on A1 [E19] (South)	0,7 km	
+09:06	11,2	Arrive Porte de la Chapelle, 93210 Saint-Denis		
+
+SUMMARY
+Driving distance:  11,2 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  19,23 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,1 kilometres (24 minutes)
+09:00	0,0	Depart E19, 93600 Aulnay-Sous-Bois on A1 [E19] (North-East)	3,8 km	A1 / E19 / Lille / Aéroport Ch. de Gaulle / Soissons / Z.I. Paris-Nord 11 / Parc des Expositions
+09:02	3,8	*Toll road* At E15, 95500 Gonesse, keep STRAIGHT to stay on A1 [E15]	4,4 km	A1 / E19 / Lille / Bruxelles / Senlis / Chantilly
+09:04	8,2	*Toll road* At E15, 95700 Roissy-en-France, stay on A1 [E15] (North)	1,7 km	
+09:05	9,9	*Toll road* At E15, 95380 Épiais-LÈS-Louvres, stay on A1 [E15] (North)	2,9 km	
+09:06	12,8	*Toll road* At E15, 95380 Villeron, stay on A1 [E15] (North)	1,8 km	
+09:07	14,6	*Toll road* At E15, 95470 Vémars, stay on A1 [E15] (North)	1,4 km	
+09:08	16,0	*Toll road* At 7, stay on A1 [E15] (North)	2,2 km	A1 / E15 / E19 / Senlis / Lille / Calais / Bruxelles
+09:09	18,2	*Toll road* At E15, 95470 Survilliers, stay on A1 [E15] (North)	1,1 km	
+09:10	19,3	*Toll road* At E15, 95470 Survilliers, stay on A1 [E15] (North)	2,3 km	
+09:11	21,5	*Toll road* At E15, 60128 Plailly, stay on A1 [E15] (North-East)	9,5 km	
+09:16	31,0	*Toll road* At 8, stay on A1 [E15] (North)	11,3 km	A1 / E15 / E19 / Compiègne / Lille / Calais / Bruxelles
+09:22	42,3	*Toll road* At E15, 60410 Roberval, stay on A1 [E15] (North)	3,8 km	
+09:24	46,1	Arrive 9		
+
+SUMMARY
+Driving distance:  46,1 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  52,89 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,4 kilometres (24 minutes)
+09:00	0,0	*Toll road* Depart 9 on A1 [E15] (South)	3,7 km	A1 / E15 / E19 / Senlis / Aéroport Ch. de Gaulle / Paris
+09:01	3,7	*Toll road* At E15, 60410 Roberval, stay on A1 [E15] (South)	9,8 km	
+09:07	13,5	*Toll road* At 8, stay on A1 [E15] (South-West)	10,6 km	A1 / E15 / E19 / Aéroport Ch. de Gaulle / Paris
+09:12	24,1	*Toll road* At E15, 60128 Plailly, stay on A1 [E15] (South-West)	3,0 km	
+09:14	27,1	*Toll road* At near Survilliers, stay on A1 [E15] (South)	0,4 km	
+09:14	27,5	*Toll road* At E15, 95470 Survilliers, stay on A1 [E15] (South)	2,1 km	
+09:15	29,6	*Toll road* At 7, stay on A1 [E15] (South)	1,5 km	A1 / E15 / E19 / Aéroport Ch. de Gaulle / Paris
+09:16	31,1	*Toll road* At E15, 95470 Vémars, stay on A1 [E15] (South)	3,7 km	
+09:18	34,8	*Toll road* At A1, 95380 Chennevières-LÈS-Louvres, stay on A1 [E15] (South)	0,9 km	
+09:18	35,7	*Toll road* At 6, stay on A1 [E15] (South)	2,6 km	A1 / E15 / E19 / Paris
+09:20	38,3	*Toll road* At E15, 95700 Roissy-en-France, stay on A1 [E15] (South)	3,9 km	
+09:22	42,3	At E19, 95700 Roissy-en-France, stay on A1 [E19] (South-West)	4,1 km	
+09:24	46,4	Arrive E19, 93600 Aulnay-Sous-Bois		
+
+SUMMARY
+Driving distance:  46,4 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  53,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  60,6 kilometres (31 minutes)
+09:00	0,0	*Toll road* Depart 9 on A1 [E15] (North)	2,7 km	A1 / E15 / E19 / Compiègne-Ouest / Lille / Calais / Bruxelles
+09:01	2,7	*Toll road* At E15, 60710 Chevrières, stay on A1 [E15] (North)	5,9 km	
+09:04	8,6	*Toll road* At 10, stay on A1 [E15] (North)	2,2 km	A1 / E15 / E19 / Amiens / Lille / Calais / Bruxelles
+09:05	10,8	*Toll road* At E15, 60190 Remy, stay on A1 [E15] (North)	12,2 km	
+09:12	23,0	*Toll road* At 11, stay on A1 [E15] (North)	11,3 km	A1 / E15 / E19 / Amiens / Lille / Calais / Bruxelles
+09:18	34,3	*Toll road* At E15, 60490 Conchy-les-Pots, stay on A1 [E15] (North)	9,3 km	
+09:22	43,6	*Toll road* At 12, stay on A1 [E15] (North)	3,0 km	A1 / E15 / E19 / Amiens / Lille / Calais / Bruxelles
+09:24	46,5	*Toll road* At E15, 80700 Goyencourt, stay on A1 [E15] (North)	5,4 km	
+09:27	51,9	*Toll road* At E15, 80700 Hattencourt, stay on A1 [E15] (North)	8,7 km	
+09:31	60,6	Arrive E15, 80320 Ablaincourt-Pressoir		
+
+SUMMARY
+Driving distance:  60,6 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  67,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  61,3 kilometres (32 minutes)
+09:00	0,0	*Toll road* Depart E15, 80320 Ablaincourt-Pressoir on A1 [E15] (South)	9,0 km	A1 / E15 / E19 / Paris / Compiègne
+09:04	9,0	*Toll road* At E15, 80700 Hattencourt, stay on A1 [E15] (South)	5,8 km	
+09:07	14,9	*Toll road* At E15, 80700 Goyencourt, stay on A1 [E15] (South)	2,6 km	
+09:09	17,5	*Toll road* At 12, stay on A1 [E15] (South)	9,0 km	A1 / E15 / E19 / Compiègne / Paris
+09:13	26,4	*Toll road* At E15, 80700 Beuvraignes, stay on A1 [E15] (South)	11,3 km	
+09:19	37,8	*Toll road* At 11, stay on A1 [E15] (South)	12,5 km	A1 / E15 / E19 / Compiègne-Ouest / Beauvais / Paris
+09:26	50,3	*Toll road* At E15, 60190 Remy, stay on A1 [E15] (South)	2,3 km	
+09:27	52,6	*Toll road* At 10, stay on A1 [E15] (South)	4,6 km	A1 / E15 / E19 / Creil / Aéroport Ch. de Gaulle / Paris
+09:30	57,2	*Toll road* At E15, 60126 Longueil-Sainte-Marie, stay on A1 [E15] (South)	4,1 km	
+09:32	61,3	Arrive 9		
+
+SUMMARY
+Driving distance:  61,3 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  68,17 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,4 kilometres (10 minutes)
+09:00	0,0	*Toll road* Depart E15, 80320 Ablaincourt-Pressoir on A1 [E15] (North)	3,3 km	A1 / E15 / E19 / Lille / Calais / Bruxelles
+09:01	3,3	*Toll road* At 13, stay on A1 [E15] (North)	0,9 km	A1 / E15 / E19 / Lille / Calais / Valenciennes / Bruxelles
+09:02	4,2	*Toll road* At Aire d'Assevillers Est, stay on A1 [E15] (North)	6,7 km	
+09:05	10,8	*Toll road* At E15, 80200 Feuillères, stay on A1 [E15] (North)	2,7 km	
+09:07	13,6	*Toll road* At 13.1, stay on A1 [E15] (North)	5,9 km	A1 / E15 / E19 / Lille / Valenciennes / Calais / Bruxelles
+09:10	19,4	Arrive A1, 80360 Combles		
+
+SUMMARY
+Driving distance:  19,4 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  21,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,8 kilometres (9 minutes)
+09:00	0,0	*Toll road* Depart A2, 80360 Combles on A1 [E15] (South)	4,5 km	
+09:02	4,5	*Toll road* At 13.1, stay on A1 [E15] (South)	3,0 km	A1 / E15 / E19 / Amiens / Paris
+09:04	7,6	*Toll road* At near Feuillères, stay on A1 [E15] (South)	6,4 km	
+09:07	14,0	*Toll road* At E15, 80200 Assevillers, stay on A1 [E15] (South)	1,0 km	
+09:07	15,0	*Toll road* At 13, stay on A1 [E15] (South)	2,8 km	A1 / E15 / E19 / Amiens / St Quentin / Paris
+09:09	17,8	Arrive E15, 80320 Ablaincourt-Pressoir		
+
+SUMMARY
+Driving distance:  17,8 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  19,80 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,6 kilometres (17 minutes)
+09:00	0,0	*Toll road* Depart A2, 80360 Combles on A1 [E15] (North)	2,2 km	A1 / E15 / Arras / Lille / Calais
+09:01	2,2	*Toll road* At near Morval, stay on A1 [E15] (North)	4,6 km	A1 / E15 / Arras / Lille / Calais
+09:03	6,8	*Toll road* At E15, 62450 Beaulencourt, stay on A1 [E15] (North)	3,2 km	
+09:05	10,0	*Toll road* At 14, stay on A1 [E15] (North)	9,2 km	A1 / E15 / Arras / Lille / Calais
+09:10	19,2	*Toll road* At E15, 62128 Croisilles, stay on A1 [E15] (North)	8,6 km	
+09:14	27,8	*Toll road* At 15, keep STRAIGHT to stay on A1 [E15]	5,8 km	A1 / E15 / Douai / Lille / Calais
+09:17	33,6	Arrive Autoroute du Nord, 62118 Roeux		
+
+SUMMARY
+Driving distance:  33,6 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  37,37 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,5 kilometres (18 minutes)
+09:00	0,0	*Toll road* Depart A1, 62580 Gavrelle on A1 [Autoroute du Nord] (South-West)	5,5 km	A1 / E19 / Arras-Est / Amiens / Paris
+09:02	5,5	*Toll road* At 15, stay on A1 [E15] (South)	11,6 km	A1 / E15 / Amiens / Paris
+09:08	17,1	*Toll road* At E15, 62128 Saint-Léger, stay on A1 [E15] (South)	8,0 km	
+09:13	25,1	*Toll road* At 14, keep STRAIGHT to stay on A1 [E15]	8,3 km	A1 / E15 / Amiens / Paris
+09:17	33,3	*Toll road* At near Morval, stay on A1 [E15] (South)	2,2 km	
+09:18	35,5	Arrive A2, 80360 Combles		
+
+SUMMARY
+Driving distance:  35,5 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  39,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,9 kilometres (19 minutes)
+09:00	0,0	*Toll road* Depart Autoroute du Nord, 62118 Roeux on A1 [Autoroute du Nord] (North)	3,3 km	A1 / E17 / Douai / Lens / Lille
+09:01	3,3	At 16, stay on A1 [E17] (North-East)	8,2 km	A1 / E17 / Hénin-Beaumont / Lens / Lille / Douai-Nord
+09:06	11,5	At 16.1, stay on A1 [E17] (North)	2,2 km	
+09:07	13,7	At 17, stay on A1 [E17] (North)	0,6 km	A1 / E17 / Hénin-BT-Centre / Lens / Douai / Lille
+09:07	14,3	At E17, 62950 Noyelles-Godault, stay on A1 [E17] (North)	4,8 km	A1 / E17 / Libercourt / Carvin / Lille
+09:10	19,1	At 17.1, stay on A1 [E17] (North)	2,8 km	
+09:11	21,9	At 18, stay on A1 [E17] (North)	2,2 km	
+09:12	24,1	At near Camphin-en-Carembault, stay on A1 [E17] (East)	4,6 km	
+09:15	28,7	At E17, 59113 Seclin, stay on A1 [E17] (North)	1,8 km	
+09:16	30,5	At 19, stay on A1 [E17] (North)	4,5 km	
+09:18	35,0	At 20, stay on A1 [E17] (North)	1,9 km	
+09:19	36,9	Arrive E17, 59810 Lesquin		
+
+SUMMARY
+Driving distance:  36,9 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  42,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,1 kilometres (19 minutes)
+09:00	0,0	Depart A1, 59790 Ronchin on A1 [E17] (South-East)	2,9 km	A1 / E17 / Douai / Lens / Reims / Paris / Aéroport de Lesquin
+09:01	2,9	At 20A, stay on A1 [E17] (South)	4,9 km	A1 / E17 / Douai / Lens / Reims / Paris
+09:04	7,8	At 19, stay on A1 [E17] (South)	1,5 km	
+09:04	9,3	At E17, 59113 Seclin, stay on A1 [E17] (South)	5,6 km	
+09:07	14,9	At near Camphin-en-Carembault, stay on A1 [E17] (West)	1,3 km	
+09:08	16,2	At 18, stay on A1 [E17] (South-West)	3,2 km	
+09:10	19,4	At 17.1, stay on A1 [E17] (South)	3,0 km	
+09:11	22,4	At E17, 62119 Dourges, stay on A1 [E17] (South)	1,5 km	A1 / E17 / Arras / Reims / Paris / Hénin-BT-Z.I.
+09:12	23,9	At 17, stay on A1 [E17] (South)	2,9 km	A1 / E17 / Arras / Reims / Paris
+09:14	26,7	At 16.1, stay on A1 [E17] (South)	8,0 km	
+09:18	34,8	*Toll road* At 16, stay on A1 [E17] (South)	2,3 km	A1 / E17 / Arras-Est / Amiens / Reims / Paris / Péage
+09:19	37,1	Arrive A1, 62580 Gavrelle		
+
+SUMMARY
+Driving distance:  37,1 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  43,11 kr
+
+Porte de La Chapelle - A1/A3
+1.3 km/0.7 km	52 s/28 s
+1.3 km/2.4 km	0 min 52 s/1 min 36 s
+1.4 km/1.6 km	0 min 56 s/1 min 4 s
+1.8 km/1.1 km	1 min 12 s/0 min 44 s
+1.8 km/1.2 km	1 min 12 s/0 min 48 s
+1.0 km/1.6 km	0 min 40 s/1 min 4 s
+1.3 km/1.2 km	52 s/48 s
+1.9 km/1.5 km	1 min 16 s/1 min 0 s
+
+A1/A3 - CDG sud
+3.8 km/4.1 km	2 min 17 s/2 min 28 s
+
+CDG sud - Sortie 6
+4.4 km/3.9 km	2 min 24 s/2 min 8 s
+1.7 km/2.6 km	0 min 56 s/1 min 25 s
+
+Sortie 6 - Sortie 9
+2.9 km/0.9 km	1 min 27 s/0 min 27 s
+1.8 km/3.7 km	0 min 54 s/1 min 51 s
+1.4 km/1.5 km	42 s/45 s
+2.2 km/2.1 km	1 min 6 s/1 min 3 s
+1.1 km/0.4 km	33 s/12 s
+2.3 km/3.0 km	1 min 9 s/1 min 30 s
+9.5 km/10.6 km	4 min 45 s/5 min 18 s
+11.3 km/9.8 km	5 min 39 s/4 min 54 s
+3.8 km/3.7 km	1 min 54 s/1 min 51 s
+
+Sortie 9 - A1/A29
+2.7 km/4.1 km	1 min 21 s/2 min 3 s
+5.9 km/4.6 km	2 min 57 s/2 min 18 s
+2.2 km/2.3 km	1 min 6 s/1 min 9 s
+12.2 km/12.5 km	6 min 6 s/6 min 15 s
+11.3 km/11.3 km	5 min 39 s/5 min 39 s
+9.3 km/9.0 km	4 min 39 s/4 min 30 s
+3.0 km/2.6 km	1 min 30 s/1 min 18 s
+5.4 km/5.8 km	2 min 42 s/2 min 54 s
+8.7 km/9.0 km	4 min 21 s/4 min 30 s
+
+A1/A29 - A1/A2
+3.3 km/2.8 km	1 min 39 s/1 min 24 s
+0.9 km/1.0 km	27 s/30 s
+6.7 km/6.4 km	3 min 21 s/3 min 12 s
+2.7 km/3.0 km	1 min 21 s/1 min 30 s
+5.9 km/4.5 km	2 min 57 s/2 min 15 s
+
+A1/A2 - A1/A26
+2.2 km/2.2 km	1 min 6 s/1 min 6 s
+4.6 km/5.3 km	2 min 18 s/2 min 39 s
+3.2 km/3.0 km	1 min 36 s/1 min 30 s
+9.2 km/8.0 km	4 min 36 s/4 min 0 s
+8.6 km/11.6 km	4 min 18 s/5 min 48 s
+5.8 km/5.5 km	2 min 54 s/2 min 45 s
+
+A1/A26 - A1/A27
+3.3 km/2.3 km	1 min 48 s/1 min 15 s
+8.2 km/8.0 km	4 min 28 s/4 min 22 s
+2.2 km/2.9 km	1 min 12 s/1 min 35 s
+0.6 km/1.5 km	20 s/49 s
+4.8 km/3.0 km	2 min 37 s/1 min 38 s
+2.8 km/3.2 km	1 min 32 s/1 min 45 s
+2.2 km/1.3 km	1 min 12 s/0 min 43 s
+4.6 km/5.6 km	2 min 31 s/3 min 3 s
+1.8 km/1.5 km	59 s/49 s
+4.5 km/4.9 km	2 min 27 s/2 min 40 s
+1.9 km/2.9 km	1 min 2 s/1 min 35 s

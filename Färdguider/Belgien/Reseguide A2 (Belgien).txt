@@ -1,0 +1,96 @@
+A2 (Leuwen - Maas)
+===================
+
+Interchange Heverlee
+ A3 o: Liège
+ A3 w: Brussel
+					2.0 km/1.0 km	1 min 5 s/0 min 33 s
+Afrit 15
+ Leuven
+ N264:
+					1.7 km/1.5 km	56 s/49 s
+Afrit 16
+ Gasthuisberg
+					1.0 km/1.3 km	33 s/43 s
+Afrit 17
+ Winksele
+ N2:
+					1.6 km/1.5 km	52 s/49 s
+Afrit 18
+ Herent
+ N26:
+					2.4 km/2.3 km	1 min 19 s/1 min 15 s
+(Afrit 19)
+
+Viaduct van Wilsele
+
+Afrit 20
+ Wilsele
+ N19:
+					3.4 km/3.5 km	1 min 51 s/1 min 55 s
+Afrit 21
+ Holsbeek
+					4.1 km/4.0 km	2 min 14 s/2 min 11 s
+Tank Wezemaal
+Tank: Esso
+Restaurang: Carestel
+					3.3 km/3.8 km	1 min 48 s/2 min 4 s
+Afrit 22
+ Aarschot
+ N223:
+					7.0 km/6.5 km	3 min 49 s/3 min 33 s
+Afrit 23
+ Tielt-Winge
+ N258:
+					5.1 km/4.5 km	2 min 47 s/2 min 27 s
+Afrit 24
+ Bekkevoort
+ N2, N29
+					6.8 km/7.2 km	3 min 43 s/3 min 56 s
+Afrit 25
+ Halen
+ N2:
+					8.5 km/9.0 km	4 min 38 s/4 min 55 s
+Afrit 26
+ Lummen-Centrum
+ N717:
+					1.8 km/2.0 km	0 min 59 s/1 min 5 s
+Interchange Lummen
+ A13 s:
+ A13 n:
+					4.1 km/3.7 km	2 min 14 s/2 min 1 s
+Afrit 27
+ Zolder Terlaemen
+ N279:
+					2.5 km/1.5 km	1 min 22 s/0 min 49 s
+Afrit 28
+ Zolder
+ N72:
+					1.5 km/2.4 km	0 min 49 s/1 min 19 s
+Park Halvweg / Zolder
+					2.4 km/3.0 km	1 min 19 s/1 min 38 s
+Afrit 29
+ Houthalen-Helchteren
+ N74:
+					6.7 km/5.4 km	3 min 39 s/2 min 57 s
+Afrit 30
+ Park Midden-Limburg
+ N726:
+					2.6 km/3.8 km	1 min 25 s/2 min 4 s
+Afrit 31
+ Genk-Centrum
+ N76:
+					3.8 km/3.8 km	2 min 4 s/2 min 4 s
+Afrit 32
+ Genk-Ost
+ N75, N744
+					10.7 km/10.5 km	5 min 50 s/5 min 44 s
+Afrit 33
+ Maasmechelen
+ N78:
+					2.3 km/1.8 km	1 min 15 s/0 min 59 s
+Park Boorsem
+					2.5 km/2.2 km	1 min 22 s/1 min 12 s
+Belgien / Nederländerna
+Flandern / Limburg
+

@@ -1,0 +1,162 @@
+Färdguide E20 (Arboga - Södertälje)
+====================================
+
+Etapp 28: Gräsnäs - Kungsör (17,5 km/16,7 km)
+
+Trp Gräsnäs (121)
+ E18 v: Oslo
+ E18 ö: Stockholm, Köping
+ E20: Göteborg, Örebro
+					1,6 km/0,8 km	1 min 4 s/0 min 32 s
+Kungsör / Arboga
+					1,8 km/2,2 km	1 min 12 s/1 min 28 s
+Trp Marieborg (122)
+ Arboga N
+ Valskog
+					1,0 km/0,9 km	45 s/41 s
+Rondell Ekbacken
+ Arboga C, Ekbacken
+
+(T-korsning)
+ Vändplats
+
+(T-korsning)
+ Enskild väg
+					2,1 km/1,9 km	1 min 24 s/1 min 16 s
+Korsning
+ Säterbo K:a
+					0,5 km/0,6 km	20 s/24 s
+Hjälmare kanal
+					0,4 km/0,4 km	16 s/16 s
+Korsning
+ Enskild väg
+					0,3 km/0,4 km	12 s/16 s
+Korsning
+ Enskild väg
+					0,8 km/0,7 km	32 s/28 s
+Korsning Magnäs
+ Enskild väg
+					0,5 km/0,5 km	20 s/20 s
+Arboga / Kungsör
+					1,2 km/1,2 km	48 s/48 s
+T-korsning Reutersberg
+ Enskild väg
+					0,9 km/0,8 km	36 s/32 s
+T-korsning Skäftruna vsk
+ Enskild väg
+					0,8 km/0,8 km	32 s/32 s
+Korsning Svartgäll
+ Enskild väg
+					1,4 km/1,3 km	56 s/52 s
+Korsning Granhammar
+ Enskild väg
+					2,2 km/2,3 km	1 min 28 s/1 min 32 s
+Korsning Kungsör väst
+ Kungsör V, C
+ 250: Köping
+					2,2 km/2,2 km	1 min 28 s/1 min 28 s
+T-korsning Kungsör syd
+ 56: Norrköping, Katrineholm
+
+Etapp 29: Kungsör - Eskilstuna (16,2 km/16,4 km)
+					3,7 km/3,7 km	2 min 28 s/2 min 28 s
+Korsning Ö. Säby
+ Kungsör Ö, C
+					1,8 km/1,7 km	1 min 12 s/1 min 8 s
+Korsning Torpa S
+ Torpa
+					0,5 km/0,5 km	20 s/20 s
+T-korsning
+ Stenby
+					0,6 km/0,6 km	24 s/24 s
+Korsning
+ Enskild väg
+					2,0 km/2,0 km	1 min 20 s/1 min 20 s
+Korsning Östertibble
+ Råby-Rekarne, Lista
+					1,6 km/1,6 km	58 s/58 s
+Västmandland / Södermanland
+Kungsör / Eskilstuna
+					0,6 km/0,9 km	22 s/32 s
+Rastplats Råbyhed-syd
+(östgående riktning)
+					0,6 km/0,5 km	22 s/18 s
+Trafikkontrollplats
+(östgående riktning)
+					0,5 km/0,5 km	18 s/18 s
+Rasplats Råbyhed-nord
+(västgående riktning)
+					4,4 km/4,4 km	2 min 38 s/2 min 38 s
+Trp Gröndal (129)
+ Hällbybrunn
+ 56: Västerås, Kvicksund
+ [252]: Hallstahammar
+
+Etapp 30: Eskilstuna - Strängnäs (34,6 km/35,1 km km)
+					2,2 km/2,7 km	1 min 19 s/1 min 37 s
+Trp Folkesta (130)
+ Hällbybrunn
+ Torshälla
+					3,4 km/3,1 km	2 min 2 s/1 min 52 s
+(Bro över Eskilstunaån)
+Trp Marielund (131)
+ Eskilstuna V, S
+ 230: Skogstorp
+ Torshälla
+					2,9 km/3,5 km	1 min 44 s/2 min 6 s
+Trafikplats Årby (132)
+ Eskilstuna N, C
+ 53: Nyköping
+ Sundbyholm
+					3,8 km/3,8 km	2 min 17 s/2 min 17 s
+Trafikplats Svista (133)
+ Eskilstuna Ö, C
+ [53]: Nyköping
+					5,8 km/5,3 km	3 min 10 s/2 min 53 s
+Trafikplats Kjula (134)
+ Ärla
+ Kjulaås
+					8,7 km/8,4 km	4 min 45 s/4 min 35 s
+Eskilstuna / Strängnäs
+					4,8 km/5,5 km	2 min 37 s/3 min 0 s
+Trafikplats Härad (135)
+ Härad
+					2,9 km/3,0 km	1 min 35 s/1 min 38 s
+Trafikplats Lunda (136)
+ Strängnäs V, C
+ 55 n: Uppsala, Enköping
+
+Etapp 31: Strängnäs - Södertälje (48,1 km/48,0 km)
+					6,2 km/6,0 km	3 min 23 s/3 min 16 s
+Trp Biskopskvarn (137)
+ Strängnäs Ö, C
+ 55 s: Norrköping, Katrineholm
+					8,1 km/7,9 km	4 min 25 s/4 min 19 s
+Trpafikplats Åker (138)
+ Åkers styckebruk
+					4,8 km/4,4 km	2 min 37 s/2 min 24 s
+Trp Läggesta (139)
+ 230 s: Nyköping, Gnesta
+ 230 n: Mariefred
+					6,4 km/6,4 km	3 min 29 s/3 min 29 s
+Södermanland / Stockholm
+Strängnäs / Nykvarn
+					11,5 km/12,3 km	6 min 16 s/6 min 43 s
+Trp Nykvarn (140)
+ Järna, Nykvarn
+					4,1 km/3,5 km	2 min 14 s/1 min 55 s
+Trp Almnäs (140.2)
+ Almnäs
+					1,2 km/1,1 km	39 s/36 s
+Nykvarn / Södertälje
+					0,6 km/1,4 km	20 s/46 s
+Trafikplats Vasa (141)
+ Södertälje V, C
+					/4,1 km			/2 min 28 s
+Trp Saltskog Västra (142)
+(avfart västgående riktning
+påfart östgående riktning)
+ Södertälje S, C
+					5,1 km/0,8 km	3 min 4 s/0 min 29 s
+Trp Saltskog Östra (143)
+ E4 s: Helsingborg, Jönköping

@@ -1,0 +1,59 @@
+Time	Km	Instruction	For	Toward
+Summary:  26,8 kilometres (14 minutes)
+09:00	0,0	Depart E314, 3631 Maasmechelen on A2 [E314] (North-East)	60 m	
+09:00	0,1	Entering Netherlands		
+09:00	0,1	Road name changes to A76 [E314]	0,5 km	
+09:00	0,6	At 1, stay on A76 [E314] (North-East)	1,2 km	E314 / A76 / Heerlen / Aachen
+09:00	1,8	At E314, 6171 Stein, stay on A76 [E314] (East)	2,6 km	E314 / A76 / Heerlen / Aachen
+09:02	4,4	At 2, stay on A76 [E314] (South-East)	2,0 km	E314 / A76 / Geleen-Oost / Heerlen / Aachen
+09:03	6,4	At 3, stay on A76 [E314] (East)	3,0 km	E314 / A76 / Heerlen / Aachen
+09:05	9,5	At 4, stay on A76 [E314] (East)	1,9 km	
+09:05	11,4	At 5, stay on A76 [E314] (South)	3,1 km	
+09:07	14,5	At E314, 6433 Hoensbroek, stay on A76 [E314] (South-East)	5,0 km	E314 / A76 / Kerkrade / Aachen / Industrieterrein Parkstad 4000-8000
+09:10	19,5	At E314, 6419 Heerlen, stay on A76 [E314] (South-East)	4,7 km	
+09:12	24,2	At 7, stay on A76 [E314] (South-East)	2,1 km	
+09:13	26,3	At E314, 6422 Heerlen, stay on A76 [E314] (South)	0,6 km	
+09:14	26,8	Arrive E314, 6422 Heerlen		
+
+SUMMARY
+Driving distance:  26,8 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  32,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,3 kilometres (14 minutes)
+09:00	0,0	Depart E314, 52072 Aachen on A4 [E314] (North)	0,3 km	E314 / Antwerpen / Heerlen
+09:00	0,3	Entering Netherlands		
+09:00	0,3	Road name changes to A76 [E314]	0,5 km	
+09:00	0,7	At E314, 6422 Heerlen, stay on A76 [E314] (North)	0,8 km	
+09:00	1,5	At 7, stay on A76 [E314] (North-West)	6,5 km	E314 / A76 / Maastricht / Eindhoven / Antwerpen / Industrieterrein Parkstad 0-3000 / Industrieterrein Parkstad 8000-9900
+09:04	8,0	At E314, 6419 Heerlen, stay on A76 [E314] (North)	3,0 km	
+09:06	11,1	At 6, stay on A76 [E314] (North)	1,7 km	
+09:06	12,8	At Knooppunt Ten Esschen, 6433 Hoensbroek, stay on A76 [E314] (North-West)	1,9 km	
+09:07	14,7	At 5, stay on A76 [E314] (North-West)	2,6 km	
+09:09	17,3	At 4, stay on A76 [E314] (North-West)	1,9 km	
+09:10	19,2	At 3, stay on A76 [E314] (West)	2,6 km	E314 / A76 / Eindhoven / Maastricht / Vliegveld
+09:11	21,9	At 2, stay on A76 [E314] (West)	2,0 km	E314 / A76 / Eindhoven / Maastricht / Antwerpen / Vliegveld
+09:12	23,9	At E314, 6161 Geleen, stay on A76 [E314] (North-West)	2,9 km	E314 / A76 / Antwerpen
+09:14	26,7	At E314, 6171 Stein, stay on A76 [E314] (West)	0,6 km	
+09:14	27,3	Arrive near Meers		
+
+SUMMARY
+Driving distance:  27,3 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  32,53 kr
+
+0.6 km/0.5 km	0 min 22 s/0 min 18 s	100
+1.2 km/2.9 km	0 min 43 s/1 min 44 s
+2.6 km/2.0 km	1 min 34 s/1 min 12 s
+2.0 km/2.6 km	1 min 12 s/1 min 34 s
+3.0 km/1.9 km	1 min 48 s/1 min 8 s
+1.9 km/2.6 km	1 min 8 s/1 min 34 s
+3.1 km/1.9 km	1 min 52 s/1 min 8 s
+1.8 km/1.7 km	1 min 5 s/1 min 1 s
+3.2 km/3.0 km	1 min 55 s/1 min 48 s
+4.7 km/6.5 km	2 min 49 s/3 min 54 s
+2.1 km/0.8 km	1 min 16 s/0 min 29 s
+0.6 km/0.7 km	0 min 22 s/0 min 25 s

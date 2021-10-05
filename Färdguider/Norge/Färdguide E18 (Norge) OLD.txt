@@ -1,0 +1,25 @@
+Kryss Filipstad (5)
+ 162: 
+(Festningstunnelen-vest)
+					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+Avfart Akershusstranda (4)
+(østgående riktning)
+					0.4 km/1.6 km	0 min 18 s/1 min 12 s
+(Festningstunnelen-øst)
+Kryss E18/Rådhusgata
+(västgående riktning)
+					0.3 km/1.1 km	15 s/57 s
+Kryss Nylandsveien
+ 4: Gjøvik
+Kryss Sørenga
+ 190-Ring 2:
+ [E6 n]: Trondheim, Gardemoen
+					1.8 km/1.1 km	1 min 33 s/0 min 57 s
+T-korsning
+(till/från sydgående)
+					0.4 km/0.3 km	21 s/15 s
+Kryss Sjursøya
+(avfart östgående riktning
+påfart västgående riktning)
+					1.4 km/1.5 km	1 min 12 s/1 min 17 s
+(Bomstasjon Mosseveien)

@@ -1,0 +1,111 @@
+Time	Km	Instruction	For	Toward
+Summary:  27,7 kilometres (15 minutes)
+09:00	0,0	Depart 50 on Ramp (East)	1,6 km	A60 / Frankfurt / Mainz / Ingelheim / Bingen-Ost
+09:01	1,6	Merge onto A60 [E42]	2,0 km	
+09:02	3,7	At 13, stay on A60 [E42] (North-East)	1,8 km	
+09:02	5,5	At 14, stay on A60 [E42] (North-East)	4,7 km	A60 / Frankfurt / Mainz / Ingelheim
+09:05	10,2	At 15, stay on A60 [E42] (East)	4,6 km	
+09:07	14,8	At 16, stay on A60 [E42] (East)	1,8 km	
+09:08	16,5	At E42, 55262 Heidesheim am Rhein, stay on A60 [E42] (North-East)	1,9 km	
+09:09	18,4	At 17, stay on A60 [E42] (East)	2,8 km	A60 / Autobahndreieck Mainz
+09:11	21,3	At 18, stay on A60 [E42] (East)	2,1 km	A60 / Darmstadt / Mainz
+09:12	23,4	At near Lerchenberg, stay on A60 [E42] (South-East)	3,2 km	
+09:14	26,6	At 20, stay on A60 [E42] (South-East)	1,1 km	
+09:15	27,7	Arrive 21		
+
+SUMMARY
+Driving distance:  27,7 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  35,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,1 kilometres (14 minutes)
+09:00	0,0	Depart 21 on A60 [E42] (West)	1,4 km	A60 / Bingen / Kaiserslautern / Mainz-Lerchenberg
+09:00	1,4	At 20, stay on A60 [E42] (West)	2,9 km	
+09:02	4,3	At 19, stay on A60 [E42] (North-West)	1,8 km	
+09:03	6,1	At 18, keep STRAIGHT to stay on A60 [E42]	3,7 km	
+09:06	9,8	At 17, stay on A60 [E42] (West)	1,8 km	A60 / Ingelheim-Ost
+09:07	11,7	At E42, 55262 Heidesheim am Rhein, stay on A60 [E42] (West)	1,5 km	
+09:07	13,1	At 16, stay on A60 [E42] (West)	5,3 km	
+09:10	18,4	At 15, stay on A60 [E42] (West)	4,2 km	
+09:12	22,6	At 14, stay on A60 [E42] (South-West)	2,2 km	
+09:13	24,8	At 13, keep STRAIGHT to stay on A60 [E42]	2,4 km	
+09:14	27,1	Arrive 12		
+
+SUMMARY
+Driving distance:  27,1 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  30,18 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,8 kilometres (9 minutes)
+09:00	0,0	Depart 21 on A60 [E42] (East)	1,5 km	Frankfurt A.M. / Darmstadt / Mainz-Hechtsheim
+09:00	1,5	At 22A, stay on A60 [E42] (East)	1,3 km	A60 / Frankfurt A.M. / Darmstadt
+09:01	2,8	At 22B, stay on A60 [E42] (East)	1,1 km	
+09:02	3,9	At 23, stay on A60 [E42] (East)	1,8 km	
+09:03	5,7	At 24, stay on A60 [E42] (East)	1,9 km	A60 / Frankfurt A.M. / Darmstadt / Ginsheim-Gustavsburg
+09:04	7,6	At 25, stay on A60 [E42] (North-East)	0,9 km	A60 / Frankfurt A.M. / Darmstadt
+09:05	8,5	At 26, stay on A60 [E42] (East)	2,8 km	A60 / Frankfurt / Darmstadt / Rüsselsheim
+09:06	11,4	At 27, stay on A60 [E42] (East)	2,2 km	
+09:07	13,5	At 28, stay on A60 [E42] (East)	2,0 km	
+09:08	15,5	At 29, stay on A60 [E42] (East)	1,3 km	
+09:09	16,8	Arrive 30		
+
+SUMMARY
+Driving distance:  16,8 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,66 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,2 kilometres (9 minutes)
+09:00	0,0	Depart 3 on Ramp (South)	1,1 km	A60 / Bingen / Mainz / Wiesbaden / Rüsselsheim
+09:00	1,1	Merge onto E42	10 m	
+09:00	1,1	Road name changes to A60 [E42]	1,2 km	
+09:01	2,3	At 29, stay on A60 [E42] (West)	1,5 km	
+09:01	3,8	At 28, stay on A60 [E42] (West)	2,9 km	
+09:03	6,7	At 27, stay on A60 [E42] (West)	2,7 km	
+09:04	9,4	At 26, stay on A60 [E42] (West)	1,0 km	
+09:05	10,4	At 25, stay on A60 [E42] (South-West)	1,5 km	
+09:06	11,8	At E42, 55130 Mainz, stay on A60 [E42] (West)	1,8 km	
+09:07	13,6	At 23, stay on A60 [E42] (West)	1,2 km	
+09:07	14,8	At 22B, stay on A60 [E42] (West)	1,4 km	
+09:08	16,2	At 22A, stay on A60 [E42] (West)	1,0 km	
+09:09	17,2	Arrive 21		
+
+SUMMARY
+Driving distance:  17,2 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  19,43 kr
+
+Nahetal (12) - Mainz (18)
+3.7 km/2.4 km	2 min 1 s/1 min 19 s	110
+3.4 km/2.4 km	1 min 51 s/1 min 19 s
+1.8 km/2.2 km	0 min 59 s/1 min 12 s
+4.7 km/4.1 km	2 min 34 s/2 min 14 s
+4.6 km/5.4 km	2 min 31 s/2 min 57 s
+1.8 km/1.5 km	0 min 59 s/0 min 49 s
+1.9 km/1.8 km	1 min 2 s/0 min 59 s
+2.8 km/3.7 km	1 min 32 s/2 min 1 s
+
+Mainz (18) - Mainz-Süd (21)
+2.1 km/1.8 km	1 min 16 s/1 min 5 s	100
+3.2 km/2.9 km	1 min 55 s/1 min 44 s
+1.1 km/1.4 km	0 min 40 s/0 min 50 s
+
+Mainz-Süd (21) - Rüsselsheim (30)
+1.5 km/1.0 km	0 min 54 s/0 min 36 s	100
+1.3 km/1.4 km	0 min 47 s/0 min 50 s
+1.1 km/1.2 km	0 min 40 s/0 min 43 s
+1.8 km/1.8 km	1 min 5 s/1 min 5 s
+1.5 km/1.0 km	0 min 54 s/0 min 36 s
+0.4 km/0.5 km	0 min 14 s/0 min 18 s
+0.9 km/1.0 km	0 min 32 s/0 min 36 s
+2.8 km/2.7 km	1 min 41 s/1 min 37 s
+2.2 km/2.9 km	1 min 19 s/1 min 44 s
+2.0 km/1.5 km	1 min 12 s/0 min 54 s
+1.3 km/2.9 km	0 min 47 s/1 min 44 s
+1.3 km/2.3 km	0 min 47 s/1 min 23 s

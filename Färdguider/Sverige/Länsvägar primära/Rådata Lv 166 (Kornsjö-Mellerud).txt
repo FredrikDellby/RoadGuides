@@ -1,0 +1,129 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,8 kilometres (9 minutes)
+09:00	0,0	Depart 166, 668 Ed on 166 (South)	1,0 km	
+09:01	1,0	At T-korsning Dals Högen, stay on 166 (South)	4,7 km	
+09:05	5,7	At T-korsning Bästorp, stay on 166 (East)	4,0 km	
+09:09	9,8	Arrive Korsning Mon korsväg		
+
+SUMMARY
+Driving distance:  9,8 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  10,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,8 kilometres (9 minutes)
+09:00	0,0	Depart Korsning Mon korsväg on 166 (West)	4,0 km	
+09:04	4,0	At T-korsning Bästorp, stay on 166 (West)	4,7 km	
+09:08	8,7	At near Kornsjo, stay on 166 (North)	1,0 km	
+09:09	9,8	Arrive 166, 668 Ed		
+
+SUMMARY
+Driving distance:  9,8 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  10,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,7 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning on 166 (West)	3,6 km	
+09:03	3,6	At 166, 668 Ed, stay on 166 (West)	2,7 km	
+09:05	6,3	At T-korsning Tingvalla, stay on 166 (West)	1,0 km	
+09:06	7,2	At near Törsängen, stay on 166 (West)	3,8 km	
+09:10	11,0	At Korsning Hindalebyn, stay on 166 (West)	2,1 km	
+09:12	13,1	At T-korsning Torpfors, stay on 166 (North-West)	0,5 km	
+09:13	13,7	Arrive Korsning Ed SV		
+
+SUMMARY
+Driving distance:  13,7 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  15,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,7 kilometres (13 minutes)
+09:00	0,0	Depart Korsning Ed SV on 166 (South)	0,5 km	
+09:00	0,5	At T-korsning Torpfors, stay on 166 [Torpfors] (South-East)	2,1 km	
+09:02	2,7	At Korsning Hindalebyn, stay on 166 (South-East)	3,8 km	
+09:06	6,5	At near Törsängen, stay on 166 (East)	1,0 km	
+09:07	7,4	At T-korsning Tingvalla, stay on 166 (East)	2,7 km	
+09:10	10,1	At 166, 668 Ed, stay on 166 (East)	3,5 km	
+09:13	13,7	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  13,7 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  15,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,2 kilometres (17 minutes)
+09:00	0,0	Depart Korsning Bäckefors östra on 166 (South-East)	1,4 km	
+09:01	1,4	At T-korsning Bäckefors kyrka, stay on 166 (South-East)	1,4 km	
+09:02	2,8	At T-korsning Björtveten, stay on 166 (South-East)	1,1 km	
+09:03	3,9	At Korsning Bäcken, stay on 166 (South)	1,5 km	
+09:04	5,4	At 166, 668 Bäckefors, stay on 166 (East)	1,4 km	
+09:05	6,8	At 166, 464 Dals Rostock, stay on 166 (East)	3,5 km	
+09:08	10,4	At Korsning Dalskog, stay on 166 (East)	2,5 km	
+09:10	12,9	At T-korsning Bengtserud, stay on 166 (East)	1,7 km	
+09:11	14,5	At T-korsning Årbol S, stay on 166 (South-East)	1,6 km	
+09:12	16,2	At Korsning Dals-Rost. Lv 166, stay on 166 (East)	1,3 km	
+09:13	17,4	At Korsning Gunnarsnäs K:a, stay on 166 (East)	4,7 km	
+09:17	22,2	Arrive T-korsning E45/166		
+
+SUMMARY
+Driving distance:  22,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,2 kilometres (17 minutes)
+09:00	0,0	Depart T-korsning E45/166 on 166 [Kornsjögatan] (West)	4,7 km	
+09:03	4,7	At Korsning Gunnarsnäs K:a, stay on 166 (West)	1,3 km	
+09:04	6,0	At Korsning Dals-Rost. Lv 166, stay on 166 (West)	1,6 km	
+09:06	7,6	At T-korsning Årbol S, stay on 166 (North-West)	1,7 km	
+09:07	9,3	At T-korsning Bengtserud, stay on 166 (West)	2,5 km	
+09:09	11,8	At Korsning Dalskog, stay on 166 (West)	3,5 km	
+09:12	15,3	At 166, 464 Dals Rostock, stay on 166 (West)	1,4 km	
+09:13	16,8	At 166, 668 Bäckefors, stay on 166 (West)	1,5 km	
+09:14	18,3	At Korsning Bäcken, stay on 166 (North-West)	1,1 km	
+09:15	19,4	At T-korsning Björtveten, stay on 166 (North-West)	1,4 km	
+09:16	20,8	At T-korsning Bäckefors kyrka, stay on 166 (North-West)	1,4 km	
+09:17	22,2	Arrive Korsning Bäckefors östra		
+
+SUMMARY
+Driving distance:  22,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,14 kr
+
+Norge/Sverige - Dals Högen
+1.0 km/1.0 km	1 min 0 s/1 min 0 s	60
+
+Dals Högen - Mon korsväg
+4.7 km/4.7 km	3 min 32 s/3 min 32 s	80
+4.0 km/4.0 km	3 min 0 s/3 min 0 s
+
+Ed SO - T-korsning
+0.5 km/0.5 km	0 min 23 s/0 min 23 s	80
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+3.5 km/3.6 km	2 min 38 s/2 min 42 s
+
+Bäckefors östra - Bäckefors kyrka
+1.4 km/1.4 km	1 min 24 s/1 min 24 s	60
+
+Bäckefors kyrka - E45/166
+1.4 km/1.4 km	1 min 3 s/1 min 3 s	80
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+4.7 km/4.7 km	3 min 32 s/3 min 32 s

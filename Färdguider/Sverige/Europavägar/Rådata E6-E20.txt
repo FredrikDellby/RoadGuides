@@ -1,0 +1,465 @@
+Time	Km	Instruction	For	Toward
+Summary:  2,9 kilometres (2 minutes)
+09:00	0,0	Depart E20, 416 66 Göteborg on E20 [Riddaregatan] (South-West)	1,2 km	E20 / E6 / 40 / Malmö / Flygplats / Centrum
+09:01	1,2	At 73, stay on E20 [E6] (South)	0,7 km	E6 / E20 / 40 / 158 / Malmö / Jönköping / Flygplats
+09:01	1,9	At 71, stay on E20 [E6] (South)	1,0 km	E6 / E20 / 40 / 158 / Malmö / Jönköping / Flygplats
+09:02	2,9	Arrive 70		
+
+SUMMARY
+Driving distance:  2,9 kilometres
+Trip duration:  2 minutes
+Driving time:  2 minutes
+Cost:  5,07 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  2,9 kilometres (2 minutes)
+09:00	0,0	Depart Olskroksmotet, 416 66 Göteborg on E20 [Riddaregatan] (South-West)	1,2 km	E20 / E6 / 40 / Malmö / Flygplats / Centrum
+09:01	1,2	At 73, stay on E20 [E6] (South)	0,4 km	E6 / E20 / 40 / 158 / Malmö / Jönköping / Flygplats
+09:01	1,5	At 72, stay on E20 [E6] (South)	0,3 km	E6 / E20 / 40 / 158 / Malmö / Jönköping / Flygplats
+09:01	1,9	At 71, stay on E20 [E6] (South)	1,0 km	E6 / E20 / 40 / 158 / Malmö / Jönköping / Flygplats
+09:02	2,9	Arrive 70		
+
+SUMMARY
+Driving distance:  2,9 kilometres
+Trip duration:  2 minutes
+Driving time:  2 minutes
+Cost:  5,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,2 kilometres (14 minutes)
+09:00	0,0	Depart 70 on E20 [E6] (South)	1,2 km	E6 / E20 / 158 / Malmö / SÄRÖ / Mölndal C.
+09:00	1,2	At E20, 412 76 Göteborg, stay on E20 [E6] (South)	1,9 km	
+09:02	3,0	At 68, stay on E20 [E6] (South)	1,1 km	E6 / E20 / 158 / Malmö / Mölndal C.
+09:03	4,1	At 67, stay on E20 [E6] (South)	0,9 km	E6 / E20 / 158 / Malmö / Mölndal S.
+09:03	5,0	At 66, stay on E20 [E6] (South)	1,8 km	E6 / E20 / Malmö
+09:05	6,8	At near Alvered, stay on E20 [E6] (South-East)	0,8 km	
+09:05	7,6	At 65, stay on E20 [E6] (South)	2,6 km	E6 / E20 / Malmö
+09:07	10,2	At 63, stay on E20 [E6] (South)	4,0 km	E6 / E20 / Malmö
+09:10	14,2	At 62, stay on E20 [E6] (South)	1,6 km	
+09:11	15,8	At E6, 437 93 Lindome, stay on E20 [E6] (South)	4,6 km	
+09:13	20,4	At 61, stay on E20 [E6] (South)	2,8 km	
+09:14	23,2	Arrive 60		
+
+SUMMARY
+Driving distance:  23,2 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  31,30 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,5 kilometres (15 minutes)
+09:00	0,0	Depart 60 on E20 [E6] (North)	2,1 km	
+09:01	2,1	At 61, stay on E20 [E6] (North)	4,5 km	
+09:03	6,6	At E6, 434 95 Kungsbacka, stay on E20 [E6] (North)	2,9 km	
+09:04	9,5	At 62, stay on E20 [E6] (North)	2,7 km	
+09:06	12,2	At 63, stay on E20 [E6] (North)	3,3 km	
+09:08	15,5	At 65, stay on E20 [E6] (North)	0,7 km	E6 / E20 / Göteborg
+09:09	16,1	At E6, 431 90 Mölndal, stay on E20 [E6] (North)	1,8 km	
+09:10	17,9	At 66, stay on E20 [E6] (North)	1,5 km	E6 / E20 / 40 / Flygplats / Göteborg / Mölndal N
+09:11	19,4	At near Mölndal, stay on E20 [E6] (North)	0,7 km	
+09:12	20,1	At 68, stay on E20 [E6] (North)	1,9 km	E6 / E20 / 40 / Göteborg / Flygplats
+09:13	22,0	At near Kallebäck, stay on E20 [E6] (North)	1,5 km	
+09:15	23,5	Arrive E6, 412 66 SKÅR		
+
+SUMMARY
+Driving distance:  23,5 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  31,57 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,5 kilometres (21 minutes)
+09:00	0,0	Depart 60 on E20 [E6] (South)	2,0 km	
+09:01	2,0	At 59, stay on E20 [E6] (South-East)	7,8 km	
+09:05	9,8	At 58, stay on E20 [E6] (South-East)	6,0 km	
+09:08	15,9	At Avfart, stay on E20 [E6] (South)	6,1 km	
+09:11	21,9	At 57, stay on E20 [E6] (South)	1,0 km	
+09:12	22,9	At near Löftabro, stay on E20 [E6] (South)	8,2 km	
+09:16	31,1	At 56, stay on E20 [E6] (South)	1,3 km	
+09:17	32,5	At E6, 432 96 Åskloster, stay on E20 [E6] (South)	0,9 km	
+09:17	33,4	At near Åkraberg, stay on E20 [E6] (South-East)	7,1 km	
+09:21	40,5	Arrive 55		
+
+SUMMARY
+Driving distance:  40,5 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  45,03 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,0 kilometres (21 minutes)
+09:00	0,0	Depart 55 on E20 [E6] (North)	7,8 km	
+09:04	7,8	At near Åkraberg, stay on E20 [E6] (North-West)	0,7 km	
+09:04	8,5	At E6, 432 96 Åskloster, stay on E20 [E6] (North)	1,2 km	
+09:05	9,7	At 56, stay on E20 [E6] (North)	8,6 km	
+09:09	18,3	At near Löftabro, stay on E20 [E6] (North)	0,5 km	
+09:09	18,8	At 57, stay on E20 [E6] (North)	6,8 km	
+09:13	25,6	At E6, 430 30 Åsa, stay on E20 [E6] (North)	5,5 km	
+09:16	31,1	At 58, stay on E20 [E6] (North-West)	7,3 km	
+09:20	38,4	At 59, stay on E20 [E6] (North-West)	2,6 km	
+09:21	41,0	Arrive 60		
+
+SUMMARY
+Driving distance:  41,0 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  45,59 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  69,6 kilometres (36 minutes)
+09:00	0,0	Depart 55 on E20 [E6] (South)	5,3 km	
+09:02	5,3	At 54, stay on E20 [E6] (South)	7,5 km	
+09:06	12,7	At E6, 430 10 Tvååker, stay on E20 [E6] (South)	1,7 km	
+09:07	14,4	At 53, stay on E20 [E6] (South)	6,2 km	
+09:10	20,7	At near Sotared, stay on E20 [E6] (South-East)	2,4 km	
+09:12	23,1	At 52, stay on E20 [E6] (South)	7,7 km	
+09:16	30,7	At 51, stay on E20 [E6] (East)	4,6 km	
+09:18	35,3	At near Gödastorp, stay on E20 [E6] (East)	0,8 km	
+09:18	36,1	At 50, stay on E20 [E6] (South-East)	2,3 km	
+09:20	38,4	At 49, stay on E20 [E6] (South-East)	5,8 km	
+09:23	44,2	At 48, stay on E20 [E6] (South-East)	2,3 km	
+09:24	46,5	At E6, 310 50 Slöinge, stay on E20 [E6] (South-East)	4,4 km	
+09:26	50,9	At 47, stay on E20 [E6] (East)	8,2 km	
+09:31	59,1	At 46, stay on E20 [E6] (East)	6,5 km	
+09:34	65,6	At 45, keep STRAIGHT to stay on E20 [E6]	2,8 km	E6 / E20 / Malmö / Halmstad Hamn
+09:35	68,3	At near Vapnö, stay on E20 [E6] (South)	1,3 km	
+09:36	69,6	Arrive 44		
+
+SUMMARY
+Driving distance:  69,6 kilometres
+Trip duration:  36 minutes
+Driving time:  36 minutes
+Cost:  80,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  69,7 kilometres (36 minutes)
+09:00	0,0	Depart 44 on E20 [E6] (North)	2,2 km	
+09:01	2,2	At near Vapnö, stay on E20 [E6] (North)	1,9 km	
+09:02	4,1	At 45, keep STRAIGHT to stay on E20 [E6]	7,1 km	
+09:05	11,2	At 46, stay on E20 [E6] (West)	7,8 km	
+09:09	19,0	At 47, stay on E20 [E6] (West)	4,0 km	
+09:12	23,0	At E6, 310 44 Getinge, stay on E20 [E6] (North)	2,5 km	
+09:13	25,4	At 48, stay on E20 [E6] (West)	6,1 km	
+09:16	31,5	At 49, stay on E20 [E6] (North-West)	2,3 km	
+09:17	33,9	At 50, stay on E20 [E6] (North-West)	1,2 km	
+09:18	35,1	At near Gödastorp, stay on E20 [E6] (West)	4,3 km	
+09:20	39,4	At 51, stay on E20 [E6] (West)	7,6 km	
+09:24	47,0	At 52, stay on E20 [E6] (North)	2,8 km	
+09:26	49,8	At near Sotared, stay on E20 [E6] (North-West)	5,8 km	
+09:29	55,5	At 53, stay on E20 [E6] (North)	1,7 km	
+09:30	57,3	At E6, 430 10 Tvååker, stay on E20 [E6] (North)	7,5 km	
+09:34	64,8	At 54, stay on E20 [E6] (North)	4,9 km	
+09:36	69,7	Arrive 55		
+
+SUMMARY
+Driving distance:  69,7 kilometres
+Trip duration:  36 minutes
+Driving time:  36 minutes
+Cost:  81,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  49,3 kilometres (25 minutes)
+09:00	0,0	Depart 44 on E20 [E6] (South)	2,8 km	E6 / E20 / Malmö / Halmstad Hamn
+09:01	2,8	At 43, stay on E20 [E6] (South)	1,9 km	
+09:02	4,7	At near Kistinge, stay on E20 [E6] (South)	11,4 km	
+09:08	16,1	At E6, 312 91 Laholm, stay on E20 [E6] (South)	1,2 km	
+09:09	17,3	At near Västra Mellby, stay on E20 [E6] (South)	2,7 km	
+09:10	19,9	At 41, stay on E20 [E6] (South)	6,1 km	
+09:13	26,1	At 40, stay on E20 [E6] (South)	1,8 km	
+09:14	27,9	At near Skummeslöv, stay on E20 [E6] (South)	1,1 km	
+09:15	28,9	At 39, stay on E20 [E6] (South)	1,5 km	
+09:16	30,5	At near Östra Karup, stay on E20 [E6] (South)	2,6 km	
+09:17	33,1	At 38, stay on E20 [E6] (South)	3,1 km	
+09:19	36,2	At near Hulebäckseröd, stay on E20 [E6] (South)	6,2 km	
+09:22	42,4	At 37, stay on E20 [E6] (South)	6,9 km	
+09:25	49,3	Arrive 35		
+
+SUMMARY
+Driving distance:  49,3 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  64,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  49,2 kilometres (25 minutes)
+09:00	0,0	Depart 35 on E20 [E6] (North)	7,2 km	
+09:03	7,2	At 37, stay on E20 [E6] (North)	6,5 km	
+09:07	13,7	At E6, 266 98 Hjärnarp, stay on E20 [E6] (North)	2,9 km	
+09:08	16,6	At 38, stay on E20 [E6] (North)	2,1 km	
+09:09	18,7	At E6, 269 03 Östra Karup, stay on E20 [E6] (North)	1,6 km	
+09:10	20,3	At 39, stay on E20 [E6] (North)	2,0 km	
+09:11	22,3	At near Skummeslöv, stay on E20 [E6] (North)	0,9 km	
+09:12	23,2	At 40, stay on E20 [E6] (North)	6,0 km	
+09:15	29,1	At 41, stay on E20 [E6] (North)	3,5 km	
+09:17	32,7	At near Västra Mellby, stay on E20 [E6] (North)	0,7 km	
+09:17	33,4	At E6, 312 91 Laholm, stay on E20 [E6] (North)	12,0 km	
+09:23	45,4	At near Kistinge, stay on E20 [E6] (North-West)	1,9 km	
+09:24	47,3	At 43, stay on E20 [E6] (North)	1,9 km	
+09:25	49,2	Arrive 44		
+
+Time	Km	Instruction	For	Toward
+Summary:  20,6 kilometres (10 minutes)
+09:00	0,0	Depart 35 on E20 [E6] (South)	2,8 km	
+09:01	2,8	At 34, stay on E20 [E6] (South)	4,7 km	
+09:03	7,4	At 33, stay on E20 [E6] (South)	1,9 km	
+09:04	9,3	At 32, stay on E20 [E6] (South)	6,3 km	
+09:08	15,6	At near Hasslarp, stay on E20 [E6] (South-West)	2,6 km	
+09:09	18,2	At 31, keep STRAIGHT to stay on E20 [E6]	2,4 km	
+09:10	20,6	Arrive 30		
+
+SUMMARY
+Driving distance:  20,6 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  24,16 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,7 kilometres (10 minutes)
+09:00	0,0	Depart 30A on E20 [E6] (North)	3,0 km	E6 / E20 / Helsingborg N
+09:01	3,0	At 31, stay on E20 [E6] (North-East)	3,1 km	
+09:03	6,0	At near Hasslarp, stay on E20 [E6] (North-East)	6,0 km	
+09:06	12,0	At E6, 262 96 Ängelholm, stay on E20 [E6] (North)	1,3 km	
+09:07	13,3	At 33, stay on E20 [E6] (North)	4,7 km	
+09:09	18,0	At 34, stay on E20 [E6] (North)	2,7 km	
+09:10	20,7	Arrive 35		
+
+SUMMARY
+Driving distance:  20,7 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  24,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,1 kilometres (13 minutes)
+09:00	0,0	Depart 30 on E20 [E6] (South)	2,6 km	
+09:01	2,6	At 29, stay on E20 [E4] (South)	1,7 km	
+09:02	4,3	At E20, 260 33 Helsingborg, stay on E20 [E4] (South)	3,3 km	
+09:03	7,6	At 28, stay on E20 [E6] (South)	6,1 km	
+09:07	13,7	At 27, stay on E20 [E6] (South)	0,7 km	
+09:07	14,4	At near Kattslösa, stay on E20 [E6] (South-East)	2,7 km	
+09:08	17,1	At E6, 261 62 Glumslöv, stay on E20 [E6] (South)	2,0 km	
+09:10	19,1	At 26, stay on E20 [E6] (South-East)	6,1 km	
+09:13	25,1	Arrive 25		
+
+SUMMARY
+Driving distance:  25,1 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  29,08 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,3 kilometres (13 minutes)
+09:00	0,0	Depart 25 on E20 [E6] (North)	6,4 km	E6 / E20 / E4 / Göteborg / Stockholm
+09:03	6,4	At 26, stay on E20 [E6] (North-West)	2,3 km	
+09:04	8,6	At E6, 261 62 Glumslöv, stay on E20 [E6] (North)	3,1 km	
+09:06	11,8	At near Kattslösa, stay on E20 [E6] (North-West)	0,4 km	
+09:06	12,1	At 27, stay on E20 [E6] (North)	5,1 km	
+09:09	17,2	At 28, stay on E20 [E6] (North)	3,7 km	E20 / E4 / E6 / Stockholm / Göteborg
+09:11	20,9	At E20, 256 69 Helsingborg, stay on E20 [E4] (North)	2,2 km	
+09:12	23,0	At 29, stay on E20 [E4] (North)	2,3 km	
+09:13	25,3	Arrive 30A		
+
+SUMMARY
+Driving distance:  25,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  29,25 kr
+
+
+SUMMARY
+Driving distance:  49,2 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  63,69 kr
+
+Olskroksmotet - Kallebäcksmotet
+1.2 km/0.8 km	1 min 2 s/0 min 41 s	70
+0.7 km/0.9 km	36 s/46 s
+1.0 km/0.6 km	51 s/31 s
+
+Kallebäcksmotet - Åbromotet
+1.2 km/1.5 km	0 min 48 s/1 min 0 s
+1.9 km/1.9 km	1 min 16 s/1 min 16 s
+1.1 km/0.7 km	44 s/28 s
+0.9 km/1.5 km	0 min 36 s/1 min 0 s
+
+Åbromotet - Kungsbacka
+1.8 km/1.8 km	59 s/59 s
+0.8 km/0.7 km	26 s/23 s
+2.6 km/3.3 km	1 min 25 s/1 min 48 s
+4.0 km/2.7 km	2 min 11 s/1 min 28 s
+1.6 km/2.9 km	0 min 52 s/1 min 35 s
+4.6 km/4.5 km	2 min 31 s/2 min 27 s
+2.8 km/2.1 km	1 min 32 s/1 min 9 s
+
+Kungsbacka - Varberg Norra
+2.0 km/2.6 km	1 min 5 s/1 min 25 s
+7.8 km/7.3 km	4 min 15 s/3 min 59 s
+6.0 km/5.5 km	3 min 16 s/3 min 0 s
+6.1 km/6.8 km	3 min 20 s/3 min 43 s
+1.0 km/0.5 km	33 s/16 s
+8.2 km/8.6 km	4 min 28 s/4 min 41 s
+1.3 km/1.2 km	43 s/39 s
+0.9 km/0.7 km	29 s/23 s
+7.1 km/7.8 km	3 min 52 s/4 min 15 s
+
+Varberg Norra - Nissan
+5.3 km/4.9 km	2 min 53 s/2 min 40 s
+7.5 km/7.5 km	4 min 5 s/4 min 5 s
+1.7 km/1.7 km	56 s/56 s
+6.2 km/5.8 km	3 min 23 s/3 min 10 s
+2.4 km/2.8 km	1 min 19 s/1 min 32 s
+7.7 km/7.6 km	4 min 12 s/4 min 9 s
+4.6 km/4.3 km	2 min 31 s/2 min 21 s
+0.8 km/1.2 km	26 s/39 s
+2.3 km/2.3 km	1 min 15 s/1 min 15 s
+5.8 km/6.1 km	3 min 10 s/3 min 20 s
+2.3 km/2.5 km	1 min 15 s/1 min 22 s
+4.4 km/4.0 km	2 min 24 s/2 min 11 s
+8.2 km/7.8 km	4 min 28 s/4 min 15 s
+6.5 km/7.1 km	3 min 33 s/3 min 52 s
+2.8 km/1.9 km	1 min 32 s/1 min 2 s
+
+Nissan - Fylleån
+1.3 km/2.2 km	0 min 47 s/1 min 19 s
+2.8 km/1.9 km	1 min 41 s/1 min 8 s
+1.9 km/1.9 km	1 min 8 s/1 min 8 s
+
+Fylleån - Ö. Karup
+11.4 km/12.0 km	6 min 13 s/6 min 33 s
+1.2 km/0.7 km	39 s/23 s
+2.7 km/3.5 km	1 min 28 s/1 min 55 s
+6.1 km/6.0 km	3 min 20 s/3 min 16 s
+1.8 km/0.9 km	59 s/29 s
+1.1 km/2.0 km	0 min 36 s/1 min 5 s
+
+Ö. Karup - Hjärup (över åsen)
+1.5 km/1.6 km	54 s/58 s
+2.6 km/2.1 km	1 min 34 s/1 min 16 s
+3.1 km/2.9 km	1 min 52 s/1 min 44 s
+6.2 km/6.5 km	3 min 43 s/3 min 54 s
+
+Hjärup - Ängelholm
+6.9 km/7.2 km	3 min 46 s/3 min 56 s
+
+Ängelholm - Trp Kropp
+2.8 km/2.7 km	1 min 32 s/1 min 28 s
+4.7 km/4.7 km	2 min 34 s/2 min 34 s
+1.9 km/1.3 km	1 min 2 s/0 min 43 s
+6.3 km/6.0 km	3 min 26 s/3 min 16 s
+2.6 km/3.1 km	1 min 25 s/1 min 41 s
+2.4 km/3.0 km	1 min 19 s/1 min 38 s
+
+Trp Kropp - Landskrona
+2.6 km/2.3 km	1 min 25 s/1 min 15 s
+1.7 km/2.2 km	0 min 56 s/1 min 12 s
+3.3 km/3.7 km	1 min 48 s/2 min 1 s
+6.1 km/5.1 km	3 min 20 s/2 min 47 s
+0.7 km/0.4 km	23 s/13 s
+2.7 km/3.1 km	1 min 28 s/1 min 41 s
+2.0 km/2.3 km	1 min 5 s/1 min 15 s
+6.1 km/6.4 km	3 min 20 s/3 min 29 s
+
+Landskrona - Malmö
+
+Malmö Ytterringen
+
+Öresundsbron
+
+
+Olskroksmotet - Kållred N
+1.2 km/0.8 km	0 min 48 s/0 min 32 s	90
+0.4 km/0.3 km	0 min 16 s/0 min 12 s
+0.3 km/0.7 km	0 min 12 s/0 min 28 s
+1.0 km/1.7 km	0 min 40 s/1 min 8 s
+1.5 km/0.3 km	1 min 0 s/0 min 12 s
+1.5 km/1.9 km	1 min 0 s/1 min 16 s
+1.1 km/0.7 km	0 min 44 s/0 min 28 s
+0.9 km/1.5 km	0 min 36 s/1 min 0 s
+1.7 km/1.8 km	1 min 8 s/1 min 12 s
+0.8 km/0.7 km	0 min 32 s/0 min 28 s
+
+Kållered N - Varberg N
+2.6 km/3.3 km	1 min 25 s/1 min 48 s	110
+4.0 km/2.7 km	2 min 11 s/1 min 28 s
+1.6 km/2.9 km	0 min 52 s/1 min 35 s
+4.6 km/4.6 km	2 min 31 s/2 min 31 s
+2.9 km/2.1 km	1 min 35 s/1 min 9 s
+2.0 km/2.6 km	1 min 5 s/1 min 25 s
+7.8 km/7.3 km	4 min 15 s/3 min 59 s
+6.0 km/5.5 km	3 min 16 s/3 min 0 s
+6.1 km/6.8 km	3 min 20 s/3 min 43 s
+1.0 km/0.5 km	0 min 33 s/0 min 16 s
+8.2 km/8.6 km	4 min 28 s/4 min 41 s
+9.3 km/9.7 km	5 min 4 s/5 min 17 s
+
+Varberg N - Nissan
+5.3 km/4.9 km	2 min 53 s/2 min 40 s	110
+7.5 km/7.5 km	4 min 5 s/4 min 5 s
+1.7 km/1.7 km	0 min 56 s/0 min 56 s
+6.2 km/5.8 km	3 min 23 s/3 min 10 s
+2.4 km/2.8 km	1 min 19 s/1 min 32 s
+7.7 km/7.6 km	4 min 12 s/4 min 9 s
+5.4 km/5.5 km	2 min 57 s/3 min 0 s
+2.3 km/2.3 km	1 min 15 s/1 min 15 s
+5.8 km/6.1 km	3 min 10 s/3 min 20 s
+2.3 km/2.5 km	1 min 15 s/1 min 22 s
+4.4 km/4.0 km	2 min 24 s/2 min 11 s
+8.2 km/7.8 km	4 min 28 s/4 min 15 s
+6.5 km/7.1 km	3 min 33 s/3 min 52 s
+2.8 km/1.9 km	1 min 32 s/1 min 2 s
+
+Nissan - Fylleån
+1.3 km/2.2 km	0 min 47 s/1 min 19 s	100
+2.8 km/2.0 km	1 min 41 s/1 min 12 s
+1.9 km/1.9 km	1 min 8 s/1 min 8 s
+
+Fylleån - Trp Kropp
+11.3 km/12.0 km	6 min 10 s/6 min 33 s	110
+1.2 km/0.6 km	0 min 39 s/0 min 20 s
+2.7 km/3.7 km	1 min 28 s/2 min 1 s
+6.1 km/6.0 km	3 min 20 s/3 min 16 s
+1.8 km/0.9 km	0 min 59 s/0 min 29 s
+1.1 km/2.0 km	0 min 36 s/1 min 5 s
+1.5 km/1.6 km	0 min 49 s/0 min 52 s
+2.6 km/2.1 km	1 min 25 s/1 min 9 s
+3.1 km/2.9 km	1 min 41 s/1 min 35 s
+6.2 km/6.4 km	3 min 23 s/3 min 29 s
+6.9 km/7.3 km	3 min 46 s/3 min 59 s
+2.8 km/2.7 km	1 min 32 s/1 min 28 s
+4.7 km/4.7 km	2 min 34 s/2 min 34 s
+1.9 km/1.3 km	1 min 2 s/0 min 43 s
+6.2 km/6.1 km	3 min 23 s/3 min 20 s
+2.7 km/2.9 km	1 min 28 s/1 min 35 s
+2.4 km/3.0 km	1 min 19 s/1 min 38 s
+
+Trp Kropp - Trp Åkarp
+2.6 km/2.2 km	1 min 25 s/1 min 12 s	110
+5.0 km/5.8 km	2 min 44 s/3 min 10 s
+6.1 km/5.4 km	3 min 20 s/2 min 57 s
+3.4 km/3.1 km	1 min 51 s/1 min 41 s
+2.0 km/2.3 km	1 min 5 s/1 min 15 s
+6.1 km/6.3 km	3 min 20 s/3 min 26 s
+7.0 km/7.0 km	3 min 49 s/3 min 49 s
+7.8 km/6.8 km	4 min 15 s/3 min 43 s
+2.6 km/2.5 km	1 min 25 s/1 min 22 s
+0.8 km/1.3 km	0 min 26 s/0 min 43 s
+5.0 km/4.8 km	2 min 44 s/2 min 37 s
+3.7 km/4.2 km	2 min 1 s/2 min 17 s
+4.0 km/3.3 km	2 min 11 s/1 min 48 s
+
+Trp Åkarp - Lernacken
+0.7 km/1.9 km	0 min 25 s/1 min 8 s	100
+2.3 km/1.0 km	1 min 23 s/0 min 36 s
+1.0 km/2.4 km	0 min 36 s/1 min 26 s
+2.8 km/2.1 km	1 min 41 s/1 min 16 s
+4.0 km/4.5 km	2 min 24 s/2 min 42 s
+3.9 km/3.1 km	2 min 20 s/1 min 52 s
+1.3 km/2.0 km	0 min 47 s/1 min 12 s
+3.5 km/2.7 km	2 min 6 s/1 min 37 s
+1.8 km/1.6 km	1 min 5 s/0 min 58 s
+1.4 km/1.7 km	0 min 50 s/1 min 1 s
+
+Lernacken - Gränsen
+8.6 km/8.2 km	4 min 41 s/4 min 28 s	110

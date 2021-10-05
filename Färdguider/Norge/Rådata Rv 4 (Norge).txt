@@ -1,0 +1,67 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,3 kilometres (8 minutes)
+09:00	0,0	Depart 4, 0570 Oslo on 4 [Trondheimsveien] (North-East)	0,7 km	
+09:00	0,7	At 4, 0514 Oslo, stay on 4 [Trondheimsveien] (East)	0,9 km	
+09:01	1,5	At 4, 0587 Oslo, stay on 4 [Trondheimsveien] (East)	1,7 km	
+09:02	3,3	At 4 319, 0593 Oslo, stay on 4 [Trondheimsveien] (East)	0,5 km	
+09:02	3,8	At Trondheimsveien, 0593 Oslo, stay on 4 [Trondheimsveien] (East)	0,7 km	
+09:03	4,5	At near Grorud, stay on 4 [Trondheimsveien] (East)	0,5 km	
+09:03	5,0	At 4, 0953 Oslo, stay on 4 [Trondheimsveien] (East)	0,8 km	
+09:04	5,8	At 4 427, 0953 Oslo, stay on 4 [Trondheimsveien] (North-East)	0,9 km	
+09:05	6,6	At 4, 0962 Oslo, stay on 4 [Trondheimsveien] (East)	1,0 km	
+09:05	7,7	At 4, 0962 Oslo, stay on 4 [Trondheimsveien] (North-East)	3,2 km	
+09:08	10,8	At Skillebekk, stay on 4 [Trondheimsveien] (North)	0,5 km	
+09:08	11,3	Arrive Trondheimsveien, 1481 Nittedal		
+
+SUMMARY
+Driving distance:  11,3 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  18,65 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,9 kilometres (8 minutes)
+09:00	0,0	Depart 4, 1481 Nittedal on 4 (South)	0,5 km	
+09:00	0,5	At 4, 1481 Nittedal, stay on 4 [Trondheimsveien] (South)	3,1 km	
+09:02	3,6	At Trondheimsveien, 0964 Oslo, stay on 4 [Trondheimsveien] (West)	1,1 km	
+09:03	4,6	At 4, 0962 Oslo, stay on 4 [Trondheimsveien] (West)	0,8 km	
+09:04	5,4	At near Grorud, stay on 4 [Trondheimsveien] (West)	0,5 km	
+09:04	5,9	At 4, 0953 Oslo, stay on 4 [Trondheimsveien] (South)	1,0 km	
+09:05	6,9	At 4, 0953 Oslo, stay on 4 [Trondheimsveien] (South)	0,6 km	
+09:05	7,5	At near Alna, stay on 4 [Trondheimsveien] (West)	0,4 km	
+09:06	7,8	At near Alna, stay on 4 [Trondheimsveien] (West)	1,6 km	
+09:07	9,4	At 4, 0589 Oslo, stay on 4 [Trondheimsveien] (West)	0,8 km	
+09:08	10,3	At near Sagene, stay on 4 [Trondheimsveien] (West)	0,6 km	
+09:08	10,9	Arrive 4, 0589 Oslo		
+
+SUMMARY
+Driving distance:  10,9 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  17,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,2 kilometres (16 minutes)
+09:00	0,0	Depart Trondheimsveien, 1481 Nittedal on Local road(s) (East)	40 m	
+09:00	0,1	Turn RIGHT (North) onto 4	0,5 km	
+09:00	0,5	At Hagantunnelen, 1481 Nittedal, stay on 4 [Hagantunnelen] (West)	2,7 km	
+09:03	3,2	At 4, 1480 Nittedal, stay on 4 (North)	1,7 km	
+09:04	4,9	At 4, 1480 Nittedal, stay on 4 (North-West)	1,8 km	
+09:06	6,7	At Hadelandsveien 664, 1482 Nittedal, stay on 4 [Hadelandsveien] (North)	0,3 km	
+09:06	7,0	At Hadelandsveien, 1482 Nittedal, stay on 4 [Hadelandsveien] (North)	0,6 km	
+09:06	7,6	At Hadelandsveien 741, 1482 Nittedal, stay on 4 [Hadelandsveien] (North)	0,7 km	
+09:07	8,3	At Gamleveien, 1482 Nittedal, stay on 4 [Hadelandsveien] (North)	2,6 km	
+09:10	10,9	At T-korsning, stay on 4 [Hadelandsveien] (North)	1,6 km	
+09:12	12,5	At Ånebyveien, 1484 Nittedal, stay on 4 [Hadelandsveien] (North)	1,3 km	
+09:13	13,8	At Hadelandsveien 137, 1484 Nittedal, stay on 4 [Hadelandsveien] (North)	0,3 km	
+09:13	14,1	At T-korsning, stay on 4 [Hadelandsveien] (North)	0,6 km	
+09:14	14,7	At Hadelandsveien, 1488 Nittedal, stay on 4 [Hadelandsveien] (North-West)	1,8 km	
+09:16	16,5	At T-korsning Hakadal-sör, stay on 4 [Hadelandsveien] (North)	0,8 km	
+09:16	17,2	Arrive Korsning Rv4/Fv402		
+
+SUMMARY
+Driving distance:  17,2 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  21,22 kr
+

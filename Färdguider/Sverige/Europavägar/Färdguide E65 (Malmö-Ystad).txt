@@ -1,0 +1,150 @@
+Färdguide E65 (Malmö - Ystad)
+==============================
+
+Etapp 1: Genom Malmö (4,6 km/6,0 km)
+
+Korsning Dalaplan
+					0,4 km/0,4 km	29 s/29 s
+McDonald's
+					0,6 km/0,6 km	43 s/43 s
+Korsning Augustenborgsparken
+					0,3 km/0,3 km	22 s/22 s
+Korsning Ystadv./V. Hindbyv.
+					0,4 km/0,4 km	24 s/24 s
+Järnvägsbro
+ Kontinentalbanan
+					0,3 km/0,4 km	18 s/24 s
+Korsning Ystadv./Silverviksg.
+					0,3 km/0,3 km	18 s/18 s
+T-korsning Ystadv./Cypressv.
+					0,5 km/0,7 km	30 s/42 s
+Trafikplats Hindby
+ Inre Ringvägen
+ [E6-E20 n], [E22 n], [11]
+					0,7 km/1,1 km	32 s/44 s
+Trp Jägersro
+ 101: Anderslöv
+ Fosie
+					1,1 km/1,7 km	0 min 44 s/1 min 8 s
+Trp Fredriksberg (14)
+ E6-E20 n: Göteborg, Helsingborg
+ E22 n: Kalmar, Lund
+ E6-E22 s: Trelleborg
+ E20 v: Köpenhamn
+
+Etapp 2: Malmö - Svedala (12,6 km/11,6 km)
+					1,8 km/1,4 km	59 s/46 s
+Trafikplats Oxie (13)
+ Oxie
+					1,9 km/1,0 km	1 min 2 s/0 min 33 s
+Malmö / Svedala
+					5,6 km/5,4 km	3 min 3 s/2 min 57 s
+Trp Svedala Västra (12)
+(avfart östgående riktning
+påfart västgående riktning)
+ Svedala
+					3,3 km/3,9 km	1 min 48 s/2 min 8 s
+Trafikplats Svedala (11)
+ 108 s: Trelleborg, Svedala
+ 108 n: Lund, Staffanstorp
+
+Etapp 3: Svedala - Skurup (16,8 km/16,4 km)
+					3,2 km/2,8 km	1 min 55 s/1 min 41 s
+Korsning
+					0,7 km/0,8 km	28 s/32 s
+Rastplats Börringe
+(östgående riktning)
+					0,5 km/0,3 km	20 s/12 s
+T-korsning Olsbjär
+(östgående riktning)
+					0,6 km/0,9 km	24 s/36 s
+Rondell
+ Sturups Flygplats
+T-korsning Börringekloster
+ Börringekloster
+					1,7 km/1,4 km	1 min 8 s/0 min 56 s
+T-korsning Börringe V
+					0,9 km/0,9 km	36 s/36 s
+Avfart Börringe Ö
+(västgående riktning)
+					1,5 km/1,5 km	1 min 0 s/1 min 0 s
+Korsning
+					1,4 km/1,5 km	0 min 56 s/1 min 0 s
+Trp Börringe Bygdegård
+					1,0 km/1,0 km	40 s/40 s
+Svedala / Trelleborg
+(västgående riktning)
+					0,7 km/0,7 km	28 s/28 s
+Korsning
+					0,5 km/0,5 km	20 s/20 s
+Trelleborg / Skurup
+(östgående riktning)
+					2,1 km/2,4 km	1 min 24 s/1 min 36 s
+(Trafikplats)
+ Enskild väg
+
+Trafikplats Skurup
+					2,0 km/1,8 km	1 min 20 s/1 min 12 s
+Trp Sandåkra
+ Skurup
+ 102: Lund, Veberöd
+
+Etapp 4: Skurup - Ystad ()
+
+Korsning
+
+Korsning
+
+T-korsning
+ Enskild väg
+
+Korsning Villie
+
+Korsning
+
+Skurup / Ystad
+
+Korsning
+
+Trafikplats Rynge
+
+Korsning Västregård
+
+Korsning Marsvinsholm E65
+ Marsvinsholms slott
+
+Korsning
+
+Rastplats Bjäresjö
+
+Korsning Vaktarebacken
+
+Rondell E65/Källesjövägen
+
+Rondell E65/Rv 9
+ 9 v: Trelleborg
+ Ystad Centrm
+
+Etapp 5: Runt Ystad ()
+
+Rondell E65/Rv 13
+ 13: Höör, Sjöbo
+ Ystad Centrum
+
+Rondell E65/Rv 19
+ 19: Kristianstad, Tomelilla
+ Ystad Centrum
+
+Korsning E65/Industrivägen
+
+T-korsning E65/Militärvägen
+
+Rondell Ystad Ö
+ 9 ö: Simrishamn
+T-korsning E65/Österleden
+ Ystad Centrum
+
+Järnvägskorsning
+ Österlensbanan
+Bensinstation: Preem
+T-korsning

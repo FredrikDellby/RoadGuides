@@ -1,0 +1,28 @@
+Rondell Nolbyplan
+ 180 s: Borås
+ [E20]: Stockholm, Göteborg
+ 180 n: Trollhättan
+					0.9 km/0.9 km	0 min 46 s/0 min 46 s
+T-korsning Sävelund
+ Industriomr.
+					3.8 km/3.8 km	3 min 15 s/3 min 15 s
+Alingsås / Vårgårda
+					0.4 km/0.4 km	0 min 21 s/0 min 21 s
+Korsning Torpvägen
+ Torp
+					1.8 km/1.9 km	1 min 33 s/1 min 38 s
+Dubbel Korsning Fly
+ Lagmansholm
+ Långared
+					4.1 km/4.0 km	3 min 31 s/3 min 26 s
+T-korsning Lena K:a
+ Östadkulle
+ Lena K:a
+					0.9 km/0.9 km	0 min 46 s/0 min 46 s
+Korsning Östadkulle N
+ Östadkulle, Lagmansholm
+ Långared
+					5.3 km/5.3 km	4 min 33 s/4 min 33 s
+T-korsning Kolbäck
+ 42 s: Borås, Vårgårda
+ 42 n: Trollhättan, Sollebrunn

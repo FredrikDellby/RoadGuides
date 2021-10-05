@@ -1,0 +1,605 @@
+Time	Km	Instruction	For	Toward
+Summary:  36,1 kilometres (18 minutes)
+09:00	0,0	Depart E47, 23774 Heiligenhafen on A1 [E47] (West)	3,8 km	
+09:01	3,8	At E47, 23758 Gremersdorf, stay on A1 [E47] (South)	3,3 km	
+09:03	7,1	At 8, stay on A1 [E47] (South)	1,5 km	
+09:04	8,6	At 9, stay on A1 [E47] (West)	1,6 km	
+09:05	10,2	At 10, stay on A1 [E47] (South)	0,7 km	
+09:05	10,9	At 11, keep STRAIGHT to stay on A1 [E47]	5,6 km	
+09:08	16,5	At E47, 23738 Damlos, stay on A1 [E47] (South)	2,6 km	
+09:09	19,0	At 12, stay on A1 [E47] (South)	8,0 km	
+09:13	27,0	At E47, 23730 Schashagen, stay on A1 [E47] (South-West)	3,6 km	
+09:15	30,6	At 13, stay on A1 [E47] (South-West)	5,6 km	
+09:18	36,1	Arrive 14		
+
+SUMMARY
+Driving distance:  36,1 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  47,67 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,0 kilometres (18 minutes)
+09:00	0,0	Depart 14 on A1 [E47] (North)	5,5 km	
+09:02	5,5	At 13, stay on A1 [E47] (East)	3,5 km	
+09:04	9,0	At E47, 23730 Schashagen, stay on A1 [E47] (North)	7,9 km	
+09:08	16,9	At 12, stay on A1 [E47] (North)	2,9 km	
+09:09	19,9	At E47, 23738 Damlos, stay on A1 [E47] (North)	5,3 km	
+09:12	25,1	At 11, stay on A1 [E47] (North)	1,1 km	
+09:13	26,2	At 10, stay on A1 [E47] (North)	1,6 km	
+09:14	27,7	At 9, stay on A1 [E47] (East)	1,3 km	
+09:15	29,0	At 8, stay on A1 [E47] (North-East)	3,3 km	
+09:16	32,3	At E47, 23758 Gremersdorf, stay on A1 [E47] (North)	3,8 km	
+09:18	36,0	Arrive E47, 23774 Heiligenhafen		
+
+SUMMARY
+Driving distance:  36,0 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  47,49 kr
+
+=============
+
+Time	Km	Instruction	For	Toward
+Summary:  25,4 kilometres (12 minutes)
+09:00	0,0	Depart 43 on A1 [E22] (West)	3,4 km	
+09:01	3,4	At 44, keep STRAIGHT to stay on A1 [E22]	4,8 km	
+09:04	8,2	At E22, 21279 Appel, stay on A1 [E22] (West)	2,2 km	
+09:05	10,4	At 45, stay on A1 [E22] (West)	2,5 km	
+09:06	12,9	At E22, 21649 Regesbostel, stay on A1 [E22] (West)	2,9 km	
+09:08	15,8	At 46, stay on A1 [E22] (West)	4,5 km	
+09:10	20,3	At E22, 27419 Kalbe, stay on A1 [E22] (South-West)	3,2 km	
+09:11	23,5	At E22, 27419 Kalbe, stay on A1 [E22] (South-West)	1,9 km	
+09:12	25,4	Arrive 47		
+
+SUMMARY
+Driving distance:  25,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  29,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,4 kilometres (12 minutes)
+09:00	0,0	Depart 47 on A1 [E22] (East)	1,4 km	
+09:00	1,4	At E22, 27419 Tiste, stay on A1 [E22] (North-East)	4,9 km	
+09:03	6,3	At E22, 21258 Heidenau, stay on A1 [E22] (North-East)	3,1 km	
+09:04	9,4	At 46, stay on A1 [E22] (East)	1,7 km	
+09:05	11,2	At E22, 21646 Halvesbostel, stay on A1 [E22] (East)	4,3 km	
+09:07	15,4	At 45, stay on A1 [E22] (East)	1,7 km	
+09:08	17,1	At E22, 21279 Appel, stay on A1 [E22] (East)	4,9 km	
+09:11	22,0	At 44, stay on A1 [E22] (East)	2,4 km	
+09:12	24,4	Arrive 43		
+
+SUMMARY
+Driving distance:  24,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  28,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,6 kilometres (21 minutes)
+09:00	0,0	Depart 47 on A1 [E22] (West)	7,0 km	
+09:03	7,0	At E22, 27404 Elsdorf, stay on A1 [E22] (South-West)	11,0 km	
+09:08	18,0	At E22, 27404 Gyhum, stay on A1 [E22] (South-West)	1,3 km	
+09:08	19,2	At 49, stay on A1 [E22] (South-West)	8,0 km	
+09:12	27,3	At E22, 27367 Reessum, stay on A1 [E22] (South)	2,9 km	
+09:14	30,1	At 50, stay on A1 [E22] (South)	2,6 km	
+09:15	32,7	At E22, 27367 Sottrum, stay on A1 [E22] (South-West)	1,7 km	
+09:16	34,4	At 51, stay on A1 [E22] (West)	2,9 km	
+09:17	37,3	At E22, 28876 Oyten, stay on A1 [E22] (West)	6,7 km	
+09:20	44,0	At 52, stay on A1 [E22] (West)	0,9 km	
+09:21	44,9	At E22, 28876 Oyten, stay on A1 [E22] (West)	1,8 km	
+09:21	46,6	Arrive 53		
+
+SUMMARY
+Driving distance:  46,6 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  52,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,7 kilometres (22 minutes)
+09:00	0,0	Depart 53 on A1 [E22] (North-East)	3,4 km	
+09:01	3,4	At E22, 28876 Oyten, stay on A1 [E22] (East)	0,7 km	
+09:01	4,1	At 52, stay on A1 [E22] (East)	6,5 km	
+09:04	10,7	At E22, 28876 Oyten, stay on A1 [E22] (East)	2,6 km	
+09:06	13,3	At 51, stay on A1 [E22] (East)	1,5 km	
+09:06	14,8	At E22, 27367 Sottrum, stay on A1 [E22] (North-East)	2,5 km	
+09:08	17,2	At 50, stay on A1 [E22] (North)	2,5 km	
+09:09	19,7	At E22, 27367 Reessum, stay on A1 [E22] (North)	8,6 km	
+09:13	28,4	At 49, keep STRAIGHT to stay on A1 [E22]	1,2 km	
+09:13	29,6	At E22, 27404 Gyhum, stay on A1 [E22] (North-East)	11,2 km	
+09:19	40,8	At E22, 27404 Elsdorf, stay on A1 [E22] (North-East)	7,0 km	
+09:22	47,7	Arrive 47		
+
+SUMMARY
+Driving distance:  47,7 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  53,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,6 kilometres (9 minutes)
+09:00	0,0	Depart 53 on A1 [E22] (West)	2,3 km	
+09:01	2,3	At 54, stay on A1 [E22] (West)	5,3 km	
+09:03	7,6	At 55, keep STRAIGHT to stay on A1 [E22]	3,7 km	
+09:05	11,3	At E22, 28279 Bremen, stay on A1 [E22] (West)	2,8 km	
+09:06	14,1	At 57, keep RIGHT to stay on A1 [E22]	6,4 km	
+09:09	20,6	Arrive 58		
+
+SUMMARY
+Driving distance:  20,6 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  22,95 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,3 kilometres (9 minutes)
+09:00	0,0	Depart E37, 28816 Stuhr on A1 [E37] (East)	7,4 km	
+09:03	7,4	At 57, stay on A1 [E22] (East)	1,5 km	
+09:04	8,9	At E22, 28279 Bremen, stay on A1 [E22] (East)	1,9 km	
+09:04	10,7	At 56, stay on A1 [E22] (East)	2,3 km	
+09:06	13,1	At 55, stay on A1 [E22] (East)	5,6 km	
+09:08	18,7	At 54, stay on A1 [E22] (East)	1,6 km	
+09:09	20,3	Arrive 53		
+
+SUMMARY
+Driving distance:  20,3 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  22,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,2 kilometres (17 minutes)
+09:00	0,0	Depart 58 on A1 [E37] (West)	3,0 km	
+09:01	3,0	At E37, 28816 Stuhr, stay on A1 [E37] (West)	4,4 km	
+09:03	7,4	At 59, stay on A1 [E37] (South-West)	1,2 km	
+09:03	8,6	At E37, 27243 Gross Ippener, stay on A1 [E37] (West)	7,1 km	
+09:07	15,7	At E37, 27243 Prinzhöfte, stay on A1 [E37] (South-West)	4,7 km	
+09:09	20,4	At 60, stay on A1 [E37] (West)	1,4 km	
+09:10	21,8	At E37, 27801 Dötlingen, stay on A1 [E37] (West)	3,2 km	
+09:11	25,0	At E37, 27793 Wildeshausen, stay on A1 [E37] (West)	3,3 km	
+09:13	28,4	At 61, stay on A1 [E37] (South-West)	4,0 km	
+09:14	32,3	At E37, 26197 Grossenkneten, stay on A1 [E37] (West)	4,9 km	
+09:17	37,2	Arrive 62		
+
+SUMMARY
+Driving distance:  37,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  41,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,6 kilometres (17 minutes)
+09:00	0,0	Depart 62 on A1 [E37] (North)	5,5 km	
+09:02	5,5	At E37, 26197 Grossenkneten, stay on A1 [E37] (East)	4,2 km	
+09:04	9,7	At 61, stay on A1 [E37] (North-East)	2,4 km	
+09:05	12,0	At E37, 27793 Wildeshausen, stay on A1 [E37] (East)	4,0 km	
+09:07	16,0	At E37, 27801 Dötlingen, stay on A1 [E37] (East)	2,2 km	
+09:08	18,2	At 60, stay on A1 [E37] (East)	4,2 km	
+09:10	22,3	At E37, 27243 Prinzhöfte, stay on A1 [E37] (North-East)	2,5 km	
+09:11	24,9	At E37, 27243 Prinzhöfte, stay on A1 [E37] (East)	4,3 km	
+09:13	29,1	At E37, 27243 Gross Ippener, stay on A1 [E37] (East)	2,1 km	
+09:14	31,2	At 59, stay on A1 [E37] (North-East)	3,2 km	
+09:16	34,5	At E37, 28816 Stuhr, stay on A1 [E37] (North-East)	3,2 km	
+09:17	37,6	Arrive E37, 28816 Stuhr		
+
+SUMMARY
+Driving distance:  37,6 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  41,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,1 kilometres (13 minutes)
+09:00	0,0	Depart 62 on A1 [E37] (South)	1,8 km	
+09:00	1,8	At E37, 49685 Emstek, stay on A1 [E37] (South)	3,1 km	
+09:02	4,9	At 63, stay on A1 [E37] (South)	3,3 km	
+09:03	8,2	At E37, 49692 Cappeln (Oldenburg), stay on A1 [E37] (South)	6,7 km	
+09:06	14,9	At 64, stay on A1 [E37] (South)	1,4 km	
+09:07	16,3	At E37, 49456 Bakum, stay on A1 [E37] (South)	6,3 km	
+09:10	22,6	At 65, stay on A1 [E37] (South)	1,0 km	
+09:10	23,6	At E37, 49413 Dinklage, stay on A1 [E37] (South)	4,5 km	
+09:12	28,1	At E37, 49413 Dinklage, stay on A1 [E37] (South)	2,0 km	
+09:13	30,1	Arrive 66		
+
+SUMMARY
+Driving distance:  30,1 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  33,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,5 kilometres (13 minutes)
+09:00	0,0	Depart 66 on A1 [E37] (North)	2,1 km	
+09:00	2,1	At E37, 49413 Dinklage, stay on A1 [E37] (North)	3,1 km	
+09:02	5,2	At E37, 49393 Lohne (Oldenburg), stay on A1 [E37] (North)	2,3 km	
+09:03	7,5	At 65, stay on A1 [E37] (North)	6,0 km	
+09:06	13,6	At E37, 49393 Lohne (Oldenburg), stay on A1 [E37] (North)	1,6 km	
+09:07	15,2	At 64, stay on A1 [E37] (North)	6,7 km	
+09:10	21,9	At E37, 49692 Cappeln (Oldenburg), stay on A1 [E37] (North)	3,7 km	
+09:11	25,6	At 63, stay on A1 [E37] (North)	1,8 km	
+09:12	27,3	At E37, 49685 Emstek, stay on A1 [E37] (North)	2,1 km	
+09:13	29,5	Arrive 62		
+
+SUMMARY
+Driving distance:  29,5 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  32,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,1 kilometres (19 minutes)
+09:00	0,0	Depart 66 on A1 [E37] (South)	2,3 km	
+09:01	2,3	At E37, 49451 Holdorf, stay on A1 [E37] (South)	3,9 km	
+09:02	6,2	At E37, 49451 Holdorf, stay on A1 [E37] (South)	3,9 km	
+09:04	10,1	At E37, 49434 Neuenkirchen-Vörden, stay on A1 [E37] (South-West)	2,0 km	
+09:05	12,1	At 67, stay on A1 [E37] (South)	3,4 km	
+09:07	15,5	At E37, 49597 Rieste, stay on A1 [E37] (South-West)	5,4 km	
+09:09	20,9	At E37, 49565 Bramsche, stay on A1 [E37] (South)	3,0 km	
+09:11	23,9	At 68, stay on A1 [E37] (South)	4,7 km	
+09:13	28,6	At E37, 49134 Wallenhorst, stay on A1 [E37] (South)	1,6 km	
+09:14	30,2	At 70, stay on A1 [E37] (South-West)	5,4 km	
+09:16	35,6	At E37, 49504 Lotte, stay on A1 [E37] (South-West)	2,1 km	
+09:17	37,7	At 71, stay on A1 [E37] (South)	3,5 km	
+09:19	41,1	Arrive 72		
+
+SUMMARY
+Driving distance:  41,1 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  46,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,5 kilometres (19 minutes)
+09:00	0,0	Depart 72 on A1 [E37] (North)	4,6 km	
+09:02	4,6	At 71, keep STRAIGHT to stay on A1 [E37]	1,7 km	
+09:02	6,3	At E37, 49504 Lotte, stay on A1 [E37] (North-East)	4,8 km	
+09:05	11,1	At 70, stay on A1 [E37] (North-East)	2,4 km	
+09:06	13,5	At E37, 49134 Wallenhorst, stay on A1 [E37] (North)	4,0 km	
+09:08	17,4	At 68, stay on A1 [E37] (North)	2,6 km	
+09:09	20,0	At E37, 49565 Bramsche, stay on A1 [E37] (North)	6,1 km	
+09:12	26,1	At E37, 49597 Rieste, stay on A1 [E37] (North)	3,2 km	
+09:13	29,3	At 67, stay on A1 [E37] (North)	2,2 km	
+09:14	31,5	At E37, 49434 Neuenkirchen-Vörden, stay on A1 [E37] (North-East)	3,4 km	
+09:16	34,9	At E37, 49451 Holdorf, stay on A1 [E37] (North)	4,3 km	
+09:18	39,1	At E37, 49451 Holdorf, stay on A1 [E37] (North)	2,4 km	
+09:19	41,5	Arrive 66		
+
+SUMMARY
+Driving distance:  41,5 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  46,57 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  49,6 kilometres (25 minutes)
+09:00	0,0	Depart 72 on A1 [E37] (South)	3,8 km	
+09:01	3,8	At E37, 49545 Tecklenburg, stay on A1 [E37] (West)	1,9 km	
+09:02	5,7	At E37, 49545 Tecklenburg, stay on A1 [E37] (South)	4,4 km	
+09:04	10,1	At E37, 49525 Lengerich, stay on A1 [E37] (West)	1,8 km	
+09:05	11,9	At 73, stay on A1 [E37] (South-West)	0,9 km	
+09:06	12,8	At E37, 49525 Lengerich, stay on A1 [E37] (South-West)	4,0 km	
+09:08	16,8	At E37, 49525 Lengerich, stay on A1 [E37] (South-West)	3,2 km	
+09:10	19,9	At 74, stay on A1 [E37] (South)	1,2 km	
+09:10	21,2	At E37, 49549 Ladbergen, stay on A1 [E37] (South)	3,7 km	
+09:12	24,9	At E37, 48268 Greven, stay on A1 [E37] (South-West)	3,3 km	
+09:13	28,1	At E37, 48268 Greven, stay on A1 [E37] (South-West)	1,5 km	
+09:14	29,6	At 76, stay on A1 [E37] (South-West)	2,9 km	
+09:15	32,4	At E37, 48268 Greven, stay on A1 [E37] (South)	3,4 km	
+09:17	35,9	At E37, 48159 Münster, stay on A1 [E37] (South)	5,4 km	
+09:20	41,3	At 77, stay on A1 [E37] (South-West)	5,2 km	
+09:23	46,5	At E37, 48161 Münster, stay on A1 [E37] (South)	3,2 km	
+09:25	49,6	Arrive 78		
+
+SUMMARY
+Driving distance:  49,6 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  55,96 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  49,7 kilometres (24 minutes)
+09:00	0,0	Depart 78 on A1 [E37] (North)	3,3 km	
+09:02	3,3	At E37, 48161 Münster, stay on A1 [E37] (North)	5,4 km	
+09:05	8,7	At 77, stay on A1 [E37] (North-East)	5,9 km	
+09:08	14,6	At E37, 48159 Münster, stay on A1 [E37] (North)	4,2 km	
+09:10	18,8	At E37, 48268 Greven, stay on A1 [E37] (North)	2,5 km	
+09:11	21,3	At 76, stay on A1 [E37] (North-East)	2,7 km	
+09:13	23,9	At E37, 48268 Greven, stay on A1 [E37] (North-East)	4,8 km	
+09:15	28,7	At E37, 49549 Ladbergen, stay on A1 [E37] (North)	1,5 km	
+09:15	30,3	At 74, stay on A1 [E37] (North)	5,2 km	
+09:18	35,5	At E37, 49525 Lengerich, stay on A1 [E37] (North-East)	2,1 km	
+09:19	37,6	At near Aldrup-Antrup, stay on A1 [E37] (North-East)	1,0 km	
+09:19	38,6	At 73, stay on A1 [E37] (North-East)	1,8 km	
+09:20	40,4	At E37, 49525 Lengerich, stay on A1 [E37] (East)	4,4 km	
+09:22	44,8	At E37, 49545 Tecklenburg, stay on A1 [E37] (North)	2,0 km	
+09:23	46,8	At E37, 49545 Tecklenburg, stay on A1 [E37] (East)	2,9 km	
+09:24	49,7	Arrive 72		
+
+SUMMARY
+Driving distance:  49,7 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  56,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,0 kilometres (18 minutes)
+09:00	0,0	Depart 78 on A1 [E37] (South)	4,3 km	A1 / KÖLN / Dortmund
+09:02	4,3	At E37, 48163 Münster, stay on A1 [E37] (South)	5,0 km	
+09:04	9,3	At E37, 48308 Senden, stay on A1 [E37] (South)	3,9 km	
+09:06	13,2	At E37, 59387 Ascheberg, stay on A1 [E37] (South-East)	2,3 km	
+09:07	15,5	At 79, stay on A1 [E37] (South)	2,2 km	
+09:08	17,7	At E37, 59387 Ascheberg, stay on A1 [E37] (South)	2,9 km	
+09:09	20,6	At E37, 59387 Ascheberg, stay on A1 [E37] (South)	6,3 km	
+09:12	26,9	At 80, keep STRAIGHT to stay on A1 [E37]	2,4 km	
+09:13	29,3	At E37, 59368 Werne, stay on A1 [E37] (South)	2,1 km	
+09:14	31,4	At 81, stay on A1 [E37] (South)	4,0 km	
+09:17	35,4	At E37, 59077 Hamm, stay on A1 [E37] (South)	1,6 km	
+09:18	37,0	Arrive 82		
+
+SUMMARY
+Driving distance:  37,0 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  43,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,0 kilometres (17 minutes)
+09:00	0,0	Depart 82 on A1 [E37] (North)	2,6 km	A1 / Bremen / Münster
+09:01	2,6	At E37, 59077 Hamm, stay on A1 [E37] (North)	3,6 km	
+09:03	6,3	At 81, stay on A1 [E37] (North)	2,6 km	
+09:04	8,8	At E37, 59368 Werne, stay on A1 [E37] (North)	2,7 km	
+09:06	11,6	At 80, stay on A1 [E37] (North)	5,9 km	
+09:08	17,5	At E37, 59387 Ascheberg, stay on A1 [E37] (North)	2,7 km	
+09:10	20,2	At E37, 59387 Ascheberg, stay on A1 [E37] (North)	2,8 km	
+09:11	23,0	At 79, stay on A1 [E37] (North)	1,8 km	
+09:12	24,8	At E37, 59387 Ascheberg, stay on A1 [E37] (North-West)	4,0 km	
+09:14	28,9	At E37, 48308 Senden, stay on A1 [E37] (North)	4,9 km	
+09:16	33,8	At E37, 48163 Münster, stay on A1 [E37] (North)	3,2 km	
+09:17	37,0	Arrive 78		
+
+SUMMARY
+Driving distance:  37,0 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  43,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (12 minutes)
+09:00	0,0	Depart 98 on A1 [E37] (West)	2,8 km	A1 / Koblenz / Aachen / Krefeld
+09:01	2,8	At 99, stay on A1 [E37] (West)	2,9 km	A1 / Koblenz / Aachen / Krefeld
+09:03	5,6	At 100, stay on A1 [E37] (West)	4,4 km	A1 / Koblenz / Aachen / Krefeld / Kreuz KÖLN-Nord
+09:06	10,1	At 101, stay on A1 [E37] (South-West)	4,2 km	A1 / Euskirchen / Koblenz / Aachen
+09:08	14,2	At 102, stay on A1 [E31] (South-West)	4,9 km	
+09:12	19,1	At 103, stay on A1 [E31] (South)	0,8 km	
+09:12	19,9	Arrive 104		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  26,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (12 minutes)
+09:00	0,0	Depart 104 on A1 [E31] (North)	2,5 km	A1 / Dortmund / Düsseldorf / KÖLN-Nord
+09:01	2,5	At 103, stay on A1 [E31] (North)	4,4 km	
+09:04	6,9	At 102, stay on A1 [E31] (North)	3,5 km	A1 / Dortmund / Düsseldorf / Krefeld / Kreuz KÖLN-Nord
+09:06	10,3	At 101, stay on A1 [E37] (East)	4,7 km	A1 / Dortmund / Oberhausen / Düsseldorf-SÜD
+09:09	15,0	At 100, keep RIGHT to stay on A1 [E37]	2,7 km	A1 / Dortmund / Oberhausen
+09:11	17,8	At 99, stay on A1 [E37] (North-East)	2,6 km	A1 / Dortmund / Oberhausen / Kreuz Leverkusen
+09:12	20,4	Arrive 98		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  26,60 kr
+
+
+Heligenhaven-Mitte (6) - Oldenburg i.H.-Süd (11)
+3.8 km/3.8 km	2 min 4 s/2 min 4 s	110
+3.3 km/3.3 km	1 min 48 s/1 min 48 s
+1.5 km/1.3 km	0 min 49 s/0 min 43 s
+1.6 km/1.6 km	0 min 52 s/0 min 52 s
+0.7 km/1.1 km	0 min 23 s/0 min 36 s
+
+Oldenburg i.H.-Süd (11) - Neustadt i.H.-Süd (14)
+5.6 km/5.3 km	2 min 48 s/2 min 39 s	120
+2.6 km/2.9 km	1 min 18 s/1 min 27 s
+8.0 km/7.9 km	4 min 0 s/3 min 57 s
+3.6 km/3.5 km	1 min 48 s/1 min 45 s
+5.6 km/5.5 km	2 min 48 s/2 min 45 s
+
+Hamburg-Ost (31) - Süderelbe
+3.0 km/1.5 km	1 min 48 s/0 min 54 s	100
+2.1 km/2.3 km	1 min 16 s/1 min 23 s
+2.8 km/2.4 km	1 min 41 s/1 min 26 s
+0.8 km/0.7 km	0 min 29 s/0 min 25 s
+1.1 km/1.0 km	0 min 40 s/0 min 36 s
+1.1 km/1.4 km	0 min 40 s/0 min 50 s
+1.1 km/1.8 km	0 min 40 s/1 min 5 s
+3.3 km/2.7 km	1 min 59 s/1 min 37 s
+1.4 km/0.7 km	0 min 50 s/0 min 25 s
+
+Süderelbe - Horster Dreieck (40)
+1.1 km/1.1 km	0 min 40 s/0 min 40 s	100
+2.4 km/2.0 km	1 min 26 s/1 min 12 s
+5.5 km/5.5 km	3 min 18 s/3 min 18 s
+1.9 km/2.4 km	1 min 8 s/1 min 26 s
+
+Horster Dreieck (40) - Buchholzer (43)
+2.3 km/2.3 km	1 min 9 s/1 min 9 s	120
+1.7 km/1.3 km	0 min 51 s/0 min 39 s
+4.9 km/5.0 km	2 min 27 s/2 min 30 s
+1.4 km/2.6 km	0 min 42 s/1 min 18 s
+
+Buchholzer (43) - Freetz/Heidenau
+3.4 km/2.4 km	1 min 42 s/1 min 12 s	120
+4.8 km/4.9 km	2 min 24 s/2 min 27 s
+2.2 km/1.7 km	1 min 6 s/0 min 51 s
+2.5 km/4.3 km	1 min 15 s/2 min 9 s
+2.9 km/1.7 km	1 min 27 s/0 min 51 s
+4.5 km/3.1 km	2 min 15 s/1 min 33 s
+
+Freetz/Heidenau - Ausfahrt 47
+3.2 km/4.9 km	2 min 45 s/4 min 12 s	70
+1.9 km/1.4 km	1 min 38 s/1 min 12 s
+
+Ausfahrt 47 - Bremener Kreuz (53)
+7.0 km/7.0 km	3 min 30 s/3 min 30 s	120
+11.0 km/11.2 km	5 min 30 s/5 min 36 s
+1.3 km/1.2 km	0 min 39 s/0 min 36 s
+8.0 km/8.6 km	4 min 0 s/4 min 18 s
+2.9 km/2.5 km	1 min 27 s/1 min 15 s
+2.6 km/2.5 km	1 min 18 s/1 min 15 s
+1.1 km/1.0 km	0 min 33 s/0 min 30 s
+0.6 km/0.5 km	0 min 18 s/0 min 15 s
+2.9 km/2.6 km	1 min 27 s/1 min 18 s
+6.7 km/6.5 km	3 min 21 s/3 min 15 s
+0.9 km/0.7 km	0 min 27 s/0 min 21 s
+1.8 km/3.4 km	0 min 54 s/1 min 42 s
+
+Ausfahrt 47 - Bremener Kreuz (53)
+7.0 km/7.0 km	6 min 0 s/6 min 0 s	70
+11.0 km/11.2 km	9 min 26 s/9 min 36 s
+1.3 km/1.2 km	1 min 7 s/1 min 2 s
+8.0 km/8.6 km	6 min 51 s/7 min 22 s
+2.9 km/2.5 km	2 min 29 s/2 min 9 s
+2.6 km/2.5 km	2 min 14 s/2 min 9 s
+1.1 km/1.0 km	0 min 57 s/0 min 51 s
+0.6 km/0.5 km	0 min 31 s/0 min 26 s
+2.9 km/2.6 km	2 min 29 s/2 min 14 s
+6.7 km/6.5 km	5 min 45 s/5 min 34 s
+0.9 km/0.7 km	0 min 46 s/0 min 36 s
+1.8 km/3.4 km	1 min 33 s/2 min 55 s
+
+Bremener Kreuz (53) - Ausfahrt 58
+2.3 km/1.6 km	1 min 23 s/0 min 58 s	100
+1.5 km/1.4 km	0 min 54 s/0 min 50 s
+3.8 km/4.2 km	2 min 17 s/2 min 31 s
+1.6 km/2.3 km	0 min 58 s/1 min 23 s
+2.1 km/1.9 km	1 min 16 s/1 min 8 s
+1.8 km/0.5 km	1 min 5 s/0 min 18 s
+1.0 km/1.0 km	0 min 36 s/0 min 36 s
+6.4 km/7.4 km	3 min 50 s/4 min 26 s
+
+Ausfahrt 58 - Ahlhorner Heide (62)
+3.0 km/3.2 km	1 min 30 s/1 min 36 s	120
+4.4 km/3.2 km	2 min 12 s/1 min 36 s
+1.2 km/2.1 km	0 min 36 s/1 min 3 s
+4.8 km/4.3 km	2 min 24 s/2 min 9 s
+2.3 km/2.5 km	1 min 9 s/1 min 15 s
+4.7 km/4.2 km	2 min 21 s/2 min 6 s
+1.4 km/2.2 km	0 min 42 s/1 min 6 s
+1.1 km/0.5 km	0 min 33 s/0 min 15 s
+2.1 km/3.5 km	1 min 3 s/1 min 45 s
+3.3 km/2.4 km	1 min 39 s/1 min 12 s
+4.0 km/4.2 km	2 min 0 s/2 min 6 s
+4.9 km/5.5 km	2 min 27 s/2 min 45 s
+
+Ahlhorner Heide (62) - Rastplatz
+1.8 km/2.1 km	0 min 54 s/1 min 3 s	120
+3.1 km/1.8 km	1 min 33 s/0 min 54 s
+3.3 km/3.7 km	1 min 39 s/1 min 51 s
+
+Rastplatz - Parkplatz Brockdorf
+6.7 km/6.7 km	5 min 2 s/5 min 2 s	80
+1.4 km/1.6 km	1 min 3 s/1 min 12 s
+6.3 km/6.0 km	4 min 44 s/4 min 30 s
+1.0 km/0.6 km	0 min 45 s/0 min 27 s
+1.6 km/1.7 km	1 min 12 s/1 min 17 s
+
+Parkplatz Brockdorf - Ausfahrt 66
+2.9 km/3.1 km	1 min 27 s/1 min 33 s	120
+2.0 km/2.1 km	1 min 0 s/1 min 3 s
+
+Ausfahrt 66 - Rastplatz
+2.3 km/2.4 km	1 min 9 s/1 min 12 s	120
+3.9 km/4.3 km	1 min 57 s/2 min 9 s
+3.9 km/3.4 km	1 min 57 s/1 min 42 s
+2.0 km/2.1 km	1 min 0 s/1 min 3 s
+3.4 km/3.3 km	1 min 42 s/1 min 39 s
+5.4 km/6.1 km	2 min 42 s/3 min 3 s
+
+Rastplatz - Brücke Hasetal
+3.0 km/2.6 km	2 min 15 s/1 min 57 s	80
+4.7 km/4.0 km	3 min 32 s/3 min 0 s
+1.6 km/2.4 km	1 min 12 s/1 min 48 s
+4.5 km/3.9 km	3 min 23 s/2 min 56 s
+
+Brücke Hasetal - Lotte/Osnabrück (72)
+0.9 km/0.9 km	0 min 29 s/0 min 29 s	110
+2.1 km/1.7 km	1 min 9 s/0 min 56 s
+2.1 km/2.1 km	1 min 9 s/1 min 9 s
+1.4 km/2.4 km	0 min 46 s/1 min 19 s
+
+Lotte/Osnabrück (72) - Münster-Süd (78)
+3.8 km/2.9 km	1 min 54 s/1 min 27 s	120
+1.9 km/2.0 km	0 min 57 s/1 min 0 s
+4.4 km/4.4 km	2 min 12 s/2 min 12 s
+1.8 km/1.8 km	0 min 54 s/0 min 54 s
+0.9 km/1.0 km	0 min 27 s/0 min 30 s
+4.0 km/2.1 km	2 min 0 s/1 min 3 s
+3.2 km/5.2 km	1 min 36 s/2 min 36 s
+1.2 km/1.5 km	0 min 36 s/0 min 45 s
+3.7 km/3.1 km	1 min 51 s/1 min 33 s
+3.3 km/1.7 km	1 min 39 s/0 min 51 s
+1.5 km/2.7 km	0 min 45 s/1 min 21 s
+0.5 km/0.6 km	0 min 15 s/0 min 18 s
+2.4 km/1.9 km	1 min 12 s/0 min 57 s
+3.4 km/4.2 km	1 min 42 s/2 min 6 s
+5.4 km/5.9 km	2 min 42 s/2 min 57 s
+5.2 km/5.4 km	2 min 36 s/2 min 42 s
+3.2 km/3.3 km	1 min 36 s/1 min 39 s
+
+Resultat:
+
+4.3 km/3.2 km	2 min 9 s/1 min 36 s
+5.0 km/4.9 km	2 min 30 s/2 min 27 s
+3.9 km/4.0 km	1 min 57 s/2 min 0 s
+2.3 km/1.8 km	1 min 9 s/0 min 54 s
+2.2 km/2.8 km	1 min 6 s/1 min 24 s
+2.9 km/2.7 km	1 min 27 s/1 min 21 s
+6.3 km/5.9 km	3 min 9 s/2 min 57 s
+2.4 km/2.7 km	1 min 12 s/1 min 21 s
+1.3 km/1.1 km	0 min 39 s/0 min 33 s
+0.8 km/1.5 km	0 min 24 s/0 min 45 s
+4.0 km/3.6 km	2 min 0 s/1 min 48 s
+1.6 km/2.6 km	0 min 48 s/1 min 18 s
+
+3.9 km/2.9 km	2 min 8 s/1 min 35 s
+4.7 km/6.7 km	2 min 34 s/3 min 39 s
+8.5 km/6.7 km	4 min 38 s/3 min 39 s
+3.2 km/2.5 km	1 min 45 s/1 min 22 s
+2.8 km/4.1 km	1 min 32 s/2 min 14 s
+3.4 km/2.4 km	1 min 51 s/1 min 19 s
+0.5 km/0.5 km	0 min 16 s/0 min 16 s
+0.6 km/0.5 km	0 min 20 s/0 min 16 s
+1.8 km/1.3 km	0 min 59 s/0 min 43 s
+2.4 km/3.2 km	1 min 19 s/1 min 45 s
+1.0 km/0.6 km	0 min 33 s/0 min 20 s
+2.1 km/1.8 km	1 min 9 s/0 min 59 s
+2.1 km/2.9 km	1 min 9 s/1 min 35 s
+3.5 km/3.9 km	1 min 55 s/2 min 8 s
+3.3 km/2.3 km	1 min 48 s/1 min 15 s
+2.8 km/4.7 km	1 min 32 s/2 min 34 s
+
+3.8 km/2.2 km	2 min 4 s/1 min 12 s
+2.6 km/2.4 km	1 min 25 s/1 min 19 s
+1.3 km/1.6 km	0 min 43 s/0 min 52 s
+3.5 km/3.7 km	1 min 55 s/2 min 1 s
+3.8 km/3.5 km	2 min 4 s/1 min 55 s
+1.9 km/2.1 km	1 min 2 s/1 min 9 s
+3.1 km/3.1 km	1 min 41 s/1 min 41 s
+3.9 km/3.7 km	2 min 8 s/2 min 1 s
+7.3 km/7.3 km	3 min 59 s/3 min 59 s
+9.5 km/10.5 km	5 min 11 s/5 min 44 s
+
+2.8 km/2.6 km	1 min 41 s/1 min 34 s
+2.9 km/2.7 km	1 min 44 s/1 min 37 s
+4.4 km/4.7 km	2 min 38 s/2 min 49 s
+4.2 km/3.5 km	2 min 31 s/2 min 6 s
+4.9 km/4.4 km	2 min 56 s/2 min 38 s
+0.8 km/2.5 km	0 min 29 s/1 min 30 s

@@ -1,0 +1,105 @@
+Färdguide 158 (Kungsbacka - Göteborg)
+======================================
+
+Etapp 1: Kungsbacka - E6 (1,8 km/2,2 km)
+
+T-korsning Kungsbacka stn.
+ Fjärås, Kungsbacka S
+					0,5 km/0,5 km	36 s/36 s
+T-korsning 158/Varlavägen
+ Varla, Kungsmässan
+					0,6 km/0,6 km	43 s/43 s
+Rondell Tingberget
+ Onsala, Tingberget
+					0,5 km/0,5 km	30 s/30 s
+T-korsning 158/Kobergsgatan
+					0,3 km/0,7 km	18 s/42 s
+Trp Kungsbacka Centrum
+ E6-E20 s: Malmö, Varberg
+ E6-E20 n: Göteborg
+ Klovsten
+
+Etapp 2: E6 - Järnbrott (21,8 km/21,9 km)
+					1,1 km/0,8 km	1 min 6 s/0 min 48 s
+T-korsning Ysby
+ Bröndome
+					0,7 km/0,7 km	36 s/36 s
+Korsning Hönsaryd (enskild väg)
+ Hönsaryd
+					0,8 km/0,8 km	41 s/41 s
+Rondell Vallda trekant
+ Gottkärr, Lerkil, Vallda
+					0,8 km/0,8 km	36 s/36 s
+T-korsning
+ Kyrkobyn
+					1,0 km/1,0 km	45 s/45 s
+T-korsning Kungsbacka GK
+ Golfbana, Naturreservat
+					1,2 km/1,2 km	54 s/54 s
+T-korsning
+ Släp K:a
+					0,3 km/0,3 km	14 s/14 s
+T-korsning Guntofta
+ Särö
+					1,6 km/2,2 km	1 min 12 s/1 min 39 s
+Trp Särö
+ Särö, Bukärr
+ Bensinstation: Shell
+					3,2 km/2,8 km	2 min 8 s/1 min 52 s
+Trp Kullavik
+ Kullavik
+					1,3 km/1,7 km	0 min 52 s/1 min 8 s
+Lindåsmotet
+ Lindome
+ Lindås, Billdal
+ Bensinstation: OKQ8
+					4,8 km/4,4 km	3 min 12 s/2 min 56 s
+Brottkärrsmotet
+ Brottkärr, Billdal, Hovås
+					1,8 km/1,7 km	1 min 33 s/1 min 27 s
+Hovåsmotet
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Hovås
+					1,0 km/1,4 km	0 min 51 s/1 min 12 s
+Korsning Askimsbadet
+ Trollåsen
+ Askimsbadet
+ Bensinstation: Shell
+					0,9 km/1,1 km	46 s/57 s
+Korsning Askims stationsväg
+ Askims Torg
+ Hult
+ Bensinstation: Statoil
+					1,3 km/1,3 km	1 min 7 s/1 min 7 s
+Järnbrottsmotet
+ [E6], Mölndal
+ Centrum, Hisingen, Hamnar
+
+Etapp 3: Järnbrott - Linnéplatsen (5,4 km/5,1 km)
+					0,5 km/0,4 km	26 s/21 s
+T-korsning Järnbrott Preem
+(nordgående riktning)
+ Bensinstation: Preem
+Radiomotet
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Järnbrott
+					0,9 km/1,1 km	46 s/57 s
+Marconimotet
+ Högsbo ind. omr. norra
+ Frölunda Torg
+ Bensinstation: Statoil, Shell
+					1,3 km/1,3 km	1 min 7 s/1 min 7 s
+Flatåsmotet
+ Flatås, Hisingen, Högsbohöjd
+					1,2 km/1,1 km	1 min 2 s/0 min 57 s
+Margaretebergsmotet
+ Änggården, Slottsskogen
+ Bensinstation: Preem
+					0,8 km/0,5 km	41 s/26 s
+Annedalsmotet
+ Sahlgrenska, Guldheden
+					0,7 km/0,7 km	42 s/42 s
+Rondell Linnéplatsen
+ Järntorget, Vasaplatsen

@@ -1,0 +1,52 @@
+Échangeur entre A26 et A4
+ A4 ou: Paris, Reims
+ A4 est: Strasbourg, Metz
+					5.8 km/5.6 km	2 min 54 s/2 min 48 s
+Aire Les Grands Traquiers
+(nordgående riktning)
+					4.2 km/4.3 km	2 min 6 s/2 min 9 s
+Sortie 17
+ Fagnières
+					2.3 km/2.2 km	1 min 9 s/1 min 6 s
+Aire La Garenne
+(sydgående riktning)
+					4.8 km/5.1 km	2 min 24 s/2 min 33 s
+Sortie 18
+ Châlons-en-Champagne
+					2.4 km/2.5 km	1 min 12 s/1 min 15 s
+Aire de La Bardolle
+(nordgående riktning)
+					14.7 km/14.4 km	7 min 21 s/7 min 12 s
+Sortie 19
+ Europort
+					4.1 km/4.3 km	2 min 3 s/2 min 9 s
+Sortie 20
+ Sézanne
+Aire de Sommesous
+					3.5 km/2.6 km	1 min 45 s/1 min 18 s
+Marne / Aube
+					8.2 km/9.1 km	4 min 6 s/4 min 33 s
+Aire de Champ-Carreau
+(sydgående riktning)
+Aire de Champ l'Épée
+(nordgående riktning)
+					12.8 km/12.6 km	6 min 24 s/6 min 18 s
+Sortie 21
+ La Vallée de l'Aube
+ Arcis-sur-Aube
+					12.9 km/12.9 km	6 min 27 s/6 min 27 s
+Sortie 22
+ Charmont
+Aire de Charmont-Sous-Barbuise
+					9.0 km/9.3 km	4 min 30 s/4 min 39 s
+Aire de Villchétif
+(sydgående riktning)
+Aire des Crocs de la Terre
+(nordgående riktning)
+					4.7 km/4.3 km	2 min 21 s/2 min 9 s
+Sortie 23
+ Troyes-Est
+					7.0 km/7.3 km	3 min 30 s/3 min 39 s
+Échangeur entre A5 et A26
+ A5 ou: Paris, Sens
+ A5 est: Dijon, Chaumont

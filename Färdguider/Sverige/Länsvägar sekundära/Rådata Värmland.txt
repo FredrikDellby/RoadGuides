@@ -1,0 +1,364 @@
+T-korsning - Adolfsfors
+0.6 km/0.6 km	31 s/31 s
+2.6 km/2.6 km	2 min 14 s/2 min 14 s
+3.2 km/3.2 km	2 min 45 s/2 min 45 s
+3.5 km/3.5 km	3 min 0 s/3 min 0 s
+0.8 km/0.8 km	41 s/41 s
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (22 minutes)
+09:00	0,0	Depart 61, 673 32 Charlottenberg on Local road(s) (North-East)	10 m	
+09:00	0,1	Bear RIGHT (East) onto Charlottenbergsvägen	0,9 km	
+09:00	0,9	At Charlottenbergsvägen, 673 32 Charlottenberg, stay on Charlottenbergsvägen (East)	70 m	
+09:01	0,9	Road name changes to Hjortvägen [Torggatan]	0,2 km	
+09:02	1,1	Road name changes to Torggatan	0,1 km	
+09:02	1,2	At Torggatan 8, 673 32 Charlottenberg, turn RIGHT (East) onto Storgatan	0,9 km	
+09:04	2,1	Road name changes to Local road(s)	2,0 km	
+09:06	4,1	At near Charlottenberg, stay on Local road(s) (East)	0,8 km	
+09:07	4,9	Bear RIGHT (South-East) onto Local road(s)	2,3 km	
+09:09	7,2	Bear LEFT (East) onto Local road(s)	0,2 km	
+09:10	7,4	Bear LEFT (East) onto Local road(s)	0,1 km	
+09:10	7,6	Bear LEFT (East) onto Local road(s)	1,3 km	
+09:11	8,9	At near Fjäll, stay on Local road(s) (South-East)	1,4 km	
+09:12	10,3	Bear RIGHT (South-East) onto Local road(s)	1,0 km	
+09:13	11,2	Bear RIGHT (East) onto Local road(s)	1,1 km	
+09:14	12,3	Bear LEFT (North-East) onto Local road(s)	0,1 km	
+09:15	12,4	Bear LEFT (North-East) onto Local road(s)	0,1 km	
+09:15	12,6	Bear RIGHT (East) onto Local road(s)	0,6 km	
+09:15	13,2	Bear LEFT (North) onto Gröttvål Nordsjöbruket	0,1 km	
+09:16	13,3	Keep STRAIGHT onto Allstakan Älvnäs	0,1 km	
+09:16	13,4	Keep STRAIGHT onto Local road(s)	1,3 km	
+09:18	14,8	Bear RIGHT (North-East) onto Local road(s)	0,8 km	
+09:19	15,6	Bear LEFT (North) onto Local road(s)	0,4 km	
+09:20	15,9	At near Järperud, stay on Local road(s) (South-East)	2,5 km	
+09:22	18,4	Arrive near Järperud		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  25,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,3 kilometres (21 minutes)
+09:00	0,0	Depart near Järperud on Local road(s) (West)	2,5 km	
+09:02	2,5	At near Järperud, stay on Local road(s) (West)	0,4 km	
+09:02	2,8	Bear RIGHT (South-West) onto Local road(s)	0,8 km	
+09:03	3,7	Bear LEFT (South) onto Local road(s)	1,3 km	
+09:04	5,0	Keep STRAIGHT onto Allstakan Älvnäs	0,1 km	
+09:05	5,1	Keep STRAIGHT onto Gröttvål Nordsjöbruket	0,1 km	
+09:06	5,2	At Gröttvål Nordsjöbruket, 670 35 Gunnarskog, bear RIGHT (South-West) onto Local road(s)	0,6 km	
+09:06	5,9	Bear LEFT (West) onto Local road(s)	0,1 km	
+09:06	6,0	Bear RIGHT (West) onto Local road(s)	0,1 km	
+09:07	6,1	Bear RIGHT (West) onto Local road(s)	1,1 km	
+09:08	7,2	Bear LEFT (West) onto Local road(s)	1,0 km	
+09:09	8,2	Bear LEFT (West) onto Local road(s)	1,4 km	
+09:10	9,5	At near Fjäll, stay on Local road(s) (West)	1,3 km	
+09:11	10,8	Bear RIGHT (West) onto Local road(s)	0,1 km	
+09:11	11,0	Bear RIGHT (North-West) onto Local road(s)	0,2 km	
+09:12	11,2	Bear RIGHT (West) onto Local road(s)	2,3 km	
+09:14	13,5	Bear LEFT (West) onto Local road(s)	0,5 km	
+09:15	14,0	At near Charlottenberg, stay on Local road(s) (West)	2,3 km	
+09:16	16,3	Road name changes to Storgatan	0,9 km	
+09:19	17,2	At Storgatan 23, 673 31 Charlottenberg, turn LEFT (South) onto Torggatan	0,1 km	
+09:19	17,3	Road name changes to Hjortvägen [Torggatan]	0,2 km	
+09:20	17,5	At Hjortvägen 1, 673 32 Charlottenberg, road name changes to Charlottenbergsvägen	0,8 km	
+09:21	18,3	Arrive near Charlottenberg		
+
+SUMMARY
+Driving distance:  18,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  25,12 kr
+
+Tallmorondellen - Charlottenberg
+0.9 km/0.8 km	1 min 5 s/0 min 58 s	50
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+Charlottenberg - Bergatorp
+2.9 km/3.2 km	2 min 29 s/2 min 45 s	70
+4.8 km/4.5 km	4 min 7 s/3 min 51 s
+4.3 km/4.3 km	3 min 41 s/3 min 41 s
+2.7 km/2.7 km	2 min 19 s/2 min 19 s
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+
+Bergatorp - Trötvik
+3.8 km/3.8 km	3 min 15 s/3 min 15 s	70
+1.8 km/1.8 km	1 min 33 s/1 min 33 s
+6.2 km/6.3 km	5 min 19 s/5 min 24 s
+3.9 km/3.8 km	3 min 21 s/3 min 15 s
+7.2 km/7.2 km	6 min 10 s/6 min 10 s
+4.8 km/4.8 km	4 min 7 s/4 min 7 s
+
+Time	Km	Instruction	For	Toward
+Summary:  15,9 kilometres (21 minutes)
+09:00	0,0	Depart T-korsning Skålerud on Leverbyn (North-East)	1,7 km	
+09:02	1,7	At T-korsning Leverbyn, keep STRAIGHT onto Local road(s)	1,2 km	
+09:03	2,8	At T-korsning Bergerud, keep STRAIGHT onto Bergerud	0,7 km	
+09:04	3,6	Keep STRAIGHT onto Local road(s)	1,1 km	
+09:05	4,7	Bear RIGHT (East) onto Pikstad	0,3 km	
+09:06	5,0	Keep STRAIGHT onto Pikstad [Västra Bön Lund]	0,8 km	
+09:07	5,8	Road name changes to Västra Bön Lund [Västra Bön]	0,3 km	
+09:08	6,2	At T-korsning Västra Bön, stay on Västra Bön Lund [Västra Bön] (East)	0,7 km	
+09:08	6,8	Road name changes to Västra Bön	0,2 km	
+09:09	7,0	Keep STRAIGHT onto Local road(s)	0,4 km	
+09:10	7,4	Keep STRAIGHT onto Hämnäs	1,1 km	
+09:11	8,5	At T-korsning, stay on Hämnäs [Hämnäs Skansen] (East)	0,3 km	
+09:12	8,8	Bear RIGHT (East) onto Hämnäs	0,3 km	
+09:12	9,1	At T-korsning, stay on Hämnäs (East)	0,3 km	
+09:12	9,4	Bear LEFT (East) onto Local road(s)	20 m	
+09:13	9,4	Bear RIGHT (South-East) onto Local road(s)	0,2 km	
+09:13	9,6	Bear LEFT (East) onto Local road(s)	0,4 km	
+09:14	10,1	At T-korsning Karlanda S, stay on Local road(s) (North)	0,5 km	
+09:14	10,6	Keep STRAIGHT onto Bjärn	0,1 km	
+09:15	10,7	At T-korsning Karlanda N, stay on Bjärn [Stommen Änga] (North-East)	0,7 km	
+09:15	11,4	Bear RIGHT (North-East) onto Bjärn	1,2 km	
+09:17	12,7	Keep STRAIGHT onto Local road(s)	1,3 km	
+09:19	14,0	Keep STRAIGHT onto Vännacka	1,9 km	
+09:21	15,9	Turn LEFT (North) onto 177	10 m	
+09:21	15,9	Arrive T-korsning Vännacka norra		
+
+SUMMARY
+Driving distance:  15,9 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  17,68 kr
+
+Vännacka norra - Skålerud (E18)
+5.2 km/5.2 km	4 min 27 s/4 min 27 s	70
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+2.3 km/2.3 km	1 min 58 s/1 min 58 s
+3.4 km/3.4 km	2 min 55 s/2 min 55 s
+1.2 km/1.2 km	1 min 2 s/1 min 2 s
+1.7 km/1.7 km	1 min 27 s/1 min 27 s
+
+Time	Km	Instruction	For	Toward
+Summary:  24,0 kilometres (29 minutes)
+09:00	0,0	Depart T-korsning Gräsmark K:a on Gräsmarksvägen (North)	0,6 km	
+09:00	0,6	Road name changes to Local road(s)	2,0 km	
+09:03	2,5	Keep STRAIGHT onto Granbäck [Gransjön]	2,0 km	
+09:05	4,6	Road name changes to Forsnäs	0,6 km	
+09:06	5,2	At T-korsning Brandsbol, stay on Forsnäs (North)	0,3 km	
+09:07	5,5	Bear LEFT (North) onto Forsnäs [Högås]	80 m	
+09:07	5,5	Keep STRAIGHT onto Forsnäs	0,3 km	
+09:07	5,9	Keep STRAIGHT onto Hedås	1,1 km	
+09:09	7,0	Keep STRAIGHT onto Local road(s)	50 m	
+09:10	7,0	Bear LEFT (North-East) onto Bastnäs	1,9 km	
+09:12	8,9	Road name changes to Local road(s)	1,9 km	
+09:14	10,9	Bear LEFT (North-West) onto Local road(s)	0,1 km	
+09:15	11,0	Bear LEFT (North-West) onto Local road(s)	0,8 km	
+09:15	11,8	Bear LEFT (North) onto Local road(s)	0,4 km	
+09:16	12,2	Bear LEFT (North) onto Local road(s)	0,3 km	
+09:16	12,5	At T-korsning, stay on Local road(s) (North)	0,7 km	
+09:17	13,1	At near Brandsbol, stay on Local road(s) (North)	0,4 km	
+09:17	13,5	Keep STRAIGHT onto Gräsmarksvägen	6,6 km	
+09:24	20,1	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:25	20,3	Bear RIGHT (East) onto Local road(s)	1,4 km	
+09:26	21,7	Keep STRAIGHT onto Västanå	2,3 km	
+09:29	24,0	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  24,0 kilometres
+Trip duration:  29 minutes
+Driving time:  29 minutes
+Cost:  27,67 kr
+
+Gräsmark K:a - T-korsning
+5.2 km/5.2 km	4 min 27 s/4 min 27 s
+7.3 km/7.3 km	6 min 15 s/6 min 15 s
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+10.9 km/10.9 km	9 min 21 s/9 min 21 s
+
+Time	Km	Instruction	For	Toward
+Summary:  7,4 kilometres (7 minutes)
+09:00	0,0	Depart T-korsning Köla S on Local road(s) (North)	0,2 km	
+09:00	0,2	Bear RIGHT (North-East) onto Local road(s)	0,3 km	
+09:00	0,5	Bear LEFT (North) onto Local road(s)	0,9 km	
+09:01	1,5	At T-korsning, stay on Local road(s) (North-East)	0,3 km	
+09:01	1,8	Bear LEFT (North) onto Local road(s)	0,3 km	
+09:02	2,1	Bear RIGHT (North) onto Local road(s)	0,5 km	
+09:02	2,6	Bear LEFT (North) onto Local road(s)	0,9 km	
+09:03	3,5	At T-korsning Valfjället, stay on Local road(s) (North)	1,2 km	
+09:04	4,7	Bear RIGHT (East) onto Local road(s)	1,0 km	
+09:05	5,7	Bear RIGHT (North) onto Local road(s)	1,3 km	
+09:07	7,0	Bear RIGHT (East) onto Local road(s)	0,5 km	
+09:07	7,4	Arrive Nolbykorset		
+
+SUMMARY
+Driving distance:  7,4 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  8,45 kr
+
+Köla S - T-korsning
+1.5 km/1.5 km	1 min 30 s/1 min 30 s
+
+T-korsning - Nolbykorset
+2.0 km/2.0 km	1 min 43 s/1 min 43 s
+3.9 km/3.9 km	3 min 21 s/3 min 21 s
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (21 minutes)
+09:00	0,0	Depart near Skillingsfors on Local road(s) (East)	90 m	
+09:00	0,1	Bear RIGHT (East) onto Local road(s)	0,5 km	
+09:00	0,6	Bear RIGHT (East) onto Local road(s)	1,8 km	
+09:02	2,4	Bear LEFT (South-East) onto Local road(s)	0,3 km	
+09:03	2,7	Bear LEFT (East) onto Local road(s)	1,6 km	
+09:04	4,3	Bear RIGHT (East) onto Local road(s)	2,2 km	
+09:06	6,4	Bear RIGHT (South-East) onto Local road(s)	20 m	
+09:06	6,5	Bear LEFT (East) onto Local road(s)	0,8 km	
+09:07	7,3	Bear RIGHT (East) onto Local road(s)	0,7 km	
+09:08	8,0	Bear LEFT (East) onto Local road(s)	2,1 km	
+09:10	10,1	Bear RIGHT (East) onto Local road(s)	0,1 km	
+09:10	10,2	At near Lässerud, stay on Local road(s) (East)	0,9 km	
+09:11	11,2	At near Lässerud, stay on Local road(s) (East)	0,7 km	
+09:12	11,9	Bear RIGHT (East) onto Local road(s)	0,5 km	
+09:12	12,4	Bear LEFT (East) onto Local road(s)	0,2 km	
+09:12	12,6	Bear RIGHT (South-East) onto Local road(s)	2,6 km	
+09:15	15,1	At Korsning Adolfsfors, stay on Local road(s) (East)	0,8 km	
+09:16	15,9	At T-korsning Köla S, stay on Local road(s) (East)	0,2 km	
+09:17	16,1	Bear RIGHT (South-East) onto Local road(s)	1,9 km	
+09:19	18,0	Bear LEFT (South) onto Local road(s)	1,0 km	
+09:20	19,0	Bear LEFT (South) onto Local road(s)	0,3 km	
+09:20	19,3	Bear LEFT (South-East) onto Local road(s)	0,6 km	
+09:21	19,9	Arrive T-korsning Flogned mitt		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  23,90 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,8 kilometres (21 minutes)
+09:00	0,0	Depart T-korsning Flogned mitt on Local road(s) (North)	0,6 km	
+09:00	0,6	Bear RIGHT (North) onto Local road(s)	0,3 km	
+09:01	0,9	Bear RIGHT (North) onto Local road(s)	1,0 km	
+09:02	1,9	Bear RIGHT (North) onto Local road(s)	1,9 km	
+09:04	3,8	At Korsning Köla S, stay on Local road(s) (West)	1,0 km	
+09:05	4,8	At Korsning Adolfsfors, stay on Local road(s) (West)	2,6 km	
+09:08	7,3	Bear LEFT (West) onto Local road(s)	0,2 km	
+09:08	7,5	Bear RIGHT (West) onto Local road(s)	0,5 km	
+09:09	8,0	Bear LEFT (West) onto Local road(s)	0,7 km	
+09:09	8,7	At near Lässerud, stay on Local road(s) (South-West)	0,9 km	
+09:10	9,7	At near Lässerud, stay on Local road(s) (West)	0,1 km	
+09:10	9,8	Bear LEFT (South-West) onto Local road(s)	2,1 km	
+09:12	11,9	Bear RIGHT (West) onto Local road(s)	0,7 km	
+09:13	12,6	Bear LEFT (West) onto Local road(s)	0,8 km	
+09:14	13,4	Bear RIGHT (North-West) onto Local road(s)	20 m	
+09:14	13,4	Bear LEFT (West) onto Local road(s)	2,2 km	
+09:16	15,6	Bear LEFT (West) onto Local road(s)	1,6 km	
+09:18	17,2	Bear RIGHT (West) onto Local road(s)	0,3 km	
+09:18	17,5	Bear RIGHT (North) onto Local road(s)	1,8 km	
+09:20	19,3	Bear LEFT (West) onto Local road(s)	0,5 km	
+09:21	19,8	Arrive near Skillingsfors		
+
+SUMMARY
+Driving distance:  19,8 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  23,74 kr
+
+Skillingsfors - Korterud
+10.2 km/10.1 km	10 min 12 s/10 min 6 s
+
+Korterud - Flogned mitt
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+3.9 km/3.9 km	3 min 21 s/3 min 21 s
+0.8 km/1.0 km	0 min 41 s/0 min 51 s
+4.0 km/3.8 km	3 min 26 s/3 min 15 s
+
+Time	Km	Instruction	For	Toward
+Summary:  12,6 kilometres (18 minutes)
+09:00	0,0	Depart near Skillingsfors on Local road(s) (North)	1,1 km	
+09:01	1,1	At near Bön, stay on Local road(s) (West)	0,3 km	
+09:01	1,3	Bear RIGHT (West) onto Local road(s)	0,5 km	
+09:02	1,8	Bear LEFT (West) onto Local road(s)	0,2 km	
+09:02	2,0	Bear RIGHT (North-West) onto Local road(s)	0,7 km	
+09:03	2,7	Bear LEFT (North-West) onto Local road(s)	0,8 km	
+09:04	3,5	Bear LEFT (West) onto Local road(s)	1,4 km	
+09:06	4,9	At near Bergerud, stay on Local road(s) (North)	0,1 km	
+09:07	5,0	Bear RIGHT (East) onto Local road(s)	1,7 km	
+09:09	6,7	Bear RIGHT (North) onto Local road(s)	0,2 km	
+09:09	6,9	At near Bergerud, stay on Local road(s) (North-West)	0,1 km	
+09:10	7,0	Bear RIGHT (North) onto Local road(s)	0,6 km	
+09:10	7,6	Bear RIGHT (North-East) onto Local road(s)	0,3 km	
+09:11	7,9	Bear LEFT (North) onto Local road(s)	0,7 km	
+09:12	8,6	Bear RIGHT (North) onto Local road(s)	0,1 km	
+09:12	8,7	Bear LEFT (North) onto Local road(s)	0,1 km	
+09:12	8,8	Bear RIGHT (North) onto Local road(s)	0,6 km	
+09:13	9,4	At near Bergerud, stay on Local road(s) (North)	1,6 km	
+09:16	11,1	Bear RIGHT (North-East) onto Local road(s)	1,5 km	
+09:18	12,6	Arrive 344, 2233 Eidskog		
+
+SUMMARY
+Driving distance:  12,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  14,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,6 kilometres (18 minutes)
+09:00	0,0	Depart 344, 2233 Eidskog on Local road(s) (South)	1,5 km	
+09:02	1,5	Bear LEFT (South) onto Local road(s)	1,6 km	
+09:04	3,1	At near Bergerud, stay on Local road(s) (South)	0,6 km	
+09:05	3,8	Bear LEFT (South) onto Local road(s)	0,1 km	
+09:05	3,9	Bear RIGHT (South) onto Local road(s)	0,1 km	
+09:06	4,0	Bear LEFT (South) onto Local road(s)	0,7 km	
+09:07	4,7	Bear RIGHT (South) onto Local road(s)	0,3 km	
+09:07	5,0	Bear LEFT (South) onto Local road(s)	0,6 km	
+09:08	5,6	Bear LEFT (South-East) onto Local road(s)	0,1 km	
+09:08	5,7	At near Bergerud, stay on Local road(s) (South-West)	0,2 km	
+09:08	5,9	Bear LEFT (South) onto Local road(s)	1,7 km	
+09:11	7,6	Bear LEFT (South) onto Local road(s)	0,1 km	
+09:11	7,7	At near Bergerud, stay on Local road(s) (South)	1,4 km	
+09:13	9,1	Bear RIGHT (South-East) onto Local road(s)	0,8 km	
+09:14	9,9	Bear RIGHT (South) onto Local road(s)	0,7 km	
+09:15	10,6	Bear LEFT (East) onto Local road(s)	0,2 km	
+09:16	10,8	Bear RIGHT (East) onto Local road(s)	0,5 km	
+09:16	11,3	Bear LEFT (East) onto Local road(s)	0,3 km	
+09:17	11,5	At near Bön, stay on Local road(s) (North-East)	1,1 km	
+09:18	12,6	Arrive near Skillingsfors		
+
+SUMMARY
+Driving distance:  12,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  14,05 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  12,7 kilometres (15 minutes)
+09:00	0,0	Depart near Bergerud on Local road(s) (West)	2,1 km	
+09:03	2,1	Bear RIGHT (West) onto Local road(s)	3,9 km	
+09:08	6,0	Bear RIGHT (West) onto Local road(s)	1,9 km	
+09:11	7,9	Entering Norway		
+09:11	7,9	At near Bergerud, stay on Local road(s) (West)	0,6 km	
+09:12	8,4	Bear RIGHT (North) onto Local road(s)	2,0 km	
+09:13	10,4	Bear LEFT (West) onto Local road(s)	2,3 km	
+09:15	12,7	Arrive 21, 1954 Aurskog-Høland		
+
+SUMMARY
+Driving distance:  12,7 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  14,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,7 kilometres (15 minutes)
+09:00	0,0	Depart 21, 1954 Aurskog-Høland on Local road(s) (East)	2,3 km	
+09:01	2,3	Bear RIGHT (South-East) onto Local road(s)	2,0 km	
+09:03	4,2	Bear LEFT (East) onto Local road(s)	0,6 km	
+09:03	4,8	Entering Sweden		
+09:03	4,8	At near Bergerud, stay on Local road(s) (East)	1,9 km	
+09:06	6,7	Bear LEFT (East) onto Local road(s)	3,9 km	
+09:12	10,6	Bear LEFT (East) onto Local road(s)	2,1 km	
+09:15	12,7	Arrive near Bergerud		
+
+SUMMARY
+Driving distance:  12,7 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  14,11 kr

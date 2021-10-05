@@ -1,0 +1,283 @@
+Reseguide E6 (Svinesund - Oslo)
+================================
+
+Etapp 1: Svinesund - Sarpsborg (22,3 km/22,8 km)
+
+Svinesundsbron-syd (704 m)
+Sverige / Norge
+Västra Götaland / Østfold
+Strömstad / Halden
+					0.7 km/0.7 km	25 s/25 s
+Svinesundsbron-nord (704 m)
+					1,2 km/1,6 km	43 s/58 s
+(Bomstasjon (sydgående))
+Svinesund tullstasjon (nordgående)
+Langkaskrysset (1)
+ [118], Sponvika
+					2,4 km/2,4 km	1 min 26 s/1 min 26 s
+Svingenskogenkrysset (2)
+ 21: Ørje, Halden
+ 118: Gamle Svinesundsbru
+ Rasteplass Svinesundparken
+ Bensinstasjon: Shell
+ Restaurang: McDonald's
+					3,2 km/2,7 km	1 min 55 s/1 min 37 s
+Vikshaugen bru (over bekk)
+ 192 m/196 m
+
+Halden / Sarpsborg
+					3,7 km/3,9 km	2 min 13 s/2 min 20 s
+Ingedalskrysset (3)
+ 118: Ingedal
+ Løkkevika
+					4,6 km/4,5 km	2 min 46 s/2 min 42 s
+Kryss Solberg (4)
+ 110: Skjeberg
+ 110: Fredrikstad
+ Rasteplass Solbergtårnet
+					4,4 km/4,2 km	158 s/151 s
+Sarpsborg / Fredrikstad
+ 					2,1 km/2,7 km	1 min 16 s/1 min 37 s
+Årumkrysset (5)
+ Sarpsborg S
+ 22 n: Mysen, Rakkestad
+ 22 s: Fredrikstad
+ Bensinstation: Uno-X
+ Restaurang: Multigastro Storkjøkken
+ Livsmedel: Kiwi
+(Sandesund bru-syd)
+ 1528 m/1521 m
+(Fredrikstad / Sarpsborg)
+
+Etapp 2: Sarpsborg - Moss (34,3 km/34,3 km)
+					2,3 km/1,9 km	1 min 23 s/1 min 8 s
+(Sandesund bru-nord)
+Alvimkrysset (6)
+ Sarpsborg C
+ 109: Fredrikstad
+ Bensinstasjon: Circle-K
+ Restaurang: McDonald's
+ Livsmedel: Kiwi, Coop Extra, REMA 1000
+					2,2 km/2,6 km	1 min 19 s/1 min 34 s
+Lekevollkrysset (7)
+ Sarpsborg N
+ 114 n: Askim, Våler
+ 114 s: Fredrikstad, Greåker
+ Inspiria Science Center
+ Bensinstasjon: Esso
+ Elbilsladdning: Fortum, Charge And Drive
+ Restaurang: Grålum Pizza
+ Hotel: Quality Hotel Sarpsborg
+					3,8 km/2,9 km	2 min 17 s/1 min 44 s
+Kalneskrysset (8)
+ Sykehuset Østfold Kalnes
+ Elbilsladdning: Europark, Övrigt
+					0,3 km/0,7 km	11 s/25 s
+Eidettunnelen-syd (880 m)
+					0,9 km/0,9 km	32 s/32 s
+Eidettunnelen-nord (880 m)
+					2,8 km/3,3 km	1 min 41 s/1 min 59 s
+(Solli bru)
+ Aagaardselva, 93 m/114 m
+Sollikrysset (9)
+ 112: Rolvsøy
+ 118:
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum, Tesla, Charge And Drive
+ Restaurang: Burger King
+Sarpsborg / Råde
+					3,2 km/3,2 km	1 min 55 s/1 min 55 s
+Åsgårdkrysset (10)
+ 118: Åsgård/Missingmyr, Råde
+ Bensinstasjon: Circle-K Automat
+					5,2 km/4,6 km	3 min 7 s/2 min 46 s
+Jonsteinkrysset (11)
+ 110: Fredrikstad
+ 118: Råde
+ Bensinstasjon: Shell Express
+ Elbilsladdning: Fortum, Charge And Drive
+ Restaurang: McDonald's
+ Livsmedel: Europris, Kiwi
+					3,7 km/3,8 km	2 min 13 s/2 min 17 s
+Jonsten viltovergang (58 m)
+
+Råde / Moss
+					2,0 km/2,6 km	1 min 12 s/1 min 34 s
+Halmstadkrysset (12)
+ 118: Rygge
+ Moss Lufthavn
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Tesla, Ionity, Grønn Kontakt
+ Restaurang: McDonald's
+					4,5 km/4,5 km	2 min 42 s/2 min 42 s
+Årvollkrysset (13)
+ 119: Moss
+ [19]: Horten
+					1,3 km/1,2 km	47 s/47 s,
+Rastplats Storebog-Vest
+(nordgående riktning)
+ Bensinstasjon: Shell
+ Restaurang: Marche
+Rastplats Storebog-Øst
+(sydgående riktning)
+ Bensinstasjon: Statoil
+ Elbilsladdning: Circle-K, BKK
+ Restaurang: Marche
+ Hotel: Storebaug Gjestegård
+(Storebog bru)
+ Mosseelva, 96 m/63 m
+					2,1 km/2,4 km	1 min 16 s/1 min 19 s
+Patterødkrysset (14)
+ 19: Horten, Moss
+ 120: Elvestad
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Grønn Kontakt, Nobil, VIRTA
+ Restaurang: McDonald's
+ Livsmedel: REMA 1000, MENY
+
+Etapp 3: Moss - Nøstvet (ca 35 km)
+					5,3 km/4,8 km	3 min 11 s/2 min 53 s
+Moss / Vestby
+(Bomstasjon)
+					2,9 km/3,2 km	1 min 44 s/1 min 55 s
+Kryss Sonsveien (15)
+ 151 v: Ringvoll
+ 151 ø: Son, Brevik
+ Bensinstasjon: YX/7-Eleven
+ Elbilsladdning: Fortum
+					1,6 km/1,2 km	58 s/43 s
+Follotunnelen-syd
+					0,9 km/0,9 km	32 s/32 s
+Follotunnelen-nord
+					7,6 km/7,9 km	4 min 34 s/4 min 44 s
+Vestbykrysset (16)
+ Vestby
+ Hvitsten
+ Bensinstasjon: Uno-X
+ Elbilsladdning: Fortum
+ Restaurang: Burger King, Subway, Peppes Pizza
+ Livsmedel: REMA 1000
+					2,3 km/2,5 km	1 min 23 s/1 min 30 s
+Kryss Vestby nord (17)
+ Vestby
+ Drøbak
+ Bensinstasjon: Circle-K, Esso
+ Restaurang: McDonald's, Burger King
+					1,2 km/0,6 km	43 s/22 s
+Rasteplass
+					1,4 km/2,1 km	0 min 50 s/1 min 16 s
+Vestby / Ås
+					1,7 km/1,6 km	1 min 1 s/0 min 58 s
+Korsegårdskrysset (18)
+ 152 ø: Ås
+ 152 v: Drøbak
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum, Charge And Drive, Grønn kontakt
+					2,9 km/3,0 km	1 min 44 s/1 min 48 s
+Ås / Frogn
+Horgenkrysset (19)
+(avfart sydgående riktning
+påfart nordgående riktning)
+					1,1 km/0,5 km	40 s/18 s
+Smiehagentunnelen-syd
+ 892 m
+					1,2 km/1,6 km	43 s/58 s
+(Smiehagentunnelen-nord)
+Vassumkrysset (20)
+ E134: Drammen, Drøbak
+ 156: Nesoddtangen
+(Nordbytunnelen-syd)
+ 3855 m/3867 m
+					4,5 km/4,7 km	2 min 42 s/2 min 49 s
+(Nordbytunnelen-nord)
+Vinterbrukrysset (21)
+ E18 ø: Stockholm, Ski
+ [156]: Nesoddtangen
+ Tusenfryd nöjespark
+					1,1 km/0,8 km	40 s/29 s
+Kryss Nøstvet (22)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ E18 v: Oslo-Sentrum, Drammen
+ [152]: Oppegård, Langhus
+ Tusenfryd nöjespark
+(Nøstvettunnelen-syd)
+ 3668 m/3648 m
+
+Etapp 4: Nøstvet - Oslo (21,9 km/22,3 km)
+					4,3 km/4,2 km	2 min 35 s/2 min 31 s
+(Nøstvettunnelen-nord)
+Oppegårdkrysset (23)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ [152]: Oppegård, Langhus
+ 156: Tusenfryd nöjespark
+					1,0 km/1,3 km	36 s/47 s
+Assurtjernkrysset (24)
+ Langhus, Siggerud
+					1,3 km/1,1 km	47 s/40 s
+Pinnåsen viltovergang
+ 82 m/87 m
+
+Taraldrudkrysset (25)
+ Kolbotn
+					1,9 km/2,1 km	1 min 8 s/1 min 16 s
+Taraldrud kontrollstasjon
+(nordgående riktning)
+					0,9 km/0,8 km	32 s/29 s
+Viken / Oslo
+Ski / Oslo
+Åslandkrysset (26)
+					2,3 km/2,3 km	1 min 32 s/1 min 32 s
+Klemetsrudkrysset (27)
+ 155 s: Enebakk
+ 155 n: Oslo-Ljan
+					1,4 km/1,2 km	56 s/48 s
+Mortensrudkrysset (28)
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum
+ Livsmedel: Kiwi, Europris
+					1,6 km/1,4 km	1 min 4 s/0 min 56 s
+Skullerudkrysset (29)
+					1,6 km/2,2 km	1 min 4 s/1 min 28 s
+Bakkerudkrysset (30)
+ Bensinstasjon: Circle-K
+ Elbilsladdning: VIRTA, Circle-K
+ Livsmedel: Bunnpris
+(Abildsø bomstasjon)
+					1,5 km/1,0 km	1 min 0 s/0 min 40 s
+Kryss Sandstuveien (31)
+ Livsmedel: REMA 1000
+					0,6 km/1,0 km	27 s/40 s
+Ryenkrysset (32)
+ Oslo-Sentrum
+ [E18 v]: Drammen
+ Bensinstasjon: Esso
+ Livsmedel: Kiwi, REMA 1000
+					0,9 km/0,6 km	41 s/27 s
+Manglerudkrysset (33)
+ Bensinstasjon: Shell
+ Restaurang: Burger King, Mr Pizza
+ Livsmedel: MENY
+					0,8 km/0,6 km	1 min 20 s/0 min 27 s
+Brynskrysset (34)
+(ej avfart sydgående)
+ Elbilsladdning: Brynsenteret
+ Livsmedel: MENY
+(Brynstunnelen (240 m))
+					0,7 km/0,8 km	32 s/36
+Järnvägsviadukt
+ Hovedbanen
+
+Brynsengkrysset (35)
+					0,9 km/0,9 km	41 s/41 s
+(Teisen bomstasjon)
+Teisenkrysset (36)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Oslo-Sentrum
+ [E18 v]: Drammen
+					0,5 km/1,0 km	23 s/45 s
+Hovinkrysset (37)
+ E6 n: Trondheim, Gardemoen
+ Ring 3: Oslo-Nord

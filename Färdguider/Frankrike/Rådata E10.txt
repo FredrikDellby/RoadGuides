@@ -1,0 +1,99 @@
+Time	Km	Instruction	For	Toward
+Summary:  51,0 kilometres (37 minutes)
+09:00	0,0	Depart E4, 950 40 Töre on E4 (East)	0,6 km	
+09:00	0,6	Turn LEFT (West) onto Ramp	0,2 km	
+09:00	0,8	Turn RIGHT (North) onto E10	1,8 km	
+09:02	2,5	At T-korsning Töre norra, stay on E10 [Töre] (North)	1,4 km	
+09:03	3,9	At T-korsning Törböle, stay on E10 (North)	15,3 km	
+09:13	19,2	At Korsning Mojärv, stay on E10 (North)	13,6 km	
+09:24	32,8	At E10, 950 42 Morjärv, stay on E10 (North)	4,8 km	
+09:27	37,6	At T-korsning, stay on E10 (North)	5,1 km	
+09:31	42,7	At T-korsning V Svartbyn, stay on E10 [Västra Svartbyn] (North)	4,0 km	
+09:34	46,8	At E10, 956 91 Överkalix, stay on E10 (North)	4,2 km	
+09:37	51,0	Arrive T-korsning Kangis		
+
+SUMMARY
+Driving distance:  51,0 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  59,16 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  50,0 kilometres (37 minutes)
+09:00	0,0	Depart T-korsning Kangis on E10 [Kangis] (South)	4,1 km	
+09:03	4,1	At E10, 956 91 Överkalix, stay on E10 (South)	4,1 km	
+09:06	8,3	At T-korsning V Svartbyn, stay on E10 (South)	5,1 km	
+09:10	13,3	At T-korsning, stay on E10 (South)	4,8 km	
+09:13	18,2	At near Kälvudden, stay on E10 (South)	13,6 km	
+09:24	31,8	At Korsning Mojärv, stay on E10 [Törevägen] (South)	15,3 km	
+09:34	47,0	At T-korsning Törböle, stay on E10 (South)	1,4 km	
+09:35	48,4	At T-korsning Töre norra, stay on E10 [Kiruna-vägen] (South)	1,6 km	
+09:37	50,0	Arrive Korsning Töre Shell		
+
+SUMMARY
+Driving distance:  50,0 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  57,56 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  56,8 kilometres (39 minutes)
+09:00	0,0	Depart T-korsning Kangis on E10 [Hällan] (North-West)	0,5 km	
+09:00	0,5	At T-korsning Hedensbyn, stay on E10 (North-West)	14,4 km	
+09:12	14,9	At T-korsning Tvärån, stay on E10 [Tvärån] (West)	0,5 km	
+09:13	15,4	At T-korsning Tvärån, stay on E10 (West)	9,2 km	
+09:19	24,6	At T-korsning Lansån, stay on E10 [Lansån] (North)	7,8 km	
+09:24	32,3	At T-korsning Naisheden, stay on E10 [Naisheden] (North-West)	1,4 km	
+09:25	33,7	At Naisheden, 956 99 Lansjärv, stay on E10 [Naisheden] (West)	4,6 km	
+09:28	38,3	At T-korsning Yttre Lansjärv, stay on E10 [Yttre Lansjärv] (North)	7,5 km	
+09:32	45,8	At T-korsning Lansjärv södra, stay on E10 (North-West)	2,1 km	
+09:34	47,9	At T-korsning Lansjärv norra, stay on E10 [Storvägen] (North)	8,9 km	
+09:39	56,8	Arrive E10, 980 41 Hakkas		
+
+SUMMARY
+Driving distance:  56,8 kilometres
+Trip duration:  39 minutes
+Driving time:  39 minutes
+Cost:  64,44 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  56,8 kilometres (39 minutes)
+09:00	0,0	Depart E10, 980 41 Hakkas on E10 (East)	8,9 km	
+09:05	8,9	At T-korsning Lansjärv norra, stay on E10 (South)	2,1 km	
+09:07	11,0	At T-korsning Lansjärv södra, stay on E10 [Yttre Lansjärv] (South)	7,5 km	
+09:11	18,5	At T-korsning Yttre Lansjärv, stay on E10 (South)	4,5 km	
+09:14	22,9	At Naisheden 48, 956 99 Lansjärv, stay on E10 [Naisheden] (East)	1,5 km	
+09:15	24,4	At T-korsning Naisheden, stay on E10 (South-East)	7,8 km	
+09:20	32,2	At T-korsning Lansån, stay on E10 [Lansån] (South)	9,2 km	
+09:26	41,4	At T-korsning Tvärån, stay on E10 [Tvärån] (East)	0,5 km	
+09:27	41,9	At T-korsning Tvärån, stay on E10 (East)	14,4 km	
+09:39	56,3	At T-korsning Hedensbyn, stay on E10 [Kangis] (South-East)	0,5 km	
+09:39	56,8	Arrive T-korsning Kangis		
+
+SUMMARY
+Driving distance:  56,8 kilometres
+Trip duration:  39 minutes
+Driving time:  39 minutes
+Cost:  64,44 kr
+
+Resultat:
+2.5 km/1.6 km	2 min 30 s/1 min 36 s
+
+1.4 km/1.4 km	56 s/56 s
+15.3 km/15.3 km	10 min 12 s/10 min 12 s
+13.6 km/13.6 km	9 min 4 s/9 min 4 s
+4.8 km/4.8 km	3 min 12 s/3 min 12 s
+5.1 km/5.1 km	3 min 24 s/3 min 24 s
+4.0 km/4.1 km	2 min 40 s/2 min 44 s
+4.2 km/4.1 km	2 min 48 s/2 min 44 s
+
+0.5 km/0.5 km	20 s/20 s
+14.4 km/14.4 km	9 min 36 s/9 min 36 s
+0.5 km/0.5 km	20 s/20 s
+9.2 km/9.2 km	6 min 8 s/6 min 8 s
+7.8 km/7.8 km	5 min 12 s/5 min 12 s
+1.4 km/1.5 km	0 min 56 s/1 min 0 s
+4.6 km/4.5 km	3 min 4 s/3 min 0 s
+7.5 km/7.5 km	5 min 0 s/5 min 0 s
+2.1 km/2.1 km	1 min 24 s/1 min 24 s
+8.9 km/8.9 km	5 min 56 s/5 min 56 s

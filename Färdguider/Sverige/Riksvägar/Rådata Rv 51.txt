@@ -1,0 +1,194 @@
+Time	Km	Instruction	For	Toward
+Summary:  38,9 kilometres (37 minutes)
+09:00	0,0	Depart Kävesta, 697 94 Sköllersta on 51 [52] (East)	90 m	
+09:00	0,1	Turn RIGHT (South) onto 51	2,9 km	
+09:03	3,0	At T-korsning Tarsta, stay on 51 (South)	1,3 km	
+09:04	4,3	At T-korsning Åkerby, stay on 51 [Åkerby] (South)	2,4 km	
+09:07	6,8	At Korsning Pålsboda N, stay on 51 (South)	0,9 km	
+09:08	7,7	At Korsning Pålsboda kyrka, stay on 51 [Norra Storgatan] (South)	5,9 km	
+09:14	13,6	At T-korsning Svennerud, stay on 51 [Norrköpingsvägen] (South-East)	0,5 km	
+09:15	14,1	At T-korsning Svennevad, stay on 51 [Norrköpingsvägen] (South-East)	6,9 km	
+09:21	21,0	At T-korsning Södra Glottra, stay on 51 (South)	2,7 km	
+09:23	23,7	At Korsning Stenkulla, stay on 51 (South)	3,2 km	
+09:25	26,9	At T-korsning Averby, stay on 51 (South)	0,8 km	
+09:26	27,7	At T-korsning Hjortkvarn N, stay on 51 (South)	0,5 km	
+09:26	28,1	At Korsning Hjortkvarn K:a, stay on 51 [Norrköpingsvägen] (South-West)	0,3 km	
+09:27	28,4	At Korsning Hjortkvarn C, stay on 51 [Norrköpingsvägen] (South)	6,5 km	
+09:34	34,9	At 211, 610 10 Ljusfallshammar, stay on 51 [211] (South)	4,0 km	
+09:37	38,9	Arrive T-korsning Trolleflod		
+
+SUMMARY
+Driving distance:  38,9 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  46,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,7 kilometres (37 minutes)
+09:00	0,0	Depart T-korsning Trolleflod on 51 [211] (North)	4,0 km	
+09:03	4,0	At 211, 610 10 Ljusfallshammar, stay on 51 (North)	6,3 km	
+09:10	10,2	At T-korsning Hjortkvarn S, stay on 51 [Norrköpingsvägen] (North)	0,5 km	
+09:11	10,8	At Korsning Hjortkvarn K:a, stay on 51 [Norrköpingsvägen] (North)	0,5 km	
+09:11	11,2	At T-korsning Hjortkvarn N, stay on 51 (North)	0,8 km	
+09:12	12,0	At T-korsning Averby, stay on 51 (North)	3,2 km	
+09:14	15,2	At Korsning Stenkulla, stay on 51 (North)	2,7 km	
+09:16	17,9	At T-korsning Södra Glottra, stay on 51 (North)	6,9 km	
+09:22	24,8	At T-korsning Svennevad, stay on 51 [Norrköpingsvägen] (North-West)	0,5 km	
+09:23	25,3	At T-korsning Svennerud, stay on 51 [Norrköpingsvägen] (North)	5,9 km	
+09:29	31,2	At Korsning Pålsboda kyrka, stay on 51 [Norra Storgatan] (North)	0,8 km	
+09:30	32,0	At 51, 697 30 Pålsboda, stay on 51 (North)	2,6 km	
+09:33	34,5	At T-korsning Åkerby, stay on 51 [Åkerby] (North)	1,3 km	
+09:34	35,9	At T-korsning Tarsta, stay on 51 [Åkerby] (North)	2,9 km	
+09:37	38,7	Arrive 51, 697 94 Sköllersta		
+
+SUMMARY
+Driving distance:  38,7 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  46,74 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,4 kilometres (26 minutes)
+09:00	0,0	Depart T-korsning Trolleflod on 51 [Örmon Karlstorp] (South)	0,3 km	
+09:00	0,3	At Örmon Karlstorp, 610 10 Ljusfallshammar, stay on 51 (South-East)	4,7 km	
+09:05	5,1	At Korsning Ljusfallshammar N, stay on 51 (East)	0,9 km	
+09:05	6,0	At T-korsning Ljusfallshammar C, stay on 51 (South-East)	0,8 km	
+09:06	6,8	At Korsning Ljusfallshammar S, stay on 51 [Örebrovägen] (South-East)	2,8 km	
+09:09	9,6	At T-korsning Prästköp, stay on 51 (South)	3,4 km	
+09:11	13,0	At near Hällestad, stay on 51 [Örebrovägen] (South-East)	1,3 km	
+09:13	14,3	At T-korsning Tallberga, stay on 51 [Örebrovägen] (South)	3,6 km	
+09:16	17,9	At Korsning Sonstorp, stay on 51 [Örebrovägen] (South-East)	7,5 km	
+09:24	25,3	At T-korsning 51/Tallvägen, stay on 51 [Bergslagsvägen] (East)	0,6 km	
+09:25	25,9	At T-korsning 51/Lasarettsv., stay on 51 [Bergslagsvägen] (South-East)	0,6 km	
+09:26	26,4	Arrive Norrköpingsvägen, 612 30 Finspång		
+
+SUMMARY
+Driving distance:  26,4 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  35,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,7 kilometres (26 minutes)
+09:00	0,0	Depart T-korsning Rv51/Lv215 on 51 [Norrköpingsvägen] (North)	0,8 km	
+09:01	0,8	At T-korsning 51/Lasarettsv., stay on 51 [Bergslagsvägen] (North-West)	0,6 km	
+09:02	1,3	At T-korsning 51/Tallvägen, stay on 51 [Bergslagsvägen] (West)	7,5 km	
+09:09	8,8	At Korsning Sonstorp, stay on 51 [Örebrovägen] (North-West)	3,6 km	
+09:13	12,4	At T-korsning Tallberga, stay on 51 [Örebrovägen] (North)	1,0 km	
+09:14	13,4	At T-korsning Hällestad K:a, stay on 51 [Örebrovägen] (North)	3,7 km	
+09:17	17,1	At T-korsning Prästköp, stay on 51 (North)	2,8 km	
+09:19	19,9	At Korsning Ljusfallshammar S, stay on 51 (North-West)	0,8 km	
+09:20	20,7	At T-korsning Ljusfallshammar C, stay on 51 (North-West)	0,9 km	
+09:21	21,6	At Korsning Ljusfallshammar N, stay on 51 [Örebrovägen] (West)	4,7 km	
+09:26	26,3	At Örmon Karlstorp 106, 610 10 Ljusfallshammar, stay on 51 [Örmon Karlstorp] (North)	0,3 km	
+09:26	26,7	Arrive T-korsning Trolleflod		
+
+SUMMARY
+Driving distance:  26,7 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  35,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,3 kilometres (22 minutes)
+09:00	0,0	Depart Norrköpingsvägen, 612 30 Finspång on Local road(s) (South)	30 m	
+09:00	0,1	Turn RIGHT (South) onto 51 [Norrköpingsvägen]	0,6 km	
+09:00	0,6	At Korsning 51/Finnvedsvägen, stay on 51 [Norrköpingsvägen] (East)	0,6 km	
+09:01	1,3	At Korsning 51/Slottsvägen, stay on 51 [Norrköpingsvägen] (East)	0,4 km	
+09:02	1,7	At T-korsning OKQ8, stay on 51 [Norrköpingsvägen] (East)	0,9 km	
+09:03	2,6	At roundabout, take the SECOND exit onto 51 [Norrköpingsvägen]	0,8 km	
+09:04	3,4	Keep RIGHT onto Local road(s)	90 m	
+09:04	3,4	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:04	3,5	Bear RIGHT (East) onto 51 [Norrköpingsvägen]	1,4 km	
+09:05	4,9	At T-korsning Risinge kyrka, stay on 51 (East)	1,3 km	
+09:06	6,2	At T-korsning Lotorps vägkors, stay on 51 (East)	3,8 km	
+09:09	10,0	At T-korsning Vistinge, stay on 51 (South-East)	2,8 km	
+09:11	12,8	At T-korsning Solklint, stay on 51 [Finspångsvägen] (East)	1,9 km	
+09:12	14,7	At Finspångsvägen, 605 98 Norrköping, stay on 51 [Finspångsvägen] (East)	5,8 km	
+09:17	20,4	At Finspångsvägen, 605 98 Svärtinge, stay on 51 [Finspångsvägen] (East)	2,9 km	
+09:19	23,3	At roundabout, take the SECOND exit onto 51 [Finspångsvägen]	3,0 km	
+09:22	26,3	Arrive 51, 605 99 Norrköping		
+
+SUMMARY
+Driving distance:  26,3 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  33,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,5 kilometres (21 minutes)
+09:00	0,0	Depart near Kvillinge on 51 (West)	3,3 km	
+09:02	3,3	At roundabout, take the SECOND exit onto 51 [Finspångsvägen]	2,8 km	
+09:05	6,1	At Finspångsvägen, 605 98 Svärtinge, stay on 51 [Finspångsvägen] (West)	5,9 km	
+09:09	12,0	At Finspångsvägen, 605 98 Norrköping, stay on 51 [Finspångsvägen] (West)	0,9 km	
+09:10	12,9	At T-korsning Solklint, stay on 51 (West)	2,8 km	
+09:12	15,8	At T-korsning Vistinge, stay on 51 (North-West)	3,8 km	
+09:15	19,5	At T-korsning Lotorps vägkors, stay on 51 (West)	1,3 km	
+09:16	20,8	At T-korsning Risinge kyrka, stay on 51 (West)	1,4 km	
+09:17	22,2	Keep RIGHT onto Local road(s)	60 m	
+09:17	22,2	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:17	22,4	Bear RIGHT (West) onto 51 [Norrköpingsvägen]	0,7 km	
+09:18	23,1	At roundabout, take the SECOND exit onto 51 [Norrköpingsvägen]	0,8 km	
+09:19	23,9	At T-korsning OKQ8, stay on 51 [Norrköpingsvägen] (West)	0,6 km	
+09:20	24,5	At Korsning 51/Slottsvägen, stay on 51 [Skutenbron] (West)	0,6 km	
+09:20	25,1	At Korsning 51/Finnvedsvägen, stay on 51 [Norrköpingsvägen] (West)	0,4 km	
+09:21	25,5	Arrive T-korsning Rv51/Lv215		
+
+SUMMARY
+Driving distance:  25,5 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  32,25 kr
+
+3.0 km/2.9 km	2 min 34 s/2 min 29 s
+1.3 km/1.3 km	1 min 7 s/1 min 7 s
+2.4 km/2.6 km	2 min 3 s/2 min 14 s
+
+0.9 km/0.8 km	1 min 5 s/0 min 58 s
+
+5.9 km/5.9 km	5 min 3 s/5 min 3 s
+0.5 km/0.5 km	26 s/26 s
+
+6.9 km/6.9 km	5 min 11 s/5 min 11 s
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+3.2 km/3.2 km	2 min 24 s/2 min 24 s
+0.8 km/0.8 km	36 s/36 s
+
+0.5 km/0.5 km	36 s/36 s
+0.3 km/0.5 km	22 s/36 s
+
+6.5 km/6.3 km	5 min 34 s/5 min 24 s
+4.0 km/4.0 km	3 min 26 s/3 min 26 s
+
+0.3 km/0.3 km	15 s/15 s
+4.7 km/4.7 km	4 min 2 s/4 min 2 s
+
+0.9 km/0.9 km	1 min 5 s/1 min 5 s
+0.8 km/0.8 km	58 s/58 s
+
+2.8 km/2.8 km	2 min 24 s/2 min 24 s
+3.4 km/3.7 km	2 min 55 s/3 min 10 s
+1.3 km/1.0 km	1 min 7 s/0 min 51 s
+3.6 km/3.6 km	3 min 5 s/3 min 5 s
+7.5 km/7.5 km	6 min 26 s/6 min 26 s
+
+0.6 km/0.6 km	43 s/43 s
+0.6 km/0.8 km	43 s/58 s
+
+0.6 km/0.4 km	43 s/29 s
+0.6 km/0.6 km	43 s/43 s
+0.4 km/0.6 km	29 s/43 s
+0.9 km/0.8 km	1 min 5 s/0 min 58 s
+0.8 km/0.9 km	0 min 58 s/1 min 5 s
+
+1.5 km/1.4 km	1 min 17 s/1 min 12 s
+
+1.3 km/1.3 km	59 s/59 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+
+1.9 km/0.9 km	1 min 26 s/0 min 41 s
+5.8 km/5.9 km	4 min 21 s/4 min 26 s
+2.9 km/2.8 km	2 min 11 s/2 min 6 s
+
+3.0 km/3.3 km	2 min 15 s/2 min 28 s

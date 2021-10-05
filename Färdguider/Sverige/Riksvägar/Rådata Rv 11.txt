@@ -1,0 +1,127 @@
+Time	Km	Instruction	For	Toward
+Summary:  18,6 kilometres (13 minutes)
+09:00	0,0	Depart Inre Ringvägen, 212 23 Malmö on Ramp (East)	0,5 km	11 / E6 / E20 / E22 / Simrishamn / Staffanstorp / Toftanäs
+09:00	0,5	Road name changes to 11	0,9 km	
+09:00	1,4	At 11, 212 43 Malmö, stay on 11 (East)	1,1 km	
+09:01	2,6	At 11, 232 91 Arlöv, keep STRAIGHT onto Ramp	0,3 km	E6 / E20 / E22 / Göteborg / Kalmar / Trelleborg / Köpenhamn / Nordanå / Sunnanå
+09:01	2,9	Keep LEFT to stay on Ramp	1,0 km	Nordanå / Sunnanå
+09:02	3,9	Keep LEFT to stay on Ramp	0,5 km	11 / Simrishamn / Staffanstorp
+09:02	4,3	Keep STRAIGHT onto 11 [Johan Anders Väg]	1,9 km	
+09:04	6,2	At Korsning Särslöv, stay on 11 (East)	1,9 km	
+09:05	8,1	At roundabout, take the SECOND exit onto 11	3,4 km	
+09:08	11,5	At 11, 245 45 Staffanstorp, keep STRAIGHT to stay on 11	2,6 km	
+09:10	14,1	At 11, 245 92 Kyrkheddinge, stay on 11 (East)	2,2 km	
+09:11	16,3	At Korsning, stay on 11 (East)	2,3 km	
+09:13	18,6	Arrive 11, 240 10 Dalby		
+
+SUMMARY
+Driving distance:  18,6 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  25,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,3 kilometres (13 minutes)
+09:00	0,0	Depart 11, 240 10 Dalby on Local road(s) (North)	0,2 km	
+09:00	0,2	Bear RIGHT (South-West) onto 11	2,0 km	
+09:01	2,2	At 11, 240 10 Dalby, stay on 11 (West)	0,3 km	
+09:01	2,5	At Korsning, stay on 11 (West)	2,1 km	
+09:03	4,6	At 11, 245 92 Kyrkheddinge, stay on 11 (West)	1,8 km	
+09:04	6,4	At 11, 245 45 Staffanstorp, stay on 11 (West)	4,2 km	
+09:08	10,6	At roundabout, take the SECOND exit onto 11	2,0 km	
+09:09	12,6	At Korsning Särslöv, stay on 11 (West)	1,9 km	
+09:11	14,5	At near Sunnanå, stay on 11 (West)	2,6 km	
+09:12	17,0	At 11, 232 91 Arlöv, stay on 11 (West)	1,3 km	
+09:13	18,3	Arrive 11, 212 23 Malmö		
+
+SUMMARY
+Driving distance:  18,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  24,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,2 kilometres (18 minutes)
+09:00	0,0	Depart 11, 240 10 Dalby on 11 (East)	1,2 km	
+09:00	1,2	At 11, 240 10 Dalby, stay on 11 (East)	0,9 km	
+09:01	2,1	At 11, 240 10 Dalby, stay on 11 (East)	0,5 km	
+09:02	2,6	At T-korsning Önneslöv, stay on 11 (East)	2,7 km	
+09:04	5,3	At T-korsning Knivåsen, stay on 11 (North-East)	0,4 km	
+09:04	5,8	At Korsning Knivås, stay on 11 (East)	1,7 km	
+09:05	7,5	At Korsning Vasaholm, stay on 11 (East)	1,2 km	
+09:06	8,7	At T-korsning Skälbäck, stay on 11 (East)	0,7 km	
+09:07	9,3	At 11, 240 14 Veberöd, stay on 11 (East)	2,0 km	
+09:08	11,4	At T-korsning, stay on 11 (East)	0,4 km	
+09:09	11,8	At Korsning Veberöd N, stay on 11 (East)	2,5 km	
+09:11	14,2	At T-korsning Vomb, stay on 11 (East)	3,7 km	
+09:14	17,9	At T-korsning Klostersågen, stay on 11 [Klostersågen] (East)	0,6 km	
+09:14	18,5	At 11, 275 94 Sjöbo, stay on 11 (East)	2,9 km	
+09:16	21,4	At T-korsning Sjöbo sommarby, stay on 11 (East)	1,8 km	
+09:18	23,2	Arrive 11, 275 39 Sjöbo		
+
+SUMMARY
+Driving distance:  23,2 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  27,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,3 kilometres (18 minutes)
+09:00	0,0	Depart 11, 275 39 Sjöbo on Local road(s) (East)	0,1 km	
+09:00	0,1	Bear RIGHT (West) onto 11	1,8 km	
+09:01	1,9	At T-korsning Sjöbo sommarby, stay on 11 (West)	3,0 km	
+09:04	4,9	At 11, 275 94 Sjöbo, stay on 11 (West)	0,6 km	
+09:04	5,5	At T-korsning Klostersågen, stay on 11 (West)	3,5 km	
+09:07	9,0	At T-korsning Vomb, stay on 11 (West)	2,6 km	
+09:09	11,6	At Korsning Veberöd N, stay on 11 (West)	0,4 km	
+09:10	12,0	At T-korsning, stay on 11 (West)	2,0 km	
+09:11	14,0	At 11, 240 14 Veberöd, stay on 11 (West)	0,7 km	
+09:12	14,7	At T-korsning Skälbäck, stay on 11 (West)	1,2 km	
+09:13	15,9	At Korsning Vasaholm, stay on 11 (West)	1,7 km	
+09:14	17,6	At Korsning Knivås, stay on 11 (West)	0,4 km	
+09:14	18,0	At T-korsning Knivåsen, stay on 11 (South-West)	2,6 km	
+09:16	20,6	At 11, 240 10 Genarp, stay on 11 (West)	0,5 km	
+09:16	21,1	At 11, 240 10 Dalby, stay on 11 (West)	0,6 km	
+09:17	21,8	At 11, 240 10 Dalby, stay on 11 (West)	1,5 km	
+09:18	23,3	Arrive 11, 240 10 Dalby		
+
+SUMMARY
+Driving distance:  23,3 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  28,13 kr
+
+
+Malmö - Särslöv
+1.4 km/1.3 km	56 s/52 s
+1.1 km/2.6 km	0 min 44 s/1 min 44 s
+3.6 km/1.9 km	2 min 24 s/1 min 16 s
+
+Särslöv - Staffanstorp
+1.9 km/2.0 km	1 min 26 s/1 min 30 s
+
+Staffanstorp - Dalby
+3.4 km/4.2 km	2 min 16 s/2 min 48 s
+2.6 km/1.8 km	1 min 44 s/1 min 12 s
+2.2 km/2.1 km	1 min 28 s/1 min 24 s
+0.3 km/0.3 km	12 s/12 s
+2.0 km/2.2 km	1 min 20 s/1 min 28 s
+
+Dalby - Sjöbo
+1.2 km/0.6 km	48 s/24 s
+0.9 km/0.5 km	36 s/20 s
+0.5 km/2.6 km	0 min 20 s/1 min 44 s
+2.7 km/0.4 km	1 min 48 s/0 min 16 s
+0.4 km/1.7 km	0 min 16 s/1 min 8 s
+1.7 km/1.2 km	1 min 8 s/0 min 48 s
+1.2 km/0.7 km	48 s/28 s
+0.7 km/2.0 km	0 min 28 s/1 min 20 s
+2.0 km/0.4 km	1 min 20 s/0 min 16 s
+0.4 km/2.6 km	0 min 16 s/1 min 44 s
+2.5 km/3.5 km	1 min 40 s/2 min 20 s
+3.7 km/0.6 km	2 min 28 s/0 min 24 s
+0.6 km/3.0 km	0 min 24 s/2 min 0 s
+2.9 km/1.9 km	1 min 56 s/1 min 16 s
+
+Sommarstad - Sjöbo
+1.8 km/1.5 km	1 min 21 s/1 min 8 s

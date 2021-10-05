@@ -1,0 +1,352 @@
+Time	Km	Instruction	For	Toward
+Summary:  16,9 kilometres (12 minutes)
+09:00	0,0	Depart Salavägen, 745 37 Enköping on Salavägen (North)	0,1 km	
+09:00	0,1	Road name changes to 70 [Salavägen]	2,2 km	
+09:01	2,3	At T-korsning Rekesta, stay on 70 (North-West)	1,7 km	
+09:03	4,0	At T-korsning Vårfru vägskäl, stay on 70 (North)	3,4 km	
+09:05	7,5	At Korsning Lådö, stay on 70 (West)	4,4 km	
+09:09	11,9	At T-korsning Härnevi vägskäl, stay on 70 (North)	0,7 km	
+09:09	12,6	At T-korsning Frösthult kyrka, stay on 70 (North)	0,7 km	
+09:10	13,3	At T-korsning Siggesta vägskäl, stay on 70 (North)	0,5 km	
+09:10	13,8	At T-korsning, stay on 70 (North)	0,5 km	
+09:11	14,3	At T-korsning Gästre Rv70, stay on 70 (North-West)	2,1 km	
+09:12	16,4	At T-korsning Karleby vägskäl, stay on 70 (North)	0,5 km	
+09:12	16,9	Arrive T-korsning Rv70/Lv254		
+
+SUMMARY
+Driving distance:  16,9 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,1 kilometres (12 minutes)
+09:00	0,0	Depart T-korsning Rv70/Lv254 on 70 (South)	0,5 km	
+09:00	0,5	At T-korsning Karleby vägskäl, stay on 70 (South-East)	2,1 km	
+09:01	2,5	At T-korsning Gästre Rv70, stay on 70 (South-East)	0,5 km	
+09:02	3,1	At T-korsning, stay on 70 (South)	0,5 km	
+09:02	3,5	At T-korsning Siggesta vägskäl, stay on 70 (South)	0,7 km	
+09:03	4,3	At T-korsning Frösthult kyrka, stay on 70 (South)	0,7 km	
+09:03	5,0	At T-korsning Härnevi vägskäl, stay on 70 (South)	4,4 km	
+09:07	9,4	At Korsning Lådö, stay on 70 (East)	3,4 km	
+09:09	12,8	At T-korsning Vårfru vägskäl, stay on 70 (South)	1,7 km	
+09:10	14,5	At T-korsning Rekesta, stay on 70 (South-East)	1,6 km	
+09:12	16,1	Arrive Korsning Torstuna vägskäl		
+
+SUMMARY
+Driving distance:  16,1 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  18,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,6 kilometres (18 minutes)
+09:00	0,0	Depart T-korsning Rv70/Lv254 on 70 (North)	0,3 km	
+09:00	0,3	At T-korsning Simtuna K:a, stay on 70 (West)	1,4 km	
+09:01	1,7	At T-korsning, stay on 70 (West)	1,3 km	
+09:02	3,0	At Korsning Karleby, stay on 70 (West)	4,9 km	
+09:07	8,0	At T-korsning Gölja, stay on 70 (North-West)	0,9 km	
+09:07	8,8	At T-korsning Bännebo, stay on 70 (North)	2,9 km	
+09:10	11,7	At T-korsning Tärna K:a, stay on 70 (West)	2,4 km	
+09:11	14,0	At T-korsning Tärnaby, stay on 70 (West)	4,4 km	
+09:15	18,4	At Korsning, stay on 70 (West)	0,3 km	
+09:15	18,8	At near Tärna, stay on 70 (West)	0,6 km	
+09:16	19,4	At T-korsning Liljansberg, stay on 70 (North)	3,2 km	
+09:18	22,6	Arrive 70, 733 93 Sala		
+
+SUMMARY
+Driving distance:  22,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  25,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,6 kilometres (18 minutes)
+09:00	0,0	Depart 70, 733 93 Sala on Local road(s) (East)	10 m	
+09:00	0,1	Bear RIGHT (East) onto 70	3,2 km	
+09:02	3,2	At T-korsning Liljansberg, stay on 70 (South)	0,5 km	
+09:03	3,7	At T-korsning, stay on 70 (South-East)	0,5 km	
+09:03	4,2	At Korsning, stay on 70 (East)	4,4 km	
+09:06	8,6	At T-korsning Tärnaby, stay on 70 (East)	2,4 km	
+09:08	10,9	At T-korsning Tärna K:a, stay on 70 (East)	2,9 km	
+09:10	13,8	At T-korsning Bännebo, stay on 70 (South)	0,9 km	
+09:11	14,7	At T-korsning Gölja, stay on 70 (South-East)	4,9 km	
+09:16	19,6	At Korsning Karleby, stay on 70 (East)	1,3 km	
+09:17	20,9	At T-korsning, stay on 70 (East)	1,2 km	
+09:18	22,1	At near Fjärdhundra, stay on 70 [Simtuna Klockargården] (East)	0,5 km	
+09:18	22,6	Arrive T-korsning Rv70/Lv254		
+
+SUMMARY
+Driving distance:  22,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  25,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,2 kilometres (31 minutes)
+09:00	0,0	Depart 70, 733 93 Sala on Local road(s) (North)	80 m	
+09:00	0,1	Bear RIGHT (South-West) onto 56 [70]	3,5 km	
+09:02	3,5	At roundabout, take the SECOND exit onto 70	2,7 km	
+09:04	6,2	At 70, 733 94 Sala, stay on 70 (North)	7,5 km	
+09:10	13,8	At T-korsning, stay on 70 (North)	2,3 km	
+09:12	16,1	At Korsning Broddby Rv70, stay on 70 (North)	6,7 km	
+09:17	22,8	At T-korsning Jordbron, stay on 70 (North-West)	2,0 km	
+09:18	24,8	At T-korsning, stay on 70 (North)	3,4 km	
+09:21	28,1	At Korsning, stay on 70 (North)	1,5 km	
+09:22	29,6	At 70, 775 96 Västerfärnebo, stay on 70 (North)	1,0 km	
+09:23	30,6	At Korsning Brovallen S, stay on 70 (North)	0,7 km	
+09:23	31,3	At near Igeltjärna, stay on 70 (North)	2,3 km	
+09:25	33,7	At Korsning Brovallen N, stay on 70 (North)	2,8 km	
+09:27	36,5	At T-korsning, stay on 70 (North-West)	0,9 km	
+09:28	37,4	At 70, 775 96 Krylbo, stay on 70 (North-West)	2,3 km	
+09:29	39,6	At 70, 775 50 Krylbo, road name changes to 68 [70]	1,6 km	
+09:31	41,2	Arrive 70, 774 61 Avesta		
+
+SUMMARY
+Driving distance:  41,2 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  47,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,5 kilometres (31 minutes)
+09:00	0,0	Depart 70, 774 61 Avesta on 70 (South-East)	0,4 km	
+09:00	0,4	Road name changes to 68 [70]	1,5 km	
+09:01	1,9	At 70, 774 92 Avesta, stay on 68 [70] (South-East)	0,1 km	
+09:01	2,1	Road name changes to 70	1,6 km	
+09:02	3,6	At 70, 775 96 Krylbo, stay on 70 (East)	1,6 km	
+09:03	5,2	At T-korsning, stay on 70 (South-East)	2,8 km	
+09:06	8,0	At Korsning Brovallen N, stay on 70 (South)	2,3 km	
+09:07	10,3	At near Igeltjärna, stay on 70 (South)	0,6 km	
+09:08	10,9	At Korsning Brovallen S, stay on 70 (South)	0,4 km	
+09:08	11,3	At 70, 775 96 Krylbo, stay on 70 (South)	2,1 km	
+09:10	13,4	At Korsning, stay on 70 (South)	3,4 km	
+09:12	16,8	At T-korsning, stay on 70 (South)	2,0 km	
+09:14	18,7	At T-korsning Jordbron, stay on 70 (South-East)	6,7 km	
+09:19	25,4	At Korsning Broddby Rv70, stay on 70 (South)	2,3 km	
+09:20	27,8	At T-korsning, stay on 70 (South)	7,2 km	
+09:26	35,0	At 70, 733 94 Sala, stay on 70 (South)	2,9 km	
+09:28	37,9	At roundabout, take the SECOND exit onto 56 [70]	3,5 km	
+09:31	41,5	Arrive 70, 733 93 Sala		
+
+SUMMARY
+Driving distance:  41,5 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  47,67 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,5 kilometres (16 minutes)
+09:00	0,0	Depart 70, 774 92 Avesta on 68 [70] (West)	40 m	
+09:00	0,1	Road name changes to 70	1,9 km	
+09:01	1,9	At 70, 774 60 Avesta, stay on 70 (West)	6,3 km	
+09:06	8,2	At T-korsning Saxbovägen, stay on 70 (North-West)	1,3 km	
+09:07	9,5	At 70, 774 92 Avesta, stay on 70 (West)	0,9 km	
+09:07	10,4	At near Stensbo, stay on 70 (West)	3,0 km	
+09:10	13,4	At Korsning Grådö såg, stay on 70 (North)	1,0 km	
+09:10	14,4	At near Grådö, stay on 70 (North)	2,5 km	
+09:12	16,9	At 70, 776 92 Hedemora, stay on 70 (North)	2,9 km	
+09:15	19,8	At roundabout, take the SECOND exit onto 70	1,6 km	
+09:16	21,5	Arrive 70, 776 33 Hedemora		
+
+SUMMARY
+Driving distance:  21,5 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  29,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,1 kilometres (16 minutes)
+09:00	0,0	Depart 70, 776 33 Hedemora on Local road(s) (South-West)	80 m	
+09:00	0,1	Turn RIGHT (South) onto 70	1,6 km	
+09:01	1,7	At roundabout, take the SECOND exit onto 70 [270]	3,2 km	
+09:04	4,9	At 70, 776 92 Hedemora, stay on 70 (South)	2,1 km	
+09:05	7,0	At Gränslund Vretboviken, 776 92 Hedemora, stay on 70 (South)	1,2 km	
+09:06	8,2	At Korsning Grådö såg, stay on 70 (South)	3,0 km	
+09:09	11,2	At near Stensbo, stay on 70 (East)	0,7 km	
+09:09	11,9	At 70, 774 92 Avesta, stay on 70 (South-East)	1,4 km	
+09:10	13,3	At T-korsning Saxbovägen, stay on 70 (South-East)	6,0 km	
+09:15	19,4	At 70, 774 62 Avesta, stay on 70 (East)	1,8 km	
+09:16	21,1	Arrive 70, 774 61 Avesta		
+
+SUMMARY
+Driving distance:  21,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  28,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,5 kilometres (11 minutes)
+09:00	0,0	Depart 70, 776 33 Hedemora on Local road(s) (East)	90 m	
+09:00	0,1	Turn RIGHT (North-West) onto 70	3,7 km	
+09:03	3,8	At T-korsning Kärringtjärn, stay on 70 (West)	0,9 km	
+09:03	4,7	At Korsning Hjulbackatjärnen, stay on 70 (West)	3,8 km	
+09:06	8,5	At Korsning Tjärnan Rv70, stay on 70 (West)	1,8 km	
+09:07	10,3	At 70, 783 90 Kullsveden, stay on 70 (West)	1,6 km	
+09:09	11,9	At T-korsning Nisshyttev., stay on 70 (West)	0,4 km	
+09:09	12,3	At Rondell Rutbo, stay on 70 (West)	1,1 km	
+09:10	13,4	At roundabout, take the SECOND exit onto 70	0,8 km	
+09:11	14,1	At Korsning Säter OKQ8, stay on 70 (West)	0,4 km	
+09:11	14,5	Arrive T-korsning Säter Statoil		
+
+SUMMARY
+Driving distance:  14,5 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,4 kilometres (11 minutes)
+09:00	0,0	Depart T-korsning Säter Statoil on 70 (South)	0,4 km	
+09:00	0,4	At Korsning Säter OKQ8, stay on 70 (East)	0,8 km	
+09:01	1,1	At roundabout, take the SECOND exit onto 70	1,1 km	
+09:02	2,2	At Rondell Rutbo, stay on 70 (East)	0,3 km	
+09:02	2,5	At 70, 783 90 Säter, stay on 70 (East)	1,7 km	
+09:03	4,2	At 70, 783 90 Säter, stay on 70 (East)	1,8 km	
+09:04	6,0	At near Kullsveden, stay on 70 (East)	3,8 km	
+09:07	9,8	At Korsning Hjulbackatjärnen, stay on 70 (East)	0,7 km	
+09:08	10,5	At T-korsning Kärringtjärn, stay on 70 (East)	3,9 km	
+09:11	14,4	Arrive 70, 776 33 Hedemora		
+
+SUMMARY
+Driving distance:  14,4 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,12 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,0 kilometres (16 minutes)
+09:00	0,0	Depart T-korsning Säter Statoil on 70 (North)	5,2 km	
+09:03	5,2	At 70, 783 95 Gustafs, stay on 70 (West)	6,0 km	
+09:07	11,2	At 70, 783 50 Gustafs, stay on 70 (West)	2,0 km	
+09:08	13,2	At 70, 783 50 Gustafs, stay on 70 (West)	1,8 km	
+09:09	15,0	At 70, 781 93 Romme, stay on 70 (North-West)	1,7 km	
+09:10	16,8	At 70, 781 93 Romme, stay on 70 (North-West)	2,1 km	
+09:12	18,8	At T-korsning Romme norra, stay on 70 (North-West)	0,3 km	
+09:12	19,1	At T-korsning, stay on 70 (North-West)	0,5 km	
+09:13	19,6	At 70, 784 63 Borlänge, stay on 70 (West)	1,0 km	
+09:14	20,6	At Korsning Gruvkarlby Rv70, stay on 70 (North)	1,4 km	
+09:15	22,0	At roundabout, take the SECOND exit onto 70	1,1 km	
+09:16	23,0	Arrive 70, 784 36 Borlänge		
+
+SUMMARY
+Driving distance:  23,0 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  30,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (16 minutes)
+09:00	0,0	Depart Grådarondellen, 784 35 Borlänge on Grådarondellen (East)	30 m	
+09:00	0,1	Bear RIGHT (South-East) onto 70	1,0 km	
+09:01	1,0	At roundabout, take the SECOND exit onto 70	1,5 km	
+09:02	2,5	At Korsning Gruvkarlby Rv70, stay on 70 (South)	1,0 km	
+09:03	3,5	At near Gruvkarlby, stay on 70 (East)	0,6 km	
+09:03	4,0	At T-korsning, stay on 70 (South-East)	0,3 km	
+09:03	4,3	At T-korsning Romme norra, stay on 70 (South-East)	1,5 km	
+09:05	5,8	At 70, 781 73 Romme, stay on 70 [Trafikplats Romme] (South)	2,3 km	
+09:06	8,1	At 70, 781 93 Romme, stay on 70 (South-East)	1,1 km	
+09:07	9,1	At 70, 783 50 Gustafs, stay on 70 (East)	2,1 km	
+09:08	11,3	At 70, 783 50 Gustafs, stay on 70 (East)	5,8 km	
+09:12	17,0	At 70, 783 95 Gustafs, stay on 70 (East)	6,1 km	
+09:16	23,1	Arrive T-korsning Säter Statoil		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  30,92 kr
+
+
+Enköping - Fjärdhundra
+2.3 km/1.6 km	1 min 43 s/1 min 12 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+3.4 km/3.4 km	2 min 33 s/2 min 33 s
+4.4 km/4.4 km	3 min 18 s/3 min 18 s
+0.7 km/0.7 km	31 s/31 s
+0.7 km/0.7 km	31 s/31 s
+0.5 km/0.5 km	23 s/23 s
+0.5 km/0.5 km	23 s/23 s
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+0.5 km/0.5 km	23 s/23 s
+
+Fjärdhundra - Kumla Kyrkby
+0.3 km/0.5 km	14 s/23 s
+1.4 km/1.2 km	1 min 3 s/0 min 54 s
+1.3 km/1.3 km	59 s/59 s
+4.9 km/4.9 km	3 min 41 s/3 min 41 s
+0.9 km/0.9 km	41 s/41 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+4.4 km/4.4 km	3 min 18 s/3 min 18 s
+
+Kumla Krykby - Hättkärr
+0.3 km/0.5 km	15 s/26 s
+0.6 km/0.5 km	31 s/26 s
+3.2 km/3.2 km	2 min 45 s/2 min 45 s
+
+Hättkärr - Evelund
+3.5 km/3.5 km	2 min 20 s/2 min 20 s
+
+Evelund - Broddby
+2.7 km/2.9 km	1 min 48 s/1 min 56 s
+7.5 km/7.2 km	5 min 0 s/4 min 48 s
+2.3 km/2.3 km	1 min 32 s/1 min 32 s
+
+Broddby - Avesta
+6.7 km/6.7 km	5 min 2 s/5 min 2 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+3.4 km/3.4 km	2 min 33 s/2 min 33 s
+1.5 km/2.1 km	1 min 8 s/1 min 35 s
+1.0 km/0.4 km	45 s/18 s
+0.7 km/0.6 km	31 s/27 s
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+0.9 km/1.6 km	0 min 41 s/1 min 12 s
+2.3 km/1.7 km	1 min 43 s/1 min 17 s
+1.6 km/1.9 km	1 min 12 s/1 min 26 s
+
+Avesta - Hedemora
+1.9 km/1.8 km	1 min 26 s/1 min 21 s
+6.3 km/6.0 km	4 min 44 s/4 min 30 s
+1.3 km/1.4 km	0 min 59 s/1 min 3 s
+0.9 km/0.7 km	41 s/31 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+1.0 km/1.2 km	45 s/54 s
+2.5 km/2.1 km	1 min 53 s/1 min 35 s
+2.9 km/3.2 km	2 min 11 s/2 min 24 s
+
+1.6 km/1.7 km	1 min 22 s/1 min 27 s
+
+Hedemora - Säter industrig.
+3.8 km/3.9 km	2 min 32 s/2 min 36 s
+0.9 km/0.7 km	36 s/28 s
+3.8 km/3.8 km	2 min 32 s/2 min 32 s
+1.8 km/1.8 km	1 min 12 s/1 min 12 s
+1.6 km/1.7 km	1 min 4 s/1 min 8 s
+0.4 km/0.3 km	16 s/12 s
+1.1 km/1.1 km	44 s/44 s
+
+Säter industrig. - Statoil
+0.8 km/0.8 km	58 s/58 s
+0.4 km/0.4 km	29 s/29 s
+
+Säter Statoil - Solvarbo
+5.2 km/6.1 km	3 min 28 s/4 min 4 s
+
+Solvarbo - Romme
+6.0 km/5.8 km	3 min 36 s/3 min 29 s
+2.0 km/2.1 km	1 min 12 s/1 min 16 s
+1.8 km/1.1 km	1 min 5 s/0 min 40 s
+1.7 km/2.3 km	1 min 1 s/1 min 23 s
+2.1 km/1.5 km	1 min 16 s/0 min 54 s
+
+Romme - Gyllerondellen
+0.3 km/0.3 km	14 s/14 s
+0.5 km/0.6 km	23 s/27 s
+1.0 km/1.0 km	45 s/45 s
+1.4 km/1.5 km	1 min 3 s/1 min 8 s
+
+Gyllerondellen - Grådarondellen
+
+1.1 km/1.0 km	57 s/51 s

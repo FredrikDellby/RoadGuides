@@ -1,0 +1,56 @@
+Vislandavägen Ljungby - Rv 23
+==============================
+
+T-korsning Drottninggatan
+ [E4 s], [25 v]
+ [E4 n], [25 ö]
+				0,6 km/0,6 km
+Rondell Ljungby C
+ [E4 s], [25 v]
+				0,7 km/0,7 km
+Korsning
+ Lokalväg
+Bensinstation: Preem
+				1,1 km/1,1 km
+Rondell Ljungby Ö
+ [E4 n]
+				5,3 km/5,2 km
+T-korsning Tutaryd
+ Össjö
+ Tutaryd
+				5,0 km/5,0 km
+Dubbel T-korsning Boaryd
+ Agunnaryd
+ Ryssby
+				2,6 km/2,5 km
+T-korsning Ryssbyholm
+ Ryssby
+				4,4 km/4,5 km
+Dubbel T-korsning
+ Agunnaryd
+ Ryssby
+				2,8 km/2,7 km
+Ljungby / Alvesta
+				5,1 km/5,1 km
+T-korsning
+ Fållen
+				4,1 km/4,3 km
+T-korsning Vislanda V
+ Lindås, Eneryda
+ Hjortsberga
+				0,7 km/0,5 km
+T-korsning Vislanda
+ Eneryda, Lindås
+				0,3 km/0,3 km
+Rondell Vislanda
+ [126]: Alvesta
+				0,4 km/0,3 km
+Järnvägskorsning
+				0,7 km/0,8 km
+Korsning Vislanda Ö
+ 126 n: Alvesta
+ 126 s: Ryd
+				5,4 km/5,4 km
+T-korsning
+ 23 n: Växjö
+ 23 s: Älmhult

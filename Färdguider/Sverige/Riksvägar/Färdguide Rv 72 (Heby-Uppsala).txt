@@ -1,0 +1,67 @@
+Etapp 1: Heby - Österrunda (16,6 km/16,4 km)
+
+T-korsning Heby V
+ 56 s: Västerås, Sala
+ 56 n: Gävle
+					1.6 km/1.6 km	1 min 36 s/1 min 36 s
+Korsning Heby S
+ Centrum
+					0.7 km/0.7 km	42 s/42 s
+Korsning Heby SÖ
+ Centrum, Östervåla
+ Fjärdhundra
+Bensinstation: OKQ8, Statoil
+					4.2 km/4.2 km	3 min 36 s/3 min 36 s
+T-korsning Snesholm
+ Vansjö, Molnebo
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Morgongåva V
+ Vittinge K:a
+Bensinstation: OKQ8
+					0.4 km/0.4 km	29 s/29 s
+Korsning Morgongåva S
+Bensinstation: Preem
+					2.8 km/2.8 km	2 min 24 s/2 min 24 s
+Korsning Grimle vägskäl
+ Vittinge K:a
+					0.5 km/0.3 km	26 s/15 s
+Järnvägskorsning
+ Dalabanan
+					3.6 km/3.6 km	3 min 5 s/3 min 5 s
+T-korsning Vittinge
+ Vittinge K:a
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+T-korsning Österrunda vsk
+ Enköping
+
+Etapp 2: Österrunda - Uppsala (26,6 km/26,8 km)
+					0.8 km/0.8 km	36 s/36 s
+Korsning Björnlund
+ Järlåsa K:a
+					1.0 km/1.0 km	45 s/45 s
+Heby / Uppsala
+					4.2 km/4.2 km	3 min 36 s/3 min 36 s
+Korsning Järlåsa
+ Örsundsbro
+ Järlåsa K:a
+					4.1 km/4.1 km	3 min 31 s/3 min 31 s
+T-korsning Klöva vägskäl
+ Järlåsa K:a
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+T-korsning Ålandsdal
+ Skogs-Tibble, Ramstalund
+					4.7 km/4.7 km	3 min 32 s/3 min 32 s
+Järnvägskorsning
+					3.4 km/3.5 km	2 min 33 s/2 min 38 s
+T-korsning Vänge
+ Jumkil
+ Hagby
+					5.1 km/5.1 km	3 min 50 s/3 min 50 s
+T-korsning Läby V
+ Ramstalund
+					0.8 km/0.8 km	36 s/36 s
+T-korsning Läby Ö
+					1.2 km/1.3 km	54 s/59 s
+Korsning Kvarnbolund
+ 55 s: Norrköping, Enköping
+ 55 n: Uppsala Centrum

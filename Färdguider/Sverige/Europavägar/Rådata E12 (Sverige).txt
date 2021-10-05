@@ -1,0 +1,101 @@
+Time	Km	Instruction	For	Toward
+Summary:  15,7 kilometres (12 minutes)
+09:00	0,0	Depart T-korsning on E12 [BLÅ Vägen] (East)	1,2 km	
+09:01	1,2	At E12, 911 35 Vännäsby, stay on E12 [BLÅ Vägen] (East)	2,0 km	
+09:02	3,2	At T-korsning Vännäsby öst, stay on E12 [BLÅ Vägen] (East)	0,4 km	
+09:02	3,5	At near Spöland, stay on E12 [BLÅ Vägen] (East)	1,9 km	
+09:04	5,4	At Korsning Brattby N, stay on E12 [BLÅ Vägen] (South-East)	4,2 km	
+09:07	9,7	At BLÅ Vägen, 905 93 Umeå, stay on E12 [BLÅ Vägen] (East)	5,1 km	
+09:11	14,7	At Norrfors, 905 92 Umeå, stay on E12 [BLÅ Vägen] (East)	0,5 km	
+09:11	15,2	At Korsning Norrfors S, stay on E12 [BLÅ Vägen] (South-East)	0,5 km	
+09:12	15,7	Arrive near Brännland		
+
+SUMMARY
+Driving distance:  15,7 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  20,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,2 kilometres (11 minutes)
+09:00	0,0	Depart Korsning Norrfors S on E12 [BLÅ Vägen] (North-West)	0,8 km	
+09:00	0,8	At near Norrfors, stay on E12 [BLÅ Vägen] (West)	0,7 km	
+09:01	1,5	At BLÅ Vägen, 905 93 Umeå, stay on E12 [BLÅ Vägen] (West)	3,5 km	
+09:03	5,1	At BLÅ Vägen, 905 93 Umeå, stay on E12 [BLÅ Vägen] (West)	4,6 km	
+09:07	9,7	At BLÅ Vägen, 905 93 Umeå, stay on E12 [BLÅ Vägen] (North-West)	1,5 km	
+09:08	11,2	At near Spöland, stay on E12 [BLÅ Vägen] (West)	0,8 km	
+09:09	12,0	At T-korsning Vännäsby öst, stay on E12 [BLÅ Vägen] (West)	1,9 km	
+09:10	13,9	At T-korsning Vännäsby väst, stay on E12 [BLÅ Vägen] (West)	1,2 km	
+09:11	15,2	Arrive E12, 911 91 Vännäsby		
+
+SUMMARY
+Driving distance:  15,2 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,4 kilometres (11 minutes)
+09:00	0,0	Depart Norrfors, 905 92 Umeå on E12 [BLÅ Vägen] (East)	1,0 km	
+09:00	1,0	At BLÅ Vägen, 905 92 Umeå, stay on E12 [BLÅ Vägen] (South-East)	1,8 km	
+09:02	2,8	At T-korsning Stornorrforsen, stay on E12 [BLÅ Vägen] (South)	1,1 km	
+09:03	3,9	At T-korsning Kåddis N, stay on E12 [BLÅ Vägen] (South-East)	3,3 km	
+09:06	7,2	At Korsning Umedalen, stay on E12 [BLÅ Vägen] (East)	1,5 km	
+09:07	8,7	At T-korsning Grubbe E12, stay on E12 [BLÅ Vägen] (East)	2,3 km	
+09:09	11,0	At T-korsning E12/Backenv., stay on E12 [BLÅ Vägen] (East)	0,7 km	
+09:10	11,7	At roundabout, take the SECOND exit onto E12 [BLÅ Vägen]	0,7 km	
+09:11	12,4	Arrive BLÅ Vägen, 903 25 Umeå		
+
+SUMMARY
+Driving distance:  12,4 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  20,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,2 kilometres (11 minutes)
+09:00	0,0	Depart E4, 903 27 Umeå on Ramp (East)	0,1 km	
+09:00	0,1	Turn LEFT (North-West) onto E12 [BLÅ Vägen]	0,8 km	
+09:01	0,9	At roundabout, take the SECOND exit onto E12 [BLÅ Vägen]	0,8 km	
+09:02	1,7	At T-korsning E12/Backenv., stay on E12 [BLÅ Vägen] (West)	2,3 km	
+09:04	4,0	At T-korsning Grubbe E12, stay on E12 [BLÅ Vägen] (West)	1,5 km	
+09:05	5,5	At Korsning Umedalen, stay on E12 [BLÅ Vägen] (West)	3,3 km	
+09:08	8,8	At T-korsning Kåddis N, stay on E12 [BLÅ Vägen] (North-West)	1,1 km	
+09:09	9,9	At T-korsning Stornorrforsen, stay on E12 [BLÅ Vägen] (North)	1,8 km	
+09:10	11,6	At Korsning Brännland E12, stay on E12 [BLÅ Vägen] (North-West)	0,6 km	
+09:11	12,2	Arrive Korsning Norrfors S		
+
+SUMMARY
+Driving distance:  12,2 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  20,14 kr
+
+T-korsning - Vännänget
+1.2 km/1.2 km	1 min 2 s/1 min 2 s
+2.0 km/1.9 km	1 min 43 s/1 min 38 s
+0.4 km/0.3 km	0 min 21 s/0 min 15 s
+0.3 km/0.5 km	0 min 15 s/0 min 26 s
+
+Vännänget - Brattby N
+1.6 km/1.5 km	1 min 12 s/1 min 8 s
+
+Brattby N - Norrfors S
+4.2 km/4.6 km	2 min 31 s/2 min 46 s
+4.0 km/3.5 km	2 min 24 s/2 min 6 s
+0.7 km/0.7 km	0 min 25 s/0 min 25 s
+0.3 km/0.8 km	0 min 11 s/0 min 29 s
+
+Norrfors S - Umedalen
+1.0 km/0.6 km	0 min 45 s/0 min 27 s
+1.8 km/1.8 km	1 min 21 s/1 min 21 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+3.3 km/3.3 km	2 min 28 s/2 min 28 s
+
+Umedalen - E12/Backenv.
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+2.3 km/2.3 km	1 min 58 s/1 min 58 s
+
+E12/Backenv. - Trp Umeå Södra
+0.7 km/0.8 km	0 min 50 s/0 min 58 s
+0.7 km/0.9 km	0 min 50 s/1 min 5 s

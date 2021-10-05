@@ -1,0 +1,367 @@
+Resegide E6-E20 Göteborg - Malmö
+=================================
+
+Etapp 1: Olskroken - Kallebäck (2,9 km/2,3 km)
+
+Olskroksmotet (74)
+ E20: Stockholm
+ Olskroken
+			(E6)		1,0 km/0,8 km	40 s/32 s
+			(E20)		1.2 km/0.8 km	1 min 2 s/0 min 41 s
+Ullevimotet (73)
+ Göteborg C
+ Bensinstation: Preem (b), Statoil (b)
+(Gårdamotet (72))
+ Gårda N
+					0.7 km/0.9 km	36 s/46 s
+Örgrytemotet (71)
+ Gårda S
+ Örgryte
+					1.0 km/0.6 km	51 s/31 s
+Kallebäcksmotet-nord (70)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 40: Jönköping, Flygplats
+ Kallebäck
+
+Etapp 2: Kallebäck - Kungsbacka (23,2 km/23,5 km)
+					1.2 km/1.5 km	0 min 48 s/1 min 0 s
+Kallebäcksmotet-syd (70)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ [40]: Jönköping, Flygplats
+ Bensinstation: Shell (b), Ingo
+Göteborg / Mölndal
+					1.9 km/1.9 km	1 min 16 s/1 min 16 s
+Lackarebäcksmotet (68)
+ Mölndal N
+ Gunnebo slott
+ Bensinstation: Statoil (b)
+					1.1 km/0.7 km	44 s/28 s
+Mölndalsmotet (67)
+ Mölndal C
+					0,9 km/1,5 km	0 min 36 s/1 min 0 s
+Åbromotet (66)
+ Mölndal S
+ Göteborg V
+ [158]: Särö
+					1.8 km/1.8 km	59 s/59 s
+Rastplats Mölndal
+(nordgående riktning)
+ Turistinformation
+					0.8 km/0.7 km	26 s/23 s
+Torrekullamotet (65)
+ Kållered N
+					2,6 km/3,3 km	1 min 25 s/1 min 48 s
+Kålleredsmotet (63)
+ Kållered S
+ Kållered Köpstad
+ Bensinstation: OKQ8 (b)
+					4,0 km/2,7 km	2 min 11 s/1 min 28 s
+Lindomemotet (62)
+ Spårhaga
+ Lindome
+					1.6 km/2.9 km	0 min 52 s/1 min 35 s
+Rastplats Sandsjöbacka
+ Bensinstation: Shell (b)
+ Restaurang: Route 66
+  (sydgående riktning)
+(Västra Götaland / Halland)
+(Mölndal / Kungsbacka)
+					4.6 km/4.5 km	2 min 31 s/2 min 27 s
+Trp Kungsbacka Norra (61)
+ Kungsbacka N, Varla
+					2.8 km/2.1 km	1 min 32 s/1 min 9 s
+Trp Kungsbacka Centrum (60)
+ 158 n: Särö
+ 158 s: Kungsbacka C
+
+Etapp 3: Kungsbacka - Varberg-nord (40,5 km/41,0 km)
+					2,0 km/2,6 km	1 min 5 s/1 min 25 s
+Trp Kungsbacka Syd (59)
+ Onsala
+ Kungsbacka S
+ Restaurang: McDonald's, Laxbutiken
+					7,8 km/7,3 km	4 min 15 s/3 min 59 s
+Trp Fjärås (58)
+ Åsa
+ Fjärås
+ Bensinstation: Shell (b)
+ Camping
+					6,0 km/5,5 km	3 min 16 s/3 min 0 s
+Rastplats Torpasjön
+(nordgående riktning)
+ Kiosk
+ Information om Kungsbacka kommun
+Rastplats Ölmevallasjön
+(sydgående riktning)
+ Vägkök: Hos mamma
+					6,1 km/6,8 km	3 min 20 s/3 min 43 s
+Trp Frillesås (57)
+ Frillesås, Åsa
+					1,0 km/0,5 km	33 s/16 s
+Kungsbacka / Varberg
+					8,2 km/8,6 km	4 min 28 s/4 min 41 s
+Trp Värö (56)
+ Bua, Ringhals
+ Veddige
+					1.3 km/1.2 km	43 s/39 s
+Värötunneln
+					0.9 km/0.7 km	29 s/23 s
+Viskan
+					7.1 km/7.8 km	3 min 52 s/4 min 15 s
+Trp Varberg Nord (55)
+ 41 s: Varberg, Färja
+ 41 n: Borås
+ Bensinstation: Statoil (b)
+ Restaurang: The Chef
+
+Etapp 4: Varberg-Nord - Halmstad (69,6 km/69,7 km)
+					5,3 km/4,9 km	2 min 53 s/2 min 40 s
+Trp Åttabro (54)
+ Varberg Ö, C
+ 153: Värnamo, Ullared
+ Sjukhus
+					7,5 km/7,5 km	4 min 5 s/4 min 5 s
+Rastplats Himle
+ Bensinstation: OKQ8 (b)
+ Sommarland
+					1,7 km/1,7 km	56 s/56 s
+Trp Tvååker (53)
+ Varberg S
+ Tvååker
+					6,2 km/5,8 km	3 min 23 s/3 min 10 s
+Varberg / Falkenberg
+					2,4 km/2,8 km	1 min 19 s/1 min 32 s
+Trp Morup (52)
+ Morup, Långås
+					7,7 km/7,6 km	4 min 12 s/4 min 9 s
+Vinbergsmotet (51)
+ Falkenberg C
+ 154: Svenljunga
+ Bensinstation: Preem (b)
+ Restaurang: McDonald's
+					4.6 km/4.3 km	2 min 31 s/2 min 21 s
+Ätran
+					0.8 km/1.2 km	26 s/39 s
+Trp Falkenberg Södra (50)
+ Falkenberg S, C
+ 150: Torup
+ Bensinstation: Shell (b)
+ Rastplats Skrea Backe
+					2,3 km/2,3 km	1 min 15 s/1 min 15 s
+Trp Heberg (49)
+ Heberg, Skrea strand
+ Restaurang: Laxbutiken
+
+Suseån
+					5,8 km/6,1 km	3 min 10 s/3 min 20 s
+Trp Slöinge (48)
+ Slöinge
+					2,3 km/2,5 km	1 min 15 s/1 min 22 s
+Rastplats Susedalen
+ Café
+Falkenberg / Halmstad
+					4,4 km/4,0 km	2 min 24 s/2 min 11 s
+Trp Getinge (47)
+ Steninge
+					8,2 km/7,8 km	4 min 28 s/4 min 15 s
+Trp Kvibille (46)
+ Haverdal
+					6,5 km/7,1 km	3 min 33 s/3 min 52 s
+Trp Halmstad Norra (45)
+ Halmstad N, Centrum, Flygplats
+ 26: Jönköping
+					2,8 km/1,9 km	1 min 32 s/1 min 2 s
+Nissan
+					1,3 km/2,2 km	0 min 47 s/1 min 19 s
+Trp Halmstad Östra (44)
+ 25: Växjö
+ Bensinstation: OKQ8 (b)
+
+Etapp 5: Halmstad - Ängelholm (49,3 km/49,2 km)
+					2,8 km/1,9 km	1 min 41 s/1 min 8 s
+Trp Halmstad Södra (43)
+ Halmstad S, C
+ 15: Karlshamn, Markaryd
+ Rastplats Halmstad Eurostop
+ Bensinstation: Statoil (b), OKQ8 (b)
+ Restaurang: McDonald's, Max, Eurostop
+					1,9 km/1,9 km	1 min 8 s/1 min 8 s
+Fylleån
+					11,4 km/12,0 km	6 min 13 s/6 min 33 s
+Halmstad / Laholm
+Rastplats Snapparp
+Bensinstation: Statoil
+					1,2 km/0,7 km	39 s/23 s
+Lagan
+					2,7 km/3,5 km	1 min 28 s/1 min 55 s
+Trp Laholm (41)
+ Mellbystrand
+ 24: Hässleholm, Laholm
+ Bensinstation: OKQ8, Shell (b)
+ Restaurang: McDonald's
+					6,1 km/6,0 km	3 min 20 s/3 min 16 s
+Trp Skottorp (40)
+ Skummelövsstrand
+					1,8 km/0,9 km	59 s/29 s
+Halland / Skåne
+Laholm / Båstad
+					1,1 km/2,0 km	0 min 36 s/1 min 5 s
+Trp Östra Karup (39)
+ 115 v: Båstad
+ 115 ö: Voxtorp
+					1.5 km/1.6 km	54 s/58 s
+Rastplats Kungsrasten
+(nordgående riktning)
+					2.6 km/2.1 km	1 min 34 s/1 min 16 s
+Trp Hallandsås (38)
+ Rastplats Hallandsåsen
+ Bensinstation: OKQ8 (b)
+					3.1 km/2.9 km	1 min 52 s/1 min 44 s
+Båstad / Ängelholm
+					6.2 km/6.5 km	3 min 43 s/3 min 54 s
+Trp Hjärnarp (37)
+ 105: Torekov, Båstad
+					6,9 km/7,2 km	3 min 46 s/3 min 56 s
+Trp Rebbelberga (35)
+ Ängelholm Ö, C
+ 13: Höör, Klippan
+ Bensinstation: Shell (b)
+
+Etapp 6: Ängelholm - Helsingborg (20,6 km/20,7 km)
+					2,8 km/2,7 km	1 min 32 s/1 min 28 s
+Trafikplats Höja (34)
+ Ängelholm S, C
+					4,7 km/4,7 km	2 min 34 s/2 min 34 s
+Trp Norra Varalöv (33)
+ 112 v: Höganäs
+ 122 ö: Åstorp
+ Rastplats Erikslund
+ Restaurang Erikslund
+ Bensinstation: Preem (b)
+					1,9 km/1,3 km	1 min 2 s/0 min 43 s
+Trp Strövelstorp (32)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 107: Bjuv
+					6.3 km/6.0 km	3 min 26 s/3 min 16 s
+Ängelholm / Helsingborg
+					2.6 km/3.1 km	1 min 25 s/1 min 41 s
+Trp Fleninge (31)
+ Hyllinge
+					2,4 km/3,0 km	1 min 19 s/1 min 38 s
+Trafikplats Kropp (30)
+ Helingsborg N, C
+ E4 n: Stockholm
+ 21: Kristianstad
+
+Etapp 7: Förbi Helsingborg ()
+					2.6 km/2.3 km	1 min 25 s/1 min 15 s
+Trp Vasatorp (29)
+ Helsingborg Ö
+					1.7 km/2.2 km	0 min 56 s/1 min 12 s
+Infoplats Helsingborg
+					3.3 km/3.7 km	1 min 48 s/2 min 1 s
+Trp Helsingborg Södra (28)
+ [E47], Färja: Helsingör
+ 109: Ekeby
+
+Etapp 3: Helsingborg - Malmö ()
+					6.1 km/5.1 km	3 min 20 s/2 min 47 s
+Trp Rydebäck (27)
+ Rydebäck, Glumslöv
+					0.7 km/0.4 km	23 s/13 s
+Helsingborg / Landskrona
+					2.7 km/3.1 km	1 min 28 s/1 min 41 s
+Rastplats Glumslöv
+ Bensinstation: OKQ8 (b)
+ Restaurang: Burger King (nordgående)
+					2.0 km/2.3 km	1 min 5 s/1 min 15 s
+Trp Landskrona Norra (26)
+ Landskrona N,C, Borstahusen
+					6.1 km/6.4 km	3 min 20 s/3 min 29 s
+Trp Landskrona Centrum (25)
+ Landskrona C
+ 17: Eslöv
+					7,0 km/7,0 km	3 min 49 s/3 min 49 s
+Landskrona / Kävlinge
+Trp Lundåkra (24)
+ Barsebäck
+ 110: Bjuv
+					7,8 km/6,8 km	4 min 15 s/3 min 43 s
+Trp Löddeköpinge (23)
+ Barsebäck
+ Löddeköpinge, Center Syd
+ Bensinstation: Shell, St. 1
+ Restaurang: McDonald's, Burger King, Max
+					2,6 km/2,5 km	1 min 25 s/1 min 22 s
+Kävlinge / Lomma
+					0,8 km/1,3 km	26 s/43 s
+Trp Borgeby (22)
+ Bjärred
+ Borgeby, Löddeköpinge
+					5,0 km/4,8 km	2 min 44 s/2 min 37 s
+Trp Flädie (21)
+ Lund
+ Bjärred
+					3,7 km/4,2 km	2 min 1 s/2 min 17 s
+Trp Lomma (20)
+ 103: Lund
+					4,0 km/3,3 km	2 min 11 s/1 min 48 s
+Lomma / Burlöv
+Trafikplats Alnarp (19)
+ Malmö Hamn
+ Arlöv
+					0,7 km/1,9 km	0 min 25 s/1 min 8 s
+Trp Kronetorp (18)
+ Malmö Ö, C
+ E22: Kalmar, Lund
+
+Etapp 2: Yttre Ringvägen ()
+					2,3 km/1,0 km	1 min 23 s/0 min 36 s
+Trp Helenelund (17)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Arlöv
+					1,0 km/2,4 km	0 min 36 s/1 min 26 s
+Trp Sunnanå (16)
+ 11 v: Malmö Ö
+ 11 ö: Simrishamn, Staffanstorp
+Burlöv / Malmö
+					2,8 km/2,1 km	1 min 41 s/1 min 16 s
+Trp Södra Sallerup (15)
+ Kvarnby
+ Klågerup
+					4,0 km/4,5 km	2 min 24 s/2 min 42 s
+Trp Fredriksberg (14)
+ Malmö SO, C
+ E65: Ystad, Sturups Flygplats
+					3,9 km/3,1 km	2 min 20 s/1 min 52 s
+Trp Lockarp (13)
+ Lockarp
+ Bensinstation: Shell (b)
+ Restaurang: McDonald's
+					1,3 km/2,0 km	0 min 47 s/1 min 12 s
+Trp Petersborg (12)
+ Malmö S, Svågertorp
+ E6-E22: Trelleborg
+
+Etapp 1: Mot Öresundsbron ()
+					3,5 km/2,7 km	2 min 6 s/1 min 37 s
+Trp Naffentorp (11)
+ Malmö S, Hyllie
+
+Trp Vintrie (10)
+Sista avfart i Sverige!
+ Malmö V
+ Öresundsbromuseet
+					1,8 km/1,6 km	1 min 5 s/58 s
+Rastplats Skånegården
+(nordgående riktning)
+					1,4 km/1,7 km	0 min 50 s/1 min 1 s
+Betalstationen - Lernacken
+					8,6 km/8,2 km	4 min 41 s/4 min 28 s
+Sverige / Danmark
+Skåne / Hovedstadsområdet
+Malmö / Tårnby

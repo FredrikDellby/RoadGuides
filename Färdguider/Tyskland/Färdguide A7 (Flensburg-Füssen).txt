@@ -1,0 +1,844 @@
+﻿Reseguide A7 (Flensburg - Hattenbach)
+=====================================
+
+Gränsövergång Ellund
+Danmark / Tyskland
+Sönderjylland / Schleswig-Holstein
+Rastplatz Ellund
+(sydgående riktning)
+ Bensin, Restaurang
+					3.9 km/3.6 km	1 min 57 s/1 min 48 s
+Anschlausstelle 2
+ Niebüll
+ Flensburg, Harrislee
+ B199
+Tankstelle: Team
+Restaurang: Burger King, Steak'n More
+Hotel: Etap Hotel Flensburg
+					1.6 km/3.7 km	0 min 48 s/1 min 51 s
+Rastplatz Handewitter Forst
+(sydgående riktning)
+Rastplatz Altholzkrug
+(nordgående riktning)
+ WC
+					3.3 km/1.8 km	1 min 39 s/0 min 54 s
+Anschlausstelle 3
+ Husum
+ Flensburg
+ B200
+					8.7 km/7.9 km	4 min 21 s/3 min 57 s
+Anschlausstelle 4
+ Tarp
+					5.1 km/3.5 km	2 min 33 s/1 min 45 s
+Rastkplatz Jalm
+(nordgående riktning)
+ WC
+Rastplatz Jalmer Moor
+(sydgående riktning)
+					9.1 km/11.3 km	4 min 33 s/5 min 39 s
+Rastplatz Arenholz
+(nordgående riktning)
+					2.2 km/1.6 km	1 min 6 s/0 min 48 s
+Anschlausstelle 5
+ Husum, Schuby
+ Schleswig
+ B201
+					5.0 km/6.0 km	2 min 30 s/2 min 60 s
+Anschlausstelle 6
+ Kropp
+ Schleswig, Jagel, Eckernförde
+ B76, B77
+Tankstelle: Shell
+					7.5 km/5.4 km	3 min 45 s/2 min 42 s
+Parkplatz Lottorf
+(nordgående)
+ WC
+Parkplatz Brekendorfer Moor
+(sydgående)
+					4.2 km/5.8 km	2 min 6 s/2 min 54 s
+Anschlausstelle 7
+ Owschlag
+					4.7 km/4.8 km	2 min 21 s/2 min 24 s
+Rasthof Hüttener Berge
+ Restaurang
+Tankstelle: Aral (sydgående)
+	    Shell (nordgående)
+					2.7 km/2.8 km	1 min 21 s/1 min 24 s
+Anschlausstelle 8
+ Eckernförde
+ Rendsburg, Budelsdorf
+ B203
+					1.6 km/1.1 km	0 min 48 s/0 min 33 s
+Europabrucke_nord
+ Nord-Ostsee-Kanal
+					1.5 km/1.9 km	0 min 45 s/0 min 57 s
+Europabrucke_süd
+ Nord-Ostsee-Kanal
+Parkplatz Rade
+					2.5 km/3.0 km	1 min 15 s/1 min 30 s
+AB-Kreuz Rendsburg (9)
+ A210: Kiel
+					3.9 km/2.4 km	1 min 57 s/1 min 12 s
+Rastplatz Ohe
+ WC
+					8.7 km/9.4 km	4 min 21 s/4 min 42 s
+Anschlausstelle 10
+ Warder
+					3.6 km/6.0 km	1 min 48 s/2 min 60 s
+Parkplatz Brahmsee
+(sydgående)
+Parkplatz Dätgen
+(nordgående)
+ WC
+					3.5 km/1.2 km	1 min 45 s/0 min 36 s
+Anschlausstelle 11
+ Bordesholm
+					3.9 km/1.5 km	1 min 57 s/0 min 45 s
+AB-Dreieck Bordesholm (12)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ A215: Kiel
+					3.3 km/5.4 km	1 min 39 s/2 min 42 s
+Anschlausstelle 13
+ Neumünster-Nord
+					3.1 km/3.9 km	1 min 33 s/1 min 57 s
+Rastplatz Aalbek
+(sydgående riktning)
+ Restaurang
+Tankstelle: Shell
+					2.6 km/2.5 km	1 min 18 s/1 min 15 s
+Anschlausstelle 14
+ Neumünster-Mitte
+ B430
+					3.5 km/2.9 km	1 min 45 s/1 min 27 s
+Anschlausstelle 15
+ Neümunster-Süd
+ B205
+					3.0 km/3.5 km	1 min 30 s/1 min 45 s
+Rastplatz Brokenlande
+(nordgående riktning)
+ Bensin, Restaurang
+					1.2 km/1.1 km	0 min 36 s/0 min 33 s
+Anschlausstelle 16
+ Grossenaspe
+					7.0 km/9.0 km	3 min 30 s/4 min 30 s
+Rastplatz Bimöhlen
+(sydgående riktning)
+Rastplatz Sielsbrok
+(nordgående riktning)
+ WC
+					4.4 km/1.9 km	2 min 12 s/0 min 57 s
+Anschlausstelle 17
+ Bad Bramstedt
+ B206
+					1.5 km/2.5 km	0 min 45 s/1 min 15 s
+Rastplatz Schmalfeld
+ WC
+					4.5 km/4.0 km	2 min 15 s/1 min 60 s
+Anschlausstelle 18
+ Kaltenkirchen
+					3.4 km/3.3 km	1 min 42 s/1 min 39 s
+Rastplatz Moorkaten
+ WC
+					1.9 km/2.1 km	0 min 57 s/1 min 3 s
+Anschlausstelle 19
+ Henstedt-Ulzburg
+Tankstelle: Aral
+					3.8 km/2.9 km	1 min 54 s/1 min 27 s
+Rastplatz Kaden
+(nordgående riktning)
+ WC
+Rastplatz Beckershof
+(sydgående riktning)
+ WC
+					3.3 km/4.1 km	1 min 39 s/2 min 3 s
+(Anschlausstelle 20)
+ Ellerau
+
+Anschlausstelle 21
+ Quickborn
+Restaurang: McDonald's
+Hotel: Etap Hamburg-Nord
+					2.8 km/3.1 km	1 min 24 s/1 min 33 s
+Rasthof Holmmoor
+ Bensin, Restaurang
+					5.3 km/5.3 km	2 min 39 s/2 min 39 s
+(Anschlausstelle 22)
+ Norderstedt-Garstedt
+
+Rastplatz Bönningstedt
+					2.4 km/1.7 km	1 min 12 s/0 min 51 s
+Schleswig-Holstein / Hamburg
+					0.5 km/1.3 km	0 min 18 s/0 min 47 s
+Anschlausstelle 23
+ Hamburg-Schnelsen Nord
+ Flughaven
+ B432
+					1.3 km/0.8 km	0 min 47 s/0 min 29 s
+Anschlausstelle 24
+ Hamburg-Schnelsen
+ B447
+					2.2 km/2.8 km	1 min 19 s/1 min 41 s
+AB-Kreuz Hamburg-Nordwest (25)
+ A23: Husum, Itzehoe
+					2.8 km/2.1 km	1 min 41 s/1 min 16 s
+Anschlausstelle 26
+ Hamburg-Stellingen
+ B4, B5
+Tankstelle: Aral
+					1.2 km/1.2 km	0 min 43 s/0 min 43 s
+Anschlausstelle 27
+ Hamburg-Volkspark
+					2.3 km/2.7 km	1 min 23 s/1 min 37 s
+(Tunnel Uberdecklung Altona)
+ 3 km
+					
+Anschlausstelle 28
+ Hamburg-Bahrenfeld
+ B431
+Tankstelle: Esso, Shell
+					1.2 km/0.9 km	0 min 43 s/0 min 32 s
+Anschlausstelle 29
+ Hamburg-Othmarschen
+Elbtunnel_Nord
+					3.4 km/2.9 km	2 min 2 s/1 min 44 s
+Elbtunnel_Süd
+					2.4 km/3.3 km	1 min 26 s/1 min 59 s
+(AB-Kreuz HH-Haven)
+ A252
+(Hochstrasse Elbmarsch (bro))
+ 4359 m13 s
+
+Anschlausstelle 30
+ Hamburg-Waltershof
+Tankstelle: Shell
+					4.2 km/3.7 km	2 min 31 s/2 min 13 s
+Anschlausstelle 31
+ Hamburg-Moorburg
+					1.6 km/1.9 km	0 min 58 s/1 min 8 s
+Anschlausstelle 32
+ Hamburg-Heimfeld
+ B73
+Tankstelle: Aral
+Restaurang: McDonald's, Burger King
+					3.5 km/2.9 km	2 min 6 s/1 min 44 s
+AB-Dreieck Hamburg-Sudwest (33)
+ A261
+					1.2 km/1.4 km	0 min 43 s/0 min 50 s
+Anschlausstelle 34
+ Hamburg-Markstorf
+ Buchholz
+ B75
+Tankstelle: Aral
+					2.0 km/2.3 km	1 min 12 s/1 min 23 s
+Rastplatz Hamburger Berge
+Tankstelle: Aral
+(nordgående riktning)
+Rastplatz Kleinraststätte
+(sydgående riktning)
+ Restaurang
+Tankstelle: Shell
+Hamburg / Niedersachsen
+					1.8 km/1.9 km	1 min 5 s/1 min 8 s
+Anschlausstelle 35
+ Fleestedt
+ B4
+					2.0 km/1.5 km	1 min 12 s/0 min 54 s
+AB-Kreuz Maschen (36)
+ A1 s: Bremen
+ A1 n: Lübeck, Rostock
+ A250: Lüneburg
+					3.9 km/4.1 km	2 min 20 s/2 min 28 s
+AB-Dreieck Holster Dreieck (37)
+ A1 n: Lübeck, Rostock
+					2.6 km/2.7 km	1 min 18 s/1 min 21 s
+Rastplatz Seevetal
+(nordgående riktning)
+ (Bensin), Restaurang
+					0.8 km/0.6 km	0 min 24 s/0 min 18 s
+Anschlausstelle 38
+ Seevetal-Ramelsloh
+					1.0 km/1.1 km	0 min 30 s/0 min 33 s
+Rastplatz Hasselhöhe
+(sydgående riktning)
+ (Bensin), Restaurang
+					3.6 km/3.5 km	1 min 48 s/1 min 45 s
+Anschlausstelle 39
+ Thieshope
+					1.6 km/1.6 km	0 min 48 s/0 min 48 s
+Parkplatz Eichberg
+(nordgående riktning)
+					4.3 km/4.3 km	2 min 9 s/2 min 9 s
+Parkplatz Utspann
+(nordgående riktning)
+					1.5 km/1.5 km	0 min 45 s/0 min 45 s
+Anschlausstelle 40
+ Garlstorf
+					1.4 km/1.1 km	0 min 42 s/0 min 33 s
+Rastplatz Schaabbskaben
+(nordgående riktning)
+ WC
+Rastplatz Garlstorfer Wald
+(sydgående riktning)
+					4.2 km/4.5 km	2 min 6 s/2 min 15 s
+Anschlausstelle 41
+ Egestorf
+Tankstelle: Aral
+					3.3 km/3.9 km	1 min 39 s/1 min 57 s
+Anschlausstelle 42
+ Evendorf
+					3.4 km/2.9 km	1 min 42 s/1 min 27 s
+Parkplatz Auegrund
+(sydgående riktning)
+					2.2 km/2.4 km	1 min 6 s/1 min 12 s
+Parkplatz Vorm Naturschutzpark
+(sydgående riktning)
+					2.9 km/3.1 km	1 min 27 s/1 min 33 s
+Rastplatz Brunautal
+ Restaurang
+Tankstelle: Aral (sydgående)
+	    JET (nordgående)
+					1.1 km/1.2 km	0 min 33 s/0 min 36 s
+Anschlausstelle 43
+ Bispingen
+Restaurang: McDonald's
+					2.2 km/1.5 km	1 min 6 s/0 min 45 s
+Parkplatz Bispinger Tor
+(nordgående riktning)
+					4.2 km/6.1 km	2 min 6 s/3 min 3 s
+Parkplatz Timmerloh
+(sydgående riktning)
+Parkplatz Am Stuhbeckshorn
+(nordgående riktning)
+					4.5 km/3.0 km	2 min 15 s/1 min 30 s
+Parkplatz Bei den Schnellbergen
+(sydgående riktning)
+					0.9 km/1.4 km	0 min 27 s/0 min 42 s
+Anschlausstelle 44
+ Soltau-Ost
+ B71, B209
+					5.5 km/3.7 km	2 min 45 s/1 min 51 s
+Parkplatz Abelbeck
+(nordgående riktning)
+ WC
+Rastplatz Vorm Wietzenbruch
+(sydgående riktning)
+ (Bensin), Restaurang
+					2.4 km/2.6 km	1 min 12 s/1 min 18 s
+Anschlausstelle 45
+ Soltau-Sud
+ B3
+Tankstelle: Shell
+Restaurang: Daisy's Dinner, Boxenstopp
+					3.2 km/3.3 km	1 min 36 s/1 min 39 s
+Parkplatz
+					4.1 km/4.7 km	2 min 3 s/2 min 21 s
+Rastplatz Dorfmark
+(nordgående riktning)
+ WC
+					2.4 km/2.3 km	1 min 12 s/1 min 9 s
+Anschlausstelle 46
+ Dorfmark
+ B440
+					0.7 km/3.0 km	0 min 21 s/1 min 30 s
+Rastplatz Steinbach
+(sydgående riktning)
+Parkplatz Rummelsburg
+(nordgående riktning)
+					5.7 km/3.4 km	2 min 51 s/1 min 42 s
+Anschlausstelle 47
+ Bad Fallingbostel
+ B209
+Tankstelle: Raiffeisen
+Restaurang: McDonald's, Burger King
+					4.8 km/4.8 km	2 min 24 s/2 min 24 s
+Rastplatz Wolfsgrund
+					2.3 km/3.6 km	1 min 9 s/1 min 48 s
+AB-Dreieck Walsrode (48)
+ B27: Bremen
+					2.1 km/1.2 km	1 min 3 s/0 min 36 s
+Anschlausstelle 49
+ Westenholz
+					4.6 km/4.1 km	2 min 18 s/2 min 3 s
+Parkplatz
+(nordgående riktning)
+					4.1 km/4.5 km	2 min 3 s/2 min 15 s
+Rasthof Allertal
+ Restaurang (sydgående)
+ Burger King (nordgående)
+Tankstelle: Aral (sydgående)
+	    Esso (nordgående
+					1.2 km/0.8 km	0 min 36 s/0 min 24 s
+Allerbrücke
+ 200 m
+					0.8 km/1.1 km	0 min 24 s/0 min 33 s
+Anschlausstelle 50
+ Schwarmstedt
+ B214
+Tankstelle: BP
+Restaurang: McDonald's
+					4.7 km/4.1 km	2 min 21 s/2 min 3 s
+Parkplatz
+					3.4 km/4.1 km	1 min 42 s/2 min 3 s
+Anschlausstelle 51
+ Berkhof
+					4.6 km/4.5 km	2 min 18 s/2 min 15 s
+Rastplatz Osterriehe
+(sydgående riktning)
+Rastplatz Bummelskampe
+(nordgående riktning)
+					2.4 km/1.7 km	1 min 12 s/0 min 51 s
+Anschlausstelle 52
+ Mellendorf
+Tankstelle: Shell
+Restaurang: Raststätte Mellendorf
+					1.6 km/1.6 km	0 min 48 s/0 min 48 s
+AB-Dreieck Hannover-Nord (53)
+ A252: [A2 s]: Dortmund
+ Hannover Flughaven
+					6.3 km/7.4 km	3 min 26 s/4 min 2 s
+Anschlausstelle 54
+ Großburgwedel
+Tankstelle: Shell
+Hotel: Kokenhof
+					6.6 km/8.0 km	3 min 36 s/4 min 22 s
+Anschlausstelle 55
+ Altwarmbüchen
+AB-Kreuz Hannover-Kirchhorst (56)
+ A37 s: Hannover-Zentrum
+ A37 n: Celle, Burgdorf
+					3.8 km/1.6 km	2 min 4 s/0 min 52 s
+Rastplatz
+					0.7 km/2.1 km	0 min 23 s/1 min 9 s
+AB-Kreuz Hannover-Ost (57)
+ A2 v: Dortmund
+ A2 o: Berlin, Braumschweig
+					4.5 km/4.2 km	2 min 27 s/2 min 17 s
+Anschlausstelle 58
+ Hannover-Anderten
+ B65: 
+					2.8 km/3.1 km	1 min 32 s/1 min 41 s
+(Mittellandkanalbrücke)
+
+Rasthof Wülferode
+ Bensin, Restaurang
+Tankstelle: Agip (sydgående)
+	    Aral (nordgående)
+					3.3 km/2.6 km	1 min 48 s/1 min 25 s
+Anschlausstelle 59
+ Laatzen
+ B443: 
+					1.5 km/1.4 km	0 min 49 s/0 min 46 s
+AB-Dreieck Hannover-Süd (60)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ A37: Hannover-Zentrum
+					7.7 km/7.6 km	3 min 51 s/3 min 48 s
+Rastplatz
+					6.8 km/6.9 km	3 min 24 s/3 min 27 s
+(Brücke Stichkanal Hildesheim)
+
+Anschlausstelle 61
+ Hildesheim-Drispenstedt
+ B494: 
+Tankstelle: Aral
+					3.1 km/3.1 km	1 min 33 s/1 min 33 s
+Anschlausstelle 62
+ Hildesheim
+ B1: 
+					5.1 km/4.8 km	2 min 33 s/2 min 24 s
+Parkplatz
+(nordgående riktning)
+					0.9 km/1.4 km	0 min 27 s/0 min 42 s
+Raststätte Hildesheimer Börde
+(sydågende riktning)
+ Restaurang
+Tankstelle: Shell
+Kleinraststätte
+(nordgående riktning) 
+ Restaurang
+Tankstelle: BFT
+					7.5 km/7.0 km	3 min 45 s/3 min 30 s
+(Talbrücke (100 m))
+
+Anschlausstelle 63
+ Derneburg / Salzgitter
+ B6: 
+					3.9 km/3.5 km	1 min 57 s/1 min 45 s
+AB-Dreieck Salzgitter (64)
+ A39: Berlin, Wolfsburg,
+      Braumschweig, Salzgitter
+					2.5 km/3.1 km	1 min 15 s/1 min 33 s
+Rastplatz Sillium
+					7.3 km/7.3 km	3 min 39 s/3 min 39 s
+Anschlausstelle 65
+ Bockenem
+ B243a: 
+					2.3 km/2.3 km	1 min 9 s/1 min 9 s
+Rastplatz Bornum am Harz
+					3.8 km/3.8 km	1 min 54 s/1 min 54 s
+Anschlausstelle 66
+ Rhüden
+ B82: 
+Tankstelle: Esso
+Hotel: Montana
+					6.7 km/7.3 km	3 min 21 s/3 min 39 s
+Anschlausstelle 67
+ Sessen
+ B243: 
+
+(Rasthof Seesen) NY!
+ Restaurang
+Tankstelle: Shell (sydgående)
+	    Aral (nordgående)
+					3.2 km/3.0 km	1 min 36 s/1 min 30 s
+Rasthof Seesen
+ Bensin, Restaurang
+					6.5 km/6.1 km	3 min 15 s/3 min 3 s
+Parkplatz
+(sydgående riktning)
+					3.3 km/2.6 km	1 min 39 s/1 min 18 s
+Anschlausstelle 68
+ Echte
+ B445: 
+Tankstelle: Aral
+					1.7 km/2.3 km	0 min 51 s/1 min 9 s
+Rastplatz Kalefeld
+					7.3 km/7.0 km	3 min 39 s/3 min 30 s
+Anschlausstelle 69
+ Northeim-Nord
+ B3: 
+Tankstelle: Aral
+Restaurang: Burger King
+					1.9 km/2.1 km	0 min 57 s/1 min 3 s
+(Flutbrücke Northeim (300 m))
+
+Leinebrücke (75 m)
+					0.9 km/1.1 km	0 min 27 s/0 min 33 s
+Rastplatz Schlochau
+					1.6 km/1.6 km	0 min 48 s/0 min 48 s
+Anschlausstelle 70
+ Northeim-West
+ B241: 
+					8.7 km/8.7 km	4 min 21 s/4 min 21 s
+Anschlausstelle 71
+ Nörten-Hardenberg
+ B446: 
+Tankstelle: Shell
+					2.5 km/3.0 km	1 min 15 s/1 min 30 s
+Rastplatz Parensen
+					7.1 km/6.4 km	3 min 33 s/3 min 12 s
+AB-Dreieck Göttingen-Nord (72)
+ A388: Göttingen-Zentrum
+					3.5 km/3.7 km	1 min 45 s/1 min 51 s
+Anschlausstelle 73
+ Göttingen
+ B3: 
+Tankstelle: JET
+Restaurang: Burger King
+					3.1 km/4.0 km	1 min 33 s/2 min 0 s
+Raststätte Göttingen
+ Restaurang
+Tankstelle: Aral (sydgående)
+	    Shell (nordgående)
+					4.2 km/3.9 km	2 min 6 s/1 min 57 s
+AB-Dreieck Drammental (74)
+ A38: Leipzig
+					9.7 km/9.3 km	4 min 51 s/4 min 39 s
+Rastplatz Heckelberg
+(sydgående riktning)
+Rastplatz Hedemünden
+(nordgående riktning)
+					1.1 km/0.7 km	0 min 33 s/0 min 21 s
+Anschlausstelle 75
+ Hann. Münden / Hedemünden
+					4.0 km/4.3 km	2 min 11 s/2 min 21 s
+(Hann. Münden Werratalblick)
+(nordgående riktning)
+
+Werratalbrücke Hedemünden (416 m)
+					3.5 km/3.3 km	1 min 55 s/1 min 48 s
+Hann. Münden Humboldtblick
+(sydgående riktning)
+					3.8 km/3.8 km	2 min 4 s/2 min 4 s
+Anschlausstelle 76
+ Hann. Münden / Lutterberg
+ B496: 
+					3.3 km/3.4 km	1 min 48 s/1 min 51 s
+Rastplatz Staufenberg
+(nordgående riktning)
+					2.0 km/1.7 km	1 min 5 s/0 min 56 s
+Niedersachen / Hessen
+					2.3 km/2.7 km	1 min 15 s/1 min 28 s
+Rastplatz Herkulesblick
+(sydgående riktning)
+					1.3 km/1.6 km	0 min 43 s/0 min 52 s
+(Niestebrücke (200 m))
+
+Anschlausstelle 77
+ Kassel-Nord
+Tankstelle: Shell
+Hotel: Gasthaus Hotel Kassel
+					1.4 km/1.3 km	0 min 50 s/0 min 47 s
+Anschlausstelle 78
+ Kassel-Ost
+ B7: 
+					3.0 km/3.5 km	1 min 48 s/2 min 6 s
+(Lossetalbrücke (200 m))
+
+AB-Kreuz Kassel-Mitte (79)
+ A49 s: Fritzlar
+					1.4 km/3.1 km	0 min 50 s/1 min 52 s
+Rasthof Kassel
+ Restaurang
+Tankstelle: Esso (sydgående)
+	    Aral (nordgående)
+AB-Dreieck Kassel-Süd (80)
+ A44 w: Dortmund, Paderborn
+					7.9 km/5.8 km	4 min 19 s/3 min 10 s
+Fuldatalbrücke (200 m)
+Anschlausstelle 81
+ Guxhagen
+ B83: 
+Tankstelle: Lomo
+Restaurang: McDonald's
+					3.7 km/3.0 km	2 min 1 s/1 min 38 s
+Rastplatz Quillerwald
+(nordgående riktning)
+Rastplatz Markwald
+(sydgående riktning)
+					6.5 km/6.6 km	3 min 33 s/3 min 36 s
+(Brückenbachtalbrücke (100 m))
+
+Anschlausstelle 82
+ Melsungen
+ B253: 
+					3.9 km/4.0 km	2 min 8 s/2 min 11 s
+Anschlausstelle 83
+ Malsfeld
+Tankstelle: Esso
+					5.9 km/6.4 km	3 min 13 s/3 min 29 s
+Rasthof Hasselberg
+ Restaurang
+Tankstelle: Aral (sydgående)
+	    Shell (nordgående)
+					4.4 km/3.8 km	2 min 24 s/2 min 4 s
+Anschlausstelle 84
+ Homberg (Efze)
+ B232: 
+Tankstelle: Aral
+					9.6 km/9.0 km	5 min 14 s/4 min 55 s
+Parkplatz Raboldshausen
+(nordgående riktning)
+Rastplatz Am Pommer
+(sydgående riktning)
+					4.6 km/5.3 km	2 min 31 s/2 min 53 s
+Anschlausstelle 85
+ Bad Hersfeld-West
+ B324: 
+Tankstelle: Shell
+					9.9 km/10.5 km	5 min 24 s/5 min 44 s
+AB-Dreieck Kirchhim (86)
+ A4: Dresden, Erfurt
+Rasthof Kirchheim
+ Bensin, Restaurang
+Anschlausstelle 87
+ Kirchheim
+ B454: 
+Tankstelle: Shell
+Restaurang: McDonald's
+Hotel: Best Western, Hattenberg
+					3.9 km/5.2 km	2 min 8 s/2 min 50 s
+(Aulatalbrücke (200 m))
+
+AB-Dreieck Hattenbach (88)
+ A5: Basel, Frankfurt/Main
+
+Parkplatz Ottersbach
+(nordgående riktning)
+Parkplatz Strampen
+(sydgående riktning)
+
+Anschlausstelle 89
+ Niederaula
+ B62:
+
+(Fuldatalbrücke)
+
+Parkplatz Richtgraben
+(nordgående riktning)
+Parkplatz Dornbusch
+(sydgående riktning)
+
+Rasthof Grossenmoor
+ Benzin: Shell
+
+Parkplatz Günterswald
+(sydgående riktning)
+Parkplatz Mahlertshof
+(nordgående riktning)
+
+Anschlausstelle 90
+ Hünfeld / Schiltz
+
+Parkplatz Fuchsberg
+(sydgående riktning)
+
+Parkplatz Rotkopf
+(nordgående riktning)
+Parkplatz Hummelskopf
+(sydgående riktning)
+
+Parkplatz Geisshecke
+(nordgående riktning)
+
+Anschlausstelle 91
+ Fulda-Nord
+ B27:
+
+Parkplatz Rauschenberg
+(sydgående riktning)
+
+(Parkplatz Petersberg)
+(nordgående riktning)
+Anschlausstelle 92
+ Fulda-Mitte
+ B458:
+
+Parkplatz Röther Tannen
+(sydgående riktning)
+
+Parkplatz Pilgerzell
+(sydgående riktning)
+
+AB-Dreieck Fulda (93)
+ 66: Frankfurt
+(Fuldatalbrücke-nord)
+ 932 m
+
+Fuldatalbrücke-süd
+
+Parkplatz Steinhauk
+(sydgående riktning)
+Parkplatz Riederberg
+(nordgående riktning)
+
+Parkplatz Steinborntal
+(sydgående riktning)
+(Thalaubachtalbrücke (400 m))
+Parkplatz Lohmühle
+(nordgående riktning)
+
+(Döllbachtalbrücke (600 m))
+
+Rasthof Uttrichshausen
+(sydgående riktning)
+Kleinraststätte
+(nordgående riktning)
+
+(Talbrücke Uttrichshausen (870 m))
+
+Parkplatz Röhneiche
+(nordgående riktning)
+Parkplatz Forsthaus
+(sydgående riktning)
+
+Hessen / Bayern
+(Grenzwaldbrücke (965 m))
+
+Parkplatz (nordgående)
+
+Anschlausstelle 94
+ Bad Brückenau / Volkers
+ B27:
+
+Parkplatz
+
+(Römershagbrücke (313 m))
+
+(Sinntalbrücke (810 m))
+
+Parkplatz (sydgående)
+
+Anschlausstelle 95
+ Bad Brückenau / Wildflecken
+ B286:
+
+Parkplatz (nordgående)
+
+Rasthof Rhön
+
+Parkplatz
+
+Anschlausstelle 96
+ Bad Kissingen / Oberthulba
+
+(Thulbabrücke (493 m))
+
+Parkplatz (nordgående)
+
+Fränkische-Saale-Brücke (372 m)
+
+Anschlausstelle 97
+ Hammelburg
+ B287:
+
+(Klöffelsbergbrücke (344 m))
+
+Parkplatz 
+
+Parkplatz (sydgående)
+
+Parkplatz
+
+Anschlausstelle 98
+ Wasserlosen
+ B303:
+
+Parkplatz (nordgående)
+
+AB-Kreuz Schweinfurt (99)
+ A70: Bayreuth, Bamberg
+
+(Stettbachbrücke (249 m))
+
+Parkplatz (sydgående)
+
+(Schraudenbachbrücke (249 m))
+
+Parkplatz
+
+(Werntalbrücke (482 m))
+
+Rasthof Riedener Wald
+ Benzin: Shell, Aral
+
+Parkplatz
+
+Anschlausstelle 100
+ Gramschatzer Wald
+
+Parkplatz
+
+Parkplatz (nordgående)
+
+Pleichachtalbrücke (352 m)
+
+Anschlausstelle 101
+ Würzburg / Estenfeld
+ B19:
+
+Kürnachtalbrücke (375 m)
+
+Parkplatz
+
+Parkplatz (nordgående)
+
+Rothofbrücke (440 m)
+
+Parkplatz (sydgående)
+
+AB-Kreuz Biebelried (102)
+ A3 n: Frankfurt, Offenbach
+ A3 s: (München), Nürnberg
+

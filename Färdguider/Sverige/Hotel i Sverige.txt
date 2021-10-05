@@ -1,0 +1,470 @@
+Värmlands län
+==============
+
+Västra Värmland:
+Thon Hotel Charlottenberg		Charlottenberg
+Gränsrasta Motell			Charlottenberg
+Comfort Hotel Bristol			Arvika
+Hotel and Spa Oscar Statt		Arvika
+Engagården Hotell			Edane
+Victoria Gränshotell			Töcksfors
+Best Western Årjäng			Årjäng
+Svaneholms Herrgård			Svanskog
+Kilsborgs Gård				Svanskog
+Comfort Hotel Royal			Säffle
+Knusesunds Herrgård			Säffle
+
+Karlstadsområdet:
+Kils Hotell och Restaurang		Kil
+Kungskvarnen Hotell			Borgvik
+Scandic Karlälven			Karlstad
+Scandic Hotel Winn			Karlstad
+Scandic Karlstad City			Karlstad
+Elite Stadshotellet			Karlstad
+Best Western Hotel Våxnäs		Karlstad
+Best Western Hotel Savoy		Karlstad
+Best Western Gustaf Fröding		Karlstad
+Ibis Hotel Karlstad City		Karlstad
+Granegatans Bed and Breakfast		Karlstad
+Hotel Carlstad				Karlstad
+Carlton Hotel				Karlstad
+Hotel Freden				Karlstad
+Nya Solsta Hotell			Karlstad
+Hotell Gösta Berling			Karlstad
+
+Östra Värmland:
+Hotell Hertig Karl			Filipstad
+Hotell John				Filipstad
+Sundsviks gård				Storfors
+Hotell Marieberg			Kristinehamn
+Park Hotell Kristinehamn		Kristinehamn
+Stadshotellet Kristinehamn		Kristinehamn
+Hotell Fröding				Kristinehamn
+
+Fryken-Klarälven:
+Quality Hotel Selma Lagerlöf		Sunne
+Selma Lagerlöfs Spa			Sunne
+Hotell Uddeholm				Uddeholm
+
+Norra Värmland:
+Finnskoga Wärdshus			Höljes
+Långbergets Sporthotell			Långberget
+Värmlandsporten				Stöllet
+
+Örebro län
+===========
+
+Värmland och sydvästra Närke:
+Hotell Skotten				Karlskoga
+Hotell Alfred Nobel			Karlskoga
+Karlskoga Hotel				Karlskoga
+Brogårdens Hotell and Gästgiveri	Karlskoga
+(Lottas Pensionat)			Karlskoga
+Tomtebo Pensionat			Karlskoga
+Svartå Herrgård				Svartå
+Rastpunkt Laxå				Laxå
+Lerbäck Hotell				Lerbäck
+Best Western Norra Vättern		Askersund
+Aspa Herrgård				Olshammar
+
+Östra Närke:
+Bäcks Bed and Breakfast			Örebro
+Scandic Hotel Örebro Väst		Örebro
+Scandic Hotel Grand Örebro		Örebro
+First Hotel Örebro			Örebro
+Elite Stora Hotellet			Örebro
+Best Western City Hotel			Örebro
+Quality Hotel Örebro			Örebro
+Clarion Hotel Örebro			Örebro
+Ibis Örebro				Örebro
+Hotell Continental			Örebro
+Plaza Hotel Örebro			Örebro
+Hotell Gullvivan			Örebro
+Hotell Storgården			Örebro
+Hotell Göta				Örebro
+Hotell Linden				Örebro
+Behrn Hotell				Örebro
+Kumla Stationshotell			Kumla
+Hotel Stinsen				Hallsberg
+Skinnarbacka Bed and Breakfast		Skinnarbacka
+
+Västmanlandsdelen:
+Brukshotellet Sörgården			Hällefors
+Grythyttans Gästgivaregård		Grythyttan
+Loka Brunn Kurhotell			Loka Brunn
+Åkerby Hotell Och Konferens		Åkerby
+Nora Stadshotell			Nora
+Lilla Hotellet				Nora
+Lindesbergs stadshotell			Lindesberg
+
+Västra Götalands län
+=====================
+
+Bohuslän:
+Rasta Hotel Nordby			Nordby
+Silverhornet (Hornet)			Hällestrand
+Quality Spa and Resort			Strömstad
+Laholmen Hotell				Strömstad
+Hotel Krabban				Strömstad
+Bohusläns Bed and Breakfast		Tanumshede
+Tanums Gestgifveri			Tanumshede
+Tanumstrand				Grebbestad
+Stora Hotellet i Fjällbacka		Fjällbacka
+Kung Rane				Svarteborg
+Åtorps Herrgård				Munkedal
+Hensbacka Herrgård			Hensbacka
+Smögens Havsbad				Smögen
+Hotell Kungshamn			Kungshamn
+Bohus-Malmöns Pensionat			Bohus-Malmön
+Lingatan Hotel				NÖ Brodalen
+Stadshotellet i Lysekil			Lysekil
+Hotel Lysekil				Lysekil
+Havshotellet				Lysekil
+Gullmarsstrand Hotel			Fiskebäckskil
+Rågårdsvik Pensionat			Rågårdsvik
+Best Western Hotel Carlia		Uddevalla
+Hotell Viking				Uddevalla
+Hotell Sköna Rum			Uddevalla
+Hotell Gyldenlöwe			Uddevalla
+Bohusgården Hotell och Konferens	Uddevalla
+Ljungskile Turisthotell			Ljungsskile
+Hotell Henån				Henån
+Ellös brygga (osäker)			Ellös
+Ellösgården (osäker)			Ellös
+Standgården (osäker)			Ellös
+Sjögården				Ellös
+Mollösunds Wärdshus			Mollösund
+Prästgårdens Pensionat			Mollösund
+Svenshögens Gästhem			Svenshögen
+Hotell Reis				Stenungssund
+Pensionat Solliden			Stenungssund
+Villa Vanahem				Stenungssund
+Stenungsundsbaden Yacht Club		Stenungsund
+Hotell Nordevik				Skärhamn
+Lekanders Bär och Boende (B&B)		Fagerfjäll
+Bergabo Hotell				Rönnäng
+Båtellet				Marstrand
+Hotell Nautic				Marstrand
+Grand Hotell Marstrand			Marstrand
+Villa Maritime				Marstrand
+Fars Hatt				Kungälv
+Björkö badhotell			Bohus-Björkö
+Hönö Hotell				Hönö
+
+Göteborg:
+Scandic Hotel Backadal
+Scandic Hotel Crown
+Scandic Hotel Europa
+Scandic Hotel Opalen
+Scandic Hotel Rubinen
+Scandic Hotel Mölndal
+Rica Hotel Göteborg
+First Hotel G
+First Hotel Avalon
+Elite Hotel Plaza
+Elite Hotel Park Avenue
+Best Western Arken Hotel
+Best Western Hotel Göteborg
+Best Western Hôtel Eggers
+Best Western Tidbloms Hotel
+Clarion Collection Hotel Odin
+Quality Hotel 11
+Quality Hotel Panorama
+Quality Hotel Winn
+Comfort Hotel City Center
+Clarion Hotel Post			svår att hitta
+Ibis Hotel City
+Ibis Hotel Mölndal
+Novotel Göteborg
+Formule 1 Hotel Göteborg
+Radisson Blu Scandinavia Hotel
+Mornington Hotel Göteborg
+Spar Hotel Gårda
+Spar Hotel Majorna
+Liseberg Hotel Barken Viking
+Liseberg Hotel Heden
+Grand Hotel Opera
+Hotel Riverton
+Hotel Vanilla
+Hotel Flora
+Hotel Robinson
+Hotel Royal
+Hotel Vasa
+Hotel Lilton
+Hotel Poseidon
+Aveny Turist hotel
+Hotel Allén
+City Hotel
+Hotel Lorensberg
+Hotel Onyxen
+Gothia Towers
+Hotel Albelle
+Apple Hotel
+Hotel Kusten
+Hotel Örgryte
+Grethes Turisthem
+Annes Hus
+Hotell Aston Villa
+Mölndals Gästeri
+Sjöbacken Hotel
+Landvetter Airport Hotel
+
+Annes Hus
+Aston Villa
+Euroway
+
+
+Sjuhärad:
+Hjortviken Konferens			Hindås
+Hindåsgården				Hindås
+Scandic Hotel Plaza Borås		Borås
+First Hotel Grand (Borås)		Borås
+Best Western Hotel Borås		Borås
+Comfort Hotel Jazz			Borås
+Hotel City Borås			Borås
+Vila Minihotel				Borås
+Borås Bostadshotell			Borås
+Västergården B&B			Ryninga
+Hällstad Kronogård Pensionat		Hällstad
+Hotell Nyboholm				Ulricehamn
+Brunnsnäs Säteri			Ulricehamn
+Hotel Bogesund				Ulricehamn
+Hotel Vita Huset			Kinna
+Kinna Stadshotell			Kinna
+Tranemo Hotell och Restaurang
+
+Mellersta Västergötland:
+Quality Hotel Vänersborg		Vänersborg
+Strand Hotell				Vänersborg
+Hotel Gillet				Vänersborg
+Ronnums Herrgård			Vargön
+Scandic Hotel Swania			Trollhättan
+First Hotel Kung Oscar			Trollhättan
+Albert Hotel				Trollhättan
+Hotel Bele				Trollhättan
+Hotel Trollhättan			Trollhättan
+Villa Stranna				Trollhättan
+Hotel Tjädern				Trollhättan
+Edet Värdshus och Hotel			Lilla Edet
+Thorskogs Slott				Torskog
+Hotel Surte				Surte
+Aspenäs Hotell (Comwell)		Lerum
+Ibis Hotel Lerum			Lerum
+First Hotel Grand (Alingsås)		Alingsås
+Lilla Hotellet				Alingsås
+Rasta Hotel Vårgårda			Vårgårda
+Vårgårda Wärdshus
+Hotell Gyllene Kärven			Herrljunga
+
+Dalsland:
+Hotell Dalsland				Ed
+Hotell Carl XII				Ed
+Hotell Dalia				Bengtsfors
+Åmåls Stadshotell (Sweden Hotels)	Åmål
+Tössestugan				Tösse
+Håveruds Hotell				Håverud
+Skötteruds Gård				
+Wärdshuset På Dal			Mellerud
+Hotel Semaforen				Mellerud
+Hedene Gård				Ö Högsäter
+
+Skaraborg:
+Kanalhotellet				Karlsborg
+Hotell Carlsborg			Karlsborg
+Hotell Wettern				Karlsborg
+Karlsborgs Bed and Breakfast		Karlsborg
+Hönsäters Slott				Hällekis
+Blå Pensionatet				Gössäter
+(Brännebrona Värdshus			Bränneborna)
+Hotel Postiljonen			Götene
+Hotell Lundsbrunn			Lundsbrunn
+Rasta Hotel Mariestad			Mariestad
+Hotell Vänerport			Mariestad
+Bergs Hotell				Mariestad
+Stadshotellet Mariestad			Mariestad
+Hotell Aqva (Sweden Hotels)		Mariestad
+Hotell Wictoria				Mariestad
+Best Western Edward Hotel		Lidköping
+Stadt Lidköping				Lidköping
+Hotell Läckö				Lidköping
+Park Hotell Lidköping			Lidköping
+Best Western Jula Hotel			Skara
+Hotell Stadskällaren			Skara
+(Hotel Loke				Skara)
+Skara Stadshotell			Skara
+Brunsbo Gästgifveri			
+Görnära					
+Scandic Hotel Billingen			Skövde
+First Hotel Billingehus			Skövde
+Best Western Pereneius Hotel		Skövde
+Best Western Knistad Hotel		Skövde
+Clarion Collection Hotel Majoren	Skövde
+Quality Hotel Prisma			Skövde
+Hotell Skövde				Skövde
+Hotell Snickaren			Tibro
+Hotell Bellevue				Hjo
+Ulfstorps Säteri			Ulvstorp
+Hotell Grepen				Vara
+Bjertorp Slott				Bjärrtorp
+Lumber and Karle			Kvänum
+Vara Motel Motoristen			S Vara
+Bitterna Lamm				Bitterna
+Brukshotellet				Torestorp
+Mösseberg Kurort			Falköping
+Rantens Hotell				Falköping
+Hotell Sankt Olof			Falköping
+Hotell Falköping			Falköping
+Liden Bed and Breakfast			Fastorp
+Hotell Emanuelssons			Tidaholm
+Tidaholms Stadshotell			Tidaholm
+
+Backgårdens Stugby
+
+
+Hallands län:
+==============
+
+Säröhus Hotell och Konferens		Särö
+Best Western Hotel Halland		Kungsbacka
+Hotell Nattmössan			Kungsbacka
+Kuggaviksgården				Åsa
+Vallersvik Konferens			Frillesås
+Hotell Frillesberg			Frillesås
+Best Western Varbergs Standhotel	Varberg
+Clarion Collection Hotel Fregatten	Varberg
+Hotell City				Varberg
+Hotell Gästis				Varberg
+Varbergs Kurort (Comwell)		Varberg
+Gällareds Bed and Breakfast
+Elite Hotel Strandbaden			Falkenberg
+Värdshuset Hwitan			Falkenberg
+Grand Hotel Falkenberg			Falkenberg
+Nya Pallas Hotell			Falkenberg
+(Hotell och Restaurang Hylte AB		Hyltebruk)
+Pensionat Sågknorren
+Stakaberg Pensionat			Fastarp
+Pensionat Frösakull			Frösakull
+Hotel Tylösand				Tylösand
+Scandic Hotel Hallandia			Halmstad
+First Hotel Mårtenson			Halmstad
+Best Western Grand Hotel		Halmstad
+Clarion Collection Hotel Norre Park	Halmstad
+Quality Hotel Halmstad			Halmstad
+Hotell Amadeus				Halmstad
+Hotell Gula Briggen (Sweden Hotels)	Halmstad
+Hotell Temperance			Halmstad
+Hotel Continental (Sweden Hotels)	Halmstad
+Hotell Fina Laxen			Halmstad
+Hotell Hallandsgården			Mellbystrand
+Hotell Mellbystrand			Mellbystrand
+Bungalow Homes				Mellbystrand
+Laholms Stadshotell			Laholm
+Lanthotell Lögnäs Gård			Laholm
+Bingsgärde Bed and Breakfast		S Hasslöv
+
+Hallandsåsens Bella Notte (stugr
+
+Skåne län
+==========
+
+f.d. Kristianstad län:
+Hotell Kattegatt			Torekov
+Torekov Hotell				Torekov
+Hotel Skansen				Båstad
+Buena Vista Hotel			Båstad
+Hotel Borgen				Båstad
+Pensionat Neptun			Båstad
+Pensionat Hjorten			Båstad
+Pensionat Enehall			Båstad
+Hotel Riviera				Båstad
+Rasta Hallandsåsen			Hallandsåsen
+Best Western Hotel Paletten		Ängelholm
+Hotel Lergöken				Ängelholm
+Hotel Amadeus				Ängelholm
+Hotel Lilton				Ängelholm
+Riverside Hotel				Ängelholm
+Hotel Continental			Ängelholm
+Hotell Erikslund			Erikslund
+Rasta Mölletofta			Mölletofta
+Klippans Gästis				Klippan
+Bonnarps Hjortgård			Bonnarp
+Hunseröd Bed and Breakfast		Hunseröd
+Perstorps Brukshotell			Perstorp
+Ivanslunds Bed and Breakfast		Ivanslund
+Möllegården B&B				Tyringe
+Wärdshuset Skyrupsgården		Skyrup
+Hotel Statt Hässleholm (Sweden Hotels)	Hässleholm
+Hotell City				Hässleholm
+Hotel Göingehof				Hässleholm
+Skogshuset Bed and Breakfast		Sandåkra
+Asmoarp Natur Bed and Breakfast		Sandåkra
+Stora Hotellet				Osby
+Bed & Breakfast Skansen			Osby
+Bergakungen Stugor and Konferens	Osby
+Bruksvillan Bed & Breakfast		Östanå
+Rosentorp Bed & Breakfast		Tollarp
+Tomarp Gårdshotel
+Ivö Kungsgård
+First Hotel Christian IV		Kristianstad
+Best Western Hotel Anno 1937		Kristianstad
+Quality Hotel Grand			Kristianstad
+Hotel Sirius (Sweden Hotels)		Kristianstad
+Hotel Brissman				Kristianstad
+Stadshotellet				Kristianstad
+Strandvillan i Åhus			Åhus
+Linderögårdens Hotell			Linderöd
+Forsakarsgårdens Hotell			Degeberga
+Nymölla Bed & Breakfast			Nymölla
+Snogeholms Slott
+Agda Lund Bed & Breakfast		Kivik
+Lyckebergs Bed & Breakfast		Skräddaröd
+Hotell Svea				Simrishamn
+Maritim Hotell				Simrishamn
+Hotel Kockska Gården			Simrishamn
+
+f.d. Malmöhus län:
+Kullagårdens Wärdshus			Mölle
+Grand Hôtel Mölle			Mölle
+Mölle Turisthotell			Mölle
+Hotel Kullaberg				Mölle
+Rusthållargården			Arild
+Strand Hotel Arild			Arild
+Brunnby Gård
+Köpmansgården				Höganäs
+Lyckås Gård
+Scandic Helsingborg Nord		Helsingborg
+Scandic Horistont			Helsingborg
+Elite Hotel Mollberg			Helsingborg
+Elite Hotel Marina Plaza		Helsingborg
+Best Western Hotel Helsingborg		Helsingborg
+Best Western Hotel Duxiana		Helsingborg
+Clarion Grand Hotel			Helsingborg
+Comfort Hotel Nouveau			Helsingborg
+Hotel Maria (Sweden Hotels)		Helsingborg
+Hotell Viking				Helsingborg
+Continental Hotel			Helsingborg
+Hotell Kärnan				Helsingborg
+(Hotell Linne'a)			Helsingborg
+Stadsmotellet				Helsingborg
+(Hotel Anglais)				Helsingborg
+Best Western Hotel Stensson		Eslöv
+Scandic Hotel Star			Lund
+First Hotel Planetstaden		Lund
+Ibis Hotel Lund				Lund
+Scandic Hotel Kramer			Malmö
+Scandic Hotel Sankt Jörgen		Malmö
+Scandic Hotel Malmö City		Malmö
+Elite Hotel Savoy			Malmö
+Elite Hotel Residens			Malmö
+Elite Plaza Hotel			Malmö
+Best Western Hotel Noble House		Malmö
+Best Western Hotel Jägersro		Malmö
+Comfort Hotel Malmö			Malmö
+Clarion Collection Hotel Temperance	Malmö
+Quality Hotel Konserthuset		Malmö
+Ibis Hotel Malmö			Malmö
+Formule 1 Hotel Malmö			Malmö
+Radisson Blu Hotel			Malmö
+
+Quality Hotel Hyllie
+Best Western Sturup Airport Hotel	Sturup

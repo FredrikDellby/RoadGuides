@@ -1,0 +1,31 @@
+( Korsning Vretavägen )
+ Lanna
+ Garphyttans Nationalpark
+				1,5 km/1,5 km	1 min 17 s/1 min 17 s
+( Lekeberg / Örebro )
+				0,8 km/0,8 km	41 s/41 s
+( T-korsning Lanna )
+ 204: Svartå, Fjugesta, Lanna
+				1,2 km/1,2 km	1 min 2 s/1 min 2 s
+( Korsning Vintrosa S )
+ Vintrosa, Garphyttan,
+ Lattorpsbruk
+				2,0 km/2,0 km	1 min 43 s/1 min 43 s
+( Korsning Bäckalund )
+ Vintrosa K:a
+ Tysslinge
+				1,9 km/1,9 km	1 min 38 s/1 min 38 s
+( Korsning Sanna )
+ Kräcklinge, Fjugesta
+				1,3 km/1,3 km	1 min 7 s/1 min 7 s
+( T-korsning Flygplats )
+ Örebro Flygplats
+				3,8 km/4,0 km	3 min 15 s/3 min 26 s
+Trp Berglunda
+ Berglunda
+				0,8 km/0,4 km	32 s/16 s
+Trp Adolfsberg 3
+(östgående riktning)
+ [E20]: Göteborg
+ Örebro S
+				1,4 km/1,6 km	56 s/1 min 4 s

@@ -1,0 +1,109 @@
+Etapp 1: Vårgårda - Bergagärde (16,8 km/16,7 km)
+
+T-korsning Vårgårda N
+ E20 s: Göteborg, Alingsås
+ E20 n: Stockolm, Skara
+Korsning Vårgårda Rasta
+ Vårgårda Centrum
+ Bensinstation: OKQ8
+ Restaurang: RASTA
+					1.1 km/1.0 km	57 s/51 s
+Korsning Tumbergsvägen
+ Eggvena
+					2.3 km/2.3 km	1 min 58 s/1 min 58 s
+T-korsning Återvinningscentral
+
+Korsning (enskild väg)
+ Bergtäkt
+
+Vårgårda / Herrljunga
+					1.4 km/1.4 km	1 min 12 s/1 min 12 s
+T-korsning Bråttensby S
+ Landa
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Bråttensby kyrka
+
+T-korsning Bråttensby skola
+ Eggvena
+					3.1 km/3.1 km	2 min 39 s/2 min 39 s
+T-korsning Remmene
+ Remmene kyrka
+
+T-korsning Larstorp
+ Fölene
+					3.6 km/3.8 km	3 min 5 s/3 min 15 s
+Infoplats (östgående)
+
+T-korsning Herrljunga viadukt
+ Bitterna
+T-korsning 181/G:a Alingsåsvägen
+ Bensinstation: Preem
+(Järnvägsviadukt)
+ Västra Stambanan
+
+T-korsning 181/Storgatan
+ Centrum, Vedum
+ Herrljunga station
+Bensinstation: Paroy
+					1.4 km/1.2 km	1 min 41 s/1 min 26 s
+Rondell Sportcenter
+ Herrljunga idrotts- och simhall
+
+Järnvägsviadukt
+ Älvsborgsbanan
+					0.6 km/0.6 km	43 s/43 s
+T-korsning Herrljunga S
+ Centrum
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+Infoplats (västgående)
+
+T-korsning Bergagärde
+ 183: Borås, Ljung
+
+Etapp 2: Bergagärde - Gökhem ()
+					2.5 km/2.6 km	1 min 53 s/1 min 57 s
+T-korsning Ljungholmen
+ Annelund, Hudene
+T-korsning Stenunga
+ Herrljunga
+					2.6 km/2.5 km	1 min 57 s/1 min 53 s
+Korsning 181/Glasbruksvägen
+ Fåglavik
+					4.5 km/4.5 km	3 min 23 s/3 min 23 s
+T-korsning (lokalt mål)
+ LillPuttLand
+
+Korsning
+ Källunga K:a, Kulelida
+ Källunga, Missionskyrka
+					3.0 km/3.0 km	2 min 15 s/2 min 15 s
+Korsning Källeryd Ö
+ Enskild väg
+
+Herrljunga / Falköping
+					4.1 km/4.1 km	3 min 5 s/3 min 5 s
+T-korsning Brandstorp
+ Hällestad
+					3.4 km/3.4 km	2 min 33 s/2 min 33 s
+Dubbel T-korsning Floby S
+ Floby
+ Floby kyrka
+					0.9 km/0.9 km	0 min 41 s/0 min 41 s
+T-korsning Västmesstorp
+ Kinnarp, Göteve
+					0.5 km/0.5 km	0 min 23 s/0 min 23 s
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+T-korsning Sörby S
+ Floby, Sörby
+					1.3 km/1.3 km	0 min 59 s/0 min 59 s
+Järnvägsviadukt
+ Västra Stambanan
+					1.7 km/1.7 km	1 min 17 s/1 min 17 s
+T-korsning Lexberg
+ Remmen
+					0.9 km/1.1 km	0 min 41 s/0 min 50 s
+T-korsning Gökhem korsväg
+ Odensberg
+Korsning Gökhem korsväg
+ 47 ö: Jönköping, Falköping
+ 47 v: Trollhättan, Vara

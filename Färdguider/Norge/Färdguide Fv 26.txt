@@ -1,0 +1,106 @@
+Etapp 1: Sverige - Sagbekk (3,6 km/3,6 km)
+
+Sverige / Norge
+Värmland / Hedmark
+Torsby / Trysil
+					2,5 km/2,5 km	2 min 9 s/2 min 9 s
+T-korsning Lutufallet
+ Fv2166: Rörbäcksnäs, Sälen
+ Sälen/Trysil Airport
+ Rasteplass/Infoplats
+					1,2 km/1,2 km	1 min 2 s/1 min 2 s
+Rasteplass (grusplan)
+
+T-korsning Sagbekk Bru
+ 208: Elverum
+
+Etapp 2: Sagbekk - Rv 25 (28,3 km/28,3 km)
+					7,5 km/7,5 km	6 min 26 s/6 min 26 s
+(T-korsning Rundfloen)
+ Frøhaug motorsport
+
+T-korsning Plassen butikk
+ Butikk
+					0,5 km/0,5 km	26 s/26 s
+(Plassen bru)
+ Trysilelva
+T-korsning Plassen kirke
+ Fv2162: Østby, Langtjernåsen
+ Plassen kirke, Gjerfloen flugfiske
+					7,2 km/7,2 km	5 min 24 s/5 min 24 s
+Søre Trysil skole (stor grusplan)
+
+(T-korsning)
+ Bru over Trysilelva
+
+T-korsning Kolås
+ Fv2164: Landsjøåsen, Langtjernåsen
+ Trysil Maskin
+(Parkeringsplass (grusvei))
+					10,9 km/10,9 km	9 min 21 s/9 min 21 s
+Bensinstasjon: Circle-K Automat
+Korsning Nybergsund
+ [25]: Elverum
+					1,7 km/1,7 km	1 min 42 s/1 min 42 s
+Dubbel T-korsning Kongeparken
+ TINE Meieriet Trysil
+
+T-korsning Fv 26/Idrettsvegen
+ Idrettsplass, Lysløype
+
+Rondell Rv 25/Rv 26
+ 25 v: Sälen, Østby
+ Fv2172: Trysil (Innbygda)
+ Hotell/Camping/Vandrerhjem
+					0,6 km/0,6 km	36 s/36 s
+(Nybergsund bru)
+ Trysilelva
+Infoplats
+T-korsning Rv 25/Rv 26
+ 25 ø: Hamar, Elverum
+
+Etapp 3: Rv 25 - Jordet (19,3 km/19,3 km)
+					3,0 km/3,0 km	2 min 15 s/2 min 15 s
+T-korsning Trysil skishop
+ Bensin: Shell
+					0,4 km/0,5 km	21 s/26 s
+T-korsning Trysil-sør
+ 263: Vestby
+ Trysilfjellet Sør, Trysil Turistsenter
+ Trysilfjell Hytteområde, Golfbane
+ Radisson Blu Resort
+					0,5 km/0,5 km	26 s/26 s
+T-korsning
+ Mosanden Næringspark
+					1,7 km/1,7 km	1 min 27 s/1 min 27 s
+T-korsning Trysil-nord
+ Fv2172: Trysil sentrum
+ Hotell/Camping/Vandrerhjem
+ Fv2160: Trysilfjellet Sør
+					1,0 km/1,0 km	51 s/51 s
+T-korsning Fv 26/Slettmovegen
+ Moelven Trysil
+					2,6 km/2,6 km	1 min 57 s/1 min 57 s
+(Kvernbekken)
+
+(Hundselbekk Bru)
+T-korsning Fageråsenkrysset
+ Trysilfjellet N
+ Fageråsen Hytteområde, Trysil Høyfjellssenter
+ Radisson Blu Mountain Resort
+					0,5 km/0,5 km	23 s/23 s
+Korsning Løvåsenkrysset
+ Løvåsen
+					9,6 km/9,6 km	7 min 12 s/7 min 12 s
+(Korsning Mørsøybakken)
+ Høgåsen
+
+Parkeringsplass (grusvei): (61.3881216, 12.1819437)
+
+T-korsning Jordet Rv26
+ 215: Rena, Slettås
+ Eltdalen
+ Trysil Knut Fjellverden
+ Nordre Trysil kirke
+(Jordet bru)
+ Trysilelva, 132 m

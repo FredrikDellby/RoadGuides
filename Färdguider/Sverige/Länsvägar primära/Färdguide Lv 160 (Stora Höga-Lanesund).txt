@@ -1,0 +1,156 @@
+Färdguide Lv 160 Stora Höga - Rotviksbro
+=========================================
+
+Stora Höga-motet-öst
+ E6 n: Oslo, Uddevalla
+ Rastplats Spekeröd
+ Bensinstation: Circle-K
+ Restaurang: Burger King, Subway
+
+Stora Höga-motet-väst
+ E6 s: Göteborg
+ Stora Höga industriomr
+					1.5 km/1.0 km	1 min 17 s/0 min 51 s
+Dubbel T-korsning Strandkärr
+ Jörlanda, Stora Höga
+					0.8 km/0.6 km	41 s/31 s
+T-korsning
+ Kyrkenorum
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Strandnorum
+ Norum
+					1.2 km/1.2 km	1 min 2 s/1 min 2 s
+T-korsning Tollenäs
+ Tollenäs Camping
+					0.7 km/1.3 km	0 min 36 s/1 min 7 s
+Nösnäsmotet
+ Stenungsund C, Ödsmål
+ Bensinstation: Circle-K
+ Restaurang: McDonald's
+					0.9 km/0.6 km	46 s/31 s
+Stenungsöbron
+					0.9 km/0.5 km	46 s/26 s
+T-korsning Stenungsön östra
+ Stenungsögården
+
+T-korsning Stenungsön södra
+ Stenungsbaden
+ Bensinstation: St1
+					0.6 km/0.9 km	31 s/46 s
+Stenungsötunneln
+
+Källösundsbron (300 m)
+					0.4 km/1.1 km	21 s/57 s
+Tjörnbron-öst (664 m)
+Stenungsund / Tjörn (sydgående)
+
+Tjörnbron-väst
+Stenungsund / Tjörn (nordgående)
+Almöbron-öst
+					1.6 km/0.8 km	1 min 22 s/0 min 41 s
+Almöbron-väst
+
+Korsning Myggenäs korsväg
+ 169: Rönnäng, Skärhamn
+ Rastplats Almön
+ Restaurang: Tjörnbron
+					0.8 km/0.9 km	48 s/54 s
+Rondell Myggenäs
+ Bensinstation: St1
+					3.2 km/3.4 km	2 min 45 s/2 min 55 s
+Bro till Mjörn
+					0.7 km/0.5 km	36 s/26 s
+T-korsning Sundsby korsväg
+ Sundsby säteri, Kållekärr
+					2.4 km/2.7 km	2 min 3 s/2 min 19 s
+T-korsning (enskild väg)
+ Mjörn
+
+T-korsning Skåpesund
+ Café: Skåpesundskiosken
+Tjörn / Orust (sydgående)
+(Skåpesundsbron)
+
+Tjörn / Orust (nordgående)
+Rastplats Skåpesund
+					1.1 km/0.8 km	57 s/41 s
+Korsning Säckebäck
+ Askerön
+
+Korsning Varekilsnäs
+ Enskild väg
+					3.4 km/3.4 km	2 min 55 s/2 min 55 s
+Bensinstation: INGO
+Dubbel T-korsning Varekil korsväg
+ 178: Ellös, Svanvik
+ Svanesund
+ Restaurang: Café Borgen
+					4.6 km/4.5 km	3 min 27 s/3 min 23 s
+Korsning Ammedalen
+ Enskild väg, Bageri
+
+Korsning Hoga nedre
+ Enskild väg, Runsten
+
+Korsning Vräland
+ Svanesund
+ Ellös, Tegneby
+					7.4 km/7.6 km	5 min 33 s/5 min 42 s
+T-korsning Henån södra
+ Torp
+					0.5 km/0.3 km	36 s/22 s
+Tankställe Henån
+ Bensinstation: Circle-K
+					0.4 km/0.4 km	29 s/29 s
+T-korsning Henån östra
+ Ellös, Centrum
+					3.3 km/3.3 km	2 min 50 s/2 min 50 s
+T-korsning Henåns brygga
+ N Hamntorget, Orust marin
+
+T-korsning Henån norra
+ Lövås (lokal väg)
+
+Rastplats Såten
+					2.7 km/2.7 km	2 min 19 s/2 min 19 s
+Korsning Skutviken
+ Enskild väg, Söbben gruva
+
+T-korsning Gåre södra
+ Sörgraven
+
+Korsning Gåre torg
+ Torp, Svanesund
+					1.6 km/1.6 km	1 min 22 s/1 min 22 s
+Vindöbron-syd
+ ca 500 m
+
+Vindöbron-nord
+
+Vindötunneln-syd
+ 485 m
+					0.6 km/0.6 km	31 s/31 s
+(Vindötunneln-nord)
+T-korsning Nötesund (lokal väg)
+ Nötesund, Vindö marin
+(Nötesundsbron-syd)
+ 614 m
+					0.7 km/0.6 km	6 s/31 s
+Nötesundsbron-nord
+					1.0 km/1.0 km	51 s/51 s
+T-korsning Sundsandvik
+ Enskild väg, Sunds marin
+
+T-korsning Hälle Torg
+					2.1 km/2.1 km	1 min 48 s/1 min 48 s
+T-korsning Tångavägen
+ Enskild väg, Hafsten Resort
+
+T-korsning Högås kyrka
+					1.4 km/1.5 km	1 min 12 s/1 min 17 s
+Dubbel T-korsning Rotviksbro södra
+ Bensinstation: St1
+
+Rondell Rotviksbro
+ 161 ö: Uddevalla
+ 161 v: Lysekil, Fiskebäckskil

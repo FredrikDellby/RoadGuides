@@ -1,0 +1,101 @@
+Färdguide Lv 111 (Helsingborg - Mölle)
+=======================================
+
+Trp Ättekulla
+ E4 n: Stockholm, [E6-E20]
+ E4 s: Helsingborgs hamn
+ Ramlösa Brunn
+					1.3 km/1.0 km	1 min 7 s/0 min 51 s
+Trp Clausgatan
+ Ramlösa
+					0.3 km/0.3 km	15 s/15 s
+					1.0 km/1.0 km	51 s/51 s
+Trp Fältarpsvägen
+ Långberga industriomr.
+ Centrum
+					2.0 km/2.0 km	1 min 43 s/1 min 43 s
+Trp Filbornavägen
+ Fredriksdal, Olympia
+					0.8 km/0.8 km	41 s/41 s
+Trp Vasatorpsvägen
+ Väla
+ Centrum
+					0.8 km/1.4 km	0 min 41 s/1 min 12 s
+Trp Grusvägen
+ Välsa Södra
+					0.7 km/0.3 km	36 s/15 s
+Trp Brohult
+ [E4 n]: Stockholm
+ [E6-E20 n]: Göteborg
+ Helsingborg Centrum
+					0.5 km/0.4 km	23 s/18 s
+Avfart+Påfart Kanongatan
+(nordgående riktning)
+Avfart+Påfart Bajonettgatan
+(sydgående riktning)
+ Berga industriområde
+					0.9 km/1.2 km	41 s/54 s
+Trp Kullavägen
+ Pålsjö
+					1.4 km/1.1 km	56 s/44 s
+Trp Allerum
+ Jonstorp, Allerum
+					1.4 km/1.3 km	56 s/52 s
+T-korsning 111/Larödsvägen
+ Hittarp, Sofiero slott
+
+Trafikkontrollplats
+(sydgående riktning)
+T-korsning Laröd Östra
+ Enskild väg
+					3.5 km/3.5 km	2 min 20 s/2 min 20 s
+T-korsning Kulla Gunnarstorp
+ Hittarp, Domsten
+					2.8 km/2.8 km	1 min 52 s/1 min 52 s
+T-korsning 111/Djuramossav.
+
+T-korsning Domsten N
+ Domsten
+					0.4 km/0.4 km	18 s/18 s
+T-korsning Grå Läge
+ Grå Läge
+
+T-korsning 111/Döshultsv.
+ Döshult
+					1.1 km/1.1 km	50 s/50 s
+Rondell Viken SO
+ Viken
+					1.1 km/1.1 km	44 s/44 s
+Dubbel T-korsning Viken Ö
+ Viken
+ Allerum
+					1.9 km/2.1 km	1 min 16 s/1 min 24 s
+Trafikplats
+ Jonstorp, Ingelstäde
+ Viken
+					1.9 km/1.7 km	1 min 16 s/1 min 8 s
+Rondell Lerberget S
+ Viken
+					1.1 km/1.0 km	1 min 6 s/1 min 0 s
+T-korsning 111/Lagårdsv.
+ Bensinstation: Preem
+
+(T-korsning)
+ Finax bageri
+
+Rondell 111/Ljungvägen
+					1.6 km/1.6 km	1 min 36 s/1 min 36 s
+Korsning Kullagymnasiet
+					0.4 km/0.5 km	29 s/36 s
+Rondell Långaröd
+					0.3 km/0.3 km	22 s/22 s
+Rondell Lv 111/Lv 112
+ 112: Ängelholm, Åstorp
+
+Korsning 111/Bruksgatan
+
+Rondell Sandflyget
+
+(Korsning Margreteberg)
+ Margreteberg strand
+

@@ -1,0 +1,31 @@
+Mat/kafélista E4
+=================
+
+Trp Ryhov: Eurostop, Statoil
+Trp A6: Shell/7-eleven, McDonald's
+Trp Österängen: Statoil
+Trp Huskvarna Södra: OKQ8, Shell/7-eleven
+Trp Huskvarna Norra:
+Trp Vättersmålen: Preem
+Trp Gyllene Uttern: Gyllene Uttern
+Trp Gränna: Statoil
+Brahehus: Preem, Restaurang
+Trp Vida Vättern: Motell Vida Vättern
+Trp Ödeshög: OKQ8, Rasta
+Trp Mjölby Västra: McDonald's
+Trp Mjölby Östra: Albackens skafferi
+Trp Mantorp: Statoil, (Preem)
+Trp Linköping Norra: McDonald's, Burger King
+Rastplats Herrbeta: Shell/7-eleven, Restaurang
+Trp Norsholm: Statoil
+Trp Klinga: McDonald's, OKQ8
+Trp Stavsjö: Statoil, Stavsjö värdshus
+Rastplats Nyköpingsbro: Shell/7-eleven, Restaurang
+Trp Kungsladugården: Statoil
+Rastplats Sillekrog: OKQ8, Restaurang
+Trp Järna: Statoil
+Trp Moraberg: McDonald's
+Trp Fittja: McDonald's, OKQ8
+Trp Kungens Kurva: McDonald's, Statoil, OKQ8
+Trp Bredäng: Shell/7-eleven, Preem
+Trp Västberga: OKQ8

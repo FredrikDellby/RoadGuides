@@ -1,0 +1,28 @@
+Vårgårda N - Herrljunga viadukt
+1.1 km/1.0 km	0 min 57 s/0 min 51 s	70
+2.3 km/2.3 km	1 min 58 s/1 min 58 s
+1.4 km/1.4 km	1 min 12 s/1 min 12 s
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+3.1 km/3.1 km	2 min 39 s/2 min 39 s
+3.6 km/3.8 km	3 min 5 s/3 min 15 s
+
+Herrljunga viadukt - Herrljunga S
+1.4 km/1.2 km	1 min 41 s/1 min 26 s	50
+0.6 km/0.6 km	0 min 43 s/0 min 43 s
+
+Herrljunga S - Bergagärde
+1.9 km/1.9 km	1 min 38 s/1 min 38 s	70
+
+Bergagärde - Gökhems korsväg
+2.5 km/2.6 km	1 min 53 s/1 min 57 s	80
+2.6 km/2.5 km	1 min 57 s/1 min 53 s
+4.5 km/4.5 km	3 min 23 s/3 min 23 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+4.1 km/4.1 km	3 min 5 s/3 min 5 s
+3.4 km/3.4 km	2 min 33 s/2 min 33 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+0.9 km/1.1 km	0 min 41 s/0 min 50 s

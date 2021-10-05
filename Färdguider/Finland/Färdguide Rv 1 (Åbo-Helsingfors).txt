@@ -1,0 +1,183 @@
+Färdguide Rv 1-E18 (Åbo - Helsingfors)
+======================================
+
+T-korsning E18/E63
+ E63: Tampere
+					0.5 km/0.6 km	36 s/43 s
+T-korsning E18/Pansiovägen
+T-korsning E18/Ratavahdin.
+					0.9 km/0.8 km	1 min 5 s/0 min 58 s
+T-korsning E18/Ruissalontie
+					0.2 km/0.3 km	14 s/22 s
+Korsning E18/Rv 8
+ 8 (E8): Pori, Rauma
+ 185: Naantali
+					0.4 km/0.4 km	29 s/29 s
+T-korsning E18/Hantverkareg.
+Bensinstation: St1
+T-korsning E18/Humalistonk.
+					0.5 km/0.3 km	36 s/22 s
+T-korsning E18/Ajurinkatu
+					0.3 km/0.7 km	22 s/50 s
+T-korsning E18/Brahegatan
+Trp Aninkais bro
+ 9: Tampere
+					0.7 km/0.3 km	50 s/22 s
+Korsning E18/Lonttisvägen
+					0.4 km/0.4 km	29 s/29 s
+Korsning E18/Assistentg.
+					0.6 km/0.6 km	43 s/43 s
+T-korsning E18/Suntiovägen
+					0.3 km/0.3 km	22 s/22 s
+Trafikplats Kuppis
+ 8: Hämeenlinna
+					0.8 km/0.6 km	41 s/31 s
+T-korsning E18/Bälgstigen
+					1.5 km/2.0 km	1 min 17 s/1 min 43 s
+Trafikplats Jaani (3)
+Bensinstation: A24
+					1.5 km/1.1 km	1 min 0 s/0 min 44 s
+Trafikplats Haukola (4)
+					1.0 km/1.2 km	40 s/48 s
+Trafikplast Kurkela (5)
+ Piispanristi
+					1.6 km/2.4 km	1 min 4 s/1 min 36 s
+Trafikplats Vantsi (6)
+ Kaarina
+ 180: Pargas
+Bensinstation: Teboil
+					3.5 km/3.6 km	2 min 20 s/2 min 24 s
+Trafikplats Raadelma (7)
+					3.3 km/3.0 km	2 min 12 s/2 min 0 s
+Trp Kirismäki (8)
+ 40 ö: Piikkiö
+ 40 v: Naantali
+ [8]: Pori, Rauma
+ [9], [10]
+					3.7 km/4.1 km	2 min 1 s/2 min 14 s
+Rastplats Tammisilta
+					2.2 km/1.6 km	1 min 12 s/0 min 52 s
+Trp Tammisilta (9)
+ Paimio-Väst
+Bensinstation: ABC
+					4.3 km/3.7 km	2 min 21 s/2 min 1 s
+Trp Valkoja (10)
+(avfart östgående riktning
+påfart västgående riktning)
+ Paimio-Syd
+ 181: Kimito
+Bensinstation: Teboil
+					3.1 km/3.7 km	1 min 41 s/2 min 1 s
+Trafikplats Vista (11)
+ Paimio-Öst
+Bensinstation: Neste
+					5.4 km/5.9 km	2 min 57 s/3 min 13 s
+Rastplats (Levähdyspaikka)
+					5.8 km/5.5 km	3 min 10 s/3 min 0 s
+Trafikplats Harjala (12)
+					6.8 km/7.1 km	3 min 43 s/3 min 52 s
+Trafikplats Halikko (13)
+ Salo-Väst
+ 224: Marttila
+					6.4 km/5.2 km	3 min 29 s/2 min 50 s
+Isokylä tunnel-väst
+					0.5 km/1.5 km	16 s/49 s
+Trp Isokylä (15)
+ Salo-Öst
+ 52 s: Ekenäs, Perniö
+ 52 n: Forssa, Somero
+Bensinstation: ABC
+					2.7 km/2.7 km	1 min 28 s/1 min 28 s
+Rastplats (Levähdyspaikka)
+					6.9 km/6.7 km	3 min 46 s/3 min 39 s
+Trafikplats Muurla (16)
+					1.3 km/0.8 km	43 s/26 s
+Hepomäki Tunnel
+					1.6 km/1.8 km	52 s/59 s
+Lakiamäki Tunnel
+					4.8 km/4.9 km	2 min 37 s/2 min 40 s
+Trafikplats Kruusila (17)
+					7.3 km/7.8 km	3 min 59 s/4 min 15 s
+Trp Soumusjärvi (18)
+ Kitula
+					2.2 km/2.1 km	1 min 12 s/1 min 9 s
+Rastplats
+Bensinstation: Teboil
+					5.5 km/5.3 km	3 min 0 s/2 min 53 s
+Trp Lahnajärvi (19)
+Bensinstation: Shell
+					3.7 km/3.0 km	2 min 1 s/1 min 38 s
+Västra Finland / Södra Finland
+					2.0 km/2.4 km	1 min 5 s/1 min 19 s
+Trp Sammatti (20)
+ 104: Pohja
+					3.2 km/3.5 km	1 min 45 s/1 min 55 s
+Kontrollplats
+					4.2 km/4.2 km	2 min 17 s/2 min 17 s
+Trafikplats Nummi (21)
+ Saukkola
+					1.1 km/0.3 km	36 s/10 s
+Tervakorpi tunnel-väst
+					0.7 km/0.6 km	23 s/20 s
+Tervakorpi tunnel-öst
+					1.3 km/1.3 km	43 s/43 s
+Pitkämäki tunnel-väst
+					0.7 km/0.7 km	23 s/23 s
+Pitkämäki tunnel-öst
+					2.0 km/2.1 km	1 min 5 s/1 min 9 s
+Orosmäki tunnel-väst
+					0.6 km/0.6 km	20 s/20 s
+Orosmäki tunnel-öst
+					0.7 km/0.7 km	23 s/23 s
+Karnais tunnel-väst
+					2.2 km/2.8 km	1 min 12 s/1 min 32 s
+Karnais tunnel-öst
+					1.3 km/1.5 km	43 s/49 s
+Trp Karnainen (22)
+ Lohja, Routio
+					3.0 km/3.3 km	1 min 38 s/1 min 48 s
+Trafikplats Lempola (23)
+ 25: Ekenäs, Lohja
+					6.3 km/6.1 km	3 min 26 s/3 min 20 s
+Trafikplats Muijala (24)
+ 25: Hyvinkää, Nummela
+					4.3 km/3.3 km	2 min 21 s/1 min 48 s
+Trp Hevoskallio (25)
+(avfart västgående riktning
+påfart östgående riktning)
+ 110: Koisjärvi
+					4.9 km/5.2 km	2 min 40 s/2 min 50 s
+Trp Palojärvi (26)
+ 2: Pori, Vihti
+					5.2 km/5.8 km	2 min 50 s/3 min 10 s
+Trafikplats 27
+ Veikkola
+					6.9 km/6.8 km	3 min 46 s/3 min 43 s
+Trp Histaknuten (28)
+					1.4 km/0.9 km	46 s/29 s
+Rastplats/Levähdyspaikka
+					3.9 km/4.8 km	2 min 8 s/2 min 37 s
+Trp Esboknuten (29)
+ 50 v, [51]: Ekenäs, Kirkkonummi
+ 50 ö: Vanda flygplats, [3], [4], [7]
+ E18 ö: S:t Petersburg
+					1.8 km/0.7 km	1 min 12 s/0 min 28 s
+Trp Stenkyrkoknuten
+(avfart västgående riktning
+påfart östgående riktning)
+Bensinstation: Neste, A24, Teboil
+					2.2 km/2.5 km	1 min 28 s/1 min 40 s
+Trp Domsbyknuten
+(avfart västgående riktning
+påfart östgående riktning)
+ Esbo Centrum
+					2.5 km/3.5 km	1 min 40 s/2 min 20 s
+Trp Smedsknuten
+ 102 (Ring II)
+Trafikplats
+ 114: Kauniainen
+					3.8 km/3.4 km	2 min 32 s/2 min 16 s
+Trp Alknuten
+ 101 (Ring I)
+					4.3 km/3.4 km	2 min 52 s/2 min 16 s
+T-korsning Vermoknuten

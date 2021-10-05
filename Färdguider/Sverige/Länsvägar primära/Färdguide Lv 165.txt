@@ -1,0 +1,147 @@
+Färdguide Lv 165 (Gläborg - Vassbotten)
+========================================
+
+Etapp 1: Gläborg - Dingle ()
+
+Pendelparkering
+Gläborgsmotet (101)
+ E6 s: Göteborg, Uddevalla
+ E6 n: Oslo, Strömstad
+
+T-korsning Gläborg
+ 162: Lysekil, Brastad
+					1.0 km/0.8 km	51 s/41 s
+Järnvägsviadukt
+ Lysekilsbanan
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Leråker södra
+ Ängens Gård (enskild väg)
+
+T-korsning Leråker norra
+ Ekströms Motor, Hagbergs VVS
+					2.1 km/2.1 km	2 min 6 s/2 min 6 s
+T-korsning (lokal väg)
+ New Wave Outlet
+ Tank: Diesel
+
+Korsning (enskild väg)
+ Industri: Dingle
+T-korsning (lokal väg)
+ Hästanläggning
+
+T-korsning Lv 165/Skolgatan
+ Lokal väg
+
+Rondell Dingle
+ [E6]: Göteborg, Oslo
+ 174: Smögen, Kungshamn
+ Järnvägsstation
+ Bensinstation: TANKA
+ Restaurang: Pizzeria Hörnan, Restaurang & Pizzeria Shala
+
+Etapp 2: Dingle - Hällevadsholm ()
+					3.1 km/3.1 km	3 min 6 s/3 min 6 s
+Korsning Lv 165/Kallkärrsv.
+ Industri: Kallkärr
+ Restaurang: Dingle Pizzeria
+
+Korsning Sohlbergs
+ Idrottsplats, Hembygdsgård
+
+Parkeringsplats
+(bäst lämpad nordgående)
+
+(Järnvägsviadukt)
+ Bohusbanan
+Dubbel T-korsning Svarteborg
+ Hedekas
+ Svarteborgs K:a
+					2.9 km/3.0 km	2 min 29 s/2 min 34 s
+Korsning Skärvhem
+ Svarteborgs K:a
+
+T-korsning Blåsopp (enskild väg)
+ Asfaltverk, Bergkross
+
+Bensinstation: Gulf
+
+T-korsning Hällevadsholm S
+ Ramberg, Vässjegården
+					0.8 km/0.6 km	58 s/43 s
+(T-korsning Vässje)
+ Lokal väg
+
+Korsning Hällevadsholm C
+ Rabbalshede
+Hällevadsholms Folkets Hus
+ Turistinformation
+
+Etapp 3: Hällevadsholm - Backa (25,4 km/25,5 km)
+					3.0 km/3.0 km	2 min 15 s/2 min 15 s
+T-korsning Långevall
+ St Aspång, Enskild väg
+
+T-korsning Skulestad
+ Liveröd
+					6.6 km/6.6 km	4 min 57 s/4 min 57 s
+Munkedal / Tanum: (58.6639405,11.550629)
+					0.6 km/0.6 km	27 s/27 s
+Korsning Smeviken
+ Rabbalshede
+					2.4 km/2.4 km	2 min 3 s/2 min 3 s
+T-korsning Fressland
+ Mo K:a
+					2.4 km/2.6 km	2 min 3 s/2 min 14 s
+T-korsning Äspelunden
+ Mo K:a
+
+T-korsning Grimmeland
+ Grimmeland
+					3.6 km/3.4 km	3 min 5 s/2 min 55 s
+T-korsning Tingvall B&B
+ Campingplats, Minto Tingvall
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Tingvallsgård
+ Sundshult
+ Tingvall Försöksgård, Olsborg
+					3.0 km/3.0 km	2 min 34 s/2 min 34 s
+T-korsning Naverstad södra
+ Naverstads K:a (sevärdhet)
+
+Korsning Naverstad
+ 163: Tanumshede
+					1.8 km/1.9 km	1 min 33 s/1 min 38 s
+T-korsning Lv 165/Byvägen
+ Östanvind
+
+Korsning Östad (enskild väg)
+ Museum (hembygdsgård), Lanthandel
+ Bensinstation: Q-star
+					1.3 km/1.4 km	1 min 7 s/1 min 12 s
+Korsning Bullaregården (enskild väg)
+ Bygdegård, Idrottsplats
+ Industrier
+
+Dubbel T-korsning Backa
+ 164 ö: Åmål, Ed
+ Skackestad
+
+Etapp 4: Backa - Norge (9,7 km/9,6 km)
+					4.0 km/3.9 km	3 min 26 s/3 min 21 s
+(T-korsning Skrammestad)
+ Enskild väg
+
+(Bro över å)
+
+T-korsning Holkekärr
+ 164 v: Strömstad, Skee
+					4.8 km/4.8 km	3 min 36 s/3 min 36 s
+Camping Vassbotten
+					0.5 km/0.6 km	26 s/31 s
+Dubbel T-korsning Vassbotten
+ Ejgde
+ Fagerhult
+					0.4 km/0.2 km	21 s/10 s
+Sverige / Norge
+Västra Götaland / Viken
+Tanum / Halden

@@ -1,0 +1,61 @@
+Motorväg
+ upphör (nordgående riktning)
+ börjar (sydgående riktning)
+					1,0 km/1,0 km	0 min 45 s/0 min 45 s
+Korsning Solhem
+ Kustorp
+ Solhem
+					2,4 km/2,4 km	1 min 48 s/1 min 48 s
+Järnvägskorsning
+					1,3 km/1,3 km	59 s/59 s
+Rastplats Huds moar
+
+
+
+
+T-korsning Ryland
+ Ryland industriområde
+					0,9 km/0,9 km	40 s/40 s
+T-korsning Tanum norra
+ [163]: Grebbestad
+					1,1 km/1,1 km	50 s/50 s
+T-korsning Prästesäm
+ Säm
+Korsning Knäm
+ Sögård
+ Sannäs
+Bensinstation: Statoil
+					3,7 km/3,7 km	2 min 46 s/2 min 46 s
+Korsning Knäm
+ Knäm
+ Mjölkeröd
+					5,1 km/5,4 km	3 min 50 s/4 min 3 s
+Dubbel T-korsning Kragenäs
+ Lur
+ Resö
+					4,1 km/4,0 km	3 min 4 s/2 min 60 s
+T-korsning Hessland
+ Lur
+Tanum / Strömstad
+Järnvägskorsning
+					2,3 km/2,1 km	1 min 43 s/1 min 35 s
+T-korsning Neanberg
+ Björke
+					0,7 km/0,7 km	31 s/31 s
+Korsning Vik
+ 176: Strömstad
+ Färja: Kosteröarna
+Bensinstation: Norsk Hydro
+					4,1 km/4,1 km	3 min 4 s/3 min 4 s
+T-korsning Varp
+ Valex, Björke
+					2,7 km/2,7 km	2 min 2 s/2 min 2 s
+Korsning Skee södra
+ Strömstad, Båleröd
+
+
+					0,5 km/0,5 km	36 s/36 s
+Järnvägsviadukt
+					0,6 km/0,6 km	43 s/43 s
+T-korsning Skee
+ 164: Åmål, Dals-Ed

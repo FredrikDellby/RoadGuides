@@ -1,0 +1,68 @@
+T-korsning Rv 50/Lv 206
+ 50 s: Jönköping, Ödeshög
+ 50 n: Örebro, Motala
+					0.4 km/0.5 km	29 s/36 s
+Järnvägskorsning
+T-korsning 206/Industrigatan
+ Vadstena industriområde
+					2.1 km/1.9 km	2 min 6 s/1 min 54 s
+T-korsning Börstad
+ Hogstad, Bjälbo
+					1.7 km/1.7 km	1 min 42 s/1 min 42 s
+T-korsning
+ Hageby-Höga
+					0.3 km/0.3 km	18 s/18 s
+Vadstena / Motala
+					2.0 km/2.0 km	2 min 0 s/2 min 0 s
+Dubbel T-korsning Fivelstad K:a
+ Fivelstad K:a
+ Fågelsta
+					2.5 km/2.5 km	2 min 9 s/2 min 9 s
+Motala / Mjölby
+					0.4 km/0.4 km	21 s/21 s
+T-korsning Fågelstavägen
+ Fågelsta
+					1.8 km/1.8 km	1 min 33 s/1 min 33 s
+T-korsning Hagalund Mjölby
+ Skänninge
+					1.8 km/1.8 km	1 min 33 s/1 min 33 s
+Järnvägskorsning
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+T-korsning Lv 206/Motalag.
+ Skänninge Centrum
+					0.3 km/0.3 km	15 s/15 s
+T-korsning Skänninge NO
+ 32 n: Motala
+					1.1 km/1.1 km	57 s/57 s
+Rondell Skänninge Ö
+ 32 s: Vetlanda, Mjölby
+ Skänninge Centrum
+					0.8 km/0.7 km	0 min 36 s/0 min 31 s
+T-korsning
+ Biskopsberga
+					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+Korsning
+ Järstad
+ Högby
+					1.3 km/1.3 km	59 s/59 s
+Korsning
+ Vallerstad, Järstad
+					0.8 km/0.8 km	36 s/36 s
+Dubbel T-korsning Öjebro
+ Roxtorp
+ Normlösa
+					0.4 km/0.3 km	18 s/14 s
+T-korsning
+ Spångsholm
+					2.8 km/2.9 km	2 min 6 s/2 min 11 s
+Korsning Gottlösa
+ Spångsholm
+T-korsning Gottlösa
+ Normlösa
+					2.8 km/3.3 km	2 min 6 s/2 min 28 s
+T-korsning Lv 206/Uljev.
+ Ljungsbro, Västerlösa
+Bensinstation: Statoil
+Trp Mantorp
+ E4 s: Helsingborg, Mjölby
+ E4 n: Stockholm, Linköping

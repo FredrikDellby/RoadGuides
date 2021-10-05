@@ -1,0 +1,62 @@
+Färdguide Lv 166 Kornsjö - Mon
+===============================
+
+Norge / Sverige
+Viken / Västra Götaland
+Halden / Dals-Ed
+					1.0 km/1.0 km	1 min 0 s/1 min 0 s
+Kornsjö loppis och café				
+T-korsning Kornsjö
+ Kiosk/Café
+
+Dubbel T-korsning Dals Högen
+ Jakobsrud
+ Loppmarknad
+(Järnvägskorsning)
+ Dalslandsbanan
+					4.7 km/4.7 km	3 min 32 s/3 min 32 s
+T-korsning Bästorp
+ Grubberöd
+					4.0 km/4.0 km	3 min 0 s/3 min 0 s
+T-korsning
+ 164 v: Strömstad
+ 164 ö: Åmål, Ed
+ 166 ö: Mellerud
+
+Färdguide Lv 166 Ed - Bäckefors
+================================
+
+Korsning Kårslätt
+ 164 v: Strömstad
+ 166 v: Halden
+ 164 ö: Åmål, Bengtsfors
+					0.5 km/0.5 km	23 s/23 s
+T-korsning Torpfors
+ Torp, Törsängen
+					2.1 km/2.1 km	1 min 35 s/1 min 35 s
+T-korsning Lv 166/Torpvägen
+ Industri: Torp
+
+T-korsning Hindalebyn
+ Böle
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Järnvägsviadukt
+ Dalslandsbanan
+					1.0 km/1.0 km	45 s/45 s
+T-korsning Tingvalla V
+ Antikaffär-Loppis
+
+T-korsning Tingvalla Ö
+ Böle
+					2.7 km/2.7 km	2 min 2 s/2 min 2 s
+T-korsning Lindekleven
+ Bjällhögen, Enskild väg
+
+Dals-Ed / Bengtsfors: (58.8487077,12.0962024)
+					3.5 km/3.6 km	2 min 38 s/2 min 42 s
+T-korsning
+ 166 ö: Mellerud, Bäckefors
+ 172 s: Uddevalla, Färgelanda
+ 172 n: Bengtsfors, Billingsfors
+Järnvägskorsning
+ Dalslandsbanan

@@ -1,0 +1,74 @@
+Reseguide E12 Umeå - Norge
+===========================
+
+Etapp n-3: Storuman - Lycksele ()
+
+Etapp n-2: Lycksele - Vännäs ()
+
+T-korsning
+ 92: Dorotea, Bjurholm,
+     Vännäs C
+
+Etapp n-1: Vännäs - Norrfors (15,7 km/15,2 km)
+					1.2 km/1.2 km	1 min 2 s/1 min 2 s
+T-korsning Vännäsby väst
+ Vännäsby
+
+T-korsning
+					2.0 km/1.9 km	1 min 43 s/1 min 38 s
+T-korsning Vännäsby öst
+ Vännäsby
+ Kvarnlund
+					0.4 km/0.3 km	21 s/15 s
+Vindelälven_väst
+					0.3 km/0.5 km	15 s/26 s
+(Vindelälven_öst)
+T-korsning Vännänget
+ Rödåsel
+Vännäs / Umeå
+					1.6 km/1.5 km	1 min 12 s/1 min 8 s
+Korsning Brattby N
+ Brattby
+					4.2 km/4.6 km	2 min 31 s/2 min 46 s
+Trp Gubböle
+ Gubböle, Brattby
+					4.0 km/3.5 km	2 min 24 s/2 min 6 s
+Järnvägskorsning
+					0.7 km/0.7 km	25 s/25 s
+Trp Norrfors
+(avfart västgående riktning
+påfart östgående riktning)
+ Norrfors
+					0.3 km/0.8 km	11 s/29 s
+(Rastplats Norrfors)
+Korsning Norrfors S
+ Norrfors, Tavelsjö
+
+Etapp n: Norrfors - Umeå (12,4 km/12,2 km)
+					1.0 km/0.6 km	0 min 45 s/0 min 27 s
+Korsning Brännland E12
+ Sörfors, Brännland
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+T-korsning Stornorrforsen
+					1.1 km/1.1 km	50 s/50 s
+T-korsning Kåddis N
+ Baggböle, Kåddis
+					3.3 km/3.3 km	2 min 28 s/2 min 28 s
+Korsning Umedalen
+ Umeå Umedalen
+ Hissjön
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Grubbe E12
+ Umeå Grubbe
+					2.3 km/2.3 km	1 min 58 s/1 min 58 s
+T-korsning E12/Backenv.
+ Lundaparken
+					0.7 km/0.8 km	50 s/58 s
+Rondell E12/Bomvägen
+ [363]: Vindeln
+ Västerslätt industri
+					0.7 km/0.9 km	0 min 50 s/1 min 5 s
+Trp Umeå Södra
+ E4 s: Sundsvall, Nordmaling
+ E12 ö: Holmsund, Umeå S
+ E4 n: Luleå, Skellefteå

@@ -1,0 +1,38 @@
+Time	Km	Instruction	For	Toward
+Summary:  35,6 kilometres (28 minutes)
+09:00	0,0	Depart Vitsandsvägen 90, 685 34 Torsby on 239 [Vitsandsvägen] (East)	0,4 km	
+09:00	0,4	At Vitsandsvägen, 685 34 Torsby, stay on 239 (East)	0,6 km	
+09:00	1,0	At Röbjörkeby, 685 92 Röbjörkeby, stay on 239 (East)	2,5 km	
+09:02	3,6	At 239, 685 92 Torsby, stay on 239 (East)	3,3 km	
+09:05	6,9	At 239, 685 92 Torsby, stay on 239 [Rinn] (East)	5,6 km	
+09:09	12,5	At 239, 685 92 Torsby, stay on 239 (East)	18,4 km	
+09:23	30,9	At near Framnäs, stay on 239 [Västanberg] (East)	1,4 km	
+09:24	32,3	At 239 7, 680 50 Ekshärad, stay on 239 (East)	0,9 km	
+09:25	33,2	At 239, 680 50 Ekshärad, stay on 239 [Mossberg Fall] (East)	2,4 km	
+09:28	35,6	Arrive Klarälvsvägen 5, 680 50 Ekshärad		
+
+SUMMARY
+Driving distance:  35,6 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  43,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,6 kilometres (28 minutes)
+09:00	0,0	Depart Torsbyvägen, 680 50 Ekshärad on 239 [Torsbyvägen] (West)	2,4 km	
+09:02	2,4	At 239, 680 50 Ekshärad, stay on 239 (West)	0,9 km	
+09:03	3,3	At 239, 680 50 Ekshärad, stay on 239 [Framnäs] (West)	1,4 km	
+09:05	4,7	At Råda Fridhem, 680 50 Ekshärad, stay on 239 [Västanberg] (West)	18,4 km	
+09:19	23,1	At 239, 685 92 Torsby, stay on 239 (West)	5,6 km	
+09:23	28,7	At Rinn, 685 92 Torsby, stay on 239 [Rinn] (West)	3,3 km	
+09:25	32,0	At Önneby, 685 92 Torsby, stay on 239 (West)	2,5 km	
+09:27	34,5	At Röbjörkeby, 685 92 Röbjörkeby, stay on 239 (West)	0,6 km	
+09:28	35,1	At Vitsandsvägen, 685 34 Torsby, stay on 239 [Vitsandsvägen] (West)	0,4 km	
+09:28	35,6	Arrive Vitsandsvägen 71, 685 34 Torsby		
+
+SUMMARY
+Driving distance:  35,6 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  43,27 kr
+

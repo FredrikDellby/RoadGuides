@@ -1,0 +1,88 @@
+Färdguide A111 (Berliner Ring - Berlin Zentrum)
+================================================
+
+AB-Kreuz Oranienburg (1)
+ A10 w: [A19]: Rostock
+        [A24]: Hamburg
+        [A2], [A9]
+ A10 o: [A11]: Stettin
+        [A12], [A13]
+ B96 n: Neusterlitz, Oranienburg
+					4.0 km/2.7 km	2 min 11 s/1 min 28 s
+Anschlausstelle 2a
+ Henningsdorf
+					0.8 km/0.8 km	26 s/26 s
+Oder-Havel-Kanal-Brücke (150 m)
+					2.3 km/2.2 km	1 min 15 s/1 min 12 s
+Anschlausstelle 2b
+ Stolpe
+					0.7 km/2.0 km	0 min 23 s/1 min 5 s
+Rasthof Stolper Heide
+ Bensin, Restaurang
+					2.2 km/0.9 km	1 min 12 s/0 min 29 s
+Brandenburg / Berlin
+Oberhavel / Stadt Berlin
+					1.6 km/2.2 km	1 min 4 s/1 min 28 s
+Anschlausstelle 3
+ Schulzendorfer Strasse
+					1.0 km/0.8 km	40 s/32 s
+Beyschlagtunnel (500 m)
+					1.2 km/0.9 km	48 s/36 s
+Forsthaustunnel (250 m)
+					1.3 km/1.6 km	0 min 52 s/1 min 4 s
+Anschlausstelle 4
+ Waidmannsluster Damm/
+ Hermsdorfer Damm
+Tunnel Tegel-nord
+ (753/755 m)
+					1.4 km/0.8 km	56 s/32 s
+Tunne Tegel-süd
+ (753/755 m)
+					0.4 km/0.6 km	16 s/24 s
+Tunnel Ernststrasse (154/152 m)
+					0.4 km/0.8 km	16 s/32 s
+Anschlausstelle 5
+ Holzhauser Strasse
+					1.2 km/0.7 km	48 s/28 s
+Anschlausstelle 6
+ Seidelstrasse
+(avfart sydgående riktning
+påfart nordgående riktning)
+					0.4 km/0.3 km	16 s/12 s
+Anschlausstelle 7
+ Kurt-Schumacher Platz
+ A105: B-Gesundbrunnen
+(avfart sydgående riktning
+påfart nordgående riktning)
+					0.4 km/0.6 km	16 s/24 s
+Tunnel Flughaven Tegel-nord
+ (934/997 m)
+Anschlausstelle 8
+ Eichborndamm
+(avfart nordgående riktning
+påfart sydgående riktning)
+					0.9 km/0.7 km	36 s/28 s
+Tunnel Flughaven Tegel-süd
+ (934/997 m)
+					0.6 km/0.7 km	24 s/28 s
+Anschlausstelle 9
+ Am Festplatz
+(avfart nordgående riktning
+påfart sydgående riktning)
+					0.7 km/0.7 km	28 s/28 s
+Anschlausstelle 10
+ Saatwinkler Damm
+ (Flughaven Tegel)
+(ej påfart sydgående)
+					0.4 km/0.4 km	16 s/16 s
+Anschlausstelle 11
+ Flughaven Tegel
+(avfart nordgående riktning
+påfart sydgående riktning)
+					0.3 km/0.8 km	12 s/32 s
+Anschlausstelle 12
+ Hedckerdamm
+					1.1 km/0.8 km	44 s/32 s
+AB-Dreieck Charlottenburg (13)
+ A100:
+

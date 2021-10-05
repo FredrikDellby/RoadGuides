@@ -1,0 +1,47 @@
+Motorvägssträckor i Sverige
+============================
+
+1. Rv40,E4 (Jönköping - Gävle)		493,0 km
+2. E6,E20 (Malmö - Pålen)		411,5 km
+3. E4 (Helsingborg - Kånna)		114,5 km
+4. E20,E18 (Vretstorp - Köping)		100,5 km
+5. E4 (Toftaholm - Jönköping)		84,5 km
+6. Rv40 (Göteborg - Getered)		80,5 km
+7. E20 (Eskilstuna - Södertälje)	76,5 km
+8. E18 (Enköping - Stockholm)		59,0 km
+9, Rv73 (Stockholm - Ösmo)		37,0 km
+10. E20 (Göteborg - Tollered)		29,0 km
+11. E4 (Söderhamn - Enånger)		27,0 km
+12. E22 (Malmö - Gårdstånga)		27,0 km
+13. E18 (Karlberg - Norrtälje)		25,5 km
+14. Lv222 (Stockholm - Värmdö)		19,0 km
+15. E18 (Lekhyttan - Örebro)		19,0 km
+16. Rv80 (Sandviken - Gävle)		19,0 km
+17. E18 (Dingtuna - Västerås)		18,5 km
+18. E18 (Bergshamra - Rosenkälla)	16,5 km
+19. E65 (Malmö - Svedala)		16,0 km
+20. E22 (Gualöv - Sölvesborg)		16,0 km
+21. E18 (förbi Karlstad)		15,0 km
+22. Rv44 (Uddevalla - Vänersborg)	15,0 km
+23. E4 (Sundsvall - Timrå)		14,5 km
+24. E6 (Strömstad - Svinesund)		14,5 km
+25. E6,E22 (Malmö - Vellinge)		14,0 km
+26. Rv21,E22 (Kristianstad - Fjälkinge)	10,0 km
+27. Inre Ringvägen i Malmö		10,0 km
+28. Rv53 (Nyköping - Oxelösund)		10,0 km
+29. Lv265 (Norrortsleden)		9,5 km
+30. E22 (förbi Kalmar)			8,0 km
+31. E18 (förbi Segmon)			6,0 km
+32. Lv228 (Saltsjöbadsleden)		5,5 km
+33. Lv229 (Tyresövägen)			5,5 km
+34. E4 (ut ur Helsingborg)		5,0 km
+35. E22 				4,5 km
+36. Rv34 (Linköpings västra infart)	4,0 km
+37. E22 (Nättraby - Karlskrona)		4,0 km
+38. Rv11 (Malmö - Sunnanå)		4,0 km
+39. Rv25 (Växjö infart)			4,0 km
+40. Lv273 (Arlandavägen)		3,5 km
+41. Malmö hamnmotorväg			3,5 km
+42. E22 (Norrköping S. infart)		3,0 km
+43. Lv229 (Tyresövägen)			2,5 km
+44. Norrköpings N. infart		2,5 km

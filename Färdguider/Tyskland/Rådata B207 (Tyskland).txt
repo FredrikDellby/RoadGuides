@@ -1,0 +1,56 @@
+Time	Km	Instruction	For	Toward
+Summary:  25,1 kilometres (17 minutes)
+09:00	0,0	Depart B207, 23769 Fehmarn on E47 [B207] (West)	0,9 km	
+09:01	0,9	At K49, 23769 Fehmarn, stay on E47 [B207] (South)	6,5 km	
+09:06	7,5	At B207, 23769 Fehmarn, stay on E47 [B207] (South-West)	3,6 km	
+09:08	11,1	At B207, 23769 Fehmarn, stay on E47 [B207] (South-West)	2,5 km	
+09:10	13,6	At near Strukkamp, stay on E47 [B207] (South)	1,0 km	
+09:10	14,6	At B207, 23775 Grossenbrode, stay on E47 [B207] (South)	1,8 km	
+09:12	16,4	At B207, 23775 Grossenbrode, stay on E47 [B207] (West)	0,5 km	
+09:12	16,9	At B207, 23775 Grossenbrode, stay on E47 [B207] (South-West)	5,6 km	
+09:16	22,5	At B207, 23774 Heiligenhafen, stay on E47 [B207] (West)	1,6 km	
+09:17	24,1	At B207, 23774 Heiligenhafen, stay on E47 [B207] (West)	1,0 km	A61 / Koblenz / Mainz
+09:17	25,1	Arrive B207, 23774 Heiligenhafen		
+
+SUMMARY
+Driving distance:  25,1 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  27,93 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,8 kilometres (18 minutes)
+09:00	0,0	Depart E47, 23774 Heiligenhafen on A1 [E47] (North-East)	0,7 km	
+09:00	0,7	Bear RIGHT (East) onto E47 [B207]	0,8 km	
+09:00	1,5	At B207, 23774 Heiligenhafen, stay on E47 [B207] (East)	2,0 km	
+09:02	3,4	At B207, 23774 Heiligenhafen, stay on E47 [B207] (East)	5,2 km	
+09:05	8,6	At B207, 23775 Grossenbrode, stay on E47 [B207] (East)	0,7 km	
+09:05	9,3	At B207, 23775 Grossenbrode, stay on E47 [B207] (East)	1,9 km	
+09:07	11,2	At B207, 23775 Grossenbrode, stay on E47 [B207] (North)	1,0 km	
+09:08	12,2	Turn LEFT (South) onto Local road(s)	50 m	
+09:08	12,2	At Fehmarnsundbrücke, 23769 Fehmarn, return North on Local road(s)	50 m	
+09:08	12,3	Road name changes to E47 [B207]	2,5 km	
+09:10	14,8	At B207, 23769 Fehmarn, stay on E47 [B207] (North-East)	3,2 km	
+09:12	17,9	At B207, 23769 Fehmarn, stay on E47 [B207] (North-East)	6,8 km	
+09:17	24,8	At B207, 23769 Fehmarn, stay on E47 [B207] (North)	1,0 km	Puttgarden / Mole / Parkplatz
+09:18	25,8	Arrive B207, 23769 Fehmarn		
+
+SUMMARY
+Driving distance:  25,8 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  32,73 kr
+
+Rödby-Puttgarden - Korsning
+0.9 km/1.0 km	1 min 48 s/2 min 0 s	30
+
+Korsning - Heiligenhafen-Mitte (6)
+6.5 km/6.8 km	4 min 53 s/5 min 6 s	80
+3.6 km/3.2 km	2 min 42 s/2 min 24 s
+2.5 km/2.6 km	1 min 53 s/1 min 57 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+1.8 km/1.9 km	1 min 21 s/1 min 26 s
+0.5 km/0.7 km	0 min 23 s/0 min 31 s
+5.6 km/5.2 km	4 min 12 s/3 min 54 s
+1.6 km/2.0 km	1 min 12 s/1 min 30 s
+1.0 km/1.5 km	0 min 45 s/1 min 8 s

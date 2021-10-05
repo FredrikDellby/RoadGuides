@@ -1,0 +1,55 @@
+Time	Km	Instruction	For	Toward
+Summary:  16,6 kilometres (16 minutes)
+09:00	0,0	Depart 110, 1606 Fredrikstad on Local road(s) (West)	50 m	
+09:00	0,1	Turn RIGHT (East) onto 110	0,2 km	
+09:00	0,3	At roundabout, take the SECOND exit onto 110	1,4 km	
+09:02	1,6	At roundabout, take the SECOND exit onto 110 [Haldenveien]	0,6 km	
+09:02	2,2	At roundabout, take the SECOND exit onto 110 [Haldenveien]	4,2 km	
+09:06	6,4	At Borgeveien, 1655 Fredrikstad, stay on 110 [Haldenveien] (East)	0,4 km	
+09:07	6,9	At 110, 1655 Fredrikstad, stay on 110 [Haldenveien] (East)	1,6 km	
+09:08	8,4	At 110 125, 1655 Fredrikstad, stay on 110 [Haldenveien] (South-East)	0,9 km	
+09:10	9,3	At Vikingveien 1, 1655 Fredrikstad, stay on 110 (East)	5,4 km	
+09:14	14,8	At 110, 1747 Sarpsborg, stay on 110 [Oldtidsveien] (North-East)	1,9 km	110 / Skjeberg St.
+09:16	16,6	Arrive near Skjeberg		
+
+SUMMARY
+Driving distance:  16,6 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  22,14 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,5 kilometres (15 minutes)
+09:00	0,0	Depart Oldtidsveien 1, 1747 Sarpsborg on 110 [Oldtidsveien] (West)	1,6 km	
+09:01	1,6	At Oldtidsveien, 1747 Sarpsborg, keep STRAIGHT to stay on 110 [Oldtidsveien]	5,8 km	110 / Fredrikstad
+09:05	7,3	At Vikingveien, 1747 Sarpsborg, stay on 110 [Haldenveien] (West)	0,9 km	
+09:07	8,2	At 110 125, 1655 Fredrikstad, stay on 110 [Haldenveien] (North-West)	1,6 km	
+09:08	9,8	At Grimstadveien, 1655 Fredrikstad, stay on 110 [Haldenveien] (West)	0,4 km	
+09:09	10,2	At 110, 1655 Fredrikstad, stay on 110 [Haldenveien] (West)	4,2 km	
+09:13	14,4	At roundabout, take the SECOND exit onto 110 [Haldenveien]	0,5 km	
+09:13	14,9	At roundabout, take the SECOND exit onto 110	1,4 km	
+09:15	16,3	At roundabout, take the FIRST exit onto 110	0,2 km	
+09:15	16,5	Arrive near Fredrikstad		
+
+SUMMARY
+Driving distance:  16,5 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  25,01 kr
+
+Fredrikstad Sentrum - 110/Grimstadveien
+0.3 km/0.2 km	0 min 22 s/0 min 14 s	50
+1.4 km/1.4 km	1 min 41 s/1 min 41 s
+0.6 km/0.5 km	0 min 43 s/0 min 36 s
+4.2 km/4.2 km	5 min 2 s/5 min 2 s
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+110/Grimstadveien - Självika-vest
+1.6 km/1.6 km	1 min 36 s/1 min 36 s	60
+
+Självika-vest - Självika-öst
+0.9 km/0.9 km	1 min 5 s/1 min 5 s	50
+
+Självika-öst - Skjeberg
+5.4 km/5.8 km	4 min 38 s/4 min 58 s	70
+1.9 km/1.6 km	1 min 38 s/1 min 22 s

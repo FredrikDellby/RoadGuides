@@ -1,0 +1,42 @@
+Kr. Locin - Sortie 38
+3.0 km/0.7 km	2 min 0 s/0 min 28 s	90
+1.1 km/0.8 km	0 min 44 s/0 min 32 s
+1.1 km/1.5 km	0 min 44 s/1 min 0 s
+0.7 km/1.1 km	0 min 28 s/0 min 44 s
+1.2 km/0.3 km	0 min 48 s/0 min 12 s
+1.0 km/1.4 km	0 min 40 s/0 min 56 s
+1.6 km/1.2 km	1 min 4 s/0 min 48 s
+0.6 km/0.6 km	0 min 24 s/0 min 24 s
+0.7 km/1.8 km	0 min 28 s/1 min 12 s
+
+Sortie 38 - Sortie 44
+1.6 km/0.6 km	0 min 58 s/0 min 22 s	100
+0.8 km/0.9 km	0 min 29 s/0 min 32 s
+1.4 km/2.0 km	0 min 50 s/1 min 12 s
+3.0 km/2.4 km	1 min 48 s/1 min 26 s
+1.2 km/2.2 km	0 min 43 s/1 min 19 s
+2.8 km/1.6 km	1 min 41 s/0 min 58 s
+3.2 km/3.4 km	1 min 55 s/2 min 2 s
+
+Sortie 44 - Aire de Fagne
+1.4 km/2.2 km	0 min 46 s/1 min 12 s	110
+2.0 km/2.0 km	1 min 5 s/1 min 5 s
+2.8 km/3.2 km	1 min 32 s/1 min 45 s
+7.4 km/7.3 km	4 min 2 s/3 min 59 s
+5.8 km/5.9 km	3 min 10 s/3 min 13 s
+2.2 km/1.1 km	1 min 12 s/0 min 36 s
+0.6 km/1.2 km	0 min 20 s/0 min 39 s
+
+Aire de Fagne - Neufchâteau
+6.5 km/6.7 km	3 min 33 s/3 min 39 s	110
+7.0 km/6.9 km	3 min 49 s/3 min 46 s
+10.0 km/9.9 km	5 min 27 s/5 min 24 s
+3.1 km/3.6 km	1 min 41 s/1 min 58 s
+6.5 km/6.5 km	3 min 33 s/3 min 33 s
+6.7 km/6.2 km	3 min 39 s/3 min 23 s
+2.9 km/2.9 km	1 min 35 s/1 min 35 s
+1.9 km/2.1 km	1 min 2 s/1 min 9 s
+3.4 km/3.2 km	1 min 51 s/1 min 45 s
+4.8 km/4.6 km	2 min 37 s/2 min 31 s
+2.6 km/3.1 km	1 min 25 s/1 min 41 s
+9.3 km/9.9 km	5 min 4 s/5 min 24 s

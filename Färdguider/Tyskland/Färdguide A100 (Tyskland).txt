@@ -1,0 +1,111 @@
+Färdguide A100 (Stadtring Berlin)
+==================================
+
+Anschlausstelle 1
+(avfart västgående riktning
+påfart östgående riktning)
+ Seestrasse
+Anschlausstelle 2
+(avfart östgående riktning
+påfart västgående riktning)
+ Beusselstrasse
+					2.0 km/1.5 km	1 min 20 s/1 min 0 s
+Anschlausstelle 3
+(ej avfart västgående)
+ Jakob-Kaiser-Platz
+					0.8 km/1.1 km	32 s/44 s
+AB-Dreieck Charlottenburg (4)
+(avfart östgående riktning
+påfart västgående riktning)
+Anschlausstelle 5
+(avfart östgående riktning
+påfart västgående riktning)
+ Siemensdamm
+					1.5 km/1.8 km	1 min 0 s/1 min 12 s
+Anschlausstelle 6
+ Spandauer Damm
+					0.8 km/0.7 km	32 s/28 s
+Anschlausstelle 7
+ Kaiserdamm
+ B2, B5
+					0.7 km/0.6 km	28 s/24 s
+Anschlausstelle 8
+(sydgående riktning)
+ Kaiserdamm-Süd
+					0.4 km/0.9 km	16 s/36 s
+Anschlausstelle 9
+(endast avfart sydgående)
+ Messedamm-Nord
+Tankstelle Avus
+AB-Kreuz Funkturm (10)
+ A115: Potsdam
+ [A2]: Hannover
+ [A9]: München
+Anschlausstelle 11
+(endast avfart nordgående)
+ Messedamm-Süd
+					0.9 km/1.0 km	36 s/40 s
+Anschlausstelle 12
+ Kurfürstendamm
+(Tunnel Rathenauplatz (212 m))
+					1.2 km/1.1 km	48 s/44 s
+Anschlausstelle 13
+ Hohenzollerndamm
+					1.0 km/0.7 km	40 s/28 s
+Anschlausstelle 14
+ Schmargendorf
+ A104: Steglitz
+					0.8 km/0.8 km	32 s/32 s
+Anschlausstelle 15
+ Detmolder Strasse
+					1.3 km/2.0 km	0 min 52 s/1 min 20 s
+Anschlausstelle 16
+ Wexstrasse
+Anschlausstelle 17
+ Innsbrucker Platz
+(Tunnel Innsbrucker Platz)
+ (264 m)
+					1.2 km/0.7 km	48 s/0 min 28 s
+AB-Kreuz Schöneberg (18)
+ A103: Steglitz
+					1.4 km/1.6 km	0 min 56 s/1 min 4 s
+Anschlausstelle 19
+ Alboinstrasse
+					1.0 km/0.9 km	40 s/36 s
+Anschlausstelle 20
+ Tempelhofer Damm
+ B96: 
+					1.5 km/1.6 km	1 min 0 s/1 min 4 s
+Anschlausstelle 21
+ Oberlandstrasse
+Anschlausstelle 22
+(avfart östgående riktning
+påfart västgående riktning)
+ Gradestrasse
+ A102:
+					1.3 km/0.6 km	52 s/24 s
+Tunnel Britz-west
+ (1713 m)
+					0.9 km/0.9 km	36 s/36 s
+Anschlausstelle 23
+(avfart östgående riktning
+påfart västgående riktning)
+ Britzer Damm
+					0.7 km/1.8 km	0 min 28 s/1 min 12 s
+Anschlausstelle 24
+ Buschkrugallee
+ B179: 
+Tunnel Britz-ost
+ (1713 m)
+AB-Dreieck Neukölln (25)
+(avfart östgående riktning
+påfart västgående riktning)
+ A113 [A13]: Dresden
+ Flughaven Schönefeld
+ [A12]: Frankfurt/Oder
+Neuköllner Schiffahrtskanal
+ (180 m)
+Anschlausstelle 26
+(avfart västgående riktning
+påfart östgående riktning)
+ Grenzallee

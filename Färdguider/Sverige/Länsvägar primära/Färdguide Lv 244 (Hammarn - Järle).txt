@@ -1,0 +1,112 @@
+Färdguide Lv 244 Lilla Mon - Hammarn
+=====================================
+
+Etapp 1: Lilla Mon - Gyttorp (11,7 km/11,0 km)
+
+Trafikplats Lilla Mon
+ 50 n: Falun, Kopparberg
+ 68 n: Gävle, Lindesberg
+ 50-68 s: Örebro
+	(50-68 N)		1,0 km/0,4 km
+	(50-68 S)		0,5 km/0,4 km
+
+Korsning Lilla Mon (lokal väg)
+ Pendelparkering
+(Uppställningsplats)
+					2,4 km/2,4 km
+Järnvägskorsning
+ Övergivet spår
+					2,0 km/2,0 km
+T-korsning Västra Sund
+ Fingerboda
+ Nora Golfklubb
+					0,6 km/0,6 km
+Korsning Rephagen
+ Hitorp (Nora S)
+ Ramshyttan
+					1,3 km/1,3 km
+Infoplats
+(bäst lämpad nordgående)
+					0,4 km/0,4 km
+T-korsning Lv 244/Industrivägen
+ Pershyttans Industriomr
+					0,6 km/1,0 km
+(Järnvägsviadukt)
+ Nora-Bergslags järnväg
+Trp Nora södra
+ Pershyttan
+ Nora Centrum
+					1,1 km/0,7 km
+Infoplats
+(bäst lämpad sydgående)
+					1,5 km/1,5 km
+Korsning Bergsäng (lokal väg)
+ Bergsäng
+ Gyttorps Gärde
+					0,8 km/0,8 km
+(Gyttorpsån)
+T-korsning Gyttorp Ö/Krutbruket
+ 243: Karlskoga, Centrum
+ Östra Industriomr
+
+Etapp 2: Gyttorp - Grythyttan (35,6 km/35,6 km)
+					1,1 km/1,1 km
+Korsning Gyttorp N
+ Järnboås, Striberg
+ Konunga-Stollen Gruvpark
+					0,4 km/0,3 km
+T-korsning Kopparbäcken (lokal väg)
+ Västra Industriomr
+					1,2 km/1,2 km
+(T-korsning Åkernäsvägen)
+ ORICA, Åkernäs Terminal
+					1,0 km/1,0 km
+Dubbel T-korsning Fogdhytttan
+ Nor
+ Striberg
+					6,9 km/6,8 km
+T-korsning Greckåsar östra (enskild väg)
+ Bygdegård, Kapell
+					0,3 km/0,4 km
+Dubbel T-korsning Greckåsar södra
+ Sörgården (enskild väg)
+ Hyttruin (lokal väg)
+					4,0 km/4,0 km
+T-korsning Stadra södra (enskild väg)
+ Stadra Teater, lokal väg
+					0,4 km/0,4 km
+T-korsning Stadra mitt (lokal väg)
+ Stadra Teater, lokal väg
+					0,4 km/0,4 km
+T-korsning Stadra norra
+ Rockesholm
+					4,0 km/3,9 km
+Nora / Hällefors: (59.5917785,14.6863728)
+					6,7 km/6,8 km
+T-korsning Kärvingeborn
+ Timansberg
+					2,5 km/2,5 km
+T-korsning Kråkvik
+ Karlsdal, Rocksholm, Älvestorp
+					6,2 km/6,2 km
+Korsning
+ Gränbäcken, Spiktorp
+					0,6 km/0,6 km
+Korsning Grythyttan Ö
+ 205: Karlskoga, Loka, Centrum
+ Gästgivaregård, Loka Brunn
+ Måltidens hus
+ Bensinstation: Circle-K
+
+Etapp 3: Grythyttan - Hammarn (5,4 km/5,5 km)
+					1,3 km/1,3 km
+Korsning Grythyttan N
+ (Aborrtjärn)
+ Grythyttan
+					3,3 km/3,3 km
+T-korsning Stentäppan (lokal väg)
+ Grythyttans livsmedelsby
+					0,9 km/0,9 km
+T-korsning Hammarn N
+ 63 v: Karlstad, Filipstad
+ 63 ö: Ludvika, Hällefors

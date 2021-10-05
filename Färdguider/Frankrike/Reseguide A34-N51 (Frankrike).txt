@@ -1,0 +1,70 @@
+Sortie 9
+ N43: Cambrai
+ A203: Metz, Sedan
+					1.3 km/0.9 km	0 min 43 s/0 min 29 s
+Sortie 10
+ La Francheville
+					5.3 km/4.8 km	2 min 53 s/2 min 37 s
+Sortie 11
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Saint-Pierre-sur-Vence
+ Boulzicourt
+					1.4 km/2.4 km	0 min 46 s/1 min 19 s
+Sortie 12
+ Guignicourt-sur-Vence,
+ Yvernaumont
+					5.0 km/4.7 km	2 min 44 s/2 min 34 s
+Sortie 13
+ Montigny-sur-Vence
+ Poix-Terron
+					11.4 km/11.7 km	6 min 13 s/6 min 23 s
+Sortie 14
+ Faissault
+ Saulces-Monclin
+					7.1 km/6.5 km	3 min 52 s/3 min 33 s
+Aire Faissault
+					5.1 km/4.7 km	2 min 47 s/2 min 34 s
+Sortie 15
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Rethel - Pargny
+					1.7 km/2.2 km	1 min 8 s/1 min 28 s
+Sortie Rethel-Nord
+					2.0 km/1.6 km	1 min 20 s/1 min 4 s
+Sortie Rethel-Ouest
+(avfart nordgående riktning
+påfart sydgående riktning)
+					2.3 km/2.8 km	1 min 32 s/1 min 52 s
+Sortie Rethel-Sud
+					6.4 km/5.9 km	3 min 50 s/3 min 32 s
+Tagnon-Nord
+(påfart nordgående riktning)
+					2.0 km/2.3 km	1 min 12 s/1 min 23 s
+Sortie Tagnon-Ouest
+(sydgående riktning)
+					1.1 km/0.8 km	0 min 40 s/0 min 29 s
+Tagnon-Sud
+(avfart nordgående riktning)
+					1.6 km/2.0 km	0 min 58 s/1 min 12 s
+Sortie Le Châtelet-sur-Retourne
+					5.0 km/4.6 km	3 min 0 s/2 min 46 s
+Ardennes / Marne
+					4.1 km/4.2 km	2 min 28 s/2 min 31 s
+Sortie Warmeriville
+(ej avfart sydgående)
+					2.2 km/2.1 km	1 min 19 s/1 min 16 s
+Sortie D20 A
+					3.9 km/3.8 km	2 min 20 s/2 min 17 s
+Sortie Caurel
+(ej avfart sydgående)
+					4.3 km/5.1 km	2 min 35 s/3 min 4 s
+Sortie 25
+ Witry-lès-Reims
+					5.1 km/5.0 km	3 min 4 s/3 min 0 s
+Sortie 26
+ Université
+					1.1 km/0.9 km	0 min 40 s/0 min 32 s
+Sortie N44
+					1.3 km/1.2 km	1 min 34 s/1 min 26 s
+Sortie A4-26

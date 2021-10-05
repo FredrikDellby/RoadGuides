@@ -1,0 +1,56 @@
+A28 (Rouen - Le Mans)
+======================
+
+Échangeur A13 et A28
+ A13 o: Caen, Le Havre
+ A13 e: Paris, Rouen
+Aire du Domaine d'Harcourt
+					15.1 km/14.9 km	7 min 33 s/7 min 27 s
+(Péage de Bourg-Achard)	
+
+Sortie 13
+					22.2 km/22.2 km	11 min 6 s/11 min 6 s
+Sortie 14
+ Brionne
+Aire de Risle
+					16.1 km/17.1 km	8 min 3 s/8 min 33 s
+Sortie 15
+ Bernay
+					15.7 km/14.2 km	7 min 51 s/7 min 6 s
+Haute-Normandie / Basse-Normandie
+Eure / Orne
+					6.4 km/7.2 km	3 min 12 s/3 min 36 s
+Aire de Harras
+					10.0 km/9.7 km	5 min 0 s/4 min 51 s
+Sortie 16
+ Borglie / Orbec
+					14.9 km/16.7 km	7 min 27 s/8 min 21 s
+Aire des Sources de l'Orne
+					3.7 km/2.0 km	1 min 51 s/1 min 0 s
+Échangeur A28 et A88
+ A88: Caen
+					21.8 km/21.8 km	10 min 54 s/10 min 54 s
+Sortie 18
+ Cerisé
+Aire de la Dentelle d'Alencon
+					1.9 km/1.5 km	57 s/45 s
+Basse Normandie / Pays-de-la-Loire
+Orne / Sarthe
+					4.8 km/5.6 km	2 min 24 s/2 min 48 s
+Sortie 19
+ Arconnay
+					10.6 km/10.3 km	5 min 18 s/5 min 9 s
+Sortie 20
+ Rouessé Fontaine
+					8.1 km/8.2 km	4 min 3 s/4 min 6 s
+Aire de Joël Boisgard
+(sydgående riktning)
+Aire de La Suzannerie
+(nordgående riktning)
+					5.7 km/5.8 km	2 min 51 s/2 min 54 s
+Sortie 21
+ Maresché
+					17.2 km/17.6 km	8 min 36 s/8 min 48 s
+Échangeur A11 et A28
+ A11 o: Nantes, Angers
+ A11 e: Paris, Chartres

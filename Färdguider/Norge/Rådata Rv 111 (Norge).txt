@@ -1,0 +1,97 @@
+Time	Km	Instruction	For	Toward
+Summary:  21,6 kilometres (18 minutes)
+09:00	0,0	Depart Mysenveien 5, 1890 Rakkestad on 22 [Mysenveien] (South-West)	0,2 km	
+09:00	0,2	Road name changes to 111 [Sarpsborgveien]	5,1 km	
+09:04	5,2	At Korsning, stay on 111 (South)	2,5 km	
+09:07	7,8	At Järnvägskorsning, stay on 111 (West)	1,9 km	
+09:08	9,6	At Järnvägskorsning, stay on 111 (South)	0,3 km	
+09:08	9,9	At 111, 1730 Sarpsborg, stay on 111 (South-West)	2,9 km	
+09:11	12,8	At T-korsning Rv 22/Sekkelandveien, stay on 111 (South-West)	3,3 km	
+09:13	16,0	At T-korsning Ise, stay on 111 (South-West)	2,8 km	
+09:16	18,8	At Bredmyra, 1739 Sarpsborg, stay on 111 [Iseveien] (South-West)	2,8 km	
+09:18	21,6	Arrive Iseveien, 1738 Sarpsborg		
+
+SUMMARY
+Driving distance:  21,6 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  30,76 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,5 kilometres (18 minutes)
+09:00	0,0	Depart 118, 1738 Sarpsborg on Local road(s) (South)	40 m	
+09:00	0,1	Bear RIGHT (East) onto 111 [Iseveien]	2,6 km	
+09:02	2,7	At Hevingen, 1739 Sarpsborg, stay on 111 [Iseveien] (North-East)	2,8 km	
+09:05	5,5	At T-korsning Ise, stay on 111 (North)	3,4 km	
+09:07	8,9	At T-korsning Rv 111/Sekkelandveien, stay on 111 (North)	2,9 km	
+09:10	11,8	At 111, 1730 Sarpsborg, stay on 111 (East)	0,3 km	
+09:10	12,1	At Järnvägskorsning, stay on 111 (North)	1,8 km	
+09:11	13,9	At Korsning, stay on 111 (East)	2,6 km	
+09:14	16,4	At 111, 1890 Rakkestad, stay on 111 (North)	5,1 km	
+09:18	21,5	Arrive 111, 1890 Rakkestad		
+
+SUMMARY
+Driving distance:  21,5 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  30,48 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,9 kilometres (14 minutes)
+09:00	0,0	Depart 118, 1722 Sarpsborg on Local road(s) (North)	40 m	
+09:00	0,1	Turn RIGHT (South-West) onto 111 [Statsminister Torps Vei]	2,0 km	
+09:02	2,0	At 111 60, 1722 Sarpsborg, stay on 111 [Sarpsborgveien] (South-West)	0,4 km	
+09:02	2,4	At T-korsning Rv 11/Moltebergveien, stay on 111 [Sarpsborgveien] (West)	0,3 km	
+09:03	2,7	At roundabout, take the SECOND exit onto 111	0,3 km	
+09:03	3,1	At roundabout, take the SECOND exit onto 111 [Sarpsborgveien]	0,4 km	111 / Fredrikstad Ø
+09:04	3,5	At T-korsning, stay on 111 [Sarpsborgveien] (West)	6,3 km	
+09:11	9,8	At T-korsning Rv 111/Fv113, stay on 111 [Sarpsborgveien] (South)	3,0 km	
+09:14	12,9	Enter roundabout	10 m	
+09:14	12,9	Arrive Sarpsborgveien, 1637 Fredrikstad		
+
+SUMMARY
+Driving distance:  12,9 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,9 kilometres (14 minutes)
+09:00	0,0	Depart 111, 1639 Fredrikstad on Local road(s) (North)	40 m	
+09:00	0,1	Bear RIGHT (North-West) onto 111 [Sarpsborgveien]	3,0 km	
+09:03	3,0	At T-korsning Rv 111/Fv113, stay on 111 [Sarpsborgveien] (North)	6,2 km	
+09:09	9,3	At near Årum, stay on 111 [Sarpsborgveien] (East)	0,5 km	
+09:10	9,8	At roundabout, take the FIRST exit onto 111 [Sarpsborgveien]	0,7 km	111 / Rakkestad / Hafslund
+09:11	10,5	At T-korsning Rv 11/Moltebergveien, stay on 111 [Sarpsborgveien] (East)	0,4 km	
+09:12	10,9	At 111, 1722 Sarpsborg, stay on 111 [Statsminister Torps Vei] (North-East)	2,0 km	
+09:14	12,9	Arrive 111, 1722 Sarpsborg		
+
+SUMMARY
+Driving distance:  12,9 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,15 kr
+
+Rv 22/Rv 124/Rv 111 - Ise
+5.2 km/5.1 km	4 min 27 s/4 min 22 s	70
+2.5 km/2.6 km	2 min 9 s/2 min 14 s
+1.9 km/1.8 km	1 min 38 s/1 min 33 s
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+2.9 km/2.9 km	2 min 29 s/2 min 29 s
+3.3 km/3.4 km	2 min 50 s/2 min 55 s
+
+Ise - Rv 111/Rv 118
+2.8 km/2.8 km	3 min 22 s/3 min 22 s	50
+2.8 km/2.7 km	3 min 22 s/3 min 14 s
+
+Rv 111/Rv 118 - Årumkrysset
+2.0 km/2.0 km	2 min 24 s/2 min 24 s	50
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+0.3 km/0.7 km	0 min 22 s/0 min 50 s
+
+Årumkrysset - Rv 111/Fv113
+0.8 km/0.5 km	0 min 48 s/0 min 30 s	60
+6.3 km/6.2 km	6 min 18 s/6 min 12 s
+
+Rv 111/Fv113 - Rv 110/Rv 111
+3.1 km/3.0 km	3 min 43 s/3 min 36 s	50

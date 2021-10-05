@@ -1,0 +1,103 @@
+Time	Km	Instruction	For	Toward
+Summary:  58,3 kilometres (30 minutes)
+09:00	0,0	*Toll road* Depart A2, 80360 Combles on A2 [E19] (North-East)	19,0 km	A2 / E19 / Cambrai / Valenciennes / Bruxelles / Liège
+09:10	19,0	*Toll road* At E19, 62147 Havrincourt, stay on A2 [E19] (North-East)	3,3 km	
+09:11	22,3	*Toll road* At E19, 62147 Graincourt-LÈS-Havrincourt, keep STRAIGHT to stay on A2 [E19]	5,8 km	A2 / E19 / Cambrai / Valenciennes / Bruxelles / Liège
+09:14	28,1	*Toll road* At 14, stay on A2 [E19] (North)	13,1 km	A2 / E19 / Valenciennes / Bruxelles / Liège
+09:21	41,2	At 15, stay on A2 [E19] (North-East)	2,4 km	A2 / E19 / Denain / Valenciennes / Bruxelles / Liège
+09:22	43,7	At E19, 59111 Lieu-Saint-Amand, stay on A2 [E19] (North)	2,6 km	
+09:24	46,3	At 16, stay on A2 [E19] (North-East)	1,6 km	A2 / E19 / Denain / Valenciennes / Bruxelles / Liège
+09:25	47,9	At 17, stay on A2 [E19] (North-East)	3,1 km	A2 / E19 / Denain-Centre / Valenciennes / Bruxelles / Liège
+09:26	51,0	At 18, stay on A2 [E19] (East)	3,7 km	A2 / E19 / Valenciennes / Bruxelles / Liège
+09:28	54,7	At 19, stay on A2 [E19] (North-East)	1,3 km	
+09:29	56,0	At 20, stay on A2 [E19] (East)	2,3 km	A2 / E19 / Valenciennes-Centre / Bruxelles / Liège
+09:30	58,3	Arrive A23, 59300 Valenciennes		
+
+SUMMARY
+Driving distance:  58,3 kilometres
+Trip duration:  30 minutes
+Driving time:  30 minutes
+Cost:  65,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  58,8 kilometres (30 minutes)
+09:00	0,0	Depart A2, 59300 Valenciennes on A2 [E19] (West)	1,1 km	A2 / E19 / Denain / Douai / Cambrai / Paris
+09:00	1,1	At 20, stay on A2 [E19] (West)	2,4 km	
+09:01	3,5	At E19, 59220 Rouvignies, stay on A2 [E19] (South-West)	2,8 km	
+09:03	6,3	At 18, stay on A2 [E19] (West)	3,1 km	A2 / E19 / Douai / Denain-Nouveau Monde / Cambrai / Reims / Paris
+09:04	9,4	At 17, stay on A2 [E19] (South-West)	2,4 km	A2 / E19 / Cambrai / Reims / Amiens / Paris
+09:06	11,8	At near Neuville-sur-Escaut, stay on A2 [E19] (South-West)	2,5 km	
+09:07	14,4	At 15.1, stay on A2 [E19] (South)	1,7 km	
+09:08	16,0	*Toll road* At 15, stay on A2 [E19] (South-West)	13,1 km	A2 / E19 / Cambrai-Ouest / Amiens / Paris / St Quentin / Reims
+09:15	29,1	*Toll road* At 14, stay on A2 [E19] (South)	5,0 km	A2 / E19 / St Quentin / Amiens / Reims / Paris
+09:17	34,1	*Toll road* At E19, 59400 Anneux, stay on A2 [E19] (West)	4,4 km	A2 / E17 / Amiens / Paris
+09:20	38,5	*Toll road* At E19, 62147 Graincourt-LÈS-Havrincourt, stay on A2 [E19] (South-West)	20,3 km	
+09:30	58,8	Arrive A1, 80360 Combles		
+
+SUMMARY
+Driving distance:  58,8 kilometres
+Trip duration:  30 minutes
+Driving time:  30 minutes
+Cost:  65,70 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,8 kilometres (9 minutes)
+09:00	0,0	Depart A23, 59300 Valenciennes on A2 [E19] (East)	0,8 km	
+09:00	0,8	At 21, stay on A2 [E19] (East)	2,9 km	A2 / E19 / Maubeuge / Mons / Bruxelles / Liège / Valenciennes-le Roleur
+09:01	3,7	At 22A, stay on A2 [E19] (East)	2,4 km	
+09:03	6,0	At 23, stay on A2 [E19] (North-East)	2,8 km	
+09:04	8,9	At 23.1, stay on A2 [E19] (North-East)	1,4 km	A2 / E19 / Liège / Bruxelles / Mons / Parc d'Activités de la Vallée de l'Escaut-Nord
+09:05	10,3	At 24, stay on A2 [E19] (North)	2,9 km	
+09:06	13,2	At 25, stay on A2 [E19] (North)	1,7 km	
+09:07	14,9	At E19, 59243 Quarouble, stay on A2 [E19] (North)	2,9 km	
+09:09	17,8	Arrive 26		
+
+SUMMARY
+Driving distance:  17,8 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  20,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (10 minutes)
+09:00	0,0	Depart near Hensies on A7 [E19] (West)	0,3 km	
+09:00	0,3	Entering France		
+09:00	0,3	Road name changes to A2 [E19]	1,7 km	
+09:01	2,0	At E19, 59154 Crespin, stay on A2 [E19] (South-West)	3,1 km	
+09:03	5,2	At 25, stay on A2 [E19] (South)	2,8 km	
+09:04	8,0	At 24, stay on A2 [E19] (South)	1,9 km	A2 / E19 / Paris / Valenciennes / Parc d'Activités de la Vallée de l'Escaut-Sud
+09:05	9,8	At 23.1, stay on A2 [E19] (South-West)	2,6 km	
+09:07	12,5	At 23, stay on A2 [E19] (South)	2,7 km	A2 / E19 / Valenciennes-Centre / Paris
+09:08	15,2	At E19, 59770 Marly, stay on A2 [E19] (West)	2,0 km	
+09:09	17,2	At 21, stay on A2 [E19] (West)	2,0 km	A2 / E19 / Denain / Douai / Lille / Paris / Valenciennes-le Vignoble
+09:10	19,3	Arrive near Saint-Léger		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  22,49 kr
+
+Resultat:
+19.0 km/20.3 km	9 min 30 s/10 min 9 s
+3.3 km/4.4 km	1 min 39 s/2 min 12 s
+5.8 km/5.0 km	2 min 54 s/2 min 30 s
+13.1 km/13.1 km	6 min 33 s/6 min 33 s
+
+2.4 km/1.7 km	1 min 19 s/0 min 56 s
+2.6 km/2.5 km	1 min 25 s/1 min 22 s
+1.6 km/2.4 km	0 min 52 s/1 min 19 s
+3.1 km/3.1 km	1 min 41 s/1 min 41 s
+3.7 km/2.8 km	2 min 1 s/1 min 32 s
+1.3 km/2.4 km	0 min 43 s/1 min 19 s
+2.3 km/1.1 km	1 min 15 s/0 min 36 s
+
+0.8 km/2.0 km	0 min 29 s/1 min 12 s
+2.9 km/2.0 km	1 min 44 s/1 min 12 s
+2.4 km/2.7 km	1 min 26 s/1 min 37 s
+
+2.8 km/2.6 km	1 min 32 s/1 min 25 s
+1.4 km/1.9 km	0 min 46 s/1 min 2 s
+2.9 km/2.8 km	1 min 35 s/1 min 32 s
+1.7 km/3.1 km	0 min 56 s/1 min 41 s
+2.9 km/2.0 km	1 min 35 s/1 min 5 s

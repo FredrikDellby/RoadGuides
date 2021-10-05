@@ -1,0 +1,129 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,2 kilometres (9 minutes)
+09:00	0,0	Depart near Dyretorp on Local road(s) (North-West)	40 m	
+09:00	0,1	Bear RIGHT (South-West) onto Local road(s)	10 m	
+09:00	0,1	Bear RIGHT (West) onto Local road(s)	80 m	
+09:00	0,1	Road name changes to 160	0,3 km	
+09:00	0,5	Keep RIGHT onto Local road(s)	20 m	
+09:00	0,5	At roundabout, take the SECOND exit onto Local road(s)	60 m	
+09:00	0,5	Keep STRAIGHT onto 160	0,9 km	
+09:01	1,5	At T-korsning Strandkärr, stay on 160 (North-West)	0,8 km	
+09:02	2,2	At T-korsning, stay on 160 (North)	0,6 km	
+09:02	2,9	At T-korsning Strandnorum, stay on 160 [Kåkenäs] (North)	1,2 km	
+09:04	4,1	At T-korsning Kråkenäs, stay on 160 (North)	0,7 km	
+09:04	4,8	At 160, 444 47 Stenungsund, stay on 160 (North)	0,9 km	
+09:05	5,6	At 160, 444 47 Stenungsund, stay on 160 (West)	0,9 km	
+09:06	6,5	At Infart_shell, stay on 160 (South-West)	2,7 km	
+09:09	9,2	Arrive T-korsning Myggenäs korsv.		
+
+SUMMARY
+Driving distance:  9,2 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  13,06 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,7 kilometres (8 minutes)
+09:00	0,0	Depart T-korsning Myggenäs korsv. on 160 (East)	0,8 km	
+09:00	0,8	At near Myggenäs, stay on 160 (East)	1,1 km	
+09:01	1,9	At near Norra Stenungsön, stay on 160 (East)	0,9 km	
+09:02	2,8	At T-korsning Stenungsön, stay on 160 (North-East)	0,5 km	
+09:03	3,3	At 160, 444 48 Norra Stenungsön, stay on 160 (East)	0,6 km	
+09:03	3,9	At 160, 444 47 Stenungsund, keep STRAIGHT to stay on 160	1,3 km	
+09:05	5,2	At T-korsning Kråkenäs, stay on 160 (South)	1,2 km	
+09:06	6,4	At T-korsning Strandnorum, stay on 160 (South)	0,6 km	
+09:07	7,1	At T-korsning, stay on 160 (South-East)	0,6 km	
+09:07	7,7	At T-korsning Strandkärr, stay on 160 (South)	1,0 km	
+09:08	8,7	Arrive 160, 444 60 Stora Höga		
+
+SUMMARY
+Driving distance:  8,7 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  12,43 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  26,3 kilometres (22 minutes)
+09:00	0,0	Depart T-korsning Varekil korsväg on 160 [Borgevägen] (North)	4,6 km	
+09:03	4,6	At Korsning Vräland, stay on 160 (North)	7,4 km	
+09:09	12,1	At T-korsning Henån S, stay on 160 [Stenungsundsvägen] (North)	0,5 km	
+09:09	12,6	At Infart_Statoil, stay on 160 [Stenungsundsvägen] (North)	0,4 km	
+09:10	13,0	At T-korsning Henån Ö, stay on 160 [Uddevallavägen] (North)	3,3 km	
+09:12	16,3	At Rastplats Såten, stay on 160 (North-East)	2,7 km	
+09:15	18,9	At T-korsning Gåre, stay on 160 (North)	1,6 km	
+09:16	20,6	At 160, 473 91 Henån, stay on 160 (North)	0,6 km	
+09:16	21,1	At 160, 473 91 Henån, stay on 160 (North)	0,7 km	
+09:17	21,8	At 160 307, 451 96 Sundsandvik, stay on 160 [Högås Sundsandvik] (North-West)	1,0 km	
+09:18	22,8	At Untitled 45, stay on 160 (North)	2,1 km	
+09:20	24,9	At T-korsning Högås kyrka, stay on 160 (North)	1,4 km	
+09:22	26,3	Arrive Rotvik, 451 96 Uddevalla		
+
+SUMMARY
+Driving distance:  26,3 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  32,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,4 kilometres (22 minutes)
+09:00	0,0	Depart near Lanesund on Local road(s) (West)	40 m	
+09:00	0,1	Bear RIGHT (South) onto 160 [Rotvik]	1,5 km	
+09:01	1,5	At T-korsning Högås kyrka, stay on 160 [Åsen] (South)	2,1 km	
+09:03	3,6	At Untitled 45, stay on 160 (South)	1,0 km	
+09:04	4,6	At 160 307, 451 96 Sundsandvik, stay on 160 [Högås Sundsandvik] (South-East)	0,6 km	
+09:05	5,3	At near Vindön, stay on 160 (South)	0,6 km	
+09:05	5,9	At 160, 473 91 Henån, stay on 160 (South)	1,6 km	
+09:07	7,5	At T-korsning Gåre, stay on 160 (South)	2,7 km	
+09:09	10,2	At Rastplats Såten, stay on 160 (South-West)	3,3 km	
+09:12	13,5	At T-korsning Henån Ö, stay on 160 [Stenungsundsvägen] (South)	0,4 km	
+09:12	13,9	At Infart_Statoil, stay on 160 [Stenungsundsvägen] (South)	0,3 km	
+09:12	14,2	At Infart_shell, stay on 160 [Stenungsundsvägen] (South)	7,6 km	
+09:18	21,8	At Korsning Vräland, stay on 160 (South)	4,5 km	
+09:22	26,4	Arrive T-korsning Varekil korsväg		
+
+SUMMARY
+Driving distance:  26,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  32,49 kr
+
+Stora Höga-motet - Myggenäs korsv.
+1.5 km/1.0 km	1 min 17 s/0 min 51 s	70
+0.8 km/0.6 km	0 min 41 s/0 min 31 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+1.2 km/1.2 km	1 min 2 s/1 min 2 s
+0.7 km/1.3 km	0 min 36 s/1 min 7 s
+0.9 km/0.6 km	0 min 46 s/0 min 31 s
+0.9 km/0.5 km	0 min 46 s/0 min 26 s
+0.6 km/0.9 km	0 min 31 s/0 min 46 s
+0.4 km/1.1 km	0 min 21 s/0 min 57 s
+1.6 km/0.8 km	1 min 22 s/0 min 41 s
+
+Myggenäs korsv. - Rondell
+0.8 km/0.9 km	0 min 48 s/0 min 54 s	60
+
+Rondell - Varekil korsväg
+3.2 km/3.4 km	2 min 45 s/2 min 55 s	70
+0.7 km/0.5 km	0 min 36 s/0 min 26 s
+2.4 km/2.7 km	2 min 3 s/2 min 19 s
+1.1 km/0.8 km	0 min 57 s/0 min 41 s
+3.4 km/3.4 km	2 min 55 s/2 min 55 s
+
+Varekil korsväg - Henån södra
+4.6 km/4.5 km	3 min 27 s/3 min 23 s	80
+7.4 km/7.6 km	5 min 33 s/5 min 42 s
+
+Henån södra - Henån östra
+0.5 km/0.3 km	0 min 36 s/0 min 22 s	50
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+Henån östra - Rotviksbro
+3.3 km/3.3 km	2 min 50 s/2 min 50 s	70
+2.7 km/2.7 km	2 min 19 s/2 min 19 s
+1.6 km/1.6 km	1 min 22 s/1 min 22 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+0.7 km/0.6 km	0 min 36 s/0 min 31 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+2.1 km/2.1 km	1 min 48 s/1 min 48 s
+1.4 km/1.5 km	1 min 12 s/1 min 17 s

@@ -1,0 +1,45 @@
+Färdguide Rv 75 (Södra Länken)
+===============================
+
+Trp Nyboda (155)
+ E4 s: Helsingborg, Södertälje
+ E20 v: Göteborg
+ E4 n: Sundsvall
+ E20 ö: Värtahamnen
+					1.3 km/1.0 km	52 s/40 s
+Trp Åbyvägen (1)
+ Årstaberg
+(Årstatunneln-väst)
+					1.0 km/0.3 km	40 s/12 s
+Trp Årsta-väst (2)
+(avfart östgående riktning
+påfart västgående riktning)
+					0.8 km/1.2 km	32 s/48 s
+Trp Årsta-öst (2)
+(avfart västgående riktning
+påfart östgående riktning)
+Trp Johaneshov (3)
+(avfart östgående riktning
+påfart västgående riktning)
+					0.8 km/1.3 km	32 s/52 s
+Trp Nynäsvägen (4)
+ 75: Nynäshamn, Haninge
+ Södermalm
+					1.1 km/0.9 km	44 s/36 s
+Trp Hammarby sjöstad (5)
+(Årstatunneln-öst)
+					1.1 km/0.3 km	44 s/12 s
+(Bro över Sicklasjön)
+(Stockholm / Nacka)
+Trp Sickla (6)
+(avfart östgående riktning
+påfart västgående riktning)
+ 260 s: Bollmora
+ 260 n: Södermalm
+ Färja: Finland
+					1.3 km/1.2 km	52 s/048 s
+Trp Alphyddan (7)
+(avfart västgående riktning
+påfart östgående riktning)
+ 222: Södermalm
+ Färja: Finland

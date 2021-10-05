@@ -1,0 +1,82 @@
+Time	Km	Instruction	For	Toward
+Summary:  47,9 kilometres (37 minutes)
+09:00	0,0	Depart T-korsning on 240 (South)	10,4 km	
+09:07	10,4	At Korsning Lidsbron, stay on 240 (South)	0,3 km	
+09:08	10,7	At T-korsning Övre Lid, stay on 240 (South)	4,7 km	
+09:12	15,5	At T-korsning Sunnemo V, stay on 240 [Sundfall] (South)	0,7 km	
+09:13	16,1	At T-korsning, stay on 240 (South)	12,0 km	
+09:22	28,1	At near Stenåsen, stay on 240 (South)	6,0 km	
+09:26	34,1	At T-korsning Stenåsen, stay on 240 [Stenåsen] (South)	9,3 km	
+09:34	43,5	At T-korsning Tidafors, stay on 240 [Tidafors] (South)	3,5 km	
+09:36	47,0	At T-korsning Molkom N, stay on 240 (South)	0,3 km	
+09:37	47,2	At Hagforsvägen 21, 660 60 Molkom, stay on 240 [Hagforsvägen] (South)	0,7 km	
+09:37	47,9	Arrive T-korsning Molkom OKQ8		
+
+SUMMARY
+Driving distance:  47,9 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  56,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  48,0 kilometres (37 minutes)
+09:00	0,0	Depart Korsning Molkom Ö on 240 (North-West)	0,7 km	
+09:00	0,7	At 240 16, 660 60 Molkom, stay on 240 (North)	0,3 km	
+09:01	1,0	At T-korsning Molkom N, stay on 240 [Molkom] (North-West)	3,5 km	
+09:03	4,5	At T-korsning Tidafors, stay on 240 [Tidafors] (North)	9,3 km	
+09:10	13,8	At T-korsning Stenåsen, stay on 240 [Lersjön] (North)	6,0 km	
+09:15	19,9	At 240, 660 60 Molkom, stay on 240 (North)	12,0 km	
+09:24	31,8	At T-korsning, stay on 240 [Sundfall] (North)	0,7 km	
+09:25	32,5	At T-korsning Sunnemo V, stay on 240 [Sundfall] (North)	4,7 km	
+09:29	37,3	At T-korsning Övre Lid, stay on 240 (North)	0,3 km	
+09:30	37,6	At Korsning Lidsbron, stay on 240 (North)	10,4 km	
+09:37	48,0	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  48,0 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  56,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,9 kilometres (21 minutes)
+09:00	0,0	Depart T-korsning Molkom OKQ8 on 240 (South-East)	30 m	
+09:00	0,1	Turn RIGHT (South-West) onto 63 [240]	0,9 km	
+09:00	0,9	At Korsning Molkom SÖ, turn LEFT (South) onto 240	1,8 km	
+09:02	2,7	At T-korsning Ed, stay on 240 (South)	2,2 km	
+09:03	4,9	At T-korsning, stay on 240 (South)	1,5 km	
+09:04	6,4	At Korsning Hedås, stay on 240 (South)	8,2 km	
+09:11	14,6	At Korsning Heden, stay on 240 [Såtång] (South)	4,8 km	
+09:14	19,4	At T-korsning Kärr, stay on 240 [KÄRR] (South-East)	4,0 km	
+09:18	23,4	At T-korsning Ve, stay on 240 [Ve] (East)	0,8 km	
+09:19	24,3	At T-korsning Mölntorp, stay on 240 (South)	2,2 km	
+09:21	26,5	At T-korsning Karsvalla, stay on 240 [Karsvalla] (South)	0,4 km	
+09:21	26,9	Arrive OKQ8 [240 660 57, Väse, Sverige, Tel: +46 54-840570]		
+
+SUMMARY
+Driving distance:  26,9 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  31,76 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,1 kilometres (22 minutes)
+09:00	0,0	Depart near Väse on Local road(s) (North)	0,1 km	
+09:00	0,1	Road name changes to 240 [Karsvalla]	0,5 km	
+09:01	0,7	At T-korsning Karsvalla, stay on 240 [Karsvalla] (North)	2,1 km	
+09:02	2,7	At Korsning Mölntorp, stay on 240 (North)	1,0 km	
+09:03	3,7	At T-korsning Ve, stay on 240 [Ve] (North-East)	4,0 km	
+09:07	7,7	At T-korsning Kärr, stay on 240 [KÄRR] (North-West)	4,8 km	
+09:10	12,6	At Korsning Heden, stay on 240 (North)	8,2 km	
+09:17	20,7	At Korsning Hedås, stay on 240 (North-West)	1,5 km	
+09:18	22,3	At T-korsning, stay on 240 (North)	2,2 km	
+09:19	24,4	At T-korsning Ed, stay on 240 [Ed] (North)	1,8 km	
+09:21	26,3	At Korsning Molkom SÖ, turn RIGHT (East) onto 63 [240]	0,9 km	
+09:22	27,1	Arrive Korsning Molkom Ö		
+
+SUMMARY
+Driving distance:  27,1 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  32,00 kr
+

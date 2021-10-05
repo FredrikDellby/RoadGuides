@@ -1,0 +1,204 @@
+Danmarksterminalen
+					0.6 km/0.6 km	1 min 12 s/1 min 12 s
+T-korsning
+ Stena P-Hus
+					0.3 km/0.5 km	0 min 36 s/1 min 0 s
+Fiskhamnsmotet
+ [E6]: Oslo
+ Majorna
+					0.5 km/0.2 km	26 s/10 s
+Avfart
+(nordgående riktning)
+					0.4 km/0.4 km	21 s/21 s
+Avfart+Påfart
+(nordgående riktning)
+					0.3 km/0.9 km	15 s/46 s
+Järntorgsmotet
+ Järntorget, Vasastaden
+ Sahlgrenska sjukhuset
+Götatunneln_väst
+					1.7 km/1.7 km	1 min 27 s/1 min 27 s
+Lilla Bommen-motet
+ Centrum Nord
+ Centralstationen
+Götatunneln_öst
+					1.1 km/0.6 km	57 s/31 s
+Korsning Gasklockan
+ Falutorget
+Bensinstation: OKQ8, Statoil
+					0,3 km/0,9 km	18 s/54 s
+Gullbergsmotet (75)
+ E6 n: Oslo
+ E6 s: Malm
+					0,7 km/0,5 km	42 s/30 
+Trp (nordgående)
+ Partihallarna
+					0,7 km/0,9 km	42 s/54 s
+Järnvägskorsning
+Trp Slakthusgatan
+(nordgående riktning)
+ Gamlestaden
+Bensinstation: Preem
+					2,2 km/1,9 km	2 min 12 s/1 min 54 s
+Avfart Marieholm
+(sydgående riktning)
+ Marieholm
+					1,3 km/1,6 km	1 min 18 s/1 min 36 s
+Järnvägskorsning
+Lärjeån
+					0,4 km/0,6 m	24 s/36 s
+Lärjemotet
+ 190: Gråbo, Sollebrunn
+ Hjällbo
+					2,8 km/2,2 km	2 min 24 s/1 min 53 s
+Agnesbergsmotet
+(nordgående riktning)
+ Angered Centrum
+					0,5 km/0,6 km	26 s/31 s
+Korsning
+Bensinstation: Preem
+					0,4 km/0,7 km	21 s/36 s
+Rastplats Agnesberg
+					0,9 km/0,4 km	46 s/21 s
+Angeredsbron
+					0,8 km/0,8 km	41 s/41 s
+Göteborg / Ale
+					1,1 km/1,1 km	57 s/57 s
+Korsning Surte S
+ Surte S
+Hotel: Surte Hotel
+					1,3 km/1,6 km	1 min 7 s/1 min 22 s
+T-korsning Bruksvägen/E45
+ Glasbruksmuseet
+ Surte Västra Ind. Omr.
+T-korsning Hamnvägen/E45
+ Surte Östra Ind. Omr.
+					2,0 km/1,7 km	1 min 43 s/1 min 27 s
+T-korsning Sörgårdsv./E45
+ Bensinstation: Preem
+					0,7 km/0,7 km	36 s/36 s
+Korsning Bohus N
+ [E6]: Oslo, Kungälv
+					4,6 km/4,7 km	3 min 57 s/4 min 2 s
+Korsning Nödinge S
+					0,7 km/0,7 km	36 s/36 s
+T-korsning Nödinge
+ Ale Torg
+Bensinstation: OKQ8, Preem
+					1,1 km/1,1 km	57 s/57 s
+Avfart (nordgående)
+					0,8 km/0,8 km	41 s/41 s
+T-korsning Strandv./E45
+ Ind. Omr.
+					0,9 km/0,9 km	46 s/46 s
+Korsning Nol C
+					0,4 km/0,4 km	21 s/21 s
+Korsning Nol N
+ Bensinstation: Shell, Norsk Hydro
+					0,8 km/0,8 km	41 s/41 s/
+Korsning Alafors E45
+ Alafors, Kilanda
+ Kommunkontor
+					3,0 km/3,0 km	2 min 34 s/2 min 34 s
+Korsning Älvängen södra
+ Älvängen C
+ Södra Industriområdet
+					1,2 km/1,2 km	1 min 2 s/1 min 2 s
+T-korsning Frälsegårdsv./E45
+ Ind. Omr.
+					0,7 km/0,7 km	36 s/36 s
+Korsning Älvängen norra
+ Centrum
+ N. Verksamhetsområdet
+Bensinstation: Statoil
+					1,7 km/1,7 km	1 min 27 s/1 min 27 s
+Korsning
+ Skepplanda
+					2,4 km/2,4 km	1 min 36 s/1 min 36 s
+T-korsning Grönnäs
+ Skepplanda, Grönnäs
+Bensinstation: Preem
+					2,5 km/2,4 km	1 min 40 s/1 min 36 s
+Ale / Lilla Edet
+					0,5 km/0,5 km	20 s/20 s
+Järnvägskorsning
+					1,9 km/1,9 km	1 min 16 s/1 min 16 s
+T-korsning Lödöse södra
+ Centrum, Nygård
+Bensinstation Statoil
+					0,7 km/0,9 km	50 s/1 min 5 s
+T-korsning Lödöse norra
+ Centrum, Nygård
+T-korsning Lödose museum
+ Lödöse Museum
+					4,2 km/3,9 km	2 min 48 s/2 min 36 s
+T-korsning Tungevägen
+ Tunge
+					3,1 km/3,1 km	2 min 4 s/2 min 4 s
+Korsning Glässnäs
+ Nygård, Kärra
+					1,1 km/1,1 km	44 s/44s s
+Tankställe Göta
+Bensinstation: Bilisten
+					2,2 km/2,2 km	1 min 53 s/1 min 53 s
+Korsning Lilla Edet S
+ Centrum, Ström
+ [167]: Ljungsskile
+Bensinstation: Preem
+					1,1 km/1,1 km	57 s/57 s
+Korsning Lilla Edet Ö
+					1,0 km/1,3 km	51 s/1 min 7 s
+T-korsning Lilla Edet N
+ Centrum
+ [167]: Ljungsskile
+Rastplats Lilla Edet
+Tankställe Lilla Edet N
+Bensinstation: OKQ8
+					3,6 km/3,4 km	2 min 24 s/2 min 16 s
+T-korsning Blixered
+ Sjuntorp, Rommele
+					1,0 km/1,0 km	40 s/40 s
+Korsning Rudet
+ Rommele
+					1,8 km/1,8 km	1 min 12 s/1 min 12 s
+Lilla Edet / Trollhättan
+					1,7 km/1,7 km	1 min 8 s/1 min 8 s
+T-korsning Torpa
+ Sjuntorp, Upphärad
+					6,7 km/6,7 km	4 min 28 s/4 min 28 s
+Korsning Myrtuvan
+ Sjuntorp, Sjölanda
+					0,9 km/0,9 km	36 s/36 s
+Korsning Trollhättan S
+ Velanda
+					0,5 km/0,5 km	36 s/36 s
+Dubbel T-korsning Sylte
+Bensinstation: Norsk Hydro
+					0,6 km/0,6 km	43 s/43 s
+T-korsning
+					0,6 km/0,6 km	43 s/43 s
+Korsning Tandvingen
+					1,2 km/1,2 km	1 min 26 s/1 min 26 s
+T-korsning Vårdaren
+ Trollhättans Lasarett
+					0,9 km/0,9 km	1 min 5 s/1 min 5 s
+Rondell Hölje/E45
+ Håjums Ind. Omr.
+ Centrum
+					0,4 km/0,4 km	29 s/29 s
+Järnvägskorsning
+					0,7 km/0,8 km	50 s/58 s
+Korsning Tunhemsvägen/E45
+ Tunhem
+ Centrum
+					0,6 km/0,6 km	43 s/43 s
+T-korsning
+					0,5 km/0,5 km	36 s/36 s
+Rondell
+					0,8 km/1,0 km	58 s/1 min 12 s
+Trp Stallbacka
+ 42: Borås
+ 44: Mariestad
+ 47: Jönköping
+ Vargön
+ Trollhättans Flygplats

@@ -1,0 +1,73 @@
+Time	Km	Instruction	For	Toward
+Summary:  4,5 kilometres (3 minutes)
+09:00	0,0	Depart Avenue Cartellier, 75020 Paris on Ramp (East)	0,3 km	Aéroport Charles de Gaulle / Lille / Aéroport Ch. de Gaulle / Gagny
+09:00	0,3	Bear RIGHT (East) onto A3 [E15]	1,2 km	
+09:01	1,5	At 1, stay on A3 [E15] (North-East)	1,4 km	A3 / E15 / A1 / Lille / Aéroport Ch. de Gaulle / Bobigny / Bondy
+09:02	2,9	At E15, 93230 Romainville, stay on A3 [E15] (North-East)	0,6 km	
+09:03	3,5	At E15, 93130 Noisy-le-Sec, stay on A3 [E15] (East)	1,1 km	
+09:03	4,5	Arrive E15, 93130 Noisy-le-Sec		
+
+SUMMARY
+Driving distance:  4,5 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  7,80 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,3 kilometres (4 minutes)
+09:00	0,0	Depart E15, 93140 Bondy on A3 [E15] (South)	2,1 km	
+09:01	2,1	At near Noisy-le-Sec, stay on A3 [E15] (West)	0,9 km	
+09:02	3,0	At 3, stay on A3 [E15] (South-West)	0,8 km	A3 / E15 / Bordeaux / Nantes / Lyon / Paris-Pte de Bagnolet / Bagnolet
+09:03	3,7	At A186, 93100 Montreuil, stay on A3 [E15] (South-West)	1,4 km	
+09:04	5,2	Keep RIGHT onto Ramp	0,1 km	A1-A15 / Porte des Lilas / Périphérique Nord
+09:04	5,3	Arrive 2		
+
+SUMMARY
+Driving distance:  5,3 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  9,17 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,6 kilometres (7 minutes)
+09:00	0,0	Depart E15, 93130 Noisy-le-Sec on A3 [E15] (East)	2,2 km	A3 / E15 / Bobigny / Bondy / Aéroport Ch. de Gaulle / Lille
+09:01	2,2	At E15, 93130 Noisy-le-Sec, stay on A3 [E15] (North)	0,5 km	A3 / Aulnay S/S Bois / Le Blanc-Mesnil / Aéroport Charles de Gaulle / Lille
+09:02	2,7	At 3, stay on A3 [E15] (North)	1,7 km	A3 / Aulnay S/S Bois / Le Blanc Mesnil / Aéroport Ch. de Gaulle / Lille
+09:03	4,4	At 4, stay on A3 [E15] (North)	1,0 km	
+09:03	5,4	At E15, 93600 Aulnay-Sous-Bois, stay on A3 [E15] (North)	2,4 km	Aulnay-Zone Industrielle / Aéroport Charles de Gaulle / Lille
+09:05	7,8	At E15, 93600 Aulnay-Sous-Bois, stay on A3 [E15] (North)	2,9 km	
+09:07	10,6	Arrive A3, 95500 Gonesse		
+
+SUMMARY
+Driving distance:  10,6 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  17,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  7,9 kilometres (4 minutes)
+09:00	0,0	Depart A3, 93600 Aulnay-Sous-Bois on A3 [E15] (South)	0,6 km	
+09:00	0,6	At E15, 93600 Aulnay-Sous-Bois, stay on A3 [E15] (South)	2,6 km	
+09:01	3,1	At E15, 93150 Le Blanc-Mesnil, stay on A3 [E15] (South)	1,8 km	A3 / Bordeaux / Nantes / Lyon / Bondy / Bobigny / Paris
+09:02	4,9	At E15, 93140 Bondy, stay on A3 [E15] (South)	0,9 km	
+09:03	5,9	At 3, stay on A3 [E15] (South)	1,1 km	A3 / Bordeaux-Nantes / Lyon / Montreuil / Créteil / Paris-Pte de Bagnolet
+09:03	7,0	At E15, 93130 Noisy-le-Sec, stay on A3 [E15] (South)	0,9 km	
+09:04	7,9	Arrive E15, 93140 Bondy		
+
+SUMMARY
+Driving distance:  7,9 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  13,67 kr
+
+1.5 km/1.6 km	1 min 0 s/1 min 4 s
+1.4 km/0.8 km	56 s/32 s
+0.6 km/0.9 km	24 s/36 s
+1.1 km/2.1 km	0 min 44 s/1 min 24 s
+2.2 km/0.9 km	1 min 28 s/0 min 36 s
+
+0.5 km/1.1 km	18 s/40 s
+1.7 km/0.9 km	1 min 1 s/0 min 32 s
+1.0 km/1.8 km	0 min 36 s/1 min 5 s
+2.4 km/2.6 km	1 min 26 s/1 min 34 s
+2.9 km/0.6 km	1 min 44 s/0 min 22 s

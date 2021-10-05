@@ -1,0 +1,84 @@
+Gamla E6 (väg 574) Klareberg - Stora Höga
+==========================================
+
+Korsning Klareberg
+ [E6], Angered
+ Torslanda, Säve flygplats
+					1.2 km/1.2 km	1 min 12 s/1 min 12 s
+T-korsning Myrsterna N
+ Myrsterna
+					5.1 km/5.6 km	5 min 6 s/5 min 36 s
+Rödbomotet
+ E6 s: Göteborg
+Korsning Eriksdal
+ [E6 n]: Oslo
+ [E45], Bohus
+					1.0 km/0.5 km	1 min 12 s/0 min 36 s
+(Göteborg / Kungälv)
+
+T-korsning Bohus fästning
+ Bohus fästning
+					1.1 km/1.1 km	1 min 19 s/1 min 19 s
+Rondell Strandg./Liljeg.
+					0.3 km/0.4 km	22 s/29 s
+Rondell Kungälv centrum
+					0.5 km/0.5 km	36 s/36 s
+Korsning
+ Vita fläcken
+					0.3 km/0.5 km	22 s/36 s
+Korsning Kungälv N
+ 168: Marsstrand, Ytterby
+ Lilla Edet, Diseröd
+Korsning Kungälvs sjukhus
+					1.0 km/0.9 km	1 min 12 s/1 min 5 s
+T-korsning
+ Energianläggning
+					0.3 km/0.3 km	22 s/22 s
+Rondell
+					0.7 km/0.7 km	50 s/50 s
+T-korsning Ulvegärde
+ Ulvegärde
+					0.4 km/0.4 km	29 s/29 s
+Rondell
+					0.4 km/0.4 km	29 s/29 s
+Rondell
+ [E6], Rollso ind. omr.
+					2.0 km/1.9 km	1 min 43 s/1 min 38 s
+Korsning Kareby korsväg
+ Diseröd
+ Tjuvkil
+					1.1 km/1.1 km	57 s/57 s
+Korsning Hanekullen
+					3.7 km/3.6 km	3 min 10 s/3 min 5 s
+Korsning Ingetorp
+ Stubbhålt
+ Ingetorp GK
+					0.7 km/0.8 km	36 s/41 s
+Passage under E6
+					0.8 km/0.8 km	41 s/41 s
+Dubbel T-korsning Kode vägskäl
+ [E6]: Göteborg, Uddevalla
+ Solberga
+					2.4 km/2.3 km	2 min 3 s/1 min 58 s
+Kungälv / Stenungsund
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+Korsning Stenflaten
+ Marsstrand, Solberga
+					1.2 km/1.4 km	1 min 26 s/1 min 41 s
+Korsning Jörlanda Tank
+Bensinstation: Bilisten
+					2.5 km/2.5 km	2 min 9 s/2 min 9 s
+Dubbel T-korsning Anrås
+ Spekeröd
+ Stora Högaskolan
+					0.8 km/0.6 km	58 s/43 s
+Tankställe Stora Höga
+Bensinstation: Statoil
+					0.3 km/0.3 km	22 s/22 s
+Rondell Stora Höga
+					1.0 km/1.0 km	1 min 0 s/1 min 0 s
+Passage under Lv 160
+					0.7 km/0.7 km	42 s/42 s
+T-korsning Strandkärr
+ 160: Tjörn, Orust, Stenungsund
+ [E6]: Göteborg, Uddevalla

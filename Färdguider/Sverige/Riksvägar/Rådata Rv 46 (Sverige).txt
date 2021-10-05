@@ -1,0 +1,168 @@
+Time	Km	Instruction	For	Toward
+Summary:  26,2 kilometres (25 minutes)
+09:00	0,0	Depart near Ulricehamn on Local road(s) (North)	0,3 km	Skövde / Falköping
+09:00	0,3	Keep STRAIGHT onto 46	2,1 km	Skövde / Falköping
+09:02	2,4	At T-korsning Soldalen, stay on 46 (North-East)	1,0 km	
+09:03	3,4	At T-korsning Kroken, stay on 46 (North)	4,0 km	
+09:07	7,3	At T-korsning Timmele, stay on 46 [Timmelevägen] (North)	2,9 km	
+09:09	10,3	At T-korsning Plate, stay on 46 (North)	1,9 km	
+09:11	12,2	At 46, 520 25 Dalum, stay on 46 [Centralvägen] (East)	0,6 km	
+09:11	12,8	At Korsning Dalum N, stay on 46 [Centralvägen] (North)	3,4 km	
+09:16	16,1	At 46 19, 520 24 Blidsberg, stay on 46 [Ulricehamnsvägen] (North)	0,4 km	
+09:16	16,6	At Korsning Blidsberg, stay on 46 [Falköpingsvägen] (North)	6,5 km	
+09:22	23,1	At T-korsning Borred, stay on 46 [Centralvägen] (North-East)	3,1 km	
+09:25	26,2	Arrive near Väberga		
+
+SUMMARY
+Driving distance:  26,2 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  38,19 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,7 kilometres (24 minutes)
+09:00	0,0	Depart near Väberga on 46 (South-West)	2,8 km	
+09:02	2,8	At Korsning Borred, stay on 46 [Centralvägen] (West)	6,7 km	
+09:08	9,6	At Korsning Blidsberg, stay on 46 [Ulricehamnsvägen] (South)	0,4 km	
+09:09	10,0	At 46 19, 520 Blidsberg, stay on 46 [Ulricehamnsvägen] (South)	3,4 km	
+09:13	13,4	At Korsning Dalum N, stay on 46 [Centralvägen] (South-West)	0,5 km	
+09:14	13,9	At Vedåslavägen, 520 Dalum, stay on 46 [Centralvägen] (West)	2,0 km	
+09:15	15,9	At T-korsning Plate, stay on 46 (South)	2,9 km	
+09:18	18,8	At T-korsning Timmele, stay on 46 [Timmelevägen] (South)	4,0 km	
+09:21	22,8	At T-korsning Kroken, stay on 46 (South)	1,0 km	
+09:22	23,7	At T-korsning Soldalen, stay on 46 (South-West)	2,0 km	
+09:24	25,7	Arrive 46, 523 Ulricehamn		
+
+SUMMARY
+Driving distance:  25,7 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  32,69 kr
+
+
+
+Time	Km	Instruction	For	Toward
+Summary:  3,5 kilometres (3 minutes)
+09:00	0,0	Depart 47, 521 40 Falköping on Local road(s) (East)	60 m	
+09:00	0,1	Keep STRAIGHT onto 46 [47]	1,3 km	
+09:01	1,3	At near Falköping, stay on 46 [47] (North)	0,1 km	
+09:01	1,4	At roundabout, take the SECOND exit onto 46	1,1 km	
+09:02	2,6	At T-korsning 46/Wetterlinsg., stay on 46 [Skövdevägen] (North-East)	1,0 km	
+09:03	3,5	Arrive T-korsning Falköping NO		
+
+SUMMARY
+Driving distance:  3,5 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  6,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  3,8 kilometres (3 minutes)
+09:00	0,0	Depart 184, 521 96 Falköping on 46 [Skövdevägen] (South)	1,3 km	
+09:00	1,3	At T-korsning 46/Wetterlinsg., stay on 46 [Skövdevägen] (South-West)	1,0 km	
+09:01	2,3	At roundabout, take the SECOND exit onto 46 [47]	1,5 km	
+09:03	3,8	Arrive 47, 521 40 Falköping		
+
+SUMMARY
+Driving distance:  3,8 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  6,80 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Falköping NO on 46 [Skövdevägen] (North)	3,0 km	
+09:02	3,0	At Korsning, stay on 46 (North-East)	1,6 km	
+09:03	4,6	At T-korsning Torbjörntorp Ö, stay on 46 (North)	1,9 km	
+09:04	6,5	At T-korsning Valtorp väg 46, stay on 46 [Valtorpsvägen] (North-East)	2,2 km	
+09:06	8,6	At Korsning Klostergården, stay on 46 [Öja Anders Svensgården] (North-East)	2,0 km	
+09:07	10,6	At Korsning Torstensgården, stay on 46 [Segerstad Bosagården] (North-East)	1,4 km	
+09:08	12,0	At T-korsning Stämmestorp, stay on 46 (North-East)	1,5 km	
+09:10	13,5	At Korsning Stenstorp Ö, stay on 46 [Stenstorp Krackgården] (East)	3,5 km	
+09:12	17,0	At T-korsning Lilla Borgunda, stay on 46 (East)	1,3 km	
+09:13	18,3	At T-korsning Borgunda V, stay on 46 (East)	1,0 km	
+09:14	19,3	Arrive 46, 541 93 Skövde		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  24,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,0 kilometres (14 minutes)
+09:00	0,0	Depart 26, 541 93 Skövde on Local road(s) (West)	50 m	
+09:00	0,1	Turn RIGHT (South) onto 46	1,0 km	
+09:00	1,0	At T-korsning Borgunda V, stay on 46 (West)	1,3 km	
+09:01	2,3	At T-korsning Lilla Borgunda, stay on 46 (South-West)	3,5 km	
+09:04	5,8	At Korsning Stenstorp Ö, stay on 46 [Stenstorp Krackgården] (West)	1,5 km	
+09:05	7,3	At T-korsning Stämmestorp, stay on 46 (South-West)	1,4 km	
+09:06	8,7	At Korsning Torstensgården, stay on 46 (South-West)	2,0 km	
+09:08	10,7	At Korsning Klostergården, stay on 46 [Öja Klostergården] (South-West)	2,2 km	
+09:09	12,8	At T-korsning Valtorp väg 46, stay on 46 (South-West)	1,9 km	
+09:11	14,7	At T-korsning Torbjörntorp Ö, stay on 46 (South)	1,6 km	
+09:12	16,3	At Korsning, stay on 46 (South-West)	2,7 km	
+09:14	19,0	Arrive near Marjarp		
+
+SUMMARY
+Driving distance:  19,0 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  24,09 kr
+
+Svensholm - Tank Dalum
+2.3 km/2.0 km	1 min 58 s/1 min 43 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+4.0 km/4.0 km	3 min 26 s/3 min 26 s
+2.9 km/2.9 km	2 min 29 s/2 min 29 s
+1.9 km/2.0 km	1 min 38 s/1 min 43 s
+
+Tank Dalum - Dalum N
+0.6 km/0.5 km	0 min 43 s/0 min 36 s
+
+Dalum N - Tank Blidsberg
+3.4 km/3.4 km	2 min 55 s/2 min 55 s
+
+Tank Blidsberg - K. Blidsberg
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+K. Blidsberg - Kommungräns
+6.5 km/6.7 km	5 min 34 s/5 min 45 s
+3.1 km/2.8 km	2 min 39 s/2 min 24 s
+
+Kommungräns - Åsarp Kyrka
+1.1 km/1.1 km	0 min 57 s/0 min 57 s	70
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+
+Åsarp Kyrka - Alvared
+1.0 km/1.0 km	1 min 12 s/1 min 12 s	50
+0.7 km/0.9 km	0 min 50 s/1 min 5 s
+
+Alvared - Kinnarp
+5.2 km/5.4 km	4 min 27 s/4 min 38 s	70
+
+Kinnarp - Slutarp
+1.0 km/0.6 km	1 min 12 s/0 min 43 s	50
+1.2 km/1.2 km	1 min 26 s/1 min 26 s
+
+Slutarp - Falköping SO
+5.5 km/5.8 km	4 min 43 s/4 min 58 s	70
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+1.7 km/1.7 km	1 min 27 s/1 min 27 s
+
+Falköping SO - Falköping NO
+1.3 km/1.5 km	1 min 7 s/1 min 17 s	70
+1.3 km/1.0 km	1 min 7 s/0 min 51 s
+1.0 km/1.3 km	0 min 51 s/1 min 7 s
+
+Falköping NO - Munkabo
+3.0 km/2.7 km	2 min 15 s/2 min 2 s	80
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+2.2 km/2.2 km	1 min 39 s/1 min 39 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s

@@ -1,0 +1,257 @@
+Reseguide E6 Göteborg - Svinesund
+==================================
+
+Olskroksmotet (74)
+ E20: Stockholm
+					0,7 km/1,1 km	28 s/44 s
+Gullbergsmotet (75)
+ E45 n: Karlstad
+ E45 s: Frederikshamn
+Tingstadstunneln
+					0,9 km/0,7 km	36 s/28 s
+Ringömotet (76)
+ 155: Öckerö
+					0,8 km/0,5 km	32 s/20 s
+Tinstadsmotet (77)
+ Backa S
+					1,6 km/2,0 km	1 min 4 s/1 min 20 s
+Backadalsmotet (78)
+ Selma Lagerlöfs Torg
+Bensinstation: Shell, Preem, OKQ8
+	       Statoil
+Restaurang: McDonald's
+					1,2 km/1,2 km	48 s/48 s
+(79)
+ Backa N
+Bensinstation: Shell, Preem
+					1,9 km/1,7 km	1 min 16 s/1 min 8 s
+Bäckebol (80)
+(nordgående riktning)
+Bensinstation: OKQ8
+Restaurang: McDonald's
+					1,3 km/1,6 km	0 min 52 s/1 min 4 s
+Kärramotet (81)
+Bensinstation: Norsk Hydro
+					1,3 km/1,0 km	52 s/40 s
+Klarebergsmotet (82)
+ Torslanda, Säve
+ Säve flygplats
+					1,1 km/1,2 km	44 s/48 s
+Rastplats Klareberg
+(sydgående riktning)
+ Turistinformation
+					4,8 km/4,3 km	2 min 37 s/2 min 21 s
+Rödbomotet (84)
+(avfart nordgående riktning
+påfart sydgående riktning)
+Kungälv S
+ [E45]: Karlstad
+					1,3 km/1,7 km	43 s/56 s
+Jordfallsmotet (85)
+ Torslanda
+					1,0 km/0,8 km	33 s/26 s
+Göteborg / Kungälv
+					1,1 km/1,6 km	36 s/52 s
+Kungälvsmotet (86)
+ 168: Marsstrand, Ytterby
+ Kungälvs sjukhus
+Bensinstation: Preem, Norsk Hydro
+Restaurang: McDonald's
+					2,0 km/1,4 km	1 min 5 s/0 min 46 s
+Rollsbomotet (87)
+ Kungälv N
+ Rollsbo industriområde
+Bensinstation: Uno-X
+					8,2 km/9,2 km	4 min 28 s/5 min 1 s
+Kodemotet (88)
+Bensinstation: Statoil
+					2,4 km/1,5 km	1 min 19 s/0 min 49 s
+Kungälv / Stenungsund
+					2,1 km/2,3 km	1 min 9 s/1 min 15 s
+Jörlandamotet (89)
+(avfart nordgående rikting
+påfary sydgående riktning)
+					5,0 km/4,9 km	2 min 44 s/2 min 40 s
+Stora Högamotet (90)
+ Stenungsund
+ 160: Tjörn, Orust
+Rastplats Spekeröd
+Bensinstation: Statoil
+					4,4 km/4,8 km	2 min 24 s/2 min 37 s
+Stenungsundsmotet (91)
+ [160]: Tjörn, Orust
+ Färja: Svanesund
+					5,7 km/6,8 km	3 min 7 s/3 min 43 s
+Ödsmålsbron
+Rastplats Ödsmålsbron
+(nordgående riktning)
+ Restaurang
+					5,8 km/4,5 km	3 min 10 s/2 min 27 s
+Stenungsund / Uddevalla
+					6,6 km/6,8 km	3 min 36 s/3 min 43 s
+Lyckornamotet (92)
+ Ljunsskile
+ 167: Lilla Edet
+					1,9 km/2,1 km	1 min 2 s/1 min 9 s
+Ljunsskilemotet (93)
+ Ulvesund
+Rastplats Ljunsskile
+Bensinstation: Shell
+Restaurang: Laxbutiken
+					7,1 km/7,1 km	3 min 52 s/3 min 52 s
+Lerbomotet (94)
+ Uddevalla
+ [44]: Vänersborg, Trollhättan
+ [172]: Bengtsfors
+					4,3 km/4,9 km	2 min 21 s/2 min 40 s
+Uddevallabron
+					3,5 km/3,1 km	1 min 55 s/1 min 41 s
+Torpmotet (96)
+ Uddevalla
+ 44: Vänersborg, Trollhättan
+ 172: Bengtsfors
+ 161: Lysekil
+Bensinstation: Preem
+Restaurang: McDonald's
+					5,7 km/5,7 km	3 min 7 s/3 min 7 s
+Hogstorp (97)
+Bensinstation: Statoil
+					4,2 km/3,7 km	2 min 17 s/2 min 1 s
+Uddevalla / Munkedal
+					2,7 km/2,9 km	1 min 28 s/1 min 35 s
+Saltkällanmotet (98)
+ Munkedal
+					3,4 km/3,2 km	1 min 51 s/1 min 45 s
+Munkesalsmotet (99)
+ Munkedal
+					3,6 km/4,4 km	1 min 58 s/2 min 24 s
+Håbymotet (100)
+Rastplats Håby
+Bensinstation: OKQ8
+Restaurang: Bohusrasta
+					2,2 km/1,8 km	1 min 12 s/0 min 59 s
+Gläborgsmotet (101)
+ 162: Lysekil
+ 171: Kungshamn
+					4,5 km/4,6 km	2 min 27 s/2 min 31 s
+Dinglemotet (102)
+ 174: Hunnebostrand, Bovallstrand
+					4,2 km/3,8 km	2 min 17 s/2 min 4 s
+Grindmotet (103)
+ Hällevadsholm
+ 163: Fjällbacka
+					2,3 km/2,6 km	1 min 15 s/1 min 25 s
+Munkedal / Tanum
+					3,4 km/3,1 km	1 min 51 s/1 min 41 s
+Rastplats Tegen
+(sydgående riktning)
+					3,0 km/3,5 km	1 min 38 s/1 min 55 s
+Rabbalshedemotet (104)
+ Rabbalshede
+					1,1 km/0,5 km	36 s/16 s
+Motorväg
+ upphör (nordgående riktning)
+ börjar (sydgående riktning)
+					1,0 km/1,0 km	0 min 45 s/0 min 45 s
+Korsning Solhem
+ Kustorp
+ Solhem
+					2,4 km/2,4 km	1 min 48 s/1 min 48 s
+Järnvägskorsning
+					1,3 km/1,3 km	59 s/59 s
+Rastplats Huds moar
+					0,6 km/0,5 km	27 s/23 s
+T-korsning Varpekärr
+ Fjällbacka
+					2,1 km/2,1 km	1 min 35 s/1 min 35 s
+Korsning Hovtorp
+ Mo
+					1,2 km/1,2 km	54 s/54 s
+Korsning Ljungbytorp
+ Ryk
+					1,2 km/1,2 km	54 s/54 s
+Korsning Gerum
+					0,7 km/0,7 km	31 s/31 s
+T-korsning Tanum södra
+					1,9 km/1,9 km	1 min 26 s/1 min 26 s
+Trafikplats Tanum östra
+ 163: Grebbestad
+ Bullarebygden
+Bensinstation: Preem
+					1,6 km/1,6 km	1 min 12 s/1 min 12 s
+T-korsning Ryland
+ Ryland industriområde
+					0,9 km/0,9 km	40 s/40 s
+T-korsning Tanum norra
+ [163]: Grebbestad
+					1,1 km/1,1 km	50 s/50 s
+T-korsning Prästesäm
+ Säm
+Korsning Knäm
+ Sögård
+ Sannäs
+Bensinstation: Statoil
+					3,7 km/3,7 km	2 min 46 s/2 min 46 s
+Korsning Knäm
+ Knäm
+ Mjölkeröd
+					5,1 km/5,4 km	3 min 50 s/4 min 3 s
+Dubbel T-korsning Kragenäs
+ Lur
+ Resö
+					4,1 km/4,0 km	3 min 4 s/2 min 60 s
+T-korsning Hessland
+ Lur
+Tanum / Strömstad
+Järnvägskorsning
+					2,3 km/2,1 km	1 min 43 s/1 min 35 s
+T-korsning Neanberg
+ Björke
+					0,7 km/0,7 km	31 s/31 s
+Korsning Vik
+ 176: Strömstad
+ Färja: Kosteröarna
+Bensinstation: Norsk Hydro
+					4,1 km/4,1 km	3 min 4 s/3 min 4 s
+T-korsning Varp
+ Valex, Björke
+					2,7 km/2,7 km	2 min 2 s/2 min 2 s
+Korsning Skee södra
+ Strömstad, Båleröd
+					0,5 km/0,5 km	36 s/36 s
+Järnvägskorsning
+					0,6 km/0,6 km	43 s/43 s
+T-korsning Skee
+ 164: Åmål, Dals-Ed
+					2,8 km/2,8 km	2 min 6 s/2 min 6 s
+T-korsning Ejgst
+ Högstad
+					0,7 km/0,7 km	31 s/31 s
+T-korsning Rogstad
+ Näsinge
+					0,5 km/0,5 km	23 s/23 s
+Motorväg
+ börjar (nordgående)
+ upphör (sydgående)
+					0,8 km/1,5 km	0 min 26 s/0 min 49 s
+Blomsholmsmotet (110)
+ 176: Strömstad
+ Färja: Kosteröarna
+					4,4 km/4,0 km	2 min 24 s/2 min 11 s
+Rastplats Dynekilen
+(sydgående riktning)
+					2,2 km/2,0 km	1 min 12 s/1 min 5 s
+Hogdalsmotet (111)
+ Hogdal, Lökholmen
+					6,5 km/6,4 km	3 min 33 s/3 min 29 s
+Svinesundsmotet (112)
+ Svinesund, Nordby köpcenter
+Bensinstation: OKQ8
+Restaurang: Burger King, McDonald's
+					1,1 km/1,4 km	36 s/46 s
+Trafikkontrollplats
+					1,1 km/0,7 km	36 s/23 s
+Svinesundsbron
+Sverige / Norge
+Västra Götaland / Østfold
+Strömstad / Halden

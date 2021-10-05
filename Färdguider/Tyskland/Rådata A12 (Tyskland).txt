@@ -1,0 +1,49 @@
+Time	Km	Instruction	For	Toward
+Summary:  58,6 kilometres (31 minutes)
+09:00	0,0	Depart 8 on Ramp [8] (East)	1,7 km	A12 / Warschau / Frankfurt (Oder)
+09:00	1,7	Merge onto A12 [E30]	1,5 km	
+09:01	3,1	At 2, stay on A12 [E30] (East)	8,6 km	
+09:06	11,8	At 3, stay on A12 [E30] (East)	3,9 km	
+09:08	15,7	At E30, 15528 Spreenhagen, stay on A12 [E30] (East)	5,0 km	
+09:10	20,7	At E30, 15518 Rauen, stay on A12 [E30] (East)	3,4 km	
+09:12	24,1	At 4, stay on A12 [E30] (East)	2,5 km	
+09:13	26,5	At 5, stay on A12 [E30] (East)	3,3 km	
+09:15	29,8	At near Roter Krug, stay on A12 [E30] (East)	8,0 km	
+09:19	37,8	At 6, stay on A12 [E30] (East)	5,2 km	
+09:22	43,1	At 7, stay on A12 [E30] (East)	2,4 km	
+09:23	45,4	At E30, 15236 Jacobsdorf, stay on A12 [E30] (East)	6,4 km	
+09:27	51,8	At 8, stay on A12 [E30] (East)	2,5 km	
+09:28	54,3	At 9, stay on A12 [E30] (East)	4,3 km	A12 / Bundesgrenze / Warschau
+09:31	58,6	Arrive near Swiecko		
+
+SUMMARY
+Driving distance:  58,6 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  71,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  57,7 kilometres (28 minutes)
+09:00	0,0	Depart near Swiecko on E30 [2] (West)	0,3 km	
+09:00	0,3	Entering Germany		
+09:00	0,3	Road name changes to A12 [E30]	4,2 km	
+09:02	4,5	At 9, stay on A12 [E30] (West)	3,1 km	
+09:04	7,5	At 8, stay on A12 [E30] (West)	5,6 km	
+09:06	13,1	At E30, 15236 Jacobsdorf, stay on A12 [E30] (West)	2,8 km	
+09:07	15,9	At 7, stay on A12 [E30] (West)	5,2 km	
+09:10	21,1	At 6, stay on A12 [E30] (West)	8,1 km	
+09:14	29,2	At near Roter Krug, stay on A12 [E30] (West)	3,7 km	
+09:15	32,9	At 5, stay on A12 [E30] (West)	2,0 km	
+09:16	34,9	At 4, stay on A12 [E30] (West)	3,4 km	
+09:18	38,3	At near Rauen, stay on A12 [E30] (West)	4,3 km	
+09:20	42,6	At E30, 15528 Spreenhagen, stay on A12 [E30] (West)	4,6 km	
+09:22	47,2	At 3, stay on A12 [E30] (West)	8,7 km	
+09:27	55,9	At 2, stay on A12 [E30] (West)	1,8 km	
+09:28	57,7	Arrive 1		
+
+SUMMARY
+Driving distance:  57,7 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  70,17 kr
+

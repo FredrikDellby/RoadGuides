@@ -1,0 +1,51 @@
+Time	Km	Instruction	For	Toward
+Summary:  43,8 kilometres (23 minutes)
+09:00	0,0	Depart 1 on A4 [E411] (East)	1,4 km	Luxemburg / Luxembourg / Namen
+09:00	1,4	At 2, stay on A4 [E411] (South-East)	5,7 km	E411 / Luxembourg / Luxemburg / Namur / Namen
+09:03	7,0	At 3, stay on A4 [E411] (East)	2,8 km	
+09:05	9,8	At 4, stay on A4 [E411] (South-East)	2,2 km	
+09:06	12,1	At 5, stay on A4 [E411] (East)	2,5 km	
+09:07	14,5	At 6, stay on A4 [E411] (South-East)	1,1 km	
+09:08	15,7	At 7, stay on A4 [E411] (South)	2,7 km	
+09:09	18,4	At 8A, stay on A4 [E411] (South)	2,2 km	
+09:11	20,6	At 9, stay on A4 [E411] (South-East)	3,6 km	
+09:12	24,2	At E411, 1457 Walhain, stay on A4 [E411] (East)	2,7 km	
+09:14	26,9	At 10, stay on A4 [E411] (East)	3,6 km	
+09:16	30,6	At 11, stay on A4 [E411] (South-East)	2,9 km	
+09:17	33,5	At E411, 5310 Eghezée, stay on A4 [E411] (South-East)	5,0 km	
+09:20	38,5	At 12, stay on A4 [E411] (South-East)	1,5 km	
+09:21	39,9	At E411, 5310 Eghezée, stay on A4 [E411] (South-East)	3,9 km	
+09:23	43,8	Arrive E411, 5080 La Bruyère		
+
+SUMMARY
+Driving distance:  43,8 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  57,88 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,4 kilometres (23 minutes)
+09:00	0,0	Depart E411, 5020 Namur on A4 [E411] (North)	5,7 km	E411 / Bruxelles / Wavre
+09:03	5,7	At E411, 5310 Eghezée, stay on A4 [E411] (North-West)	1,0 km	
+09:03	6,7	At 12, stay on A4 [E411] (North-West)	5,3 km	
+09:06	11,9	At E411, 5310 Eghezée, stay on A4 [E411] (North-West)	3,6 km	
+09:08	15,5	At 11, stay on A4 [E411] (North-West)	3,0 km	
+09:09	18,5	At 10, stay on A4 [E411] (West)	2,8 km	
+09:11	21,3	At E411, 1457 Walhain, stay on A4 [E411] (West)	3,2 km	
+09:12	24,5	At 9, stay on A4 [E411] (West)	2,7 km	
+09:14	27,2	At 8A, stay on A4 [E411] (North)	1,5 km	
+09:15	28,7	At 8, stay on A4 [E411] (North)	2,2 km	
+09:16	30,9	At 6, stay on A4 [E411] (North-West)	1,8 km	
+09:17	32,6	At 5, stay on A4 [E411] (West)	2,5 km	
+09:18	35,1	At 4, stay on A4 [E411] (North-West)	3,3 km	
+09:20	38,4	At 3, stay on A4 [E411] (West)	3,4 km	
+09:21	41,8	At E411, 3090 Overijse, stay on A4 [E411] (North)	2,2 km	
+09:23	44,0	At 2, stay on A4 [E411] (West)	1,4 km	
+09:23	45,4	Arrive 1		
+
+SUMMARY
+Driving distance:  45,4 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  59,56 kr
+

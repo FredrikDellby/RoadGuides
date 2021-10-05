@@ -1,0 +1,153 @@
+Reseguide A11 (Chartres - Nantes)
+==================================
+
+Échangeur A10 et A11
+ A10 n: Paris
+ A10 s: Bordeaux, Orléans
+					5.8 km/6.3 km	2 min 54 s/3 min 9 s
+Sortie 1
+ Ablis
+					2.7 km/4.6 km	1 min 21 s/2 min 18 s
+Aire de Gourville (västgående)
+Aire des Chaudonnes (östgående)
+					17.3 km/15.7 km	8 min 39 s/7 min 51 s
+Aire de Chartres
+					3.3 km/3.4 km	1 min 39 s/1 min 42 s
+Sortie 2
+ Chartres
+					11.2 km/10.0 km	5 min 36 s/5 min 0 s
+Aire de Souchets (Västgående)
+Île-de-France / Centre
+Yvelines / Eure-et-Loir
+Aire des Moineaux (östgående)
+					2.2 km/2.4 km	1 min 6 s/1 min 12 s
+Sortie 3
+ Chartres-Centre Châteaudun
+					7.2 km/8.1 km	3 min 36 s/4 min 3 s
+Aire de La Poële Percée (västgående)
+Aire des dix-sept-Setiers (östgående)
+					12.0 km/12.0 km	6 min 0 s/6 min 0 s
+Aire de La Charamerie (västgående)
+Aire de la Leu (östgåene)
+					11.1 km/11.1 km	5 min 33 s/5 min 33 s
+Aire de Brou
+Gazole: Total
+	Esso
+					3.9 km/3.6 km	1 min 57 s/1 min 48 s
+Sortie 4
+ Brou
+					7.0 km/7.3 km	3 min 30 s/3 min 39 s
+Aire des Charmes (västgående)
+Aire de la Petite Jardinière (östgående)
+					11.3 km/10.6 km	5 min 39 s/5 min 18 s
+Centre / Pays-de-la-Loire
+Eure-et-Loire / Sarthe
+					1.5 km/2.5 km	0 min 45 s/1 min 15 s
+AIre de Théligny (västgående)
+Aire de Montmirirail (östgående)
+					7.8 km/7.2 km	3 min 54 s/3 min 36 s
+Sortie 5
+ La Ferté-Bernard
+					5.7 km/5.8 km	2 min 51 s/2 min 54 s
+Aire de la Ferté-Bernard (västgående)
+Gazole:
+Aire de Villaines-la-Ganais (östgående)
+Gazole:
+					14.2 km/14.2 km	7 min 6 s/7 min 6 s
+Aire de Parnouette (västgående)
+Aire de la Charpenterie (östgående)
+					9.5 km/9.3 km	4 min 45 s/4 min 39 s
+Aire du Haras de Maulepaire (västgående)
+Aire de la Martinière (östgående)
+					2.2 km/2.9 km	1 min 6 s/1 min 27 s
+Échangeur A11 et A28
+ A28 s: Tours
+					3.6 km/3.0 km	1 min 58 s/1 min 38 s
+Aire de La Sarthe-Sargé-le-Mans
+					5.1 km/5.8 km	2 min 47 s/3 min 10 s
+Sortie 7
+Échangeur A11 et A28
+ A28 n: Rouen, Caen
+					3.5 km/2.6 km	1 min 55 s/1 min 25 s
+Échangeur A11 et A81
+ A81: Rennes, Laval
+					2.3 km/2.5 km	1 min 9 s/1 min 15 s
+Sortie 8
+ Le Mans-Centre
+					2.2 km/3.6 km	1 min 6 s/1 min 48 s
+Aire de Pruillé-le-Chétif
+					5.5 km/4.1 km	2 min 45 s/2 min 3 s
+Sortie 9
+ Le Mans-Sud
+					13.0 km/12.9 km	6 min 30 s/6 min 27 s
+Aire de Pirmil
+					13.4 km/14.0 km	6 min 42 s/7 min 0 s
+Aire de Parcé-sur-Sarthe
+Gazole: Shell
+					4.4 km/3.9 km	2 min 12 s/1 min 57 s
+Sortie 10
+ Sablé Le Fléche
+					9.4 km/8.7 km	4 min 42 s/4 min 21 s
+Sarthe / Mainie-et-Loire
+					4.4 km/5.2 km	2 min 12 s/2 min 36 s
+Sortie 11
+ Durtal
+					5.1 km/5.0 km	2 min 33 s/2 min 30 s
+Aire de La Chapelle-Saint-Laud
+					8.0 km/8.1 km	4 min 0 s/4 min 3 s
+Sortie 12
+ Seiches-sur-le-Loir Baugé
+					2.6 km/3.1 km	1 min 18 s/1 min 33 s
+Échangeur A11 et A85
+ A85: Tours
+					3.4 km/3.3 km	1 min 51 s/1 min 48 s
+(Pèage)
+
+Aire de Bauné
+					5.5 km/4.5 km	3 min 0 s/2 min 27 s
+Sortie 13
+(avfart östgående riktning
+påfart västgående riktning)
+ Pellouailles-les-Vignes
+					4.7 km/5.2 km	2 min 34 s/2 min 50 s
+Aire Portes d'Angers
+					0.8 km/1.0 km	26 s/33 s
+Sortie 14
+ Angers-Est
+Échangeur A11 et A87
+					3.3 km/2.3 km	1 min 59 s/1 min 23 s
+Sortie 15
+(avfart västgående riktning
+påfart östgående riktning)
+ Angers-centre
+					2.1 km/2.9 km	1 min 16 s/1 min 44 s
+(Sarthe - Mains)
+
+Sortie 16
+ Angers-Nord
+(Tunnel-est)
+					2.7 km/2.1 km	1 min 37 s/1 min 16 s
+Tunnel-ouest
+					2.0 km/2.8 km	1 min 12 s/1 min 41 s
+Sortie 17
+ Angers-Ouest
+					6.3 km/6.3 km	3 min 9 s/3 min 9 s
+Sortie 18
+					8.5 km/8.3 km	4 min 15 s/4 min 9 s
+Aire des Montilets (västgående)
+Aire du Réveillon (östgående)
+					1.7 km/1.6 km	51 s/48 s
+Sortie 19
+					10.9 km/10.3 km	5 min 27 s/5 min 9 s
+Maine-et-Loire / Loire-Atlantique
+					4.9 km/5.6 km	2 min 27 s/2 min 48 s
+Aire de Varades
+					13.7 km/13.9 km	6 min 51 s/6 min 57 s
+Sortie 20
+					16.2 km/15.7 km	8 min 6 s/7 min 51 s
+Aire Le Cellier (västgående)
+Aire Le Launay (östgående)
+					9.2 km/9.7 km	4 min 36 s/4 min 51 s
+Sortie 22
+Échangeur A11 et A811
+ Nantes-sud,est

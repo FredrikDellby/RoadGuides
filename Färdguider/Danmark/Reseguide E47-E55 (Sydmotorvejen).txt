@@ -1,0 +1,100 @@
+Reseguide E47-E55 Køge-Rødbyhavn (Sydmotorvejen)
+================================================
+
+Etapp 6: Køge - Eskilstrup (77,4 km/77,8 km)
+
+Motorvejskryds Køge-Vest
+ E20: Odense
+ E20-E47-E55: Köbenhavn
+					2,3 km/2,7 km	1 min 9 s/1 min 21 s
+Trp Lellinge (33)
+ Køge
+ [E20]: Odense
+ Bensinstation: OK
+					9,1 km/9,1 km	4 min 33 s/4 min 33 s
+Trp Herfølge (34)
+ 151: Køge S
+					5,9 km/5,1 km	2 min 57 s/2 min 33 s
+Trp Haslev (35)
+(avfart sydgående riktning
+påfart norgående riktning)
+					2,1 km/4,3 km	1 min 3 s/2 min 9 s
+Rasteplads Piberhus
+ Restaurang: Info-Teria
+					5,0 km/2,8 km	2 min 30 s/1 min 24 s
+Trp Bregentved (36)
+ 269: Ringsted, Haslev
+(avfart nordgående riktning
+påfart sydgående riktning)
+					2,7 km/3,3 km	1 min 21 s/1 min 39 s
+Trp Rønnede (37)
+ 54: Næstved
+ Rasteplads
+					10,7 km/11,0 km	5 min 21 s/5 min 30 s
+Trp Tappernøje (38)
+ Rasteplads Tappernøje
+ Bensinstation: Statoil
+					4,8 km/4,1 km	2 min 24 s/2 min 3 s
+Trp Bårse (39)
+ 265 v: Næstved
+ 265 ø: Prästø
+					6,2 km/6,7 km	3 min 6 s/3 min 21 s
+Trp Udby (40)
+ 151: Vordingborg
+ Bensinstation: Q8
+					9,0 km/9,3 km	4 min 30 s/4 min 39 s
+Trp Vordingborg (41)
+ 59: Møns klint, Stege
+					3,9 km/2,9 km	1 min 57 s/1 min 27 s
+Farø-Falsterbron nordre
+					1,8 km/2,4 km	0 min 54 s/1 min 12 s
+Trp Farø (42)
+ 287: Stege, Møns klint
+ Rasteplads Farø
+					2,6 km/1,9 km	1 min 18 s/0 min 57 s
+Farø-Falsterbron søndre
+					5,0 km/5,8 km	2 min 30 s/2 min 54 s
+Trp Nørre Alslev (43)
+ 293: Stubbekøbing
+					6,5 km/6,3 km	3 min 15 s/3 min 9 s
+Trp Eskilstrup (44)
+ E55: Gedser, Nykøbing F
+ Restaurang: Højmølle Kro
+
+Etapp 7: Eskilstrup - Rødbyhavn (43,8 km/43,3 km)
+					2,7 km/3,0 km	1 min 28 s/1 min 38 s
+Rasteplads Dronninglund
+					2,0 km/1,6 km	1 min 5 s/0 min 52 s
+Guldborgsundstunnelen
+					3,7 km/3,7 km	2 min 1 s/2 min 1 s
+Trp Guldborg (45)		
+					2,5 km/2,7 km	1 min 22 s/1 min 28 s
+Rasteplads Studehave Vest
+(sydgående riktning)
+					5,2 km/4,1 km	2 min 50 s/2 min 14 s
+Trp Sakskøbing (46)
+ 9 ø: Nykøbing F
+					4,9 km/5,3 km	2 min 27 s/2 min 39 s
+Trp Våbensted (47)
+(avfart sydgående riktning
+ påfart nordgående riktning)	
+ Maribo
+					5,8 km/5,9 km	2 min 54 s/2 min 57 s
+Trp Maribo (48)
+ 9 v: Nakskov
+ Bensinstation: JET, Statoil
+					3,3 km/3,4 km	1 min 39 s/1 min 42 s
+Rasteplads (nordgående)
+					5,0 km/4,9 km	2 min 30 s/2 min 27 s
+Trp Holeby (49)
+ Rødby
+					7,4 km/7,3 km	3 min 42 s/3 min 39 s
+Trp Rødbyhavn (50)
+(avfart sydgående riktning)
+ Bensinstation: DK-benzin, Statoil
+					0,6 km/0,7 km	36 s/42 s
+Avfart (sydgående)
+ Scandlines Betalstation
+Statoil (nordgående)
+					0,8 km/0,8 km	1 min 12 s/1 min 12 s
+Rødby Færge

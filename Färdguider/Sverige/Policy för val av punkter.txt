@@ -1,0 +1,42 @@
+Motorväg och motortrafikled
+============================
+
+Kategori I
+Trafikplats
+Rastplats
+Läns- och kommungräns
+
+Kategori II
+Tunnel
+Större bro (utmärkt på vägen)
+
+(punkter i kategori II kan ignoreras om de befinner sig
+tillräckligt nära punkter i kategori I, < 350 m).
+
+
+Landsväg
+=========
+
+Kategori I
+Trafikplats
+Cirkulationsplats (rondell)
+Korsning med allmän väg
+Väl utbyggd korsning
+Större korsningar i tätort
+Andra korsningar mot större skyltade inrättningar
+(ex golfbanor, industrier, badplatser, etc.)
+Rastplats
+Bensinstation
+Övriga viktigare serviceställen
+Läns- och kommungräns
+Järnväg (plankorsning)
+
+Kategori II
+Tunnel
+Större bro
+Järnvägsbro
+Passage över/under större väg
+
+(punkter i kategori II kan igorneras om de befinner sig tillräckligt nära någon punkt i kategori I,
+< 250 m).
+

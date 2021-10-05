@@ -1,0 +1,83 @@
+Time	Km	Instruction	For	Toward
+Summary:  6,0 kilometres (7 minutes)
+09:00	0,0	Depart Torggatan 56, 534 50 Vara on 187 [Torggatan] (South-East)	2,1 km	
+09:03	2,1	At Korsning Vara Ö, stay on 187 [Östra Ringleden] (West)	0,8 km	
+09:04	3,0	At T-korsning Vara N, stay on 187 [Östra Ringleden] (North)	2,5 km	
+09:06	5,4	At Korsning, turn LEFT (West) onto 47 [187]	0,5 km	
+09:07	6,0	Arrive 187, 534 95 Vara		
+
+SUMMARY
+Driving distance:  6,0 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  9,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,7 kilometres (6 minutes)
+09:00	0,0	Depart T-korsning on 47 [187] (East)	0,6 km	
+09:00	0,6	At Korsning, turn RIGHT (South) onto 187	2,5 km	
+09:02	3,1	At T-korsning Vara N, stay on 187 [Östra Ringleden] (South-East)	0,8 km	
+09:04	3,9	At Korsning Vara Ö, stay on 187 [Östra Ringleden] (East)	1,8 km	
+09:06	5,7	Arrive 187, 534 Vara		
+
+SUMMARY
+Driving distance:  5,7 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  7,94 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,5 kilometres (19 minutes)
+09:00	0,0	Depart 187, 534 95 Vara on Local road(s) (North-West)	70 m	
+09:00	0,1	Merge onto 187	2,8 km	
+09:02	2,8	At T-korsning St. Levene S, stay on 187 (North)	0,8 km	
+09:03	3,7	At Korsning St. Levene Ö, stay on 187 (North)	4,2 km	
+09:06	7,8	At near Järpås, stay on 187 (North)	2,0 km	
+09:08	9,8	At Korsning Järpås södra, stay on 187 (North)	0,7 km	
+09:08	10,5	At Korsning Järpås östra, stay on 187 (North-East)	8,2 km	
+09:14	18,6	At T-korsning Lovene Lv 187, stay on 187 (East)	5,9 km	
+09:19	24,5	Arrive T-korsning Risa		
+
+SUMMARY
+Driving distance:  24,5 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  31,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,5 kilometres (19 minutes)
+09:00	0,0	Depart T-korsning Risa on 187 (South)	5,9 km	
+09:05	5,9	At T-korsning Lovene Lv 187, stay on 187 (West)	8,2 km	
+09:11	14,0	At Korsning Järpås östra, stay on 187 (South-West)	0,7 km	
+09:11	14,7	At Korsning Järpås södra, stay on 187 (South)	2,0 km	
+09:13	16,7	At 187, 531 Järpås, stay on 187 (South-West)	4,2 km	
+09:16	20,8	At Korsning St. Levene Ö, stay on 187 (South)	0,8 km	
+09:17	21,7	At T-korsning St. Levene S, stay on 187 (South)	2,8 km	
+09:19	24,5	Arrive T-korsning		
+
+SUMMARY
+Driving distance:  24,5 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  27,91 kr
+
+Trp Vara - Vara Ö
+2.1 km/1.8 km	2 min 31 s/2 min 10 s	50
+
+Vara Ö - T-korsning
+0.8 km/0.8 km	0 min 41 s/0 min 41 s	70
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+0.5 km/0.6 km	0 min 26 s/0 min 31 s
+
+T-korsning - Järpås södra
+2.8 km/2.8 km	2 min 6 s/2 min 6 s	80
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+4.2 km/4.2 km	3 min 9 s/3 min 9 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+
+Järpås södra - Järpås östra
+0.7 km/0.7 km	0 min 50 s/0 min 50 s	50
+
+Järpås östra - Risa
+8.2 km/8.2 km	6 min 9 s/6 min 9 s	80
+5.9 km/5.9 km	4 min 26 s/4 min 26 s

@@ -1,0 +1,111 @@
+Time	Km	Instruction	For	Toward
+Summary:  16,6 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Heby V on 72 (East)	1,6 km	
+09:01	1,6	At Korsning Heby S, stay on 72 (East)	0,7 km	
+09:02	2,3	At Korsning Heby SÖ, stay on 72 (East)	4,2 km	
+09:05	6,5	At T-korsning Snesholm, stay on 72 (East)	0,7 km	
+09:06	7,2	At T-korsning Morgongåva V, stay on 72 (East)	0,4 km	
+09:07	7,6	At Korsning Morgongåva S, stay on 72 (East)	2,8 km	
+09:09	10,5	At Korsning Grimle vägskäl, stay on 72 (East)	0,5 km	
+09:10	11,0	At near Smedstorpet, stay on 72 (East)	3,6 km	
+09:13	14,6	At T-korsning Vittinge, stay on 72 (East)	1,9 km	
+09:14	16,6	Arrive T-korsning Österrunda vsk		
+
+SUMMARY
+Driving distance:  16,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  22,99 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,4 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Österrunda vsk on 72 (West)	1,9 km	
+09:01	1,9	At T-korsning Vittinge, stay on 72 (West)	3,6 km	
+09:04	5,6	At near Smedstorpet, stay on 72 (West)	0,3 km	
+09:04	5,9	At Korsning Grimle vägskäl, stay on 72 (West)	2,8 km	
+09:07	8,8	At Korsning Morgongåva S, stay on 72 (West)	0,4 km	
+09:08	9,2	At T-korsning Morgongåva V, stay on 72 (North-West)	0,7 km	
+09:08	9,9	At T-korsning Snesholm, stay on 72 (West)	4,2 km	
+09:12	14,1	At Korsning Heby SÖ, stay on 72 (West)	0,7 km	
+09:13	14,8	At Korsning Heby S, stay on 72 (West)	1,6 km	
+09:14	16,4	Arrive T-korsning Heby V		
+
+SUMMARY
+Driving distance:  16,4 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  22,79 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,6 kilometres (20 minutes)
+09:00	0,0	Depart T-korsning Österrunda vsk on 72 (East)	0,8 km	
+09:00	0,8	At Korsning Björnlund, stay on 72 (East)	1,0 km	
+09:01	1,7	At near Solsjö, stay on 72 (East)	4,2 km	
+09:04	5,9	At Korsning Järlåsa, stay on 72 [Salavägen] (East)	4,1 km	
+09:08	10,0	At T-korsning Klöva vägskäl, stay on 72 (East)	1,4 km	
+09:09	11,4	At T-korsning Ålandsdal, stay on 72 (South-East)	4,7 km	
+09:12	16,1	At 72, 740 20 Vänge, stay on 72 (East)	3,4 km	
+09:15	19,5	At T-korsning Vänge, stay on 72 (East)	5,1 km	
+09:19	24,6	At T-korsning Läby V, stay on 72 (East)	0,8 km	
+09:19	25,4	At T-korsning Läby Ö, stay on 72 (East)	1,2 km	
+09:20	26,6	Arrive Korsning Kvarnbolund		
+
+SUMMARY
+Driving distance:  26,6 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  31,37 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,8 kilometres (20 minutes)
+09:00	0,0	Depart 72, 752 63 Uppsala on 55 [72] (West)	20 m	
+09:00	0,1	Keep RIGHT onto 72	1,3 km	72 / Sala
+09:01	1,3	At T-korsning Läby Ö, stay on 72 [Läby] (West)	0,8 km	
+09:01	2,1	At T-korsning Läby V, stay on 72 (West)	5,1 km	
+09:05	7,2	At T-korsning Vänge, stay on 72 (West)	3,5 km	
+09:08	10,6	At 72, 740 20 Vänge, stay on 72 (West)	4,7 km	
+09:11	15,3	At T-korsning Ålandsdal, stay on 72 (North-West)	1,4 km	
+09:12	16,7	At T-korsning Klöva vägskäl, stay on 72 (West)	4,1 km	
+09:16	20,9	At Korsning Järlåsa, stay on 72 [Salavägen] (West)	4,2 km	
+09:19	25,1	At near Solsjö, stay on 72 (West)	1,0 km	
+09:20	26,0	At Korsning Björnlund, stay on 72 (West)	0,8 km	
+09:20	26,8	Arrive T-korsning Österrunda vsk		
+
+SUMMARY
+Driving distance:  26,8 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  31,49 kr
+
+Heby V - Heby SÖ
+1.6 km/1.6 km	1 min 36 s/1 min 36 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+
+Heb SÖ - Morgongåva V
+4.2 km/4.2 km	3 min 36 s/3 min 36 s
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+
+Morgongåva V - Morgongåva S
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+Morgongåva S - Österrunda
+2.8 km/2.8 km	2 min 24 s/2 min 24 s
+0.5 km/0.3 km	0 min 26 s/0 min 15 s
+3.6 km/3.6 km	3 min 5 s/3 min 5 s
+1.9 km/1.9 km	1 min 38 s/1 min 38 s
+
+Österrunda - Kommungräns
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+
+Kommungräns - Klöva
+4.2 km/4.2 km	3 min 36 s/3 min 36 s
+4.1 km/4.1 km	3 min 31 s/3 min 31 s
+
+Klöva - Kvarnbolund
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+4.7 km/4.7 km	3 min 32 s/3 min 32 s
+3.4 km/3.5 km	2 min 33 s/2 min 38 s
+5.1 km/5.1 km	3 min 50 s/3 min 50 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+1.2 km/1.3 km	0 min 54 s/0 min 59 s

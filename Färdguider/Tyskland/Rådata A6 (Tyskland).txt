@@ -1,0 +1,225 @@
+Time	Km	Instruction	For	Toward
+Summary:  27,4 kilometres (14 minutes)
+09:00	0,0	Depart A6, 66117 Saarbrücken on A6 [E50] (East)	0,7 km	
+09:01	0,7	At 2, stay on A6 [E50] (North-East)	5,1 km	A6 / Mannheim / Neunkirchen / SBR.-Fechingen / Flughafen Saarbrücken
+09:03	5,8	At A620, 66130 Saarbrücken, stay on A6 [E50] (East)	1,1 km	
+09:04	6,9	At 4, stay on A6 [E50] (East)	7,8 km	A6 / Mannheim / Kaiserslautern / St. Ingbert-West
+09:08	14,6	At 5, stay on A6 [E50] (North-East)	2,8 km	
+09:09	17,4	At 6, stay on A6 [E50] (North-East)	1,7 km	
+09:10	19,1	At E50, 66386 Sankt Ingbert, stay on A6 [E50] (East)	1,4 km	
+09:10	20,6	At 7, stay on A6 [E50] (North-East)	6,8 km	
+09:14	27,4	Arrive 8		
+
+SUMMARY
+Driving distance:  27,4 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  37,92 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  28,1 kilometres (13 minutes)
+09:00	0,0	Depart 8 on A6 [E50] (South-West)	6,8 km	
+09:03	6,8	At 7, stay on A6 [E50] (South)	2,1 km	
+09:04	8,9	At E50, 66386 Sankt Ingbert, stay on A6 [E50] (West)	1,3 km	
+09:04	10,2	At 6, stay on A6 [E50] (South-West)	3,0 km	
+09:06	13,2	At 5, stay on A6 [E50] (South-West)	4,8 km	
+09:08	18,0	At E50, 66132 Saarbrücken, stay on A6 [E50] (South)	3,1 km	
+09:09	21,1	At E50, 66130 Saarbrücken, stay on A6 [E50] (West)	0,5 km	
+09:09	21,6	At 3, keep STRAIGHT onto Ramp [E50]	4,9 km	A6 / Messegelände / Paris / Autohof / Metz / Strasbourg / SBR.-Goldene Bremm / Gewerbegebiet-Süd
+09:12	26,5	At 2, keep STRAIGHT to stay on A6 [E50]	0,3 km	
+09:12	26,9	At Exit 2, take Ramp (RIGHT) onto A6 [E50]	1,3 km	Rasthof Goldene Bremm
+09:13	28,1	Arrive A6, 66117 Saarbrücken		
+
+SUMMARY
+Driving distance:  28,1 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  34,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  44,4 kilometres (22 minutes)
+09:00	0,0	Depart 8 on A6 [E50] (North-East)	5,0 km	
+09:02	5,0	At 9, stay on A6 [E50] (North-East)	1,0 km	
+09:02	6,0	At E50, 66424 Homburg, stay on A6 [E50] (North-East)	5,3 km	
+09:05	11,3	At 10, stay on A6 [E50] (East)	3,8 km	
+09:06	15,1	At E50, 66892 Bruchmühlbach-Miesau, stay on A6 [E50] (East)	1,9 km	
+09:07	17,0	At 11, stay on A6 [E50] (East)	2,4 km	
+09:08	19,4	At E50, 66892 Bruchmühlbach-Miesau, stay on A6 [E50] (East)	4,1 km	
+09:10	23,4	At 12, keep STRAIGHT to stay on A6 [E50]	3,0 km	
+09:12	26,5	At 13, stay on A6 [E50] (East)	3,6 km	
+09:14	30,1	At E50, 66862 Kindsbach, stay on A6 [E50] (East)	3,3 km	
+09:15	33,4	At 14, stay on A6 [E50] (East)	3,5 km	
+09:17	36,9	At 15, stay on A6 [E50] (East)	7,5 km	
+09:22	44,4	Arrive near Kaiserslautern		
+
+SUMMARY
+Driving distance:  44,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  49,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,0 kilometres (21 minutes)
+09:00	0,0	Depart 16A on A6 [E50] (West)	7,5 km	A6 / Saarbrücken / Trier / Kaiserslautern-West
+09:03	7,5	At 15, stay on A6 [E50] (West)	4,1 km	A6 / Saarbrücken / Trier / K.Lautern-Einsiedlerhof
+09:05	11,6	At 14, stay on A6 [E50] (West)	7,8 km	A6 / Ramstein-Miesenbach
+09:09	19,5	At 13, stay on A6 [E50] (West)	1,7 km	A6 / Kreuz Landstuhl-West
+09:10	21,2	At 12, stay on A6 [E50] (West)	5,7 km	A6 / Paris / Saarbrücken
+09:13	26,8	At E50, 66892 Bruchmühlbach-Miesau, stay on A6 [E50] (West)	2,0 km	
+09:14	28,8	At 11, stay on A6 [E50] (South-West)	1,0 km	
+09:14	29,8	At E50, 66892 Bruchmühlbach-Miesau, stay on A6 [E50] (South-West)	3,9 km	
+09:16	33,8	At E50, 66914 Waldmohr, stay on A6 [E50] (West)	6,4 km	
+09:19	40,1	At 9, stay on A6 [E50] (South-West)	4,9 km	
+09:21	45,0	Arrive 8		
+
+SUMMARY
+Driving distance:  45,0 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  57,18 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,2 kilometres (19 minutes)
+09:00	0,0	Depart near Kaiserslautern on A6 [E50] (East)	2,0 km	A6 / Mannheim / Kaisersl.-Ost / Mehlingen
+09:00	2,0	At 16B, keep STRAIGHT to stay on A6 [E50]	1,9 km	
+09:01	3,9	At E50, 67657 Kaiserslautern, stay on A6 [E50] (East)	4,5 km	
+09:03	8,4	At 17, stay on A6 [E50] (East)	10,9 km	
+09:08	19,3	At E50, 67319 Wattenheim, stay on A6 [E50] (North-East)	3,5 km	
+09:10	22,8	At 18, stay on A6 [E50] (East)	3,8 km	
+09:12	26,6	At near Tiefenthal, stay on A6 [E50] (East)	0,5 km	
+09:12	27,1	At E50, 67271 Neuleiningen, stay on A6 [E50] (East)	5,2 km	
+09:15	32,3	At 19, stay on A6 [E50] (East)	8,9 km	
+09:19	41,2	Arrive 21		
+
+SUMMARY
+Driving distance:  41,2 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  53,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,9 kilometres (20 minutes)
+09:00	0,0	Depart 21 on A6 [E50] (West)	4,7 km	A6 / Saarbrücken / Kaiserslautern
+09:02	4,7	At E50, 67229 Gerolsheim, stay on A6 [E50] (West)	5,0 km	
+09:04	9,7	At 19, stay on A6 [E50] (West)	6,2 km	
+09:08	15,9	At near Tiefenthal, stay on A6 [E50] (West)	3,0 km	
+09:09	18,8	At 18, stay on A6 [E50] (West)	3,8 km	
+09:11	22,6	At E50, 67319 Wattenheim, stay on A6 [E50] (South-West)	6,5 km	
+09:14	29,2	At E50, 67677 Enkenbach-Alsenborn, stay on A6 [E50] (West)	3,3 km	
+09:16	32,5	At E50, 67677 Enkenbach-Alsenborn, stay on A6 [E50] (South-West)	1,2 km	
+09:16	33,6	At 17, stay on A6 [E50] (West)	4,3 km	
+09:18	37,9	At E50, 67657 Kaiserslautern, stay on A6 [E50] (West)	2,0 km	
+09:19	39,9	At 16B, stay on A6 [E50] (West)	1,0 km	
+09:20	40,9	Arrive 16A		
+
+SUMMARY
+Driving distance:  40,9 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  52,96 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  50,7 kilometres (25 minutes)
+09:00	0,0	Depart 21 on A6 [E50] (East)	3,2 km	A6 / Frankfurt A.M. / Mannheim / Ludwigshafen-Nord
+09:01	3,2	At 22, stay on A6 [E50] (East)	2,9 km	
+09:02	6,1	At 23, stay on A6 [E50] (South-East)	4,1 km	A6 / Mannheim-Sandhofen
+09:04	10,2	At 24, keep STRAIGHT to stay on A6 [E50]	4,8 km	
+09:07	15,0	At E50, 68307 Mannheim, stay on A6 [E50] (East)	3,0 km	
+09:08	18,0	At 25, keep RIGHT onto Ramp [E50]	3,4 km	A6 / Stuttgart / Basel / Karlsruhe / Mannheim
+09:10	21,4	At 26, stay on A6 [E50] (South)	7,3 km	A6 / Stuttgart / Basel / Karlsruhe / Mannheim-Mitte
+09:14	28,7	At 27, stay on A6 [E50] (South)	6,1 km	A6 / Basel / Karlsruhe / Stuttgart
+09:17	34,8	At 28, stay on A6 [E50] (South)	3,6 km	
+09:19	38,4	At E50, 68775 Ketsch, stay on A6 [E50] (South)	2,0 km	
+09:20	40,4	At 29, stay on A6 [E50] (South)	2,8 km	
+09:22	43,2	At 30, stay on A6 [E50] (South)	1,8 km	A6 / Basel / Karlsruhe / Stuttgart
+09:23	45,0	At E50, 68766 Hockenheim, stay on A6 [E50] (South)	3,3 km	
+09:24	48,3	At E50, 68799 Reilingen, stay on A6 [E50] (South)	2,4 km	
+09:25	50,7	Arrive 31		
+
+SUMMARY
+Driving distance:  50,7 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  64,37 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  51,0 kilometres (25 minutes)
+09:00	0,0	Depart 31 on A6 [E50] (West)	2,4 km	
+09:01	2,4	At E50, 69190 Walldorf, stay on A6 [E50] (North-West)	2,9 km	
+09:02	5,3	At E50, 68766 Hockenheim, stay on A6 [E50] (North-West)	1,8 km	
+09:03	7,2	At 30, stay on A6 [E50] (North)	3,2 km	A6 / Frankfurt / Mannheim
+09:05	10,4	At 29, stay on A6 [E50] (North)	2,0 km	
+09:06	12,4	At E50, 68775 Ketsch, stay on A6 [E50] (North)	3,7 km	
+09:08	16,0	At 28, stay on A6 [E50] (North)	5,9 km	
+09:11	22,0	At 27, stay on A6 [E50] (North)	7,1 km	
+09:15	29,1	At 26, stay on A6 [E50] (North)	3,4 km	
+09:17	32,5	At 25, bear RIGHT (North) onto Ramp [E50]	2,4 km	A6 / Saarbrücken / Kaiserslautern / Ludwigshafen
+09:18	34,9	At E50, 68519 Viernheim, stay on A6 [E50] (West)	6,0 km	
+09:20	40,9	At 24, keep STRAIGHT to stay on A6 [E50]	4,0 km	
+09:22	44,9	At 23, stay on A6 [E50] (West)	3,3 km	
+09:24	48,2	At 22, stay on A6 [E50] (West)	2,8 km	
+09:25	51,0	Arrive 21		
+
+SUMMARY
+Driving distance:  51,0 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  56,72 kr
+
+Frankrike/Tyskland - Neuenkirchen (8)
+0.7 km/1.6 km	0 min 23 s/0 min 52 s	110
+5.1 km/4.9 km	2 min 47 s/2 min 40 s
+1.1 km/0.5 km	0 min 36 s/0 min 16 s
+2.8 km/3.1 km	1 min 32 s/1 min 41 s
+5.0 km/4.8 km	2 min 44 s/2 min 37 s
+2.8 km/3.0 km	1 min 32 s/1 min 38 s
+1.7 km/1.3 km	0 min 56 s/0 min 43 s
+1.4 km/2.1 km	0 min 46 s/1 min 9 s
+6.8 km/6.8 km	3 min 43 s/3 min 43 s
+
+Neuenkirchen (8) - Kaiserslautern (16a)
+5.0 km/4.9 km	2 min 30 s/2 min 27 s	120
+1.0 km/1.0 km	0 min 30 s/0 min 30 s
+5.3 km/5.4 km	2 min 39 s/2 min 42 s
+3.8 km/3.9 km	1 min 54 s/1 min 57 s
+1.9 km/1.0 km	0 min 57 s/0 min 30 s
+2.4 km/2.0 km	1 min 12 s/1 min 0 s
+4.1 km/5.7 km	2 min 3 s/2 min 51 s
+3.0 km/1.7 km	1 min 30 s/0 min 51 s
+3.6 km/4.1 km	1 min 48 s/2 min 3 s
+3.3 km/3.7 km	1 min 39 s/1 min 51 s
+3.5 km/4.1 km	1 min 45 s/2 min 3 s
+7.5 km/7.5 km	3 min 45 s/3 min 45 s
+
+Kaiserslautern (16a) - Frankenthal (21)
+2.0 km/1.0 km	1 min 0 s/0 min 30 s	120
+1.9 km/2.0 km	0 min 57 s/1 min 0 s
+4.5 km/4.3 km	2 min 15 s/2 min 9 s
+1.1 km/1.2 km	0 min 33 s/0 min 36 s
+3.3 km/3.3 km	1 min 39 s/1 min 39 s
+6.6 km/6.5 km	3 min 18 s/3 min 15 s
+3.5 km/3.8 km	1 min 45 s/1 min 54 s
+3.8 km/3.0 km	1 min 54 s/1 min 30 s
+0.5 km/1.3 km	0 min 15 s/0 min 39 s
+5.2 km/4.9 km	2 min 36 s/2 min 27 s
+5.0 km/5.0 km	2 min 30 s/2 min 30 s
+3.9 km/4.7 km	1 min 57 s/2 min 21 s
+
+Frankenthal (21) - Walldorf (31)
+3.2 km/2.8 km	1 min 55 s/1 min 41 s	100
+2.9 km/3.3 km	1 min 44 s/1 min 59 s
+1.9 km/0.9 km	1 min 8 s/0 min 32 s
+0.8 km/0.8 km	0 min 29 s/0 min 29 s
+1.3 km/2.3 km	0 min 47 s/1 min 23 s
+4.8 km/6.0 km	2 min 53 s/3 min 36 s
+3.0 km/2.4 km	1 min 48 s/1 min 26 s
+3.5 km/3.4 km	2 min 6 s/2 min 2 s
+5.7 km/4.9 km	3 min 25 s/2 min 56 s
+1.5 km/2.2 km	0 min 54 s/1 min 19 s
+6.1 km/5.9 km	3 min 40 s/3 min 32 s
+3.6 km/3.7 km	2 min 10 s/2 min 13 s
+2.0 km/2.0 km	1 min 12 s/1 min 12 s
+2.8 km/3.2 km	1 min 41 s/1 min 55 s
+1.8 km/1.8 km	1 min 5 s/1 min 5 s
+3.3 km/2.9 km	1 min 59 s/1 min 44 s
+2.4 km/2.4 km	1 min 26 s/1 min 26 s

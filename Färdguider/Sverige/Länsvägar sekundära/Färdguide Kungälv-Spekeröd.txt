@@ -1,0 +1,131 @@
+Färdguide Lv 574 (Göteborg - Spekeröd)
+=======================================
+
+Etapp 1: Klareberg - Eriksdal ()
+
+Korsning Klareberg
+
+Etapp 2: Eriksdal - Kungälv C (4,0 km/4,2 km)
+
+Jordfallsmotet (84)
+ E6 s: Göteborg
+					0,9 km/1,0 km	41 s/45 s
+Rondell
+ Kärra N
+					0,2 km/0,5 km	14 s/36 s
+Rondell Eriksdal
+ [E45 n]: Karlstad, Bohus
+ Torslanda, Säve
+Bensinstation: St1
+Restaurang: Vikingagrillen
+					0,5 km/0,2 km	36 s/14 s
+Bohusbron
+ Norde älv
+					0,4 km/0,3 km	29 s/22 s
+Dubbel T-korsning Fästningen
+ Camping och Vandrarhem
+ Bohus Fästning
+					0,3 km/0,2 km	22 s/14 s
+(Bro)
+T-korsning Gamla torget
+ Västra gatan
+ Hotel: Fars Hatt
+					0,8 km/0,9 km	48 s/54 s
+Rondell Kexfabriken
+ Centrum
+ Bräckboden
+					0,3 km/0,4 km	27 s/36 s
+Rondell Posttorget
+ Centrum
+ Ytterby
+					0,5 km/0,4 km	36 s/29 s
+Korsning Uddevallav./Trollhättev.
+ Komarken, Vita fläcken
+ Mimers hus
+					0,4 km/0,5 km	24 s/30 s
+Korsning Uddevallav./Romelandav.
+ Lilla Edet, Romelanda
+ 168: Marstrand, Ytterby
+T-korsning Kungälvs sjukhus
+ Kungälvs sjukhus
+
+Etapp 2: Kungälv C - Kode (11,0 km/11,0 km)
+					0,4 km/0,3 km	24 s/18 s
+T-korsning Brandstation
+ Kungälvs brandstation
+					0,3 km/0,3 km	18 s/18 s
+Korsning Jordliden
+					0,4 km/0,4 km	24 s/24 s
+T-korsning Karebyv./Energiv.
+					0,3 km/0,3 km	18 s/18 s
+Rondell Munkegärde
+					0,7 km/0,7 km	42 s/42 s
+Korsning Ulvegärde
+					0,4 km/0,4 km	24 s/24 s
+Rondell Solgärde
+ [E6], Rollsbo
+					0,4 km/0,4 km	24 s/24 s
+Rondell Solbräcke
+					0,5 km/0,5 km	30 s/30 s
+Rondell Arntorp södra
+					1,5 km/1,5 km	1 min 17 s/1 min 17 s
+Korsning Kareby korsväg
+ Diseröd
+ Rörtången
+					0,5 km/0,5 km	26 s/26 s
+T-korsning Kareby kyrka
+ Kareby kyrka
+					0,7 km/0,7 km	36 s/36 s
+Korsning Hanekullen
+ Arnebo
+					3,6 km/3,6 km	3 min 5 s/3 min 5 s
+Korsning Ingetorps gård
+ Svartedalen
+ Ingetorps GK
+					0,8 km/0,8 km	41 s/41 s
+Viadukt
+ E6
+					0,7 km/0,8 km	42 s/48 s
+Dubbel T-korsning Kode korsväg
+ E6 n: Oslo, Uddevalla
+ E6 s: Göteborg, Kungälv
+ 
+Etapp 3: Kode - Spekeröd (10,8 km/10,7 km)
+					2,4 km/2,3 km	2 min 3 s/1 min 58 s
+Kungälv / Stenungsund
+					1,6 km/1,6 km	1 min 22 s/1 min 22 s
+Järnvägsviadukt
+ Bohusbanan
+					0,3 km/0,3 km	15 s/15 s
+Korsning Stenflaten
+ Marstrand
+					1,2 km/1,2 km	1 min 12 s/1 min 12 s
+Korsning Jörlanda Värdshus
+ Bensinstation
+					0,2 km/0,2 km	14 s/14 s
+T-korsning Jörlanda
+ [E6 s]: Göteborg
+ Svartedalen
+					0,4 km/0,4 km	24 s/24 s
+T-korsning Torödsvägen
+ Toröd
+					1,9 km/2,2 km	1 min 38 s/1 min 53 s
+Dubbel T-korsning Lundbyvägen
+ Lundby
+ Getskär
+					0,8 km/0,6 km	41 s/31 s
+Tankställe Stora Höga
+ Bensinstation: Circle-K
+					0,3 km/0,3 km	22 s/22 s
+Rondell Stora Höga
+ Industri
+					0,3 km/0,3 km	22 s/22 s
+Korsning Stora Höga station
+ Pendelparkering
+					0,7 km/0,7 km	42 s/42 s
+Viadukt
+ Lv 160
+					0,8 km/0,8 km	48 s/48 s
+T-korsning Strandkärr
+ 160 n: Tjörn-Orust, Stenungsund
+ 160 s: [E6], Ucklum

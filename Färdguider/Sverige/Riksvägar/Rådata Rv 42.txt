@@ -1,0 +1,168 @@
+Time	Km	Instruction	For	Toward
+Summary:  29,3 kilometres (25 minutes)
+09:00	0,0	Depart 42 32, 513 34 Fristad on Local road(s) (East)	30 m	
+09:00	0,1	Bear RIGHT (West) onto 42 [Vängavägen]	0,8 km	
+09:01	0,8	At T-korsning Fristad NV, stay on 42 [Vängavägen] (North)	5,0 km	
+09:06	5,8	At Korsning Vänga södra, stay on 42 (North)	0,4 km	
+09:06	6,2	At 42, 513 92 Fristad, stay on 42 (North-West)	0,7 km	
+09:07	6,9	At T-korsning Vänga norra, stay on 42 (North)	2,7 km	
+09:09	9,6	At T-korsning Tämta södra, stay on 42 (North)	2,4 km	
+09:11	12,0	At T-korsning Tämta norra, stay on 42 (North)	2,3 km	
+09:13	14,3	At near Tämta, stay on 42 (West)	4,2 km	
+09:17	18,5	At Korsning Ljurhalla vägskäl, stay on 42 (West)	5,5 km	
+09:21	24,0	At Korsning Stenatorp, stay on 42 (North)	2,9 km	
+09:23	27,0	At Korsning Algutstorp, stay on 42 (North)	1,4 km	
+09:24	28,4	At Korsning Vårgårda S, stay on 42 (West)	0,6 km	
+09:25	28,9	At 42, 447 91 Vårgårda, stay on 42 (West)	0,4 km	
+09:25	29,3	Arrive 42, 447 91 Vårgårda		
+
+SUMMARY
+Driving distance:  29,3 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  38,80 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  29,7 kilometres (25 minutes)
+09:00	0,0	Depart near Vårgårda on E20 [42] (South)	0,2 km	
+09:00	0,2	Turn LEFT (East) onto Ramp	0,2 km	42 / 182 / Borås / Ulricehamn / Vårgårda
+09:00	0,5	Keep STRAIGHT onto 42	0,3 km	
+09:00	0,8	At 42, 447 91 Vårgårda, stay on 42 (East)	0,6 km	
+09:01	1,4	At Korsning Vårgårda S, stay on 42 (East)	1,4 km	
+09:02	2,8	At Korsning Algutstorp, stay on 42 (South)	2,9 km	
+09:04	5,7	At Korsning Stenatorp, stay on 42 (South)	5,5 km	
+09:08	11,3	At Korsning Ljurhalla vägskäl, stay on 42 (East)	4,2 km	
+09:12	15,5	At 42, 513 93 Fristad, stay on 42 (East)	2,3 km	
+09:14	17,8	At T-korsning Tämta norra, stay on 42 (South)	2,4 km	
+09:16	20,1	At T-korsning Tämta södra, stay on 42 (South)	2,7 km	
+09:18	22,8	At T-korsning Vänga norra, stay on 42 (South)	0,8 km	
+09:19	23,6	At 42, 513 92 Fristad, stay on 42 (South)	0,4 km	
+09:19	24,0	At Korsning Vänga södra, stay on 42 (South)	5,0 km	
+09:24	29,0	At T-korsning Fristad NV, stay on 42 [Vängavägen] (South-East)	0,8 km	
+09:25	29,7	Arrive 42, 513 32 Fristad		
+
+SUMMARY
+Driving distance:  29,7 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  39,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,0 kilometres (17 minutes)
+09:00	0,0	Depart 42, 466 31 Sollebrunn on 42 (East)	5,8 km	
+09:05	5,8	At T-korsning Magra kyrka, stay on 42 (East)	0,7 km	
+09:06	6,5	At T-korsning Magra korsväg, stay on 42 (East)	2,0 km	
+09:07	8,5	At Korsning Upplo, stay on 42 (South)	1,3 km	
+09:08	9,8	At T-korsning Hallavadet, stay on 42 (South)	1,0 km	
+09:09	10,8	At near Hagö, stay on 42 (East)	2,8 km	
+09:11	13,6	At T-korsning Kolbäck Lurut, stay on 42 (East)	2,8 km	
+09:13	16,3	At T-korsning Starabovägen, stay on 42 (East)	4,7 km	
+09:17	21,0	Arrive 42, 447 37 Vårgårda		
+
+SUMMARY
+Driving distance:  21,0 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  27,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,2 kilometres (23 minutes)
+09:00	0,0	Depart Korsning Sollebrunn on 42 (West)	3,4 km	
+09:03	3,4	At 42, 466 91 Sollebrunn, stay on 42 (West)	3,5 km	
+09:06	6,8	At T-korsning Lagmansered, stay on 42 (North-West)	3,1 km	
+09:08	9,9	At Korsning Koberg S, stay on 42 (North-West)	1,0 km	
+09:09	10,9	At T-korsning Koberg N, stay on 42 [Lagmansered Nordängen] (North)	8,4 km	
+09:17	19,4	At T-korsning Väne-Åsaka S, stay on 42 (North)	0,3 km	
+09:17	19,7	At T-korsning Väne-Åsaka Ö, stay on 42 (North)	0,8 km	
+09:18	20,4	At 42, 461 95 Väne-Åsaka, stay on 42 (North-West)	1,7 km	
+09:20	22,2	At roundabout, take the SECOND exit onto 42	3,1 km	
+09:23	25,2	Arrive 42, 461 93 Trollhättan		
+
+SUMMARY
+Driving distance:  25,2 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  33,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,1 kilometres (23 minutes)
+09:00	0,0	Depart 42, 461 93 Trollhättan on Local road(s) (South)	10 m	
+09:00	0,1	Bear RIGHT (South) onto 42	2,8 km	
+09:02	2,8	At near Väne Åsaka, stay on 42 (South)	2,0 km	
+09:04	4,8	At 42, 461 95 Väne-Åsaka, stay on 42 (South-East)	0,8 km	
+09:05	5,6	At T-korsning Väne-Åsaka Ö, stay on 42 (South)	0,3 km	
+09:06	5,9	At T-korsning Väne-Åsaka S, stay on 42 (South)	8,4 km	
+09:14	14,3	At T-korsning Koberg N, stay on 42 (South)	1,0 km	
+09:14	15,3	At Korsning Koberg S, stay on 42 (South-East)	3,1 km	
+09:17	18,4	At T-korsning Lagmansered, stay on 42 (East)	3,5 km	
+09:20	21,9	At 42, 466 91 Sollebrunn, stay on 42 (East)	3,2 km	
+09:23	25,1	Arrive Centrumgatan, 466 30 Sollebrunn		
+
+SUMMARY
+Driving distance:  25,1 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  33,48 kr
+
+Borås-Järnvägskorsning
+0.8 km/0.8 km	0 min 58 s/0 min 58 s	50
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.8 km/0.7 km	0 min 58 s/0 min 50 s
+1.9 km/1.9 km	2 min 17 s/2 min 17 s
+1.2 km/1.2 km	1 min 26 s/1 min 26 s
+
+Järnvägskorsning-(T) Paradiset
+0.6 km/0.6 km	0 min 36 s/0 min 36 s	60
+4.3 km/4.3 km	4 min 18 s/4 min 18 s
+
+(T) Paradiset-(R) Fristad N
+2.4 km/2.4 km	2 min 53 s/2 min 53 s	50
+0.6 km/0.6 km	0 min 43 s/0 min 43 s
+0.8 km/0.8 km	0 min 58 s/0 min 58 s
+
+(R) Fristad N-(T) Fristad NV
+0.8 km/0.8 km	0 min 58 s/0 min 58 s	50
+
+(T) Fristad NV-(T) Algutstorp
+5.0 km/5.0 km	3 min 45 s/3 min 45 s	80
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+0.7 km/0.8 km	0 min 31 s/0 min 36 s
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+4.2 km/4.2 km	3 min 9 s/3 min 9 s
+5.5 km/5.5 km	4 min 8 s/4 min 8 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+
+(T) Algutstorp-(Trp) Hjultorp
+1.4 km/1.4 km	1 min 12 s/1 min 12 s	80
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+0.4 km/0.8 km	0 min 21 s/0 min 41 s
+
+(Trp) Vårgårda-(T) Kolbäck
+5.2 km/4.7 km	3 min 54 s/3 min 32 s	70
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+
+(T) Kolbäck-(K)-Sollebrunn
+2.8 km/2.8 km	2 min 24 s/2 min 24 s	70
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+1.3 km/1.3 km	1 min 7 s/1 min 7 s
+2.0 km/2.0 km	1 min 43 s/1 min 43 s
+0.7 km/0.7 km	0 min 36 s/0 min 36 s
+5.6 km/5.8 km	4 min 48 s/4 min 58 s
+
+(K) Sollebrunn-(T)-Väne-Åsaka S
+3.4 km/3.2 km	2 min 55 s/2 min 45 s	70
+3.5 km/3.5 km	3 min 0 s/3 min 0 s
+3.1 km/3.1 km	2 min 39 s/2 min 39 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+8.4 km/8.4 km	7 min 12 s/7 min 12 s
+
+(T) Väne-Åsaka S-(T) Väne-Åsaka N
+0.3 km/0.3 km	0 min 22 s/0 min 22 s	50
+0.8 km/0.8 km	0 min 58 s/0 min 58 s
+
+(T) Väne-Åsaka N-(R) Multorp
+1.7 km/2.0 km	1 min 27 s/1 min 43 s	70
+3.1 km/2.8 km	2 min 39 s/2 min 24 s
+

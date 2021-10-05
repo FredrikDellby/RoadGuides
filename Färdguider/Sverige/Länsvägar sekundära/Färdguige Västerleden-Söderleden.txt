@@ -1,0 +1,56 @@
+Fiskhamnsmotet
+ E45: Frederikshavn (färja)
+ Fiskhamnen
+					0.9 km/0.5 km	46 s/26 s
+Kusttorgsmotet
+ Chapmans Torg
+					0.4 km/0.8 km	21 s/41 s
+Jaegersdorffsmotet
+ Kiel (färja)
+ Klippan
+ Kungsladugård
+					0.7 km/1.0 km	36 s/51 s
+Rödastensmotet
+ [E6]: Oslo
+ Hisingen, Hamnar
+					1.0 km/0.4 km	51 s/21 s
+Kungsstensmotet
+ Kungssten
+ Högsbohöjd
+					0.3 km/0.5 km	15 s/26 s
+Gnistängsmotet
+ Långedrag
+					1.2 km/1.2 km	1 min 2 s/1 min 2 s
+Hagenmotet
+					0.5 km/0.8 km	26 s/41 s
+Fiskebäcksmotet
+ Fiskebäck
+ Tynnered S
+					1.4 km/1.1 km	1 min 12 s/0 min 57 s
+Tynneredsmotet
+ Tynnered N
+ Frölunda Torg
+					1.0 km/0.9 km	51 s/46 s
+Frölundamotet
+ Näset
+ Frölunda Torg
+					0.6 km/1.1 km	31 s/57 s
+Järnbrottsmotet
+ 158: Särö, Askim
+ Sahlgrenska
+					1.4 km/1.3 km	1 min 3 s/0 min 59 s
+Sisjömotet
+ Sisjö industi
+ Högsbo industri
+Göteborg / Mölndal
+					2.3 km/1.7 km	1 min 43 s/1 min 16 s
+Fässbergsmotet
+ Åbro, Balltorp, Riskulla
+					1.1 km/0.9 km	50 s/40 s
+Avfart
+(västgående riktning)
+ Camping
+					0.4 km/1.2 km	18 s/54 s
+Åbromotet
+ E6-E20 s: Malmö
+ E6-E20 n: Göteborg

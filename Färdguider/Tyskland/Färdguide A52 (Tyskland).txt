@@ -1,0 +1,45 @@
+A2-Trp 5
+ A2 w: Duisburg, Oberhausen
+ A2 o: Hannover, Dortmund
+					0.8 km/0.5 km	0 min 58 s/0 min 36 s
+Korsning
+					0.5 km/0.5 km	0 min 36 s/0 min 36 s
+T-korsning
+					0.3 km/0.3 km	0 min 22 s/0 min 22 s
+Korsning
+					1.4 km/1.7 km	0 min 50 s/1 min 1 s
+Tankstelle Buer
+(västgående riktning)
+					1.1 km/1.7 km	0 min 40 s/1 min 1 s
+Anschlausstelle 42
+ Gelsenkirchen-Buer-West
+					1.4 km/0.8 km	0 min 50 s/0 min 29 s
+Anschlausstelle 43
+ Gelsenkirchen-Scholven
+					2.3 km/2.7 km	1 min 23 s/1 min 37 s
+Anschlausstelle 44
+ Gelsenkirchen-Hassel
+ B224: 
+					3.4 km/2.8 km	2 min 2 s/1 min 41 s
+Anschlausstelle 45
+(avfart västgående riktning
+påfart östgående riktning)
+ Dorsten-Ost
+					1.9 km/2.4 km	1 min 8 s/1 min 26 s
+Anschlausstelle 46
+ Marl-Frentrop
+ B225: 
+					3.4 km/2.7 km	2 min 2 s/1 min 37 s
+Anschlausstelle 47
+ Marl-Brassert
+					1.8 km/2.0 km	1 min 5 s/1 min 12 s
+Anschlausstelle 48
+ Marl-Zentrum
+					1.2 km/1.8 km	0 min 43 s/1 min 5 s
+Anschlausstelle 49
+ Marl-Hamm
+					3.3 km/3.5 km	1 min 59 s/2 min 6 s
+AB-Kreuz Marl-Nord (50)
+ A43 s: Wuppertal, Recklinghausen
+ A43 n: Münster
+

@@ -1,0 +1,28 @@
+T-korsning Vännacka norra
+ 177 n: Åmotfors, Koppom
+ 177 s: Årjäng
+				5.1 km/5.1 km	4 min 22 s/4 min 22 s
+T-korsning Karlanda N
+ Stenslanda, Ö. Bön
+				0.6 km/0.6 km	0 min 31 s/0 min 31 s
+T-korsning Karlanda S
+ Stenslanda, Ö. Bön
+				0.9 km/0.9 km	0 min 46 s/0 min 46 s
+T-korsning
+ Kesebotten, Hög
+				0.6 km/0.6 km	0 min 31 s/0 min 31 s
+T-korsning
+ S Fors
+				2.4 km/2.4 km	2 min 3 s/2 min 3 s
+T-korsning Västra Bön
+ Kesebotten, Hög
+				3.2 km/3.2 km	2 min 45 s/2 min 45 s
+T-korsning Bergerud
+ Kroken, Ivarsbyn
+				1.2 km/1.2 km	1 min 2 s/1 min 2 s
+T-korsning Leverbyn
+ Holmedal
+				1.7 km/1.7 km	1 min 27 s/1 min 27 s
+T-korsning Skålerud
+ E18 v: Oslo, Töcksfors
+ E18 ö: Stockholm, Årjäng

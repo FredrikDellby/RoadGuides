@@ -1,0 +1,80 @@
+Etapp 1: Uppsala - Almunge (23,2 km/23,1 km)
+
+Rondell
+ [E4 s]: Stockholm
+ Uppsala Centrum
+ 255: Sigtuna
+					0,8 km/0,8 km	58 s/58 s
+Hotel Viktoria
+					0,9 km/1,2 km	1 min 5 s/1 min 26 s
+Bensinstation: OKQ8
+Trp Kumla
+ E4 s: Stockholm, Arlanda
+ E4 n: Sundsvalla, Gävle
+ Uppsala Centrum
+					0,7 km/0,3 km	50 s/22 s
+Korsning Årsta vägskäl
+					3,8 km/3,8 km	3 min 15 s/3 min 15 s
+T-korsning Brunnby
+					0,5 km/0,7 km	26 s/36 s
+Järnvägskorsning
+ Uppsala-Länna järnväg
+T-korsning Bärby station
+					2,4 km/2,2 km	2 min 3 s/1 min 53 s
+T-korsning Funbo väst
+					0,4 km/0,4 km	21 s/21 s
+Korsning Funbo öst
+					3,6 km/3,6 km	3 min 5 s/3 min 5 s
+T-korsning Fjällnora vägskäl
+ Enskild väg
+					2,5 km/2,5 km	2 min 9 s/2 min 9 s
+T-korsning Länna V
+					0,5 km/0,5 km	36 s/36 s
+T-korsning Länna
+					0,4 km/0,4 km	29 s/29 s
+T-korsning Länna macken
+ Lokala mål
+ Bensinstation: Q-star
+					3,7 km/3,8 km	3 min 10 s/3 min 15 s
+Järnvägskorsning
+ Uppsala-Länna järnväg
+					0,7 km/0,8 km	50 s/58 s
+Dubbel T-korsning Almunge station
+					1,5 km/1,4 km	1 min 17 s/1 min 12 s
+T-korsning
+ 273 n: Gimo
+ Bensinstation: Din-X
+
+Etapp 2: Almunge - Unungehöjden (32,1 km/32,1 km)
+
+Dubbel T-korsning Almunge kyrka
+ Almunge kyrka
+ 273 s: Märsta, Arlanda
+ Golfbana
+
+T-korsning Rånäs vägskäl
+
+Dubbel T-korsning
+
+Korsning Knutbygården
+
+T-korsning
+
+T-korsning Knutby affären
+Bensinstation: Bilisten
+Knutby kyrka
+
+T-korsning Burvik GK
+
+Uppsala / Stockholm
+Uppsala / Norrtälje
+
+T-korsning 282/Skogsvägen
+
+Rondell Edsbro kyrka
+ 280: Stockholm, Rimbo
+
+T-korsning Unungehöjden
+ 76 s: Norrtälje
+ 76 n: Gävle, Hallstavik
+ [283]: Grisslehamn

@@ -1,0 +1,227 @@
+Reseguide E18 Arboga - Norrtälje
+================================
+
+Trafikplats Gräsnäs (121)
+ E18-E20: Oslo, Göteborg, Örebro
+ E20 ö: Stockholm, Eskilstuna
+(Arboga / Kungsör)
+					5.1 km/3.1 km	2 min 47 s/1 min 41 s
+Kungsör / Köping
+					4.1 km/4.8 km	2 min 14 s/2 min 37 s
+Trp Hedströmmen (122)
+ Köping S, C
+ Malmön
+					1.4 km/1.5 km	46 s/49 s
+Rastplats Skoftesta Skans	
+					2.1 km/1.7 km	1 min 9 s/0 min 56 s
+Trp Strö (123)
+ Köping C
+ 56: Norrköping, Kungsör
+ 250: Fagersta, Kolsva
+Bensinstation: OKQ8
+					9.0 km/8.9 km	6 min 0 s/5 min 56 s
+Trp Morgendal (124)
+ Munktorp
+ Rocklunda
+					2.5 km/2.2 km	1 min 40 s/1 min 28 s
+Köping / Hallstahammar
+					4.3 km/5.2 km	2 min 52 s/3 min 28 s
+Trp Söstafors (125)
+ Hallstahammar V, C
+ 252 s: Strömsholm, Kolbäck
+ 252 n: Surahammar
+
+Strömsholms Kanal
+					2.4 km/1.8 km	1 min 36 s/1 min 12 s
+Trp Eriksberg (126)
+ Hallstahammar Ö, C
+ Strömsholm, Kolbäck
+					4.0 km/4.3 km	2 min 40 s/2 min 52 s
+Hallstahammar / Västerås
+Rastplats Svedvi
+(västgående riktning)
+					1.8 km/2.0 km	1 min 12 s/1 min 20 s
+Trp Västjädra (127)
+ Dingtuna
+ 56: Norrköping, Eskilstuna
+					3.1 km/2.5 km	1 min 52 s/1 min 30 s
+Rastplats Råby
+(östgående riktning)
+					2.4 km/2.7 km	1 min 26 s/1 min 37 s
+Västerledsmotet (128)
+(avfart västgående riktning
+påfart östgående riktning)
+					1.5 km/0.7 km	54 s/25 s
+Skälbymotet (129)
+ Skälby
+					0.9 km/1.7 km	0 min 32 s/1 min 1 s
+Bäckbymotet (130)
+ 66: Ludvika, Surahammar
+Bensinstation: OKQ8
+Restaurang: McDonald's
+					2.9 km/2.5 km	1 min 56 s/1 min 40 s
+Vallbymotet (131)
+ Centrum
+ Vallby
+ Friluftsmuseum
+(Svartån)
+					0.9 km/1.1 km	36 s/44 s
+Rocklundamotet (132)
+ Centrum
+ Rocklunda
+Bensinstation: Shell
+					0.8 km/1.0 km	32 s/40 s
+Skallbergsmotet (133)
+ Centrum, Kristiansborg
+ 56: Gävle, Sala
+Bensinstation: OKQ8
+					0.7 km/0.6 km	28 s/24 s
+Emausmotet (134)
+ Centrum
+ Gideonsberg
+Bensinstation: OKQ8
+					0.9 km/0.4 km	36 s/16 s
+Korsängsmotet (135)
+ Kungsängen
+Bensinstation: Norsk Hydro
+					0.5 km/0.8 km	20 s/32 s
+Folkparksmotet (136)
+ Centrallassarettet
+Bensinstation: Statoil
+					1.5 km/2.0 km	1 min 0 s/1 min 20 s
+Talltorpsmotet (137)
+ Östra Stadsdelarna
+Kranbyggargatan
+(västgående riktning)
+ Hälla
+					1.7 km/1.6 km	1 min 8 s/1 min 4 s
+Hällamotet (139)
+ Västerås Flygplats
+ Irsta
+ Hälla
+Bensinstation: Norsk Hydro
+Restaurang: McDonald's
+					9.8 km/9.1 km	6 min 32 s/6 min 4 s
+Vägbro
+					4.1 km/4.0 km	2 min 44 s/2 min 40 s
+Motorväg
+ upphör (östgående)
+ börjar (västgående)
+Korsning Östanbro
+ Irsta, Kungsåra
+ Ängsö slott
+ Tortuna, Björksta
+					1.1 km/1.0 km	50 s/45 s
+Västmanland / Uppsala
+Västerås / Enköping
+					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+Korsning Teda
+ Teda, Svinnegarn
+					2.3 km/2.3 km	1 min 43 s/1 min 43 s
+Korsning Hummelsta
+ Hummelsta, Svinnegarn
+					0.5 km/0.5 km	36 s/36 s
+Tankställe Hummelsta
+Bensinstation: OKQ8
+					1.3 km/1.3 km	59 s/59 s
+T-korsning
+ Tibble
+					4.2 km/4.3 km	3 min 9 s/3 min 14 s
+T-korsning Storängen
+ 55: Norrköping, Strängnäs
+					0.4 km/0.4 km	29 s/29 s
+Rondell Enköping västra
+ Enköping C
+Motorväg
+ börjar (östgåene)
+ upphör (västgående)
+					2.3 km/2.9 km	1 min 15 s/1 min 35 s
+Trp Romberga (142)
+ Enköping N, C
+ 70: Mora, Sala
+Bensinstation: Statoil
+Restaurang: McDonald's
+					4.1 km/3.6 km	2 min 14 s/1 min 58 s
+Trp Annelund (143)
+ Enköping Ö, C
+ 55: Uppsala
+					7.3 km/7.5 km	3 min 59 s/4 min 5 s		
+Trp Grillby (144)
+ Grillby, Lillkyrka
+					6.5 km/6.3 km	3 min 33 s/3 min 26 s
+Ekolsund
+Enköping / Håbo
+					0.6 km/0.9 km	20 s/29 s
+Rastplats Ekolskog
+					7.3 km/7.7 km	3 min 59 s/4 min 12 s
+Trp Åsen (146)
+ Bålsta
+ Hjälsta, Skokloster
+					4.1 km/3.9 km	2 min 14 s/2 min 8 s
+Trp Draget (147)
+ Bålsta
+					1.4 km/0.8 km	46 s/26 s
+Uppsala / Stockholm
+Håbo / Upplands Bro
+					4.2 km/4.3 km	2 min 17 s/2 min 21 s
+Trp Bro (148)
+					8.0 km/8.0 km	4 min 22 s/4 min 22 s
+Trp Brunna (150)
+					1.3 km/1.3 km	43 s/43 s
+Trp Kungsängen (151)
+(avfart västgående riktning
+påfart östgående riktning)
+					2.1 km/2.2 km	1 min 9 s/1 min 12 s
+Upplands Bro / Järfälla
+					1.2 km/1.5 km	39 s/49 s
+Trp Stäket (152)
+					3.3 km/2.9 km	1 min 59 s/1 min 44 s
+Trp Kallhäll (153)
+(avfart västgående riktning
+påfart östgående riktning)
+					2.8 km/3.2 km	1 min 41 s/1 min 55 s
+Trp Jakobsberg (154)
+					1.5 km/1.1 km	54 s/40 s
+Trp Barkarby (155)
+(avfart västgående riktning
+påfart östgående riktning)
+					1.2 km/1.1 km	43 s/40 s
+Järfälla / Stockholm
+					0.9 km/0.9 km	32 s/32 s
+Korsning Hjulsta
+ 275 s: Hässelby
+ 275 n: Sollentuna
+					1.7 km/1.7 km	2 min 2 s/2 min 2 s
+T-korsning E18/Spånga Kyrkväg
+ Spånga, Solhem, Tensta
+					1.9 km/2.3 km	2 min 17 s/2 min 46 s
+Stockholm / Sundbyberg
+Dubbel T-korsning Rinkeby
+ 279: Stockholm C, Bromma Flygplats
+ Sollentuna, Kista
+					2.4 km/2.0 km	2 min 53 s/2 min 24 s
+Korsning E18/Ursviksvägen
+ Sundbyberg, Hallonbergen
+					0.4 km/0.6 km	29 s/43 s
+Trp Råsta
+ Råsta
+Sundbyberg / Solna
+					0.6 km/0.5 km	43 s/36 s
+T-korsning E18/Sjövägen
+ Solna C, Näckrosen
+					1.1 km/1.1 km	1 min 19 s/1 min 19 s
+Järnvägskorsning
+					0.4 km/0.8 km	29 s/58 s
+Trp Järva Krog
+ E4 s: Stockholm C
+ E4 n: Sundsvall, Arlanda Flygplats
+T-korsning E18/Ulriksdalsvägen
+ Ulriksdals slott
+					1.0 km/0.8 km	1 min 12 s/0 min 58 s
+Trp Kungshamra
+ Bergshamra, 
+					0.7 km/0.8 km	50 s/58 s
+Trp Bergshamra
+ Stockholm C
+ Stockholms Universitet
+ Bergshamra

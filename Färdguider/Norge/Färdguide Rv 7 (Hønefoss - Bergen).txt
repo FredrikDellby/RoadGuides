@@ -1,0 +1,280 @@
+Reseguide Rv 7 Hønefoss -  Hardangerbrua
+=========================================
+
+Rondell E16/Rv 7
+ E16 n: Bergen, Fagernes
+ E16 s: Oslo, Bærum
+					2.6 km/2.5 km	2 min 14 s/2 min 9 s
+T-korsning Rv 7/Fv173
+ Ask
+					4.3 km/4.3 km	3 min 41 s/3 min 41 s
+T-korsning Rv 7/Fv174
+ Ve
+					2.1 km/2.4 km	1 min 48 s/2 min 3 s
+Korsning Veme-øst
+ Gardhammar
+Bensinstasjon: Shell
+T-korsning Veme-vest
+ Heggen
+					2.5 km/2.2 km	2 min 9 s/1 min 53 s
+(Bru over Sogna)
+T-korsning Rv 7/Jonsrudv.
+ Jonsrud
+					1.4 km/1.4 km	1 min 12 s/1 min 12 s
+T-korsning Gardhammar
+					2.6 km/2.6 km	2 min 14 s/2 min 14 s
+T-korsning Rv 7/Fv177
+ Bjerke
+					3.2 km/3.2 km	2 min 45 s/2 min 45 s
+T-korsning Rv 7/Nordmov.
+					1.2 km/1.3 km	1 min 2 s/1 min 7 s
+Hovland bru (37 m)
+ Sogna
+					0.3 km/0.6 km	22 s/43 s
+T-korsning Sokna-øst
+ Fv2884: Strømsoddbygda
+
+Rustad Café
+Bensinstasjon: YX
+
+Korsning+T-korsning Sokna sentrum
+ Elbilsladdning: Fortum
+ Fv2886: Solli
+
+Sokna bru (37,5 m)
+ Verkenselva
+
+Rondell Bjerke
+ 288: Noresund
+(Motortrafikkvei begynner/ender)
+(Verkenselva bru)
+ Verkenselva, 26 m
+
+Nedre Lundesgaard kulvert (180 m)
+
+80 km/h / 90 km/h: (60.2483735,9.9077328)
+Jernbanebru
+ Bergensbanen
+
+90 km/h / 80 km/h: (60.2608005,9.8729607
+
+Kjettingplass (vestgående)
+
+Juvet bru (90 m)
+ Bergensbanen og Brekkebygdveien
+
+Rudselva bru (82 m)
+ Rudselva
+
+Rallerudtunnelen-øst
+ 2 780 m
+
+(Rallerudtunnelen-vest
+
+Kryss Rallerud
+80 km/h / 90 km/h)
+
+Brekkebygda bomstasjon
+ 78,- / 157,-
+
+(90 km/h / 80 km/h)
+Kjettingplass (vestgående)
+Ørgenviktunnelen-øst
+
+Ringerike / Krødsherad
+
+(Ørgenviktunnelen-vest
+
+Kryss Ørgenvika
+ 280: Noresund
+
+Parkeringsplats (vestgående)
+
+Krødsherad / Flå
+
+Rasteplass Lindelia/Krøderfjorden
+
+(Parkeringsficka grus): (60.333715, 9.6486136)
+
+T-korsning Sønstebydalen
+ Fv2900: Sørbygda
+
+T-korsning Tromaldstøa
+ Fv2900: Gulsvik S, Vidalen
+(Trommald bru)
+ Lielvi, 20 m
+
+Møteskilt vei begynner/ender
+
+Møteskilt vei ender/begynner
+
+Rasteplass Vikstrand
+
+Rasteplass Gulsvik
+
+T-korsning Gulsvik brygge
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Tesla, Mer, Grønn Kontakt
+ Restaurang: Hallingporten
+
+Solheimselv bru (37 m)
+ Solheimselvi
+
+(Korsning Gulsvik stasjon)
+
+T-korsning Gulsvik-vest
+ Gulsvik N
+
+Rasteplass Kittilsviki
+
+Rasteplass Hallingporten øst
+(vestgående retning)
+
+Hallingporten (65 m)
+Rasteplass Hallingporten vest
+(østgående retning)
+
+Rasteplass Tuve bru)
+
+(Parkeringsplats Gulsvik gamle bru)
+Tuve bru (46 m)
+ Hallingdalselva
+Gulsvik bru (131 m)
+ Hallingdalselva
+
+T-korsning Gamle sentralen
+ Fv2902: Veteren, Høgevarde
+
+(Roppe bru)
+T-korsning Roppe bru
+ Roppemoen
+
+Møteskilt vei begynner/ender
+
+Møteskilt vei ender/begynner
+
+(Møteskilt vei)
+
+Rasteplass Flå øst: (60.4234446, 9.47102456)
+
+(T-korsning)
+ Flå stadion
+
+Rondell Flå kirke
+ Fv2904: Turufjell
+
+Restaurang: Rumi Café
+Bensinstasjon: Esso
+Flå veksthus (kommunhus)
+
+Rondell Bjørneparken
+ Flå kjøpesenter
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum
+ Restaurang: McDonald's
+ Flå Bjørnepark
+
+(Møteskilt vei)
+
+Grøsland bru (33 m)
+ Grøslandelvi
+
+T-korsning Tollevsrudlykka
+ Fv2904: Flå kirke
+
+T-korsning Stavn
+ Flenten, Stavn, Stavn Camping
+
+Haugeå bru (33 m)
+ Stamnselvi
+
+Stavn Campingsenter
+
+T-korsning Stavn skole
+ Flenten, Stavn
+ Stavn Gård og Hytter
+
+T-korsning Kolsrud
+ Kolsrud
+
+Flå / Nesbyen
+
+Rasteplass Bergheim
+T-korsning Bergheim
+ Bergheim
+(Bru over foss)
+
+Møteskilt vei begynner/ender
+
+Møteskilt vei ender/begynner
+
+(Møteskilt vei)
+
+Korsning Bromma
+ 287: Eggedal, Hagleby
+ Bensinstasjon: YX
+ Elbilsladdning: Recharge
+ Restaurang: Nor Kro
+T-korsning Norsenteret
+
+Rasteplass Bromma
+
+Parkeringsplass
+
+T-korsning
+ Fekjan Hytte/Camping
+
+T-korsning Liodden
+ Fv2906: Liodden
+ Liodden Camping
+
+Rasteplass Breia: (60.5320333,9.1558058)
+
+T-korsning Moane vest
+ Nesbyen, Camping
+ Nesbyen Auto AS
+
+Rasteplass Moan: (60.5621154, 9.1217892)
+
+Rasteplass Nesbyen
+(vestgående retning)
+
+T-korsning Nesbyen Rv 7
+ Fv2910: [40], Rødberg, Nesbyen
+ Vassfaret naturreservat/vandring
+ Museum, Skisenter, Golfbana
+ Bensinstasjon: Shell
+ Elbilsladdning: BKK Nett
+ Restaurant: Nesbyen Kro
+(Noenting)
+
+Bru over ..
+
+T-korsning Sutøya
+ Camping/Café: Sjong
+ Camping/Hotell/Restaurant: Sutøya Feriepark
+
+(Korsning Sjong nord)
+ Sjong Camping nord infart
+
+T-korsning Smedsgården
+ Hotell/Restaurant: Smedsgården
+
+(Parkeringsplass)
+T-korsning Garnås
+ Garnås, Meteorittkrater
+
+Møteskilt vei begynner/ender
+
+Møteskilt vei ender/begynner
+
+Rasteplass Hallibakken: (60.6392407, 9.0567764)
+
+(Svenkerud jernbanebru)
+ Bergensbanen
+Svenkerud veibru (42 m)
+ Hallingdalselva
+Nesbyen / Gol
+T-korsning Rv 7/Rudvegen
+ Fv2908: Nesbyen øst
+

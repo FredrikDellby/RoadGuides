@@ -1,0 +1,63 @@
+Time	Km	Instruction	For	Toward
+Summary:  22,8 kilometres (12 minutes)
+09:00	0,0	Depart Europastraﬂe, 45964 Gladbeck on B224 [Essener Straﬂe] (North)	0,8 km	B224 / A2 / A31 / Emden / Oberhausen / Marl
+09:00	0,8	At Essenerstraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (North)	0,5 km	
+09:01	1,4	At Essenerstraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (North)	0,3 km	
+09:01	1,6	At Essenerstraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (East)	1,3 km	
+09:02	3,0	Road name changes to A52 [Essener Straﬂe]	1,2 km	
+09:03	4,2	At 42, stay on A52 (North-East)	1,4 km	
+09:04	5,6	At 43, stay on A52 (North)	2,3 km	
+09:05	7,9	At 44, stay on A52 (North)	3,4 km	
+09:07	11,3	At 45, stay on A52 (North)	1,9 km	
+09:08	13,1	At 46, stay on A52 (North)	3,4 km	
+09:09	16,5	At 47, stay on A52 (East)	1,8 km	
+09:10	18,2	At 48, stay on A52 (East)	1,2 km	
+09:11	19,4	At 49, stay on A52 (East)	3,3 km	
+09:12	22,8	Arrive 50		
+
+SUMMARY
+Driving distance:  22,8 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  29,14 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,3 kilometres (13 minutes)
+09:00	0,0	Depart 50 on A52 (South-West)	3,5 km	
+09:01	3,5	At 49, stay on A52 (South-West)	1,8 km	
+09:02	5,3	At 48, stay on A52 (West)	2,0 km	
+09:03	7,3	At 47, stay on A52 (West)	2,7 km	
+09:04	10,0	At 46, stay on A52 (South)	2,4 km	
+09:06	12,4	At A52, 46282 Dorsten, stay on A52 (South)	2,8 km	
+09:07	15,2	At 44, stay on A52 (South)	2,7 km	
+09:08	17,9	At 43, stay on A52 (South-West)	0,8 km	
+09:09	18,6	At 42, stay on A52 (South)	1,7 km	
+09:10	20,3	At A52, 45894 Gelsenkirchen, stay on A52 (West)	0,4 km	
+09:10	20,7	Road name changes to B224 [Essener Straﬂe]	1,3 km	
+09:11	22,0	At Goethestraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (South-West)	0,3 km	
+09:12	22,3	At Essenerstraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (South)	0,5 km	
+09:12	22,9	At Bohmertstraﬂe, 45964 Gladbeck, stay on B224 [Essener Straﬂe] (South)	0,5 km	
+09:13	23,3	Arrive Essenerstraﬂe, 45964 Gladbeck		
+
+SUMMARY
+Driving distance:  23,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  29,94 kr
+
+A2-Trp 5 - Korsning
+0.8 km/0.5 km	0 min 58 s/0 min 36 s	50
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+Korsning - Marl-Nord (50)
+1.4 km/1.7 km	0 min 50 s/1 min 1 s	100
+1.1 km/1.7 km	0 min 40 s/1 min 1 s
+1.4 km/0.8 km	0 min 50 s/0 min 29 s
+2.3 km/2.7 km	1 min 23 s/1 min 37 s
+3.4 km/2.8 km	2 min 2 s/1 min 41 s
+1.9 km/2.4 km	1 min 8 s/1 min 26 s
+3.4 km/2.7 km	2 min 2 s/1 min 37 s
+1.8 km/2.0 km	1 min 5 s/1 min 12 s
+1.2 km/1.8 km	0 min 43 s/1 min 5 s
+3.3 km/3.5 km	1 min 59 s/2 min 6 s

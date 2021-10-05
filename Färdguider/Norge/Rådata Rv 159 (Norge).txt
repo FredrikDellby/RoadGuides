@@ -1,0 +1,79 @@
+Time	Km	Instruction	For	Toward
+Summary:  7,9 kilometres (6 minutes)
+09:00	0,0	Depart E6, 1086 Oslo on Local road(s) (East)	0,6 km	159 / Strømmen / Lørenskog / Karihaugen / Sentralsykehuset
+09:00	0,6	At Strømsveien, 1086 Oslo, keep STRAIGHT onto 159 [Strømsveien]	0,9 km	
+09:01	1,5	At Strømsveien, 1473 Lørenskog, stay on 159 [Strømsveien] (South-East)	1,4 km	
+09:02	2,9	At Strømsveien, 1473 Lørenskog, stay on 159 [Strømsveien] (East)	1,5 km	
+09:03	4,5	At 159, 1472 Lørenskog, stay on 159 (East)	0,6 km	
+09:03	5,1	At Vittenbergtunnelen, 1472 Lørenskog, stay on 159 [Vittenbergtunnelen] (East)	0,6 km	
+09:04	5,7	At near Strommen, stay on 159 (East)	2,2 km	
+09:06	7,9	Arrive near Lillestrøm		
+
+SUMMARY
+Driving distance:  7,9 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  13,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,6 kilometres (6 minutes)
+09:00	0,0	Depart 159, 2000 Skedsmo on Local road(s) (North)	90 m	
+09:00	0,1	Bear RIGHT (South) onto 120 [159]	0,2 km	
+09:00	0,3	At roundabout, take the SECOND exit onto 159	1,9 km	
+09:01	2,2	At Kurlandsvegen, 2006 Rælingen, stay on 159 (West)	0,8 km	
+09:02	3,0	At 159, 1472 Lørenskog, stay on 159 [Vittenbergtunnelen] (West)	0,8 km	
+09:03	3,8	At 159, 1472 Lørenskog, stay on 159 (West)	1,4 km	
+09:04	5,2	At Strømsveien, 1473 Lørenskog, stay on 159 [Strømsveien] (West)	1,3 km	
+09:05	6,5	At Strømsveien, 1473 Lørenskog, stay on 159 [Strømsveien] (North-West)	1,2 km	
+09:06	7,6	Merge onto Local road(s)	0,9 km	
+09:06	8,6	Arrive E6, 1086 Oslo		
+
+SUMMARY
+Driving distance:  8,6 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  16,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  2,5 kilometres (2 minutes)
+09:00	0,0	Depart 159, 2005 Rælingen on Local road(s) (East)	30 m	
+09:00	0,1	Keep RIGHT onto 120 [159]	0,2 km	
+09:00	0,2	At roundabout, take the FIRST exit onto 159	0,8 km	
+09:00	1,0	At 159, 2000 Skedsmo, stay on 159 (East)	1,2 km	
+09:01	2,2	At near Lillestrøm, stay on 159 (North)	0,3 km	
+09:02	2,5	Arrive 159, 2000 Skedsmo		
+
+SUMMARY
+Driving distance:  2,5 kilometres
+Trip duration:  2 minutes
+Driving time:  2 minutes
+Cost:  3,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  2,3 kilometres (1 minute)
+09:00	0,0	Depart 22, 2000 Skedsmo on Local road(s) (North)	50 m	
+09:00	0,1	Turn RIGHT (West) onto 159	0,3 km	
+09:00	0,4	At near Rælingen, stay on 159 (South)	1,4 km	
+09:01	1,8	At 159, 2000 Skedsmo, stay on 159 (West)	0,6 km	
+09:01	2,3	Arrive 159, 2000 Skedsmo		
+
+SUMMARY
+Driving distance:  2,3 kilometres
+Trip duration:  1 minute
+Driving time:  1 minute
+Cost:  3,91 kr
+
+E6/Rv 159 - Rv 120/Rv 159
+0.6 km/1.5 km	0 min 24 s/1 min 0 s	90
+0.9 km/0.6 km	0 min 36 s/0 min 24 s
+1.4 km/1.3 km	0 min 56 s/0 min 52 s
+1.1 km/0.8 km	0 min 44 s/0 min 32 s
+0.4 km/0.6 km	0 min 16 s/0 min 24 s
+0.6 km/0.8 km	0 min 24 s/0 min 32 s
+0.6 km/0.8 km	0 min 24 s/0 min 32 s
+2.1 km/2.2 km	1 min 24 s/1 min 28 s
+
+Rv 120/Rv 159 - Rv 22/Rv 159
+1.1 km/0.6 km	0 min 57 s/0 min 31 s	70
+1.2 km/1.4 km	1 min 2 s/1 min 12 s
+0.3 km/0.4 km	0 min 15 s/0 min 21 s

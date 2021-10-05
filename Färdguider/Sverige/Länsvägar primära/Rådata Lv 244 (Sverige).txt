@@ -1,0 +1,65 @@
+Time	Km	Instruction	For	Toward
+Summary:  41,1 kilometres (40 minutes)
+09:00	0,0	Depart 63, 712 Grythyttan on 63 (South)	30 m	
+09:00	0,1	Keep STRAIGHT onto 244	4,1 km	
+09:04	4,2	At Korsning Grythyttan N, stay on 244 (South-East)	1,3 km	
+09:05	5,5	At Korsning Grythyttan Ö, stay on 244 (South-East)	0,6 km	
+09:06	6,1	At Korsning, stay on 244 (South)	6,2 km	
+09:12	12,3	At T-korsning Kråkvik, stay on 244 (East)	2,5 km	
+09:14	14,8	At T-korsning Kärvingeborn, stay on 244 (East)	6,8 km	
+09:21	21,6	At 244, 713 Gyttorp, stay on 244 (East)	4,0 km	
+09:25	25,5	At T-korsning Stadra, stay on 244 (South-East)	11,9 km	
+09:37	37,5	At T-korsning Fogdhyttan, stay on 244 (East)	2,6 km	
+09:39	40,0	At Korsning Gyttorp N, stay on 244 (East)	1,1 km	
+09:40	41,1	Arrive T-korsning Gyttorp		
+
+SUMMARY
+Driving distance:  41,1 kilometres
+Trip duration:  40 minutes
+Driving time:  40 minutes
+Cost:  47,90 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,1 kilometres (40 minutes)
+09:00	0,0	Depart T-korsning Gyttorp on 244 (North)	1,1 km	
+09:00	1,1	At Korsning Gyttorp N, stay on 244 (West)	2,5 km	
+09:02	3,6	At T-korsning Fogdhyttan, stay on 244 (West)	12,0 km	
+09:14	15,6	At T-korsning Stadra, stay on 244 (North-West)	4,0 km	
+09:18	19,6	At 244, 713 Gyttorp, stay on 244 (West)	6,8 km	
+09:25	26,3	At T-korsning Kärvingeborn, stay on 244 (West)	2,5 km	
+09:27	28,8	At T-korsning Kråkvik, stay on 244 (North-West)	6,2 km	
+09:34	35,0	At Korsning, stay on 244 (North)	0,6 km	
+09:34	35,6	At Korsning Grythyttan Ö, stay on 244 (North-West)	1,3 km	
+09:36	37,0	At Korsning Grythyttan N, stay on 244 (North)	4,1 km	
+09:40	41,1	Arrive T-korsning Hammarn N		
+
+SUMMARY
+Driving distance:  41,1 kilometres
+Trip duration:  40 minutes
+Driving time:  40 minutes
+Cost:  47,85 kr
+
+Hammarn N - Korsning
+4.2 km/4.1 km	3 min 36 s/3 min 31 s	70
+1.3 km/1.3 km	1 min 7 s/1 min 7 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+
+Korsning - Gyttorp N
+6.2 km/6.2 km	4 min 39 s/4 min 39 s	80
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+6.8 km/6.8 km	5 min 6 s/5 min 6 s
+4.0 km/4.0 km	3 min 0 s/3 min 0 s
+11.9 km/12.0 km	8 min 56 s/9 min 0 s
+2.6 km/2.5 km	1 min 57 s/1 min 53 s
+
+Gyttorp N - Gyttorp
+1.1 km/1.1 km	1 min 6 s/1 min 6 s	60
+
+Gyttorp - Nora S
+3.0 km/3.4 km	2 min 34 s/2 min 55 s	70
+
+Nora S - Lilla Mon
+2.7 km/2.3 km	2 min 2 s/1 min 43 s	80
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+4.7 km/5.3 km	3 min 32 s/3 min 59 s
+4.7 km/4.8 km	3 min 32 s/3 min 36 s

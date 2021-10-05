@@ -1,0 +1,133 @@
+Färdguide Lv 170 (Industrivägen)
+================================
+
+Stenungsundsmotet (91)
+ E6 n: Oslo, Uddevalla
+ E6 s: Göteborg, Kungälv
+					1,0 km/0,3 km	51 s/15 s
+Trafikplats
+ Ucklum
+ Stenungsund S
+					0,5 km/0,4 km	26 s/21 s
+Rondell 170/Munkerödsv.
+ Munkeröds industriområde
+ Bensinstation: Preem
+ Farmor Gretas Bageri
+					1,1 km/1,1 km	1 min 6 s/1 min 6 s
+Rondell 170/Yttre Ringleden
+ Stenungsund S
+ Bensinstation: Shell
+					0,7 km/0,6 km	42 s/36 s
+T-korsning 170/Gesällgatan
+					0,6 km/0,6 km	36 s/36 s
+T-korsning 170/Doterödsv.
+ Stenungsund C
+ Bensinstation: OKQ8, Tanka
+					0,5 km/0,5 km	30 s/30 s
+Korsning Borealis polyeten
+ Borealis Kracker
+					0,3 km/0,4 km	18 s/24 s
+Järnvägskorsning
+ Bohusbanan
+T-korsning Stenungsund N
+ Svanesund (färja), Ödsmål
+ Stenungsund C
+ [E6], [160]
+
+Färdguide Stenungsund-Ödsmålsvägen
+==================================
+Nösnäsmotet-syd
+ 160 n: Tjörn, Orust
+
+Nösnäsmotet
+ 160 s: Stora Höga
+ 160 n: Tjörn, Orust
+ [E6]: Göteborg
+T-korsning Solgården
+ Bensinstation: Circle-K
+ Restaurang: McDonald's
+					1.2 km/0.8 km	1 min 26 s/0 min 58 s
+T-korsning Stenungs Torg S
+ Stenungs Torg, Turistinfo
+
+T-korsning Stenungs Torg N
+Korsning Oasen
+
+Rondell Stenungsund station
+T-korsning ICA Kvantum
+					1.5 km/1.2 km	1 min 48 s/1 min 26 s
+T-korsning Uddevallavägen/Hjälmarevägen
+ Bensinstation: INGO
+T-korsning Stenungsund N
+ [E6], Industrivägen
+(Järnvägskorsning)
+
+T-korsning Borealis Kracker
+
+Järnvägskorsning
+
+Korsning AGA Vattenfall
+
+T-korsning Akzo Nobel
+					2.7 km/2.8 km	2 min 42 s/2 min 48 s
+Dubbel T-korsning Jordhammar
+
+Dubbel T-korsning Ödsmåls kyrka
+					0.8 km/0.8 km	41 s/41 s
+Rondell Ekenäs
+ Svenshögen
+					2.9 km/2.9 km	2 min 29 s/2 min 29 s
+Korsning Viddersgärde
+ Svenshögen
+					0.8 km/0.8 km	41 s/41 s
+Korsning Kolhättans småbåtshamn
+ Kiosk
+
+Kolhättans färjeläge
+ Färja: Svanesund
+
+Färdguide Habborsby-Skärhamn
+============================
+
+Korsning Habborsby
+
+Dubbel T-korsning Kållekärr södra
+
+T-korsning Haketorp
+
+Dubbel T-korsning Hoga
+
+T-korsning Dyreby
+T-korsning Sibräcka
+
+T-korsning Siröd
+
+T-korsning Märkesten
+
+T-korsning Röavallen
+
+Färdguide Bratterödsleden
+==========================
+
+Lerbomotet (94)
+ E6 s: Göteborg
+ E6 n: Oslo, Strömstad
+					0,7 km/0,4 km	42 s/24 s
+Järnvägsviadukt
+ Bohusbanan
+					1,3 km/1,3 km	59 s/59 s
+T-korsning Grohed
+ Forshälla
+					0,3 km/0,3 km	14 s/14 s
+T-korsning Grohed norra
+ Grohed
+					1,6 km/1,6 km	1 min 12 s/1 min 12 s
+Parkeringsplats (östgående)
+					1,3 km/1,6 km	0 min 59 s/1 min 12 s
+Bratterödsmotet
+ Utby
+ Uddevalla, Gustavsberg
+					3,7 km/3,4 km	2 min 28 s/2 min 16 s
+Råsserödsmotet
+ 44 ö: Trollhättan, Vänersborg
+ 44 v: [E6], Uddevalla

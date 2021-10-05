@@ -1,0 +1,47 @@
+Échangeur entre A31 et A5
+ A5: Paris, Troyes
+					11.7 km/11.5 km	5 min 51 s/5 min 45 s
+Aire de Langres-Perrogney
+(sydgående riktning)
+Aire de Langres Noidant
+(nordgående riktning)
+					2.8 km/2.4 km	1 min 24 s/1 min 12 s
+Sortie 6
+ Châtillon-sur-Seine
+ Gray, Langres
+					12.4 km/12.5 km	6 min 12 s/6 min 15 s
+Aire de Fontenelle
+(sydgående riktning)
+Aire de Combe Suzon
+(nordgående riktning)
+					4.8 km/4.2 km	2 min 24 s/2 min 6 s
+Champagne-Ardennes / Bourgogne
+Haute-Marne / Côte d'Or
+					7.7 km/8.2 km	3 min 51 s/4 min 6 s
+Aire de Sainte-Gertrude
+(sydgående riktning)
+Aire de Villa des Tuillières
+(nordgående riktning)
+					5.3 km/5.2 km	2 min 39 s/2 min 36 s
+Sortie 5
+ Châtillon-sur-Seine, Is-sur-Tille,
+ Selongey, Til-Châtel
+					13.3 km/13.6 km	6 min 39 s/6 min 48 s
+Aire de Dijon-Brognon
+(sydgående riktning)
+Aire de Repos de Dijon-Spoy
+(nordgående riktning)
+					9.5 km/9.3 km	4 min 45 s/4 min 39 s
+Sortie 4
+ Dijon, Saint-Apollinaire
+ Vesoul, Gray, Arc-sur-Tille
+					2.8 km/2.8 km	1 min 24 s/1 min 24 s
+Aire de la Tille
+(sydgående riktning)
+Aire du Pré d'Azur
+(norddgående riktning)
+					5.3 km/6.1 km	2 min 39 s/3 min 3 s
+Échangeur entre A31 et A39
+ A39 n: Dijon
+ A39 s: Grenoble, Géneve, Dole
+ [A36]: Mulhouse, Besançon

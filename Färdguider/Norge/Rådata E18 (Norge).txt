@@ -1,0 +1,461 @@
+Time	Km	Instruction	For	Toward
+Summary:  19,2 kilometres (14 minutes)
+09:00	0,0	Depart E18, 3170 Tønsberg on E18 (South-West)	1,0 km	
+09:00	1,0	At E18, 3170 Tønsberg, stay on E18 (West)	1,6 km	
+09:01	2,5	At E18, 3170 Tønsberg, stay on E18 (South)	3,7 km	
+09:04	6,3	At E18, 3160 Stokke, stay on E18 (South)	1,3 km	
+09:05	7,6	At E18, 3160 Stokke, stay on E18 (South-West)	3,9 km	
+09:08	11,5	At E18, 3160 Stokke, stay on E18 (South-West)	4,4 km	
+09:11	15,9	At E18, 3241 Sandefjord, stay on E18 (South)	3,3 km	
+09:14	19,2	Arrive E18, 3220 Sandefjord		
+
+SUMMARY
+Driving distance:  19,2 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  24,43 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,2 kilometres (14 minutes)
+09:00	0,0	Depart E18, 3220 Sandefjord on E18 (North-East)	2,9 km	
+09:02	2,9	At E18, 3241 Sandefjord, stay on E18 (North)	4,5 km	
+09:05	7,4	At E18, 3239 Sandefjord, stay on E18 (East)	3,8 km	
+09:08	11,2	At E18, 3160 Stokke, stay on E18 (North-East)	1,4 km	
+09:09	12,7	At E18, 3160 Stokke, stay on E18 (North)	3,9 km	
+09:12	16,5	At E18, 3170 Tønsberg, stay on E18 (North)	1,6 km	
+09:13	18,1	At E18, 3170 Tønsberg, stay on E18 (East)	1,1 km	
+09:14	19,2	Arrive E18, 3170 Tønsberg		
+
+SUMMARY
+Driving distance:  19,2 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  24,35 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,8 kilometres (10 minutes)
+09:00	0,0	Depart E18, 3170 Tønsberg on E18 (North-East)	2,3 km	
+09:01	2,3	At E18, 3157 Tønsberg, stay on E18 (North)	4,1 km	
+09:04	6,4	At E18, 3178 RE, stay on E18 [Hem Tunnelen] (North)	0,9 km	
+09:04	7,4	At Hem Tunnelen, 3178 RE, stay on E18 (North)	2,1 km	
+09:06	9,5	At near Skoppum, stay on E18 (North)	1,0 km	
+09:06	10,5	At Døvik Tunnel, 3178 RE, stay on E18 [Døvik Tunnel] (North)	0,6 km	
+09:07	11,1	At Døvik Tunnel, 3185 Horten, stay on E18 (North)	0,4 km	
+09:07	11,5	At E18, 3178 RE, stay on E18 [FLÅR Tunnel] (North)	0,8 km	
+09:07	12,2	At FLÅR Tunnel, 3178 RE, stay on E18 (North)	2,4 km	
+09:09	14,7	At near Nykirke, stay on E18 (North)	2,1 km	
+09:10	16,8	Arrive E18, 3180 Horten		
+
+SUMMARY
+Driving distance:  16,8 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  19,67 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,2 kilometres (9 minutes)
+09:00	0,0	Depart E18, 3180 Horten on E18 (South)	2,6 km	
+09:01	2,6	At near Nykirke, stay on E18 (South-East)	0,6 km	
+09:02	3,2	At FLÅR Tunnel, 3178 RE, stay on E18 [FLÅR Tunnel] (South-East)	0,7 km	
+09:02	3,9	At FLÅR Tunnel, 3178 RE, stay on E18 (South)	0,4 km	
+09:02	4,3	At Døvik Tunnel, 3185 Horten, stay on E18 [Døvik Tunnel] (South)	0,6 km	
+09:03	4,8	At E18, 3178 RE, stay on E18 (South)	0,6 km	
+09:03	5,5	At E18, 3178 RE, stay on E18 (South)	2,5 km	
+09:05	8,0	At Hem Tunnelen, 3178 RE, stay on E18 [Hem Tunnelen] (South)	0,9 km	
+09:05	8,9	At Hem Tunnelen, 3178 RE, stay on E18 (South)	3,7 km	
+09:07	12,6	At near Barkåker, stay on E18 (South)	2,6 km	
+09:09	15,2	Arrive E18, 3170 Tønsberg		
+
+SUMMARY
+Driving distance:  15,2 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  17,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,5 kilometres (9 minutes)
+09:00	0,0	Depart E18, 3180 Horten on E18 (North)	2,9 km	
+09:01	2,9	At E18, 3178 RE, stay on E18 (North)	1,0 km	
+09:02	3,9	At E18, 3178 RE, stay on E18 [Brekketunnelen] (North-West)	0,6 km	
+09:02	4,5	At Brekketunnelen, 3178 RE, stay on E18 (North)	1,2 km	
+09:03	5,7	At near Holmestrand, stay on E18 (West)	0,7 km	
+09:04	6,4	At E18, 3080 Holmestrand, stay on E18 (West)	3,2 km	
+09:06	9,6	At Botnetunnelen, 3080 Holmestrand, stay on E18 [Botnetunnelen] (North-West)	1,4 km	
+09:06	10,9	At Botnetunnelen, 3080 Holmestrand, stay on E18 (West)	0,9 km	
+09:07	11,9	At E18, 3080 Holmestrand, stay on E18 [Bringåkertunnelen] (North-West)	1,2 km	
+09:08	13,0	At E18, 3080 Holmestrand, stay on E18 (North)	0,9 km	
+09:08	13,9	At Islandtunnelen, 3080 Holmestrand, stay on E18 [Islandtunnelen] (North)	0,5 km	
+09:09	14,5	Arrive E18, 3080 Holmestrand		
+
+SUMMARY
+Driving distance:  14,5 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  16,68 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,3 kilometres (9 minutes)
+09:00	0,0	Depart E18, 3080 Holmestrand on E18 (South-East)	0,8 km	
+09:00	0,8	At Islandtunnelen, 3080 Holmestrand, stay on E18 (South)	0,9 km	
+09:01	1,8	At Bringåkertunnelen, 3080 Holmestrand, stay on E18 [Bringåkertunnelen] (South)	1,2 km	
+09:01	3,0	At E18, 3080 Holmestrand, stay on E18 (South-East)	0,9 km	
+09:02	3,9	At E18, 3080 Holmestrand, stay on E18 [Botnetunnelen] (South-East)	1,4 km	
+09:03	5,2	At Botnetunnelen, 3080 Holmestrand, stay on E18 (East)	3,0 km	
+09:05	8,2	At near Holmestrand, stay on E18 (East)	0,9 km	
+09:05	9,1	At near Holmestrand, stay on E18 (East)	1,2 km	
+09:06	10,3	At Brekketunnelen, 3178 RE, stay on E18 [Brekketunnelen] (South)	0,7 km	
+09:07	10,9	At Brekketunnelen, 3178 RE, stay on E18 [Hellandbrua] (South-East)	1,4 km	
+09:07	12,3	At E18, 3180 Horten, stay on E18 (South)	2,1 km	
+09:09	14,3	Arrive E18, 3180 Horten		
+
+SUMMARY
+Driving distance:  14,3 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  16,53 kr
+
+
+
+
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (16 minutes)
+09:00	0,0	Depart E18, 1407 ÅS on Ramp (North)	0,7 km	
+09:00	0,7	Merge onto E18 [E6]	0,4 km	
+09:00	1,1	At near Togrenda, stay on E18 [E6] (North)	0,7 km	
+09:01	1,8	At E18, 1407 ÅS, stay on E18 (North)	4,1 km	E18 / Drammen / Oslo Sentrum
+09:04	5,9	At E18, 1420 Oppegård, stay on E18 (North)	4,0 km	
+09:07	9,9	At E18, 1414 Oppegård, stay on E18 (North)	1,6 km	
+09:08	11,5	At Mosseveien, 1250 Oslo, stay on E18 [Mosseveien] (North)	2,9 km	
+09:11	14,4	At T-korsning E18/Ljabruvei., stay on E18 [Mosseveien] (North)	0,7 km	
+09:11	15,1	At T-korsning E18/Nordstrand, stay on E18 [Mosseveien] (North)	0,8 km	
+09:12	15,9	At T-korsning E18/Ulvöybroen, stay on E18 [Mosseveien] (North)	1,1 km	
+09:13	17,0	At near Gamle Oslo, stay on E18 [Mosseveien] (North)	1,5 km	
+09:15	18,5	At Mosseveien, 0193 Oslo, stay on E18 [Mosseveien] (North)	0,3 km	
+09:15	18,8	At Mosseveien, 0193 Oslo, stay on E18 (West)	0,6 km	
+09:16	19,4	At near Gamle Oslo, keep RIGHT onto Ramp	0,5 km	
+09:16	19,9	Arrive 190, 0193 Oslo		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  32,31 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (16 minutes)
+09:00	0,0	Depart near Oslo on E18 [Bispegata] (East)	1,0 km	
+09:00	1,0	Take Ramp (RIGHT) onto E18 [Mosseveien]	0,8 km	E18 / E6 / Stockholm / Gøteborg
+09:01	1,8	At E18, 0193 Oslo, stay on E18 [Mosseveien] (South-East)	0,4 km	
+09:02	2,2	At Mosseveien, 0193 Oslo, stay on E18 [Mosseveien] (South)	1,4 km	
+09:03	3,6	At T-korsning E18/Ormsundv., stay on E18 [Mosseveien] (South)	1,1 km	
+09:04	4,7	At Vargveien, 0139 Oslo, stay on E18 [Mosseveien] (South)	0,9 km	
+09:05	5,6	At T-korsning E18/Nordstrand, stay on E18 [Mosseveien] (South)	0,7 km	
+09:06	6,3	At T-korsning E18/Ljabruvei., stay on E18 [Mosseveien] (South)	2,2 km	
+09:08	8,5	At Mosseveien 279, 1156 Oslo, stay on E18 [Mosseveien] (South-East)	1,7 km	
+09:09	10,1	At Mosseveien, 1250 Oslo, stay on E18 [Mosseveien] (South)	4,0 km	
+09:12	14,1	At E18, 1420 Oppegård, stay on E18 (South)	4,4 km	
+09:15	18,5	At E18, 1407 ÅS, stay on E18 (East)	0,7 km	
+09:16	19,2	At E18, 1407 ÅS, stay on E18 [E6] (South)	0,7 km	
+09:16	19,9	Arrive E6, 1407 ÅS		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  32,48 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,8 kilometres (7 minutes)
+09:00	0,0	Depart 190, 0193 Oslo on E18 (North)	1,1 km	
+09:01	1,1	At Rådhusgata 1, 0151 Oslo, stay on E18 (West)	1,6 km	
+09:02	2,7	At Frognerstranda, 0271 Oslo, stay on E18 [Frognerstranda] (West)	0,7 km	
+09:03	3,4	At Frognerstranda, 0271 Oslo, stay on E18 [Frognerstranda] (West)	1,6 km	
+09:04	5,0	At Frognerstranda, 0271 Oslo, stay on E18 [Frognerstranda] (North-West)	0,9 km	
+09:05	5,9	At Sjølystveien, 0277 Oslo, stay on E18 [Sjølystveien] (West)	0,9 km	
+09:05	6,8	At Sjølystveien, 0281 Oslo, stay on E18 [Sjølystveien] (West)	0,3 km	
+09:06	7,1	At Sjølystveien, 0281 Oslo, stay on E18 [Drammensveien] (West)	1,0 km	
+09:06	8,1	At Lilleakerveien, 0283 Oslo, stay on E18 [Drammensveien] (West)	0,7 km	
+09:07	8,8	Arrive near Lysaker		
+
+SUMMARY
+Driving distance:  8,8 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  17,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,3 kilometres (6 minutes)
+09:00	0,0	Depart E18, 1366 Bærum on E18 [Drammensveien] (East)	0,8 km	
+09:00	0,8	At E18, 1366 Bærum, stay on E18 [Drammensveien] (East)	1,3 km	
+09:01	2,0	At Drammensveien, 0281 Oslo, stay on E18 [Drammensveien] (East)	0,2 km	
+09:01	2,2	At near Lysaker, stay on E18 [Drammensveien] (East)	0,4 km	
+09:02	2,6	At Sjølystveien, 0277 Oslo, stay on E18 [Sjølystveien] (East)	1,1 km	
+09:02	3,7	At Sjølystveien, 0277 Oslo, stay on E18 [Sjølystveien] (South-East)	1,6 km	
+09:04	5,3	At near Frogner, stay on E18 [Frognerstranda] (South-East)	0,6 km	
+09:04	5,9	At Frognerstranda, 0271 Oslo, stay on E18 [Frognerstranda] (East)	1,6 km	
+09:06	7,5	At Festningstunnellen, 0150 Oslo, stay on E18 [Festningstunnellen] (East)	0,4 km	
+09:06	8,0	At near Oslo, stay on E18 (East)	0,3 km	
+09:06	8,3	Arrive near Oslo		
+
+SUMMARY
+Driving distance:  8,3 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  16,39 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,3 kilometres (4 minutes)
+09:00	0,0	Depart E18, 1366 Bærum on E18 [Drammensveien] (South-West)	1,6 km	
+09:01	1,6	At E18, 1368 Bærum, stay on E18 [Drammensveien] (West)	1,1 km	
+09:02	2,7	At near Hovik, stay on E18 [Drammensveien] (West)	0,9 km	
+09:02	3,6	At near Hovik, stay on E18 [Drammensveien] (West)	1,3 km	
+09:03	4,9	At E18, 1363 Bærum, stay on E18 [Drammensveien] (West)	1,4 km	
+09:04	6,3	Arrive E18, 1363 Bærum		
+
+SUMMARY
+Driving distance:  6,3 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  12,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,3 kilometres (4 minutes)
+09:00	0,0	Depart near Bærum on E18 [Drammensveien] (North-East)	1,8 km	
+09:01	1,8	At near Bærum, stay on E18 [Drammensveien] (East)	1,1 km	
+09:02	2,9	At near Hovik, stay on E18 [Drammensveien] (East)	0,5 km	
+09:02	3,4	At E18, 1363 Bærum, stay on E18 [Drammensveien] (East)	1,4 km	
+09:03	4,8	At E18, 1368 Bærum, stay on E18 [Drammensveien] (East)	1,5 km	
+09:04	6,3	Arrive E18, 1366 Bærum		
+
+SUMMARY
+Driving distance:  6,3 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  12,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,9 kilometres (19 minutes)
+09:00	0,0	Depart Drammensveien, 1363 Bærum on E18 [Drammensveien] (South-West)	4,3 km	E18 / Kristiansand / Drammen
+09:03	4,3	At E18, 1395 Asker, stay on E18 (South)	3,4 km	
+09:05	7,7	At E18, 1384 Asker, stay on E18 (South-West)	1,2 km	
+09:06	8,8	At near Borgen, stay on E18 (West)	5,0 km	
+09:09	13,8	At E18, 3420 Lier, stay on E18 (West)	3,3 km	
+09:12	17,1	At near Lierskogen, stay on E18 (West)	2,2 km	
+09:13	19,4	At E18, 3400 Lier, stay on E18 [Fosskollen] (South)	0,5 km	
+09:13	19,9	At E18, 3425 Lier, stay on E18 (South)	2,4 km	
+09:15	22,3	At E18, 3400 Lier, stay on E18 (West)	3,5 km	
+09:17	25,8	At E18, 3400 Lier, stay on E18 (South-West)	2,1 km	
+09:19	27,9	Arrive E18, 3041 Drammen		
+
+SUMMARY
+Driving distance:  27,9 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  41,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,7 kilometres (19 minutes)
+09:00	0,0	Depart E18, 3041 Drammen on E18 (North)	2,1 km	
+09:02	2,1	At near Nøste, stay on E18 (East)	2,8 km	
+09:04	4,9	At E18, 3400 Lier, stay on E18 (North)	3,4 km	
+09:06	8,3	At Fosskollen, 3400 Lier, stay on E18 [Fosskollen] (North)	0,5 km	
+09:06	8,8	At Fosskollen, 3400 Lier, stay on E18 (North)	1,7 km	
+09:07	10,6	At E18, 3420 Lier, stay on E18 (East)	3,4 km	
+09:09	14,0	At E18, 3420 Lier, stay on E18 (East)	4,2 km	
+09:12	18,2	At E18, 1383 Asker, stay on E18 (North-East)	2,2 km	
+09:14	20,4	At near Borgen, stay on E18 (North-East)	2,9 km	
+09:16	23,4	At E18, 1395 Asker, stay on E18 (North)	2,5 km	
+09:18	25,9	At E18, 1396 Asker, stay on E18 (North-East)	1,9 km	
+09:19	27,7	Arrive Drammensveien, 1363 Bærum		
+
+SUMMARY
+Driving distance:  27,7 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  40,76 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,8 kilometres (18 minutes)
+09:00	0,0	Depart E18, 3041 Drammen on E18 (South)	2,2 km	E18 / Kristiansand
+09:02	2,2	At Nye Kleivenetunnelen, 3036 Drammen, stay on E18 (South)	0,4 km	
+09:02	2,6	At near Fagerheim, stay on E18 (East)	1,7 km	
+09:03	4,3	At Holmestrandsveien, 3036 Drammen, stay on E18 [Holmestrandsveien] (South)	4,6 km	
+09:06	8,9	*Toll road* At E18, 3070 Sande, stay on E18 (South)	2,3 km	
+09:08	11,1	*Toll road* At Bjørgetunnelen, 3070 Sande, stay on E18 [Bjørgetunnelen] (South-West)	2,4 km	
+09:09	13,5	*Toll road* At E18, 3070 Sande, stay on E18 (South)	1,9 km	
+09:10	15,4	*Toll road* At E18, 3070 Sande, stay on E18 [Bolstadtunnelen] (South-West)	3,5 km	
+09:13	18,9	*Toll road* At near Sande, stay on E18 (South)	2,4 km	
+09:15	21,4	*Toll road* At Hanekleivtunnelen, 3080 Holmestrand, stay on E18 (South)	2,5 km	
+09:16	23,9	*Toll road* At E18, 3080 Holmestrand, stay on E18 [Løkentunnelen] (South)	0,7 km	
+09:17	24,6	*Toll road* At Løkentunnelen, 3080 Holmestrand, stay on E18 (South)	0,7 km	
+09:17	25,3	*Toll road* At Hillestadtunnelen, 3080 Holmestrand, stay on E18 [Hillestadtunnelen] (South-East)	0,8 km	
+09:18	26,1	*Toll road* At Grelland 3, 3080 Holmestrand, stay on E18 (South-East)	0,7 km	
+09:18	26,8	Arrive E18, 3080 Holmestrand		
+
+SUMMARY
+Driving distance:  26,8 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  32,00 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,9 kilometres (18 minutes)
+09:00	0,0	Depart E18, 3080 Holmestrand on E18 (North)	0,2 km	
+09:00	0,2	*Toll road* Stay on E18 (North-West)	0,2 km	
+09:00	0,4	*Toll road* At Grelland 1, 3080 Holmestrand, stay on E18 (North-West)	1,4 km	
+09:01	1,9	*Toll road* At Hillestadtunnelen, 3080 Holmestrand, stay on E18 (North)	0,7 km	
+09:01	2,5	*Toll road* At E18, 3080 Holmestrand, stay on E18 [Løkentunnelen] (North)	0,7 km	
+09:02	3,2	*Toll road* At E18, 3080 Holmestrand, stay on E18 (North)	2,6 km	
+09:03	5,8	*Toll road* At Hanekleivtunnelen, 3080 Holmestrand, stay on E18 [Hanekleivtunnelen] (North)	1,8 km	
+09:05	7,6	*Toll road* At E18, 3070 Sande, stay on E18 (North)	3,9 km	
+09:07	11,6	*Toll road* At E18, 3070 Sande, stay on E18 [Bolstadtunnelen] (North-East)	2,0 km	
+09:09	13,6	*Toll road* At E18, 3070 Sande, stay on E18 (North)	2,3 km	
+09:10	15,8	*Toll road* At Bjørgetunnelen, 3070 Sande, stay on E18 [Bjørgetunnelen] (North-East)	1,8 km	
+09:11	17,6	Stay on E18 (North)	60 m	
+09:11	17,7	At near Klevjer, stay on E18 (North)	4,6 km	
+09:14	22,3	At Holmestrandsveien, 3036 Drammen, stay on E18 [Holmestrandsveien] (North)	1,1 km	
+09:15	23,5	At Holmestrandsveien, 3036 Drammen, stay on E18 [Holmestrandsveien] (North)	1,3 km	
+09:16	24,8	At Holmestrandsveien, 3036 Drammen, stay on E18 (North)	1,3 km	
+09:18	26,1	At Gamle Kleivenetunnelen, 3041 Drammen, stay on E18 [Gamle Kleivenetunnelen] (North)	0,8 km	
+09:18	26,9	Arrive E18, 3041 Drammen		
+
+SUMMARY
+Driving distance:  26,9 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  32,01 kr
+
+
+Kjörbokrysset - Lysakerkrysset
+1.6 km/1.5 km	1 min 4 s/1 min 0 s	90
+1.1 km/1.4 km	0 min 44 s/0 min 56 s
+0.9 km/0.5 km	0 min 36 s/0 min 20 s
+1.3 km/1.1 km	0 min 52 s/0 min 44 s
+1.4 km/1.8 km	0 min 56 s/1 min 12 s
+
+Lysakerkrysset - Rådhusgata
+0.8 km/0.7 km	0 min 36 s/0 min 31 s	80
+1.3 km/1.0 km	0 min 59 s/0 min 45 s
+0.2 km/0.3 km	0 min 9 s/0 min 14 s
+0.4 km/0.9 km	0 min 18 s/0 min 41 s
+1.1 km/0.9 km	0 min 50 s/0 min 41 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+0.6 km/0.8 km	0 min 27 s/0 min 36 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+0.4 km/1.6 km	0 min 18 s/1 min 12 s
+
+Rådhusgata - Nylandsveien/Sörenga
+0.3 km/1.1 km	0 min 15 s/0 min 57 s	70
+
+Nylandsveien/Sörenga - Ormsundv.
+1.8 km/1.1 km	1 min 33 s/0 min 57 s	70
+0.4 km/0.3 km	0 min 21 s/0 min 15 s
+1.4 km/1.5 km	1 min 12 s/1 min 17 s
+
+Ormsundv. - Ljabruvei.
+1.1 km/1.1 km	1 min 6 s/1 min 6 s	60
+0.9 km/0.8 km	0 min 54 s/0 min 48 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+
+Ljabruvei. - Herregårdskrysset
+2.2 km/2.9 km	1 min 53 s/2 min 29 s	70
+
+Herregårdskrysset - Vinterbrokrysset
+1.7 km/1.6 km	1 min 8 s/1 min 4 s	90
+4.0 km/4.0 km	2 min 40 s/2 min 40 s
+3.9 km/3.2 km	2 min 36 s/2 min 8 s
+0.5 km/0.9 km	0 min 20 s/0 min 36 s
+0.7 km/0.7 km	0 min 28 s/0 min 28 s
+0.7 km/1.1 km	0 min 28 s/0 min 44 s
+
+
+=====================================================
+
+
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (19 minutes)
+09:00	0,0	Depart 22 1, 1850 Eidsberg on Local road(s) (West)	50 m	
+09:00	0,1	Turn RIGHT (East) onto E18 [Ørjeveien]	3,1 km	
+09:03	3,1	At Ørjeveien, 1850 Eidsberg, stay on E18 [Ørjeveien] (South-East)	2,1 km	
+09:05	5,2	At Korsning Hærland kirke, stay on E18 [Ørjeveien] (East)	1,4 km	
+09:06	6,6	At T-korsning E18/Fv700, stay on E18 [Ørjeveien] (East)	1,3 km	
+09:07	7,8	At T-korsning Hærland, stay on E18 [Ørjeveien] (East)	1,1 km	
+09:08	8,9	At Ørjeveien, 1878 Eidsberg, stay on E18 [Ørjeveien] (East)	4,3 km	
+09:11	13,2	At E18, 1878 Eidsberg, stay on E18 (East)	9,2 km	
+09:18	22,4	At T-korsning Ørje-vest, stay on E18 (East)	0,7 km	
+09:19	23,1	Arrive E18, 1870 Marker		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  26,30 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,0 kilometres (18 minutes)
+09:00	0,0	Depart 21, 1870 Marker on E18 (West)	0,5 km	
+09:00	0,5	At E18, 1870 Marker, stay on E18 (West)	9,2 km	
+09:07	9,7	At E18, 1878 Eidsberg, stay on E18 (West)	4,2 km	
+09:10	13,9	At Ørjeveien, 1878 Eidsberg, stay on E18 [Ørjeveien] (West)	1,1 km	
+09:11	15,0	At T-korsning Hærland, stay on E18 [Ørjeveien] (West)	1,5 km	
+09:12	16,5	At T-korsning E18/Fv700, stay on E18 [Ørjeveien] (West)	1,4 km	
+09:14	17,9	At Korsning Hærland kirke, stay on E18 [Ørjeveien] (West)	2,0 km	
+09:15	19,9	At near Eidsberg, stay on E18 [Ørjeveien] (West)	3,0 km	
+09:18	23,0	Arrive T-korsning Momarken		
+
+SUMMARY
+Driving distance:  23,0 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  26,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,0 kilometres (5 minutes)
+09:00	0,0	Depart E18, 1870 Marker on E18 (East)	0,3 km	
+09:00	0,3	At 21, 1870 Marker, stay on E18 (East)	0,8 km	
+09:01	1,1	At Untitled 5, stay on E18 [Svenskeveien] (East)	2,7 km	
+09:03	3,8	At Svenskeveien, 1870 Marker, stay on E18 [Svenskeveien] (North-East)	2,2 km	
+09:05	6,0	Arrive Ørje/E18/Sverige [E18 1870, Marker, Norge]		
+
+SUMMARY
+Driving distance:  6,0 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  7,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,0 kilometres (4 minutes)
+09:00	0,0	Depart Årjäng/E18/Norge [E18 670 10, Töcksfors, Sverige] on E18 [Svenskeveien] (South)	2,1 km	
+09:01	2,1	At Rest Area, stay on E18 [Svenskeveien] (West)	2,9 km	
+09:03	4,9	At T-korsning Ørje-øst, stay on E18 [Svenskeveien] (West)	0,6 km	
+09:04	5,6	At Shell [E18 1870, Marker, Norge], stay on E18 [Svenskeveien] (West)	0,4 km	
+09:04	6,0	Arrive 21, 1870 Marker		
+
+SUMMARY
+Driving distance:  6,0 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  7,29 kr
+
+
+Momarken - Kryss 88
+3.1 km/3.0 km	2 min 39 s/2 min 34 s
+2.1 km/2.0 km	1 min 48 s/1 min 43 s
+1.4 km/1.4 km	1 min 12 s/1 min 12 s
+1.3 km/1.5 km	1 min 7 s/1 min 17 s
+
+Kryss 88 - Örje-vest
+1.1 km/1.1 km	0 min 44 s/0 min 44 s
+4.3 km/4.2 km	2 min 52 s/2 min 48 s
+9.2 km/9.2 km	6 min 8 s/6 min 8 s
+
+Örje-vest - Örje-öst
+0.7 km/0.5 km	0 min 50 s/0 min 36 s
+0.3 km/0.4 km	0 min 27 s/0 min 36 s
+0.8 km/0.6 km	0 min 58 s/0 min 43 s
+
+Örje-öst - Riksgrensen
+2.7 km/2.9 km	2 min 2 s/2 min 11 s
+2.2 km/2.1 km	1 min 39 s/1 min 35 s

@@ -1,0 +1,92 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,6 kilometres (7 minutes)
+09:00	0,0	Depart T-korsning Morkulien on 61 [Kungsvägen] (West)	0,2 km	
+09:00	0,2	Entering Norway		
+09:00	0,2	Road name changes to 2	1,5 km	
+09:01	1,7	At 2, 2240 Eidskog, stay on 2 (West)	4,1 km	
+09:04	5,8	At T-korsning Magnor NV, stay on 2 (North-West)	3,8 km	
+09:07	9,6	Arrive 2, 2230 Eidskog		
+
+SUMMARY
+Driving distance:  9,6 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  10,90 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,5 kilometres (7 minutes)
+09:00	0,0	Depart 2, 2230 Eidskog on 2 (South-East)	4,1 km	
+09:03	4,1	At T-korsning Magnor NV, stay on 2 (South-East)	4,1 km	
+09:06	8,2	At T-korsning Magnor-sør, stay on 2 (East)	1,3 km	
+09:07	9,5	Arrive T-korsning Morokulien Norge		
+
+SUMMARY
+Driving distance:  9,5 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  10,89 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,6 kilometres (20 minutes)
+09:00	0,0	Depart 2, 2230 Eidskog on 2 (North-West)	2,9 km	
+09:02	2,9	At 2, 2230 Eidskog, stay on 2 (North)	3,3 km	
+09:04	6,1	At T-korsning Matrand-nord, stay on 2 (North)	1,6 km	
+09:05	7,7	At T-korsning Rv2/Fv342, stay on 2 (North)	6,9 km	
+09:10	14,6	At near Åbogen, stay on 2 [Arko-vegen] (North-West)	0,3 km	
+09:11	14,9	At T-korsning, stay on 2 [Arko-vegen] (North-West)	0,8 km	
+09:11	15,7	At Arko-Vegen, 2210 Kongsvinger, stay on 2 [Arko-vegen] (North-West)	1,6 km	
+09:13	17,4	At T-korsning Camping, stay on 2 [Arko-vegen] (North)	0,3 km	
+09:13	17,7	At T-korsning Golfklubb, stay on 2 [Arko-vegen] (North)	3,1 km	
+09:15	20,8	At Korsning Rv2/Fv345/Fv364, stay on 2 [Arko-vegen] (North)	3,0 km	
+09:18	23,8	At roundabout, take the SECOND exit onto 2	1,0 km	
+09:19	24,8	At roundabout, take the SECOND exit onto 2 [Arko-vegen]	0,8 km	
+09:20	25,6	Arrive T-korsning Rv2/Tajevegen		
+
+SUMMARY
+Driving distance:  25,6 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  30,00 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,5 kilometres (20 minutes)
+09:00	0,0	Depart 2, 2211 Kongsvinger on Local road(s) (South)	30 m	
+09:00	0,1	Bear RIGHT (South) onto 2 [Arko-vegen]	0,9 km	
+09:01	1,0	At roundabout, take the SECOND exit onto 2 [Arko-vegen]	1,0 km	
+09:02	2,0	At roundabout, take the SECOND exit onto 2	3,0 km	
+09:04	5,0	At Korsning Rv2/Fv345/Fv364, stay on 2 [Arko-vegen] (South)	3,1 km	
+09:07	8,1	At T-korsning Golfklubb, stay on 2 [Arko-vegen] (South)	0,3 km	
+09:07	8,5	At T-korsning Camping, stay on 2 [Arko-vegen] (South-West)	1,4 km	
+09:08	9,9	At Arko-Vegen, 2210 Kongsvinger, stay on 2 [Arko-vegen] (South-East)	1,0 km	
+09:09	10,9	At T-korsning, stay on 2 [Arko-vegen] (South-East)	0,3 km	
+09:09	11,2	At near Åbogen, stay on 2 (South-East)	6,9 km	
+09:14	18,1	At T-korsning Rv2/Fv342, stay on 2 (South)	1,6 km	
+09:15	19,7	At T-korsning Matrand-nord, stay on 2 (South)	2,1 km	
+09:17	21,8	At 2, 2230 Eidskog, stay on 2 (South)	3,7 km	
+09:20	25,5	Arrive 2, 2230 Eidskog		
+
+SUMMARY
+Driving distance:  25,5 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  29,88 kr
+
+
+Morokulien - Magnor SO
+1.7 km/1.3 km	1 min 42 s/1 min 18 s	60
+
+Magnor SO - Matrand S
+4.1 km/4.1 km	2 min 44 s/2 min 44 s	90
+3.8 km/4.1 km	2 min 32 s/2 min 44 s
+2.9 km/3.7 km	1 min 56 s/2 min 28 s
+3.3 km/2.1 km	2 min 12 s/1 min 24 s
+
+Matrand S - Rondell
+1.6 km/1.6 km	1 min 12 s/1 min 12 s	80
+6.9 km/6.9 km	5 min 11 s/5 min 11 s
+6.2 km/6.2 km	4 min 39 s/4 min 39 s
+3.0 km/3.1 km	2 min 15 s/2 min 20 s
+
+Rondell - Rondell Rv 2/Rv 20
+1.0 km/1.0 km	1 min 12 s/1 min 12 s	50
+0.8 km/1.0 km	0 min 58 s/1 min 12 s

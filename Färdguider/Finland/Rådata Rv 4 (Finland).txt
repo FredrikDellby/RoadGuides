@@ -1,0 +1,43 @@
+Time	Km	Instruction	For	Toward
+Summary:  6,6 kilometres (7 minutes)
+09:00	0,0	Depart Norra Esplanaden, 00170 Helsingfors on 4 [Meritullintori] (North-East)	0,7 km	
+09:01	0,7	At Korsning Rv4/Elisabetgatan, stay on 4 [Norrakajen] (North)	0,7 km	
+09:02	1,4	At T-korsning Rv4/Hagnäsg., stay on 4 [Sörnäisten Rantatie] (North)	0,8 km	
+09:02	2,2	At T-korsning Rv4/Bjälkgatan, stay on 4 [Sörnäisten Rantatie] (North-East)	0,3 km	
+09:03	2,5	At Sörnäisten Rantatie, 00500 Helsingfors, keep RIGHT onto 170	0,3 km	170 / 4 / E75 / 7 / Kulosaari / Brändö / Lahti / Itäkeskus / Lahtis / Östra Centrum / Kotka / Sompasaari / Sumparn
+09:03	2,8	Keep RIGHT onto Ramp	0,2 km	4 / E75 / 7 / Lahti / Lahtis / Kotka / Sompasaari / Sumparn
+09:03	3,0	Turn LEFT (North) onto 4 [Gasverksgatan]	0,4 km	Lahti / Lahtis / Kotka / Sompasaari / Sumparn
+09:04	3,4	At T-korsning Rv4/Nätholmsg., stay on 4 [Hermannin Rantatie] (North)	0,3 km	
+09:04	3,7	At Korsning Rv4/Agroksenkuja, stay on 4 [Hermannin Rantatie] (North)	1,1 km	
+09:05	4,8	Keep STRAIGHT onto Ramp	0,2 km	
+09:05	5,0	At Hämeentie, 00560 Helsingfors, bear RIGHT (North-East) onto 4 [Hämeentie]	0,1 km	
+09:05	5,2	Road name changes to E75 [4]	1,4 km	
+09:07	6,6	Arrive 1		
+
+SUMMARY
+Driving distance:  6,6 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  12,94 kr
+
+
+Time	Km	Instruction	For	Toward
+Summary:  7,1 kilometres (7 minutes)
+09:00	0,0	Depart 1 on E75 [4] (South-West)	2,0 km	
+09:01	2,0	At T-korsning Rv4/Häämentie, road name changes to 4 [Hämeentie]	0,1 km	
+09:01	2,1	Keep RIGHT onto Ramp	0,3 km	Keskusta / Centrum / Sompasaari / Sumparn
+09:02	2,4	Road name changes to 4 [Hermannin Rantatie]	1,1 km	
+09:03	3,5	At Korsning Rv4/Agroksenkuja, stay on 4 [Hermannin Rantatie] (South)	0,3 km	
+09:03	3,8	At T-korsning Rv4/Nätholmsg., stay on 4 [Hermannin Rantatie] (South)	0,3 km	
+09:03	4,1	At Gasverksgatan, 00580 Helsingfors, take Ramp (RIGHT) onto 170	0,5 km	Keskusta / Centrum
+09:04	4,5	Road name changes to 4 [Sörnäisten Rantatie]	0,4 km	
+09:05	5,0	At T-korsning Rv4/Bjälkgatan, stay on 4 [Sörnäisten Rantatie] (South-West)	0,6 km	
+09:05	5,5	At Korsning Rv4/Aspnäsgatan, stay on 4 [Sörnäisten Rantatie] (South-West)	0,9 km	
+09:06	6,5	At Korsning Rv4/Elisabetgatan, stay on 4 [Norrakajen] (South)	0,6 km	
+09:07	7,1	Arrive Untitled		
+
+SUMMARY
+Driving distance:  7,1 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  14,01 kr

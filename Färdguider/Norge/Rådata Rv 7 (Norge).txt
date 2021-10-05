@@ -1,0 +1,51 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,4 kilometres (17 minutes)
+09:00	0,0	Depart E16, 3517 Ringerike on Local road(s) (North)	70 m	
+09:00	0,1	Turn RIGHT (West) onto 7 [Soknedalsveien]	2,5 km	
+09:01	2,6	At T-korsning Rv 7/Fv173, stay on 7 [Soknedalsveien] (North-West)	4,3 km	
+09:05	6,9	At T-korsning Rv 7/Fv174, stay on 7 [Soknedalsveien] (West)	2,1 km	
+09:07	9,0	At T-korsning Veme-öst, stay on 7 [Soknedalsveien] (West)	2,5 km	
+09:09	11,5	At T-korsning Rv 7/Jonsrudv., stay on 7 [Soknedalsveien] (West)	1,4 km	
+09:11	13,0	At T-korsning Gardhammar, stay on 7 [Soknedalsveien] (West)	2,6 km	
+09:13	15,6	At T-korsning Rv 7/Fv 177, stay on 7 [Soknedalsveien] (North-West)	3,2 km	
+09:15	18,8	At T-korsning Rv 7/Nordmov., stay on 7 [Soknedalsveien] (West)	1,2 km	
+09:16	20,0	At near Sokna, stay on 7 [Soknedalsveien] (West)	0,3 km	
+09:17	20,4	Arrive Hallingdalsveien 15, 3534 Ringerike		
+
+SUMMARY
+Driving distance:  20,4 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  26,76 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,6 kilometres (17 minutes)
+09:00	0,0	Depart T-korsning Sokna sentrum on 7 [Hallingdalsveien] (South-East)	0,6 km	
+09:00	0,6	At near Sokna, stay on 7 [Soknedalsveien] (East)	1,3 km	
+09:01	1,9	At T-korsning Rv 7/Nordmov., stay on 7 [Soknedalsveien] (East)	3,2 km	
+09:04	5,1	At T-korsning Rv 7/Fv 177, stay on 7 [Soknedalsveien] (South-East)	2,6 km	
+09:06	7,7	At T-korsning Gardhammar, stay on 7 [Soknedalsveien] (East)	1,4 km	
+09:07	9,2	At T-korsning Rv 7/Jonsrudv., stay on 7 [Soknedalsveien] (East)	2,2 km	
+09:09	11,3	At T-korsning Veme-vest, stay on 7 [Soknedalsveien] (East)	2,4 km	
+09:12	13,8	At T-korsning Rv 7/Fv174, stay on 7 [Soknedalsveien] (East)	4,3 km	
+09:15	18,1	At T-korsning Rv 7/Fv173, stay on 7 [Soknedalsveien] (East)	2,5 km	
+09:17	20,6	Arrive Soknedalsveien, 3517 Ringerike		
+
+SUMMARY
+Driving distance:  20,6 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  27,26 kr
+
+Rondell E16/Rv 7 - Bru
+2.6 km/2.5 km	2 min 14 s/2 min 9 s
+4.3 km/4.3 km	3 min 41 s/3 min 41 s
+2.1 km/2.4 km	1 min 48 s/2 min 3 s
+2.5 km/2.2 km	2 min 9 s/1 min 53 s
+1.4 km/1.4 km	1 min 12 s/1 min 12 s
+2.6 km/2.6 km	2 min 14 s/2 min 14 s
+3.2 km/3.2 km	2 min 45 s/2 min 45 s
+1.2 km/1.3 km	1 min 2 s/1 min 7 s
+
+Bru - Sokna sentrum
+0.3 km/0.6 km	0 min 22 s/0 min 43 s

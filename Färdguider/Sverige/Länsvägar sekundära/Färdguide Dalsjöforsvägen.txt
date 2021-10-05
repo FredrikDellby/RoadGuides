@@ -1,0 +1,26 @@
+T-korsning Södervärn
+ 27 s: Växjö, Tranemo
+ 41 s: Varberg, Kinna
+ 27 n: Borås C
+				1.7 km/1.5 km	2 min 33 s/2 min 15 s
+Tankställe Strömsdal
+Bensinstation: Preem, JET
+				3.0 km/2.9 km	2 min 60 s/2 min 54 s
+Tankställe Gånghester
+Bensinstation: Shell
+				1.5 km/1.6 km	2 min 15 s/2 min 24 s
+T-korsning Slätthult
+				0.8 km/0.7 km	0 min 41 s/0 min 36 s
+T-korsning Skäftingsbacka
+				2.8 km/2.8 km	2 min 24 s/2 min 24 s
+Tankställe Dalsjöfors
+Bensinstation: Bilisten
+				1.2 km/1.2 km	1 min 48 s/1 min 48 s
+T-korsning Dalsjöfors
+				0.4 km/0.4 km	0 min 36 s/0 min 36 s
+T-korsning Dalsjöfors station
+				2.6 km/2.5 km	2 min 14 s/2 min 9 s
+T-korsning Toarpsdal
+				1.1 km/1.4 km	0 min 57 s/1 min 12 s
+Rondell Dalsjöforsvägen
+Dalsjöforsmotet

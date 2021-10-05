@@ -1,0 +1,331 @@
+Färdguide Rv 4 (Oslo - Gjövik - Biri)
+======================================
+
+Rondell Trondheimsv./Mailundv.
+
+
+Sinsenkrysset
+ Ring 3 cw: [E6]
+ Ring 3 ccw: Storo, Grefsen
+
+Avfart+Påfart Tonsen
+(nordgående riktning)
+ Aker universitetssykehus
+
+Kryss Bjerke
+
+Kryss Linderud
+
+Avfart+Påfart Veitvet
+(nordgående riktning)
+
+Avfart+Påfart Rødtvet
+(sydgående riktning)
+(Rødtvet T-banekulvert)
+ Grorudbanen, 12 m
+
+Kryss Kalbakken
+
+Ammerudkrysset
+(Groruddammen bru)
+ Alnaelva, 71 m
+
+Grorudkrysset
+
+T-korsning Sveiva
+ Stovner
+
+(Påfart)
+Trippel T-korsning Tokerudbekken
+
+Oslo / Viken
+Oslo / Nittedal
+
+T-korsning Rv 4/Brådalsstubben
+
+T-korsning Rv 4/C. Bergersens vei
+
+Rondell Gjelleråstoppen
+ 22 ö: Lilleström
+ [E6 n]: Trondheim
+
+Hagantunnelen-syd
+ 2 591 m
+
+(Hagantunnelen-nord)
+Slattumkrysset
+
+Kjulkrysset
+
+T-korsning Måsan
+ Måsan
+
+Tankställe Nittedal syd 
+ Bensinstasjon: Esso
+
+Rondell Nittedal Rådhus
+ Elbilsladdning: Charge And Drive
+
+Rondell Dam
+ Bensinstasjon: Uno-X
+
+Dubbel T-korsning Rotnes
+ Nittedal stasjon
+ Restaurang: Kings Pizza
+ Livsmedel: Joker
+
+Dubbel T-korsning Åneby
+ Restaurang: Åneby Pizza & Grill, Kvikk Pizza
+ Livsmedel: MENY
+
+Bensinstasjon: YX
+
+T-korsning Fossen
+ Glitre, Hakadal kirke
+
+T-korsning Varingskollen
+ Varingskollen hpl
+
+T-korsning Rv 4/Rådyrveien
+ Kvikk Pizza
+
+T-korsning Sagstua
+ Burås, Hakadal stasjon
+
+(Sagstua bru)
+ Hakadalselva, 42 m
+
+Korsning
+ Tøyen, Golfbana
+ Fugleåsen, Hakadal stasjon
+
+Korsning Rv 4/Myraveien
+ Nittedal jordstasjon
+
+Nittedal / Lunner
+(T-korsning)
+ Lunner Motorsport, Skytebane
+
+Varpet kontrollstasjon
+
+Kryss Stryken
+ Harestua, Stryken
+
+Strekan bru
+ Hakadalselva, 92 m
+
+Kryss Tangenmoen
+ Harestua
+
+Kryss Bakken
+ Grua
+
+Gruatunnelen-syd
+ 1 393 m
+
+(Gruatunnelen-nord)
+Kryss Tveitmarka
+ E16 ø: Jessheim, Gardemoen
+
+Røstetunnelen-syd
+ 1 096 m
+
+Røstetunnelen-nord
+
+T-korsning Roa sør
+ Roa, Grua
+ Bensinstasjon: Shell
+ Restaurang: Roa Kro & Restaurant
+ Livsmedel: Europris, Bunnpris, Kiwi
+
+Rondell Lunner Rådhus
+ E16 v: Bergen, Hønefoss
+ Roa
+
+Bensinstasjon: Circle-K
+
+Dubbel T-korsning Vollaløkken
+ Lunner, Lunner stasjon
+ Flågen
+
+Viken / Innlandet
+Lunner / Gran
+
+Rondell
+
+Motorväg börjar / slutar
+
+Dynna bomstasjon
+
+Rasteplass Vøien
+(nordgående riktning)
+
+Kryss Gran sør
+ Gran
+(Grantunnelen-syd)
+ 1726 m/1644 m
+
+(Grantunnelen-nord)
+Kryss Gran nord
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Gran
+
+Haugskrysset
+ Jaren
+
+Jarenkrysset
+ 34: Fagernes, Dokka, Brandbu
+ Jaren
+ Bensinstasjon: Esso
+ Restaurang: Hadeland Gjestegård
+
+Kryss Mohagen
+ Mohagen
+
+T-korsning Amundrud
+
+T-korsning
+ Lygna pukkverk
+
+T-korsning Lygnasæter
+ Rasteplass Lygnasæter
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum
+ Hotell: Lygnasæter Hotell
+
+T-korsning Lygnatjern
+ 180: Minnesund, Hurdal
+ Rasteplass Lygnasæter
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum
+ Hotell: Lygnasæter Hotell
+
+Korsning: (60.4636018, 10.6414183)
+ Lygna Skytbane/Skisenter
+
+Rasteplass Lygnabakken
+
+Parkeringsplass
+(nordgående riktning)
+
+Gran / Vestre Toten
+
+T-korsning Einavoll
+ Hågå
+(Bru over Evjua)
+
+T-korsning Mjørlund
+ 244: Lena
+
+Korsning Eina kirke
+ Eina kirke
+
+T-korsning Blili
+ Bøverbru, Kolbu, Sillongen
+
+Thune skole
+
+T-korsning Eina sør
+ Eina sentrum
+
+Korsning Eina nord
+ Eina sentrum, Eina stasjon
+
+Rasteplass Blåvarp
+
+T-korsning Fiskevoll
+ Bøverbru
+
+Dubbel T-korsning Bruflat bru
+ Börsvoll
+ Fall
+(Bruflat bru (over Gjøvikbanen, 32 m))
+
+Dubbel T-korsning Reinsvoll sør
+ Reinsvoll stasjon
+ Skjellerud, Fall
+
+Kryss Reinsvoll
+ 246: Lena, Reinsvoll N
+ Fv2368: Raufoss S
+ Bensinstasjon: YX
+
+Kryss Raufoss
+ Fv2368: Raufoss
+
+Vestre Toten / Gjøvik
+
+Dalborgmarka bru (48 m)
+ Gjøvikbanen
+
+Dubbel Rondell Hunddalen Ø
+ 33 n: Fagernes, Hunddalen
+
+Kryss Kallerud
+ Fv2368: Hunddalen
+ Fv2370: Kirkeby
+ Bensinstasjon: Circle-K
+
+Mustadhagen kulvert (202 m)
+ under Strandgata
+
+Rondell
+ 33 s: Eidsvoll, Lena, Kirkeby
+ Bensinstasjon: Esso
+(Jernbanebru)
+ Gjøvikbanen
+
+Hunnselva bru (38 m)
+ Hunnselva
+
+Rondell Rv 4/Bryggevegen
+ Gjøvik hamn, Skibladner
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Grønn Kontakt
+
+Rondell Rv 4/Jernbanesvingen
+ Gjøvik sentrum, stasjon
+ Bensinstasjon: YX
+
+(Gjøvik Vannverk bru (over strand, 49 m))
+
+(Bråstad bru (Bråstadelva, 53 m))
+T-korsning Bråstadfossen
+ Fv2368: Nordenga, Bråstadvika
+
+Rasteplass
+
+Rasteplass Kolberg
+
+T-korsning Rv 4/Dalsjordevegen
+ Dalsjordet
+
+T-korsning Dalsjordet
+
+T-korsning
+ Hotel: Stokke Nedre Gård
+
+Stokke bru (39 m)
+ Stokkevegen
+Stokke nye bru (61 m)
+ Stokkeelva
+
+T-korsning Redalen
+ 249: Torpa, Snertingdal
+ Sveastranda Camping
+
+T-korsning Smedmoen
+ Smedmoen
+
+T-korsning
+ Fv2418: Hanssvea
+
+Kryss Skulhus
+ Skulhus
+(Motortrafikkvei begynner/ender)
+
+Rondell Sandvoll
+ E6 s: Oslo, Hamar
+ E6 n: Trondheim, Lillehammer
+

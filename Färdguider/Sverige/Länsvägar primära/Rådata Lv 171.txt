@@ -1,0 +1,38 @@
+Time	Km	Instruction	For	Toward
+Summary:  17,0 kilometres (13 minutes)
+09:00	0,0	Depart 174, 450 46 Hunnebostrand on Local road(s) (East)	20 m	
+09:00	0,1	Turn RIGHT (South-East) onto 171 [Svenneby]	0,2 km	
+09:00	0,2	Keep STRAIGHT onto 171 [Björneröd]	2,0 km	
+09:02	2,2	Keep STRAIGHT onto 171 [Svenneby]	0,8 km	
+09:03	3,1	At T-korsning Askum, stay on 171 [Lycke] (East)	3,0 km	
+09:05	6,1	At T-korsning Lyckan, stay on 171 [Legene Nedergård] (North-East)	2,3 km	
+09:07	8,3	At Korsning Ödstoft, stay on 171 [Åby Varpet] (North-East)	2,0 km	
+09:08	10,3	At roundabout, take the SECOND exit onto 171 [Åby Varpet]	2,5 km	
+09:10	12,9	At T-korsning Runderäng, stay on 171 (East)	4,1 km	
+09:13	17,0	Arrive T-korsning Hallind		
+
+SUMMARY
+Driving distance:  17,0 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  18,87 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,9 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Hallind on 171 (West)	4,0 km	
+09:03	4,0	At 171, 454 92 Brastad, stay on 171 (West)	2,6 km	
+09:04	6,6	At roundabout, take the SECOND exit onto 171 [Åby Varpet]	2,1 km	
+09:06	8,7	At Korsning Ödstoft, stay on 171 [Legene Nedergård] (South-West)	2,3 km	
+09:08	10,9	At T-korsning Lyckan, stay on 171 [Långön] (West)	2,9 km	
+09:10	13,8	At T-korsning Askum, stay on 171 [Lycke] (West)	0,1 km	
+09:10	13,9	Bear LEFT (South-West) onto 171 [Svenneby]	0,8 km	
+09:11	14,8	Keep STRAIGHT onto 171 [Björneröd]	2,0 km	
+09:13	16,7	Keep STRAIGHT onto 171 [Svenneby]	0,2 km	
+09:13	16,9	Arrive Svenneby, 450 46 Hunnebostrand		
+
+SUMMARY
+Driving distance:  16,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  18,86 kr
+

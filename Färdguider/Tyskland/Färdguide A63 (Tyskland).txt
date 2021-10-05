@@ -1,0 +1,76 @@
+Reseguide A63 (Mainz - Kaiserslautern)
+=======================================
+
+Kreuz Mainz-Süd (2)
+ A60 w: Köln, Koblenz
+ A60 o: Frankfurt/Main, Darmstadt
+					2.8 km/1.8 km	1 min 24 s/0 min 54 s
+Anschlausstelle 3
+ Klein-Winternheim
+					4.5 km/4.4 km	2 min 15 s/2 min 12 s
+Anschlausstelle 4
+ Nieder-Olm
+					2.4 km/2.8 km	1 min 12 s/1 min 24 s
+(Mühlgrabentalbrücke (270 m))
+
+Anschlausstelle 5
+ Saulheim
+					6.0 km/6.6 km	3 min 0 s/3 min 18 s
+Anschlausstelle 6
+ Wörrstadt
+ B240: 
+					5.4 km/5.4 km	2 min 42 s/2 min 42 s
+Anschlausstelle 7
+ Biebelnheim
+					2.3 km/3.3 km	1 min 9 s/1 min 39 s
+AB-Kreuz Alzey (8)
+ A61 n: Köln, Koblenz
+ A61 s: Mannheim, Ludwigshaven
+					4.5 km/3.0 km	2 min 15 s/1 min 30 s
+Anschlausstelle 9
+ Erbes-Büdesheim
+					3.8 km/3.8 km	1 min 54 s/1 min 54 s
+(Talbrücke Weinheim (1260 m))
+
+Anschlausstelle 10
+ Freimesheim
+					4.0 km/4.2 km	2 min 0 s/2 min 6 s
+Rastplatz Heubergerhof
+					2.0 km/2.4 km	1 min 0 s/1 min 12 s
+Anschlausstelle 11
+ Kirchheimbolanden
+					8.1 km/7.8 km	4 min 3 s/3 min 54 s
+Anschlausstelle 12
+ Göllheim
+ B47: 
+					3.1 km/3.1 km	1 min 33 s/1 min 33 s
+Parkplatz
+					8.6 km/8.2 km	4 min 18 s/4 min 6 s
+(Rasthof Donnersberg)
+
+(Talbrücke Langmeiler Senke (205 m))
+
+(Talbrücke Langmeil (276 m))
+
+Anschlausstelle 13
+ Winnweiler
+ B48: 
+					5.8 km/6.1 km	2 min 54 s/3 min 3 s
+(Lohnsbachtalbrücke)
+
+(Talbrücke Lanzenbachtal (210 m))
+
+(Talbrücke Baalborner Wasser (260 m))
+
+Anschlausstelle 14
+ Sembach
+					6.5 km/7.4 km	3 min 15 s/3 min 42 s
+(Talbrücke (100 m))
+
+(Talbrücke Eselsbachtal (230 m))
+
+Anschlausstelle 15
+ Kaiserslautern
+AB-Dreieck Kaiserslautern (15)
+ A6 w: Saarbrücken
+ A6 o: Mannheim, Ludwigshaven

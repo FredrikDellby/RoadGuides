@@ -1,0 +1,299 @@
+Time	Km	Instruction	For	Toward
+Summary:  17,7 kilometres (9 minutes)
+09:00	0,0	Depart near Ghyvelde on A18 [E40] (West)	40 m	
+09:00	0,1	Entering France		
+09:00	0,1	Road name changes to A16 [E40]	0,8 km	
+09:00	0,9	At E40, 59254 Ghyvelde, stay on A16 [E40] (West)	2,0 km	
+09:01	2,9	At 36, stay on A16 [E40] (West)	4,9 km	A16 / E40 / Dunkerque / Calais / Lille / Tunnel S/S la Manche
+09:04	7,8	At 35, stay on A16 [E40] (West)	0,8 km	
+09:04	8,6	At E40, 59495 Leffrinckoucke, stay on A16 [E40] (West)	1,5 km	
+09:05	10,1	At E40, 59229 Téteghem, stay on A16 [E40] (South-West)	1,3 km	
+09:06	11,5	At 33, stay on A16 [E40] (South-West)	1,3 km	A16 / E40 / Dunkerque-les Ports / Dunkerque-Car Ferry / Calais / Lille / Tunnel Sous la Manche / Coudekerque-Br.
+09:06	12,7	At 32, stay on A16 [E40] (West)	1,5 km	A16 / E40 / Calais / Lille / Dunkerque-les Ports / Dunkerque-Car Ferry / Coudekerque-Br.-Centre / Tunnel Sous la Manche
+09:07	14,2	At 31, stay on A16 [E40] (West)	1,4 km	
+09:08	15,6	At 29, stay on A16 [E40] (West)	2,1 km	A16 / E40 / Calais / Lille / Tunnel Sous la Manche / Dunkerque-les Ports / Dunkerque-Car Ferry
+09:09	17,7	Arrive 28A		
+
+SUMMARY
+Driving distance:  17,7 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  20,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,4 kilometres (9 minutes)
+09:00	0,0	Depart 28 on A16 [E40] (East)	2,1 km	A16 / E40 / Ostende / Bruges / Bruxelles / Dunkerque-Centre / Dunkerque-Malo / Coudekerque-Branche
+09:01	2,1	At 29, stay on A16 [E40] (East)	1,7 km	A16 / E40 / Ostende / Bruges / Bruxelles / Dunkerque-Centre / Dunkerque-Malo / Coudekerque-Branche
+09:02	3,8	At E40, 59210 Coudekerque-Branche, stay on A16 [E40] (East)	1,5 km	
+09:02	5,3	At 32, stay on A16 [E40] (East)	0,8 km	
+09:03	6,0	At 33, stay on A16 [E40] (East)	1,1 km	A16 / E40 / Ostende / Bruges / Bruxelles / Bray-Dunes / Furnes (Veurne)
+09:03	7,1	At near Téteghem, stay on A16 [E40] (East)	1,6 km	
+09:04	8,7	At 34, stay on A16 [E40] (North-East)	1,8 km	A16 / E40 / Ostende / Bruges / Bruxelles / Bray-Dunes / Furnes (Veurne)
+09:05	10,5	At E40, 59495 Leffrinckoucke, stay on A16 [E40] (East)	5,5 km	
+09:08	16,0	At 36, stay on A16 [E40] (East)	1,7 km	A16 / E40 / Ostende / Bruges / Bruxelles / La Panne / Furnes (Veurne)
+09:09	17,7	At E40, 59254 Ghyvelde, stay on A16 [E40] (East)	0,7 km	
+09:09	18,4	Arrive near Ghyvelde		
+
+SUMMARY
+Driving distance:  18,4 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  21,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,4 kilometres (17 minutes)
+09:00	0,0	Depart 28A on A16 [E40] (West)	1,1 km	A16 / E40 / Tunnel Sous la Manche / Dunkerque-Autres Ports / Dunkerque-Car Ferry / Grande Synthe
+09:00	1,1	At 27, stay on A16 [E40] (West)	0,8 km	
+09:00	1,8	At Aire de Grande-Synthe, stay on A16 [E40] (West)	0,9 km	
+09:01	2,7	At 25A, stay on A16 [E40] (West)	6,1 km	
+09:04	8,8	At 24, keep STRAIGHT to stay on A16 [E40]	3,5 km	A16 / E40 / Dunkerque-Port Industriel / Calais / Boulogne / Tunnel Sous la Manche / Bourbourg / Gravelines
+09:06	12,3	At 23A, stay on A16 [E40] (West)	3,0 km	
+09:08	15,3	At E40, 59820 Saint-Georges-sur-l'Aa, stay on A16 [E40] (West)	1,6 km	
+09:08	16,9	At 51, stay on A16 [E40] (West)	5,2 km	
+09:11	22,1	At 50, stay on A16 [E40] (West)	6,0 km	
+09:14	28,1	At 49, stay on A16 [E40] (West)	2,0 km	A16 / E40 / Calais / Boulogne / Tunnel Sous la Manche / Marck-Ouest
+09:15	30,0	At 48, stay on A16 [E40] (West)	2,4 km	
+09:17	32,4	Arrive 47		
+
+SUMMARY
+Driving distance:  32,4 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  36,38 kr
+
+SUMMARY
+Driving distance:  32,4 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  36,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,5 kilometres (17 minutes)
+09:00	0,0	Depart E40, 62100 Calais on A16 [E40] (East)	2,5 km	A16 / E40 / Dunkerque / Lille / Bruxelles / Marck
+09:01	2,5	At 48, stay on A16 [E40] (East)	2,5 km	A16 / E40 / Dunkerque / Lille / Bruxelles / Marck-Est
+09:02	5,0	At 49, stay on A16 [E40] (East)	1,9 km	
+09:03	6,9	At E40, 62370 Offekerque, stay on A16 [E40] (East)	3,5 km	
+09:05	10,4	At 50, stay on A16 [E40] (East)	5,7 km	
+09:08	16,1	At 51, stay on A16 [E40] (East)	4,3 km	
+09:10	20,3	At 23, stay on A16 [E40] (East)	3,3 km	A16 / E40 / Dunkerque-Centre / Dunkerque-Autres Ports / Dunkerque-Car Ferry / Lille / Bruxelles / Loon-Plage
+09:12	23,6	At 24, keep STRAIGHT to stay on A16 [E40]	6,1 km	A16 / E40 / Dunkerque-Centre / Dunkerque-Port Est / Lille / Bruxelles / Grande-Synthe
+09:15	29,7	At 25, stay on A16 [E40] (East)	1,9 km	A16 / E40 / Dunkerque-Centre / Grande-Synthe-Moulin / Lille / Bruxelles
+09:16	31,6	At 27, stay on A16 [E40] (East)	0,8 km	
+09:17	32,5	Arrive 28		
+
+SUMMARY
+Driving distance:  32,5 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  36,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,0 kilometres (19 minutes)
+09:00	0,0	Depart 47 on A16 [E40] (West)	1,1 km	A16 / E15 / E40 / Calais-Centre / Tunnel Sous la Manche / St Omer / Boulogne / Rouen
+09:00	1,1	At 46, stay on A16 [E15] (West)	1,6 km	A16 / E15 / E40 / Tunnel Sous la Manche / Boulogne / Rouen / Guines
+09:01	2,7	At A16, 62100 Calais, stay on A16 [E15] (West)	0,7 km	
+09:01	3,4	At 44, stay on A16 [E15] (West)	1,5 km	
+09:02	4,9	At 43, stay on A16 [E15] (West)	1,4 km	
+09:03	6,3	At 42, stay on A16 [L'Européenne] (West)	2,0 km	A16 / E402 / Boulogne / Rouen / Coquelles / Gare T.G.V.
+09:04	8,3	At 41, stay on A16 [E402] (South)	2,1 km	
+09:05	10,5	At 40, stay on A16 [E402] (South-West)	1,7 km	
+09:06	12,1	At 39, stay on A16 [E402] (South-West)	3,3 km	
+09:08	15,4	At 38, stay on A16 [E402] (South)	2,1 km	
+09:09	17,5	At E402, 62250 Saint-Inglevert, stay on A16 [E402] (South-West)	4,7 km	
+09:11	22,3	At 36, stay on A16 [E402] (South)	2,7 km	
+09:13	25,0	At E402, 62250 Marquise, stay on A16 [E402] (South)	2,1 km	
+09:14	27,1	At 34, stay on A16 [E402] (South-West)	2,9 km	
+09:15	29,9	At 33, stay on A16 [E402] (South)	3,0 km	
+09:17	33,0	At 32, stay on A16 [E402] (South)	3,0 km	A16 / E402 / Boulogne-Port / Rouen / Amiens / Paris
+09:19	36,0	Arrive 31		
+
+SUMMARY
+Driving distance:  36,0 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  42,00 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,5 kilometres (18 minutes)
+09:00	0,0	Depart 31 on A16 [E402] (North)	2,5 km	A16 / E402 / Tunnel S/S la Manche / Calais / Dunkerque
+09:01	2,5	At 32, stay on A16 [E402] (North)	3,1 km	A16 / E402 / Calais / Dunkerque / Marquise / Wimille / Tunnel Sous la Manche
+09:03	5,7	At 33, stay on A16 [E402] (North-East)	3,0 km	
+09:04	8,6	At E402, 62250 Wacquinghen, stay on A16 [E402] (East)	0,8 km	
+09:05	9,5	At Aire de l'Epitre, stay on A16 [E402] (North-East)	1,7 km	
+09:05	11,2	At 35, stay on A16 [E402] (North)	2,4 km	A16 / E402 / Calais / Dunkerque / Tunnel Sous la Manche / Guînes
+09:07	13,6	At 36, stay on A16 [E402] (North)	4,6 km	
+09:09	18,2	At 37, stay on A16 [E402] (North-East)	2,2 km	
+09:10	20,4	At near Saint-Inglevert, stay on A16 [E402] (North)	3,1 km	
+09:12	23,5	At 39, stay on A16 [E402] (North-East)	1,7 km	
+09:13	25,1	At 40, stay on A16 [E402] (North)	1,8 km	A16 / E402 / Tunnel Sous la Manche / Calais / Dunkerque / Coquelles / Sangatte
+09:14	27,0	At 41, stay on A16 [E402] (North-East)	1,6 km	
+09:15	28,6	At 42, stay on A16 [E402] (North)	2,0 km	A16 / E15 / E402 / Calais / Dunkerque / Car Ferry
+09:16	30,5	At 43, stay on A16 [E15] (East)	1,8 km	A16 / E15 / E402 / Dunkerque / Lille / Bruxelles / St Omer / Reims / Paris / A26 / Calais-Port / Car Ferry
+09:17	32,4	At 44, stay on A16 [E15] (East)	2,2 km	
+09:18	34,5	At 46, stay on A16 [E15] (East)	0,9 km	A16 / E15 / E40 / A26 / Dunkerque / Lille / Bruxelles / St Omer / Reims / Calais-Port / Car Ferry / Z.I. Est
+09:18	35,5	Arrive E40, 62100 Calais		
+
+SUMMARY
+Driving distance:  35,5 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  41,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  72,2 kilometres (37 minutes)
+09:00	0,0	Depart 31 on A16 [E402] (South)	1,4 km	A16 / E402 / Amiens / Rouen / Paris / Boulogne-Port
+09:00	1,4	At E402, 62280 Saint-Martin-Boulogne, stay on A16 [E402] (South)	1,1 km	
+09:01	2,5	*Toll road* At 29, stay on A16 [E402] (South-West)	4,4 km	A16 / E402 / Amiens / Rouen / Paris
+09:03	6,9	*Toll road* At 28, stay on A16 [E402] (South-East)	4,3 km	A16 / E402 / Amiens / Rouen / Paris
+09:05	11,3	*Toll road* At E402, 62360 Condette, stay on A16 [E402] (South)	0,9 km	
+09:06	12,2	*Toll road* At near Verlincthun, stay on A16 [E402] (South)	2,6 km	
+09:07	14,8	*Toll road* At 27, stay on A16 [E402] (South)	3,8 km	A16 / E402 / Le Touquet / Amiens / Rouen / Paris
+09:09	18,6	*Toll road* At E402, 62630 Widehem, stay on A16 [E402] (South)	8,6 km	
+09:14	27,2	*Toll road* At 26, stay on A16 [E402] (South)	11,9 km	A16 / E402 / Berck / Amiens / Rouen / Paris
+09:20	39,1	*Toll road* At 25, stay on A16 [E402] (South)	3,3 km	A16 / E405 / Amiens / Rouen / Paris
+09:22	42,4	*Toll road* At E402, 62180 Conchil-le-Temple, stay on A16 [E402] (South)	15,4 km	
+09:30	57,8	*Toll road* At 24, stay on A16 [E402] (South)	9,6 km	
+09:35	67,4	*Toll road* At E402, 80970 Sailly-Flibeaucourt, stay on A16 [E402] (South-East)	4,8 km	
+09:37	72,2	Arrive 23		
+
+SUMMARY
+Driving distance:  72,2 kilometres
+Trip duration:  37 minutes
+Driving time:  37 minutes
+Cost:  80,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  72,6 kilometres (38 minutes)
+09:00	0,0	*Toll road* Depart 23 on A16 (North-West)	5,2 km	A16 / E402 / Boulogne / Calais
+09:02	5,2	*Toll road* At A16, 80970 Sailly-Flibeaucourt, stay on A16 [E402] (North-West)	9,4 km	
+09:07	14,5	*Toll road* At 24, stay on A16 [E402] (North)	15,2 km	A16 / E402 / Berck / Boulogne / Calais
+09:15	29,7	*Toll road* At E402, 62180 Conchil-le-Temple, stay on A16 [E402] (North)	3,5 km	
+09:17	33,2	*Toll road* At 25, stay on A16 [E402] (North)	11,9 km	A16 / E402 / Le Touquet / Boulogne / Calais
+09:23	45,1	*Toll road* At 26, keep STRAIGHT to stay on A16 [E402]	8,2 km	A16 / E402 / Boulogne / Calais
+09:28	53,2	*Toll road* At near Camiers, stay on A16 [E402] (North-West)	4,3 km	
+09:30	57,6	*Toll road* At 27, stay on A16 [E402] (North)	3,2 km	
+09:31	60,8	*Toll road* At E402, 62360 Condette, stay on A16 [E402] (North)	0,9 km	
+09:32	61,7	*Toll road* At E402, 62360 Condette, stay on A16 [E402] (North)	3,7 km	
+09:34	65,4	*Toll road* At 28, stay on A16 [E402] (North)	4,6 km	A16 / E402 / Boulogne / Calais
+09:36	70,0	At 29, stay on A16 [E402] (North-East)	1,2 km	A16 / E402 / Calais / Boulogne-Est
+09:37	71,2	At 30, stay on A16 [E402] (North)	1,4 km	A16 / E402 / Calais / St Omer / Lille / Boulogne-Est
+09:38	72,6	Arrive 31		
+
+SUMMARY
+Driving distance:  72,6 kilometres
+Trip duration:  38 minutes
+Driving time:  38 minutes
+Cost:  80,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  53,2 kilometres (27 minutes)
+09:00	0,0	*Toll road* Depart 23 on A16 (South-East)	6,6 km	A16 / Amiens / Paris / Abbeville-Est
+09:03	6,6	*Toll road* At 22, keep RIGHT to stay on A16	8,6 km	A16 / Amiens / Paris
+09:08	15,3	*Toll road* At A16, 80510 Cocquerel, stay on A16 (East)	9,3 km	
+09:12	24,6	*Toll road* At 21, stay on A16 (East)	9,7 km	
+09:18	34,2	*Toll road* At A16, 80650 Vignacourt, stay on A16 (South)	8,3 km	
+09:22	42,6	*Toll road* At 20, stay on A16 (South)	4,6 km	A16 / Paris / Reims / Rouen / Amiens-Centre
+09:24	47,1	*Toll road* At 19, stay on A16 (South)	2,2 km	A16 / Paris / Reims / Rouen / Amiens-Sud
+09:25	49,4	*Toll road* At A16, 80480 Salouël, stay on A16 (South)	1,6 km	A16 / Paris / Reims / Amiens-Sud
+09:26	51,0	*Toll road* At 18, stay on A16 [E44] (South)	2,3 km	
+09:27	53,2	Arrive E401, 80480 Vers-sur-Selles		
+
+SUMMARY
+Driving distance:  53,2 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  59,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  53,4 kilometres (28 minutes)
+09:00	0,0	*Toll road* Depart E401, 80480 Vers-sur-Selles on A16 [E401] (North-West)	2,4 km	A16 / Calais / Abbeville / Amiens-Centre / Rouen
+09:01	2,4	*Toll road* At 18, stay on A16 [E44] (North)	2,0 km	
+09:02	4,4	*Toll road* At E44, 80480 Salouël, stay on A16 (North)	1,7 km	A16 / Calais / Abbeville / Amiens-Centre / Amiens-Ouest
+09:03	6,0	*Toll road* At 19, stay on A16 (North)	4,7 km	A16 / Calais / Abbeville / Amiens-Nord
+09:05	10,7	*Toll road* At 20, stay on A16 (North)	8,5 km	A16 / Calais / Abbeville
+09:10	19,2	*Toll road* At A16, 80650 Vignacourt, stay on A16 (North)	9,6 km	
+09:15	28,8	*Toll road* At 21, stay on A16 (West)	9,3 km	
+09:20	38,1	*Toll road* At A16, 80690 Ailly-le-Haut-Clocher, stay on A16 (North-West)	8,6 km	
+09:24	46,7	*Toll road* At 22, stay on A16 (North)	6,7 km	A16 / Boulogne / Calais / Rouen / Abbeville-Nord
+09:28	53,4	Arrive 23		
+
+SUMMARY
+Driving distance:  53,4 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  59,39 kr
+
+Belgien/Frankrike - Sortie 28
+0.9 km/0.7 km	0 min 32 s/0 min 25 s
+2.0 km/1.7 km	1 min 12 s/1 min 1 s
+5.0 km/5.5 km	3 min 0 s/3 min 18 s
+0.7 km/1.2 km	0 min 25 s/0 min 43 s
+1.5 km/0.6 km	0 min 54 s/0 min 22 s
+0.5 km/1.6 km	0 min 18 s/0 min 58 s
+0.8 km/1.1 km	0 min 29 s/0 min 40 s
+1.3 km/0.8 km	0 min 47 s/0 min 29 s
+1.5 km/1.5 km	0 min 54 s/0 min 54 s
+1.4 km/1.7 km	0 min 50 s/1 min 1 s
+2.1 km/2.1 km	1 min 16 s/1 min 16 s
+
+Sortie 28 - A16-A26
+1.1 km/0.8 km	0 min 40 s/0 min 29 s
+0.8 km/0.9 km	0 min 29 s/0 min 32 s
+0.9 km/1.0 km	0 min 32 s/0 min 36 s
+6.1 km/6.1 km	3 min 40 s/3 min 40 s
+3.5 km/3.3 km	2 min 6 s/1 min 59 s
+3.0 km/2.7 km	1 min 48 s/1 min 37 s
+0.8 km/0.4 km	0 min 29 s/0 min 14 s
+0.8 km/1.1 km	0 min 29 s/0 min 40 s
+5.2 km/5.7 km	3 min 7 s/3 min 25 s
+3.7 km/3.5 km	2 min 13 s/2 min 6 s
+2.3 km/1.9 km	1 min 23 s/1 min 8 s
+2.0 km/2.5 km	1 min 12 s/1 min 30 s
+2.4 km/2.5 km	1 min 26 s/1 min 30 s
+
+A16-A28 - Sortie 42
+1.1 km/0.9 km	0 min 40 s/0 min 32 s
+1.6 km/1.0 km	0 min 58 s/0 min 36 s
+0.7 km/1.2 km	0 min 25 s/0 min 43 s
+1.5 km/1.8 km	0 min 54 s/1 min 5 s
+1.4 km/2.0 km	0 min 50 s/1 min 12 s
+
+Sortie 42 - Sortie 31
+2.0 km/1.6 km	1 min 5 s/0 min 52 s
+2.1 km/1.8 km	1 min 9 s/0 min 59 s
+1.7 km/1.7 km	0 min 56 s/0 min 56 s
+3.3 km/3.1 km	1 min 48 s/1 min 41 s
+2.1 km/2.2 km	1 min 9 s/1 min 12 s
+4.7 km/4.6 km	2 min 34 s/2 min 31 s
+2.7 km/2.4 km	1 min 28 s/1 min 19 s
+1.2 km/1.7 km	0 min 39 s/0 min 56 s
+0.9 km/0.8 km	0 min 29 s/0 min 26 s
+2.9 km/3.0 km	1 min 35 s/1 min 38 s
+3.0 km/3.1 km	1 min 38 s/1 min 41 s
+3.0 km/2.5 km	1 min 38 s/1 min 22 s
+
+Sortie 31 - Sortie 23 (Abbeville)
+1.4 km/1.4 km	0 min 42 s/0 min 42 s
+1.1 km/1.2 km	0 min 33 s/0 min 36 s
+4.4 km/4.6 km	2 min 12 s/2 min 18 s
+4.3 km/3.7 km	2 min 9 s/1 min 51 s
+0.9 km/0.9 km	0 min 27 s/0 min 27 s
+2.6 km/3.2 km	1 min 18 s/1 min 36 s
+3.8 km/4.3 km	1 min 54 s/2 min 9 s
+8.6 km/8.2 km	4 min 18 s/4 min 6 s
+11.9 km/11.9 km	5 min 57 s/5 min 57 s
+3.3 km/3.5 km	1 min 39 s/1 min 45 s
+4.9 km/4.2 km	2 min 27 s/2 min 6 s
+10.5 km/11.0 km	5 min 15 s/5 min 30 s
+9.6 km/9.4 km	4 min 48 s/4 min 42 s
+4.8 km/5.2 km	2 min 24 s/2 min 36 s
+
+6.6 km/6.7 km	3 min 18 s/3 min 21 s
+8.6 km/8.6 km	4 min 18 s/4 min 18 s
+9.3 km/9.3 km	4 min 39 s/4 min 39 s
+9.7 km/9.6 km	4 min 51 s/4 min 48 s
+8.3 km/8.5 km	4 min 9 s/4 min 15 s
+4.6 km/4.7 km	2 min 18 s/2 min 21 s
+2.2 km/1.7 km	1 min 6 s/0 min 51 s
+1.6 km/2.0 km	0 min 48 s/1 min 0 s
+2.3 km/2.4 km	1 min 9 s/1 min 12 s

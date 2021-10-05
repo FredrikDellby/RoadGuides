@@ -1,0 +1,465 @@
+Time	Km	Instruction	For	Toward
+Summary:  29,6 kilometres (14 minutes)
+09:00	0,0	Depart 53 on A7 [E45] (South)	6,3 km	
+09:03	6,3	At 54, stay on A7 [E45] (South)	6,6 km	
+09:06	12,9	At 55, stay on A7 [E45] (South-East)	3,8 km	
+09:08	16,7	At E45, 30629 Hannover, stay on A7 [E45] (South)	0,7 km	
+09:09	17,4	At 57, stay on A7 [E45] (South)	4,5 km	
+09:11	21,9	At 58, stay on A7 [E45] (South)	2,8 km	
+09:12	24,7	At E45, 30539 Hannover, stay on A7 [E45] (South)	3,3 km	
+09:14	28,1	At 59, stay on A7 [E45] (South)	1,5 km	
+09:14	29,6	Arrive A37, 31319 Sehnde		
+
+SUMMARY
+Driving distance:  29,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  33,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,3 kilometres (15 minutes)
+09:00	0,0	Depart 60 on A7 [E45] (North-West)	1,4 km	
+09:00	1,4	At 59, stay on A7 [E45] (North)	2,6 km	
+09:01	4,0	At E45, 30539 Hannover, stay on A7 [E45] (North)	3,1 km	
+09:03	7,0	At 58, keep STRAIGHT to stay on A7 [E45]	4,2 km	
+09:05	11,2	At 57, stay on A7 [E45] (North)	2,1 km	
+09:06	13,4	At E45, 30629 Hannover, stay on A7 [E45] (North)	1,6 km	
+09:07	15,0	At 56, keep STRAIGHT to stay on A7 [E45]	8,0 km	
+09:11	23,0	At 54, stay on A7 [E45] (North-West)	7,4 km	
+09:15	30,3	Arrive 52		
+
+SUMMARY
+Driving distance:  30,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  34,65 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,1 kilometres (16 minutes)
+09:00	0,0	Depart E45, 31319 Sehnde on A7 [E45] (South-East)	7,7 km	
+09:03	7,7	At E45, 31157 Sarstedt, stay on A7 [E45] (South)	6,8 km	
+09:06	14,6	At 61, keep STRAIGHT to stay on A7 [E45]	3,1 km	
+09:08	17,6	At 62, stay on A7 [E45] (South)	6,0 km	
+09:10	23,7	At E45, 31162 Bad Salzdetfurth, stay on A7 [E45] (East)	7,5 km	
+09:14	31,2	At 63, stay on A7 [E45] (South-East)	3,9 km	
+09:16	35,1	Arrive A39, 31188 Holle		
+
+SUMMARY
+Driving distance:  35,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  39,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,4 kilometres (15 minutes)
+09:00	0,0	Depart 64 on A7 [E45] (North-West)	3,5 km	
+09:01	3,5	At 63, stay on A7 [E45] (North-West)	7,0 km	
+09:04	10,5	At E45, 31162 Bad Salzdetfurth, stay on A7 [E45] (North-West)	1,4 km	
+09:05	11,9	At E45, 31174 Schellerten, stay on A7 [E45] (West)	4,8 km	
+09:07	16,7	At 62, stay on A7 [E45] (North)	3,1 km	
+09:09	19,8	At 61, stay on A7 [E45] (North-West)	6,9 km	
+09:12	26,8	At E45, 31157 Sarstedt, stay on A7 [E45] (North)	7,6 km	
+09:15	34,4	Arrive 60		
+
+SUMMARY
+Driving distance:  34,4 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  39,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  67,4 kilometres (33 minutes)
+09:00	0,0	Depart A39, 31188 Holle on A7 [E45] (South-East)	2,5 km	
+09:01	2,5	At E45, 31188 Holle, stay on A7 [E45] (South)	7,3 km	
+09:04	9,9	At 65, stay on A7 [E45] (South)	2,3 km	
+09:05	12,1	At E45, 31167 Bockenem, stay on A7 [E45] (South)	3,8 km	
+09:07	15,9	At 66, stay on A7 [E45] (South)	6,7 km	
+09:11	22,6	At 67, stay on A7 [E45] (South)	3,2 km	
+09:12	25,9	At E45, 38723 Seesen, stay on A7 [E45] (South)	6,5 km	
+09:15	32,4	At E45, 37589 Kalefeld, stay on A7 [E45] (South)	3,3 km	
+09:17	35,6	At 68, stay on A7 [E45] (West)	1,7 km	
+09:17	37,3	At E45, 37589 Kalefeld, stay on A7 [E45] (South-West)	7,3 km	
+09:21	44,6	At 69, keep STRAIGHT to stay on A7 [E45]	2,8 km	
+09:22	47,4	At E45, 37154 Northeim, stay on A7 [E45] (South)	1,6 km	
+09:23	49,0	At 70, stay on A7 [E45] (South)	8,7 km	
+09:27	57,8	At 71, stay on A7 [E45] (South)	2,5 km	
+09:29	60,3	At E45, 37176 Nörten-Hardenberg, stay on A7 [E45] (South)	7,1 km	
+09:33	67,4	Arrive 72		
+
+SUMMARY
+Driving distance:  67,4 kilometres
+Trip duration:  33 minutes
+Driving time:  33 minutes
+Cost:  74,94 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  67,7 kilometres (31 minutes)
+09:00	0,0	Depart 72 on A7 [E45] (North)	6,4 km	
+09:02	6,4	At E45, 37120 Bovenden, stay on A7 [E45] (North)	3,0 km	
+09:04	9,4	At 71, keep STRAIGHT to stay on A7 [E45]	8,7 km	
+09:08	18,1	At 70, stay on A7 [E45] (North)	1,6 km	
+09:09	19,8	At E45, 37154 Northeim, stay on A7 [E45] (North)	3,2 km	
+09:10	22,9	At 69, keep STRAIGHT to stay on A7 [E45]	7,0 km	
+09:13	29,9	At E45, 37589 Kalefeld, stay on A7 [E45] (North-East)	2,3 km	
+09:14	32,2	At 68, stay on A7 [E45] (East)	8,7 km	
+09:18	41,0	At E45, 38723 Seesen, stay on A7 [E45] (North)	3,0 km	
+09:20	44,0	At 67, stay on A7 [E45] (North)	7,3 km	
+09:23	51,3	At 66, stay on A7 [E45] (North)	3,8 km	
+09:25	55,0	At E45, 31167 Bockenem, stay on A7 [E45] (North)	2,3 km	
+09:26	57,3	At 65, stay on A7 [E45] (North)	7,3 km	
+09:29	64,6	At E45, 31188 Holle, stay on A7 [E45] (North)	3,1 km	
+09:31	67,7	Arrive 64		
+
+SUMMARY
+Driving distance:  67,7 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  75,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,1 kilometres (24 minutes)
+09:00	0,0	Depart 72 on A7 [E45] (South)	3,5 km	
+09:02	3,5	At 73, stay on A7 [E45] (South)	3,1 km	
+09:03	6,6	At E45, 37124 Rosdorf, stay on A7 [E45] (South)	4,2 km	
+09:06	10,8	At 74, stay on A7 [E45] (South)	9,7 km	
+09:11	20,5	At E45, 34346 Hann. Münden, stay on A7 [E45] (West)	1,1 km	
+09:11	21,6	At 75, stay on A7 [E45] (West)	7,5 km	
+09:15	29,1	At E45, 34346 Hann. Münden, stay on A7 [E45] (South-West)	3,8 km	
+09:17	32,9	At 76, keep STRAIGHT to stay on A7 [E45]	7,6 km	
+09:21	40,5	At E45, 34266 Niestetal, stay on A7 [E45] (South-West)	1,3 km	
+09:22	41,8	At 77, stay on A7 [E45] (South)	1,4 km	
+09:22	43,2	At 78, stay on A7 [E45] (South)	3,0 km	
+09:24	46,1	Arrive 79		
+
+SUMMARY
+Driving distance:  46,1 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  52,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,2 kilometres (24 minutes)
+09:00	0,0	Depart 79 on A7 [E45] (North-East)	3,5 km	
+09:01	3,5	At 78, keep STRAIGHT to stay on A7 [E45]	1,3 km	
+09:02	4,8	At 77, stay on A7 [E45] (North)	6,0 km	
+09:05	10,8	At E45, 34355 Staufenberg, stay on A7 [E45] (North)	3,4 km	
+09:06	14,1	At 76, stay on A7 [E45] (East)	11,4 km	
+09:12	25,5	At 75, stay on A7 [E45] (East)	0,7 km	
+09:13	26,2	At E45, 34346 Hann. Münden, stay on A7 [E45] (East)	9,3 km	
+09:18	35,6	At 74, stay on A7 [E45] (North)	3,9 km	
+09:20	39,5	At E45, 37124 Rosdorf, stay on A7 [E45] (North)	4,0 km	
+09:22	43,5	At 73, stay on A7 [E45] (North)	3,7 km	
+09:24	47,2	Arrive 72		
+
+SUMMARY
+Driving distance:  47,2 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  53,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  61,6 kilometres (30 minutes)
+09:00	0,0	Depart 79 on A7 [E45] (South-West)	1,4 km	
+09:00	1,4	At 80, stay on A7 [E45] (South-West)	11,6 km	
+09:06	13,0	At E45, 34587 Felsberg, stay on A7 [E45] (South)	6,5 km	
+09:09	19,4	At 82, stay on A7 [E45] (South-East)	3,9 km	
+09:11	23,3	At 83, stay on A7 [E45] (South)	5,9 km	
+09:14	29,2	At E45, 34593 Knüllwald, stay on A7 [E45] (South)	4,4 km	
+09:16	33,6	At 84, stay on A7 [E45] (South-West)	9,6 km	
+09:20	43,2	At E45, 36286 Neuenstein, stay on A7 [E45] (South-East)	4,6 km	
+09:23	47,8	At 85, stay on A7 [E45] (East)	9,9 km	
+09:28	57,7	At 86, stay on A7 [E40] (South)	3,9 km	
+09:30	61,6	Arrive 88		
+
+SUMMARY
+Driving distance:  61,6 kilometres
+Trip duration:  30 minutes
+Driving time:  30 minutes
+Cost:  69,28 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  62,6 kilometres (31 minutes)
+09:00	0,0	Depart 88 on A7 [E45] (West)	5,2 km	
+09:02	5,2	At 87, stay on A7 [E40] (North)	10,5 km	
+09:08	15,7	At 85, stay on A7 [E45] (West)	5,3 km	
+09:10	21,0	At E45, 36286 Neuenstein, stay on A7 [E45] (West)	9,0 km	
+09:15	29,9	At 84, stay on A7 [E45] (North-East)	3,8 km	
+09:17	33,8	At E45, 34593 Knüllwald, stay on A7 [E45] (North)	6,4 km	
+09:20	40,2	At 83, stay on A7 [E45] (North)	4,0 km	
+09:22	44,1	At 82, stay on A7 [E45] (North-West)	6,6 km	
+09:25	50,8	At E45, 34587 Felsberg, stay on A7 [E45] (North)	3,0 km	
+09:26	53,7	At 81, stay on A7 [E45] (North)	5,8 km	
+09:30	59,5	At 80, stay on A7 [E45] (North-East)	3,1 km	
+09:31	62,6	Arrive 79		
+
+SUMMARY
+Driving distance:  62,6 kilometres
+Trip duration:  31 minutes
+Driving time:  31 minutes
+Cost:  70,18 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,3 kilometres (13 minutes)
+09:00	0,0	Depart 93 on A7 [E45] (South)	1,3 km	A7 / München / Nürnberg / Würzburg
+09:00	1,3	At near Welkers, stay on A7 [E45] (South)	0,5 km	
+09:00	1,8	At E45, 36124 Eichenzell, stay on A7 [E45] (South)	2,8 km	
+09:02	4,6	At E45, 36124 Eichenzell, stay on A7 [E45] (South-East)	3,8 km	
+09:04	8,4	At E45, 36148 Kalbach, stay on A7 [E45] (South)	4,1 km	
+09:06	12,5	At E45, 36148 Kalbach, stay on A7 [E45] (South)	3,1 km	
+09:07	15,6	At near Speicherz, stay on A7 [E45] (South)	1,5 km	
+09:08	17,1	At near Speicherz, stay on A7 [E45] (East)	1,8 km	
+09:09	18,9	At 94, stay on A7 [E45] (South-East)	1,0 km	
+09:09	19,9	At E45, 97786 Bad Kissingen (Gemfr. Gebiet), stay on A7 [E45] (South-East)	5,6 km	
+09:12	25,5	At E45, 97792 Riedenberg, stay on A7 [E45] (South)	1,7 km	
+09:13	27,3	Arrive 95		
+
+SUMMARY
+Driving distance:  27,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  30,42 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,6 kilometres (13 minutes)
+09:00	0,0	Depart 95 on A7 [E45] (North)	7,3 km	
+09:03	7,3	At E45, 97786 Bad Kissingen (Gemfr. Gebiet), stay on A7 [E45] (North-West)	1,1 km	
+09:03	8,4	At 94, stay on A7 [E45] (North)	2,0 km	
+09:04	10,3	At E45, 97786 Motten, stay on A7 [E45] (West)	1,8 km	
+09:05	12,2	At near Speicherz, stay on A7 [E45] (North-West)	4,4 km	
+09:07	16,6	At E45, 36148 Kalbach, stay on A7 [E45] (North)	2,1 km	
+09:09	18,7	At E45, 36148 Kalbach, stay on A7 [E45] (North)	2,3 km	
+09:10	21,0	At E45, 36124 Eichenzell, stay on A7 [E45] (North)	3,4 km	
+09:11	24,4	At E45, 36124 Eichenzell, stay on A7 [E45] (North)	2,1 km	
+09:12	26,5	At near Welkers, stay on A7 [E45] (North)	1,2 km	
+09:13	27,6	Arrive 93		
+
+SUMMARY
+Driving distance:  27,6 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  30,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,5 kilometres (19 minutes)
+09:00	0,0	Depart 95 on A7 [E45] (South)	1,5 km	
+09:00	1,5	At near Schildeck, stay on A7 [E45] (South-East)	2,7 km	
+09:01	4,2	At E45, 97795 Schondra, stay on A7 [E45] (South)	8,6 km	
+09:05	12,8	At E45, 97723 Oberthulba, stay on A7 [E45] (South-East)	1,4 km	
+09:06	14,2	At 96, stay on A7 [E45] (South)	5,0 km	
+09:08	19,2	At near Elfershausen, stay on A7 [E45] (South)	1,6 km	
+09:09	20,7	At near Elfershausen, stay on A7 [E45] (South-West)	2,2 km	
+09:10	22,9	At 97, stay on A7 [E45] (South)	2,0 km	
+09:11	24,9	At E45, 97725 Elfershausen, stay on A7 [E45] (South)	3,6 km	
+09:13	28,5	At near Wasserlosen, stay on A7 [E45] (South-East)	2,5 km	
+09:14	31,0	At E45, 97535 Wasserlosen, stay on A7 [E45] (East)	2,2 km	
+09:15	33,2	At 98, stay on A7 [E45] (South-East)	7,3 km	
+09:19	40,5	Arrive 99		
+
+SUMMARY
+Driving distance:  40,5 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  45,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,0 kilometres (18 minutes)
+09:00	0,0	Depart 99 on A7 [E45] (North)	5,9 km	
+09:02	5,9	At E45, 97535 Wasserlosen, stay on A7 [E45] (North-West)	2,2 km	
+09:03	8,1	At 98, stay on A7 [E45] (North-West)	2,9 km	
+09:05	11,0	At E45, 97535 Wasserlosen, stay on A7 [E45] (West)	1,6 km	
+09:05	12,6	At E45, 97535 Wasserlosen, stay on A7 [E45] (North-West)	1,9 km	
+09:06	14,5	At E45, 97725 Elfershausen, stay on A7 [E45] (North-West)	3,7 km	
+09:08	18,2	At 97, keep STRAIGHT to stay on A7 [E45]	2,1 km	
+09:09	20,3	At near Elfershausen, stay on A7 [E45] (North)	1,6 km	
+09:10	21,9	At E45, 97725 Elfershausen, stay on A7 [E45] (North)	5,0 km	
+09:12	27,0	At 96, stay on A7 [E45] (North)	2,7 km	
+09:13	29,6	At E45, 97723 Oberthulba, stay on A7 [E45] (West)	6,7 km	
+09:16	36,3	At E45, 97795 Schondra, stay on A7 [E45] (North)	3,1 km	
+09:18	39,5	At E45, 97795 Schondra, stay on A7 [E45] (North-West)	1,5 km	
+09:18	41,0	Arrive 95		
+
+SUMMARY
+Driving distance:  41,0 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  45,59 kr
+
+
+Danmark/Tyskland - Ausfahrt 5
+3.9 km/3.6 km	1 min 57 s/1 min 48 s	120
+1.6 km/3.7 km	0 min 48 s/1 min 51 s
+3.3 km/1.8 km	1 min 39 s/0 min 54 s
+8.7 km/7.9 km	4 min 21 s/3 min 57 s
+5.1 km/3.5 km	2 min 33 s/1 min 45 s
+9.1 km/11.3 km	4 min 33 s/5 min 39 s
+2.2 km/1.6 km	1 min 6 s/0 min 48 s
+
+Ausfahrt 5 - Dr. Bordesholm (12)
+5.0 km/6.0 km	2 min 30 s/2 min 60 s	120
+7.5 km/5.4 km	3 min 45 s/2 min 42 s
+4.2 km/5.8 km	2 min 6 s/2 min 54 s
+4.7 km/4.8 km	2 min 21 s/2 min 24 s
+2.7 km/2.8 km	1 min 21 s/1 min 24 s
+1.6 km/1.1 km	0 min 48 s/0 min 33 s
+1.5 km/1.9 km	0 min 45 s/0 min 57 s
+2.5 km/3.0 km	1 min 15 s/1 min 30 s
+3.9 km/2.4 km	1 min 57 s/1 min 12 s
+8.7 km/9.4 km	4 min 21 s/4 min 42 s
+3.6 km/6.0 km	1 min 48 s/2 min 60 s
+3.5 km/1.2 km	1 min 45 s/0 min 36 s
+3.9 km/1.5 km	1 min 57 s/0 min 45 s
+
+Dr. Bordesholm (12) - Schleswig./Hamburg
+3.3 km/5.4 km	1 min 39 s/2 min 42 s	120
+3.1 km/3.9 km	1 min 33 s/1 min 57 s
+2.6 km/2.5 km	1 min 18 s/1 min 15 s
+3.5 km/2.9 km	1 min 45 s/1 min 27 s
+3.0 km/3.5 km	1 min 30 s/1 min 45 s
+1.2 km/1.1 km	0 min 36 s/0 min 33 s
+7.0 km/9.0 km	3 min 30 s/4 min 30 s
+4.4 km/1.9 km	2 min 12 s/0 min 57 s
+1.5 km/2.5 km	0 min 45 s/1 min 15 s
+4.5 km/4.0 km	2 min 15 s/1 min 60 s
+3.4 km/3.3 km	1 min 42 s/1 min 39 s
+1.9 km/2.1 km	0 min 57 s/1 min 3 s
+3.8 km/2.9 km	1 min 54 s/1 min 27 s
+3.3 km/4.1 km	1 min 39 s/2 min 3 s
+2.8 km/3.1 km	1 min 24 s/1 min 33 s
+5.3 km/5.3 km	2 min 39 s/2 min 39 s
+2.4 km/1.7 km	1 min 12 s/0 min 51 s
+
+Schleswig./Hamburg - Ausfahrt 29
+0.5 km/1.3 km	0 min 18 s/0 min 47 s	100
+1.3 km/0.8 km	0 min 47 s/0 min 29 s
+2.2 km/2.8 km	1 min 19 s/1 min 41 s
+2.8 km/2.1 km	1 min 41 s/1 min 16 s
+1.2 km/1.2 km	0 min 43 s/0 min 43 s
+2.3 km/2.7 km	1 min 23 s/1 min 37 s
+1.2 km/0.9 km	0 min 43 s/0 min 32 s
+
+Ausfahrt 29 - Holster Dreieck (37)
+3.4 km/2.9 km	2 min 2 s/1 min 44 s	100
+2.4 km/3.3 km	1 min 26 s/1 min 59 s
+4.2 km/3.7 km	2 min 31 s/2 min 13 s
+1.6 km/1.9 km	0 min 58 s/1 min 8 s
+3.5 km/2.9 km	2 min 6 s/1 min 44 s
+1.2 km/1.4 km	0 min 43 s/0 min 50 s
+2.0 km/2.3 km	1 min 12 s/1 min 23 s
+1.8 km/1.9 km	1 min 5 s/1 min 8 s
+2.0 km/1.5 km	1 min 12 s/0 min 54 s
+3.9 km/4.1 km	2 min 20 s/2 min 28 s
+
+Holster Dreieck (37) - Ausfahrt 43
+2.6 km/2.7 km	1 min 18 s/1 min 21 s	120
+0.8 km/0.6 km	0 min 24 s/0 min 18 s
+1.0 km/1.1 km	0 min 30 s/0 min 33 s
+3.6 km/3.5 km	1 min 48 s/1 min 45 s
+1.6 km/1.6 km	0 min 48 s/0 min 48 s
+4.3 km/4.3 km	2 min 9 s/2 min 9 s
+1.5 km/1.5 km	0 min 45 s/0 min 45 s
+1.4 km/1.1 km	0 min 42 s/0 min 33 s
+4.2 km/4.5 km	2 min 6 s/2 min 15 s
+3.3 km/3.9 km	1 min 39 s/1 min 57 s
+3.4 km/2.9 km	1 min 42 s/1 min 27 s
+2.2 km/2.4 km	1 min 6 s/1 min 12 s
+2.9 km/3.1 km	1 min 27 s/1 min 33 s
+1.1 km/1.2 km	0 min 33 s/0 min 36 s
+
+Ausfahrt 43 - Dr. Walsrode (48)
+2.2 km/1.5 km	1 min 6 s/0 min 45 s	120
+4.2 km/6.1 km	2 min 6 s/3 min 3 s
+4.5 km/3.0 km	2 min 15 s/1 min 30 s
+0.9 km/1.4 km	0 min 27 s/0 min 42 s
+5.5 km/3.7 km	2 min 45 s/1 min 51 s
+2.4 km/2.6 km	1 min 12 s/1 min 18 s
+3.2 km/3.3 km	1 min 36 s/1 min 39 s
+4.1 km/4.7 km	2 min 3 s/2 min 21 s
+2.4 km/2.3 km	1 min 12 s/1 min 9 s
+0.7 km/3.0 km	0 min 21 s/1 min 30 s
+5.7 km/3.4 km	2 min 51 s/1 min 42 s
+4.8 km/4.8 km	2 min 24 s/2 min 24 s
+2.3 km/3.6 km	1 min 9 s/1 min 48 s
+
+Dr. Walsrode (48) - Hannover-Nord (53)
+2.1 km/1.2 km	1 min 3 s/0 min 36 s	120
+4.6 km/4.1 km	2 min 18 s/2 min 3 s
+4.1 km/4.5 km	2 min 3 s/2 min 15 s
+1.2 km/0.8 km	0 min 36 s/0 min 24 s
+0.8 km/1.1 km	0 min 24 s/0 min 33 s
+4.7 km/4.1 km	2 min 21 s/2 min 3 s
+3.4 km/4.1 km	1 min 42 s/2 min 3 s
+4.6 km/4.5 km	2 min 18 s/2 min 15 s
+2.4 km/1.7 km	1 min 12 s/0 min 51 s
+1.6 km/1.6 km	0 min 48 s/0 min 48 s
+
+Hannover-Nord (53) - Hannover-Süd (60)
+6.3 km/7.4 km	3 min 26 s/4 min 2 s	110
+6.6 km/8.0 km	3 min 36 s/4 min 22 s
+3.8 km/1.6 km	2 min 4 s/0 min 52 s
+0.7 km/2.1 km	0 min 23 s/1 min 9 s
+4.5 km/4.2 km	2 min 27 s/2 min 17 s
+2.8 km/3.1 km	1 min 32 s/1 min 41 s
+3.3 km/2.6 km	1 min 48 s/1 min 25 s
+1.5 km/1.4 km	0 min 49 s/0 min 46 s
+
+Hannover-Süd (60) - Salzgitter (64)
+7.7 km/7.6 km	3 min 51 s/3 min 48 s	120
+6.8 km/6.9 km	3 min 24 s/3 min 27 s
+3.1 km/3.1 km	1 min 33 s/1 min 33 s
+5.1 km/4.8 km	2 min 33 s/2 min 24 s
+0.9 km/1.4 km	0 min 27 s/0 min 42 s
+7.5 km/7.0 km	3 min 45 s/3 min 30 s
+3.9 km/3.5 km	1 min 57 s/1 min 45 s
+
+Salzgitter (64) - Ausfahrt 72
+2.5 km/3.1 km	1 min 15 s/1 min 33 s	120
+7.3 km/7.3 km	3 min 39 s/3 min 39 s
+2.3 km/2.3 km	1 min 9 s/1 min 9 s
+3.8 km/3.8 km	1 min 54 s/1 min 54 s
+6.7 km/7.3 km	3 min 21 s/3 min 39 s
+3.2 km/3.0 km	1 min 36 s/1 min 30 s
+6.5 km/6.1 km	3 min 15 s/3 min 3 s
+3.3 km/2.6 km	1 min 39 s/1 min 18 s
+1.7 km/2.3 km	0 min 51 s/1 min 9 s
+7.3 km/7.0 km	3 min 39 s/3 min 30 s
+1.9 km/2.1 km	0 min 57 s/1 min 3 s
+0.9 km/1.1 km	0 min 27 s/0 min 33 s
+1.6 km/1.6 km	0 min 48 s/0 min 48 s
+8.7 km/8.7 km	4 min 21 s/4 min 21 s
+2.5 km/3.0 km	1 min 15 s/1 min 30 s
+7.1 km/6.4 km	3 min 33 s/3 min 12 s
+
+Ausfahrt 72 - Ausfahrt 75
+3.5 km/3.7 km	1 min 45 s/1 min 51 s	120
+3.1 km/4.0 km	1 min 33 s/2 min 0 s
+4.2 km/3.9 km	2 min 6 s/1 min 57 s
+9.7 km/9.3 km	4 min 51 s/4 min 39 s
+1.1 km/0.7 km	0 min 33 s/0 min 21 s
+
+Ausfahrt 75 - Ausfahrt 77
+4.0 km/4.3 km	2 min 11 s/2 min 21 s	110
+3.5 km/3.3 km	1 min 55 s/1 min 48 s
+3.8 km/3.8 km	2 min 4 s/2 min 4 s
+3.3 km/3.4 km	1 min 48 s/1 min 51 s
+2.0 km/1.7 km	1 min 5 s/0 min 56 s
+2.3 km/2.7 km	1 min 15 s/1 min 28 s
+1.3 km/1.6 km	0 min 43 s/0 min 52 s
+
+Ausfahrt 77 - Ausfahrt 79
+1.4 km/1.3 km	0 min 50 s/0 min 47 s	100
+3.0 km/3.5 km	1 min 48 s/2 min 6 s
+
+Ausfahrt 79 - Ausfahrt 80
+1.4 km/3.1 km	0 min 50 s/1 min 52 s	100
+
+Ausfahrt 80 - Ausfahrt 88
+7.9 km/5.8 km	4 min 19 s/3 min 10 s	110
+3.7 km/3.0 km	2 min 1 s/1 min 38 s
+6.5 km/6.6 km	3 min 33 s/3 min 36 s
+3.9 km/4.0 km	2 min 8 s/2 min 11 s
+5.9 km/6.4 km	3 min 13 s/3 min 29 s
+4.4 km/3.8 km	2 min 24 s/2 min 4 s
+9.6 km/9.0 km	5 min 14 s/4 min 55 s
+4.6 km/5.3 km	2 min 31 s/2 min 53 s
+9.9 km/10.5 km	5 min 24 s/5 min 44 s
+3.9 km/5.2 km	2 min 8 s/2 min 50 s

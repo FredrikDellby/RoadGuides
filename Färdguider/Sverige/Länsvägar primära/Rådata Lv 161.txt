@@ -1,0 +1,18 @@
+Time	Km	Instruction	For	Toward
+Summary:  14,1 kilometres (18 minutes)
+09:00	0,0	Depart Korsning on 161 (East)	1,7 km	
+09:01	1,7	At near Finnsbo, stay on 161 (East)	0,3 km	
+09:01	2,0	*Check timetable* Stay on 161 [Gullmarsleden] (East)	10 m	
+09:06	2,0	At near Lögås, stay on 161 (South)	1,4 km	
+09:07	3,4	At T-korsning Prästgårdsvägen, stay on 161 (East)	1,0 km	
+09:08	4,4	At T-korsning Bokenäs K:a, stay on 161 (East)	0,5 km	
+09:09	4,9	At T-korsning Bokenäs skola, stay on 161 [BÖN] (East)	5,5 km	
+09:14	10,4	At T-korsning Berghogen, stay on 161 (North)	3,7 km	
+09:18	14,1	Arrive 161, 451 96 Uddevalla		
+
+SUMMARY
+Driving distance:  14,1 kilometres
+Trip duration:  18 minutes
+Driving time:  14 minutes
+Cost:  16,81 kr
+

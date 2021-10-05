@@ -1,0 +1,48 @@
+Reseguide Väg 177 Vännacka-Åmotfors
+====================================
+
+T-korsning Vännacka västra
+					0,5 km/0,5 km	26 s/26 s
+T-korsning Vännacka norra
+					6,7 km/6,7 km	345 s/345 s
+Årjäng / Koppom
+					8,0 km/8,0 km	411 s/411 s
+T-korsning
+ Östervallskog, Skillingmark
+					1,0 km/1,0 km	51 s/51 s
+T-korsning Järnskogs kyrka
+ Beted
+					1,1 km/1,1 km	57 s/57 s
+Tankställe Koppom
+ Bensinstation: Uno-X
+					0,9 km/0,9 km	46 s/46 s
+Korsning Koppom Torget
+ Hovsten
+					2,9 km/2,9 km	149 s/149 s
+T-korsning
+ Solberga, Hovsten
+					1,6 km/1,6 km	82 s/82 s
+T-korsning
+ Arvika, Sulvik
+					2,7 km/2,7 km	139 s/139 s
+T-korsning Rudsgården
+ Köla
+					2,9 km/2,9 km	149 s/149 s
+T-korsning Flogned väst
+ Hallebol
+					1,3 km/1,3 km	67 s/67 s
+T-korsning Flogned mitt
+ Skillingsfors, Köla
+					4,2 km/4,2 km	216 s/216 s
+T-korsning
+ By
+					1,5 km/1,5 km	77 s/77 s
+T-korsning Åmotfors syd
+ Jössefors, Ottebol
+					1,0 km/1,0 km	51 s/51 s
+T-korsning Åmotfors centrum
+ [61]: Karlstad
+					1,0 km/1,0 km	51 s/51 s
+T-korsning Åmotfors nord
+ 61 n: Kongsvinger
+ 61 s: Karlstad

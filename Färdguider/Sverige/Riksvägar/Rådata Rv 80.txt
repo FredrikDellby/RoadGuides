@@ -1,0 +1,80 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,2 kilometres (9 minutes)
+09:00	0,0	Depart 80, 791 38 Falun on Local road(s) (South)	90 m	
+09:00	0,1	Bear RIGHT (North) onto 50 [80]	0,6 km	
+09:00	0,7	At T-korsning Rv50/Rv80, keep STRAIGHT onto 80 [Lugnetleden]	1,9 km	
+09:02	2,6	At roundabout, take the SECOND exit onto 80 [Lugnetleden]	0,9 km	
+09:03	3,5	At roundabout, take the SECOND exit onto 80 [Lugnetleden]	0,8 km	
+09:04	4,2	At roundabout, take the SECOND exit onto 80 [Lugnetleden]	1,2 km	
+09:05	5,4	At Lugnetleden, 791 43 Falun, stay on 80 [Lugnetleden] (East)	1,0 km	
+09:06	6,4	At Lugnetleden, 791 43 Falun, stay on 80 (South-East)	1,7 km	
+09:07	8,1	At roundabout, take the SECOND exit onto 80 [Korsnäsvägen]	0,6 km	
+09:07	8,6	At Korsnäsvägen, 791 46 Hosjö, stay on 80 [Korsnäsvägen] (East)	0,3 km	
+09:08	8,9	At 80, 791 46 Hosjö, stay on 80 (East)	0,8 km	
+09:08	9,8	At 80, 791 46 Hosjö, stay on 80 (East)	1,4 km	
+09:09	11,2	Arrive 80, 791 46 Hosjö		
+
+SUMMARY
+Driving distance:  11,2 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  19,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,1 kilometres (9 minutes)
+09:00	0,0	Depart 80, 791 46 Hosjö on 80 (West)	1,1 km	
+09:00	1,1	At 80, 791 46 Hosjö, stay on 80 (West)	1,0 km	
+09:01	2,1	At 80, 791 46 Hosjö, stay on 80 (West)	0,4 km	
+09:01	2,5	At Korsnäsvägen, 791 46 Hosjö, stay on 80 [Korsnäsvägen] (West)	0,6 km	
+09:02	3,1	At roundabout, take the SECOND exit onto 80 [Korsnäsvägen]	1,2 km	
+09:03	4,3	At 80, 791 44 Falun, stay on 80 (North-West)	1,0 km	
+09:04	5,3	At Lugnetleden, 791 43 Falun, keep STRAIGHT to stay on 80 [Lugnetleden]	1,7 km	
+09:05	7,0	At roundabout, take the FIRST exit onto 80 [Lugnetleden]	0,7 km	
+09:06	7,7	At roundabout, take the SECOND exit onto 80 [Lugnetleden]	0,9 km	
+09:07	8,6	At roundabout, take the SECOND exit onto 80 [Lugnetleden]	1,9 km	
+09:09	10,5	At T-korsning Rv50/Rv80, road name changes to 50 [80]	0,6 km	
+09:09	11,1	Arrive 80, 791 38 Falun		
+
+SUMMARY
+Driving distance:  11,1 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  19,28 kr
+
+10.3 km/10.2 km	8 min 50 s/8 min 45 s
+
+Resultat:
+3.3 km/3.3 km	2 min 28 s/2 min 28 s
+3.5 km/3.6 km	2 min 38 s/2 min 42 s
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+5.3 km/5.2 km	3 min 59 s/3 min 54 s
+
+Resultat:
+1.2 km/1.4 km	1 min 12 s/1 min 24 s
+1.1 km/1.0 km	1 min 6 s/1 min 0 s
+
+Resultat:
+3.5 km/3.4 km	2 min 38 s/2 min 33 s
+
+1.6 km/1.6 km	1 min 55 s/1 min 55 s
+0.9 km/0.9 km	1 min 5 s/1 min 5 s
+
+Resultat:
+3.3 km/3.2 km	2 min 28 s/2 min 24 s
+5.0 km/5.0 km	3 min 45 s/3 min 45 s
+
+0.6 km/0.7 km	31 s/36 s
+
+0.7 km/0.6 km	36 s/31 s
+1.9 km/1.9 km	1 min 38 s/1 min 38 s
+0.9 km/0.9 km	46 s/46 s
+0.8 km/0.7 km	41 s/36 s
+
+Resultat:
+1.2 km/1.7 km	0 min 54 s/1 min 17 s
+1.0 km/1.0 km	45 s/45 s
+1.7 km/1.2 km	1 min 17 s/0 min 54 s
+0.6 km/0.6 km	27 s/27 s
+0.3 km/0.4 km	14 s/18 s
+0.8 km/1.0 km	36 s/45 s
+1.4 km/1.1 km	1 min 3 s/0 min 50 s

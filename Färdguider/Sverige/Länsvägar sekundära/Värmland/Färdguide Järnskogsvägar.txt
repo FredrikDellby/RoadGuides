@@ -1,0 +1,70 @@
+Färdguide Södra Skillingmarksvägen (väg 622)
+============================================
+19,1 km/19,1 km
+
+T-korsning
+ 177 n: Åmotfors, Koppom
+ 177 s: Årjäng
+					0,4 km/0,4 km	21 s/21 s
+Korsning
+ Beted
+					1,0 km/1,1 km	51 s/57 s
+Kölaälven
+					2,9 km/2,9 km	2 min 29 s/2 min 29 s
+Kölaälven
+					0,6 km/0,5 km	31 s/26 s
+T-korsning Dammen
+ Östervallskog
+					5,7 km/5,7 km	4 min 53 s/4 min 53 s
+T-korsning Påterud
+ Hovsten
+					2,8 km/2,8 km	2 min 24 s/2 min 24 s
+T-korsning
+ Enskild väg
+					4,8 km/4,8 km	4 min 7 s/4 min 7 s
+T-korsning
+ 					1,0 km/1,0 km	51 s/51 s
+T-korsning Skillingsfors V
+ Charlottenberg, Adolfsfors
+
+Hovstensvägen (väg 623/626)
+============================
+5,8 km/5,8 km
+
+Korsning Koppom Torget
+ 177 s: Årjäng
+ 177 n: Åmotfors
+					0,4 km/0,4 km	29 s/29 s
+Koppoms bygdegård
+					0,2 km/0,2 km	14 s/14 s
+Kölaälven
+					0,4 km/0,4 km	29 s/29 s
+T-korsning Koppoms bruk
+					1,2 km/1,2 km	1 min 26 s/1 min 26 s
+T-korsning
+					0,5 km/0,5 km	36 s/36 s
+T-korsning Hovsten
+ Påterud
+					2,7 km/2,7 km	3 min 14 s/3 min 14 s
+Korsning Tömte
+ Enskild väg
+					0,6 km/0,6 km	43 s/43 s
+T-korsning Solberga
+ Koppom
+ Adolfsfors
+
+Påterudsvägen (väg 623)
+========================
+6,3 km/6,3 km
+
+T-korsning Påterud
+ Koppom
+ Skillingsfors
+					0,9 km/1,0 km	1 min 5 s/1 min 12 s
+Kölaälven
+					1,7 km/1,6 km	2 min 2 s/1 min 55 s
+Camping Norstugan
+					3,7 km/3,7 km	4 min 26 s/4 min 26 s
+T-korsning Hovsten
+ Koppom
+ Solberga

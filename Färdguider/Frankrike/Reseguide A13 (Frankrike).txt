@@ -1,0 +1,161 @@
+Port d'Auteuil
+
+Tunnel-est
+Sortie 1 (avfart östgående)
+
+Tunnel-ouest
+Sortie 2 (avfart östgående)
+
+(Seine)
+
+Sortie 3
+(avfart östgående riktning
+påfart västgående riktning)
+Tunnel-est
+
+Tunnel-ouest
+Sortie 4 (avfart östgående)
+
+Sortie 5
+Hauts-de-Seine / Yvelines
+Échangeur
+ A86 n:
+ A86 s:
+
+Sortie 6
+Échangeur
+ A12
+
+Sortie 7
+Échanguer
+ A14
+
+Aire de Morainvilliers
+
+Sortie 8
+
+Sortie 9
+
+Aire d'Épône
+
+Sortie 10
+
+Sortie 11
+
+Sortie 12
+
+Sortie 13
+(avfart västgående riktning
+påfart östgående riktning)
+
+Aire de Rosny-sur-Seine
+Gazole: Shell, Carrefour
+
+Sortie 14
+(avfart västgående riktning
+påfart östgående riktning)
+
+Sortie 15
+
+Île-de-France / Haute-Normandie
+Yvelines / Eure
+
+Aire de Douains
+
+Sortie 16
+
+Aire de Beauchêne
+
+Sortie 17
+
+Sortie 18
+(avfart västgående riktning
+påfart östgående riktning)
+
+Aire de Vironvay
+Gazole: BP, Shell
+
+Sortie 19
+(avfart västgående riktning
+påfart östgående riktning)
+Restaurang: McDonald's
+Hotel: Mercure, Formule 1
+
+Échanguer entre A13 et A154
+(avfart östgående riktning
+påfart västgående riktning)
+ A514:
+
+Aire de Bord
+
+Sortie 20
+
+Sortie 21
+Gazole: Carrefour
+Restaurang: Quick, McDonald's
+
+Sortie 22
+
+Échangeur A13 et A139
+(avfart västgående riktning
+påfart östgående riktning)
+
+Sortie 23
+(avfart östgående riktning
+påfart västgående riktning)
+
+Aire de Robert-le-Diable
+(västgående riktning)
+
+Sortie 24
+
+Aire de Bosgouet
+Gazole: Shell
+        Total
+
+Échangeur A13 et A28
+ A28 s: Le Mans
+
+Sortie 25
+
+Aire de Rougemontiers
+(västgående riktning)
+Aire de Etarquerage
+(östgående riktning)
+
+Sortie 26
+(avfart västgående riktning
+påfart östgående riktning)
+
+Échangeur A13 et A131 (27)
+(avfart västgående riktning
+påfart östgående riktning)
+ A131: Le Havre
+
+Aire de Josapha (västgående)
+Aire de Moulin (östgående)
+
+Sortie 28
+
+Aire de Beuzeville
+Gazole: Totale
+        Esso
+Échangeur A13 et A29
+ A29: Le Havre
+
+Sortie 29
+Échangeur A13 et A132
+
+Sortie 29a
+
+Aire de Annebault (västgående)
+Aire de Beaumont (östgående)
+
+Sortie 29b
+
+Sortie 30
+
+Aire de Giberville
+Gazole:
+
+Sortie 31

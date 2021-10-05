@@ -1,0 +1,78 @@
+Time	Km	Instruction	For	Toward
+Summary:  6,8 kilometres (6 minutes)
+09:00	0,0	Depart T-korsning Kungshamn N on 174 [Dinglevägen] (North)	1,6 km	
+09:01	1,6	At Korsning Väjern, stay on 174 [Dinglevägen] (North-East)	3,8 km	
+09:04	5,3	At T-korsning Ramsviksvägen, stay on 174 (North)	1,5 km	
+09:06	6,8	Arrive 174, 450 46 Hunnebostrand		
+
+SUMMARY
+Driving distance:  6,8 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  8,28 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,8 kilometres (6 minutes)
+09:00	0,0	Depart 174 15, 450 46 Hunnebostrand on Local road(s) (West)	40 m	
+09:00	0,1	Turn RIGHT (South) onto 174	1,5 km	
+09:01	1,5	At T-korsning Ramsviksvägen, stay on 174 (South)	3,8 km	
+09:04	5,3	At Korsning Väjern, stay on 174 [Dinglevägen] (South-West)	1,5 km	
+09:06	6,8	Arrive Dinglevägen 44, 456 31 Kungshamn		
+
+SUMMARY
+Driving distance:  6,8 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  8,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,0 kilometres (21 minutes)
+09:00	0,0	Depart 174, 450 46 Hunnebostrand on Local road(s) (East)	40 m	
+09:00	0,1	Turn RIGHT (North) onto 174 [Kungshamnsvägen]	1,4 km	
+09:01	1,4	At T-korsning Hunnebostrand S, stay on 174 [Dinglevägen] (North)	0,4 km	
+09:02	1,8	At Shell [Dinglevägen 450 46, Hunnebostrand, Sverige, Tel: +46 523-50068], stay on 174 [Dinglevägen] (North-East)	0,5 km	
+09:02	2,3	At T-korsning Hunnebostrand, stay on 174 [Dinglevägen] (North-East)	1,6 km	
+09:04	3,9	At T-korsning Uleberg, stay on 174 [Dinglevägen] (North)	1,9 km	
+09:06	5,8	At T-korsning Kvarnforsen, stay on 174 [Dinglevägen] (North)	1,6 km	
+09:07	7,4	At T-korsning Bovallstrand S, stay on 174 [Kyrkogatan] (North)	0,7 km	
+09:08	8,1	At T-korsning Bovallstrand N, stay on 174 [Dinglevägen] (North-East)	1,6 km	
+09:10	9,7	At T-korsning Sjöbackarna, stay on 174 [Brygge] (East)	0,9 km	
+09:10	10,6	At Korsning Brygge, stay on 174 [Brygge] (East)	3,7 km	
+09:13	14,3	At T-korsning Evja vägskäl, stay on 174 [Evja] (East)	0,9 km	
+09:14	15,2	At Eldsbacka 11, 450 52 Dingle, stay on 174 [Eldsbacka] (East)	1,4 km	
+09:15	16,6	At T-korsning Furulund, stay on 174 (East)	1,6 km	
+09:16	18,2	At T-korsning Orreberg, stay on 174 (East)	0,9 km	
+09:17	19,1	At T-korsning Åseby, stay on 174 (East)	3,9 km	
+09:21	23,0	Arrive 165, 450 52 Dingle		
+
+SUMMARY
+Driving distance:  23,0 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  27,92 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,2 kilometres (21 minutes)
+09:00	0,0	Depart 174, 450 52 Dingle on 165 [174] (West)	0,3 km	
+09:00	0,3	Road name changes to 174	3,9 km	
+09:04	4,2	At T-korsning Åseby, stay on 174 (West)	0,9 km	
+09:05	5,0	At T-korsning Orreberg, stay on 174 (West)	1,6 km	
+09:06	6,7	At T-korsning Furulund, stay on 174 (West)	1,4 km	
+09:07	8,1	At Rambergskog, 450 52 Dingle, stay on 174 [Rambergskog] (West)	0,9 km	
+09:08	9,0	At T-korsning Evja vägskäl, stay on 174 [Evja] (West)	3,7 km	
+09:10	12,7	At Korsning Brygge, stay on 174 [Brygge] (West)	0,9 km	
+09:11	13,5	At T-korsning Sjöbackarna, stay on 174 [Dinglevägen] (West)	1,6 km	
+09:13	15,2	At T-korsning Bovallstrand N, stay on 174 [Kyrkogatan] (South)	0,7 km	
+09:14	15,8	At T-korsning Bovallstrand S, stay on 174 [Sotenäsvägen] (South)	1,6 km	
+09:15	17,5	At T-korsning Kvarnforsen, stay on 174 [Dinglevägen] (South-West)	1,7 km	
+09:16	19,1	At T-korsning Uleberg, stay on 174 [Dinglevägen] (South)	1,8 km	
+09:18	20,9	At T-korsning Hunnebostrand, stay on 174 [Dinglevägen] (South-West)	0,5 km	
+09:19	21,4	At Shell [Dinglevägen 450 46, Hunnebostrand, Sverige, Tel: +46 523-50068], stay on 174 [Dinglevägen] (South-West)	0,4 km	
+09:20	21,9	At T-korsning Hunnebostrand S, stay on 174 [Kungshamnsvägen] (South)	1,4 km	
+09:21	23,2	Arrive Kungshamnsvägen 15, 450 46 Hunnebostrand		
+
+SUMMARY
+Driving distance:  23,2 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  28,19 kr

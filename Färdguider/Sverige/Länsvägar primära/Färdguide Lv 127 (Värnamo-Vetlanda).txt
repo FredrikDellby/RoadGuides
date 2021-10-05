@@ -1,0 +1,31 @@
+Färdguide Lv 127 Vrigstad - Sävsjö
+===================================
+
+T-korsning Vrigstad
+ 30 s: Växjö, Lammhult
+ 30 n: Jönköping, Vaggeryd
+ 127 v: Vetlanda
+					0.3 km/0.3 km	27 s/27 s
+T-korsning Vrigstad Ö
+ Stockaryd
+					3.3 km/3.3 km	2 min 50 s/2 min 50 s
+T-korsning Stenhultsvägen
+ Malmbäck, Hylletofta
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+Korsning Nöbbele
+ N. Ljunga
+					3.1 km/3.1 km	2 min 20 s/2 min 20 s
+Korsning Norra Ljungavägen
+ N. Ljunga
+ Bringetofta
+					3.3 km/3.3 km	2 min 28 s/2 min 28 s
+T-korsning
+ Sävsjö Centrum
+					0.2 km/0.2 km	14 s/14 s
+Järnvägsbro
+					0.2 km/0.2 km	14 s/14 s
+T-korsning
+ Stockaryd, Hjärtlanda
+					0.7 km/0.7 km	50 s/50 s
+T-korsning Sävsjö Ö
+ 128: Eksjö, Nässjö

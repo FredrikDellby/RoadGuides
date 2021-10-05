@@ -1,0 +1,657 @@
+Reseguide E16 Bærum - Hallingbrua
+==================================
+
+Etapp: Sandvika - Skui ()
+
+Kjørbokrysset (16)
+ E18 ø: Oslo, Lysaker
+ E18 v: Kristiansand, Drammen
+Bjørnegårdtunnelen-syd (2 247 m/)
+
+Bjørnegårdtunnelen-nord (/2 355 m)
+
+Kryss Vebekk (2)
+ Fv1642
+
+Kryss Rud (3)
+ 168: Bærums Verk, Kolsås
+ Bensinstasjon: Shell
+					0,6 km/0,6 km	31 s/31 s
+(Isielva)
+					0,5 km/0,5 km	23 s/23 s
+Brennetunnelen-syd
+					1,2 km/1,5 km	0 min 48 s/1 min 0 s
+(Brennetunnelen-nord
+
+Krys Skui (4)
+ 160: Kolsås, Rykinn
+
+Etapp: Skui - Skaret/Lauvkastet ()
+
+Skuitunnelen-syd)
+					1,9 km/1,6 km	1 min 16 s/1 min 4 s
+Skuitunnelen-nord
+					0,4 km/0,5 km	16 s/20 s
+Kryss Isiveien (5)
+(avfart nordgående riktning
+påfart sydgående riktning)
+					0,8 km/0,7 km	36 s/32 s
+Bjørum sag bru (129 m)
+ Isielva
+
+T-korsning E16/Fv 168
+ Skui
+
+Parkeringsplass (vestgående)
+					1,0 km/1,0 km	45 s/45 s
+(T-korsning Rustan)
+					1,2 km/1,2 km	54 s/54 s
+(T-korsning)
+
+(T-korsning Brenna)
+					0,9 km/0,9 km	41 s/41 s
+Mitträcke ender/begynner
+					2,3 km/2,4 km	2 min 18 s/2 min 24 s
+Akershus / Buskerud
+Bærum / Hole
+					0,5 km/0,4 km	30 s/24 s
+Dubbel T-korsning Sollihøgda
+ Sollihøgda kapell
+ Sollihøgda næringspark
+					0,4 km/0,4 km	24 s/24 s
+Mitträcke
+ börjar (nordgående)
+ slutar (sydgående)
+					1,8 km/1,8 km	1 min 21 s/1 min 21 s
+Kryss Skaret
+(avfart nordgående riktning
+påfart sydgående riktning)
+ 285: Drammen
+(Skarettunnelen-syd)
+					0,7 km/0,6 km	32 s/27 s
+Etapp: Skaret/Lauvkastet - Sundvollen ()
+
+Skarettunnelen-nord
+					0,3 km/0,3 km	14 s/14 s
+Kryss Lauvkastet
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 285: Drammen
+					1.0 km/1.0 km	40 s/40 s
+Parkeringsplass (sydgående)
+
+Kryss E16/Fv155
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Fv2848: Nes i Hole
+
+Nestunnelen-syd (1 290 m)
+					1.6 km/1.6 km	1 min 4 s/1 min 4 s
+Nestunnelen-nord
+					3.0 km/3.0 km	2 min 0 s/2 min 0 s
+Infoplass Trappa/Jotaveien
+					3.3 km/3.0 km	2 min 12 s/2 min 0 s
+Kryss Rørvik
+ Fv2848: Nes i Hole, Tyrifjord
+					0.7 km/0.8 km	42 s/48 s
+T-korsning Rørvik Camping
+					1.2 km/1.2 km	1 min 12 s/1 min 12 s
+T-korsning Sundvollen
+ Åsa, Sundvollen
+ Bensinstasjon: Esso
+ Restaurant: Kleivstua
+ Hotel: Sundvolden
+
+Kroksund bru (105 m)
+ Tyrifjorden, også molo
+					0.7 km/0.9 km	0 min 42 s/0 min 54 s
+T-korsning Kroksund
+ ingen skyltning
+					2.4 km/2.3 km	2 min 3 s/1 min 58 s
+Garntangen Gatekjøkken
+(vestgående retning)
+
+Kryss Vik
+ Fv2854: Røyse, Vik
+ Rasteplass Vik
+ Bensinstasjon: Circle-K, Shell
+					1.2 km/1.4 km	0 min 54 s/1 min 3 s
+Påfart (østgående)
+
+Kryss Steinsåsen
+(ej påfart østgående)
+					1.2 km/1.0 km	54 s/45 s
+T-korsning Steinsalléen
+ Selte
+					1.0 km/1.0 km	45 s/45 s
+T-korsning E16/Vollgata
+ Fv2852: Åsa
+					0.6 km/0.6 km	27 s/27 s
+T-korsning Sonerud
+ Hole kirke
+					0.8 km/0.8 km	36 s/36 s
+Hole / Ringerike
+					1.0 km/1.0 km	45 s/45 s
+Kryss Norderhov
+ Fv2854: Røyse
+ Norderhov kirke
+					0.5 km/0.6 km	23 s/27 s
+T-korsning Hønensvingen E16
+ 241: Jevnaker, Klekken
+					1.6 km/1.7 km	1 min 12 s/1 min 17 s
+Kryss Hvervenkastet
+ 290: Hønefoss S, Sykehus
+ Eikli, Hvervenmoen
+ Bensinstasjon: Esso
+ Hotel/Restaurant: Ringerike Gjestegård
+					1.3 km/1.5 km	0 min 59 s/1 min 8 s
+Storelva bru (185 m)
+ Storelva
+					1.0 km/0.8 km	45 s/36 s
+Kryss Bærenga
+ 35(0): Hokksund, Vikersund
+ Hønefoss Sentrum
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+Rondell E16/Rv 7
+ 7: Bergen, Gol
+(Jernbaneviadukt)
+ Bergensbanen
+
+Etapp: Førbi Hønefoss ()
+
+Kryss Veien
+ 290: Hønefoss
+ Fv2876 fra Heradsbygda
+
+T-korsning Follum E16
+ Fv2872: Vestre Ådal
+ Kilemoen industri
+
+Jernbaneviadukt
+ Randsfjordsbanen
+
+Begnamoen bru (179 m)
+ Begna
+
+Rasteplass (østgående)
+
+Kryss Nymoen
+ E16: Kongsvinger, Gardemoen
+ Hønefoss N
+ Hen
+
+Etapp: Hønefoss - Ringmoen ()
+
+T-korsning Vågård E16
+ Vågård, Hensmoen industri
+ Bensinstasjon: Circle-K Truck, YX Truck
+
+Hensmoen bru (13 m)
+ Randsfjordbanen
+
+Rasteplass Kudalen
+
+T-korsning Skårflågan
+ Hen
+
+T-korsning Nordre Grønvoll
+ Grønvoldsgrenda
+
+(T-korsning Delet Hallingby)
+ Grønvoldsgrenda
+
+T-korsning Hallingby E16
+ Fv2872: Vestre Ådal, Sentrum
+ Hval kirke
+ Elbilsladdning: Fortum Charging Station
+ Restaurant: Hallingby Grill & Pizza
+
+Serviceplass
+ Bensinstasjon: Olje- og Energisenteret Hallingby
+ Restaurant: Hallingby Kro
+
+Bensinstasjon: YX
+
+(Bru over Somma)
+
+(Dubbel T-korsning Somdalen)
+ Somdalens grendehus
+ Somdalen eggsalg/Bruktbutikk
+
+T-korsning E16/Samsjøveien
+ Samsjøen
+
+Rasteplass Bergsund
+
+T-korsning Ringmoen
+ Fv2872: Viker, Vikerfjell
+ Ringerike Golfbane
+
+Etapp: Ringmoen - Nes i Ådal ()
+
+Rasteplass Nerlia
+
+(Korsning Finsand): (60.3872107, 10.0749334)
+
+Renna Handel (Villfisken): (60.3994868, 10.0704490)
+
+(T-korsning Nordhaga): (60.4211601, 10.0924713)
+
+Buttingsrud Camping: (60.4411387, 10.0894334)
+
+T-korsning Sperillen Camping
+
+(Rasteplass Bjonvika-øst-syd)
+Rasteplass Bjonvika-vest
+(nordgående retning)
+
+T-korsning Bjonvika
+ Fv2320: [34]-båt: Horn, [245]: Bjoneroa
+
+Rasteplass Bjonvika-øst-nord
+(sydgående retning)
+
+Bru over Bjonelva
+
+Parkeringsplass (grusvei): (60.5314267, 10.0876898)
+
+Serviceplass Nes i Ådal
+ Bensinstasjon: YX
+ Restaurant: Veikroa
+
+T-korsning Pålsodden
+ Kvernbråten
+
+(Nes bru (143 m)
+ Begna
+
+T-korsning Nes i Ådal
+ 243: Hedalen
+(Nes kirke)
+
+T-korsning Nes bygdehus
+ Stadion, Bygdekinon
+
+T-korsning Valdresporten
+ Bensinstasjon: Esso Express
+ Elbilsladdning: Tesla, Grønn Kontakt
+ Restaurant/Motel: ValdresPorten Kro og Motell
+
+Viken / Innlandet
+Ringerike / Sør-Aurdal
+
+Tørrisplassen Camping
+
+T-korsning Sørenga E16
+ Sørum
+ Sørum gjestehus og Camping
+
+Rasteplass (grusvei): (60.63824743553766, 9.876713586833741)
+
+T-korsning Haugsrud bru E16
+ Fv2458: Austsidevegen, Sørum
+ Industri: Begna
+ Piltingsrud gard
+
+(T-korsning Enga)
+
+Tollefsrud Brukthandel
+Korsning Tollefsrud
+ Begnadalen kirke
+ Fv2456: Hedalen
+
+Rasteplass (grusvei): 60.657067222634296, 9.741477300510432
+
+T-korsning Rynning
+
+(Dubbel T-korsning Midtmoen)
+
+Bru over Muggedøla
+
+Rasteplass Muggedalen
+
+(T-korsning Grimsrud bru)
+
+T-korsning Rustbakke bru
+ Fv2458: Austsidevegen, Rustbakke
+ Piltingsrud gard, Morudstranda
+
+Nord-Garthus Gård
+
+T-korsning Åsemyrvegen sør
+ Fv2460: Åsebygda
+
+T-korsning Eid E16
+ Eid kraftverk
+
+T-korsning Fønhusbrua
+ Fv2458: Austsidevegen, Skytebane
+
+(Hølera bru)
+T-korsning Hølera bru
+ Fv2460: Sæterbygda
+
+Parkeringsplass Olmhus (grusvei): 60.7684652266734, 9.649077639647004
+
+T-korsning Langedrag
+ Langedrag bru
+ Langedrag Camping
+
+(Briskebyen holdepass)
+
+T-korsning
+ Lundebygda
+
+Parkeringsplass (grusvei): (60.78133782187615, 9.606139642036364)
+
+(Bru over Islandselvi)
+Korsning Bagn bygdesamling
+ Islandsmoen sag, Bygdesamling
+
+T-korsning Dølvesætrin
+ Dølven
+
+(T-korsning)
+ Gamle Valdresvegen
+
+Bergsundtunnelen-syd
+ 714 m
+
+Bergsundtunnelen-nord
+(T-korsning)
+ Gamle Valdresvegen
+
+T-korsning Erstad Bagn sør E16
+
+T-korsning Bagn E16
+ Fv2450: Tonsåsen, Bagn sentrum
+ Reinli, Reinli stavkyrkje
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Grønn Kontakt, Recharge, Fortum
+ Restaurant: Valdres Mathus
+
+(T-korsning Bagn bru)
+ Gamle Valdresvegen
+Bagn bru (144 m)
+ Begna
+Bagnskleivtunnelen-syd
+ (4 285 m)
+
+Bagnskleivtunnelen-nord
+(T-korsning)
+ Gamle Valdresvegen
+Bagnskleive bomstasjon
+ 54,- / 134,-
+
+T-korsning Klosbøle
+ Fv2450: Gamle Valdresvegen
+
+(T-korsning)
+ Serviceveg
+
+Rasteplass Sørskogen
+
+Rasteplass Turrhaug
+
+(T-korsning Nerre Bjørgo)
+
+(Fuglehaug bru)
+ Valdresbanen, 17 m
+
+T-korsning Bjørgo
+ 33: Gjøvik, Dokka
+
+T-korsning Aurdal Kiwi
+ Bensinstasjon: YX
+ Elbilsladdning: Fortum
+
+Restaurant: Aurdalsstua
+
+Dubbel T-korsning Aurdal kirke
+ Fv2446: Vestringsbygda, Aurdal kirke
+ Industri: Bjødnaflata
+ Sykehuset Innlandet, Camping
+ Fv2494: Aurdalsåsen
+ Bakeriet i Bagn AS
+
+T-korsning Nordåk
+ Nordaker Gård, Små Vesen
+
+Rasteplass Noraker
+(fremst for sydgående)
+
+Valdres Gjestegård
+
+Korsning Kalplassen
+ Industri: Kalplassen
+Kalplassen kontrollstasjon
+
+(T-korsning Brustogo Leira)
+ Autosenter
+
+Leira fd statsjon
+
+Rondell Leira sentrum
+ Fv2482: Flyplass: Leirin
+ 51 s: Gol
+ Industri: Lagemarkene
+ Bensinstasjon: YX
+ Elbilsladdning: ValdresEnergi
+
+T-korsning Tingnesøddin Fagernes
+ Gausdal Landhandleri - Fagernes
+
+T-korsning E16/Jernbaneveg.
+ Fv2496: Sentrum, Skysstasjon
+ Restaurant: Flere steder
+ Parkeringsplass
+ Bensinstasjon: Shell
+
+T-korsning Fagernes Kjøpesenter
+ Fv2482: N Etnedal, Gausdal
+ Fagernes Lufthavn, Tingnes kirke, Legevakt
+(Parkering Fagernes Kjøpesenter)
+
+Bensinstasjon: YX
+T-korsning E16/Tveitavegen
+ Valdreshallen
+T-korsning E16/Skifervegen
+ Parkering Skiferplassen
+
+Korsning Avisa Valdres
+ Fv2442: Skrautvål
+ Industri: Spikarmoen, Idrettspark
+Bensinstasjon: Circle-K
+T-korsning E16/Jernbaneveg.
+ Fv2496: Fagernes sentrum
+
+(Fagernes bru)
+ Neselvi, 59 m
+T-korsning Fagernesbrue
+ 51 n: Vågå, Beitostølen
+ Valdresflye
+
+Fagernes Camping
+Valdres Folkemuseum
+
+T-korsning Fødnesvegen E16
+ Fodnes
+
+Strand kirke
+
+Rasteplass Hømanberg: (60.9817324, 9.1481665)
+(fremst for sydgående)
+
+Søndre Svennes Camping
+
+T-korsning Ulnes kyrkje
+ Fv2484: Øvre Røn, Fodnes
+ Panoramavegen, Vaset skisenter
+ Ulnes kirke
+
+(Korsning Ulnes E16)
+(ikke skiltet)
+ Butikk: Joker
+
+Valdres Vilt og trad. mat
+
+(T-korsning)
+ Prosess Automasjon AS
+
+Nord-Aurdal / Vestre Slidre: (61.0174418,9.0920019)
+
+T-korsning Viste
+ Øvre Røn
+
+T-korsning Røn S
+ Fv2476: Fossheim bru
+ Miljøstasjon
+
+T-korsning Furulund Pensjonat
+Bensinstasjon: YX
+
+T-korsning Røn N
+ Fv2485: [51], Øystre Slidre, Røn kirke
+
+Hande Rakfisk
+
+(Korsning Jarstad)
+ Slidrefjordens Gjestegård
+
+T-korsning Nesja Einangsundet bru
+ Fv2476: Einang Bru
+
+T-korsning
+(ej skyltad sydgående)
+ Fv2484: Slidre sentrum
+ Slidredomen, Einangsteinen
+
+T-korsning Hausåker
+(ej skyltad nordgående)
+ Slidre sentrum
+ Slidredomen, Einangsteinen
+
+Rasteplass Idstad: (61.1200379, 8.95562182)
+
+Marit Anny's vevstogo
+
+(T-korsning Kvamshall)
+ Laftesmia
+
+T-korsning Lome øst E16
+ Fv2510, [51]: Beitostølen, Skammestein
+ Ellestadbygda, Lomen stavkyrkje
+
+T-korsning Lomen kyrkje
+ Lomen kyrkje
+
+Korsning Lomen Auto
+ Ej skiltet veg
+
+Vestre Slidre / Vang
+
+T-korsning Riste bru E16
+ Fv2476: Riste bru
+ Syndin, Strø (bompeng)
+ Hytter/Camping: Syndinstøga
+
+T-korsning E16/Ryfossvegen
+ Ryfossvegen (gamle E16)
+
+Rasteplass Ryfoss: (61.13708981079052, 8.82739817425554)
+
+T-korsning Ryfoss
+ Fv2510, [51]: Beitostølen, Skammestein
+ Höre, Ryfoss sentrum
+ Bensinstasjon: YX
+ Café: Saras Café
+
+Dubbel T-korsning Kvismoen
+ Kvien, Höre stavkyrkje
+ Industri: Kvismo
+
+(T-korsning Tveitabrue)
+ Stadion
+Tveitabrue (34 m)
+ Storåne
+
+Rasteplass Tomlødegård
+
+T-korsning Vangsnes Øylo
+ Fv2516: Hensåsen, Rogn camping/hytter
+
+T-korsning E16/Hugastølv.
+ Hugakollen
+
+Ala Camping: (61.145395445485, 8.712898465752108)
+
+Øylo Gjestgiveri
+
+Rasteplass Hugavika
+
+T-korsning Hemsingbrue Øylo
+ Fv2510: Hensåsen
+ Slettefjellvegen (bompeng)
+ Hotell/Camping/Hytter
+
+Rasteplass Hemsing
+
+Kvamskleivtunnelen (220 m)
+
+Kvamskleiva halvbru (31 m)
+
+T-korsning (lokal veg)
+ Miljøstasjon, Energiverk
+
+T-korsning Syndin
+ Nordre Syndin (bompeng)
+ Kongevegen (info/parkering/vandring)
+
+Dubbel T-korsning Vang skule
+ Smådalen, Helin
+ Grindafjell hytteomr
+ Vang barne og ungdomsskule
+
+T-korsning E16/Skørisbakkin
+Tindulf hyttebutikk
+Coop Prix Fjellvang
+ Elbilsladdning: Fortum
+
+Vang kyrkje
+ Vangsteinen
+T-korsning Vang kyrkje
+ Prestekontor
+T-korsning Vangstunet
+ Vang kommune
+
+Korsning Vang sentrum
+Valdres Sparebank
+
+(Sommerhotellet)
+(T-korsning E16/Lundsmarka)
+ Vang arbeidssenter
+
+T-korsning (lokal vei)
+ Øygarden tun
+
+Mjøsvang Kafe
+ Informasjon
+Bensinstasjon: BP
+
+(Bru over )
+
+Korsning Bøaflatadn
+ Bøflaten Camping
+ Skakadalen (bompeng)
+Bensinstasjon: YX
+
+Rasteplass Hagastrand
+
+T-korsning Steindejordet
+ Fv2513:
+
+Rødølstunnelen-syd
+ 1 970 m
+
+Rødølstunnelen-nord
+

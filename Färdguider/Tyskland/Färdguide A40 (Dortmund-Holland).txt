@@ -1,0 +1,57 @@
+Anschlausstelle 14
+ Duisburg-Kaiserberg
+AB-Kreuz Kaiserberg (14)
+ A3 n:
+ A3 s:
+					2.5 km/2.0 km	1 min 30 s/1 min 12 s
+AB-Kreuz Duisburg (13)
+ A59 n:
+ A59 s:
+					2.6 km/3.0 km	1 min 34 s/1 min 48 s
+Anschlausstelle 12
+ Duisburg-Häfen
+					2.8 km/1.8 km	1 min 41 s/1 min 5 s
+Rheinbrücke Neunkamp
+					0.8 km/0.8 km	0 min 29 s/0 min 29 s
+Anschlausstelle 11
+ Duisburg-Homberg
+					1.7 km/2.3 km	1 min 1 s/1 min 23 s
+Anschlausstelle 10
+ Duisburg-Rheinhausen
+					2.4 km/1.5 km	1 min 26 s/0 min 54 s
+Anschlausstelle 9
+(avfart västgående riktning
+påfart östgående riktning)
+ Moers-Zentrum
+					2.0 km/3.3 km	1 min 12 s/1 min 59 s
+Anschlausstelle 8
+ Moers
+AB-Kreuz Moers (8)
+ A57 n:
+ A57 s:
+					4.5 km/4.0 km	2 min 15 s/2 min 0 s
+Anschlausstelle 7
+ Neukirchen-Vluyn
+					5.5 km/5.1 km	2 min 45 s/2 min 33 s
+Anschlausstelle 6
+ Kerken
+ B9: 
+					4.3 km/3.8 km	2 min 9 s/1 min 54 s
+Anschlausstelle 5
+ Kempen
+					4.3 km/4.4 km	2 min 9 s/2 min 12 s
+Anschlausstelle 4
+ Wachtendonk
+					3.0 km/3.5 km	1 min 30 s/1 min 45 s
+Rastplatz Tomm Heide
+					1.6 km/1.2 km	0 min 48 s/0 min 36 s
+Anschlausstelle 3
+ Wankum
+					2.0 km/2.0 km	1 min 0 s/1 min 0 s
+Anschlausstelle 2
+ Straelen
+ B221: 
+					4.0 km/4.4 km	2 min 0 s/2 min 12 s
+Raststätte Niederdorf
+ Restaurang
+Tyskland / Nederländerna

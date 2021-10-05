@@ -1,0 +1,112 @@
+Interchange Haut-Ittre
+ A7
+
+Afrit 23
+ Ophain
+
+Afrit 24
+ Braine-l'Alleud
+ N27:
+
+Afrit 25
+ Butte du Lion
+ N5, N27
+
+Afrit 26
+ Mont Saint-Jean
+ N253
+
+Afrit 27
+ Waterloo
+
+Afrit 28
+(avfart medsols, påfart motsols)
+ Argenteuil
+
+Afrit
+ Groenendaal
+ N275:
+
+Interchange Leonard
+ A4
+
+Afrit 1
+ Tervuren-4 Armen
+ N3, N227
+
+Afrit 2
+ Wezembeek-Oppem
+ N226:
+
+Interchange Sint-Stevens Woluwe
+ A3 o: Köln, Liège
+ A3 w: 
+
+Afrit 3
+ Zavantem-Henneaulaan
+
+Afrit 4
+ Diegem-Woluwelaan
+
+Interchange Zavantem
+ A201 o: Brussels Luchthaven
+ A201 w: Brussels Centrum
+
+Interchange Machelen
+ A1 n: Amsterdam, Antwerpen
+ A1 s: Brussels Centrum
+Afrit 5 (avfart medsols)
+ Machelen-Woluwelaan
+ R22
+
+(Viaduct van Vilvoorde)
+
+Afrit 6
+ Vilvoorde-Koningslo
+ N209:
+
+Afrit 7
+ Grimbergen
+ N202:
+
+Interchange Strombeek-Bever
+(avfart motsols, påfart medsols)
+ A12 n: Antwerpen
+ A12 s: Brussels Centrum
+
+Afrit 7a
+(avfart medsols, påfart motsols)
+ EXPO
+
+Afrit 8
+(avfart medsols, påfart motsols)
+ Wemmel
+
+Afrit 9
+ Jette
+ N208:
+
+Afrit 10
+ Zellik
+ N9:
+
+Interchange Groot-Bijgaarden
+ A10 w: Oostend, Brugge, Ghent
+ A10 o: Brussels Centrum
+
+Afrit 11
+ Groot-Bijgaarden-Dansaertlaan
+
+Afrit 12
+ Astridlaan
+
+Afrit 13
+ Dilbeek
+ N8:
+
+Afrit 14
+ Anderlecht-Noord
+ N219, N220a
+
+Afrit 15
+ 

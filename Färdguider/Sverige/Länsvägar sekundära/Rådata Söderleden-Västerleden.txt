@@ -1,0 +1,76 @@
+Time	Km	Instruction	For	Toward
+Summary:  8,1 kilometres (8 minutes)
+09:00	0,0	Depart Oscarsleden, 414 62 Göteborg on E45 [Oscarsleden] (West)	0,9 km	
+09:00	0,9	At Oscarsleden, 414 58 Göteborg, stay on E45 [Oscarsleden] (South-West)	0,4 km	
+09:01	1,3	At Oscarsleden, 414 51 Göteborg, stay on E45 [Oscarsleden] (South-West)	0,7 km	
+09:02	2,0	At Oscarsleden, 414 51 Göteborg, road name changes to Oscarsleden	0,7 km	
+09:02	2,7	Road name changes to Västerleden	0,6 km	
+09:03	3,3	At Västerleden, 426 69 Västra Frölunda, stay on Västerleden (South-West)	0,4 km	
+09:03	3,7	Road name changes to Gnistängstunneln [Västerleden]	0,7 km	
+09:04	4,4	Road name changes to Västerleden	0,1 km	
+09:04	4,6	At Västerleden, 426 69 Västra Frölunda, stay on Västerleden (South)	0,5 km	
+09:05	5,0	Keep RIGHT onto Ramp	60 m	Fiskebäck / N. Tynnered / N. Grimmered
+09:05	5,1	At near Nya Varvet, stay on Ramp (South)	0,3 km	Fiskebäck / N. Tynnered / N. Grimmered
+09:05	5,4	At roundabout, take the SECOND exit onto Ramp	0,3 km	E6 / E20 / 158 / Malmö / SÄRÖ
+09:05	5,7	Merge onto Västerleden	0,6 km	
+09:06	6,3	At Västerleden, 421 50 Västra Frölunda, stay on Västerleden (South-East)	1,1 km	
+09:07	7,5	At Västerleden, 421 47 Västra Frölunda, stay on Västerleden (East)	0,6 km	
+09:08	8,1	Arrive Västerleden, 421 47 Västra Frölunda		
+
+SUMMARY
+Driving distance:  8,1 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  15,88 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  8,3 kilometres (8 minutes)
+09:00	0,0	Depart Söderleden, 421 31 Göteborg on Söderleden (West)	0,2 km	
+09:00	0,2	Road name changes to Västerleden	0,8 km	
+09:01	1,0	At near Västra Frölunda, stay on Västerleden (West)	0,8 km	
+09:01	1,8	At Västerleden, 421 50 Västra Frölunda, stay on Västerleden (North-West)	1,2 km	
+09:03	3,0	At near Västra Frölunda, stay on Västerleden (North)	0,7 km	
+09:03	3,8	At Västerleden, 426 70 Västra Frölunda, stay on Västerleden (North)	0,5 km	
+09:04	4,3	Road name changes to Gnistängstunneln [Västerleden]	0,7 km	
+09:04	5,0	Road name changes to Västerleden	0,1 km	
+09:05	5,1	At Västerleden, 426 69 Västra Frölunda, stay on Västerleden (North)	0,5 km	
+09:05	5,6	At Västerleden, 426 69 Västra Frölunda, stay on Västerleden (East)	0,4 km	
+09:06	6,0	Keep LEFT onto Oscarsleden	0,7 km	E45 / E20 / Frederikshavn / Stockholm / Kiel / Centrum
+09:06	6,8	Road name changes to E45 [Oscarsleden]	1,6 km	
+09:08	8,3	Arrive Oscarsleden, 414 62 Göteborg		
+
+SUMMARY
+Driving distance:  8,3 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  16,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  3,8 kilometres (3 minutes)
+09:00	0,0	Depart Västerleden, 426 Västra Frölunda on Västerleden (East)	0,4 km	
+09:00	0,4	Keep RIGHT onto Hisingsleden	0,5 km	E6 / Oslo / Hisingen
+09:00	0,9	Road name changes to Älvsborgsbron	0,9 km	
+09:01	1,8	Road name changes to Hisingsleden	0,5 km	
+09:02	2,4	At Hisingsleden, 418 Göteborg, stay on Hisingsleden (North)	0,3 km	
+09:02	2,7	At Hisingsleden, 418 Göteborg, stay on Hisingsleden (North)	1,1 km	
+09:03	3,8	Arrive Hisingsleden, 418 Göteborg		
+
+SUMMARY
+Driving distance:  3,8 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  6,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  3,2 kilometres (3 minutes)
+09:00	0,0	Depart Hisingsleden, 418 Göteborg on Hisingsleden (South-East)	1,6 km	
+09:01	1,6	At Hisingsleden, 418 Göteborg, stay on Hisingsleden (South)	0,6 km	
+09:02	2,2	Road name changes to Älvsborgsbron	0,9 km	
+09:03	3,2	Road name changes to Hisingsleden	30 m	
+09:03	3,2	Arrive Hisingsleden, 414 Göteborg		
+
+SUMMARY
+Driving distance:  3,2 kilometres
+Trip duration:  3 minutes
+Driving time:  3 minutes
+Cost:  5,33 kr

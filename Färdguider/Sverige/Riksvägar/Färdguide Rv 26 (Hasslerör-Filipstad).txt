@@ -1,0 +1,176 @@
+Reseguide Rv 26 Mariestad - Filipstad
+======================================
+
+Etapp 20: Hasslerör - Otterbäcken (26,0 km/25,4 km)
+
+T-korsning Hasslerör Ö
+ E20 ö: Stockholm, Örebro
+ E20 v: Göteborg, Mariestad
+ 26 s: Jönköping, Skövde
+					0.7 km/0.8 km	31 s/36 s
+T-korsning Hasslerör N
+ Hasslerör
+Järnvägskorsning
+ Kinnekullebanan
+					2.4 km/2.3 km	1 min 48 s/1 min 43 s
+T-korsning Fåleberg
+ Torsö
+					6.8 km/6.9 km	5 min 6 s/5 min 11 s
+Dubbel T-korsning Sjötorp S
+ Sjötorp
+ Lyrestad
+					0.6 km/0.5 km	27 s/23 s
+Göta Kanal
+					1.3 km/1.3 km	59 s/59 s
+T-korsning Sjötorp N
+ Sjötorp
+					0.4 km/0.4 km	18 s/18 s
+T-korsning Kullerud
+ Slättevalla
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+T-korsning Sannerudskär
+ Moviken
+					3.3 km/3.3 km	2 min 28 s/2 min 28 s
+T-korsning Askeviken
+ Askevikens camping
+					0.9 km/0.2 km	41 s/9 s
+Mariestad / Gullspång
+					0.7 km/0.7 km	31 s/31 s
+T-korsning Ekenäs
+ Askeviksbadet
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+T-korsning Otterbäcken S
+ Otterbäcken
+					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+Korsning Otterbäcken Ö
+ Torpa (enskild)
+ Otterbäcken
+					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+Korsning Otterbäcken N
+ 200: Hova
+ Otterbäcken
+
+Etapp 21: Otterbäcken - Bjurvik (11,5 km/11,5 km)
+					2.6 km/2.6 km	2 min 14 s/2 min 14 s
+Korsning
+ Gullspång
+
+(Järnvägskorsning)
+					0.7 km/0.7 km	36 s/36 s
+Dubbel T-korsning Gullspång V
+ Gullspång
+ Amnehärads kyrka
+ Bensinstation: Statoil
+					0.9 km/0.9 km	46 s/46 s
+T-korsning
+ Gullspång
+					7.3 km/7.3 km	5 min 29 s/5 min 29 s
+Västra Götaland / Värmland
+Gullspång / Kristinehamn
+T-korsning Bjurvik
+ 204: Fjugestad
+ [243]: Karlskoga, Degerfors
+
+Etapp 22: Bjurvik - Kristinehamn (33,6 km/34,2 km)
+					4.0 km/4.0 km	3 min 0 s/3 min 0 s
+Korsning Värmlands Säby
+ Värmlands Säby herrgård
+					1.7 km/1.7 km	1 min 17 s/1 min 17 s
+T-korsning Nybble
+ Visnums-Kil
+					1.9 km/1.9 km	1 min 26 s/1 min 26 s
+Korsning Visnum Vall
+ Åtorp
+					1.1 km/1.1 km	50 s/50 s
+Korsning Visnum S
+ Visnums kyrka
+					0.5 km/0.5 km	23 s/23 s
+Korsning Visnum N
+ Visnums kyrka
+					0.4 km/0.4 km	18 s/18 s
+T-korsning Långserud
+ Bäckhammar
+					3.0 km/3.0 km	2 min 15 s/2 min 15 s
+T-korsning Bäckhammar väg 26
+ Bäckhammar
+					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+T-korsning Hultsvägen
+ Hult
+					0.8 km/0.8 km	36 s/36 s
+T-korsning
+ Björneborg
+					7.8 km/7.8 km	5 min 51 s/5 min 51 s
+T-korsning Agetorp
+ Björneborg
+					4.2 km/4.2 km	3 min 9 s/3 min 9 s
+T-korsning Järsberg
+ Visnums-Kil, Hult
+					1.5 km/1.6 km	1 min 8 s/1 min 12 s
+Rondell Kristinehamn SO
+ Centrum
+					0.8 km/0.8 km	41 s/41 s
+Järnvägsbro
+ Värmlandsbanan
+					1.2 km/1.3 km	1 min 2 s/1 min 7 s
+T-korsning Rv26/Närkevägen
+ Centrum
+					0.5 km/1.0 km	26 s/51 s
+Korsning Kvarndammen
+ Bensinstation: OKQ8, Bilisten
+ Restaurang: McDonald's
+Övre Kvarnmotet
+ E18 ö: Stockholm, Karlskoga
+					2.6 km/2.5 km	1 min 57 s/1 min 53 s
+Solbackensmotet
+ E18 v: Oslo, Karlstad
+
+Etapp 23: Kristinehamn - Storfors (26,8 km/26,6 km)
+					2.1 km/1.7 km	1 min 35 s/1 min 17 s
+T-korsning Kristinehamn GK
+					5.0 km/5.0 km	3 min 45 s/3 min 45 s
+Korsning Niklasdamm
+ Skanum
+					6.4 km/6.4 km	4 min 48 s/4 min 48 s
+Kristinehamn / Storfors
+					0.8 km/0.8 km	0 min 36 s/0 min 36 s
+T-korsning Bergsjö N
+ Ljungstrand, Lundsberg
+					8.2 km/8.2 km	6 min 9 s/6 min 9 s
+Järnvägsviadukt
+ Inlandsbanan
+					3.1 km/3.1 km	2 min 20 s/2 min 20 s
+T-korsning Storfors S
+ Centrum
+					0.5 km/0.5 km	36 s/36 s
+Korsning Storfors K:a
+ Bensinstation: OKQ8
+					0.7 km/0.9 km	0 min 50 s/1 min 5 s
+(Järnvägsviadukt)
+ Inlandsbanan
+Korsning Storfors Ö
+ 237: Karlskoga
+Korsning 26/Tallbacksgatan
+ Hotel Storfors
+
+Etapp 24: Storfors - Filipstad (21,6 km/21,5 km)
+					0.5 km/0.3 km	36 s/22 s
+Rondell
+					0.6 km/0.6 km	43 s/43 s
+T-korsning Storfors N
+ Asphyttan
+					5.2 km/5.2 km	3 min 54 s/3 min 54 s
+Storfors / Filipstad
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Korsning Nykroppa V
+ Nykroppa
+ Rastplats Prästbacken
+					0.5 km/0.5 km	26 s/26 s
+Järnvägsviadukt
+ Kil-Ställdalen
+					11.1 km/11.2 km	9 min 31 s/9 min 36 s
+Rondell
+ Centrum
+Korsning Filipstad Ö
+ 26 n: Mora, Lesjöfors
+ 63 ö: Ludvika, Hällefors
+ 63 v: Karlstad

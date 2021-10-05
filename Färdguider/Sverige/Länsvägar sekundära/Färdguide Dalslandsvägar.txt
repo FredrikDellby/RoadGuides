@@ -1,0 +1,109 @@
+Nordmanneröd - Kärsrud
+=======================
+
+T-korsning Nordmanneröd
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Nordmanneröd Ö
+					2.9 km/2.9 km	2 min 29 s/2 min 29 s
+T-korsning Lane-Ryr V
+					0.3 km/0.3 km	15 s/15 s
+T-korsning Lane-Ryrs Berg
+					4.0 km/4.0 km	3 min 26 s/3 min 26 s
+Uddevalla / Vänersborg
+					2.1 km/2.1 km	1 min 48 s/1 min 48 s
+T-korsning Lönnebergshage
+					3.6 km/3.6 km	3 min 5 s/3 min 5 s
+Korsning Rössebo
+					8.8 km/8.8 km	7 min 33 s/7 min 33 s
+T-korsning Kärsrud
+
+Dals-Rostockvägen
+
+Dubbel T-korsning Brålanda V
+					2.9 km/2.7 km	2 min 54 s/2 min 42 s
+T-korsning Dotorp
+					0.7 km/0.7 km	42 s/42 s
+Vänersborg / Mellerud
+					0.7 km/0.7 km	42 s/42 s
+T-korsning Myckeläng
+					2.8 km/2.9 km	2 min 48 s/2 min 54 s
+Dubbel T-korsning Assarebyn
+					4.0 km/4.0 km	4 min 0 s/4 min 0 s
+Dubbel T-korsning Örsberg
+					3.2 km/3.1 km	3 min 12 s/3 min 6 s
+T-korsning Rud
+					0.9 km/0.9 km	54 s/54 s
+T-korsning Hult
+					1.2 km/1.2 km	1 min 12 s/1 min 12 s
+Järnvägsbro
+					2.8 km/2.9 km	3 min 22 s/3 min 29 s
+Tank Dals-Rostock
+					0.3 km/0.3 km	22 s/22 s
+T-korsning Dals-Rostock/166
+
+Håverudsvägen
+T-korsning Framnäs
+					3.8 km/3.8 km	3 min 15 s/3 min 15 s
+Järnvägskorsning
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Ingribybro
+					0.8 km/0.8 km	41 s/41 s
+T-korsning Torgrinsbyn
+					2.9 km/2.9 km	2 min 29 s/2 min 29 s
+T-korsning Bränna S
+					0.5 km/0.6 km	36 s/43 s
+Tankställe Bränna
+T-korsning Bränna N
+					3.5 km/3.5 km	4 min 12 s/4 min 12 s
+T-korsning Håverud N
+					1.3 km/1.2 km	1 min 18 s/1 min 12 s
+Järnvägskorsning
+					0.9 km/1.0 km	0 min 54 s/1 min 0 s
+Järnvägskorsning
+					1.3 km/1.3 km	1 min 18 s/1 min 18 s
+Mellerud / Bengtsfors
+					5.9 km/6.0 km	5 min 54 s/6 min 0 s
+T-korsning Hogsbyn
+					1.7 km/1.6 km	1 min 42 s/1 min 36 s
+T-korsning Häljebol
+
+Tisselskog-Tösse
+T-korsning Häljebol
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Gullungebyn
+					3.1 km/3.1 km	2 min 39 s/2 min 39 s
+T-korsning N. Lidtjärn
+					2.4 km/2.3 km	2 min 3 s/1 min 58 s
+Bengtsfors / Åmål
+					2.9 km/3.0 km	2 min 29 s/2 min 34 s
+Korsning
+					2.0 km/2.0 km	1 min 43 s/1 min 43 s
+T-korsning Fröskog
+					2.2 km/2.1 km	1 min 53 s/1 min 48 s
+T-korsning Vallsjön
+					6.6 km/6.7 km	5 min 39 s/5 min 45 s
+T-korsning Hängelsund
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+Tankställe Tösse
+ Statoil
+T-korsing Tösse
+
+Svanskogsvägen
+T-korsning Kasenberg S
+					4.0 km/4.0 km	3 min 26 s/3 min 26 s
+Korsning Mo
+					5.5 km/5.5 km	4 min 43 s/4 min 43 s
+Västra Götaland / Värmland
+Åmål / Säffle
+					5.6 km/5.6 km	4 min 48 s/4 min 48 s
+T-korsning Svanskog S
+					0.7 km/0.7 km	36 s/36 s
+Järnvägskorsning
+					0.4 km/0.4 km	21 s/21 s
+Tankställe Svanskog
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Svanskog N
+					3.8 km/3.9 km	3 min 15 s/3 min 21 s
+T-korsning Hallanda
+					4.4 km/4.3 km	3 min 46 s/3 min 41 s
+Korsning Kettilsbyn

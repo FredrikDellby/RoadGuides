@@ -1,0 +1,439 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,7 kilometres (10 minutes)
+09:00	0,0	Depart 161, 451 96 Uddevalla on Local road(s) (South)	40 m	44 / Vänersborg / Trollhättan / Centrum
+09:00	0,1	Bear RIGHT (East) onto 44	0,8 km	44 / Vänersborg / Trollhättan / Centrum
+09:01	0,8	At Korsning Herrestad V, stay on 44 (East)	1,2 km	
+09:02	2,0	At Korsning Kissleberg, stay on 44 (East)	1,2 km	
+09:03	3,2	At roundabout, take the SECOND exit onto 44	1,4 km	
+09:04	4,7	At 44, 451 63 Uddevalla, stay on 44 (East)	0,9 km	
+09:05	5,6	At 44, 451 60 Uddevalla, stay on 44 (East)	1,1 km	
+09:06	6,7	At 44, 451 51 Uddevalla, stay on 44 (East)	2,0 km	
+09:07	8,7	At 44, 451 55 Uddevalla, stay on 44 (East)	1,3 km	
+09:08	10,0	At 44, 451 55 Uddevalla, stay on 44 (South-East)	1,5 km	44 / E6 / Göteborg / Vänersborg / Trollhättan
+09:09	11,5	Keep RIGHT onto Ramp	0,2 km	
+09:10	11,7	Arrive near Äsperöd		
+
+STime	Km	Instruction	For	Toward
+Summary:  11,5 kilometres (9 minutes)
+09:00	0,0	Depart 44, 451 92 Uddevalla on Ramp (West)	0,4 km	44 / Uddevalla
+09:00	0,4	Bear RIGHT (North) onto 44	1,1 km	
+09:01	1,5	At 44, 451 55 Uddevalla, stay on 44 (North-West)	1,3 km	
+09:02	2,8	At 44, 451 55 Uddevalla, stay on 44 (West)	1,9 km	
+09:03	4,6	At 44, 451 52 Uddevalla, stay on 44 (West)	0,9 km	
+09:04	5,5	At 44, 451 51 Uddevalla, stay on 44 (West)	1,4 km	
+09:05	6,9	At 44, 451 63 Uddevalla, stay on 44 (West)	1,7 km	
+09:06	8,6	At roundabout, take the SECOND exit onto 44	1,2 km	
+09:07	9,8	At 44, 451 75 Herrestad, stay on 44 (West)	1,3 km	
+09:09	11,1	At Korsning Herrestad V, stay on 44 (West)	0,4 km	
+09:09	11,5	Arrive 44, 451 94 Uddevalla		
+
+SUMMARY
+Driving distance:  11,5 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  18,28 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,4 kilometres (8 minutes)
+09:00	0,0	Depart near Äsperöd on Ramp (South)	0,6 km	
+09:00	0,6	Merge onto 44	5,0 km	
+09:03	5,6	At 44, 451 92 Uddevalla, stay on 44 (East)	1,9 km	
+09:04	7,5	At near Ryr, stay on 44 (East)	0,9 km	
+09:04	8,4	At 44, 462 93 Vänersborg, stay on 44 (East)	2,4 km	
+09:05	10,8	At 44, 462 93 Vänersborg, stay on 44 (East)	1,6 km	
+09:06	12,4	At 44, 462 93 Vänersborg, stay on 44 (East)	2,6 km	
+09:08	15,0	At 44, 462 93 Vänersborg, stay on 44 (East)	1,4 km	
+09:08	16,4	Arrive 44, 462 73 Vänersborg		
+
+SUMMARY
+Driving distance:  16,4 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  18,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,1 kilometres (11 minutes)
+09:00	0,0	Depart 44, 462 93 Vänersborg on E45 [44] (West)	0,4 km	
+09:00	0,4	Road name changes to 44	1,5 km	
+09:01	1,9	At 44, 462 93 Vänersborg, stay on 44 (West)	2,6 km	
+09:03	4,5	At near Grunnebo, stay on 44 (West)	2,0 km	
+09:04	6,6	At 44, 462 93 Vänersborg, stay on 44 (West)	2,2 km	
+09:06	8,7	At 44, 462 93 Vänersborg, stay on 44 (North-West)	0,9 km	
+09:07	9,6	At near Ryr, stay on 44 (West)	2,1 km	
+09:08	11,8	At 44, 451 92 Uddevalla, stay on 44 (West)	5,3 km	
+09:11	17,1	Arrive 44, 451 92 Uddevalla		
+
+SUMMARY
+Driving distance:  17,1 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,04 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,7 kilometres (6 minutes)
+09:00	0,0	Depart 44, 462 Vänersborg on 44 (East)	1,8 km	
+09:01	1,8	At 45, 462 Vänersborg, stay on 44 [45] (East)	0,4 km	
+09:01	2,2	At 45, 462 Vänersborg, keep RIGHT onto Ramp	0,5 km	44 / 45 / Mariestad / Trollhättan / Flygplats
+09:02	2,7	Keep STRAIGHT onto 44 [45]	1,6 km	
+09:03	4,3	At 45, 461 Trollhättan, stay on 44 [45] (South-East)	1,7 km	
+09:05	6,0	At near Överby, stay on 44 [45] (East)	0,7 km	
+09:06	6,7	Arrive 45, 461 Trollhättan		
+
+SUMMARY
+Driving distance:  6,7 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  8,79 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,7 kilometres (6 minutes)
+09:00	0,0	Depart near Halvorstorp on 44 (West)	1,3 km	
+09:01	1,3	At 45, 461 Trollhättan, stay on 44 [45] (North-West)	1,5 km	
+09:02	2,8	At 45, 461 Trollhättan, stay on 44 [45] (North-West)	1,6 km	
+09:04	4,4	At 45, 461 Trollhättan, bear RIGHT (North) onto Ramp	0,9 km	44 / 45 / Uddevalla / Karlstad / Båberg
+09:05	5,3	Keep STRAIGHT onto 44 [45]	0,4 km	
+09:05	5,7	At 45, 462 Vänersborg, stay on 44 [45] (West)	1,0 km	
+09:06	6,7	Arrive 45, 462 Vänersborg		
+
+SUMMARY
+Driving distance:  6,7 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  9,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (15 minutes)
+09:00	0,0	Depart 44, 461 Trollhättan on 44 (South-East)	0,6 km	
+09:00	0,6	Road name changes to 42 [44]	1,4 km	
+09:01	2,0	At 44, 461 Trollhättan, stay on 42 [44] (East)	0,5 km	
+09:01	2,4	At 44, 461 Trollhättan, stay on 42 [44] (East)	1,7 km	
+09:03	4,1	At roundabout, take the SECOND exit onto 44 [47]	2,7 km	
+09:05	6,8	At 44, 461 Trollhättan, stay on 44 [47] (East)	0,7 km	
+09:05	7,5	At T-korsning Östergården, stay on 44 [47] (East)	3,7 km	
+09:08	11,2	At Korsning Håsten, stay on 44 [47] (North-East)	2,8 km	
+09:10	14,0	At near Flo, stay on 44 [47] (East)	3,4 km	
+09:13	17,4	At roundabout, take the SECOND exit onto 44 [47]	2,0 km	
+09:15	19,3	Arrive 47, 467 Grästorp		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  22,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,8 kilometres (14 minutes)
+09:00	0,0	Depart 44, 467 Grästorp on Local road(s) (West)	50 m	
+09:00	0,1	Bear RIGHT (South) onto 44 [47]	1,9 km	
+09:01	2,0	At roundabout, take the SECOND exit onto 44 [47]	3,4 km	
+09:04	5,4	At near Flo, stay on 44 [47] (West)	2,8 km	
+09:06	8,2	At Korsning Håsten, stay on 44 [47] (South-West)	3,7 km	
+09:09	11,9	At T-korsning Östergården, stay on 44 [47] (West)	0,7 km	
+09:09	12,6	At 44, 461 Trollhättan, stay on 44 [47] (West)	2,7 km	
+09:12	15,3	At roundabout, take the SECOND exit onto 42 [44]	1,5 km	
+09:13	16,7	At 44, 461 Trollhättan, stay on 42 [44] (West)	0,7 km	
+09:13	17,4	At 44, 461 Trollhättan, stay on 42 [44] (West)	1,4 km	
+09:14	18,8	Arrive 44, 461 Trollhättan		
+
+SUMMARY
+Driving distance:  18,8 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  21,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,4 kilometres (13 minutes)
+09:00	0,0	Depart 47, 467 92 Grästorp on Local road(s) (East)	50 m	
+09:00	0,1	Bear RIGHT (North-East) onto 44	1,4 km	
+09:01	1,4	At near Salstad, stay on 44 (East)	2,3 km	
+09:03	3,7	At Korsning, stay on 44 (East)	1,0 km	
+09:03	4,8	At Korsning Skattegården, stay on 44 (East)	1,2 km	
+09:04	6,0	At T-korsning Stommen, stay on 44 (East)	2,1 km	
+09:06	8,1	At T-korsning Rudberga, stay on 44 (North-East)	1,3 km	
+09:07	9,3	At T-korsning Särestad, stay on 44 (North-East)	1,1 km	
+09:08	10,4	At T-korsning Hålevägen, stay on 44 (North-East)	2,9 km	
+09:11	13,3	At T-korsning Sjuberga, stay on 44 (East)	0,4 km	
+09:11	13,7	At T-korsning, stay on 44 (East)	0,5 km	
+09:11	14,2	At T-korsning Täng, stay on 44 (East)	0,7 km	
+09:12	14,8	At T-korsning Häljestena, stay on 44 (East)	1,5 km	
+09:13	16,4	Arrive near Häljestena		
+
+SUMMARY
+Driving distance:  16,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  20,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,3 kilometres (13 minutes)
+09:00	0,0	Depart near Häljestena on 44 (West)	1,5 km	
+09:01	1,5	At T-korsning Häljestena, stay on 44 (West)	0,7 km	
+09:01	2,2	At T-korsning Täng, stay on 44 (West)	0,5 km	
+09:02	2,7	At T-korsning, stay on 44 (West)	0,4 km	
+09:02	3,1	At T-korsning Sjuberga, stay on 44 (West)	2,9 km	
+09:04	6,0	At T-korsning Hålevägen, stay on 44 (South-West)	1,1 km	
+09:05	7,0	At T-korsning Särestad, stay on 44 (South-West)	1,3 km	
+09:07	8,3	At T-korsning Rudberga, stay on 44 (South-West)	2,1 km	
+09:08	10,4	At T-korsning Stommen, stay on 44 (West)	1,2 km	
+09:09	11,6	At Korsning Skattegården, stay on 44 (West)	1,0 km	
+09:10	12,6	At Korsning, stay on 44 (West)	2,3 km	
+09:12	14,9	At near Salstad, stay on 44 (West)	1,4 km	
+09:13	16,3	Arrive 44, 467 Grästorp		
+
+SUMMARY
+Driving distance:  16,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  18,14 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,6 kilometres (14 minutes)
+09:00	0,0	Depart near Häljestena on 44 (East)	1,7 km	
+09:01	1,7	At T-korsning Lavad skola, stay on 44 (North-East)	1,2 km	
+09:02	2,9	At T-korsning Lavad kyrka, stay on 44 (North-East)	1,7 km	
+09:04	4,6	At T-korsning Nyhagen, stay on 44 (East)	1,9 km	
+09:05	6,5	At T-korsning Västergården, stay on 44 (East)	0,9 km	
+09:06	7,4	At T-korsning Gillstad V, stay on 44 (East)	0,8 km	
+09:07	8,2	At Korsning Gillstad Ö, stay on 44 (East)	0,9 km	
+09:07	9,1	At T-korsning, stay on 44 (North-East)	4,1 km	
+09:10	13,2	At T-korsning Mellby Fyrkanten, stay on 44 (East)	3,5 km	
+09:13	16,7	At Korsning Råda väg 44, stay on 44 (East)	0,9 km	
+09:14	17,6	Arrive 44, 531 96 Lidköping		
+
+SUMMARY
+Driving distance:  17,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  22,82 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,6 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Risa on 44 (West)	0,9 km	
+09:00	0,9	At Korsning Råda väg 44, stay on 44 (West)	3,5 km	
+09:03	4,4	At T-korsning Mellby Fyrkanten, stay on 44 (West)	4,2 km	
+09:06	8,6	At T-korsning, stay on 44 (West)	0,9 km	
+09:07	9,5	At Korsning Gillstad Ö, stay on 44 (West)	0,8 km	
+09:07	10,2	At T-korsning Gillstad V, stay on 44 (West)	0,9 km	
+09:08	11,2	At T-korsning Västergården, stay on 44 (West)	1,9 km	
+09:10	13,1	At T-korsning Nyhagen, stay on 44 (West)	1,7 km	
+09:11	14,8	At T-korsning Lavad kyrka, stay on 44 (South-West)	1,2 km	
+09:12	16,0	At T-korsning Lavad skola, stay on 44 (South-West)	1,7 km	
+09:14	17,6	Arrive near Häljestena		
+
+SUMMARY
+Driving distance:  17,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  20,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,4 kilometres (4 minutes)
+09:00	0,0	Depart 44, 531 40 Lidköping on Local road(s) (West)	80 m	
+09:00	0,1	Bear RIGHT (South-West) onto 44	0,9 km	
+09:00	0,9	At 44, 531 43 Lidköping, stay on 44 [Ringleden] (West)	1,5 km	
+09:02	2,5	At roundabout, take the SECOND exit onto 44 [Ringleden]	0,3 km	
+09:02	2,8	At roundabout, take the THIRD exit onto 44	0,3 km	
+09:02	3,0	At 44, 531 51 Lidköping, stay on 44 (South-West)	2,3 km	
+09:04	5,4	Arrive T-korsning Risa		
+
+SUMMARY
+Driving distance:  5,4 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  9,71 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,3 kilometres (4 minutes)
+09:00	0,0	Depart near Råda on 44 (East)	2,2 km	
+09:01	2,2	At 44, 531 Lidköping, stay on 44 (North-East)	0,4 km	
+09:02	2,6	At roundabout, take the FIRST exit onto 44	0,2 km	
+09:02	2,8	At roundabout, take the SECOND exit onto 44 [Ringleden]	1,5 km	
+09:03	4,3	At T-korsning Margaretelund, stay on 44 [Ringleden] (East)	1,0 km	
+09:04	5,3	Arrive 44, 531 Lidköping		
+
+SUMMARY
+Driving distance:  5,3 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  8,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,4 kilometres (4 minutes)
+09:00	0,0	Depart 44, 531 40 Lidköping on Local road(s) (West)	80 m	
+09:00	0,1	Bear RIGHT (South-West) onto 44	0,9 km	
+09:00	0,9	At T-korsning Margaretelund, stay on 44 [Ringleden] (West)	1,5 km	
+09:02	2,5	At roundabout, take the SECOND exit onto 44 [Ringleden]	0,3 km	
+09:02	2,8	At roundabout, take the THIRD exit onto 44	0,3 km	
+09:02	3,0	At 44, 531 41 Lidköping, stay on 44 (South-West)	2,3 km	
+09:04	5,4	Arrive T-korsning Risa		
+
+SUMMARY
+Driving distance:  5,4 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  9,71 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,2 kilometres (17 minutes)
+09:00	0,0	Depart 44, 531 Lidköping on Local road(s) (East)	70 m	
+09:00	0,1	Keep STRAIGHT onto 44	0,4 km	
+09:00	0,4	At near Lidköping, stay on 44 [Ringleden] (North-East)	0,9 km	
+09:01	1,3	At T-korsning Lidköping Ö, stay on 44 [Ringleden] (East)	1,7 km	
+09:02	3,0	At Filsbäck, 531 Lidköping, stay on 44 (East)	1,9 km	
+09:04	4,9	At 44, 531 Lidköping, stay on 44 (East)	2,2 km	
+09:06	7,1	At T-korsning Skeby väg, stay on 44 (North-East)	1,1 km	
+09:07	8,2	At T-korsning Källby S, stay on 44 (North-East)	0,9 km	
+09:07	9,1	At T-korsning Källbytorp, stay on 44 (East)	1,4 km	
+09:08	10,5	At T-korsning Husaby väg, stay on 44 (East)	1,3 km	
+09:09	11,8	At T-korsning, stay on 44 (East)	0,4 km	
+09:10	12,2	At T-korsning Kollängen, stay on 44 (East)	1,7 km	
+09:11	13,8	At Korsning Skälvum, stay on 44 (East)	2,0 km	
+09:12	15,8	At T-korsning Göttorp, stay on 44 (East)	1,6 km	
+09:14	17,4	Keep RIGHT onto Local road(s)	80 m	
+09:14	17,5	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:14	17,6	Keep STRAIGHT onto 44	1,8 km	
+09:15	19,5	At T-korsning Götene norr, stay on 44 (East)	0,9 km	
+09:16	20,4	At T-korsning Götene nordöst, stay on 44 (East)	0,4 km	
+09:17	20,8	At 44, 533 Götene, stay on 44 (East)	0,4 km	
+09:17	21,2	Arrive 44, 533 Götene		
+
+SUMMARY
+Driving distance:  21,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  28,50 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,2 kilometres (17 minutes)
+09:00	0,0	Depart E20, 533 31 Götene on Local road(s) (North)	60 m	
+09:00	0,1	Bear RIGHT (West) onto 44	0,4 km	
+09:00	0,5	At 44, 533 31 Götene, stay on 44 (West)	0,3 km	
+09:00	0,8	At T-korsning Götene nordöst, stay on 44 (West)	1,0 km	
+09:01	1,8	At T-korsning Götene norr, stay on 44 (West)	1,8 km	
+09:03	3,6	Bear RIGHT (West) onto Local road(s)	70 m	
+09:03	3,7	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:03	3,8	Keep STRAIGHT onto 44	1,6 km	
+09:04	5,5	At T-korsning Göttorp, stay on 44 (West)	2,0 km	
+09:06	7,4	At Korsning Skälvum, stay on 44 (West)	1,7 km	
+09:07	9,1	At T-korsning Kollängen, stay on 44 (West)	0,4 km	
+09:07	9,5	At T-korsning, stay on 44 (West)	1,3 km	
+09:08	10,8	At T-korsning Husaby väg, stay on 44 (West)	1,4 km	
+09:09	12,2	At T-korsning Källbytorp, stay on 44 (West)	0,9 km	
+09:10	13,1	At T-korsning Källby S, stay on 44 (South-West)	1,1 km	
+09:11	14,2	At T-korsning Skeby väg, stay on 44 (South)	2,1 km	
+09:13	16,3	At T-korsning Filsbäck öst, stay on 44 (West)	1,9 km	
+09:15	18,2	At T-korsning Filsbäck väst, stay on 44 (West)	1,8 km	
+09:16	20,0	At T-korsning Lidköping Ö, stay on 44 [Ringleden] (West)	0,8 km	
+09:17	20,8	At Kartåsgatan 2, 531 40 Lidköping, stay on 44 [Ringleden] (South-West)	0,4 km	
+09:17	21,2	Arrive 44, 531 40 Lidköping		
+
+SUMMARY
+Driving distance:  21,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  32,50 kr
+
+Torpmotet (96) - (R) Kärra
+0.8 km/0.4 km	0 min 58 s/0 min 29 s
+1.2 km/1.3 km	1 min 2 s/1 min 7 s
+1.2 km/1.2 km	1 min 2 s/1 min 2 s
+
+1.4 km/1.7 km	0 min 56 s/1 min 8 s
+0.9 km/1.4 km	0 min 36 s/0 min 56 s
+1.1 km/0.9 km	0 min 44 s/0 min 36 s
+2.0 km/1.9 km	1 min 20 s/1 min 16 s
+1.3 km/1.3 km	0 min 52 s/0 min 52 s
+1.7 km/1.5 km	1 min 8 s/1 min 0 s
+
+5.6 km/5.3 km	3 min 22 s/3 min 11 s
+1.9 km/2.1 km	1 min 2 s/1 min 9 s
+0.9 km/0.9 km	0 min 29 s/0 min 29 s
+2.4 km/2.2 km	1 min 19 s/1 min 12 s
+1.6 km/2.0 km	0 min 52 s/1 min 5 s
+2.6 km/2.6 km	1 min 25 s/1 min 25 s
+1.4 km/1.9 km	0 min 50 s/1 min 8 s
+
+Trp Båberg - Trp Stallbacka
+1.8 km/1.0 km	1 min 12 s/0 min 40 s	90
+0.4 km/1.3 km	0 min 16 s/0 min 52 s
+2.1 km/1.6 km	1 min 24 s/1 min 4 s
+1.7 km/1.5 km	1 min 8 s/1 min 0 s
+0.7 km/1.3 km	0 min 28 s/0 min 52 s
+
+Trp Stallbacka - Mulltorpsrondellen
+2.0 km/1.4 km	1 min 20 s/0 min 56 s	90
+0.5 km/0.7 km	0 min 20 s/0 min 28 s
+1.7 km/1.5 km	1 min 8 s/1 min 0 s
+
+Mulltorpsrondellen - (R) Tre Älgar
+2.7 km/2.7 km	2 min 2 s/2 min 2 s	80
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+3.7 km/3.7 km	2 min 47 s/2 min 47 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+3.4 km/3.4 km	2 min 33 s/2 min 33 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+
+(R) Tre Älgar - Grästorp/Lidköping
+1.4 km/1.4 km	1 min 3 s/1 min 3 s	80
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+2.1 km/2.1 km	1 min 35 s/1 min 35 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+0.7 km/0.7 km	0 min 31 s/0 min 31 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+
+Grästorp/Lidköping - (T) Västergården
+1.7 km/1.7 km	1 min 17 s/1 min 17 s	80
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+
+(T) Västergården - (T) Gillstad Ö
+0.9 km/0.9 km	0 min 54 s/0 min 54 s	60
+0.8 km/0.8 km	0 min 48 s/0 min 48 s
+
+(T) Gillstad Ö - (T) Risa
+0.9 km/0.9 km	0 min 41 s/0 min 41 s	80
+4.1 km/4.2 km	3 min 5 s/3 min 9 s
+3.5 km/3.5 km	2 min 38 s/2 min 38 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+
+(T) Risa - (R) Ågårdsskogen
+2.2 km/2.3 km	1 min 53 s/1 min 58 s	70
+0.4 km/0.5 km	0 min 21 s/0 min 26 s
+
+(R) Ågårdsskogen - (R) Kartåsen
+1.7 km/1.5 km	2 min 2 s/1 min 48 s	50
+1.0 km/0.9 km	1 min 12 s/1 min 5 s
+
+(R) Kartåsen - (T) Lidköping Ö
+0.4 km/0.4 km	0 min 29 s/0 min 29 s	50
+0.9 km/0.8 km	1 min 5 s/0 min 58 s
+
+(T) Lidköping Ö - Filsbäck väst
+1.7 km/1.8 km	1 min 27 s/1 min 33 s	70
+
+Filsbäck väst - Filsbäck öst
+1.9 km/1.9 km	2 min 17 s/2 min 17 s	50
+
+Filsbäck öst - (T) Göttorp
+2.2 km/2.1 km	1 min 39 s/1 min 35 s	80
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+1.7 km/1.7 km	1 min 17 s/1 min 17 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+
+(T) Göttorp - (R) Götene NÖ
+1.7 km/1.7 km	1 min 27 s/1 min 27 s	70
+2.0 km/1.9 km	1 min 43 s/1 min 38 s
+0.9 km/1.0 km	0 min 46 s/0 min 51 s
+0.4 km/0.3 km	0 min 21 s/0 min 15 s
+0.4 km/0.5 km	0 min 21 s/0 min 26 s

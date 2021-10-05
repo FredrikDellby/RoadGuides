@@ -1,0 +1,319 @@
+Reseguide E4 Jönköping - Stockholm
+===================================
+
+Trafikplats (95)
+ Jönköping C
+ 40: Göteborg
+ 26: Halmstad
+ 26: Mariestad
+			(E4)		2,1 km/2,3 km	1 min 24 s/1 min 32 s
+			(Rv 40)		1,9 km/2,3 km	1 min 16 s/1 min 32 s
+Trafikplats (96)
+ Länssjukhuset Ryhov
+Bensinstation: Statoil
+Restaurang: Eurostop
+					1,5 km/1,3 km	1 min/52 s
+Trafikplats A6 (97)
+ Köpcentrum
+Bensinstation: Shell
+Restaurang: McDonald's
+					0,8 km/1,4 km	32 s/56 s
+Trafikplats (98)
+ 31: Nässjö
+ 33: Västervik
+Bensinstation: Norsk Hydro, JET
+Jönköping C
+ (avfart sydgående riktning
+  Påfart nordgående riktning)
+					2,0 km/1,2 km	1 min 20 s/48 s
+Trafikplats (99)
+ Elmiamässan
+Bensinstation: Statoil
+					1,5 km/1,3 km	1 min/52 s
+Trafikplats (100)
+ Huskvarna
+ 132: Aneby
+ Huskvarna industrimuseum
+Bensinstation: OKQ8, Shell
+					3,0 km/3,8 km	2 min/2 min 32 s
+Trafikplats (101)
+ Huskvarna Norr
+					4,3 km/3,8 km	2 min 21 s/2 min 4 s
+Rastplats Vista Kulle
+					8,5 km/8,8 km	4 min 38 s/4 min 48 s
+Trafikplats Vättersmålen (102)
+ Ölmstad
+Rastplats Vätterleden
+Bensinstation: Preem
+					1,7 km/1,5 km	56 s/49 s
+Rastplats Gunneryd
+(sydgående riktning)
+					9,6 km/9,6 km	5 min 14 s/5 min 14 s
+Trafikplats Gyllene Uttern (103)
+Rastplats Gyellene Uttern
+					1,3 km/1,3 km	43 s/43 s
+Trafikplats Gränna (104)
+ Gränna
+ 133: Tranås
+Bensinstation: Statoil
+					6,3 km/6,7 km	3 min 26 s/3 min 39 s
+Rastplats Brahehus
+Bensinstation: Preem
+					7,3 km/6,0 km	3 min 59 s/3 min 16 s
+Jönköping / Östergötland
+Jönköping / Ödeshög
+					3,9 km/4,7 km	2 min 8 s/2 min 34 s
+Trafikplats Vida Vättern (105)
+Rastplats Vida Vättern
+					11,1 km/11,6 km	6 min 3 s/6 min 20 s
+Trafikplats Ödeshög (106)
+ 50: Örebro, Motala
+Rastplats Östgötaporten
+Bensinstation: OKQ8
+					12,3 km/11,6 km	6 min 43 s/6 min 20 s
+Ödeshög / Mjölby
+					4,9 km/5,7 km	2 min 40 s/3 min 7 s
+Trafikplats Väderstad (107)
+					10,8 km/10,3 km	5 min 53 s/5 min 37 s
+Trafikplats Mjölby V (108)
+ 32: Vetlanda, Motala
+Restaurang: McDonald's
+					4,9 km/5,7 km	2 min 40 s/3 min 7 s
+Trafikplats Mjölby Ö (109)
+Rastplats Albacken
+					2,8 km/1,8 km	1 min 32 s/59 s
+Rastplats Svartån
+(sydgående riktning)
+					5,2 km/5,7 km	2 min 50 s/3 min 7 s
+Trafikplats Mantorp (110)
+ Mantorp
+ 206: Vadstena, Skänninge
+Bensinstation: Statoil, Preem
+					3,4 km/2,6 km	1 min 51 s/1 min 25 s
+Mjölby / Linköping
+					12,2 km/13,0 km	6 min 39 s/7 min 5 s
+Trafikplats Linköping västra (111)
+ 36: Motala
+ 34: Kalmar, Vimmerby
+					3,1 km/2,8 km	1 min 41 s/1 min 32 s
+Trafikplats Linköping norra (112)
+Restaurang: McDonald's, Burger King
+Bensinstation: Statoil, OKQ8
+					2,9 km/2,5 km	1 min 35 s/1 min 22 s
+Stångån
+					2,4 km/3,5 km	1 min 19 s/1 min 55 s
+Trafikplats Linköping östra (113)
+ 35: Västervik
+					13,2 km/12,7 km	7 min 12 s/6 min 56 s
+Rastplats Herrbeta
+Bensinstation: Shell
+					2,0 km/1,5 km	1 min 5 s/49 s
+Linköping / Norrköping
+					2,5 km/3,2 km	1 min 22 s/1 min 45 s
+(115)
+ 210: Söderköping
+ 215: Finspång
+Bensinstation: Statoil
+					6,2 km/5,5 km	3 min 23 s/3 min
+(116)
+ Norsholm, Kimstad
+					3,8 km/4,0 km	2 min 4 s/2 min 11 s
+(117)
+ Kimstad
+					2,0 km/2,5 km	1 min 5 s/1 min 22 s
+(118)
+ Skärblacka
+Rastplats Klinga
+Bensinstation: OKQ8
+Restaurang: McDonald's
+					2,5 km/2,0 km	1 min 22 s/1 min 5 s
+Trafikplats Norrköping S (119)
+ E22: Kalmar
+					2,4 km/2,3 km	1 min 36 s/1 min 32 s
+Motala Ström
+					3,6 km/4,4 km	2 min 24 s/2 min 56 s
+(121)
+ 51: Norrköping, Finspång
+					1,3 km/0,8 km	52 s/32 s
+(122)
+(avfart sydgående riktning,
+ påfart nordgående riktning)
+ Norrköping N, Centrum
+					0,5 km/0,5 km	20 s/20 s
+(123)
+(avfart nordgående riktning
+ påfart sydgående riktning)
+ 55: Katrineholm
+ 56: Västerås
+					0,9 km/1,0 km	36 s/40 s
+(124)
+ 55: Katrineholm
+ 56: Västerås
+					2,7 km/2,2 km	1 min 48 s/1 min 28 s
+(125)
+(avfart norgående riktning
+ påfart sydgående riktning)
+ Åby
+					8,6 km/8,7 km	4 min 41 s/4 min 45 s
+(126)
+ Krokek
+ Kolmårdens Djurpark
+					4,2 km/4,2 km	2 min 17 s/2 min 17 s
+Östergötland / Södermanland
+Norrköping / Nyköping
+					1,9 km/2,6 km	1 min 2 s/1 min 25 s
+Trafikplats Stavsjö (127)
+ Kolmårdens Djurpark
+Rastplats Stavsjö
+Bensinstation: Statoil
+
+					12,8 km/12,7 km	6 min 59 s/6 min 56 s
+(128)
+ 216: Katrineholm, Björkvik
+					6,9 km/6,9 km	3 min 46 s/3 min 46 s
+(129)
+ Jönåker
+					11,7 km/11,1 km	6 min 23 s/6 min 3 s
+Rastplats Nyköpingsbro
+Bensinstation: Shell
+					1,1 km/1,1 km	36 s/36 s
+Trp Bergshammar
+(avfart sydgående riktning
+ påfart nordgående riktning)
+ Bergshammar, Svalsta, Enstaberga
+					1,8 km/2,1 km	59 s/1 min 9 s
+Trp Nyköping väst (132)
+ 53: Oxelösund
+Restaurang: McDonald's
+Bensinstation: Tanka, Statoil
+					2,1 km/1,8 km	1 min 9 s/59 s
+Trp Nyköping nord (133)
+ 52: Katrineholm
+ 53: Eskilstuna
+ Skavsta Flygplats
+					2,1 km/3,0 km	1 min 9 s/1 min 38 s
+Trp Nyköping öst (134)
+Bensinstation: OKQ8
+					14,6 km/14,1 km	7 min 58 s/7 min 41 s
+Trp Tystberga (135)
+ Studsvik
+					8,1 km/9,7 km	4 min 25 s/5 min 17 s
+(136) (nordgående riktning)
+(137) (sydgående riktning)
+ Lästringe
+ 224: Gnesta
+					3,6 km/2,1 km	1 min 58 s/1 min 9 s
+Rastplats Sillekrog
+Bensinstation: OKQ8
+					1,1 km/0,7 km	36 s/23 s
+Nyköping / Trosa
+					7,5 km/8,3 km	4 min 5 s/4 min 32 s
+Trp Vagnhärad (138)
+ 218: Trosa
+					4,8 km/3,9 km	2 min 37 s/2 min 8 s
+Södermanland / Stockholm
+Trosa / Södertälje
+					4,0 km/5,0 km	2 min 11/2 min 44 s
+(139)
+ Hölö
+					7,7 km/7,1 km	4 min 12/3 min 52 s
+Trafikplats Järna (141)
+ 57: Katrineholm, Gnesta
+Rastplats Järna
+Bensinstation: Statoil
+					8,9 km/8,9 km	4 min 51 s/4 min 51 s
+(142)
+ Pershagen
+ Södertälje Syd station
+					2,1 km/2,4 km	1 min 16 s/1 min 26 s
+(143)
+ E20: Göteborg
+ Södertälje C
+					2,6 km/2,8 km	1 min 34 s/1 min 41 s
+(144)
+ Södertälje N
+ södertälje C
+					2,8 km/1,9 km	1 min 41 s/1 min 8 s
+Södertälje / Salem
+					3,0 km/3,6 km	1 min 48 s/2 min 10 s
+Trp Salen (145)
+ Rönninge	
+					2,2 km/1,6 km	1 min 19 s/58 s
+Salem / Botkyrka
+					3,5 km/4,6 km	2 min 6 s/2 min 46 s
+Trp Norsborg (146)
+ Alby
+					2,3 km/1,2 km	1 min 32 s/48 s
+Trp Fittja (147)
+ 259: Huddinge
+ Huddinge sjukhus
+Bensinstation: OKQ8
+Restaurang: McDonald's
+					1,0 km/1,0 km	40 s/40 s
+Bro över ...
+Botkyrka / Huddinge
+					0,3 km/0,4 km	12 s/16 s
+Trp Masmo (148)
+ [259]: Huddinge
+ Huddinge sjukhus
+					1,3 km/1,6 km	52 s/1 min 4 s
+Trp Vårby (150)
+					1,2 km/2,0 km	48 s/1 min 20 s
+Trp Kungens Kurva (151)
+ Skärholmen
+Bensinstation: Statoil, OKQ8
+Restaurang: McDonald's
+					2,9 km/2,4 km	1 min 56 s/1 min 36 s
+Huddinge / Stockholm
+ Trp Segeltorp (152)
+ Mälarhöjden
+Bensinstation: Shell, Preem
+					2,1 km/1,8 km	1 min 24 s/1 min 12 s
+Trp Västertorp (153)
+					0,9 km/1,6 km	36 s/1 min 4 s
+Trp Västberga (154)
+ Midsommarkransen
+ Södermalm (avfart nordgående riktning
+	    påfart sydgående riktning)
+Bensinstation: OKQ8
+					1,4 km/1,2 km	63 s/
+(155)
+ Södra Länken: Nacka
+ [73]: Nynäshamn
+					1,7 km/0,8 km	77 s/
+Aspudden (156)
+(avfart sydgående riktning
+ påfart norgående riktning)
+					1,0 km/1,0 km	45 s/
+Gröndal (157)
+(avfart sydgående riktning
+ påfart norgående riktning)
+					0,1 km/0,3 km	5 s/
+Bro över ...
+					0,3 km/0,3 km	14 s/
+Stora Essingen (158)
+(ej påfart sydgående riktning)
+					0,3 km/0,3 km	14 s/
+Bro över ...
+					0,4 km/0,3 km	18 s/
+Lilla Essingen (159)
+(nordgående riktning)
+					0,3 km/0,2 km	14 s/
+Bro över ...
+					0,4 km/0,3 km	18 s/
+Trp Fredhäll (160)
+ Fridhemsplan
+ 175: Drottningholm, Bromma
+					0,3 km/0,6 km	14 s/
+Trp Stadshagen (161)
+ Sankt Görans sjukhus
+					0,9 km/0,7 km	41 s/
+Bro över ...
+Stockholm / Solna
+					0,3 km/0,5 km	14 s/
+(162)
+ Huvudsta, Solna
+					0,7 km/1,3 km	32 s/
+Trp Karlberg (163)
+ Karolinska Sjukhuset
+

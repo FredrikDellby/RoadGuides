@@ -1,0 +1,462 @@
+Reseguide E20 Göteborg - Örebro
+=================================
+
+Olskroksmotet (74)
+E6: Oslo
+Olskroken, Stampen
+				0,8 km/0,2 km	32 s/8 s
+Mot
+(sydgående riktning)
+				0,7 km/0,8 km	28 s/32 s
+(75)
+Gamlestaden
+				0,9 km/1,2 km	36 s/48 s
+Munkebäcksmotet (76)
+Kålltorp
+Bensinstation: Statoil
+				0,8 km/0,8 km	32 s/32 s
+Torpamotet (77)
+Östra sjukhuset
+				0,9 km/0,6 km	36 s/24 s
+Fräntorpsmotet (78)
+(avfart östgående riktning
+ påfart västgående riktning)
+				0,5 km/0,5 km	20 s/20 s
+Göteborg / Partille
+				2,5 km/2,8 km	1 min 40 s/1 min 52 s
+Partille C (80)
+Landvetter
+Bensinstation: Shell
+				2,0 km/1,5 km	1 min 20 s/1 min 0 s
+Rastplats Partille
+(västgående riktning)
+Turistinformation
+				0,8 km/1,2 km	32 s/48 s
+Partille Ö (81)
+				1,0 km/0,8 km	40 s/32 s
+Jonsered (82)
+				1,7 km/1,6 km	56 s/52 s
+Partille / Lerum
+				4,0 km/4,0 km	2 min 11 s/2 min 11 s
+Hulanmotet (84)
+Lerum V
+Bensinstation: Shell
+				3,9 km/4,1 km	2 min 8 s/2 min 14 s
+Kastenhofsmotet (86)
+Lerum Ö
+Stenkullen
+				5,2 km/5,2 km	2 min 50 s/2 min 50 s
+Floda (88)
+Stenkullen
+Bensinstation: Statoil, Preem
+				2,3 km/2,2 km	1 min 15 s/1 min 12 s
+Nääs (89)
+Nääs slott
+				1,5 km/1,3 km	49 s/43 s
+Trp Tollered
+Nääs fabriker
+				0,6 km/0,9 km	27 s/41 s
+Rastplats Tollered
+(västgående riktning)
+Motorväg
+upphör (östgående)
+börjar (västgående)
+				0,8 km/0,7 km	36 s/32 s
+Lerum / Alingsås
+				2,0 km/2,0 km	1 min 30 s/1 min 30 s
+Trafikplats Ingared S
+Ingared
+				1,0 km/1,2 km	45 s/54 s
+Trafikplats Ingared N
+Hemsjö, Ingared
+				2,6 km/2,5 km	1 min 57 s/1 min 57 s
+T-korsning Hästeryd
+Hemsjö
+				3,2 km/3,2 km	2 min 24 s/2 min 24 s
+Korsning V. Bodarna
+Västra Bodarna
+				1,4 km/2,1 km	1 min 3 s/1 min 34 s
+Rastplats Vardsjön
+				1,8 km/1,1 km	1 min 21 s/50 s
+Tankställe Alingsås södra
+Bensinstation: Statoil, Preem
+				1,0 km/1,1 km	1 min 12 s/1 min 19 s
+Rondell Sveaplan
+Centrum
+Bensinstation: Tanka
+Restaurang: McDonald's
+				1,0 km/0,9 km	1 min 12 s/1 min 5 s
+Korsning Götaplan
+180 s: Borås
+180 n: Trollhättan
+Bensinsation: Shell
+				0,3 km/0,3 km	22 s/22 s
+Avfart
+Bensinstation: JET
+				0,7 km/0,6 km	50 s/43 s
+T-korsning Kristineholm
+Bensinstation: Statoil, OKQ8
+				3,6 km/3,6 km	2 min 42 s/2 min 42 s
+T-korsning Ljurhalla
+Nårunga
+				0,6 km/0,6 km	27 s/27 s
+T-korsning Risa
+Torp
+				0,9 km/1,3 km	40 s/58 s
+Dubbel T-korsning Marbogården
+Torp
+Alingsås / Vårgårda
+				1,7 km/1,3 km	1 min 17 s/58 s
+T-korsning Hol västra
+Hol
+				1,1 km/1,1 km	50 s/50 s
+Korsning Hol kyrka
+Hol
+				0,9 km/0,9 km	40 s/40 s
+Tankställe Hol
+Bensinstation: Statoil
+				0,7 km/0,7 km	31 s/31 s
+T-korsning Hol motell
+Horla
+				1,3 km/1,3 km	58 s/58 s
+T-korsning Bäne
+Horla
+				2,4 km/2,4 km	1 min 48 s/1 min 48 s
+T-korsning Lagmansholm
+Östadkulle
+				1,7 km/1,7 km	1 min 17 s/1 min 17 s
+T-korsning Tubbetorp
+Siene
+				2,4 km/2,6 km	1 min 48 s/1 min 57 s
+Trafikplats Vårgårda S
+42: Borås
+Bensinstation: Preem
+				1,0 km/0,7 km	45 s/31 s
+Järnvägskorsning
+				1,4 km/1,5 km	1 min 3 s/1 min 8 s
+Trafikplats Vårgårda V
+42: Trollhättan
+				1,4 km/1,4 km	1 min 3 s/1 min 3 s
+T-korsning Vårgårda N
+181: Herrljunga
+Bensinstation: OKQ8
+Restaurang: Vårgårda Rasta
+				0,9 km/0,9 km	0 min 40 s/0 min 40 s
+T-korsning Lund
+				3,9 km/3,9 km	2 min 56 sek/2 min 56 sek
+T-korsning St. Härene
+S. Härene, Eggvena
+				1,1 km/1,1 km	0 min 50 sek/0 min 50 sek
+T-korsning Tegalund
+Nossebro, Fåglum
+				2,1 km/2,1 km	1 min 35 sek/1 min 35 sek
+Vårgårda / Essunga
+				2,6 km/2,6 km	1 min 57 sek/1 min 57 sek
+Korsning Bragnum
+Barne-Åsaka, Fåglum
+				0,6 km/0,7 km	0 min 27 sek/0 min 31 sek
+Dubbel T-korsning Lekåsa
+Lekåsa
+Nossebro, Jonslund
+				2,0 km/1,9 km	1 min 30 sek/1 min 26 sek
+Essunga / Vara
+				1,4 km/1,4 km	1 min 3 sek/1 min 3 sek
+Korsning Eling
+Eling
+Jonslund
+				5,3 km/5,5 km	3 min 59 sek/4 min 8 sek
+Tankställe Naum S
+Bensinstation: Statoil
+				2,4 km/2,2 km	1 min 48 sek/1 min 39 sek
+Dubbel T-korsning Naum
+Nossebro, Arentorp
+Hillebo
+Bensinstation: OKQ8
+				3,4 km/3,2 km	2 min 33 sek/2 min 24 sek
+Trafikplats Vara
+187: Lidköping
+Emtunga
+Bensinstation: Tanka, Din-X
+				1,7 km/1,8 km	1 min 16 sek/1 min 21 sek
+Korsning Önum Syd
+Önum
+				1,0 km/1,0 km	0 min 45 sek/0 min 45 sek
+T-korsning Önum Nord
+Önum
+				1,0 km/1,4 km	0 min 45 sek/1 min 3 sek
+Trafikplats Åsen
+47 ö: Jönköping
+47 v: Trollhättan
+				2,2 km/1,8 km	1 min 39 sek/1 min 21 sek
+T-korsning Kartegården
+Skarstad
+				2,5 km/2,5 km	1 min 53 sek/1 min 53 sek
+Korsning Löjtnantsholm
+Fyrunga
+				1,2 km/1,2 km	0 min 54 sek/0 min 54 sek
+T-korsning Törestorp
+Jung
+				3,5 km/3,5 km	2 min 38 sek/2 min 38 sek
+Korsning Jung
+Kvänum
+Jung, Saleby
+Bensinstation: Preem
+				1,7 km/1,7 km	1 min 16 sek/1 min 16 sek
+Korsning Berga
+Jung
+				2,5 km/2,5 km	1 min 53 sek/1 min 53 sek
+Korsning Jonstorp
+Saleby
+				1,3 km/1,3 km	0 min 59 sek/0 min 59 sek
+Korsning Villaberg
+Kvänum, Öttum
+				1,0 km/1,0 km	0 min 45 sek/0 min 45 sek
+Vara / Skara
+				1,7 km/1,7 km	1 min 16 sek/1 min 16 sek
+T-korsning V. Gerum väst
+V. Gerum
+				0,5 km/0,6 km	0 min 23 sek/0 min 27 sek
+Rastplats Kålltorp
+(västgående riktning)
+				1,3 km/1,1 km	0 min 59 sek/0 min 50 sek
+T-korsning V. Gerum öst
+V. Gerum
+				1,2 km/1,4 km	0 min 54 sek/1 min 3 sek
+Rastplats Blombacka
+(östgående riktning)
+				1,5 km/1,4 km	1 min 8 sek/1 min 3 sek
+T-korsning Ardala väst
+Vinköl, N. Vånga
+				0,6 km/0,6 km	0 min 27 sek/0 min 27 sek
+T-korsning Ardala syd
+Ardala
+				0,6 km/0,6 km	0 min 27 sek/0 min 27 sek
+T-korsning Ardala öst
+Marum
+				2,3 km/2,3 km	1 min 43 sek/1 min 43 sek
+Korsning Simmatorp
+Marum
+				1,7 km/1,6 km	1 min 16 sek/1 min 12 sek
+Trafikplats Skara V
+184 n: Lidköping
+184 s: Falköping
+Bensinstation: Bilisten
+				3,3 km/3,4 km	3 min 18 sek/3 min 24 sek
+Trafikplats Skara Ö
+Bensinstation:
+Norsk Hydro, Uno-X, Preem
+				0,7 km/1,0 km	0 min 42 sek/0 min 60 sek
+Trafikplats Skara N
+49: Skövde
+Bensinstation: OKQ8
+Restaurang: McDonald's
+				3,0 km/2,7 km	2 min 15 sek/2 min 2 sek
+Korsning Marskaby
+Skånings-Åsaka
+				1,9 km/1,9 km	1 min 26 sek/1 min 26 sek
+Korsning Klippan
+Skånings-Åsaka
+Myråsen
+				1,9 km/1,9 km	1 min 26 sek/1 min 26 sek
+Skara / Götene
+				1,1 km/1,4 km	0 min 50 sek/1 min 3 sek
+T-korsning
+Skånings-Åsaka
+				0,9 km/1,0 km	0 min 40 sek/0 min 45 sek
+Dubbel T-korsning Ledsjö K:a
+Eggby, Lundsbrunn
+				0,7 km/0,6 km	0 min 31 sek/0 min 27 sek
+Korsning
+L. Bjurum
+				1,1 km/1,1 km	0 min 50 sek/0 min 50 sek
+T-korsning Ringåsen
+Lundsbrunn
+				3,3 km/3,3 km	2 min 28 sek/2 min 28 sek
+Korsning Vättlösa
+Vättlösa
+Götene
+Bensinstation: Uno-X
+				2,3 km/2,3 km	1 min 43 sek/1 min 43 sek
+Korsning Motorp
+Motorp, Holmestad
+Götene
+				0,8 km/0,9 km	0 min 36 sek/0 min 40 sek
+T-korsning Götene N
+44: Uddevalla
+Rastplats Götene
+Bensinstation: Preem
+				1,4 km/1,3 km	1 min 3 sek/0 min 59 sek
+Korsning Ängavägen
+Timmersdala
+Hällekis, Kinne-Vedum
+				2,6 km/2,6 km	1 min 57 sek/1 min 57 sek
+Korsning Boamarken
+Holmestad
+Kinne-Vedum
+				3,6 km/3,6 km	2 min 42 sek/2 min 42 sek
+Götene / Mariestad
+				1,2 km/1,2 km	0 min 54 sek/0 min 54 sek
+T-korsning Lilla Moholm
+Äskekärr
+				1,7 km/1,7 km	1 min 16 sek/1 min 16 sek
+T-korsning Månstorp
+				1,2 km/1,8 km	0 min 54 sek/1 min 21 sek
+T-korsning Motorp
+Lugnås K:a
+Rastplats Motorp
+(sydgående riktning)
+				4,2 km/3,6 km	3 min 9 sek/2 min 42 sek
+Korsning Lugnås E20
+Lugnås K:a
+Hällekis, Bredsäter
+				2,8 km/2,8 km	2 min 6 sek/2 min 6 sek
+T-korsning Trankärr
+Lugnås, Prästekvrn
+Bensinstation: Uno-X
+				4,9 km/4,8 km	3 min 41 sek/3 min 36 sek
+Trp Mariestad Syd
+26: Jönköping, Skövde
+Bensinstation: Preem, Tanka
+Resstaurang: McDonald's
+				2,0 km/2,0 km	1 min 43 sek/1 min 43 sek
+Trp Mariestad Öst
+201: Tibro
+Bensinstation: Statoil
+				1,1 km/1,4 km	0 min 57 sek/1 min 12 sek
+Rastplats Rattugglan
+Bensinstation: OKQ8
+				2,2 km/2,5 km	1 min 53 sek/2 min 9 sek
+Trp Mariestad Nord
+ 202: Karlsborg, Töreboda
+				2,3 km/1,7 km	1 min 43 s/1 min 16 s
+T-korsning Säbykrogen
+ Torsö, Berga
+				1,5 km/1,5 km	1 min 8 s/1 min 8 s
+T-korsning Ingarud
+ Brodderud
+				0,6 km/1,0 km	0 min 27 s/0 min 45 s
+Tankställe Hasslerör
+Bensinstation: Shell
+Restaurang: Route 66
+Korsning Rör
+ Hasslerör
+				1,3 km/0,9 km	0 min 59 s/0 min 40 s
+Korsning 
+ Torp
+Bensinstation: ST1
+				0,5 km/0,5 km	0 min 23 s/0 min 23 s
+T-korsning Hasslerör Ö
+ 26: Kristinehamn
+				0,8 km/0,8 km	0 min 36 s/0 min 36 s
+T-korsning Vallby
+ Färed
+				8,3 km/8,5 km	6 min 14 s/6 min 23 s
+Dubbel T-korsning Lyrestad S
+ Fredsberg
+ Lyrestad, Sjötorp
+Bensinstation: Preem
+				1,2 km/1,0 km	0 min 54 s/0 min 45 s
+Korsning Lyrestad Ö
+ Lyrestad
+				0,9 km/1,0 km	0 min 40 s/0 min 45 s
+Dubbel T-korsning Backa
+ Lyrestad
+ Norrkvarn
+				2,2 km/2,1 km	1 min 39 s/1 min 35 s
+Mariestad / Gullspång
+				2,7 km/2,7 km	2 min 2 s/2 min 2 s
+Korsning Fagerlid
+ Storkila
+				3,1 km/3,1 km	2 min 20 s/2 min 20 s
+T-korsning Hova industri
+ [200]: Töreboda, Hova
+				1,1 km/1,1 km	0 min 57 s/0 min 57 s
+Tankställe Hova Väst
+Bensinstation: Norsk Hydro
+				1,0 km/1,3 km	0 min 51 s/1 min 7 s
+Korsning Hova N
+ 200: Skövde, Töreboda
+ Gullspång
+Rastplats Hova
+Bensinstation: Statoil
+				2,9 km/2,6 km	2 min 10 s/1 min 57 s
+T-korsning Berget
+ Gårdsjö		
+				5,4 km/5,4 km	4 min 3 s/4 min 3 s
+Västra Götaland / Örebro
+ Gullspång / Laxå
+				0,3 km/0,3 km	0 min 13 s/0 min 13 s
+Korsning Vallsjöbol
+ Gårdsjö
+ Vallsjöbol
+				5,3 km/5,3 km	3 min 59 s/3 min 59 s
+Korsning Finnerödja väst
+ Finnerödja
+ Kvarntorp
+				1,1 km/1,1 km	0 min 50 s/0 min 50 s
+Korsning Finnerödja nord
+ Finnerödja
+				1,4 km/1,4 km	1 min 3 s/1 min 3 s
+Järnvägskorsning
+				6,2 km/6,5 km	4 min 39 s/4 min 53 s
+Rastplats Borasjön
+				5,3 km/5,0 km	3 min 59 s/3 min 45 s
+Korsning Laxå mitt
+ 205: Askersund
+				0,7 km/0,9 km	0 min 42 s/0 min 54 s
+Venavägen/E20
+ Bensinstation: Preem
+T-korsning Laxå Ö
+ 205: Karlskoga
+Bensinstation: OKQ8
+Restaurang: Route 66
+				2,8 km/2,6 km	2 min 6 s/1 min 57 s
+T-korsning?
+ Svinnersta
+Laxå / Hallsberg
+				1,5 km/1,4 km	1 min 8 s/1 min 3 s
+Korsning Stavåna
+ Hasselfors, Porla Brunn
+				3,5 km/3,5 km	2 min 38 s/2 min 38 s
+Korsning
+ Vretstorp
+				0,7 km/0,7 km	0 min 31 s/0 min 31 s
+Motorväg
+ börjar (nordgående riktning)
+ upphör (sydgående riktning)
+				6,2 km/6,6 km	3 min 23 s/3 min 36 s
+Trp Vretstorp (104)
+ Vretstorp, Askersund
+ Fjugesta, Viby
+				3,8 km/3,7 km	2 min 4 s/2 min 1 s
+Trp Östansjö (105)
+ Östansjö
+ Viby
+				4,0 km/3,7 km	2 min 11 s/2 min 1 s
+Hallsberg / Kumla
+				1,1 km/1,8 km	0 min 36 s/0 min 59 s
+Trp Stenkulla (106)
+ 50: Jönköping
+ Hallsberg
+ Hardemo
+				5,0 km/5,1 km	2 min 44 s/2 min 47 s
+Trp Kumla Syd (107)
+ 51: Norrköping
+ 52: Katrineholm
+				4,1 km/3,8 km	2 min 14 s/2 min 4 s
+Rastplats Sickelsta
+				3,5 km/3,9 km	1 min 55 s/2 min 8 s
+Trp Kumla Nord (108)
+ Kumla
+				1,7 km/0,8 km	0 min 56 s/0 min 26 s
+Kumla / Örebro
+				3,8 km/4,1 km	2 min 4 s/2 min 14 s
+Trp Marieberg (109)
+ Marieberg, Mosås
+				3,0 km/3,2 km	1 min 38 s/1 min 45 s
+Trp Adolfsberg 2 (110)
+ Örebro S
+ [E18]: Oslo, Karlskoga
+				1,3 km/0,6 km	0 min 52 s/0 min 24 s
+Trp Adolfsberg 1 (110)
+ E18: Oslo, Karlskoga

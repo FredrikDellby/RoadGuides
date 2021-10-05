@@ -1,0 +1,163 @@
+Etapp 1: Berliner Ring - Dessau (71,2 km/70,5 km)
+
+AB-Dreieck Potsdam (1)
+ A10 med: [A2], [A19], [A24]
+ A10 mot: [A11], [A12], [A13]
+					2.5 km/1.2 km	1 min 15 s/0 min 36 s
+Anschlausstelle 2
+ Beelitz-Heilstätten
+					6.7 km/6.3 km	3 min 21 s/3 min 9 s
+Anschlausstelle 3
+ Beelitz
+ B246:
+					1.5 km/2.3 km	0 min 45 s/1 min 9 s
+Rastplatz Borker Heide/Zauche
+					9.0 km/8.8 km	4 min 30 s/4 min 24 s
+Anschlausstelle 4
+ Brück
+ Benzin: Esso
+ Restaurang: McDonald's, Sam Kullman's Diner
+					3.0 km/3.6 km	1 min 30 s/1 min 48 s
+Rasthof Fläming
+ Benzin: Shell
+ Restaurang: Marché
+					6.4 km/5.8 km	3 min 12 s/2 min 54 s
+Anschlausstelle 5
+ Niemegk
+ B102:
+					7.0 km/8.4 km	3 min 30 s/4 min 12 s
+Rastplatz
+					4.6 km/3.6 km	2 min 18 s/1 min 48 s
+(Hagenbrücke (76 m))
+
+Anschlausstelle 6
+ Klein Marzehns
+					4.0 km/3.4 km	2 min 0 s/1 min 42 s
+Brandenburg / Sachsen-Anhalt
+					4.3 km/4.9 km	2 min 9 s/2 min 27 s
+Rastplatz Cobbelsdorf
+					1.9 km/1.6 km	57 s/48 s
+Anschlausstelle 7
+ Köselitz
+ B107:
+					9.8 km/9.7 km	4 min 54 s/4 min 51 s
+Anschlausstelle 8
+ Coswig
+ B107:
+					2.7 km/3.1 km	1 min 21 s/1 min 33 s
+Rastplatz Wörlitz
+					1.7 km/1.2 km	51 s/36 s
+Elbebrücke Vockerode-nord
+ (655 m)
+					0.9 km/1.3 km	27 s/39 s
+Elbebrücke Vockerode-süd
+					1.9 km/2.0 km	0 min 57 s/1 min 0 s
+Anschlausstelle 9
+ Vockserode
+					3.1 km/3.3 km	1 min 33 s/1 min 39 s
+Anschlausstelle 10
+ Dessau-Ost
+ B107, B185
+ Benzin: Esso, Kaufland Tank
+ Restaurang: McDonald's
+ Hotel: Etap Dessau Ost
+
+Etapp 2: Dessau - Leipzig (45,9 km/47,0 km)
+					2.8 km/2.9 km	1 min 24 s/1 min 27 s
+Muldebrücke (431,5 m)
+					6.8 km/6.4 km	3 min 24 s/3 min 12 s
+Anschlausstelle 11
+ Dessau-Süd
+ B184:
+					3.0 km/3.4 km	1 min 30 s/1 min 42 s
+Rastplatz Klein Leipzig/Thurland
+					10.3 km/10.2 km	5 min 9 s/5 min 6 s
+Anschlausstelle 12
+ Bitterfeld / Wolfen
+ B183:
+					2.8 km/3.1 km	1 min 24 s/1 min 33 s
+Rasthof Köckern
+ Benzin: Total
+					5.7 km/6.2 km	2 min 51 s/3 min 6 s
+Anschlausstelle 13
+ Halle (Saale)
+ B100:
+					3.3 km/2.2 km	1 min 39 s/1 min 6 s
+Sachsen-Anhalt / Sachsen
+					4.3 km/4.7 km	2 min 9 s/2 min 21 s
+Rastplatz Landsberg
+					3.4 km/3.1 km	1 min 42 s/1 min 33 s
+Anschlausstelle 14
+ Wiedemar
+ Hotel: Formule 1
+					3.6 km/4.8 km	1 min 48 s/2 min 24 s
+AB-Kreuz Schkeuditz (15)
+ A14 w: Magdeburg, Halle
+ A14 o: Dresden, Leipzig flughafen
+
+Etapp 3: Leipzig - Rippachtal ()
+					4.0 km/2.5 km	2 min 0 s/1 min 15 s
+Anschlausstelle 16
+ Grosskugel
+ B6:
+					1.9 km/2.1 km	0 min 57 s/1 min 3 s
+Weisse-Elster-Brücke (60 m)
+					0.5 km/0.5 km	15 s/15 s
+Neue-Luppe-Brücke (150 m)
+					3.1 km/4.0 km	1 min 33 s/2 min 0 s
+(Luppebrücke)
+
+(Saale-Elster-Kanal-Brücke (100 m))
+
+Anschlausstelle 17
+ Leipzig-West
+ B181:
+					2.5 km/1.7 km	1 min 15 s/0 min 51 s
+Parkplatz
+					2.8 km/2.5 km	1 min 24 s/1 min 15 s
+Sachsen / Sachsen-Anhalt
+					2.3 km/2.9 km	1 min 9 s/1 min 27 s
+Anschlausstelle 18
+ Bad Dürrenberg
+					7.5 km/8.3 km	3 min 45 s/4 min 9 s
+AB-Kreuz Rippachtal (19)
+ A38 w: Göttingen, Halle
+ A38 o: Leipzig-Süd, [A14 o]
+
+Etapp 4: Rippachtal - Hermsdorf ()
+					4.2 km/3.0 km	2 min 6 s/1 min 30 s
+Rastplatz
+					3.7 km/4.5 km	1 min 51 s/2 min 15 s
+Anschlausstelle 20
+ Weissenfels
+ B91:
+					8.8 km/8.7 km	4 min 24 s/4 min 21 s
+Rasthof Osterfeld
+ Benzin: Shell
+ Restaurang: Axxe
+					1.7 km/1.4 km	51 s/42 s
+Anschlausstelle 21a
+ Naumburg (Saale)
+ B180:
+					6.3 km/5.7 km	3 min 9 s/2 min 51 s
+Anschlausstelle 21b
+ Droyssig
+ Benzin: Total
+					1.0 km/0.9 km	30 s/27 s
+Sachsen-Anhalt / Thüringen
+					9.3 km/9.4 km	4 min 39 s/4 min 42 s
+Anschlausstelle 22
+ Eisenberg (Thüringen)
+ B7:
+ Benzin: Agip
+ Restaurang: McDonald's
+					1.1 km/1.8 km	33 s/54 s
+Rastplatz
+					6.2 km/5.3 km	3 min 6 s/2 min 39 s
+Anschlausstelle 23
+ Bad Klosterlausnitz
+					2.8 km/5.0 km	1 min 24 s/2 min 30 s
+AB-Kreuz Hermsdorf (24)
+ A4 w: Erfurt, Gera
+ A4 o: Dresden, Chemnitz
+Raststätte Hermsdrofer

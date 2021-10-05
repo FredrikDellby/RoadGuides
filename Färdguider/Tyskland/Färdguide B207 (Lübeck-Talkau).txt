@@ -1,0 +1,86 @@
+Färdguide B207 (Lübeck - Wentorf)
+==================================
+
+Etapp 2: Lübeck-Süd - Ratzeburg (10,2 km/9,8 km)
+
+Anschlausstelle Lübeck-Süd
+ A20 w: [A1]
+ A20 o: Rostock, Wismar
+					1,5 km/1,2 km
+T-korsning B207/K37
+ Gross Sarau
+					1,2 km/1,2 km
+Järnvägsviadukt
+					2,7 km/2,7 km
+(Järnvägsbro)
+T-korsning
+ Pogeez
+					0,8 km/0,8 km
+T-korsning
+ Naturcamping Buchholz
+ Restaurant Angelsmühle
+					0,4 km/0,7 km
+Anschlausstelle
+ Buchholz
+					1,0 km/0,7 km
+Järnvägsbro
+					0,5 km/0,5 km
+Korsning
+ Klein Disnack
+					1,0 km/1,0 km
+Dubbel T-korsning Einhaus
+					0,5 km/0,4 km
+T-korsning Einhaus-Süd
+					0,9 km/0,8 km
+Anschlausstelle Ratzeburg-West
+ B208 w: Bad Oldersloe
+ B208 o: Schwerin, Gadebusch
+
+Etapp 3: Ratzeburg - Breitenfelde (13,4 km/13,5 km)
+					1,4 km/1,4 km
+Korsning B207/K35
+ Ratzeburg
+					1,3 km/1,3 km
+(Järnvägsbro)
+T-korsning
+ Ratzeburg
+					0,5 km/0,5 km
+Korsning Fredeburg
+ Hotel Fredenkrug Landgasthof
+					3,3 km/4,1 km
+Anschlausstelle Mölln
+(Järnvägsviadukt)
+					2,8 km/2,3 km
+Elbe-Lübeck-Kanal
+					0,9 km/0,8 km
+Anschlausstelle Alt-Mölln
+ Mölln
+					1,1 km/0,8 km
+Parkplatz
+					1,6 km/1,5 km
+Tankstelle: Esso
+Korsning Kuckucksredder
+					0,6 km/0,6 km
+Korsning Breitenfelde Kr.
+ Woltersdorf
+
+Etapp 4: Breitenfelde - Talkau (6,8 km/7,1 km)
+					0,6 km/0,6 km
+T-korsning
+ Grill station
+					2,1 km/2,1 km
+Korsning Niendorf
+					1,6 km/1,8 km
+Parkplatz (sydgående)
+					1,0 km/0,9 km
+T-korsning Talkau
+					0,2 km/0,2 km
+T-korsning Talkau
+					0,6 km/0,6 km
+Café Antik Ulla Wilken
+					0,4 km/0,5 km
+Parkplatz (nordgående)
+					0,6 km/0,7 km
+Anschlausstelle Talkau
+ A24 w: Hamburg
+ A24 o: Berlin

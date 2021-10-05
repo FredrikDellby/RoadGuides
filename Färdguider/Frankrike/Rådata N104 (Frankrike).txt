@@ -1,0 +1,44 @@
+Time	Km	Instruction	For	Toward
+Summary:  19,0 kilometres (11 minutes)
+09:00	0,0	Depart 35 on Ramp (North-West)	0,9 km	N104 / Rouen / Bordeaux-Nantes / Versailles / Bondoufle
+09:01	0,9	Bear LEFT (South) onto N104	0,6 km	
+09:02	1,5	At 36, take Ramp onto N104 [La Francilienne]	0,7 km	
+09:02	2,3	At 37A, stay on N104 [La Francilienne] (West)	1,5 km	
+09:03	3,8	At La Francilienne, 91700 Fleury-Mérogis, stay on N104 [La Francilienne] (West)	1,2 km	
+09:04	5,0	At 39A, stay on N104 [La Francilienne] (West)	0,8 km	
+09:04	5,8	At 40, stay on N104 [La Francilienne] (West)	2,2 km	
+09:05	8,0	At 41, stay on N104 [La Francilienne] (West)	0,9 km	
+09:06	8,9	At 42, stay on N104 [La Francilienne] (West)	2,8 km	
+09:07	11,7	At 43A, stay on N104 [La Francilienne] (West)	6,3 km	
+09:11	18,0	At La Francilienne, 91460 Marcoussis, stay on N104 [La Francilienne] (West)	1,0 km	
+09:11	19,0	Arrive La Francilienne, 91460 Marcoussis		
+
+SUMMARY
+Driving distance:  19,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  22,35 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,7 kilometres (12 minutes)
+09:00	0,0	Depart 35, 91130 Ris-Orangis on N104 [35] (East)	1,5 km	A6 / Paris / Metz-Nancy / Corbeil-Essonnes / Sénart
+09:01	1,5	At N104, 91080 Courcouronnes, stay on N104 (South-East)	1,6 km	
+09:02	3,1	At 34, take Ramp onto N104 [La Francilienne]	1,5 km	
+09:03	4,5	At 33, stay on N104 [La Francilienne] (East)	2,2 km	
+09:04	6,7	At 30, stay on N104 [La Francilienne] (East)	0,9 km	
+09:05	7,6	At 29, stay on N104 [La Francilienne] (East)	0,6 km	N104 / Lille / Metz-Nancy / Troyes / Sénare / Marne la Vallée
+09:05	8,3	At La Francilienne, 91250 Saint-Germain-LÈS-Corbeil, stay on N104 [La Francilienne] (East)	0,7 km	
+09:05	9,0	At 28, stay on N104 [La Francilienne] (East)	1,3 km	
+09:06	10,2	At 27, stay on N104 [La Francilienne] (East)	1,4 km	
+09:07	11,7	At La Francilienne, 77127 Lieusaint, keep RIGHT onto Ramp [La Francilienne]	1,7 km	N104 / Lille / Metz-Nancy / Marne-la-Vallée / Troyes Par Provins / Z.A. Parisud / Combs la Ville / Réau-Ctre Aéronautique
+09:08	13,4	At N6, 91250 Tigery, road name changes to Ramp [La Francilienne]	1,2 km	N104 / Lille / Metz-Nancy / Marne la Vallée / Provins / Z.A. Parisud / Combs la Ville / Réau-Centre Aéronautique
+09:09	14,6	At 25, stay on N104 [La Francilienne] (East)	1,7 km	
+09:10	16,3	At 24, stay on N104 [La Francilienne] (East)	3,4 km	
+09:12	19,7	Arrive near Évry-Grégy-sur-Yerre		
+
+SUMMARY
+Driving distance:  19,7 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  24,75 kr
+

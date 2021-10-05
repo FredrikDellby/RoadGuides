@@ -1,0 +1,35 @@
+Färdguide A320 (Frankrike)
+===========================
+
+Échangeur A4 et A320
+ A4 e: Strasbourg
+ A4 o: Paris, Metz
+Sortie 40
+ Freyming
+(avfart västgående riktning
+påfart östgående riktning)
+					1.6 km/0.5 km	58 s/18 s
+Sortie 41 (sud)
+ Merlebach
+(avfart östgående riktning
+påfart västgående riktning
+					2.7 km/2.6 km	1 min 37 s/1 min 34 s
+Sortie 41 (nord)
+ Merlebach
+(avfart västgående riktning
+påfart östgående riktning)
+					2.8 km/3.7 km	1 min 41 s/2 min 13 s
+Sortie 42
+ Wiesberg / Marinau
+					1.3 km/1.1 km	47 s/40 s
+Sortie 43
+ Forbach - Base de loisirs
+					1.6 km/1.4 km	58 s/50 s
+Sortie 44
+ Forbach Centre
+					2.7 km/2.8 km	1 min 37 s/1 min 41 s
+Sortie 45
+ Stiring / Forback-Est
+					1.8 km/1.3 km	1 min 5 s/0 min 47 s
+Frankrike / Tyskland
+Lorraine / Saarland

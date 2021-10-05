@@ -1,0 +1,495 @@
+Time	Km	Instruction	For	Toward
+Summary:  30,2 kilometres (13 minutes)
+09:00	0,0	Depart 5 on A3 [E35] (East)	3,7 km	
+09:01	3,7	At E35, 46499 Hamminkeln, stay on A3 [E35] (South)	8,5 km	
+09:05	12,3	At E35, 46569 Hünxe, stay on A3 [E35] (South-East)	1,7 km	
+09:06	14,0	At 6, keep STRAIGHT to stay on A3 [E35]	2,5 km	
+09:07	16,5	At near Krudenburg, stay on A3 [E35] (South-East)	0,8 km	
+09:07	17,3	At 7, stay on A3 [E35] (South)	4,1 km	
+09:09	21,4	At near Bruckhausen, stay on A3 [E35] (South-East)	2,6 km	
+09:11	24,1	At 8, stay on A3 [E35] (South)	1,1 km	
+09:11	25,1	At E35, 46539 Dinslaken, stay on A3 [E35] (South)	2,0 km	
+09:12	27,1	At 9, stay on A3 [E35] (South)	3,0 km	
+09:13	30,2	Arrive 10		
+
+SUMMARY
+Driving distance:  30,2 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  35,03 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,9 kilometres (14 minutes)
+09:00	0,0	Depart 10 on Ramp [E35] (East)	30 m	A3 / A516 / Arnheim / Emmerich / Oberhausen
+09:00	0,1	Keep LEFT to stay on Ramp [E35]	0,2 km	A3 / Arnheim / Emmerich
+09:00	0,3	Keep LEFT to stay on Ramp [E35]	0,5 km	
+09:00	0,7	Keep RIGHT to stay on Ramp [E35]	0,5 km	A3 / Arnheim / Emmerich
+09:00	1,2	Keep LEFT to stay on Ramp [E35]	3,1 km	A3 / Arnheim / Emmerich
+09:02	4,3	At 9, stay on A3 [E35] (North)	2,0 km	
+09:03	6,3	At near Oberlohberg, stay on A3 [E35] (North-West)	1,8 km	
+09:04	8,0	At 8, stay on A3 [E35] (North)	2,1 km	
+09:05	10,1	At Bergschlagweg, 46569 Hünxe, stay on A3 [E35] (North)	3,5 km	
+09:06	13,6	At 7, stay on A3 [E35] (North)	1,3 km	
+09:07	14,9	At near Krudenburg, stay on A3 [E35] (North-West)	3,3 km	
+09:08	18,2	At 6, stay on A3 [E35] (North)	1,0 km	
+09:09	19,2	At E35, 46569 Hünxe, stay on A3 [E35] (North-West)	5,7 km	
+09:11	24,8	At E35, 46499 Hamminkeln, stay on A3 [E35] (West)	6,1 km	
+09:14	30,9	Arrive 5		
+
+SUMMARY
+Driving distance:  30,9 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  35,90 kr
+
+
+
+Time	Km	Instruction	For	Toward
+Summary:  37,3 kilometres (17 minutes)
+09:00	0,0	Depart 16 on A3 [E35] (East)	7,1 km	A3 / KÖLN / Kreuz Ratingen-Ost
+09:03	7,1	At 17, stay on A3 [E35] (South)	5,2 km	A3 / KÖLN / Mettmann
+09:05	12,3	At 18, stay on A3 [E35] (South)	2,2 km	A3 / Autobahnkreuz Hilden
+09:06	14,5	At E35, 40699 Erkrath, stay on A3 [E35] (South)	4,6 km	
+09:08	19,2	At 19, stay on A3 [E35] (South)	4,8 km	A3 / Frankfurt A.M. / KÖLN / Solingen
+09:11	24,0	At E35, 42697 Solingen, stay on A3 [E35] (South)	4,3 km	
+09:13	28,2	At 20, stay on A3 [E35] (South)	0,9 km	A3 / KÖLN / Autobahnkreuz Langenfeld
+09:13	29,1	At 21, stay on A3 [E35] (South)	3,3 km	A3 / Frankfurt A.M. / KÖLN / Koblenz
+09:15	32,5	At E35, 40764 Langenfeld (Rheinland), stay on A3 [E35] (South)	3,3 km	
+09:16	35,8	At 22, stay on A3 [E35] (South)	1,6 km	A3 / KÖLN / Autobahnkreuz Leverkusen
+09:17	37,3	Arrive 23		
+
+SUMMARY
+Driving distance:  37,3 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  44,31 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,0 kilometres (17 minutes)
+09:00	0,0	Depart 23 on A3 [E35] (North)	2,1 km	A3 / Oberhausen / Düsseldorf / Wuppertal-West
+09:01	2,1	At 22, stay on A3 [E35] (North-West)	3,4 km	A3 / Oberhausen / Kreuz Langenfeld
+09:02	5,5	At E35, 51379 Leverkusen, stay on A3 [E35] (North)	3,0 km	
+09:04	8,5	At 21, stay on A3 [E35] (North)	1,5 km	A3 / Oberhausen / Düsseldorf / Wuppertal
+09:04	10,0	At 20, stay on A3 [E35] (North)	3,9 km	A3 / Oberhausen / Kreuz Hilden
+09:06	13,9	At E35, 42697 Solingen, stay on A3 [E35] (North)	4,0 km	
+09:08	17,9	At 19, stay on A3 [E35] (North)	5,8 km	A3 / Oberhausen / Düsseldorf-Nord / Flughafen / Mettmann
+09:11	23,7	At E35, 40699 Erkrath, stay on A3 [E35] (North)	2,3 km	
+09:12	25,9	At 18, stay on A3 [E35] (North)	4,4 km	A3 / Kreuz Ratingen-Ost / Flughafen Düsseldorf
+09:14	30,3	At 17, stay on A3 [E35] (North)	3,6 km	A3 / Oberhausen / Kreuz Breitscheid
+09:16	33,9	At E35, 40883 Ratingen, stay on A3 [E35] (North-West)	3,1 km	
+09:17	37,0	Arrive 16		
+
+SUMMARY
+Driving distance:  37,0 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  44,62 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,9 kilometres (8 minutes)
+09:00	0,0	Depart 23 on A3 [E35] (South-East)	2,3 km	A3 / Frankfurt A.M. / Olpe / KÖLN
+09:01	2,3	At 24, keep STRAIGHT to stay on A3 [E35]	1,6 km	A3 / Frankfurt A.M. / KÖLN-Mülheim
+09:02	3,9	At A3, 51061 KÖLN, stay on A3 [E35] (South)	3,0 km	
+09:04	6,9	At 25, keep STRAIGHT to stay on A3 [E35]	2,0 km	A3 / Frankfurt A.M. / Olpe / KÖLN-Dellbrück
+09:05	8,9	At 26, stay on A3 [E35] (South)	1,5 km	A3 / Frankfurt / Olpe / Kreuz KÖLN-Ost
+09:06	10,4	At 27, stay on A3 [E35] (South)	3,5 km	A3 / A4 / Frankfurt A.M. / Aachen / Bonn / Flughafen
+09:08	13,9	Arrive 28		
+
+SUMMARY
+Driving distance:  13,9 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  19,55 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  14,6 kilometres (8 minutes)
+09:00	0,0	Depart 28 on A3 [E35] (West)	4,1 km	A3 / A4 / Oberhausen / Düsseldorf / KÖLN / Olpe
+09:02	4,1	At 27, stay on A3 [A4] (North)	2,4 km	A3 / Oberhausen / Düsseldorf / KÖLN-Nord
+09:03	6,5	At 26, stay on A3 [E35] (North)	2,1 km	A3 / Oberhausen / Düsseldorf / K-Mülheim
+09:04	8,6	At 25, stay on A3 [E35] (North)	2,8 km	A3 / Oberhausen / Düsseldorf / Leverkusen
+09:06	11,4	At Tilsit, stay on A3 [E35] (North)	1,4 km	
+09:07	12,8	At 24, stay on A3 [E35] (North)	1,8 km	A3 / Oberhausen / Düsseldorf
+09:08	14,6	Arrive 23		
+
+SUMMARY
+Driving distance:  14,6 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  19,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,1 kilometres (11 minutes)
+09:00	0,0	Depart 28 on A3 [E35] (South)	3,7 km	A3 / Frankfurt / Siegburg
+09:01	3,7	At 29, stay on A3 [E35] (East)	4,0 km	A3 / Frankfurt A.M. / Rösrath
+09:03	7,7	At E35, 51503 Rösrath, stay on A3 [E35] (East)	2,6 km	
+09:05	10,3	At 30A, stay on A3 [E35] (South-East)	5,2 km	A3 / Frankfurt A.M. / Lohmar
+09:07	15,5	At E35, 53797 Lohmar, stay on A3 [E35] (South-West)	2,7 km	
+09:08	18,2	At 31, stay on A3 [E35] (South)	2,2 km	A3 / Frankfurt A.M. / Kreuz Bonn/Siegburg
+09:09	20,4	At E35, 53721 Siegburg, stay on A3 [E35] (South)	1,8 km	
+09:10	22,2	At near Buisdorf, stay on A3 [E35] (South-East)	1,9 km	
+09:11	24,1	Arrive 32		
+
+SUMMARY
+Driving distance:  24,1 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  30,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (11 minutes)
+09:00	0,0	Depart 32 on A3 [E35] (North)	2,3 km	A3 / Oberhausen / Düsseldorf / KÖLN
+09:01	2,3	At near Buisdorf, stay on A3 [E35] (North-West)	1,9 km	
+09:02	4,2	At E35, 53721 Siegburg, stay on A3 [E35] (North)	1,9 km	
+09:02	6,1	At 31, stay on A3 [E35] (North-West)	3,5 km	A3 / KÖLN / Lohmar-Nord
+09:04	9,6	At 30B, stay on A3 [E35] (North)	4,8 km	A3 / KÖLN / Königsforst
+09:07	14,3	At E35, 51503 Rösrath, stay on A3 [E35] (North-West)	2,5 km	
+09:08	16,8	At E35, 51503 Rösrath, stay on A3 [E35] (West)	3,9 km	
+09:10	20,8	At 29, stay on A3 [E35] (North-West)	2,3 km	A3 / KÖLN / Dreieck Heumar
+09:11	23,1	Arrive 28		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  29,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  57,2 kilometres (27 minutes)
+09:00	0,0	Depart 32 on A3 [E35] (South)	11,0 km	A3 / Frankfurt A.M. / Koblenz
+09:05	11,0	At 33, stay on A3 [E35] (South)	2,4 km	A3 / Frankfurt A.M. / Bad Honnef/ Linz
+09:06	13,3	At E35, 53604 Bad Honnef, stay on A3 [E35] (East)	4,1 km	
+09:08	17,4	At 34, stay on A3 [E35] (South-East)	0,9 km	A3 / Frankfurt A.M. / Neustadt (Wied)
+09:08	18,3	At near Köhlershohn, stay on A3 [E35] (East)	1,8 km	
+09:09	20,1	At near Windhagen, stay on A3 [E35] (East)	5,0 km	
+09:12	25,1	At E35, 53577 Neustadt (Wied), stay on A3 [E35] (East)	1,8 km	
+09:13	26,8	At 35, stay on A3 [E35] (South)	4,2 km	A3 / Frankfurt A.M. / Neuwied
+09:15	31,0	At near Dasbach, stay on A3 [E35] (East)	3,6 km	
+09:17	34,6	At 36, stay on A3 [E35] (South-East)	3,9 km	
+09:18	38,5	At E35, 56317 Urbach, stay on A3 [E35] (South-East)	3,0 km	
+09:20	41,5	At 37, stay on A3 [E35] (South-East)	5,7 km	
+09:22	47,2	At E35, 56269 Dierdorf, stay on A3 [E35] (East)	5,6 km	
+09:25	52,9	At E35, 56237 Wittgert, stay on A3 [E35] (South)	2,0 km	
+09:26	54,8	At 38, stay on A3 [E35] (South-East)	2,4 km	
+09:27	57,2	Arrive 39		
+
+SUMMARY
+Driving distance:  57,2 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  63,71 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  57,6 kilometres (28 minutes)
+09:00	0,0	Depart 39 on A3 [E35] (North)	3,8 km	A3 / Düsseldorf / KÖLN / Bonn
+09:01	3,8	At 38, stay on A3 [E35] (North-West)	1,9 km	
+09:02	5,7	At near Oberhaid, stay on A3 [E35] (North)	4,0 km	
+09:04	9,7	At E35, 56244 Sessenhausen, stay on A3 [E35] (North)	7,3 km	
+09:08	17,1	At 37, stay on A3 [E35] (North-West)	1,6 km	
+09:08	18,6	At E35, 56307 Dernbach, stay on A3 [E35] (North)	4,7 km	
+09:10	23,3	At 36, stay on A3 [E35] (West)	3,9 km	
+09:12	27,3	At E35, 53547 Hümmerich, stay on A3 [E35] (West)	4,4 km	
+09:15	31,7	At 35, stay on A3 [E35] (North)	1,9 km	
+09:16	33,5	At near Krummenau, stay on A3 [E35] (West)	5,0 km	
+09:19	38,5	At E35, 53578 Windhagen, stay on A3 [E35] (West)	1,5 km	
+09:19	40,0	At near Köhlershohn, stay on A3 [E35] (West)	0,7 km	
+09:20	40,8	At 34, stay on A3 [E35] (North-West)	4,0 km	A3 / KÖLN / Siebengebirge
+09:22	44,7	At E35, 53604 Bad Honnef, stay on A3 [E35] (West)	2,5 km	
+09:23	47,2	At 33, stay on A3 [E35] (North)	10,5 km	
+09:28	57,6	Arrive 32		
+
+SUMMARY
+Driving distance:  57,6 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  64,22 kr
+Time	Km	Instruction	For	Toward
+Summary:  73,5 kilometres (36 minutes)
+09:00	0,0	Depart 39 on A3 [E35] (South)	5,7 km	A3 / Würzburg / Frankfurt A.M. / Wiesbaden
+09:02	5,7	At 40, stay on A3 [E35] (East)	2,9 km	A3 / Frankfurt A.M. / Diez
+09:04	8,5	At A3, 56412 Heiligenroth, stay on A3 [E35] (East)	6,5 km	
+09:07	15,0	At near Nentershausen, stay on A3 [E35] (South)	1,8 km	
+09:08	16,8	At 41, stay on A3 [E35] (East)	9,0 km	
+09:13	25,8	At 42, stay on A3 [E35] (East)	1,8 km	
+09:14	27,6	At E35, 65549 Limburg an der Lahn, stay on A3 [E35] (South)	0,7 km	
+09:14	28,3	At 43, stay on A3 [E35] (South)	14,6 km	
+09:21	42,9	At 44, stay on A3 [E35] (South)	10,5 km	
+09:26	53,4	At 45, stay on A3 [E35] (South)	6,3 km	
+09:29	59,7	At E35, 65527 Niedernhausen, stay on A3 [E35] (South)	3,3 km	
+09:31	63,0	At 46, stay on A3 [E35] (South-East)	5,7 km	
+09:34	68,6	At E35, 65207 Wiesbaden, stay on A3 [E35] (South)	4,8 km	
+09:36	73,5	Arrive 47		
+
+SUMMARY
+Driving distance:  73,5 kilometres
+Trip duration:  36 minutes
+Driving time:  36 minutes
+Cost:  82,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  72,9 kilometres (35 minutes)
+09:00	0,0	Depart 47 on A3 [E35] (North-West)	5,5 km	A3 / KÖLN / Bonn / Koblenz
+09:02	5,5	At E35, 65207 Wiesbaden, stay on A3 [E35] (North)	6,1 km	
+09:05	11,7	At 46, stay on A3 [E35] (North-West)	3,4 km	
+09:07	15,1	At E35, 65527 Niedernhausen, stay on A3 [E35] (North)	6,0 km	
+09:09	21,1	At 45, stay on A3 [E35] (North)	10,1 km	
+09:15	31,1	At 44, stay on A3 [E35] (North)	14,3 km	
+09:21	45,5	At 43, stay on A3 [E35] (West)	1,2 km	
+09:22	46,6	At near Limburg an der Lahn, stay on A3 [E35] (North)	0,6 km	
+09:22	47,3	At 42, stay on A3 [E35] (North)	10,0 km	
+09:27	57,2	At 41, stay on A3 [E35] (West)	2,0 km	
+09:28	59,3	At E35, 56412 Nentershausen, stay on A3 [E35] (North)	5,8 km	
+09:31	65,1	At near Ruppach, stay on A3 [E35] (West)	1,9 km	
+09:32	66,9	At 40, stay on A3 [E35] (South-West)	5,9 km	A3 / Autobahndreieck Dernbach
+09:35	72,9	Arrive 39		
+
+SUMMARY
+Driving distance:  72,9 kilometres
+Trip duration:  35 minutes
+Driving time:  35 minutes
+Cost:  81,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,4 kilometres (8 minutes)
+09:00	0,0	Depart 47 on A3 [E35] (South)	2,7 km	A3 / München / Würzburg / Frankfurter Kreuz / Flughafen / Basel
+09:01	2,7	At E35, 65239 Hochheim am Main, stay on A3 [E35] (East)	4,0 km	
+09:03	6,7	At 48, stay on A3 [E42] (East)	6,3 km	A3 / München / Würzburg / Frankfurt / Frankfurter Kreuz / Flughafen
+09:06	13,0	At 49, keep STRAIGHT to stay on A3 [E42]	3,5 km	A3 / München / Würzburg / Offenbach / Frankfurter Kreuz
+09:08	16,4	Arrive 50		
+
+SUMMARY
+Driving distance:  16,4 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  18,30 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,8 kilometres (8 minutes)
+09:00	0,0	Depart 50 on A3 [E42] (West)	5,6 km	A3 / KÖLN / Wiesbaden / Mainz
+09:02	5,6	At E42, 65451 Kelsterbach, stay on A3 [E42] (West)	3,4 km	
+09:04	9,1	At 48, stay on A3 [E42] (West)	6,9 km	A3 / KÖLN / Koblenz / Wiesbaden
+09:07	16,0	At E35, 65439 Flörsheim am Main, stay on A3 [E35] (West)	1,8 km	
+09:08	17,8	Arrive 47		
+
+SUMMARY
+Driving distance:  17,8 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  19,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,9 kilometres (15 minutes)
+09:00	0,0	Depart 50 on A3 [E42] (East)	3,3 km	A3 / München / Würzburg / Offenbach / Frankfurt-SÜD
+09:01	3,3	At E42, 63263 Neu-Isenburg, stay on A3 [E42] (East)	1,2 km	
+09:02	4,5	At 51, stay on A3 [E42] (East)	2,2 km	A3 / München / Würzburg / Offenbach
+09:03	6,7	At near Neu-Isenburg, stay on A3 [E42] (East)	3,0 km	
+09:04	9,8	At 52, stay on A3 [E42] (East)	3,0 km	A3 / München / Nürnberg / Würzburg / Hanau
+09:05	12,8	At E42, 63069 Offenbach am Main, stay on A3 [E42] (East)	4,6 km	
+09:08	17,4	At 53, stay on A3 [E42] (East)	4,6 km	
+09:10	22,0	At 54, stay on A3 [E42] (East)	1,2 km	A3 / München / Nürnberg / Würzburg / Seligenstadt
+09:10	23,2	At E42, 63110 Rodgau, stay on A3 [E42] (East)	4,3 km	
+09:12	27,5	At 55, stay on A3 [E42] (South)	4,5 km	
+09:14	32,0	At E42, 63533 Mainhausen, stay on A3 [E42] (South-East)	1,9 km	
+09:15	33,9	Arrive 56		
+
+SUMMARY
+Driving distance:  33,9 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  38,51 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  32,2 kilometres (14 minutes)
+09:00	0,0	Depart 56 on A3 [E42] (West)	2,4 km	A3 / KÖLN / Wiesbaden / Frankfurt
+09:01	2,4	At E42, 63533 Mainhausen, stay on A3 [E42] (North-West)	4,9 km	
+09:03	7,3	At 55, stay on A3 [E42] (North)	3,5 km	
+09:05	10,9	At E42, 63512 Hainburg, stay on A3 [E42] (West)	1,2 km	
+09:05	12,1	At 54, stay on A3 [E42] (West)	4,9 km	A3 / KÖLN / Wiesbaden / Frankfurt / Obertshausen
+09:07	17,0	At 53, stay on A3 [E42] (West)	4,6 km	
+09:09	21,6	At E42, 63069 Offenbach am Main, stay on A3 [E42] (West)	1,4 km	
+09:10	23,0	At 52, keep STRAIGHT to stay on A3 [E42]	5,0 km	A3 / KÖLN / Wiesbaden / Frankfurter Kreuz / Frankfurt-SÜD / Flughafen
+09:12	28,0	At E42, 60528 Frankfurt am Main, stay on A3 [E42] (West)	2,2 km	
+09:13	30,1	At 51, stay on A3 [E42] (West)	0,9 km	A3 / KÖLN / Wiesbaden / Basel / Frankfurter Kreuz
+09:14	31,0	At near Zeppelinheim, stay on A3 [E42] (West)	1,1 km	
+09:14	32,2	Arrive 50		
+
+SUMMARY
+Driving distance:  32,2 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  36,62 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,9 kilometres (17 minutes)
+09:00	0,0	Depart 56 on A3 [E42] (South-East)	2,5 km	A3 / München / Nürnberg / Würzburg / Aschaffenburg
+09:01	2,5	At 57/58, stay on A3 [E41] (East)	9,4 km	A3 / Würzburg / Aschaffenburg-Ost
+09:07	11,9	At 59, stay on A3 [E41] (East)	1,1 km	
+09:08	13,0	At E41, 63773 Goldbach, stay on A3 [E41] (East)	0,4 km	
+09:08	13,4	At 60, stay on A3 [E41] (East)	1,0 km	
+09:08	14,4	At E41, 63768 Hösbach, stay on A3 [E41] (East)	0,4 km	
+09:08	14,8	At E41, 63768 Hösbach, stay on A3 [E41] (East)	0,8 km	
+09:09	15,6	At 61, stay on A3 [E41] (East)	3,4 km	
+09:10	18,9	At 62, stay on A3 [E41] (South-East)	1,6 km	
+09:11	20,5	At near Keilberg, stay on A3 [E41] (East)	3,0 km	
+09:12	23,5	At near Waldaschaff, stay on A3 [E41] (South-East)	1,0 km	
+09:13	24,6	At near Waldaschaff, stay on A3 [E41] (East)	1,8 km	
+09:14	26,4	At near Weibersbrunn, stay on A3 [E41] (East)	1,6 km	
+09:15	28,0	At near Weibersbrunn, stay on A3 [E41] (East)	0,6 km	
+09:15	28,6	At 63, stay on A3 [E41] (South)	1,2 km	A3 / Nürnberg / Würzburg / Rohrbrunn
+09:15	29,8	At E41, 63857 Aschaffenburg (Gemfr. Gebiet), stay on A3 [E41] (South)	1,6 km	
+09:16	31,4	At E41, 63879 Aschaffenburg (Gemfr. Gebiet), stay on A3 [E41] (South-East)	2,5 km	
+09:17	33,9	Arrive 64		
+
+SUMMARY
+Driving distance:  33,9 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  39,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,1 kilometres (18 minutes)
+09:00	0,0	Depart 64 on A3 [E41] (North-West)	3,5 km	
+09:01	3,5	At E41, 63879 Aschaffenburg (Gemfr. Gebiet), stay on A3 [E41] (North-West)	1,2 km	
+09:02	4,7	At near Weibersbrunn, stay on A3 [E41] (North)	1,3 km	
+09:03	6,0	At 63, stay on A3 [E41] (North)	0,5 km	
+09:03	6,6	At near Weibersbrunn, stay on A3 [E41] (West)	1,4 km	
+09:04	8,0	At E41, 63857 Aschaffenburg (Gemfr. Gebiet), stay on A3 [E41] (North-West)	1,4 km	
+09:05	9,4	At E41, 63857 Waldaschaff, stay on A3 [E41] (North-West)	1,2 km	
+09:05	10,5	At E41, 63857 Waldaschaff, stay on A3 [E41] (North)	2,6 km	
+09:07	13,1	At E41, 63857 Waldaschaff, stay on A3 [E41] (West)	1,4 km	
+09:07	14,5	At 62, stay on A3 [E41] (North-West)	3,7 km	
+09:09	18,2	At 61, stay on A3 [E41] (West)	0,5 km	
+09:09	18,8	At E41, 63768 Hösbach, stay on A3 [E41] (West)	0,8 km	
+09:10	19,6	At E41, 63768 Hösbach, stay on A3 [E41] (West)	0,4 km	
+09:10	20,0	At 60, stay on A3 [E41] (West)	1,0 km	
+09:10	20,9	At E41, 63773 Goldbach, stay on A3 [E41] (West)	1,3 km	
+09:11	22,2	At 59, stay on A3 [E41] (West)	6,4 km	
+09:16	28,7	At 58/57, stay on A3 [E41] (West)	4,4 km	A3 / Frankfurt A. M. / Seligenstädter Dreieck
+09:18	33,1	Arrive 56		
+
+SUMMARY
+Driving distance:  33,1 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  38,25 kr
+
+
+Elten - Hamminkeln (5)
+2.3 km/2.1 km	1 min 9 s/1 min 3 s
+1.3 km/1.3 km	0 min 39 s/0 min 39 s
+3.7 km/3.5 km	1 min 51 s/1 min 45 s
+4.8 km/7.6 km	2 min 24 s/3 min 48 s
+5.7 km/6.3 km	2 min 51 s/3 min 9 s
+4.4 km/0.9 km	2 min 12 s/0 min 27 s
+1.6 km/1.9 km	0 min 48 s/0 min 57 s
+5.1 km/4.5 km	2 min 33 s/2 min 15 s
+3.1 km/5.2 km	1 min 33 s/2 min 36 s
+3.0 km/2.0 km	1 min 30 s/1 min 0 s
+
+Hamminkeln (5) - Oberhausen (10)
+3.7 km/6.1 km	1 min 51 s/3 min 3 s
+8.5 km/5.7 km	4 min 15 s/2 min 51 s
+1.7 km/1.0 km	0 min 51 s/0 min 30 s
+2.5 km/3.3 km	1 min 15 s/1 min 39 s
+0.8 km/1.3 km	0 min 24 s/0 min 39 s
+4.1 km/3.5 km	2 min 3 s/1 min 45 s
+2.6 km/2.1 km	1 min 18 s/1 min 3 s
+1.1 km/1.8 km	0 min 33 s/0 min 54 s
+2.0 km/2.0 km	1 min 0 s/1 min 0 s
+3.0 km/4.3 km	1 min 30 s/2 min 9 s
+
+Oberhausen (10) - Breitscheid (16)
+3.1 km/2.7 km	1 min 52 s/1 min 37 s	100
+0.5 km/0.5 km	0 min 18 s/0 min 18 s
+2.3 km/2.9 km	1 min 23 s/1 min 44 s
+1.5 km/1.1 km	0 min 54 s/0 min 40 s
+3.7 km/5.0 km	2 min 13 s/3 min 0 s
+5.2 km/3.8 km	3 min 7 s/2 min 17 s
+4.9 km/4.8 km	2 min 56 s/2 min 53 s
+2.1 km/3.5 km	1 min 16 s/2 min 6 s
+
+Breitscheid (16) - Leverkusen (23)
+4.1 km/3.1 km	2 min 14 s/1 min 41 s
+3.0 km/3.6 km	1 min 38 s/1 min 58 s
+5.2 km/4.4 km	2 min 50 s/2 min 24 s
+2.2 km/2.3 km	1 min 12 s/1 min 15 s
+4.6 km/5.8 km	2 min 31 s/3 min 10 s
+4.8 km/4.0 km	2 min 37 s/2 min 11 s
+4.3 km/3.9 km	2 min 21 s/2 min 8 s
+0.9 km/1.5 km	0 min 29 s/0 min 49 s
+3.3 km/3.0 km	1 min 48 s/1 min 38 s
+2.1 km/1.8 km	1 min 9 s/0 min 59 s
+1.2 km/1.6 km	0 min 39 s/0 min 52 s
+1.6 km/2.1 km	0 min 52 s/1 min 9 s
+
+Leverkusen (23) - Heumar (28)
+2.3 km/1.8 km	1 min 23 s/1 min 5 s
+1.6 km/1.4 km	0 min 58 s/0 min 50 s
+3.0 km/2.8 km	1 min 48 s/1 min 41 s
+2.0 km/2.1 km	1 min 12 s/1 min 16 s
+1.5 km/2.4 km	0 min 54 s/1 min 26 s
+3.5 km/4.1 km	2 min 6 s/2 min 28 s
+
+Heumar (28) - Bonn/Siegburg (32)
+3.7 km/2.3 km	2 min 1 s/1 min 15 s
+4.0 km/3.9 km	2 min 11 s/2 min 8 s
+2.6 km/2.5 km	1 min 25 s/1 min 22 s
+5.2 km/4.8 km	2 min 50 s/2 min 37 s
+2.7 km/3.5 km	1 min 28 s/1 min 55 s
+2.2 km/1.9 km	1 min 12 s/1 min 2 s
+1.8 km/1.9 km	0 min 59 s/1 min 2 s
+1.9 km/2.3 km	1 min 2 s/1 min 15 s
+
+Bonn/Siegburg (32) - Dernbach (39)
+11.0 km/10.5 km	5 min 30 s/5 min 15 s
+2.4 km/2.5 km	1 min 12 s/1 min 15 s
+4.1 km/4.0 km	2 min 3 s/2 min 0 s
+0.9 km/0.7 km	0 min 27 s/0 min 21 s
+1.8 km/1.5 km	0 min 54 s/0 min 45 s
+5.0 km/5.0 km	2 min 30 s/2 min 30 s
+1.8 km/1.9 km	0 min 54 s/0 min 57 s
+4.2 km/4.4 km	2 min 6 s/2 min 12 s
+3.6 km/3.9 km	1 min 48 s/1 min 57 s
+3.9 km/4.7 km	1 min 57 s/2 min 21 s
+3.0 km/1.6 km	1 min 30 s/0 min 48 s
+5.7 km/7.3 km	2 min 51 s/3 min 39 s
+5.6 km/4.0 km	2 min 48 s/2 min 0 s
+2.0 km/1.9 km	1 min 0 s/0 min 57 s
+2.4 km/3.8 km	1 min 12 s/1 min 54 s
+
+Dernbach (39) - Wiesbaden (47)
+5.7 km/5.9 km	3 min 7 s/3 min 13 s
+2.9 km/1.9 km	1 min 35 s/1 min 2 s
+6.5 km/5.8 km	3 min 33 s/3 min 10 s
+1.8 km/2.0 km	0 min 59 s/1 min 5 s
+9.0 km/10.0 km	4 min 55 s/5 min 27 s
+1.8 km/0.6 km	59 s/20 s
+0.7 km/1.2 km	23 s/39 s
+
+Limburg-Süd (43) - Wiesbaden (47)
+14.6 km/14.3 km	7 min 18 s/7 min 9 s
+10.5 km/10.1 km	5 min 15 s/5 min 3 s
+6.3 km/6.0 km	3 min 9 s/3 min 0 s
+3.3 km/3.4 km	1 min 39 s/1 min 42 s
+5.7 km/6.1 km	2 min 51 s/3 min 3 s
+4.8 km/5.5 km	2 min 24 s/2 min 45 s
+
+Wiesbaden (47) - Frankfurt (50)
+2.7 km/1.8 km	1 min 28 s/0 min 59 s
+4.0 km/6.9 km	2 min 11 s/3 min 46 s
+6.3 km/3.4 km	3 min 26 s/1 min 51 s
+3.5 km/5.6 km	1 min 55 s/3 min 3 s
+
+Frankfurt (50) - Seiligenstardt (56)
+3.3 km/1.1 km	1 min 48 s/0 min 36 s
+1.2 km/0.9 km	39 s/29 s
+2.2 km/2.2 km	1 min 12 s/1 min 12 s
+3.0 km/5.0 km	1 min 38 s/2 min 44 s
+3.0 km/1.4 km	1 min 38 s/0 min 46 s
+4.6 km/4.6 km	2 min 31 s/2 min 31 s
+4.6 km/4.9 km	2 min 31 s/2 min 40 s
+1.2 km/1.2 km	39 s/39 s
+4.3 km/3.5 km	2 min 21 s/1 min 55 s
+4.5 km/4.9 km	2 min 27 s/2 min 40 s
+1.9 km/2.4 km	1 min 2 s/1 min 19 s
+
+	

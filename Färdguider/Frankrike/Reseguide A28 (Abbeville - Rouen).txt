@@ -1,0 +1,58 @@
+Reseguide A28 (Abbeville - Rouen)
+==================================
+
+Rondell
+					0.7 km/1.2 km	23 s/39 s
+Échangeur d'Abbeville
+ A16 n: Calais, Boulogne
+ A16 s: Paris, Amiens
+					1.3 km/1.0 km	43 s/33 s
+Sortie 1
+					2.3 km/2.6 km	1 min 15 s/1 min 25 s
+Sortie 2
+					6.4 km/6.2 km	3 min 29 s/3 min 23 s
+Sortie 3
+					2.0 km/2.0 km	1 min 5 s/1 min 5 s
+Aire de Béhen
+					4.7 km/4.9 km	2 min 34 s/2 min 40 s
+Sortie 4
+					7.3 km/7.2 km	3 min 59 s/3 min 56 s
+Aire du Translay
+Gazole: BP
+					4.5 km/4.1 km	2 min 27 s/2 min 14 s
+Picardie / Haute-Normandie
+Somme / Seine-Maritime
+Sortie 5
+					14.7 km/14.9 km	8 min 1 s/8 min 8 s
+Sortie 6
+					1.8 km/2.0 km	0 min 59 s/1 min 5 s
+Aire du Bois de Coudroy
+					7.5 km/7.7 km	4 min 5 s/4 min 12 s
+Sortie 7
+(avfart sydgående riktning
+Échanguer
+ A29: Amiens
+					2.6 km/1.8 km	1 min 25 s/0 min 59 s
+Sortie 8
+(avfart nordgående riktning
+påfart sydgående riktning)
+					4.1 km/5.2 km	2 min 14 s/2 min 50 s
+Sortie 9
+					5.3 km/4.7 km	2 min 53 s/2 min 34 s
+Sortie 10
+					2.9 km/3.3 km	1 min 35 s/1 min 48 s
+Aire de Maucomble (sydgående)
+Gazole: Shell
+Aire de Bosc-Mesnil (nordgående)
+Gazole: Total
+					6.0 km/6.4 km	3 min 16 s/3 min 29 s
+Sortie 11 (Échangeur)
+ A29: Le Havre
+					8.9 km/8.7 km	4 min 51 s/4 min 45 s
+Sortie 12
+					7.5 km/6.8 km	4 min 5 s/3 min 43 s
+Aire de Quincampoix
+					7.1 km/6.7 km	3 min 52 s/3 min 39 s
+Sortie 13
+Hotel: Formule 1
+

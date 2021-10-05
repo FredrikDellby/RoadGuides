@@ -1,0 +1,11 @@
+Échangeur A31-A5 - Échangeur A31-A39
+11.7 km/11.5 km	5 min 51 s/5 min 45 s	120
+2.8 km/2.4 km	1 min 24 s/1 min 12 s
+12.4 km/12.5 km	6 min 12 s/6 min 15 s
+4.8 km/4.2 km	2 min 24 s/2 min 6 s
+7.7 km/8.2 km	3 min 51 s/4 min 6 s
+5.3 km/5.2 km	2 min 39 s/2 min 36 s
+13.3 km/13.6 km	6 min 39 s/6 min 48 s
+9.5 km/9.3 km	4 min 45 s/4 min 39 s
+2.8 km/2.8 km	1 min 24 s/1 min 24 s
+5.3 km/6.1 km	2 min 39 s/3 min 3 s

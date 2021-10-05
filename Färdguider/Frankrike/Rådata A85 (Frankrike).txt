@@ -1,0 +1,59 @@
+Time	Km	Instruction	For	Toward
+Summary:  99,6 kilometres (53 minutes)
+09:00	0,0	*Toll road* Depart near L'Aurore on Ramp (North)	0,7 km	A85 / E60 / Saumur / Tours
+09:00	0,7	*Toll road* Road name changes to A85 [E60]	13,6 km	
+09:08	14,4	*Toll road* At 1, stay on A85 [E60] (South-East)	7,6 km	A85 / Tours / Saumur
+09:12	22,0	*Toll road* At E60, 49250 Brion, stay on A85 [E60] (South-East)	2,0 km	
+09:13	24,0	*Toll road* At 2, stay on A85 [E60] (South)	13,0 km	
+09:19	37,0	*Toll road* At 3, stay on A85 [E60] (South)	11,5 km	A85 / Tours
+09:26	48,4	*Toll road* At near La Taille, stay on A85 [E60] (East)	4,3 km	
+09:28	52,7	*Toll road* At E60, 37140 Chouzé-sur-Loire, stay on A85 [E60] (East)	2,1 km	
+09:29	54,7	*Toll road* At 5, stay on A85 [E60] (East)	5,2 km	A85 / E60 / Tours
+09:32	60,0	Stay on A85 [E60] (East)	20,3 km	
+09:43	80,2	At 7, stay on A85 [E60] (East)	2,3 km	A85 / E60 / Tours
+09:44	82,5	At 8, stay on A85 [E60] (East)	6,4 km	
+09:47	88,9	At 9, stay on A85 [E60] (East)	1,9 km	D751 / Tours
+09:48	90,8	*Toll road* Stay on A85 [E60] (East)	8,8 km	
+09:53	99,6	Arrive A85, 37250 Veigné		
+
+SUMMARY
+Driving distance:  99,6 kilometres
+Trip duration:  53 minutes
+Driving time:  53 minutes
+Cost:  114,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  100,0 kilometres (52 minutes)
+09:00	0,0	*Toll road* Depart E604, 37250 Veigné on A85 [E604] (West)	10,1 km	
+09:05	10,1	Stay on A85 [E60] (West)	0,2 km	
+09:05	10,3	At 9, stay on A85 [E60] (West)	7,6 km	
+09:09	17,9	At 8, stay on A85 [E60] (West)	2,2 km	
+09:10	20,2	At 7, stay on A85 [E60] (West)	20,8 km	A85 / E60 / Nantes / Angers / Saumur
+09:21	40,9	*Toll road* Stay on A85 [E60] (West)	4,7 km	
+09:24	45,7	*Toll road* At 5, stay on A85 [E60] (West)	1,9 km	A85 / E60 / Nantes / Angers / Saumur
+09:25	47,5	*Toll road* At E60, 37140 Saint-Nicolas-de-Bourgueil, stay on A85 [E60] (West)	5,0 km	
+09:27	52,6	*Toll road* At E60, 49650 Brain-sur-Allonnes, stay on A85 [E60] (West)	10,8 km	
+09:33	63,3	*Toll road* At 3, stay on A85 [E60] (North)	13,0 km	A85 / Nantes / Angers
+09:40	76,3	*Toll road* At 2, stay on A85 [E60] (North)	1,8 km	A85 / Nantes / Le Mans / Angers
+09:41	78,1	*Toll road* At E60, 49160 Longué-Jumelles, stay on A85 [E60] (North-West)	7,9 km	
+09:45	86,0	*Toll road* At 1, stay on A85 [E60] (North-West)	14,0 km	
+09:52	100,0	Arrive E60, 49140 Corzé		
+
+SUMMARY
+Driving distance:  100,0 kilometres
+Trip duration:  52 minutes
+Driving time:  52 minutes
+Cost:  115,25 kr
+
+A11 - Tours (A10)
+14.3 km/14.0 km	7 min 9 s/7 min 0 s
+7.6 km/7.9 km	3 min 48 s/3 min 57 s
+2.0 km/1.8 km	1 min 0 s/0 min 54 s
+13.0 km/13.0 km	6 min 30 s/6 min 30 s
+11.5 km/10.8 km	5 min 45 s/5 min 24 s
+4.3 km/5.0 km	2 min 9 s/2 min 30 s
+2.1 km/1.9 km	1 min 3 s/0 min 57 s
+25.5 km/25.5 km	12 min 45 s/12 min 45 s
+2.3 km/2.2 km	1 min 9 s/1 min 6 s
+6.4 km/7.6 km	3 min 12 s/3 min 48 s
+10.7 km/10.3 km	5 min 21 s/5 min 9 s

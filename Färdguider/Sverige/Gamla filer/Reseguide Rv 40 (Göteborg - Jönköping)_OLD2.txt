@@ -1,0 +1,197 @@
+Reseguide Rv 40 Göteborg - Jönköping
+====================================
+
+Kallebäcksmotet (70)
+ E6-E20: Göteborg C
+ E6-E20: Malmö
+ Kallebäck	
+					2.1 km/2.0 km	1 min 9 s/1 min 5 s
+Delsjömotet (71)
+ Saab Ericsson Space
+Rastplats Delsjön
+					2.6 km/1.1 km	1 min 25 s/0 min 36 s
+Göteborg / Mölndal
+Mölndal / Härryda
+					1.3 km/2.5 km	0 min 43 s/1 min 22 s
+Mölnlyckemotet (72)
+ Mölnlycke
+ Partille
+Bensinstation: Shell
+					7.2 km/7.6 km	3 min 56 s/4 min 9 s
+Landvettermotet (75)
+ Landvetter C
+ Partille
+Bensinstation: Shell
+					1.8 km/1.9 km	0 min 59 s/1 min 2 s
+Björrödsmotet (76)
+ Landvetter Ö
+Bensinstation: OKQ8
+					4.4 km/4.5 km	2 min 24 s/2 min 27 s
+Flygplatsmotet (77)
+ Härryda
+ Landvetter Flygplats
+					2.8 km/2.3 km	1 min 32 s/1 min 15 s
+Ryamotet (78)
+ Hindås
+ 158: Kinna, Skene
+					8.8 km/8.7 km	4 min 48 s/4 min 45 s
+Grandalsmotet (79)
+ Rävlanda
+Rastplats Grandalen
+					1.9 km/1.6 km	1 min 2 s/0 min 52 s
+Härryda / Bollebygd
+					1.4 km/1.7 km	0 min 46 s/0 min 56 s
+Kullamotet (80)
+ Bollebygd V
+Bensinstation: Statoil, Preem
+					4.0 km/4.0 km	2 min 11 s/2 min 11 s
+Grönkullenmotet (81)
+ Bollebygd Ö
+ Sandared, Olsfors, Hultafors
+					9.2 km/9.1 km	5 min 1 s/4 min 58 s
+Bollebygd / Borås
+					1.4 km/3.7 km	0 min 46 s/2 min 1 s
+Rastplats Boråstorpet
+(östgående riktning)
+					2.8 km/2.6 km	1 min 32 s/1 min 25 s
+Nabbamotet (82)
+ Viared V
+					1.1 km/0.9 km	0 min 44 s/0 min 36 s
+Trafikkontrollplats
+					2.0 km/2.5 km	1 min 20 s/1 min 40 s
+Viaredsmotet (83)
+ Viared Ö
+ Sandared, Sjömarken
+Bensinstation: Shell
+					2.9 km/2.3 km	1 min 56 s/1 min 32 s
+Tullamotet (84)
+ [42]: Trollhättan
+ [180]: Alingsås
+					1.4 km/1.1 km	0 min 56 s/0 min 44 s
+Brodalsmotet (85)
+ 42: Trollhättan
+ 180: Alingsås
+ Knalleland
+					0.5 km/1.2 km	0 min 20 s/0 min 48 s
+Annelundsmotet (86)
+ 27: Karlskrona, Växjö
+ 41: Varberg
+					1.7 km/1.6 km	1 min 8 s/1 min 4 s
+Hultamotet (87)
+ Hässleholmen, Bergsäter
+Bensinstation: Statoil, OKQ8
+Restaurang: McDonald's
+					1.4 km/1.0 km	0 min 56 s/0 min 40 s
+Brämhultsmotet (88)
+ Brämhult, Hulta
+Bensinstation: Preem
+					1.5 km/1.6 km	1 min 0 s/1 min 4 s
+Kyllaredsmotetet (89)
+ Svensgärde, Brämhult
+					2.8 km/3.1 km	1 min 32 s/1 min 41 s
+Rastplats Borås sörbo
+(västgående riktning)
+					3.2 km/3.4 km	1 min 45 s/1 min 51 s
+Dalsjöforsmotet (90)
+ Äspered, Dalsjöfors
+					3.7 km/3.5 km	2 min 1 s/1 min 55 s
+Rångedalabron			
+					2.5 km/2.2 km	1 min 22 s/1 min 12 s
+Rångedalamotet (91)
+ Nitta
+ Fristad, Rångedala
+					0.6 km/0.5 km	0 min 20 s/0 min 16 s
+Borås / Ulricehamn
+					3.0 km/3.1 km	1 min 38 s/1 min 41 s
+Motorväg
+ upphör (östgående riktning)
+ börjar (västgående riktning)
+Rondell
+ Nitta
+					1.5 km/1.6 km	1 min 8 s/1 min 12 s
+Dubbel T-korsning Getared
+ Hökerum
+ Äspered
+					3.1 km/2.9 km	2 min 20 s/2 min 10 s
+T-korsning Tolkabro
+ Hökerum
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+Korsning Bredaslätt
+ Hulu
+					2.4 km/2.4 km	1 min 48 s/1 min 48 s
+T-korsning Lillekullen
+ Brunn
+					1.9 km/2.2 km	1 min 26 s/1 min 39 s
+Korsning Brunn
+ Brunns K:a
+Rastplats Brunn
+					2.3 km/1.9 km	1 min 43 s/1 min 26 s
+Trafikplats Karlsnäs
+ Industriområde
+Bensinstation: Preem, Uno-X, Bilisten
+					0.5 km/0.7 km	0 min 23 s/0 min 31 s
+Trafikplats Svensholm
+ Ulricehamn C
+ 46: Skövde, Falköping
+ 157: Tranemo
+					2.6 km/2.5 km	1 min 44 s/1 min 40 s
+Korsning Ulricehamn Ö
+ Ulricehamn
+ Hössna
+					5.0 km/5.0 km	3 min 20 s/3 min 20 s
+Korsning Valared
+ Hössna, Galtåsen
+					3.4 km/3.4 km	2 min 16 s/2 min 16 s
+Korsning Gullered
+ Gullared
+					4.6 km/4.8 km	3 min 4 s/3 min 12 s
+Dubbel T-korsning Strängsered V
+ Strängsered, Liared
+Rastplats Kullen
+Bensinstation: OKQ8
+					1.4 km/1.3 km	0 min 56 s/0 min 52 s
+Korsning Strängsered Ö
+ Strängsered, Köttkulla
+Rastplats Västgöta rasta
+					4.0 km/4.0 km	2 min 40 s/2 min 40 s
+Västra Götaland / Jönköping
+Ulricehamn / Jönköping
+					3.2 km/3.2 km	2 min 8 s/2 min 8 s
+Korsning Bottnaryd väst
+ Bottnaryd, Tokebro
+					1.9 km/2.2 km	1 min 16 s/1 min 28 s
+Dubbel T-korsning Bottnaryd öst
+ Bottnaryd
+ 185: Mullsjö
+ Mullseryd
+					4.3 km/4.0 km	2 min 52 s/2 min 40 s
+T-korsning Ryd
+ 26: Halmstad
+					2.4 km/2.5 km	1 min 36 s/1 min 40 s
+T-korsning Västra Jära
+ Ryd
+					0.9 km/1.3 km	0 min 36 s/0 min 52 s
+Tankställe Västra Jära
+Bensinstation: Shell, Statoil
+					2.1 km/1.6 km	1 min 24 s/1 min 4 s
+Korsning Skogslund
+ Svinhult, Angereds Hestra
+					1.8 km/1.8 km	1 min 12 s/1 min 12 s
+T-korsning
+ Olsbo
+					4.4 km/4.4 km	2 min 56 s/2 min 56 s
+T-korsning Axamo
+ Axamo
+					1.6 km/1.8 km	1 min 4 s/1 min 12 s
+Trafikplats Hedenstorp
+ 26: Mariestad, Skövde
+ 47: Trollhättan, Falköping
+ 195: Hjo
+ Jönköpings Flygplats
+					3.3 km/3.7 km	2 min 12 s/2 min 28 s
+Trafikplats Gräshagen
+ Gräshagen, Råslätt
+					1.3 km/1.3 km	0 min 52 s/0 min 52 s
+Trafikplats Ljungarum (95)
+ E4: Helsingborg
+ E4: Stockholm

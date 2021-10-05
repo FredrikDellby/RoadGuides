@@ -1,0 +1,16 @@
+Échangeur A4-A26 - Échangeur A5-A26
+5.8 km/5.6 km	2 min 54 s/2 min 48 s	120
+4.2 km/4.3 km	2 min 6 s/2 min 9 s
+2.3 km/2.2 km	1 min 9 s/1 min 6 s
+4.8 km/5.1 km	2 min 24 s/2 min 33 s
+2.4 km/2.5 km	1 min 12 s/1 min 15 s
+14.7 km/14.4 km	7 min 21 s/7 min 12 s
+4.1 km/4.3 km	2 min 3 s/2 min 9 s
+3.5 km/2.6 km	1 min 45 s/1 min 18 s
+8.2 km/9.1 km	4 min 6 s/4 min 33 s
+12.8 km/12.6 km	6 min 24 s/6 min 18 s
+12.9 km/12.9 km	6 min 27 s/6 min 27 s
+9.0 km/9.3 km	4 min 30 s/4 min 39 s
+4.7 km/4.3 km	2 min 21 s/2 min 9 s
+7.0 km/7.3 km	3 min 30 s/3 min 39 s
+

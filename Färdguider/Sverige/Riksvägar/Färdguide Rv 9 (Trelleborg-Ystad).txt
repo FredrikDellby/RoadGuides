@@ -1,0 +1,110 @@
+Färdguide Rv 9 (Trelleborg -
+=============================
+
+Etapp 1: Trelleborg - Smygehuk (15,0 km/15,1 km)
+
+T-korsning Hamnen V
+ Färja: (E22) Sassnitz, Rostock,
+ 	Travemünde, Swinoujscie
+ E6-E22: Malmö, Vellinge
+					0.7 km/0.6 km	50 s/43 s
+T-korsning Rv 9/Lv 108
+ 108: Svedala
+					0.3 km/0.4 km	22 s/29 s
+Korsning 9/Hansagatan
+ Centrum
+					0.4 km/0.4 km	29 s/29 s
+Korsning 9/Kontinentgatan
+ Centrum
+					0.8 km/1.0 km	0 min 58 s/1 min 12 s
+T-korsning 9/Glasbruksv.
+					0.8 km/0.8 km	58 s/58 s
+Rondell 9/Ö. Ringvägen
+ Beddinge, Gislöv
+					0.4 km/0.3 km	21 s/15 s
+Järnvägsbro
+ Kontinentalbanan
+					1.1 km/1.1 km	57 s/57 s
+Korsning
+ Östra Industriområdet
+ Gislövs Läge
+					2.2 km/2.2 km	1 min 53 s/1 min 53 s
+Korsning Gislövs Läge V
+ Gislövs Läge
+ Gislöv
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+T-korsning Gislövs Läge Ö
+ Gislövs Läge
+					0.4 km/0.4 km	24 s/24 s
+T-korsning
+ Gislöv
+					0.5 km/0.5 km	30 s/30 s
+Korsning Simremarken V
+ Anderslöv, Simlinge
+					0.8 km/0.8 km	48 s/48 s
+Korsning Simremarken
+ S. Åby
+					2.2 km/2.2 km	2 min 12 s/2 min 12 s
+Korsning Böste Läge
+ S. Åby
+					2.4 km/2.4 km	2 min 3 s/2 min 3 s
+Korsning Smygehuk Fyr
+					0.5 km/0.7 km	26 s/36 s
+Dubbel T-korsning Smygehuk
+ Sveriges sydspets
+
+Etapp 2: Smygehuk - Mossbystrand (20,5 km/20,3 km)
+					0.7 km/0.5 km	50 s/36 s
+T-korsning Smygehamn V
+ Ö. Torps K:a
+					1.2 km/1.3 km	1 min 26 s/1 min 34 s
+Korsning Smygehamn Ö
+ Skuruo, Äspö
+					2.4 km/2.3 km	2 min 24 s/2 min 18 s
+Korsning Beddingestrand V
+ Skurup, L. Beddinge
+					1.1 km/1.1 km	1 min 19 s/1 min 19 s
+T-korsning Bedinge GK
+Bensinstation: Pump
+					3.1 km/3.0 km	3 min 43 s/3 min 36 s
+Korsning Skateholm
+ Skurup, St. Beddinge
+					0.7 km/0.7 km	50 s/50 s
+Trelleborg / Skurup
+					0.9 km/0.9 km	1 min 5 s/1 min 5 s
+T-korsning Bingsmarken
+ Dybäck
+					6.6 km/6.6 km	7 min 55 s/7 min 55 s
+Korsning Abbekås
+ Skurup, Skivarp
+					1.7 km/1.7 km	2 min 2 s/2 min 2 s
+T-korsning Abbekås GK
+					2.2 km/2.2 km	1 min 53 s/1 min 53 s
+T-korsning Mossbystrand
+ 101: Malmö, Skivarp
+
+Etapp 3: Mossbystrand - Ystad (10,6 km/11,0 km)
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Brasakallt
+ Sjörup
+					0.6 km/0.6 km	31 s/31 s
+Skurup / Ystad
+					0.7 km/0.8 km	36 s/41 s
+T-korsning
+ Snårestad
+					2.0 km/2.0 km	1 min 43 s/1 min 43 s
+T-korsning 9/Charlottenlundsallén
+ Marsvinsholm, Snårestad
+					1.5 km/1.5 km	1 min 30 s/1 min 30 s
+T-korsning Svarte
+ Marsvinsholm
+					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+T-korsning Vilhelmsborg
+					1.8 km/1.8 km	1 min 33 s/1 min 33 s
+T-korsning 9/Västerleden
+					0.7 km/0.7 km	36 s/36 s
+T-korsning 9/Edvinhemsv.
+ Ystad Centrum
+					1.2 km/1.5 km	1 min 2 s/1 min 17 s
+Tankställe Granatvägen
+Trafikplats Ystad (Rondell)

@@ -1,0 +1,289 @@
+Time	Km	Instruction	For	Toward
+Summary:  16,9 kilometres (13 minutes)
+09:00	0,0	Depart near Västtorp on Skaraborgsgatan (East)	20 m	
+09:00	0,1	Road name changes to 49 [Skaraborgsgatan]	1,9 km	
+09:01	1,9	At Korsning, stay on 49 (East)	2,0 km	
+09:03	3,9	At 49, 532 96 Axvall, stay on 49 (East)	1,7 km	
+09:04	5,7	At 49, 532 93 Axvall, stay on 49 (East)	1,4 km	
+09:05	7,1	At T-korsning Skålltorp, stay on 49 (East)	0,6 km	
+09:06	7,7	At T-korsning Hedensberg, stay on 49 (East)	3,7 km	
+09:08	11,3	At Korsning Varnhem N, stay on 49 (East)	0,8 km	
+09:09	12,1	At Korsning Varnhem Ö, stay on 49 (South-East)	1,5 km	
+09:10	13,6	At Korsning Ljungstorp väg 49, stay on 49 (East)	3,3 km	
+09:13	16,9	Arrive near Ljungstorp		
+
+SUMMARY
+Driving distance:  16,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  23,16 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  16,7 kilometres (12 minutes)
+09:00	0,0	Depart near Våmb on 49 (West)	3,3 km	
+09:02	3,3	At Korsning Ljungstorp väg 49, stay on 49 (West)	1,5 km	
+09:03	4,8	At Korsning Varnhem Ö, stay on 49 (North-West)	0,8 km	
+09:04	5,6	At Korsning Varnhem N, stay on 49 (West)	3,7 km	
+09:07	9,2	At T-korsning Hedensberg, stay on 49 (West)	0,6 km	
+09:07	9,8	At T-korsning Skålltorp, stay on 49 (West)	1,1 km	
+09:08	11,0	At 49, 532 Axvall, stay on 49 (West)	2,0 km	
+09:10	12,9	At 49, 532 Axvall, stay on 49 (West)	2,0 km	
+09:11	15,0	At Korsning, stay on 49 (West)	1,7 km	
+09:12	16,7	Arrive near Västtorp		
+
+SUMMARY
+Driving distance:  16,7 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,92 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,4 kilometres (9 minutes)
+09:00	0,0	Depart near Ljungstorp on 49 (East)	1,9 km	
+09:01	1,9	At near Våmb, stay on 49 (East)	1,4 km	
+09:02	3,3	At T-korsning Våmbskleven, stay on 49 (East)	1,7 km	
+09:03	4,9	At Rastplats Våmb, stay on 49 (East)	0,5 km	
+09:04	5,5	At Våmbsvägen 1, 541 33 Skövde, stay on 49 [Skaravägen] (East)	0,3 km	
+09:04	5,7	At Persbergsvägen 1, 541 33 Skövde, stay on 49 [Skaravägen] (East)	0,5 km	
+09:05	6,2	At Cementvägen, 541 31 Skövde, stay on 49 [Skaravägen] (East)	0,4 km	
+09:05	6,6	At roundabout, take the FIRST exit onto 49 [Falköpingsvägen]	0,9 km	
+09:06	7,5	At Diabasvägen, 541 52 Skövde, stay on 49 [Falköpingsvägen] (South)	1,1 km	
+09:08	8,6	At roundabout, take the SECOND exit onto 49	0,9 km	
+09:09	9,4	Arrive 49, 541 36 Skövde		
+
+SUMMARY
+Driving distance:  9,4 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  14,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,9 kilometres (9 minutes)
+09:00	0,0	Depart 26, 541 36 Skövde on Ramp (South)	0,4 km	49 / Skara
+09:00	0,4	Bear RIGHT (West) onto 49	0,8 km	
+09:01	1,2	Enter roundabout	10 m	
+09:01	1,3	At roundabout, take the FIRST exit onto 49	0,9 km	
+09:02	2,1	At Falköpingsvägen, 541 52 Skövde, stay on 49 [Falköpingsvägen] (North)	1,1 km	
+09:03	3,2	At roundabout, take the THIRD exit onto 49 [Skaravägen]	0,5 km	
+09:04	3,7	At Cementvägen, 541 31 Skövde, stay on 49 [Skaravägen] (West)	0,5 km	
+09:05	4,2	At Persbergsvägen 1, 541 33 Skövde, stay on 49 [Skaravägen] (West)	0,3 km	
+09:05	4,5	At Våmbsvägen, 541 33 Skövde, stay on 49 [Skaravägen] (West)	0,4 km	
+09:05	4,9	At Rastplats Våmb, stay on 49 (North-West)	1,8 km	
+09:07	6,7	At T-korsning Våmbskleven, stay on 49 (West)	1,2 km	
+09:08	7,9	At T-korsning Stenberget, stay on 49 (West)	2,0 km	
+09:09	9,9	Arrive near Ljungstorp		
+
+SUMMARY
+Driving distance:  9,9 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  15,04 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,5 kilometres (12 minutes)
+09:00	0,0	Depart 26, 541 34 Skövde on Ramp (North)	0,2 km	49 / 194 / Askersund / Hjo / Centrum
+09:00	0,2	Keep RIGHT to stay on Ramp	30 m	
+09:00	0,2	Turn LEFT (East) onto 49 [Hjovägen]	0,3 km	
+09:00	0,6	At T-korsning Hasslum, stay on 49 [Hjovägen] (East)	0,6 km	
+09:01	1,1	At T-korsning Aspelund Ö, stay on 49 [Hjovägen] (East)	2,0 km	
+09:03	3,2	At 194, 541 92 Skövde, stay on 49 (East)	3,0 km	
+09:05	6,2	At Korsning Igelstorp Rv 49, stay on 49 (East)	0,4 km	
+09:06	6,6	At Korsning Igelstorp Ö, stay on 49 (East)	2,0 km	
+09:07	8,6	At near Björstorp, stay on 49 (East)	3,3 km	
+09:10	11,9	At Korsning Piggatorp, stay on 49 (East)	0,8 km	
+09:10	12,7	At near Ingelsby, stay on 49 (East)	2,9 km	
+09:12	15,5	Arrive 49, 543 93 Tibro		
+
+SUMMARY
+Driving distance:  15,5 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  22,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,4 kilometres (12 minutes)
+09:00	0,0	Depart T-korsning Tidåkra on 49 [201] (West)	2,9 km	
+09:02	2,9	At near Ingelsby, stay on 49 (West)	0,8 km	
+09:02	3,7	At Korsning Piggatorp, stay on 49 (West)	3,2 km	
+09:05	6,9	At T-korsning Hallebacka, stay on 49 (West)	2,1 km	
+09:06	8,9	At Korsning Igelstorp Ö, stay on 49 (West)	0,4 km	
+09:07	9,3	At Korsning Igelstorp Rv 49, stay on 49 (West)	3,0 km	
+09:09	12,3	At Korsning Huseby, stay on 49 (West)	2,1 km	
+09:11	14,4	At T-korsning Aspelund Ö, stay on 49 [Hjovägen] (West)	0,6 km	
+09:12	15,0	At T-korsning Hasslum, stay on 49 [Hjovägen] (West)	0,3 km	
+09:12	15,4	Arrive 49, 541 Skövde		
+
+SUMMARY
+Driving distance:  15,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  19,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (15 minutes)
+09:00	0,0	Depart 49, 543 93 Tibro on 49 [201] (East)	0,8 km	
+09:00	0,8	At T-korsning, stay on 49 [201] (North-East)	0,3 km	
+09:01	1,1	At 49, 543 35 Tibro, stay on 49 [201] (North-East)	0,4 km	
+09:01	1,5	At 49, 543 51 Tibro, stay on 49 [201] (North-East)	0,9 km	
+09:02	2,4	At Korsning Tibro N, stay on 49 [201] (East)	2,1 km	
+09:04	4,5	At T-korsning Ottostorp, stay on 49 (North-East)	2,0 km	
+09:05	6,5	At T-korsning Blombacka, stay on 49 (East)	0,6 km	
+09:06	7,1	At T-korsning, stay on 49 (East)	1,8 km	
+09:07	8,9	At near Ranserg, stay on 49 (East)	2,8 km	
+09:09	11,7	At Korsning Fagersanna Rv 49, stay on 49 (East)	1,4 km	
+09:10	13,1	At T-korsning Stenbacken, stay on 49 (East)	4,8 km	
+09:14	17,9	At near Krogstorp, stay on 49 (East)	1,4 km	
+09:15	19,3	Arrive T-korsning Mölltorp södra		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  28,66 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,3 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Mölltorp södra on 49 (West)	1,5 km	
+09:01	1,5	At near Krogstorp, stay on 49 (West)	4,8 km	
+09:04	6,3	At T-korsning Stenbacken, stay on 49 (West)	1,4 km	
+09:05	7,7	At Korsning Fagersanna Rv 49, stay on 49 (West)	2,8 km	
+09:07	10,5	At 49, 543 Tibro, stay on 49 (West)	1,8 km	
+09:09	12,3	At T-korsning, stay on 49 (West)	0,6 km	
+09:09	12,9	At T-korsning Blombacka, stay on 49 (West)	2,0 km	
+09:11	14,9	At T-korsning Ottostorp, stay on 49 [201] (South-West)	2,1 km	
+09:12	17,0	At Korsning Tibro N, stay on 49 [201] (West)	0,7 km	
+09:13	17,7	At near Tibro, stay on 49 [201] (West)	0,5 km	
+09:14	18,3	At T-korsning Tibro V, stay on 49 [201] (South-West)	0,4 km	
+09:14	18,6	At T-korsning, stay on 49 [201] (South-West)	0,7 km	
+09:15	19,3	Arrive T-korsning Tidåkra		
+
+SUMMARY
+Driving distance:  19,3 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  25,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,4 kilometres (13 minutes)
+09:00	0,0	Depart T-korsning Mölltorp södra on 49 (East)	4,0 km	
+09:03	4,0	At near Mölltorp, stay on 49 (North)	0,4 km	
+09:03	4,3	At T-korsning Arnekärr, stay on 49 (North)	2,9 km	
+09:05	7,3	At near Karlsborg, stay on 49 [Södra Vägen] (East)	0,7 km	
+09:06	8,0	At 49 9, 546 31 Karlsborg, stay on 49 [Södra Vägen] (North)	0,3 km	
+09:07	8,3	At near Karlsborg, stay on 49 [Södra Vägen] (East)	1,2 km	
+09:08	9,4	At T-korsning 49/Torggatan, stay on 49 [Rödesunds Torg] (North)	0,8 km	
+09:10	10,3	At 49, 546 33 Karlsborg, stay on 49 [Norra Vägen] (North-West)	1,0 km	
+09:11	11,2	At T-korsning 49/Svartfjällsv., stay on 49 [Norra Vägen] (North)	1,1 km	
+09:12	12,3	At T-korsning, stay on 49 [Norra Vägen] (North)	1,0 km	
+09:13	13,4	Arrive T-korsning Hultet		
+
+SUMMARY
+Driving distance:  13,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  21,89 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,0 kilometres (12 minutes)
+09:00	0,0	Depart T-korsning Hultet on 49 (South)	1,0 km	
+09:00	1,0	At T-korsning, stay on 49 [Norra Vägen] (South)	1,1 km	
+09:01	2,1	At T-korsning 49/Svartfjällsv., stay on 49 [Norra Vägen] (South)	0,7 km	
+09:02	2,9	At T-korsning 49/Parkvägen, stay on 49 [Norra Vägen] (East)	1,1 km	
+09:03	3,9	At T-korsning 49/Torggatan, stay on 49 [Storgatan] (South)	1,1 km	
+09:05	5,0	At T-korsning 49/Kärleksstigen, stay on 49 [Södra Vägen] (South)	0,3 km	
+09:06	5,3	At near Karlsborg, stay on 49 [Södra Vägen] (South)	0,7 km	
+09:06	6,0	At near Karlsborg, stay on 49 [Södra Vägen] (West)	3,0 km	
+09:09	9,0	At T-korsning Arnekärr, stay on 49 (South)	0,4 km	
+09:09	9,4	At near Mölltorp, stay on 49 (South)	3,6 km	
+09:12	13,0	Arrive T-korsning Mölltorp södra		
+
+SUMMARY
+Driving distance:  13,0 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  18,79 kr
+
+
+Vilan - Korsning
+1.9 km/1.7 km	1 min 26 s/1 min 17 s	80
+
+Korsning - Skålltorp
+2.0 km/2.0 km	1 min 20 s/1 min 20 s	90
+1.7 km/2.0 km	1 min 8 s/1 min 20 s
+1.4 km/1.1 km	0 min 56 s/0 min 44 s
+
+Skålltorp - Varnhem N
+0.6 km/0.6 km	0 min 27 s/0 min 27 s	80
+3.7 km/3.7 km	2 min 47 s/2 min 47 s
+
+Varnhem N - Kommungräns
+0.8 km/0.8 km	0 min 41 s/0 min 41 s	70
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+3.3 km/3.3 km	2 min 50 s/2 min 50 s
+
+Kommungräns - Våmb K:a
+1.9 km/2.0 km	1 min 38 s/1 min 43 s	70
+1.4 km/1.2 km	1 min 12 s/1 min 2 s
+1.7 km/1.8 km	1 min 27 s/1 min 33 s
+0.5 km/0.4 km	0 min 26 s/0 min 21 s
+
+Våmb K:a - Fabiansrondell
+0.3 km/0.3 km	0 min 22 s/0 min 22 s	50
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.4 km/0.5 km	0 min 29 s/0 min 36 s
+0.9 km/1.1 km	1 min 5 s/1 min 19 s
+1.1 km/0.9 km	1 min 19 s/1 min 5 s
+
+Fabiansrondell - Skövde Södra
+0.9 km/1.2 km	0 min 46 s/1 min 2 s	70
+
+Mariesjö - Aspelund Ö
+0.6 km/0.3 km	0 min 43 s/0 min 22 s	50
+0.6 km/0.6 km	0 min 43 s/0 min 43 s
+
+Aspelund Ö - Igelstorp Rv 49
+2.0 km/2.1 km	1 min 43 s/1 min 48 s	70
+3.0 km/3.0 km	2 min 34 s/2 min 34 s
+
+Igelstorp Rv 49 - Igelstorp Ö
+0.4 km/0.4 km	0 min 29 s/0 min 29 s	50
+
+Igelstorp Ö - Tidåkra
+2.0 km/2.1 km	1 min 30 s/1 min 35 s	80
+3.3 km/3.2 km	2 min 28 s/2 min 24 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+2.9 km/2.9 km	2 min 11 s/2 min 11 s
+
+Tidåkra - Tibro N
+0.8 km/0.7 km	0 min 41 s/0 min 36 s	70
+0.3 km/0.4 km	0 min 15 s/0 min 21 s
+0.4 km/0.5 km	0 min 21 s/0 min 26 s
+0.9 km/0.7 km	0 min 46 s/0 min 36 s
+
+Tibro N - Mölltorp södra
+2.1 km/2.1 km	1 min 35 s/1 min 35 s	80
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+1.8 km/1.8 km	1 min 21 s/1 min 21 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+4.8 km/4.8 km	3 min 36 s/3 min 36 s
+1.2 km/1.5 km	0 min 54 s/1 min 8 s
+
+Mölltorp södra - Karlsborg södra
+4.0 km/3.6 km	3 min 26 s/3 min 5 s	70
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+2.9 km/3.0 km	2 min 29 s/2 min 34 s
+
+Karlsborg södra - Tank
+0.7 km/0.7 km	0 min 50 s/0 min 50 s	50
+
+Tank - Öltappen
+0.3 km/0.3 km	0 min 27 s/0 min 27 s	40
+1.2 km/1.1 km	1 min 48 s/1 min 39 s
+0.8 km/1.1 km	1 min 12 s/1 min 39 s
+
+Öltappen - Hultet
+1.0 km/0.7 km	1 min 12 s/0 min 50 s	50
+1.1 km/1.1 km	1 min 19 s/1 min 19 s
+1.0 km/1.0 km	1 min 12 s/1 min 12 s

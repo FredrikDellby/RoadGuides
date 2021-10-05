@@ -1,0 +1,139 @@
+Time	Km	Instruction	For	Toward
+Summary:  28,5 kilometres (18 minutes)
+09:00	0,0	Depart E28, 17329 Nadrensee on A11 [E28] (West)	9,2 km	
+09:06	9,2	At 3, stay on A11 [E28] (West)	10,0 km	
+09:13	19,2	At E28, 17328 Penkun, stay on A11 [E28] (West)	1,0 km	
+09:13	20,2	At 4, stay on A11 [E28] (West)	8,3 km	
+09:18	28,5	Arrive 5		
+
+SUMMARY
+Driving distance:  28,5 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  32,86 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  28,4 kilometres (17 minutes)
+09:00	0,0	Depart 5 on A11 [E28] (North-East)	9,4 km	A11 / Stettin
+09:06	9,4	At 4, stay on A11 [E28] (East)	0,8 km	
+09:06	10,3	At near Grünz, stay on A11 [E28] (East)	9,8 km	
+09:12	20,1	At 3, stay on A11 [E28] (East)	8,4 km	
+09:17	28,4	Arrive E28, 17329 Nadrensee		
+
+SUMMARY
+Driving distance:  28,4 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  32,78 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  51,6 kilometres (28 minutes)
+09:00	0,0	Depart 5 on A11 [E28] (South-West)	2,8 km	A11 / Berlin
+09:01	2,8	At 6, stay on A11 [E28] (South-West)	6,0 km	
+09:04	8,8	At E28, 17291 Oberuckersee, stay on A11 [E28] (South)	0,4 km	
+09:05	9,2	At 7, stay on A11 [E28] (South)	0,7 km	
+09:05	9,9	At E28, 17291 Oberuckersee, stay on A11 [E28] (South)	6,4 km	
+09:08	16,4	At 8, stay on A11 [E28] (South)	20,2 km	
+09:20	36,6	At 9, stay on A11 [E28] (South)	1,9 km	
+09:21	38,5	At 10, stay on A11 [E28] (South)	4,6 km	
+09:24	43,1	At E28, 16247 Joachimsthal, stay on A11 [E28] (South-West)	2,7 km	
+09:25	45,8	At 11, stay on A11 [E28] (South-West)	1,1 km	
+09:26	47,0	At E28, 16244 Schorfheide, stay on A11 [E28] (South-West)	4,6 km	
+09:28	51,6	Arrive 12		
+
+SUMMARY
+Driving distance:  51,6 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  59,80 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  50,7 kilometres (26 minutes)
+09:00	0,0	Depart 12 on A11 [E28] (North)	4,3 km	
+09:02	4,3	At E28, 16244 Schorfheide, stay on A11 [E28] (North-East)	1,3 km	
+09:02	5,6	At 11, stay on A11 [E28] (North-East)	3,4 km	
+09:04	9,0	At E28, 16247 Joachimsthal, stay on A11 [E28] (North-East)	3,5 km	
+09:06	12,6	At 10, stay on A11 [E28] (North)	2,4 km	
+09:07	15,0	At 9, stay on A11 [E28] (North)	20,2 km	
+09:18	35,2	At 8, stay on A11 [E28] (North)	6,5 km	
+09:21	41,7	At near Melzow, stay on A11 [E28] (North-East)	0,7 km	
+09:21	42,4	At 7, stay on A11 [E28] (North)	2,3 km	
+09:23	44,7	At E28, 17291 Oberuckersee, stay on A11 [E28] (North)	3,9 km	
+09:25	48,7	At 6, keep LEFT to stay on A11 [E28]	2,1 km	
+09:26	50,7	Arrive 5		
+
+SUMMARY
+Driving distance:  50,7 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  58,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,1 kilometres (16 minutes)
+09:00	0,0	Depart 12 on A11 [E28] (South)	0,8 km	
+09:00	0,8	At near Finowfurt, stay on A11 [E28] (South)	3,4 km	
+09:02	4,2	At E28, 16244 Schorfheide, stay on A11 [E28] (South-West)	7,0 km	
+09:05	11,2	At 13, stay on A11 [E28] (South-West)	2,3 km	
+09:07	13,4	At near Lanke, stay on A11 [E28] (South-West)	3,2 km	
+09:08	16,6	At 14, stay on A11 [E28] (South)	1,8 km	
+09:09	18,4	At E28, 16321 Bernau bei Berlin, stay on A11 [E28] (South)	2,7 km	
+09:11	21,2	At 15, stay on A11 [E28] (South)	5,2 km	
+09:13	26,4	At 16, keep STRAIGHT to stay on A11 [E28]	3,7 km	
+09:16	30,1	Arrive 17		
+
+SUMMARY
+Driving distance:  30,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  35,68 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,0 kilometres (14 minutes)
+09:00	0,0	Depart 1 on A11 [E28] (East)	4,3 km	A11 / Stettin / Prenzlau / Bernau-SÜD
+09:02	4,3	At 16, stay on A11 [E28] (North)	4,5 km	
+09:04	8,8	At 15, stay on A11 [E28] (North)	2,2 km	
+09:05	11,0	At E28, 16321 Bernau bei Berlin, stay on A11 [E28] (North)	1,9 km	
+09:06	12,9	At 14, stay on A11 [E28] (North)	3,6 km	
+09:08	16,6	At near Lanke, stay on A11 [E28] (North-East)	2,3 km	
+09:09	18,8	At 13, stay on A11 [E28] (North-East)	9,3 km	
+09:14	28,2	At E28, 16244 Schorfheide, stay on A11 [E28] (North)	1,2 km	
+09:14	29,4	At near Finowfurt, stay on A11 [E28] (North)	0,6 km	
+09:14	30,0	Arrive 12		
+
+SUMMARY
+Driving distance:  30,0 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  35,62 kr
+
+Polen - Uckermark (5)
+9.2 km/8.4 km	4 min 36 s/4 min 12 s
+10.0 km/9.8 km	5 min 0 s/4 min 54 s
+1.0 km/0.8 km	0 min 30 s/0 min 24 s
+8.3 km/9.4 km	4 min 9 s/4 min 42 s
+
+Uckermark (5) - Finowfurt (12)
+2.8 km/2.1 km	1 min 24 s/1 min 3 s
+6.0 km/3.9 km	3 min 0 s/1 min 57 s
+0.4 km/2.3 km	0 min 12 s/1 min 9 s
+0.7 km/0.7 km	0 min 21 s/0 min 21 s
+6.4 km/6.5 km	3 min 12 s/3 min 15 s
+20.2 km/20.2 km	10 min 6 s/10 min 6 s
+1.9 km/2.4 km	0 min 57 s/1 min 12 s
+4.6 km/3.5 km	2 min 18 s/1 min 45 s
+2.7 km/3.4 km	1 min 21 s/1 min 42 s
+1.1 km/1.3 km	0 min 33 s/0 min 39 s
+4.6 km/4.3 km	2 min 18 s/2 min 9 s
+
+Finowfurt (12) - Bernau-Nord (15)
+0.8 km/0.6 km	0 min 24 s/0 min 18 s
+3.4 km/1.2 km	1 min 42 s/0 min 36 s
+7.0 km/9.3 km	3 min 30 s/4 min 39 s
+2.3 km/2.3 km	1 min 9 s/1 min 9 s
+3.2 km/3.6 km	1 min 36 s/1 min 48 s
+1.8 km/1.9 km	0 min 54 s/0 min 57 s
+2.7 km/2.2 km	1 min 21 s/1 min 6 s
+
+Bernau-Nord - Schwanebeck (17)
+5.2 km/4.5 km	2 min 50 s/2 min 27 s
+3.7 km/4.3 km	2 min 1 s/2 min 21 s

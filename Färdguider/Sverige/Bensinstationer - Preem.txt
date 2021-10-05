@@ -1,0 +1,671 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Höganäs, Skördevägen				X
+- Helsingborg, Ängelholmsvägen			X
+- Helsingborg, Trossen				X
+- Helsingborg, Trb				-
+- Helsingborg, G. Adolfsgatan			X
+- Helsingborg, S. Hunnetorpsvägen		X
+- Helsingborg, Långeberga			-
+- Helsingborg, Bunkalundsvägen			-
+- Helsingborg, Bårslöv				-
+- Landskrona, Österleden			-
+- Eslöv, Kvarngatan				-
+- Höör, Malmövägen				-
+- Hörby, Ekeröd					-
+- Hörby, Ringsjövägen				-
+- Kävlinge, V. Långgatan			-
+- Kävlinge					-
+- Lund, Jägaregatan				-
+- Lund						-
+- Lund, Gastelyckan				-
+- Staffanstorp					-
+- Staffanstorp, Önsvala allé			-
+- Veberöd, Dalbyvägen				-
+- Veberöd, Orrspelsvägen			-*
+- Arlöv, Trb					-
+- Arlöv, Burlöv centrum				-
+- Malmö, Hanögatan				X
+- Limhamn, Linnégatan				X
+- Malmö, Mellanhedsgatan			X
+- Malmö. Lorensborgsgatan			X
+- Malmö, Scheelegatan				X
+- Malmö, Ringvägen				X
+- Malmö, Erikfältsgatan				X
+- Malmö, V. Hindbyvägen				X
+- Malmö, Cypressvägen				X
+- Malmö, Fosie					X
+- Oxie, Stengodsvägen				X
+- Svedala, Malmövägen				-
+- Höllviken, Kungstorpsvägen			X
+- Höllviken, Falsterbovägen			X
+- Trelleborg, Stavstensvägen			X
+- Trelleborg, Strandridaregatan			X
+- Trelleborg, Strandgatan			X
+- Anderslöv, Landsvägen				X
+- Skurup, Sandåkra				-
+- Skurup, Svaneholmsvägen			-
+- Ystad, S. Dragongatan				-
+
+f.d. Kristianstad län:
+- Hjärnarp, Lingerdal				-*
+- Örkelljunga, Hjälmsjöstrandsg. 1		-
+- Ängelholm, Östergatan				-
+- Ängelholm, Trb				-
+- Ängelholm, Erikslund				-
+- Kvidinge, Trb					-
+- Klippan, Storgatan 90				-
+- Klippan, Storgatan 7				-
+- Klippan, Elfdalen				-*
+- Tyringe, Helsingborgsvägen			-
+- Hässleholm, Kringelvägen			-
+- Hässleholm, Terminalgatan			-
+- Sösdala, Hanåsvägen				-
+- Osby, Kristianstadsgatan			-
+- Osby						-
+- Broby, Tydingevägen				-
+- Knislinge, Kristianstadsvägen			-
+- Kristianstad, Snapphanevägen			-
+- Kristianstad, Mäster Bonggatan		-
+- Kristianstad					-
+- Kristianstad, Kung Knuts väg			-
+- Bromölla, Tians väg				-
+- Nymölla					-*
+- Åhus						-
+- Åhus, Nordanvägen				-
+- Tomelilla, Adelgatan				-
+- Gärsnäs, Malmövägen				-
+- Simrishamn, Storgatan				-
+
+
+Blekinge län
+=============
+
+- Olofström, Lönsbodavägen			-
+- Sölvesborg, Listervägen			-
+- Mörrum, Sölvesborgsvägen			-
+- Asarum					-
+- Karlshamn, Sölvesborgsvägen			-
+- Karlshamn, Erik Dahlbergsvägen		-
+- Ronneby, Galtsjön				-
+- Ronneby, Karlshamnsvägen 12			-
+- Holmsjö, Riksvägen
+- Rödeby, Kassabrovägen				-
+- Karlskrona, Lyckebyvägen			-
+- Karlskrona, Ronnebyvägen			-
+- Karlskrona, Verkövägen			-
+- Karlskrona, Blåportsgatan			-
+
+
+Hallands län
+=============
+
+- Varberg, Stormhallsvägen
+- Varberg, Trb					-
+- Varberg, Susvindsvägen			-
+- Varberg, Kungsgatan				X
+- Rolfstorp, Aleslöv				-
+- Tvååker, Fastarpsvägen			X
+- Falkenberg, Falkenbergsmotet			X
+- Falkenberg, Trb				X
+- Hyltebruk					-
+- Oskarström, Björkallén			X
+- Gullbrandstorp, Grangatan			X
+- Halmstad, Nya Tylösandsvägen			X
+- Halmstad, Kristinehedsvägen			-
+- Halmstad, Vallås				X
+- Halmstad, Grönevångsvägen			X
+- Halmstad					-
+- Laholm, Ängelholmsvägen			X
+- Våxtorp, Bygatan				X
+
+
+Kronobergs län
+===============
+
+Västra delen:
+- Ljungby, Långgatan				X
+- Ljungby, Ringvägen				-
+- Markaryd, Ulvarydsvägen			-
+- Älmhult, S. Esplanaden			-
+- Älmhult, Gamla Slätthultsvägen		-
+
+Östra delen:
+- Lammhult, Värnamovägen			X
+- Åseda, Järnvägsgatan				X
+- Alvesta, Trb					-
+- Alvesta, Sköldstavägen			-
+- Växjö, Rådjursvägen				-
+- Växjö, Trb					-
+- Växjö, Fagrabäcksvägen			-
+- Växjö, Sandviksvägen				X
+- Växjö, Furuhill				X
+- Vislanda, Ö. Järnvägsgatan			-
+- Vislanda, Trb					-
+- Hovmantorp, Centralgatan			X
+- Lessebo, Storgatan				X
+- Tingsryd, Lokgatan				X
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Gamleby, Västerviksvägen			X
+- Västervik, Strandvägen			-
+- Västervik, Östersjövägen			X
+- Vimmerby, Storgatan				X
+- Hultsfred					
+- Hultsfred, Oskarsgatan			X
+- Målilla, Atlantvägen				X
+- Oskarshamn					-
+- Oskarshamn, Sörviksvägen			X
+
+Södra delen:
+- Högsby, Järnvägsgatan				X
+- Ålem, Alsteråvägen				X
+- Rockneby, Rebsuddevägen			-
+- Nybro, Jutarnas väg				X
+- Nybro, Fågelvägen				X
+- Kalmar, Lindsdal				-
+- Kalmar, Trb					-
+- Kalmar, Törnebyvägen				X
+- Kalmar, Polhemsgatan				X
+- Kalmar, Rinkabyholm				X
+- Påryd, Industrigatan				X	
+- Söderåkra, Ekesvägen				X
+
+Öland:
+- Färjestaden, Träffpunkt Öland			-
+
+Jönköpings län
+===============
+
+Norra delen:
+- Gränna, Brahehus E4				-
+- Tranås, Säbyvägen				X
+- Gränna, Vätterleden				-
+- Aneby, Torrggatan/Kapellgatan			X
+- Jönköping, Månseryd				X
+- Jönköping, Åsenvägen				X
+- Jönköping, Artillerigatan			-
+- Jönköping, Vasavägen				-
+- Huskvarna, Birkagatan				-
+- Huskvarna, Grännavägen			X
+- Jönköping, Jordbron				X
+- Jönköping, Solåsvägen				-*
+- Jönköping, Hovslätt				X
+- Jönköping, Torsvik				-*
+- Tenhult, Jönköpingsvägen			X
+
+Västra delen:
+- Hestra, Mogatan				X
+- Gislaved, Mårtensgatan			X
+- Vaggeryd, Hokvägen				X
+- Skillingaryd, Götaström			-
+- Värnamo, Myntgatan				-
+- Värnamo, Malmövägen				X
+
+Östra delen:
+- Anneberg, Eksjövägen				X
+- Nässjö, Handskerydsvägen			X
+- Eksjö, Aborravik				X
+- Eksjö, Tullgatan				X
+- Mariannelund, Järnvägsgatan			X
+- Sävsjö, Stora Torget				-
+- Stockaryd, Råvaruterminalen
+
+
+Västra Götalands län
+=====================
+
+Inre Göteborgsområdet:
+- Hisings-Backa, Bäckeholmsmotet		X
+- Hisings-Backa, Importgatan 2-4, aut		-*
+- Hisings-Backa, Importgatan 24			-*
+- Hisings-Backa, Importgatan 2-4		-*
+- Göteborg, Bjurslättstorg			X
+- Göteborg, Ångpannegatan (Trb)			-
+- Hisings-Backa, Arendal (Trb)			-*
+- Göteborg, Frihamnsmotet			X
+- Göteborg, Raffinaderivägen			-
+- Göteborg, Vikan (Trb)				-*
+- Göteborg, Skandiahamnen			-*
+- Göteborg, Skarvik				-*
+- Gunnilse, Trb					-*
+- Götegorg, Slakthusgatan			X
+- Göteborg, Artillerigatan			X
+- Göteborg, von Utfallsgatan			-
+- Göteborg, Utbyvägen				X
+- Sävedalen					-
+- Partille (Trb)				-*
+- Göteborg, Ullevimotet				X
+- Göteborg, Jaegersdorffsplatsen		-
+- Göteborg, Fiskhamnen (Trb)			-*
+- Göteborg, Margaretebergsgatan			-
+- Göteborg, Högsbo				X
+- Göteborg, Marklandsgatan			X
+- V:a Frölunda, Skattegårdsvägen		X
+- V:a Frölunda, Järnbrottsmotet			X
+- Askim, Västra Stationsvägen 2A		-
+- Göteborg, Mölndal				-
+- Göteborg, Kållered				-*
+- Lindome, Gamla Riksvägen			X
+
+Yttre Göteborgsområdet:
+- Klövedal, Björkholmen				-*
+- Tjörn, Skärhamn				-*
+- Stenungsund					-*
+- Älvängen, Skepplanda				X
+- Kode (Kareby)					-*
+- Nödinge, Nödingevägen				-
+- Kungälv, Bultgatan (Trb)			-
+- Kungälv, Gymnasiegatan			-*
+- Ytterby, Hollandsgatan			X
+- Bohus, Surte					X
+- Gråbo, Grusvägen				X
+- Göteborg, Stenkullen				-*
+- Floda, Flodamotet				-
+- Lerum, Göteborgsvägen				-
+- Mölnlycke					-*
+- Härryda, Centrum				-		
+- Kungsbacka, Varbergsvägen			X
+- Kungsbacka (Trb)				-
+- Onsala, Gottskärsvägen			X
+
+Sjuhärad:
+- Bollebygd					-
+- Bollebygd, Stationsvägen			-
+- Borås, Göteborgsvägen				X
+- Borås (Trb)					-
+- Borås, Hultagatan				X
+- Brämhult, väg 40				X
+- Borås, Hedvigsborg				X
+- Ulricehamn, Karlsnäsvägen			X
+- Sätila, Björlandavägen			X
+- Skene, Redskapsgatan				X
+- Svenljunga, Nylännesgatan			X
+- Limmared, V. Järnvägsgatan			X
+
+Mellersta Västergötland:
+- Vänersborg, Trestad				-
+- Vargön, Trollhättevägen			-
+- Trollhättan, Överby				X
+- Trollhättan, Saab ind. omr.			-
+- Trollhättan, Skanska (Trb)			-
+- Trollhättan, Kardanvägen (Trb)		-*
+- Sjuntorp, Trollhättevägen			X
+- Lilla Edet, Ljungsskilevägen			
+- Lilla Edet (Trb)
+- Lilla Edet
+- Vårgårda, Hjultorp				X
+- Herrljunga, Alingsåsvägen			X
+- Alingsås, Kungälvsvägen			X
+- Alingsås (Trb)				-
+- Alingsås, Häradsvägen				-
+- Alingsås, Charlottenbergsvägen		X
+
+Bohuslän:
+- Strömstad, Stene				-
+- Tanumshede (Trb)				-
+- Tanumshede E6					X
+- Brastad, Brodalen				X
+- Kungshamn, Hallindevägen			X
+- Uddevalla, Torp				-
+- Uddevalla, Lane Herrestad			X
+- Uddevalla					-
+- Uddevalla, Gerles väg				-*
+- Uddevalla, Asg. (Trb)				-*
+- Lysekil, Landsvägsgatan			X
+- Grundsund, Ponteviksvägen			-
+- Henån, Tegneby				-
+
+Dalsland:
+- Åmål, Karlstadsvägen				X
+- Mellerud, Landsvägsgatan 78			X
+- Mellerud, Landsvägsgatan 44			-
+- Färgelanda, Uddevallavägen			X
+
+Skaraborg:
+- Mariestad, Industrigatan
+- Mariestad, Hammarsmedsgatan 16
+- Töreboda, Industrigatan
+- Hällekis
+- Götene (Trb)
+- Karlsborg, S. Infarten
+- Lidköping, Wennerbergsvägen 26
+- Lidköping, Kartåsgatan 3
+- Järpås, Storgatan
+- Kvänum E20 Jung
+- Skara
+- Skövde, Bangårdsgatan (Såifa)			-*
+- SKövde, Bangårdsgatan				X
+- Tibro, Mariestadsvägen
+- Stenstorp
+- Falköping, Göteborgsvägen
+- Falköping, Midfalegatan
+- Tidaholm, V. Drottningvägen
+- Kinnarp
+- Åsarp, Centrumvägen 14			X
+
+
+Östergötlands län
+==================
+
+Västra delen:
+- Motala
+- Motala, Östermalmsgatan
+- Motala, Ängdalen
+- Borensberg, Skänningevägen
+- Vadstena, Motalagatan
+- Ödeshög, Mjölbyvägen
+- Ödeshög, Backasand
+- Skänninge, Motalagatan
+- Mjölby, Ramstadgatan
+- Mjölby
+- Mantorp
+- Ljungsbro
+- Linköping, Gärstadverket
+- Linköping
+- Linköping, Rydsvägen
+- Linköping, Väringsgatan
+- Linköping, Älgvägen
+
+Södra delen:
+- Åtvidaberg
+- Åtvidaberg, Söderleden
+- Tranås, Ramfall
+
+Östra delen:
+- Finspång, Sonstorp
+- Finspång, Bergslagsvägen
+- Norrköping, Åby
+- Norrköping, Händelö
+- Norrköping, Spårgatan
+- Norrköping, Stockholmsvägen
+- Norrköping (Trb, 2 st)
+- Söderköping (Trb)
+
+
+Gotlands län
+=============
+
+- Slite, Stationsgatan
+- Visby, Broväg
+- Visby
+- Visby, Follingboväg
+- Klintehamn, N. Kustvägen
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+- Charlottenberg, Emterudsv.
+- Arvika, Långvaksvägen
+- Årjäng, Forsbackegatan
+- Säffle, Stamvägen
+
+Karlstadområdet:
+- Deje, Älvdalsvägen
+- Molkom, Graningevägen
+- Kil, Montörsgatan (Trb)
+- Vålberg
+- Karlstad, Råtorpsvägen
+- Karlstad, Horsensgatan
+- Karlstad, Kolvgatan
+- Karlstad, Lantvärnsgatan
+- Karlstad, Välsviken
+- Karlstad (Trb)
+- Karlstad, Kannikenäset
+- Slottsbron, Strandgatan
+
+Norra och Centrala:
+- Hagfors
+- Munkfors, Forsnäs
+
+Östra Värmland:
+- Kristinehamn
+
+
+Örebro län
+===========
+
+Värmland/Västernärke:
+- Karlskoga, Örebrovägen
+- Laxå, Smedjegatan
+- Askersund, Lustenrustvägen
+- Aspa Bruk
+
+Östernärke:
+- Dyltabruk
+- Örebro, Lillån
+- Glanshammar
+- Örebro, Industrigatan
+- Örebro, Boställsvägen
+- Örebro, Österplan
+- Kumla, Hällabrottet
+- Vretstorp, Viiby Krog
+- Hallsberg, Tälleleden
+- Hallsberg, Transtensgatan
+
+Västra Västmanland:
+- Hällefors
+- Frövi, Vannebodagatan
+- Frövi
+
+
+Södermanlands län
+==================
+
+Norra delen:
+- Eskilstuna, Mått Johanssons väg
+- Eskilstuna, Kungsgatan
+- Eskilstuna, Mälarvägen
+- Eskilstuna, Tegelbruksgatan
+- Eskilstuna, Strängnäsvägen
+- Eskilstuna, Vägmästarvägen
+- Strängnäs, Ö. Infarten
+- Strängnäs, Malmby
+- Stallarholmen, Brogatan
+
+Mellersta delen:
+- Katrineholm, Stockholmsvägen
+- Flen, Kungsvägen
+
+Södra delen:
+- Nyköping, Idbäcken (Diesel)
+- Nyköping, Ringvägen
+- Vagnhärad, Stationsvägen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adress:  	 GUSTAV ADOLFSG 47
+Postnr: 	252 27
+Ort: 	HELSINGBORG
+Tel: 	042-144070
+Fax: 	042-245320
+E-post: 	gustav.adolfsgatan.helsingborg@preem.se
+
+Stationstyp: Bemannad, Bensinstation
+
+Service:  Gör det själv, Uthyrning bil, Uthyrning släp, Biltvätt Renofin, Freshfood
+Drivmedel:  Bensin 95, Bensin 98, Etanol E85, ACP diesel
+
+
+
+
+
+
+
+Adress:  	 KUNGSTORPSV.4
+Postnr: 	236 32
+Ort: 	HÖLLVIKEN
+Tel: 	040-451295
+Fax: 	040-456413
+E-post: 	preem.macken@telia.com
+
+Stationstyp: Bemannad, Bensinstation
+
+Öppettider
+Vardagar: 	06:30-20:00
+Lördagar: 	08:00-18:00
+Söndagar: 	09:00-18:00
+Service:  Uthyrning släp, Lämplig för 24 m släp
+Drivmedel:  Bensin 95, Bensin 98, Etanol E85, ACP diesel
+
+Adress:  	 FALSTERBOVÄGEN 48
+Postnr: 	236 51
+Ort: 	HÖLLVIKEN
+Tel: 	040-451709
+Fax: 	
+E-post: 	agge.stahl@bredband.net
+
+Stationstyp: Automat, Bensinstation
+
+Drivmedel:  Bensin 95, Bensin 98
+
+Adress:  	 STAVSTENSVÄGEN 158
+Postnr: 	231 62
+Ort: 	TRELLEBORG
+Tel: 	0410-13910
+Fax: 	0410-45115
+E-post: 	firman@bvct.se
+
+Stationstyp: Automat, Bensinstation
+
+Drivmedel:  Bensin 95, Bensin 98, ACP diesel
+
+Adress:  	 STRANDRIDAREG.
+Postnr: 	231 61
+Ort: 	TRELLEBORG
+Tel: 	070-2271277
+Fax: 	0416-18180
+E-post: 	bmf.service@telia.com
+
+Stationstyp: Automat, SÅIFA
+
+Service:  Lämplig för 24 m släp
+Drivmedel:  ACP diesel
+
+Adress:  	 STRANDG 18-20
+Postnr: 	231 00
+Ort: 	TRELLEBORG
+Tel: 	070-2271277
+Fax: 	0416-18180
+E-post: 	bmf.service@telia.com
+
+Stationstyp: Automat, Bensinstation
+
+Drivmedel:  Bensin 95
+
+Adress:  	 LANDSVÄGEN
+Postnr: 	231 70
+Ort: 	ANDERSLÖV
+Tel: 	0410-20490
+Fax: 	0410-20490
+E-post: 	20490@live.se
+
+Stationstyp: Automat, Bensinstation
+
+Service:  Uthyrning släp
+Drivmedel:  Bensin 95, Bensin 98, ACP diesel
+
+Adress:  	 LINNÉGATAN 85
+Postnr: 	216 15
+Ort: 	LIMHAMN
+Tel: 	040-153065
+Fax: 	040-157962
+E-post: 	urban.olsson@preem.se
+
+Stationstyp: Bemannad, Bensinstation
+
+Öppettider
+Vardagar: 	07:00-22:00
+Lördagar: 	08:00-22:00
+Söndagar: 	08:00-22:00
+Service:  Gör det själv, Biltvätt, Uthyrning släp
+Drivmedel:  Bensin 95, Bensin 98, Etanol E85, ACP diesel
+
+Adress:  	 MELLANHEDSG.
+Postnr: 	217 73
+Ort: 	MALMÖ
+Tel: 	070-2271277
+Fax: 	0416-18180
+E-post: 	bmf.service@telia.com
+
+Stationstyp: Automat, Bensinstation
+
+Drivmedel:  Bensin 95
+
+Adress:  	 V HINDBYVÄGEN 2
+Postnr: 	214 58
+Ort: 	MALMÖ
+Tel: 	040-948590
+Fax: 	040-949707
+E-post: 	bengt-inge.bengtsson@preem.se
+
+Stationstyp: Bemannad, Bensinstation
+
+Öppettider
+Vardagar: 	06:00-22:00
+Lördagar: 	08:00-22:00
+Söndagar: 	08:00-22:00
+Service:  Biltvätt, Uthyrning släp, Biltvätt Renofin, Freshfood, Lämplig för 24 m släp
+Drivmedel:  Bensin 95, Bensin 98, Etanol E85, ACP diesel
+
+Adress:  	 KANTYXEGATAN 21
+Postnr: 	213 76
+Ort: 	MALMÖ
+Tel: 	070-2271277
+Fax: 	0416-18180
+E-post: 	bmf.service@telia.com
+
+Stationstyp: Automat, SÅIFA
+
+Service:  Lämplig för 24 m släp
+Drivmedel:  ACP diesel
+
+Adress:  	 CYPRESSVÄG.
+Postnr: 	213 63
+Ort: 	MALMÖ
+Tel: 	070-2271277
+Fax: 	0416-18180
+E-post: 	bmf.service@telia.com
+
+Jönköpings län
+===============
+
+Norra delen av länet:
+
+Stationstyp: Automat, Bensinstation
+
+Drivmedel:  Bensin 95, ACP diesel
+
+Adress:  	 EKSJÖVÄGEN 3
+Postnr: 	570 23
+Ort: 	ANNEBERG
+Tel: 	0380-550560
+Fax: 	0380-550560
+E-post: 	
+
+Stationstyp: Bemannad, Bensinstation
+
+Öppettider
+Vardagar: 	07:00-19:00
+Lördagar: 	07:00-19:00
+Service:  Gör det själv, Uthyrning släp
+Drivmedel:  Bensin 95, Bensin 98, ACP diesel
+

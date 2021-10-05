@@ -1,0 +1,661 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,0 kilometres (8 minutes)
+09:00	0,0	Depart Eugeniatunneln, 113 47 Stockholm on E4 [Uppsalavägen] (North-West)	0,5 km	
+09:00	0,5	At 167, stay on E4 [Uppsalavägen] (North)	1,0 km	E4 / E18 / Sundsvall / Arlanda / Flygplats
+09:01	1,5	At 168, stay on E4 [Uppsalavägen] (North)	0,9 km	E4 / Sundsvall / Arlanda
+09:02	2,4	At 169, stay on E4 [Uppsalavägen] (North)	2,2 km	
+09:04	4,6	At 170, stay on E4 [Uppsalavägen] (North-West)	0,6 km	E4 / Sundsvall / Arlanda / Flygplats
+09:04	5,2	At near Sätra, stay on E4 [Uppsalavägen] (West)	0,5 km	E4 / Sundsvall / Arlanda / Flygplats
+09:04	5,7	At 171, stay on E4 [Uppsalavägen] (North-West)	2,6 km	E4 / Sundsvall / Arlanda / Flygplats
+09:06	8,3	At 172, stay on E4 [Uppsalavägen] (North-West)	2,7 km	E4 / Sundsvall / Arlanda / Flygplats
+09:08	11,0	Arrive 173		
+
+SUMMARY
+Driving distance:  11,0 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  19,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,8 kilometres (20 minutes)
+09:00	0,0	Depart 181 on E4 (North)	2,4 km	
+09:01	2,4	At E4, 195 91 Märsta, stay on E4 (North)	12,2 km	
+09:07	14,6	At near Björksta, stay on E4 (North-West)	5,4 km	
+09:10	20,0	At 184, stay on E4 (North)	6,6 km	
+09:13	26,6	At E4, 755 98 Knivsta, stay on E4 (North)	1,0 km	
+09:14	27,6	At near Norrby, stay on E4 (North-West)	3,7 km	
+09:16	31,4	At 186, keep STRAIGHT to stay on E4	1,2 km	E4 / Sundsvall / Uppsala N
+09:17	32,5	At 187, stay on E4 (North)	6,2 km	E4 / Sundsvall / Uppsala N
+09:20	38,8	Arrive 188		
+
+SUMMARY
+Driving distance:  38,8 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  46,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,6 kilometres (10 minutes)
+09:00	0,0	Depart 173 on E4 [Uppsalavägen] (North)	3,7 km	E4 / Sundsvall / Arlanda / Flygplats
+09:02	3,7	At 174, stay on E4 [Uppsalavägen] (North)	3,0 km	E4 / Sundsvall / Arlanda / Flygplats
+09:03	6,6	At 175, stay on E4 [Uppsalavägen] (North)	2,1 km	E4 / Sundsvall / Arlanda / Flygplats
+09:04	8,8	At 176, stay on E4 [Uppsalavägen] (North)	4,6 km	E4 / Sundsvall / Arlanda / Flygplats
+09:07	13,4	At E4, 194 45 Upplands-Väsby, stay on E4 (North)	5,5 km	
+09:09	18,8	At 180, stay on E4 (North)	1,8 km	E4 / Sundsvall / Arlanda / Flygplats
+09:10	20,6	Arrive 181		
+
+SUMMARY
+Driving distance:  20,6 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  29,98 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,0 kilometres (11 minutes)
+09:00	0,0	Depart 181 on E4 (South)	1,5 km	
+09:00	1,5	At 180, stay on E4 (South)	6,0 km	E4 / E18 / Stockholm
+09:03	7,5	At E4, 194 91 Upplands-Väsby, stay on E4 (South)	4,1 km	
+09:06	11,6	At 176, stay on E4 [Uppsalavägen] (South)	2,1 km	E4 / E18 / Stockholm
+09:07	13,7	At 175, stay on E4 [Uppsalavägen] (South)	3,4 km	
+09:08	17,1	At 174, keep STRAIGHT to stay on E4 [Uppsalavägen]	3,9 km	E4 / Stockholm
+09:11	21,0	Arrive 173		
+
+SUMMARY
+Driving distance:  21,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  30,27 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  38,8 kilometres (20 minutes)
+09:00	0,0	Depart 181 on E4 (North)	2,4 km	
+09:01	2,4	At E4, 195 91 Märsta, stay on E4 (North)	12,2 km	
+09:07	14,6	At near Björksta, stay on E4 (North-West)	5,4 km	
+09:10	20,0	At 184, stay on E4 (North)	6,6 km	
+09:13	26,6	At E4, 755 98 Knivsta, stay on E4 (North)	4,8 km	
+09:16	31,4	At 186, keep STRAIGHT to stay on E4	1,2 km	E4 / Sundsvall / Uppsala N
+09:17	32,5	At 187, stay on E4 (North)	6,2 km	E4 / Sundsvall / Uppsala N
+09:20	38,8	Arrive 188		
+
+SUMMARY
+Driving distance:  38,8 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  46,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,9 kilometres (19 minutes)
+09:00	0,0	Depart 188 on E4 (East)	6,3 km	
+09:03	6,3	At 187, keep STRAIGHT to stay on E4	1,8 km	
+09:04	8,2	At E4, 755 98 Uppsala, stay on E4 (South)	4,4 km	
+09:06	12,5	At near Norrby, stay on E4 (South-East)	3,0 km	
+09:08	15,6	At near Halmby, stay on E4 (South)	6,3 km	
+09:11	21,9	At 184, stay on E4 (South)	6,2 km	
+09:14	28,0	At near Björksta, stay on E4 (South-East)	7,2 km	
+09:18	35,2	At 182, stay on E4 (South)	1,7 km	E4 / Stockholm
+09:19	36,9	Arrive 181		
+
+SUMMARY
+Driving distance:  36,9 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  45,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  98,9 kilometres (52 minutes)
+09:00	0,0	Depart 188 on E4 (North-West)	6,4 km	
+09:03	6,4	At 189, stay on E4 (North)	5,7 km	
+09:06	12,1	At E4, 743 91 Storvreta, stay on E4 (North)	3,0 km	
+09:07	15,0	At 190, stay on E4 (North)	9,3 km	
+09:12	24,3	At near Mjölänge, stay on E4 (West)	9,3 km	
+09:17	33,6	At 191, stay on E4 (North-West)	5,8 km	
+09:20	39,4	At 192, stay on E4 (North)	14,8 km	
+09:28	54,2	At 193, stay on E4 (West)	12,4 km	
+09:35	66,6	At 194, stay on E4 (North)	2,6 km	
+09:36	69,2	At 195, stay on E4 (North)	1,5 km	
+09:37	70,8	At near Mehedeby, stay on E4 (West)	6,0 km	
+09:40	76,8	At 195, stay on E4 (North-West)	0,8 km	
+09:40	77,6	At near Marma, stay on E4 (West)	17,1 km	
+09:49	94,7	At E4, 805 92 Gävle, stay on E4 (North-West)	1,6 km	
+09:50	96,3	At E4, 805 91 Gävle, stay on E4 (North-West)	2,6 km	
+09:52	98,9	Arrive E4, 802 65 Gävle		
+
+SUMMARY
+Driving distance:  98,9 kilometres
+Trip duration:  52 minutes
+Driving time:  52 minutes
+Cost:  114,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  98,5 kilometres (51 minutes)
+09:00	0,0	Depart E4, 806 28 Gävle on E4 (South)	2,9 km	
+09:01	2,9	At E4, 802 70 Gävle, stay on E4 (South)	1,9 km	
+09:02	4,8	At E4, 802 72 Gävle, stay on E4 (East)	17,5 km	
+09:11	22,2	At near Marma, stay on E4 (East)	0,6 km	
+09:11	22,8	At 195, stay on E4 (South-East)	5,8 km	
+09:15	28,6	At near Mehedeby, stay on E4 (East)	1,2 km	
+09:15	29,9	At 195, stay on E4 (South)	2,8 km	
+09:17	32,6	At 194, stay on E4 (South)	12,0 km	
+09:23	44,6	At 193, stay on E4 (South)	14,9 km	
+09:31	59,5	At 192, stay on E4 (South)	5,7 km	
+09:34	65,2	At 191, stay on E4 (South-East)	10,4 km	
+09:39	75,6	At near Mjölänge, stay on E4 (East)	8,6 km	
+09:44	84,1	At 190, stay on E4 (South)	4,9 km	
+09:46	89,1	At E4, 743 91 Storvreta, stay on E4 (South)	3,3 km	
+09:48	92,4	At 189, stay on E4 (South)	6,1 km	
+09:51	98,5	Arrive 188		
+
+SUMMARY
+Driving distance:  98,5 kilometres
+Trip duration:  51 minutes
+Driving time:  51 minutes
+Cost:  113,39 kr
+
+Häggvik (173) - Glädjen (176)
+3.7 km/3.9 km	2 min 13 s/2 min 20 s
+3.0 km/3.4 km	1 min 48 s/2 min 2 s
+2.1 km/2.1 km	1 min 16 s/1 min 16 s
+
+Glädjen (176) - Arlanda (181)
+4.6 km/4.1 km	2 min 31 s/2 min 14 s
+5.5 km/6.0 km	3 min 0 s/3 min 16 s
+1.8 km/1.5 km	0 min 59 s/0 min 49 s
+
+Arlanda (181) - Bärbyleden (188)
+2.4 km/1.7 km	1 min 19 s/0 min 56 s
+12.2 km/7.2 km	6 min 39 s/3 min 56 s
+5.4 km/6.2 km	2 min 57 s/3 min 23 s
+6.6 km/6.3 km	3 min 36 s/3 min 26 s
+1.0 km/3.0 km	0 min 33 s/1 min 38 s
+3.7 km/4.4 km	2 min 1 s/2 min 24 s
+1.2 km/1.8 km	0 min 39 s/0 min 59 s
+6.2 km/6.3 km	3 min 23 s/3 min 26 s
+
+Bärbyleden (188) - Gävle södra
+6.4 km/6.1 km	3 min 29 s/3 min 20 s
+5.7 km/3.3 km	3 min 7 s/1 min 48 s
+3.0 km/4.9 km	1 min 38 s/2 min 40 s
+9.3 km/8.6 km	5 min 4 s/4 min 41 s
+9.3 km/10.4 km	5 min 4 s/5 min 40 s
+5.8 km/5.7 km	3 min 10 s/3 min 7 s
+14.8 km/14.9 km	8 min 4 s/8 min 8 s
+12.4 km/12.0 km	6 min 46 s/6 min 33 s
+2.6 km/2.8 km	1 min 25 s/1 min 32 s
+1.5 km/1.2 km	0 min 49 s/0 min 39 s
+6.0 km/5.8 km	3 min 16 s/3 min 10 s
+0.8 km/0.6 km	0 min 26 s/0 min 20 s
+17.1 km/17.5 km	9 min 20 s/9 min 33 s
+
+Gävle södra - Gävle västra
+1.6 km/1.9 km	0 min 58 s/1 min 8 s
+2.6 km/2.9 km	1 min 34 s/1 min 44 s
+
+Time	Km	Instruction	For	Toward
+Summary:  47,4 kilometres (25 minutes)
+09:00	0,0	Depart E4, 802 65 Gävle on E4 (North-West)	1,6 km	
+09:00	1,6	At E4, 806 27 Gävle, stay on E4 (North)	13,1 km	
+09:07	14,7	At E4, 805 97 Gävle, stay on E4 (North)	12,6 km	
+09:14	27,3	At E4, 817 93 Hamrångefjärden, stay on E4 (North-West)	7,1 km	
+09:18	34,4	At Korsning Axmartavlan, stay on E4 (North)	5,5 km	
+09:21	39,9	At E4, 817 40 Bergby, stay on E4 (North)	4,9 km	
+09:23	44,9	At E4, 817 40 Bergby, stay on E4 (North)	2,5 km	
+09:25	47,4	Arrive E4, 820 29 Stråtjära		
+
+SUMMARY
+Driving distance:  47,4 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  55,23 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,3 kilometres (25 minutes)
+09:00	0,0	Depart E4, 820 29 Stråtjära on E4 (South)	3,4 km	
+09:01	3,4	At E4, 817 40 Bergby, stay on E4 (South-East)	4,4 km	
+09:04	7,8	At E4, 817 40 Bergby, stay on E4 (South)	6,1 km	
+09:07	13,9	At Axmarstigatan, 817 40 Bergby, stay on E4 (South)	6,3 km	
+09:10	20,2	At E4, 817 93 Hamrångefjärden, stay on E4 (South)	14,2 km	
+09:18	34,4	At E4, 805 97 Gävle, stay on E4 (South)	11,9 km	
+09:24	46,3	At E4, 806 27 Gävle, stay on E4 (South)	1,1 km	
+09:25	47,3	Arrive E4, 806 27 Gävle		
+
+SUMMARY
+Driving distance:  47,3 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  56,63 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,7 kilometres (14 minutes)
+09:00	0,0	Depart E4, 820 29 Stråtjära on E4 (North)	3,2 km	
+09:01	3,2	At E4, 820 29 Stråtjära, stay on E4 (North)	3,7 km	
+09:03	6,9	At E4, 820 29 Stråtjära, stay on E4 (North)	0,7 km	
+09:04	7,6	At near Nygården, stay on E4 (North)	1,0 km	
+09:04	8,6	At E4, 820 29 Stråtjära, stay on E4 (North)	3,0 km	
+09:06	11,6	At E4, 820 29 Bergvik, stay on E4 (North)	3,8 km	
+09:08	15,4	At E4, 820 20 Ljusne, stay on E4 (North)	1,7 km	
+09:09	17,1	At E4, 820 20 Ljusne, stay on E4 (North)	2,5 km	
+09:10	19,5	At E4, 826 92 Söderala, stay on E4 (North)	1,1 km	
+09:10	20,6	At E4, 826 92 Söderala, stay on E4 (North)	2,5 km	
+09:12	23,2	At T-korsning, stay on E4 (North)	1,9 km	
+09:13	25,1	At near Sund, stay on E4 (North)	1,6 km	
+09:14	26,7	Arrive E4, 826 40 Söderhamn		
+
+SUMMARY
+Driving distance:  26,7 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  29,75 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,2 kilometres (13 minutes)
+09:00	0,0	Depart E4, 826 40 Söderhamn on E4 (South)	2,0 km	
+09:01	2,0	At Östansjö 566, 826 91 Söderhamn, stay on E4 (South)	1,8 km	
+09:02	3,8	At E4, 826 92 Söderala, stay on E4 (South)	2,4 km	
+09:03	6,2	At E4, 826 92 Söderala, stay on E4 (South)	0,8 km	
+09:03	7,0	At E4, 826 92 Söderala, stay on E4 (South)	2,7 km	
+09:05	9,8	At E4, 820 20 Ljusne, stay on E4 (South)	1,8 km	
+09:06	11,5	At E4, 820 20 Ljusne, stay on E4 (South)	3,8 km	
+09:08	15,3	At E4, 820 29 Bergvik, stay on E4 (South)	3,1 km	
+09:09	18,4	At E4, 820 29 Stråtjära, stay on E4 (South)	1,0 km	
+09:10	19,4	At E4, 820 29 Stråtjära, stay on E4 (South)	0,6 km	
+09:10	20,0	At E4, 820 29 Stråtjära, stay on E4 (South)	3,7 km	
+09:12	23,8	At E4, 820 29 Stråtjära, stay on E4 (South)	2,4 km	
+09:13	26,2	Arrive E4, 820 29 Stråtjära		
+
+SUMMARY
+Driving distance:  26,2 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  29,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,4 kilometres (14 minutes)
+09:00	0,0	Depart E4, 826 40 Söderhamn on E4 (North)	0,9 km	
+09:00	0,9	At E4, 826 40 Söderhamn, stay on E4 (North)	4,0 km	
+09:02	4,9	At E4, 826 94 Norrala, stay on E4 (North)	3,4 km	Sundsvall
+09:04	8,3	At E4, 826 94 Norrala, stay on E4 (North)	5,6 km	
+09:07	13,9	At near Berge, stay on E4 (North-West)	1,4 km	
+09:08	15,3	At E4, 826 94 Norrala, stay on E4 (North)	3,0 km	Sundsvall
+09:09	18,4	At near Heda, stay on E4 (North)	7,5 km	
+09:13	25,9	At E4, 825 96 Enånger, stay on E4 (North)	1,6 km	Sundsvall
+09:14	27,4	Arrive T-korsning Tosätter		
+
+SUMMARY
+Driving distance:  27,4 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  31,89 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,1 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Tosätter on E4 (South)	1,5 km	
+09:00	1,5	At E4, 825 96 Enånger, stay on E4 (South)	7,6 km	Stockholm
+09:04	9,0	At near Bölan, stay on E4 (South)	2,6 km	
+09:06	11,7	At E4, 826 94 Norrala, stay on E4 (South)	1,6 km	Stockholm
+09:07	13,3	At E4, 826 94 Norrala, stay on E4 (South)	5,8 km	
+09:10	19,1	At near Kolsta, stay on E4 (South-East)	2,9 km	
+09:11	22,0	At E4, 826 94 Norrala, stay on E4 (South)	4,3 km	Stockholm
+09:13	26,3	At E4, 826 40 Söderhamn, stay on E4 (South)	0,8 km	
+09:14	27,1	Arrive E4, 826 40 Söderhamn		
+
+SUMMARY
+Driving distance:  27,1 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  31,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,4 kilometres (18 minutes)
+09:00	0,0	Depart T-korsning Tosätter on E4 (North)	1,4 km	
+09:01	1,4	At Korsning Enånger S, stay on E4 (North-East)	0,9 km	
+09:02	2,4	At Korsning Enånger Uno-X, stay on E4 [Oppänge] (North-East)	1,3 km	
+09:03	3,6	At T-korsning Sätra, stay on E4 (North-East)	6,2 km	
+09:07	9,8	At T-korsning Njutånger S, stay on E4 [Riksvägen] (North)	1,4 km	
+09:09	11,2	At T-korsning Njutånger N, stay on E4 [Riksvägen] (North)	0,4 km	
+09:09	11,6	At T-korsning Njutångersgården, stay on E4 [Riksvägen] (North)	0,5 km	
+09:10	12,1	At near Njutånger, stay on E4 [Långviksberget] (North-East)	1,7 km	
+09:11	13,8	At T-korsning Iggesund S, stay on E4 (North)	0,4 km	
+09:12	14,2	At T-korsning Iggesund C, stay on E4 (North)	0,7 km	
+09:13	14,9	At T-korsning Iggesund OK, stay on E4 [Stora Vägen] (North)	0,7 km	
+09:13	15,7	At Korsning Iggesund Trekanten, stay on E4 (North)	3,1 km	
+09:16	18,8	At E4, 824 40 Hudiksvall, stay on E4 (North)	2,7 km	
+09:18	21,5	At near Sörrå, stay on E4 (North)	0,9 km	
+09:18	22,4	Arrive E4, 824 40 Hudiksvall		
+
+SUMMARY
+Driving distance:  22,4 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  30,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (19 minutes)
+09:00	0,0	Depart E4, 824 40 Hudiksvall on E4 (South)	1,6 km	
+09:01	1,6	At E4, 824 91 Hudiksvall, stay on E4 (South)	1,1 km	
+09:02	2,7	At Trollbo 125, 824 91 Hudiksvall, stay on E4 (South)	4,7 km	
+09:05	7,4	At Korsning Iggesund Trekanten, stay on E4 [Stora Vägen] (South)	0,7 km	
+09:06	8,1	At T-korsning Iggesund OK, stay on E4 (South)	0,7 km	
+09:07	8,8	At T-korsning Iggesund C, stay on E4 (South)	0,4 km	
+09:07	9,3	At T-korsning Iggesund S, stay on E4 (South)	1,7 km	
+09:09	11,0	At near Njutånger, stay on E4 [Långviksberget] (South-West)	0,5 km	
+09:09	11,5	At T-korsning Njutångersgården, stay on E4 [Riksvägen] (South)	0,4 km	
+09:10	11,9	At T-korsning Njutånger N, stay on E4 [Riksvägen] (South)	1,4 km	
+09:11	13,3	At T-korsning Njutånger S, stay on E4 [Riksvägen] (South)	6,2 km	
+09:16	19,4	At T-korsning Sätra, stay on E4 (South-West)	1,3 km	
+09:17	20,7	At Korsning Enånger Uno-X, stay on E4 (South-West)	0,9 km	
+09:18	21,6	At Korsning Enånger S, stay on E4 (South)	1,4 km	
+09:19	23,1	Arrive T-korsning Tosätter		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  31,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,7 kilometres (23 minutes)
+09:00	0,0	Depart E4, 824 40 Hudiksvall on E4 (North)	3,5 km	
+09:02	3,5	At E4, 824 92 Hudiksvall, stay on E4 (North)	2,7 km	
+09:04	6,2	At near Mo, stay on E4 (North)	2,1 km	
+09:05	8,3	At T-korsning Masbo vägskäl, stay on E4 (East)	4,3 km	
+09:08	12,7	At E4, 824 94 Hudiksvall, stay on E4 (North-East)	0,7 km	
+09:09	13,4	At T-korsning, stay on E4 (North-East)	6,3 km	
+09:13	19,7	At near Bro, stay on E4 (North)	5,5 km	
+09:16	25,2	At Korsning Vattrång, stay on E4 (North-East)	0,8 km	
+09:17	26,0	At E4, 820 75 Harmånger, stay on E4 (East)	1,3 km	
+09:18	27,3	At T-korsning Harmånger S, stay on E4 (North)	0,6 km	
+09:19	27,9	At Korsning Harmånger V, stay on E4 (North)	4,3 km	
+09:22	32,2	At T-korsning Älvsta, stay on E4 (North)	0,6 km	
+09:22	32,8	At Korsning Dvästa, stay on E4 (North)	0,9 km	
+09:23	33,7	Arrive Korsning Jättendal		
+
+SUMMARY
+Driving distance:  33,7 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  42,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  33,1 kilometres (23 minutes)
+09:00	0,0	Depart Korsning Jättendal on E4 (South)	0,9 km	
+09:00	0,9	At Korsning Dvästa, stay on E4 (South)	0,6 km	
+09:01	1,5	At T-korsning Älvsta, stay on E4 (South)	4,3 km	
+09:04	5,8	At Korsning Harmånger V, stay on E4 (South)	0,6 km	
+09:04	6,4	At T-korsning Harmånger S, stay on E4 (South)	0,9 km	
+09:05	7,3	At E4, 820 75 Harmånger, stay on E4 (South-West)	1,2 km	
+09:06	8,6	At Korsning Vattrång, stay on E4 (South-West)	5,5 km	
+09:10	14,1	At near Bro, stay on E4 (South)	6,2 km	
+09:14	20,2	At E4, 824 94 Hudiksvall, stay on E4 (South-West)	0,8 km	
+09:14	21,0	At Korsning Välsta, stay on E4 (South-West)	4,4 km	
+09:18	25,4	At T-korsning Masbo vägskäl, stay on E4 (West)	2,0 km	
+09:19	27,4	At E4, 824 92 Hudiksvall, stay on E4 (South)	2,7 km	E4 / Stockholm / Hudiksvall
+09:21	30,1	At T-korsning Hudiksvall V, stay on E4 (South)	3,0 km	
+09:23	33,1	Arrive E4, 824 40 Hudiksvall		
+
+SUMMARY
+Driving distance:  33,1 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  41,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,1 kilometres (14 minutes)
+09:00	0,0	Depart Korsning Jättendal on E4 (North)	3,8 km	
+09:02	3,8	At near Bäling, stay on E4 (East)	4,1 km	
+09:06	7,9	At Korsning Gnarp Böle, stay on E4 (North)	1,4 km	
+09:07	9,3	At Korsning Gnarp OK, stay on E4 [Åckne] (North)	0,4 km	
+09:07	9,7	At E4, 820 77 Gnarp, stay on E4 (North)	4,4 km	
+09:10	14,1	At Korsning Tjärnvik vägskäl, stay on E4 (North)	2,8 km	
+09:12	16,9	At T-korsning Årskogen S, stay on E4 (North)	3,1 km	
+09:14	20,0	At T-korsning Årskogen N, stay on E4 (North)	1,1 km	
+09:14	21,1	Arrive E4, 820 77 Gnarp		
+
+SUMMARY
+Driving distance:  21,1 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  25,32 kr
+Time	Km	Instruction	For	Toward
+Summary:  21,1 kilometres (14 minutes)
+09:00	0,0	Depart E4, 820 77 Gnarp on E4 (South)	1,1 km	
+09:00	1,1	At T-korsning Årskogen N, stay on E4 (South)	3,1 km	
+09:02	4,2	At T-korsning Årskogen S, stay on E4 (South)	2,8 km	
+09:04	7,0	At Korsning Tjärnvik vägskäl, stay on E4 (South)	4,4 km	
+09:07	11,4	At near Gryttje, stay on E4 (South)	0,4 km	
+09:07	11,8	At Korsning Gnarp OK, stay on E4 (South)	1,4 km	
+09:08	13,2	At Korsning Gnarp Böle, stay on E4 (South)	4,1 km	
+09:11	17,3	At near Bäling, stay on E4 (West)	3,8 km	
+09:14	21,1	Arrive Korsning Jättendal		
+
+SUMMARY
+Driving distance:  21,1 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  25,32 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,6 kilometres (21 minutes)
+09:00	0,0	Depart near Årskogen on E4 (North)	6,6 km	
+09:04	6,6	At T-korsning, stay on E4 (North)	2,3 km	
+09:05	8,8	At Korsning Räbbegård E4, stay on E4 (North)	0,9 km	
+09:06	9,8	At E4, 862 95 Njurunda, stay on E4 (North)	0,9 km	
+09:06	10,7	At Korsning Myra, stay on E4 (North)	2,5 km	
+09:08	13,2	At T-korsning Njurundabommen, stay on E4 [Njurundavägen] (North)	0,8 km	
+09:09	14,1	At Njurundavägen 93, 862 41 Njurunda, stay on E4 [Njurundavägen] (North)	1,4 km	
+09:10	15,4	At T-korsning E4/Tunavägen, stay on E4 (North)	0,6 km	
+09:11	16,1	At T-korsning Kvissleby OK, stay on E4 (North)	1,0 km	
+09:12	17,0	At Korsning Kvissleby Centrum, stay on E4 [Svartviksvägen] (North)	1,5 km	
+09:13	18,6	At T-korsning Svartvik, stay on E4 [Svartviksvägen] (North)	2,5 km	
+09:16	21,1	At near Stockvik, stay on E4 [Kustvägen] (North)	1,5 km	
+09:17	22,5	At T-korsning Statoil Bredsand, stay on E4 [Kustvägen] (North)	3,0 km	
+09:20	25,5	At T-korsning E4/Fridhemsg., stay on E4 [Kustvägen] (North)	1,0 km	
+09:21	26,6	Arrive Korsning E4/E14		
+
+SUMMARY
+Driving distance:  26,6 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  38,50 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,5 kilometres (21 minutes)
+09:00	0,0	Depart Korsning E4/E14 on E4 [Kustvägen] (East)	1,0 km	
+09:01	1,0	At T-korsning E4/Fridhemsg., stay on E4 [Kustvägen] (South)	3,0 km	
+09:03	4,0	At T-korsning Statoil Bredsand, stay on E4 [Kustvägen] (South)	1,5 km	
+09:05	5,5	At Kustvägen, 854 67 Stockvik, stay on E4 [Kustvägen] (South)	2,3 km	
+09:07	7,8	At T-korsning Svartvik, stay on E4 [Svartviksvägen] (South)	1,7 km	
+09:09	9,5	At Korsning Kvissleby Centrum, stay on E4 [Svartviksvägen] (South)	1,0 km	
+09:10	10,5	At T-korsning Kvissleby OK, stay on E4 (South)	0,6 km	
+09:10	11,1	At T-korsning E4/Tunavägen, stay on E4 (South)	1,3 km	
+09:12	12,4	At near Dingersjö, stay on E4 [Njurundavägen] (South)	0,8 km	
+09:12	13,2	At T-korsning Njurundabommen, stay on E4 [Njurundavägen] (South)	2,6 km	
+09:14	15,9	At Korsning Myra, stay on E4 (South)	0,8 km	
+09:15	16,7	At E4, 862 95 Njurunda, stay on E4 (South)	1,0 km	
+09:15	17,7	At Korsning Räbbegård E4, stay on E4 (South)	2,0 km	
+09:17	19,7	At E4, 862 95 Njurunda, stay on E4 (South)	6,8 km	
+09:21	26,5	Arrive E4, 820 77 Gnarp		
+
+SUMMARY
+Driving distance:  26,5 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  38,47 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,2 kilometres (13 minutes)
+09:00	0,0	Depart Korsning E4/E14 on E4 [Landsvägsallén] (West)	1,8 km	
+09:01	1,8	At Korsning Sundsvall Central, stay on E4 [Landsvägsallén] (West)	0,2 km	
+09:02	2,0	Turn RIGHT (North) onto E4 [Casinoparken]	0,3 km	
+09:02	2,2	At Korsning E4/Storgatan, stay on E4 (North)	0,4 km	
+09:03	2,6	At Heffnersvägen, 856 33 Sundsvall, stay on E4 (North)	1,3 km	
+09:04	3,9	At E4, 856 33 Sundsvall, stay on E4 (North)	1,4 km	
+09:05	5,3	At E4, 856 50 Sundsvall, stay on E4 (North)	3,9 km	
+09:07	9,2	At E4, 863 33 Sundsbruk, stay on E4 (North)	0,4 km	
+09:07	9,7	At E4, 863 33 Sundsbruk, stay on E4 (North)	1,2 km	
+09:07	10,8	At E4, 863 33 Sundsbruk, stay on E4 (North)	2,6 km	
+09:09	13,4	At near Vivsta, stay on E4 (North-West)	0,6 km	
+09:09	14,0	At E4, 861 34 Timrå, stay on E4 (North)	2,1 km	
+09:10	16,1	At E4, 861 31 Timrå, stay on E4 (North-East)	4,1 km	
+09:13	20,2	Arrive E4, 860 30 Sörberge		
+
+SUMMARY
+Driving distance:  20,2 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  32,99 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,3 kilometres (13 minutes)
+09:00	0,0	Depart E4, 860 30 Sörberge on E4 (West)	3,1 km	
+09:01	3,1	At E4, 861 33 Timrå, stay on E4 (South-West)	2,5 km	
+09:03	5,7	At E4, 861 31 Timrå, stay on E4 (South-West)	1,2 km	
+09:03	6,8	At E4, 863 33 Sundsbruk, stay on E4 (South-East)	1,8 km	
+09:04	8,6	At E4, 863 33 Sundsbruk, stay on E4 (South)	1,6 km	
+09:05	10,3	At E4, 863 33 Sundsbruk, stay on E4 (South)	0,9 km	
+09:06	11,2	At E4, 863 33 Sundsbruk, stay on E4 (South)	3,0 km	
+09:07	14,2	At E4, 856 50 Sundsvall, stay on E4 (South)	1,8 km	
+09:08	15,9	At E4, 856 30 Sundsvall, stay on E4 (South)	1,7 km	
+09:10	17,6	At Korsning E4/Norrmalmsg., stay on E4 [Skepparplatsen] (South)	0,3 km	
+09:10	17,9	At T-korsning E4/Sjögatan, stay on E4 (East)	0,4 km	
+09:11	18,3	At Korsning E4/Köpmangatan, stay on E4 [Landsvägsallén] (East)	2,0 km	
+09:13	20,3	Arrive Korsning E4/E14		
+
+SUMMARY
+Driving distance:  20,3 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  33,07 kr
+
+Gävle västra - Tönnebro
+1.6 km/1.1 km	0 min 58 s/0 min 40 s	100
+13.1 km/11.9 km	7 min 52 s/7 min 8 s
+12.6 km/14.2 km	7 min 34 s/8 min 31 s
+7.1 km/6.3 km	4 min 16 s/3 min 47 s
+5.5 km/6.1 km	3 min 18 s/3 min 40 s
+4.9 km/4.4 km	2 min 56 s/2 min 38 s
+2.5 km/3.4 km	1 min 30 s/2 min 2 s
+
+Tönnebro - Söderhamn södra
+3.2 km/2.4 km	2 min 8 s/1 min 36 s	90
+3.7 km/3.7 km	2 min 28 s/2 min 28 s
+0.7 km/0.6 km	0 min 28 s/0 min 24 s
+1.0 km/1.0 km	0 min 40 s/0 min 40 s
+3.0 km/3.1 km	2 min 0 s/2 min 4 s
+3.8 km/3.8 km	2 min 32 s/2 min 32 s
+1.7 km/1.8 km	1 min 8 s/1 min 12 s
+2.5 km/2.7 km	1 min 40 s/1 min 48 s
+1.1 km/0.8 km	0 min 44 s/0 min 32 s
+2.5 km/2.4 km	1 min 40 s/1 min 36 s
+1.9 km/1.8 km	1 min 16 s/1 min 12 s
+1.6 km/2.0 km	1 min 4 s/1 min 20 s
+
+Söderhamn södra - Tosätter
+0.9 km/0.8 km	0 min 32 s/0 min 29 s	100
+4.0 km/4.3 km	2 min 24 s/2 min 35 s
+3.4 km/2.9 km	2 min 2 s/1 min 44 s
+5.6 km/5.8 km	3 min 22 s/3 min 29 s
+1.4 km/1.6 km	0 min 50 s/0 min 58 s
+3.0 km/2.6 km	1 min 48 s/1 min 34 s
+7.5 km/7.6 km	4 min 30 s/4 min 34 s
+1.6 km/1.5 km	0 min 58 s/0 min 54 s
+
+Tosätter - Enånger S
+1.4 km/1.4 km	1 min 12 s/1 min 12 s	70
+
+Enånger S - Sätra
+0.9 km/0.9 km	0 min 54 s/0 min 54 s	60
+1.3 km/1.3 km	1 min 18 s/1 min 18 s
+
+Sätra - Njutånger S
+6.2 km/6.2 km	4 min 39 s/4 min 39 s	80
+
+Njutånger S - Njutångersgården
+1.4 km/1.4 km	1 min 41 s/1 min 41 s	50
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+Njutångersgården - Iggesund S
+0.5 km/0.5 km	0 min 26 s/0 min 26 s	70
+1.7 km/1.7 km	1 min 27 s/1 min 27 s
+
+Iggesund S - Iggesund Trekanten
+0.4 km/0.4 km	0 min 29 s/0 min 29 s	50
+0.7 km/0.7 km	0 min 50 s/0 min 50 s
+0.7 km/0.7 km	0 min 50 s/0 min 50 s
+
+Iggesund Trekanten - Hudiksvall Södra
+3.1 km/4.7 km	2 min 20 s/3 min 32 s	80
+2.7 km/1.1 km	2 min 2 s/0 min 50 s
+0.9 km/1.6 km	0 min 41 s/1 min 12 s
+
+Hudiksvall Södra - Vattrång
+3.5 km/3.0 km	2 min 20 s/2 min 0 s	90
+2.7 km/2.7 km	1 min 48 s/1 min 48 s
+2.1 km/2.0 km	1 min 24 s/1 min 20 s
+4.3 km/4.4 km	2 min 52 s/2 min 56 s
+0.7 km/0.8 km	0 min 28 s/0 min 32 s
+6.3 km/6.2 km	4 min 12 s/4 min 8 s
+5.5 km/5.5 km	3 min 40 s/3 min 40 s
+
+Vattrång - Harmånger S
+0.8 km/1.2 km	0 min 41 s/1 min 2 	70
+1.3 km/0.9 km	1 min 7 s/0 min 46 s
+
+Harmånger S - Harmånger V
+0.6 km/0.6 km	0 min 43 s/0 min 43 s	50
+
+Harmånger V - Jättendal
+4.3 km/4.3 km	3 min 41 s/3 min 41 s	70
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+
+Jättendal - Länsgränsen
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+4.1 km/4.1 km	3 min 5 s/3 min 5 s
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+0.4 km/0.4 km	18 s/18 s
+4.4 km/4.4 km	3 min 18 s/3 min 18 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+3.1 km/3.1 km	2 min 20 s/2 min 20 s
+1.1 km/1.1 km	50 s/50 s
+
+Länsgränsen - Njurundabommen
+6.6 km/6.8 km	4 min 24 s/4 min 32 s
+2.3 km/2.0 km	1 min 32 s/1 min 20 s
+0.9 km/1.0 km	36 s/40 s
+0.9 km/0.8 km	36 s/32 s
+2.5 km/2.6 km	1 min 40 s/1 min 44 s
+
+Njurundabommen - Kvissleby
+0.8 km/0.8 km	48 s/48 s
+1.4 km/1.3 km	1 min 24 s/1 min 18 s
+
+Kvissleby - Bredsand
+0.6 km/0.6 km	43 s/43 s
+1.0 km/1.0 km	1 min 12 s/1 min 12 s
+1.5 km/1.7 km	1 min 48 s/2 min 2 s
+2.5 km/2.3 km	3 min 0 s/2 min 46 s
+1.5 km/1.5 km	1 min 48 s/1 min 48 s
+
+Bredsand - E4/E14
+3.0 km/3.0 km	3 min 0 s/3 min 0 s
+1.0 km/1.0 km	1 min 0 s/1 min 0 s
+
+E4/E18 - Sundsvall C
+1.8 km/2.0 km	1 min 48 s/2 min 0 s
+
+Sundsvall C - Norrmalm
+0.4 km/0.4 km	29 s/29 s
+0.4 km/0.3 km	29 s/22 s
+
+Norrmalm - Vivsta
+1.3 km/1.7 km	0 min 47 s/1 min 1 s
+1.4 km/1.8 km	0 min 50 s/1 min 5 s
+3.9 km/3.0 km	2 min 20 s/1 min 48 s
+0.4 km/0.9 km	14 s/32 s
+1.2 km/1.6 km	43 s/58 s
+2.6 km/1.8 km	1 min 34 s/1 min 5 s
+0.6 km/1.2 km	22 s/43 s
+2.1 km/2.5 km	1 min 16 s/1 min 30 s
+
+Vivsta - Sörberge
+4.1 km/3.1 km	2 min 44 s/2 min 4 s

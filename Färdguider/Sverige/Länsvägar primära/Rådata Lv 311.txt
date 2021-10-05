@@ -1,0 +1,50 @@
+Time	Km	Instruction	For	Toward
+Summary:  69,5 kilometres (58 minutes)
+09:00	0,0	Depart 71, 780 67 Sälen on Sälenvägen (North)	30 m	
+09:00	0,1	Bear RIGHT (North) onto 311 [Sälenvägen]	0,9 km	
+09:01	0,9	At Korsning Sälen by, stay on 311 [Sälenvägen] (North)	0,5 km	
+09:02	1,5	At T-korsning Sälen norra, stay on 311 [Sälenvägen] (North)	15,9 km	
+09:15	17,4	At T-korsning, stay on 311 (North-West)	5,5 km	
+09:21	22,9	At T-korsning Fulunäs, stay on 311 (North)	12,6 km	
+09:31	35,5	At T-korsning Sörsjön, stay on 311 (North)	12,1 km	
+09:41	47,6	At near Husvallsgölen, stay on 311 (North)	20,1 km	
+09:56	67,8	At T-korsning Byggevallen, stay on 311 [Transtrandsvägen] (North)	1,7 km	
+09:58	69,5	Arrive T-korsning Särna Centrum		
+
+SUMMARY
+Driving distance:  69,5 kilometres
+Trip duration:  58 minutes
+Driving time:  58 minutes
+Cost:  80,43 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  69,5 kilometres (58 minutes)
+09:00	0,0	Depart Särnavägen 14, 790 90 Särna on 70 [Särnavägen] (East)	60 m	
+09:00	0,1	Turn RIGHT (South-West) onto 311 [Transtrandsvägen]	1,7 km	
+09:02	1,8	At T-korsning Byggevallen, stay on 311 [Transtrandsvägen] (South)	20,1 km	
+09:17	21,9	At near Husvallsgölen, stay on 311 (South)	12,0 km	
+09:26	34,0	At T-korsning Sörsjön, stay on 311 (South)	12,6 km	
+09:37	46,5	At T-korsning Fulunäs, stay on 311 (South)	5,5 km	
+09:42	52,1	At T-korsning, stay on 311 [Fiskarheden] (South-East)	15,9 km	
+09:56	68,0	At Shell [311 780 67, Sälen, Sverige, Tel: +46 280-20235], stay on 311 [Sälenvägen] (South-East)	0,6 km	
+09:57	68,5	At Korsning Sälen by, stay on 311 [Sälenvägen] (South)	0,9 km	
+09:58	69,5	Arrive Sälenvägen, 780 67 Sälen		
+
+SUMMARY
+Driving distance:  69,5 kilometres
+Trip duration:  58 minutes
+Driving time:  58 minutes
+Cost:  80,45 kr
+
+0.9 km/0.9 km	1 min 5 s/1 min 5 s
+0.5 km/0.6 km	36 s/43 s
+
+15.9 km/15.9 km	11 min 56 s/11 min 56 s
+
+5.5 km/5.5 km	4 min 43 s/4 min 43 s
+12.6 km/12.6 km	10 min 48 s/10 min 48 s
+
+12.1 km/12.0 km	9 min 5 s/9 min 0 s
+20.1 km/20.1 km	15 min 5 s/15 min 5 s
+
+1.7 km/1.9 km	1 min 42 s/1 min 54 s

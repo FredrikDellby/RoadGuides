@@ -1,0 +1,344 @@
+Skåne och Blekinge
+===================
+
+ESLÖV
+• Trehäradsv/Kvarng				-
+
+HELSINGBORG
+• Filbornav/Skarag				-
+Råå:
+• Kielergatan 44				-
+
+HÄSSLEHOLM
+• Riksväg 21					-
+(Helsingborgsv 13)
+
+KARLSHAMN
+• Sölvesborgsv 35				-
+
+KARLSKRONA
+• Skeppsbrokajen				-
+• Verköv./Lallerstedtsg.			-
+
+KRISTIANSTAD
+• Långebrog 70					-
+Näsby,
+• Snapphanev/					-
+Näsbychaussén
+
+LUND
+• Malmöv/Södra vägen				-
+
+MALMÖ
+• Lundav 66					-
+• Sallerupsv/Scheeleg				-
+Jägersro:
+• Agnesfridsv/					-
+Jägersrov
+• Pildammsvägen					-
+Rosengård:
+• von Lingens väg 49				-
+
+STAFFANSTORP
+• Riksväg 11/Önsvala				-
+allé
+
+TOMELILLA
+• Ramsåsakrysset Riksväg 11/			-
+Riksväg 19
+
+YSTAD
+• Vattentornsvägen 1				-
+
+ÄNGELHOLM
+• Klippanv/Heimdallg				-
+
+
+Smålandslänen
+==============
+
+JÖNKÖPING
+• Herkulesvägen					-*
+• Ekhagen, E4/Ekhagsmotet			-
+• Kortebovägen					-*
+
+KALMAR
+• Tyska V./Wismars V.				-
+• Södra vägen 76				-*
+
+LJUNGBY
+• Märta Ljungbergsv/Harabergsg			-
+
+NÄSSJÖ
+• Rådhusg 47					-
+
+OSKARSHAMN
+• Åsavägen 1					-
+
+VETLANDA
+• Nygatan 1					-
+
+VÄSTERVIK
+• Rullstensvägen/Folkparksvägen			-
+
+VÄXJÖ
+• Storg/Söderleden				-
+• Mörners v/Smedjeg.				-
+
+
+Västra Götalands och Halland
+=============================
+
+ALINGSÅS
+• E20/Malmg					-
+
+BORÅS
+• Skaraborgsv 32				-
+• Gånghestersv 134				-*
+• Barnhemsg/					-
+  Fristadsv (Sjöbo)
+
+FALKENBERG
+• Söderleden/Plankagårdsv			-*
+
+GÖTEBORG
+• Gamlestadsv					-
+• Minelundsv/Aröds Ind.område			-
+• Mölndalsv/Grafiskav				-*
+Angered:
+• Gårdstensvägen				-
+Arendal:
+• Arendalsvägen/Torslandavägen			-
+Askim:
+• G:a Säröv/Stora Åv				-
+Mölndal/Kållered:
+• G:a Riksvägen 8				-
+Ramberget:
+• Stålhandskeg/Inlandsg				-*
+Tingstadsmotet:
+• E6/GP-huset					-
+Utby:
+• Utbyleden/Vagnmakareg				-
+Västra Frölunda:
+• Topasgatan 3					-
+
+HALMSTAD
+• Andersberg, Grönevångsv 4			-
+• Sofiebergsvägen				-
+
+KUNGSBACKA
+• Varlav/Kabelg					-
+
+KUNGÄLV
+• Trollhättev					-
+
+LAHOLM
+• Hässleholmsv/Ängelholmsv			-
+
+LIDKÖPING
+• Wennebergsv 29				-
+
+MARIESTAD
+• Stockholmsv/Mariag				-
+
+SKARA
+• Skaraborgsg 35				-
+
+SKENE/KINNA
+• R 41/Varbergsv/Klevagårdsg			-*
+
+SKÖVDE
+• Lillegårdsringen/Gustav Adolfsg		-
+• Hjov/Norregårdsv				-*
+
+STENUNGSUND
+• Uddevallav/Hjälmarev				-
+
+TROLLHÄTTAN
+• Flygfältsv/Grafitv 32				-
+
+UDDEVALLA
+• Slängom/MonaLisa				-
+
+VARBERG
+• Gamla E6/Värnamov 2				-*
+
+VÄNERSBORG
+• Gropbrovägen					-
+
+
+Östergötlands och Södermanland
+===============================
+
+ESKILSTUNA
+• Torshällav/Nystrandsg				-
+
+LINKÖPING
+• Industrig 52					-
+• Vigfastgatan/Kallersta ind omr		-
+• Järdalavägen 3				-*
+
+MJÖLBY
+• E4/Sandkullagränd 1				-
+
+NORRKÖPING
+• Lindöv/Surg					-
+• Vagngatan 16					-
+
+NYKÖPING
+• Lenningsväg					-
+
+
+Stockholms län
+===============
+
+NORRTÄLJE
+• Esplanaden/
+Trädgårdsg
+
+NYNÄSHAMN
+• Nynäsvägen
+
+STOCKHOLM
+Fagersjö/Farsta:
+• Havsörnsvägen 2
+Fittja:
+• Fittja Trafikplats
+(Hallundavägen 2
+Gustavsberg:
+• Värmdö Marknad
+Handen:
+• Markörg 12
+Jakobsberg:
+• Järfällav/Elverksv
+Jordbro:
+• Nynäsv/Rörv
+• Kungenskurva Södra
+Kungsängen:
+• Enköpingsv/
+Granhammarsv
+Nacka:
+• Skvaltansväg
+Ropsten:
+• Norra Hamnvägen
+Sollentuna:
+• Rotebroleden/Mälarvägen
+Solna:
+• Armegatan/
+Pampaslänken
+Solvalla:
+• Ulvsundaleden/
+Sundbybergskopplet
+Upplands Väsby:
+• Sandavägen
+Vinsta/Vällingby:
+• Bergslagsv/
+Skattegårdsv
+Älvsjö:
+• Magelugnsv/
+Huddingev
+
+SÖDERTÄLJE
+• Stockholmsv/
+Bergholmsv
+• Ängsgatan
+• Järnagatan/Sydv
+
+
+Värmland och Örebro
+====================
+
+KARLSKOGA
+• Värmlandsv 27
+
+KARLSTAD
+• Hagalundsv/Ramg
+(Våxnäs)
+• Lantvärnsg/Pumpg
+
+KRISTINEHAMN
+• Magasinplan/Stationsg
+
+KUMLA
+• Norra Mos 1
+
+ÖREBRO
+• Riksv 60/Bettorpsg
+• Adolfsbergsvägen 4
+• Norrköpingsvägen/
+Tingslagsgatan
+
+
+Västmanland och Uppsala
+========================
+
+ARBOGA
+• E20/E18(Flygv)
+
+ENKÖPING
+• Dr Westerlundsg/
+  Långg
+• E18/vid utfart
+  Riksväg 70 (mot Sala)
+
+HALLSTAHAMMAR
+• Västeråsvägen 2
+
+KÖPING
+• E18/Rosenlundsg
+
+SALA
+• Väsbyg/Långg
+
+UPPSALA
+• Kungsg 72
+• Svartbäcksg 75
+• Fyrislundsg/
+Sylveniusg
+
+VÄSTERÅS
+• Gjutjärnsg/Beckby
+• Strömledningsg. 6
+
+
+Dalarna och Gävleborg
+======================
+
+BORLÄNGE
+• Tunav/Lustbergsvägen
+(Hammargatan)
+• Riksv 50/Nygårdsv
+FALUN
+• Norra Järnvägsgatan
+GÄVLE
+• S:a Kungsv (Hemlingby)
+• Strömsbrov (Näringen)
+
+HUDIKSVALL
+• Södra Vägen/
+Västra Vägen
+
+
+Jämtland och Västernorrland
+============================
+
+SUNDSVALL
+• Ortviksvägen
+Nacksta:
+• Bultgatan
+Birsta:
+• Gesällvägen 7
+
+ÖSTERSUND
+• Lillänge: Hagvägen
+
+
+Västerbotten och Norrbotten
+============================
+
+PITEÅ
+• Industrigatan/
+Sundsgatan
+
+UMEÅ
+• Carlshem

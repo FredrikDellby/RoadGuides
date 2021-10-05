@@ -1,0 +1,49 @@
+Motorväg
+ börjar (sydgående riktning)
+ slutar (nordgående riktning)
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Korsning Linderöd
+ Brösarp, Huaröd
+ Äsphult
+					2.4 km/2.4 km	2 min 3 s/2 min 3 s
+T-korsning Spångarp
+ Liarum
+					1.0 km/1.0 km	51 s/51 s
+T-korsning Sätaröd västra
+ Sätaröd
+					1.8 km/2.1 km	1 min 33 s/1 min 48 s
+Dubbel T-korsning Sätaröd östra
+ Sätaröd
+ Svensköp
+
+Infoplats (nordgående)
+					3.9 km/3.7 km	3 min 21 s/3 min 10 s
+Korsning Tollarp västra
+ Svenssköp
+					0.9 km/0.9 km	54 s/54 s
+Korsning Tollarp södra
+ Degeberga, V. Vram K:a
+
+Vramsån
+					1.1 km/1.4 km	1 min 6 s/1 min 24 s
+Tankställe Tollarp
+ Bensinstation: Statoil
+Korsning Tollarp östra
+ Ö. Vram
+					2.6 km/2.3 km	1 min 44 s/1 min 32 s
+Korsning Ö Vram
+ Ö. Vrams K:a
+					3.0 km/3.0 km	2 min 0 s/2 min 0 s
+T-korsning E22/Rv 19
+ 19 s: Ystad, Tomelilla
+ 9 s: Simrishamn
+
+Etapp 6: Nöbbelöv - Kristianstad (8,0 km/8,8 km)
+					0.7 km/0.7 km	28 s/28 s
+Korsning Tings Nöbbelöv
+					0.6 km/0.7 km	24 s/28 s
+Korsning E22/Adamsbergsv.
+ Enskild väg
+					0.5 km/0.4 km	20 s/16 s
+Korsning
+					4.0 km/4.7 km	2 min 40 s/3 min 8 s

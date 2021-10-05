@@ -1,0 +1,493 @@
+Hattenbacher Kreuz (1)
+ A7 n: Hannover, Kassel
+ A7 s: Nürnberg, Würzburg
+					3.5 km/1.4 km	1 min 55 s/0 min 46 s
+Parkplatz Wilder Stein
+(nordgående riktning)
+					1.8 km/1.9 km	0 min 59 s/1 min 2 s
+Raststätte Rimberg
+ Bensin, Restaurang, Hotel
+					2.7 km/1.6 km	1 min 28 s/0 min 52 s
+Parkplatz
+					6.9 km/8.6 km	3 min 46 s/4 min 41 s
+Rasthof Berfa
+(sydgående riktning)
+ Bensin, Restaurang
+Rastplatz Eifa
+(nordgående riktning)
+					5.0 km/4.1 km	2 min 44 s/2 min 14 s
+Anschlausstelle 2
+ Alsfeld-Ost
+ B62: 
+					4.3 km/4.7 km	2 min 21 s/2 min 34 s
+Anschlausstelle 3
+ Alsfeld-West
+ B49: 
+Raststätte Pfefferhöhe
+ Bensin, Restaurang, Hotel
+					10.2 km/10.2 km	5 min 34 s/5 min 34 s
+Rastplatz Dottenberg
+(sydgående riktning)
+Rastplatz Krachgarten
+(nordgående riktning)
+					9.2 km/8.2 km	5 min 1 s/4 min 28 s
+Parkplatz
+					2.0 km/2.8 km	1 min 5 s/1 min 32 s
+Parkplatz
+(nordgående riktning)
+					2.0 km/1.8 km	1 min 5 s/0 min 59 s
+Anschlausstelle 6
+ Homberg
+					1.7 km/1.9 km	0 min 56 s/1 min 2 s
+Parkplatz
+(sydgående riktning)
+					3.0 km/2.8 km	1 min 38 s/1 min 32 s
+Anschlausstelle 7
+ Grünberg
+					2.2 km/2.4 km	1 min 12 s/1 min 19 s
+Rasthof Reinhardshain
+ Bensin, Restaurang, Hotel
+					5.3 km/4.9 km	2 min 53 s/2 min 40 s
+AB-Kreuz Reiskirchener (8)
+ A480: Giessen
+ [A45]: Dortmund
+					1.8 km/1.8 km	0 min 54 s/0 min 54 s
+Anschlausstelle 9
+ Reiskirchen
+ B49: 
+					4.1 km/4.3 km	2 min 3 s/2 min 9 s
+Parkplatz
+(sydgående riktning)
+					2.4 km/2.0 km	1 min 12 s/1 min 0 s
+Anschlausstelle 10
+ Fernwald
+ B457: 
+					3.0 km/3.5 km	1 min 30 s/1 min 45 s
+Raststätte Garbenteich
+ Restaurang
+					5.4 km/6.7 km	2 min 42 s/3 min 21 s
+Gambacher Kreuz (11)
+ A45 n: Dortmund, Giessen 
+ A45 s: Aschaffenburg, Hanau
+					5.4 km/3.9 km	2 min 42 s/1 min 57 s
+Anschlausstelle 12
+ Butzbach
+					3.4 km/3.3 km	1 min 42 s/1 min 39 s
+Anschlausstelle 13
+ Bad Nauheim
+					2.6 km/2.7 km	1 min 18 s/1 min 21 s
+Anschlausstelle 14
+ Ober-Mörlen
+ B275: 
+					2.9 km/3.3 km	1 min 27 s/1 min 39 s
+Rasthof Wetterau
+ Bensin, Restaurang
+					8.1 km/8.2 km	4 min 3 s/4 min 6 s
+Anschlausstelle 16
+ Friedberg
+ B455: 
+					4.0 km/3.7 km	2 min 0 s/1 min 51 s
+Rastplatz Spiesswald
+(sydgående riktning)
+Rastplatz Schäferborn
+(nordgående riktning)
+					6.0 km/6.5 km	3 min 0 s/3 min 15 s
+AB-Kreuz Bad Homburger (17)
+ A661 n: Oberursel
+ A661 s: Frankfurt-Ost, Offenbach
+					6.3 km/6.0 km	3 min 47 s/3 min 36 s
+(Urselbachtalbrücke (370 m))
+
+Rasthof Taunusblick
+(sydgående riktning)
+ Bensin, Restaurang
+					2.2 km/2.4 km	1 min 19 s/1 min 26 s
+Nordwestkreuz Frankfurt (18)
+ A66 w: Mainz, Wiesbaden, Hofheim
+ A66 o: Frankfurt-Zentrum
+					2.2 km/2.7 km	1 min 19 s/1 min 37 s
+Westkreuz Frankfurt (19)
+ A648 w: Wiesbaden, Bad Soden
+ A648 o: Frankfurt-Zentrum
+					3.3 km/2.1 km	1 min 59 s/1 min 16 s
+(Anschlausstelle 20z)
+(Nödavfart)
+ Frankfurt-Rebstock
+					
+Anschlausstelle 20
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Frankfurt-Westhaven
+Europabrücke_nord (314 m)
+					0.9 km/0.9 km	0 min 32 s/0 min 32 s
+Europabrücke_süd (314 m)
+Anschlausstelle 21
+(ej avfart sydågende)
+ Frankfurt-Niederrand
+					2.5 km/4.4 km	1 min 30 s/2 min 38 s
+Anschlausstelle 22a
+ Frankfurt-Flughaven-Nord
+ B43: 
+AB-Kreuz Frankfurt (22)
+ A3 w: Nürnberg, Offenbach
+ A3 o: Köln, Wiesbaden
+					2.8 km/1.9 km	1 min 32 s/1 min 2 s
+Anschlausstelle 23
+ Zeppelinheim
+					3.9 km/3.4 km	2 min 8 s/1 min 51 s
+Rastplatz Walldorf
+					1.9 km/2.3 km	1 min 2 s/1 min 15 s
+Anschlausstelle 24
+ Lagen / Mörfelden
+ B486: 
+					1.3 km/0.7 km	0 min 43 s/0 min 23 s
+Parkplatz Bernd Rosemeyer
+					3.0 km/3.3 km	1 min 38 s/1 min 48 s
+Rasthof Gräfenahusen
+					4.6 km/4.2 km	2 min 31 s/2 min 17 s
+Rastplatz Weiterstadt
+					1.1 km/0.9 km	0 min 36 s/0 min 29 s
+Anschlausstelle 25
+ Weiterstadt
+ B42: 
+					2.6 km/3.5 km	1 min 25 s/1 min 55 s
+AB-Kreuz Darmstadt (26)
+ A672 w: Rüsselsheim
+ A672 O: Darmstadt
+					1.6 km/1.3 km	0 min 52 s/0 min 43 s
+Darmstädter Kreuz (26)
+ A67 n: Mainz, Rüsselsheim
+ A67 s: Ludwigshafen, Mannheim
+					6.9 km/6.4 km	3 min 46 s/3 min 29 s
+Anschlausstelle 27
+ Darmstadt-Eberstadt
+ B3:
+ B426:
+					2.2 km/2.4 km	1 min 12 s/1 min 19 s
+Parkplatz Rolandshöhe
+(sydågende riktning)
+					1.9 km/1.5 km	1 min 2 s/0 min 49 s
+Anschlausstelle 28
+ Seeheim-Jugenheim
+					0.9 km/1.4 km	0 min 29 s/0 min 46 s
+Parkplatz
+(nordgående riktning)
+					2.5 km/4.0 km	1 min 22 s/2 min 11 s
+Rasthof Alsback
+(sydgående riktning)
+ Bensin, Restaurang
+Rastplatz Nachtweide
+(nordgående riktning)
+					2.9 km/0.9 km	1 min 35 s/0 min 29 s
+Anschlausstelle 29
+ Zwingenberg
+					2.7 km/4.0 km	1 min 28 s/2 min 11 s
+Parkplatz
+(sydgående riktning)	
+Rasthof Bergstraße
+(nordgående riktning)
+					2.9 km/1.7 km	1 min 35 s/0 min 56 s
+Anschlausstelle 30
+ Bensheim
+ B47: 
+					1.0 km/1.4 km	0 min 33 s/0 min 46 s
+Parkplatz
+(nordgående riktning)
+					1.7 km/1.7 km	0 min 56 s/0 min 56 s
+Anschlausstelle 31
+ Heppenheim
+ B460: 
+					3.1 km/3.1 km	1 min 41 s/1 min 41 s
+Parkplatz
+(sydgående riktning)
+					0.9 km/0.5 km	0 min 29 s/0 min 16 s
+Hessen / Baden-Württemberg
+					0.7 km/1.1 km	0 min 23 s/0 min 36 s
+Parkplatz
+(nordgående riktning)
+					1.7 km/1.7 km	0 min 56 s/0 min 56 s
+Anschlausstelle 32
+ Hemsbach
+					1.1 km/1.1 km	0 min 36 s/0 min 36 s
+Parkplatz
+(sydgående riktning)
+					3.6 km/4.3 km	1 min 58 s/2 min 21 s
+AB-Kreuz Weinheim (33)
+ A659: Ludwigshafen, Mannheim
+ B38: Weinheim
+					2.1 km/1.9 km	1 min 9 s/1 min 2 s
+Rastplatz Fliegweise
+(sydgående riktning)
+Rastplatz Wachenburg
+(nordgående riktning)
+					2.8 km/2.4 km	1 min 32 s/1 min 19 s
+Anschlausstelle 34
+ Hirschberg
+					3.6 km/3.3 km	1 min 58 s/1 min 48 s
+Anschlausstelle 35
+ Ladenburg
+					1.2 km/1.8 km	0 min 39 s/0 min 59 s
+Parkplatz
+					2.1 km/1.5 km	1 min 9 s/0 min 49 s
+Anschlausstelle 36
+ Dossenheim
+					0.9 km/1.3 km	0 min 29 s/0 min 43 s
+Neckarbrücke (390 m)
+					2.0 km/3.1 km	1 min 5 s/1 min 41 s
+AB-Kreuz Heidelberg (37)
+ A656: Ludwigshafen, Mannheim
+ B37: Heidelberg
+					5.4 km/5.2 km	2 min 57 s/2 min 50 s
+Anschlausstelle 38
+ Heidelberg / Schwetzingen
+ B535: 
+					2.6 km/2.0 km	1 min 25 s/1 min 5 s
+Rasthof Hardtwald
+ Bensin, Restaurang
+					3.2 km/2.8 km	1 min 45 s/1 min 32 s
+Parkplatz
+					2.3 km/2.3 km	1 min 15 s/1 min 15 s
+Anschlausstelle 39
+ Walldorf / Wiesloch
+ B291: 
+					1.9 km/3.1 km	1 min 2 s/1 min 41 s
+AB-Kreuz Walldorf (40)
+ A6 w:
+ A6 o:
+					3.4 km/2.3 km	1 min 42 s/1 min 9 s
+Rastplatz Mönchberg
+(sydgående riktning)
+Rastplatz Lußhardt
+(nordgående riktning)
+					3.3 km/3.6 km	1 min 39 s/1 min 48 s
+Anschlausstelle 41
+ Kronau
+					3.6 km/3.1 km	1 min 48 s/1 min 33 s
+Parkplatz
+					4.1 km/4.7 km	2 min 3 s/2 min 21 s
+Rasthof Bruchsal
+ Bensin, Restaurang
+					1.5 km/1.8 km	0 min 45 s/0 min 54 s
+Anschlausstelle 42
+ Bruchsal
+ B35: 
+					5.6 km/4.8 km	2 min 48 s/2 min 24 s
+Parkplatz
+					4.5 km/4.5 km	2 min 15 s/2 min 15 s
+Rastplatz Kreuzlach
+(sydgående riktning)
+Rastplatz Höfenschlag
+(nordgående riktning)
+					3.7 km/3.8 km	1 min 51 s/1 min 54 s
+Parkplatz
+(nordgående riktning)
+					2.6 km/3.4 km	1 min 18 s/1 min 42 s
+Anschlausstelle 43
+ Karlsruhe-Nord
+					2.0 km/1.8 km	1 min 0 s/0 min 54 s
+Anschlausstelle 44
+ Karlsruhe-Durlach
+ B10: 
+					1.8 km/1.7 km	0 min 54 s/0 min 51 s
+Anschlausstelle 45
+ Karlsruhe-Mitte
+					1.7 km/2.1 km	0 min 51 s/1 min 3 s
+AB-Dreieck Karlsruhe (46)
+ A8: München, Stuttgart
+					3.0 km/2.0 km	1 min 38 s/1 min 5 s
+Anschlausstelle 47
+ Ettlingen
+					1.8 km/2.1 km	0 min 59 s/1 min 9 s
+Anschlausstelle 48
+ Karlsruhe-Süd
+ B3: 
+					11.1 km/11.0 km	5 min 33 s/5 min 30 s
+Rastplatz Silbergrund
+(sydgående riktning)
+Rastplatz Schleifweg
+(nordgående riktning)
+					4.2 km/4.1 km	2 min 6 s/2 min 3 s
+Anschlausstelle 49
+ Rastatt
+ B462: 
+					3.0 km/3.0 km	1 min 30 s/1 min 30 s
+Murgbrücke (251 m)
+					2.5 km/2.5 km	1 min 15 s/1 min 15 s
+Parkplatz
+(nordgående riktning)
+					2.3 km/2.7 km	1 min 9 s/1 min 21 s
+Anschlausstelle 50
+ Rastatt-Süd
+Rasthof Baden-Baden
+ Bensin, Restaurang
+					2.2 km/2.6 km	1 min 6 s/1 min 18 s
+Anschlausstelle 51
+ Baden-Baden
+ B500: 
+					3.9 km/3.2 km	1 min 57 s/1 min 36 s
+Parkplatz
+(nordgående riktning)
+					1.3 km/1.5 km	0 min 39 s/0 min 45 s
+Rasthof Bühl
+(nordgående riktning)
+ Bensin, Restaurang
+					1.1 km/0.8 km	0 min 33 s/0 min 24 s
+Parkplatz
+(sydgående riktning)
+					2.9 km/3.0 km	1 min 27 s/1 min 30 s
+Anschlausstelle 52
+ Bühl
+					2.7 km/5.3 km	1 min 21 s/2 min 39 s
+Parkplatz
+					5.8 km/3.9 km	2 min 54 s/1 min 57 s
+Parkplatz
+					1.9 km/1.1 km	0 min 57 s/0 min 33 s
+Anschlausstelle 53
+ Achern
+					1.7 km/3.4 km	0 min 51 s/1 min 42 s
+Parkplatz
+					4.9 km/5.7 km	2 min 27 s/2 min 51 s
+Parkplatz
+					3.9 km/1.9 km	1 min 57 s/0 min 57 s
+Rasthof Renchtal
+ Bensin, Restaurang
+					3.2 km/3.9 km	1 min 36 s/1 min 57 s
+Anschlausstelle 54
+ Appenweier
+ B28: 
+					1.9 km/1.0 km	0 min 57 s/0 min 30 s
+Parkplatz
+(sydgående riktning)
+					1.3 km/1.1 km	0 min 39 s/0 min 33 s
+Kinzigbrücke (130 m)
+					2.3 km/1.3 km	1 min 9 s/0 min 39 s
+Parkplatz
+					2.4 km/4.0 km	1 min 12 s/2 min 0 s
+Anschlausstelle 55
+ Offenburg
+ B33a:
+					1.6 km/1.2 km	0 min 48 s/0 min 36 s
+Parkplatz
+(sydgående riktning)
+					4.2 km/4.0 km	2 min 6 s/2 min 0 s
+Parkplatz
+					3.3 km/3.4 km	1 min 39 s/1 min 42 s
+Rastplatz Unditz
+(sydgående riktning)
+Rastplatz Schutter
+(nordgående riktning)
+					5.7 km/5.5 km	2 min 51 s/2 min 45 s
+Parkplatz
+					0.7 km/0.9 km	0 min 21 s/0 min 27 s
+Anschlausstelle 56
+ Lahr
+ B36: 
+					2.9 km/2.9 km	1 min 27 s/1 min 27 s
+Parkplatz
+(nordgående riktning)
+					2.7 km/3.2 km	1 min 21 s/1 min 36 s
+Rasthof Mahlberg
+ Bensin, Restaurang
+					3.6 km/3.1 km	1 min 48 s/1 min 33 s
+Anschlausstelle 57a
+ Ettenheim
+					2.8 km/2.6 km	1 min 24 s/1 min 18 s
+Parkplatz
+					0.5 km/0.7 km	0 min 15 s/0 min 21 s
+Anschlausstelle 57b
+ Rust
+					2.9 km/2.8 km	1 min 27 s/1 min 24 s
+Anschlausstelle 58
+ Herbolzheim
+Restaurang: McDonald's
+					3.1 km/3.4 km	1 min 33 s/1 min 42 s
+Parkplatz
+					3.6 km/3.2 km	1 min 48 s/1 min 36 s
+Parkplatz
+					1.7 km/1.8 km	0 min 51 s/0 min 54 s
+Anschlausstelle 59
+ Riegel
+					4.2 km/2.9 km	2 min 6 s/1 min 27 s
+Parkplatz
+					1.1 km/1.9 km	0 min 33 s/0 min 57 s
+Anschlausstelle 60
+ Teningen
+					3.2 km/2.7 km	1 min 36 s/1 min 21 s
+Parkplatz Am Glotterbach
+					2.7 km/3.6 km	1 min 21 s/1 min 48 s
+Anschlausstelle 61
+ Freiburg-Nord
+ B294: 
+					1.3 km/1.7 km	0 min 39 s/0 min 51 s
+Rasthof Schauinsland
+(sydgående riktning)
+					3.4 km/3.8 km	1 min 42 s/1 min 54 s
+Anschlausstelle 62
+ Freiburg-Mitte
+ B31a:
+					5.2 km/4.5 km	2 min 36 s/2 min 15 s
+Parkplatz
+					1.1 km/1.5 km	0 min 33 s/0 min 45 s
+Anschlausstelle 63
+ Freiburg-Süd
+ B31: 
+					1.4 km/1.5 km	0 min 42 s/0 min 45 s
+Rasthof Breisgau
+(nordgående riktning)
+ Bensin, Restaurang
+					4.8 km/4.5 km	2 min 24 s/2 min 15 s
+Anschlausstelle 64a
+ Bad Krozingen
+ B31: 
+					2.1 km/1.0 km	1 min 3 s/0 min 30 s
+Parkplatz
+					4.2 km/5.3 km	2 min 6 s/2 min 39 s
+Parkplatz
+					1.8 km/1.5 km	0 min 54 s/0 min 45 s
+Anschlausstelle 64b
+ Müllheim/Neuenburg am Rheim
+ B378: 
+					4.0 km/4.2 km	2 min 0 s/2 min 6 s
+Parkplatz
+					4.8 km/5.0 km	2 min 24 s/2 min 30 s
+Rastplatz Neuenburg
+					1.9 km/1.7 km	0 min 57 s/0 min 51 s
+Anschlausstelle 65
+ Müllheim / Neuenburg am Rhein
+ B378: 
+					3.1 km/3.1 km	1 min 33 s/1 min 33 s
+Parkplatz
+					1.3 km/1.0 km	0 min 39 s/0 min 30 s
+AB-Dreieck Neuenburg (66)
+ A862: Mulhouse
+					4.6 km/4.2 km	2 min 31 s/2 min 17 s
+Parkplatz
+(nordgående riktning)
+Rasthof Bad Bellingen
+(sydgående riktning)
+ Bensin, Restaurang
+					4.1 km/5.0 km	2 min 14 s/2 min 44 s
+Rastplatz Fischergrund
+(sydgående riktning)
+Rastplatz Rheinaue
+(nordgående riktning)
+					3.3 km/3.1 km	1 min 48 s/1 min 41 s
+Anschlausstelle 67
+ Efringen-Kirchen
+					8.1 km/8.7 km	4 min 25 s/4 min 45 s
+AB-Dreieck Weil am Rhein (68)
+ A98: Lörrach
+					1.2 km/0.7 km	0 min 39 s/0 min 23 s
+Parkplatz
+(nordgående riktning)
+					1.4 km/2.1 km	0 min 46 s/1 min 9 s
+Anschlausstelle 69
+ Weil am Rhein / Hüningen
+ B532: 
+Rasthof Weil
+(nordgående riktning)
+ Bensin, Restaurang
+					2.0 km/0.9 km	1 min 5 s/0 min 29 s
+Tyskland / Schweiz
+Baden-Württemberg / Basel-Stadt
+

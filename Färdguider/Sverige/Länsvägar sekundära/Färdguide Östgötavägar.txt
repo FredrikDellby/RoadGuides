@@ -1,0 +1,34 @@
+Trp Väderstad
+ E4 n: Stockholm, Mjölby
+ E4 s: Helsingborg, Ödeshög
+ Boxholm
+					1.2 km/0.9 km	1 min 26 s/1 min 5 s
+Rondell Väderstad södra
+ Ödeshög, Rök
+					1.1 km/1.1 km	1 min 19 s/1 min 19 s
+Korsning Väderstad kyrka
+ Mjölby, Hogstad
+ Ödeshög, Rök
+					1.4 km/1.4 km	1 min 24 s/1 min 24 s
+T-korsning
+ Skänninge, Bjälbo
+					0.6 km/0.6 km	36 s/36 s
+T-korsning
+ Väversunda, Kumla
+					2.0 km/2.0 km	2 min 0 s/2 min 0 s
+Mjölby / Vadstena
+					3.8 km/3.8 km	3 min 48 s/3 min 48 s
+T-korsning Hov
+ Skänninge, Bjälbo
+					2.5 km/2.6 km	2 min 9 s/2 min 14 s
+T-korsning Bondorlunda
+ Orlunda
+					1.3 km/1.5 km	1 min 7 s/1 min 17 s
+Dubbel T-korsning Strå
+ Borghamn, Herrestad
+ Börstad
+					3.8 km/3.8 km	3 min 15 s/3 min 15 s
+Järnvägskorsning
+T-korsning Hovtullen
+ 50 n: Örebro, Motala
+ 50 s: Jönköping, Ödeshög

@@ -1,0 +1,137 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,4 kilometres (12 minutes)
+09:00	0,0	Depart Håbyvägen, 455 91 Munkedal on Local road(s) (North)	30 m	
+09:00	0,1	Bear RIGHT (West) onto 162	0,2 km	
+09:00	0,2	Turn RIGHT (North) onto Local road(s)	40 m	
+09:00	0,3	Bear LEFT (North-West) onto Local road(s)	60 m	
+09:00	0,3	Bear LEFT (West) onto Local road(s)	0,3 km	
+09:00	0,6	Bear LEFT (North-West) onto Local road(s)	0,4 km	
+09:01	1,0	At near Gläborg, stay on Local road(s) (North)	1,5 km	
+09:02	2,6	At T-korsning Leråker, stay on Local road(s) (North)	2,1 km	
+09:04	4,7	At roundabout, take the SECOND exit onto 165	3,1 km	
+09:08	7,8	At T-korsning Svarteborg, stay on 165 (North-West)	2,9 km	
+09:10	10,7	At near Hällevadsholm, stay on 165 (North)	0,8 km	
+09:12	11,4	Arrive Korsning Hällevadsholm C		
+
+SUMMARY
+Driving distance:  11,4 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  14,39 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,2 kilometres (11 minutes)
+09:00	0,0	Depart Korsning Hällevadsholm C on 165 [Södra Bohusvägen] (East)	0,6 km	
+09:00	0,6	At T-korsning Hällevadsholm S, stay on 165 (South-East)	3,0 km	
+09:03	3,6	At T-korsning Svarteborg, stay on 165 (South-East)	3,1 km	
+09:07	6,7	At roundabout, take the SECOND exit onto Local road(s)	2,1 km	
+09:09	8,8	At T-korsning Leråker, stay on Local road(s) (South)	1,5 km	
+09:10	10,4	At near Gläborg, stay on Local road(s) (South)	0,4 km	
+09:11	10,8	Bear RIGHT (South) onto Local road(s)	0,3 km	
+09:11	11,1	Bear RIGHT (East) onto Local road(s)	60 m	
+09:11	11,1	Bear RIGHT (South) onto Local road(s)	40 m	
+09:11	11,2	Arrive T-korsning Gläborg		
+
+SUMMARY
+Driving distance:  11,2 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  14,13 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,4 kilometres (22 minutes)
+09:00	0,0	Depart Korsning Hällevadsholm C on 165 (North)	3,0 km	
+09:02	3,0	At T-korsning Aspång, stay on 165 (North)	6,6 km	
+09:07	9,7	At 165, 450 53 Hällevadsholm, stay on 165 (North)	0,6 km	
+09:08	10,3	At Korsning Smeviken, stay on 165 (North)	2,4 km	
+09:10	12,7	At T-korsning Fressland, stay on 165 [Fressland] (North-West)	2,4 km	
+09:13	15,1	At T-korsning Äspelunden, stay on 165 (North)	3,6 km	
+09:16	18,7	At 165, 450 84 Bullaren, stay on 165 (North)	0,6 km	
+09:17	19,3	At T-korsning Tingvallsgård, stay on 165 (North)	3,0 km	
+09:19	22,2	At Korsning Naverstad, stay on 165 (North)	1,8 km	
+09:21	24,0	At Östadsåsarna 2, 450 84 Bullaren, stay on 165 (North)	1,3 km	
+09:22	25,4	Arrive T-korsning Backa		
+
+SUMMARY
+Driving distance:  25,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  29,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,5 kilometres (22 minutes)
+09:00	0,0	Depart T-korsning Backa on 164 [165] (South)	80 m	
+09:00	0,1	Keep STRAIGHT onto 165	1,3 km	
+09:01	1,4	At 165, 450 84 Bullaren, stay on 165 (South)	1,9 km	
+09:03	3,2	At Korsning Naverstad, stay on 165 (South)	3,0 km	
+09:05	6,2	At T-korsning Tingvallsgård, stay on 165 (South)	0,6 km	
+09:06	6,8	At 165, 450 84 Bullaren, stay on 165 (South)	3,4 km	
+09:09	10,1	At T-korsning Grimmeland, stay on 165 (South)	2,6 km	
+09:12	12,8	At T-korsning Fressland, stay on 165 (South)	2,4 km	
+09:14	15,2	At Korsning Smeviken, stay on 165 (South)	0,6 km	
+09:15	15,8	At 165, 450 53 Hällevadsholm, stay on 165 (South)	6,6 km	
+09:20	22,4	At T-korsning Aspång, stay on 165 (South)	3,0 km	
+09:22	25,5	Arrive Korsning Hällevadsholm C		
+
+SUMMARY
+Driving distance:  25,5 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  29,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,7 kilometres (9 minutes)
+09:00	0,0	Depart T-korsning Backa on 164 [165] (North)	4,0 km	
+09:04	4,0	At T-korsning Holkekärr, keep STRAIGHT onto 165	4,8 km	
+09:08	8,8	At Camping Vassbotten, stay on 165 [Vassbotten] (North)	0,5 km	
+09:09	9,3	At T-korsning Vassbotten, stay on 165 (North)	0,4 km	
+09:09	9,7	Arrive 22, 1765 Halden		
+
+SUMMARY
+Driving distance:  9,7 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  11,29 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,6 kilometres (9 minutes)
+09:00	0,0	Depart 22, 1765 Halden on 165 [Vassbotten] (South)	0,2 km	
+09:00	0,2	At T-korsning Vassbotten, stay on 165 (South)	0,6 km	
+09:01	0,9	At Camping Vassbotten, stay on 165 (South)	4,8 km	
+09:05	5,7	At T-korsning Holkekärr, road name changes to 164 [165]	3,9 km	
+09:09	9,6	Arrive T-korsning Backa		
+
+SUMMARY
+Driving distance:  9,6 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  11,15 kr
+
+1.0 km/0.8 km	0 min 51 s/0 min 41 s	70
+1.5 km/1.5 km	1 min 17 s/1 min 17 s
+
+2.1 km/2.1 km	2 min 6 s/2 min 6 s	60
+3.1 km/3.1 km	3 min 6 s/3 min 6 s
+
+2.9 km/3.0 km	2 min 29 s/2 min 34 s	70
+0.8 km/0.6 km	0 min 58 s/0 min 43 s	50
+Resultat:
+
+3.0 km/3.0 km	2 min 15 s/2 min 15 s	80
+6.6 km/6.6 km	4 min 57 s/4 min 57 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+
+2.4 km/2.4 km	2 min 3 s/2 min 3 s	70
+2.4 km/2.6 km	2 min 3 s/2 min 14 s
+3.6 km/3.4 km	3 min 5 s/2 min 55 s
+0.6 km/0.6 km	0 min 31 s/0 min 31 s
+3.0 km/3.0 km	2 min 34 s/2 min 34 s
+1.8 km/1.9 km	1 min 33 s/1 min 38 s
+1.3 km/1.4 km	1 min 7 s/1 min 12 s
+
+
+4.0 km/3.9 km	3 min 26 s/3 min 21 s
+4.8 km/4.8 km	3 min 36 s/3 min 36 s
+
+0.5 km/0.6 km	0 min 26 s/0 min 31 s
+0.4 km/0.2 km	0 min 21 s/0 min 10 s

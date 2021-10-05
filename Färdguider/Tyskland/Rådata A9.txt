@@ -1,0 +1,223 @@
+Time	Km	Instruction	For	Toward
+Summary:  71,2 kilometres (33 minutes)
+09:00	0,0	Depart 19 on A9 [E51] (West)	2,5 km	A9 / München / Leipzig
+09:01	2,5	At 2, stay on A9 [E51] (South)	6,7 km	A9 / München / Leipzig / Beelitz
+09:04	9,2	At 3, stay on A9 [E51] (South)	1,5 km	A9 / München / Leipzig / Brück
+09:05	10,8	At E51, 14547 Beelitz, stay on A9 [E51] (South)	9,0 km	
+09:09	19,8	At 4, stay on A9 [E51] (South-West)	3,0 km	A9 / München / Leipzig / Niemegk
+09:10	22,8	At E51, 14823 Mühlenfliess, stay on A9 [E51] (South-West)	6,4 km	
+09:13	29,2	At 5, stay on A9 [E51] (South-West)	7,0 km	A9 / München / Leipzig / Klein Marzehns
+09:16	36,2	At E51, 14823 Rabenstein/Fläming, stay on A9 [E51] (South-West)	4,6 km	
+09:19	40,8	At 6, stay on A9 [E51] (South-West)	4,0 km	A9 / München / Leipzig / Köselitz
+09:21	44,9	At E51, 14823 Rabenstein/Fläming, stay on A9 [E51] (South-West)	4,3 km	
+09:23	49,2	At E51, 06869 Köselitz, stay on A9 [E51] (West)	1,9 km	
+09:23	51,1	At 7, stay on A9 [E51] (South-West)	9,8 km	A9 / München / Leipzig / Coswig
+09:28	60,9	At 8, stay on A9 [E51] (South)	2,7 km	A9 / München / Leipzig / Vockerode
+09:29	63,6	At E51, 06869 Klieken, stay on A9 [E51] (West)	1,7 km	
+09:30	65,3	At near Vockerode, stay on A9 [E51] (West)	0,9 km	
+09:30	66,2	At near Vockerode, stay on A9 [E51] (West)	1,9 km	
+09:31	68,1	At 9, stay on A9 [E51] (South)	3,1 km	A9 / München / Leipzig / Dessau-Ost
+09:33	71,2	Arrive 10		
+
+SUMMARY
+Driving distance:  71,2 kilometres
+Trip duration:  33 minutes
+Driving time:  33 minutes
+Cost:  79,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  70,5 kilometres (32 minutes)
+09:00	0,0	Depart 10 on A9 [E51] (North)	3,3 km	A9 / Berlin / Potsdam / Vockerode
+09:01	3,3	At 9, stay on A9 [E51] (North)	2,0 km	A9 / Berlin / Potsdam / Coswig
+09:02	5,3	At near Vockerode, stay on A9 [E51] (East)	1,3 km	
+09:03	6,6	At near Vockerode, stay on A9 [E51] (East)	1,2 km	
+09:03	7,8	At E51, 06869 Klieken, stay on A9 [E51] (East)	3,1 km	
+09:05	10,9	At 8, stay on A9 [E51] (North)	9,7 km	A9 / Berlin / Potsdam / Köselitz
+09:09	20,6	At 7, stay on A9 [E51] (North-East)	1,6 km	A9 / Berlin / Potsdam / Klein Marzehns
+09:10	22,2	At E51, 06869 Köselitz, stay on A9 [E51] (East)	4,9 km	
+09:12	27,1	At near Groß Marzehns, stay on A9 [E51] (North-East)	3,4 km	
+09:14	30,5	At 6, stay on A9 [E51] (North-East)	3,6 km	A9 / Berlin / Potsdam / Niemegk
+09:15	34,1	At E51, 14823 Rabenstein/Fläming, stay on A9 [E51] (North-East)	8,4 km	
+09:19	42,5	At 5, stay on A9 [E51] (North-East)	5,8 km	A9 / Berlin / Potsdam / Brück
+09:22	48,3	At E51, 14823 Mühlenfliess, stay on A9 [E51] (North-East)	3,6 km	
+09:24	51,9	At 4, stay on A9 [E51] (North-East)	8,8 km	A9 / Berlin / Potsdam / Beelitz
+09:28	60,6	At E51, 14547 Beelitz, stay on A9 [E51] (North-East)	2,3 km	
+09:29	62,9	At 3, stay on A9 [E51] (North)	6,3 km	A9 / Berlin / Beelitz-Heilstätten
+09:32	69,3	At 2, stay on A9 [E51] (North)	1,2 km	A9 / Berlin / Dreieck Potsdam
+09:32	70,5	Arrive 1		
+
+SUMMARY
+Driving distance:  70,5 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  78,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,9 kilometres (21 minutes)
+09:00	0,0	Depart 10 on A9 [E51] (South)	2,8 km	A9 / München / Leipzig / Dessau-SÜD
+09:01	2,8	At near Kleutsch, stay on A9 [E51] (South-West)	6,8 km	
+09:04	9,6	At 11, stay on A9 [E51] (South)	3,0 km	A9 / München / Leipzig / Bitterfeld/Wolfen
+09:05	12,6	At E51, 06779 Thurland, stay on A9 [E51] (South)	10,3 km	
+09:10	22,9	At 12, keep STRAIGHT to stay on A9 [E51]	2,8 km	
+09:11	25,6	At E51, 06794 Glebitzsch, stay on A9 [E51] (South)	5,7 km	
+09:14	31,3	At 13, stay on A9 [E51] (South)	3,3 km	A9 / München / Leipzig / Wiedemar
+09:16	34,6	At E51, 04509 Neukyhna, stay on A9 [E51] (South)	4,3 km	
+09:18	38,9	At E51, 06188 Landsberg, stay on A9 [E51] (South)	3,4 km	
+09:19	42,3	At 14, stay on A9 [E51] (South)	3,6 km	
+09:21	45,9	Arrive 15		
+
+SUMMARY
+Driving distance:  45,9 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  51,03 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  47,0 kilometres (22 minutes)
+09:00	0,0	Depart 15 on A9 [E51] (North)	4,8 km	A9 / Berlin / Dessau
+09:02	4,8	At 14, stay on A9 [E51] (North)	3,1 km	
+09:03	8,0	At E51, 04509 Wiedemar, stay on A9 [E51] (North)	4,7 km	
+09:06	12,7	At near Torna, stay on A9 [E51] (North)	2,2 km	
+09:07	14,9	At 13, stay on A9 [E51] (North)	6,2 km	A9 / Berlin / Dessau / Bitterfeld/Wolfen
+09:10	21,1	At E51, 06794 Glebitzsch, stay on A9 [E51] (North)	3,1 km	
+09:11	24,1	At 12, keep STRAIGHT to stay on A9 [E51]	10,2 km	
+09:16	34,3	At E51, 06779 Thurland, stay on A9 [E51] (North)	3,4 km	
+09:17	37,7	At 11, stay on A9 [E51] (North)	6,4 km	A9 / Berlin / Potsdam / Dessau-Ost
+09:20	44,1	At near Kleutsch, stay on A9 [E51] (North-East)	2,9 km	
+09:22	47,0	Arrive 10		
+
+SUMMARY
+Driving distance:  47,0 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  52,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,6 kilometres (11 minutes)
+09:00	0,0	Depart 15 on A9 [E51] (South)	4,0 km	A9 / München / Erfurt
+09:02	4,0	At 16, keep STRAIGHT to stay on A9 [E49]	1,9 km	
+09:03	6,0	At near Rübsen, stay on A9 [E49] (South)	0,5 km	
+09:03	6,5	At near Maßlau, stay on A9 [E49] (South)	3,1 km	
+09:04	9,5	At 17, stay on A9 [E49] (South)	2,5 km	A9 / München / Erfurt / Bad Dürrenberg
+09:06	12,0	At E49, 06254 Günthersdorf, stay on A9 [E49] (South)	2,8 km	
+09:07	14,8	At near Großlehna, stay on A9 [E49] (South-West)	2,3 km	
+09:08	17,1	At 18, stay on A9 [E49] (South-West)	7,5 km	A9 / München / Kreuz Rippachtal
+09:11	24,6	Arrive 19		
+
+SUMMARY
+Driving distance:  24,6 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  27,39 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,6 kilometres (11 minutes)
+09:00	0,0	Depart 19 on A9 [E49] (North)	8,3 km	A9 / Berlin / Leipzig / Flughafen / Dessau
+09:03	8,3	At 18, stay on A9 [E49] (North-East)	2,9 km	
+09:05	11,2	At near Großlehna, stay on A9 [E49] (North-East)	2,5 km	
+09:06	13,7	At E49, 06231 Rodden, stay on A9 [E49] (North-East)	1,7 km	
+09:07	15,4	At 17, stay on A9 [E49] (North)	4,0 km	A9 / Berlin / Leipzig / Flughafen / Grosskugel
+09:08	19,5	At near Maßlau, stay on A9 [E49] (North)	0,5 km	
+09:09	20,0	At near Rübsen, stay on A9 [E49] (North)	2,1 km	
+09:10	22,1	At 16, stay on A9 [E49] (North)	2,5 km	
+09:11	24,6	Arrive 15		
+
+SUMMARY
+Driving distance:  24,6 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  27,34 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,2 kilometres (22 minutes)
+09:00	0,0	Depart 19 on A9 [E49] (South)	4,2 km	A9 / München / Erfurt
+09:01	4,2	At E51, 06686 Dehlitz (Saale), stay on A9 [E49] (South-West)	3,7 km	
+09:03	7,9	At 20, stay on A9 [E49] (South)	8,8 km	A9 / München / Erfurt / Naumburg
+09:08	16,7	At E49, 06682 Krauschwitz, stay on A9 [E49] (South)	1,7 km	
+09:08	18,4	At 21A, stay on A9 [E49] (South)	6,3 km	
+09:11	24,8	At 21B, stay on A9 [E49] (South)	1,0 km	
+09:12	25,7	At near Kleinhelmsdorf, stay on A9 [E49] (South)	9,3 km	
+09:16	35,0	At 22, stay on A9 [E49] (South)	1,1 km	
+09:17	36,1	At E49, 07607 Eisenberg, stay on A9 [E49] (West)	6,2 km	
+09:20	42,3	At 23, stay on A9 [E49] (South)	2,8 km	
+09:22	45,2	Arrive 24		
+
+SUMMARY
+Driving distance:  45,2 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  50,25 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  45,8 kilometres (22 minutes)
+09:00	0,0	Depart 24 on A9 [E49] (North)	5,0 km	A9 / Berlin / Halle (Saale) / Leipzig / Bad Klosterlausnitz
+09:03	5,0	At E49, 07639 Bad Klosterlausnitz, stay on A9 [E49] (North)	5,3 km	
+09:05	10,3	At E49, 07607 Hainspitz, stay on A9 [E49] (East)	1,8 km	
+09:06	12,1	At 22, stay on A9 [E49] (North)	9,4 km	
+09:10	21,5	At near Kleinhelmsdorf, stay on A9 [E49] (North)	0,9 km	
+09:11	22,5	At 21B, stay on A9 [E49] (North)	5,7 km	
+09:13	28,2	At 21A, stay on A9 [E49] (North)	1,4 km	
+09:14	29,5	At E49, 06667 Pretzsch, stay on A9 [E49] (North)	8,7 km	
+09:19	38,2	At 20, stay on A9 [E49] (North)	4,5 km	A9 / Kreuz Rippachtal / Berlin
+09:21	42,7	At E49, 06686 Dehlitz (Saale), stay on A9 [E49] (North-East)	3,0 km	
+09:22	45,8	Arrive 19		
+
+SUMMARY
+Driving distance:  45,8 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  50,94 kr
+
+
+Berliner Ring - Dessau
+2.5 km/1.2 km	1 min 15 s/0 min 36 s
+6.7 km/6.3 km	3 min 21 s/3 min 9 s
+1.5 km/2.3 km	0 min 45 s/1 min 9 s
+9.0 km/8.8 km	4 min 30 s/4 min 24 s
+3.0 km/3.6 km	1 min 30 s/1 min 48 s
+6.4 km/5.8 km	3 min 12 s/2 min 54 s
+7.0 km/8.4 km	3 min 30 s/4 min 12 s
+4.6 km/3.6 km	2 min 18 s/1 min 48 s
+4.0 km/3.4 km	2 min 0 s/1 min 42 s
+4.3 km/4.9 km	2 min 9 s/2 min 27 s
+1.9 km/1.6 km	57 s/48 s
+9.8 km/9.7 km	4 min 54 s/4 min 51 s
+2.7 km/3.1 km	1 min 21 s/1 min 33 s
+1.7 km/1.2 km	51 s/36 s
+0.9 km/1.3 km	27 s/39 s
+1.9 km/2.0 km	0 min 57 s/1 min 0 s
+3.1 km/3.3 km	1 min 33 s/1 min 39 s
+
+Dessau - Liepzig
+2.8 km/2.9 km	1 min 24 s/1 min 27 s
+6.8 km/6.4 km	3 min 24 s/3 min 12 s
+3.0 km/3.4 km	1 min 30 s/1 min 42 s
+10.3 km/10.2 km	5 min 9 s/5 min 6 s
+2.8 km/3.1 km	1 min 24 s/1 min 33 s
+5.7 km/6.2 km	2 min 51 s/3 min 6 s
+3.3 km/2.2 km	1 min 39 s/1 min 6 s
+4.3 km/4.7 km	2 min 9 s/2 min 21 s
+3.4 km/3.1 km	1 min 42 s/1 min 33 s
+3.6 km/4.8 km	1 min 48 s/2 min 24 s
+
+Liepzig - Rippachtal
+4.0 km/2.5 km	2 min 0 s/1 min 15 s
+1.9 km/2.1 km	0 min 57 s/1 min 3 s
+0.5 km/0.5 km	15 s/15 s
+3.1 km/4.0 km	1 min 33 s/2 min 0 s
+2.5 km/1.7 km	1 min 15 s/0 min 51 s
+2.8 km/2.5 km	1 min 24 s/1 min 15 s
+2.3 km/2.9 km	1 min 9 s/1 min 27 s
+7.5 km/8.3 km	3 min 45 s/4 min 9 s
+
+Resultat:
+4.2 km/3.0 km	2 min 6 s/1 min 30 s
+3.7 km/4.5 km	1 min 51 s/2 min 15 s
+8.8 km/8.7 km	4 min 24 s/4 min 21 s
+1.7 km/1.4 km	51 s/42 s
+6.3 km/5.7 km	3 min 9 s/2 min 51 s
+1.0 km/0.9 km	30 s/27 s
+9.3 km/9.4 km	4 min 39 s/4 min 42 s
+1.1 km/1.8 km	33 s/54 s
+6.2 km/5.3 km	3 min 6 s/2 min 39 s
+2.8 km/5.0 km	1 min 24 s/2 min 30 s

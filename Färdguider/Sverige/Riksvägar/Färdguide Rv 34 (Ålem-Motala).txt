@@ -1,0 +1,223 @@
+Färdguide Rv 34 (Ålem - Motala)
+================================
+
+Etapp 1: Ålem - 
+
+Korsning Ålem S
+ E22 n: Norrköping, Oskarshamn
+ E22 s: Kalmar
+ Påtaholm
+T-korsning Ålem S
+ Bäckebo, Rugstorp, Helgesbo
+ Bensinstation: Preem
+
+(Korsning Ålem station)
+ Ålemsblomman
+ Ålems Sparbank
+
+Korsning Rv 34/Skansvägen
+ Sågverk, Skjutbana
+ Järnhandel
+
+(Bro över Alsterå)
+T-korsning Gunnarström
+ Oskarshamn, Timmernabben
+Ålem Pizzeria & Restaurang
+
+T-korsning Rv 34/Bokvägen
+ ICA Nära
+
+(T-korsning Rv 34/Körsbärsvägen)
+
+(T-korsning Skäppentorp vsk)
+ Skäppentorpsvägen
+
+(T-korsning Rv 34/Gamla Byvägen)
+
+(Dubbel T-korsning Blomstermåla skola)
+
+(T-korsning Rv 34/Stationsgatan)
+ Blomstermåla station
+
+T-korsning Rv 34/Mönsteråsvägen
+ Mönsterås
+ Restaurang: Folkes Hus Pizzeria
+
+T-korsning Rv 34/Norbavägen
+ Rastplats
+
+Indian Cook Art Blomstermåla
+
+Dubbel T-korsning Salthäll
+ Företagarpark
+ Långehäll vandringsled
+
+Järnvägskorsning
+ Blomstermåla-Mönsterås
+
+T-korsning Sandbäckshult
+
+Mönsterås / Högsby: (57.034671,16.2585271)
+
+Korsning Värlebo väg 34
+ Fliseryd, Sibbetorp
+ Hornsö, Värlebo
+
+Infopunkt: (57.0693189,16.1905666)
+
+(T-korsning)
+ Idrottsplats
+
+T-korsning Långemåla väg 34
+ Hultsnäs, Långemåla kyrka
+
+Korsning Bötterum
+ Enskild väg, Långemåla hembygdsgård
+
+Korsning Ruda idrottsplats
+ Lokal väg
+
+T-korsning Rv 34/Oskarshamnsv.
+ Oskarshamn, Mönsterås, Fliseryd
+
+T-korsning Rv 34/Fader Uddes väg
+ Industri
+Järnvägskorsning
+ Stångådalsbanan
+T-korsning Rv 34/Järnvägsgatan
+ Folkets Hus, Hantverk
+(T-korsning Rv 34/Andrées väg)
+ Almasri group
+
+Matbutik: Handlarn
+Bensinstation: Q-star
+(T-korsning Rv 34/Smedvägen)
+
+T-korsning Rv 34/Sinnerbov.
+ Allgunnen, Aboda klint
+ Badplats, Restaurang, Vandringsled
+
+T-korsning Gatubäck (enskild väg)
+ Gillberga, Infotavla
+
+T-korsning Staby gårdshotell
+ Hotell: Staby gårdshotell
+Dubbel T-korsning Staby
+ Allgunnen, Aboda klint
+
+T-korsning Rv 34/Skansvägen
+ Deponeringsanläggning
+(Bro över Emån)
+
+Rondell Tingebro
+ Köpcentrum
+ Centrum
+
+T-korsning Coop Högsby
+	
+(Högsby biltvätt)
+T-korsning Rv 34/Karlavägen
+ Högsby station
+
+(T-korsning Rv 34/Torggatan)
+ ICA Nära, Systembolaget
+T-korsning Rv 34/Storgatan
+ Centrum (endast skyltad sydgående)
+Järnvägskorsning
+ Stångådalsbanan
+
+T-korsning Rv 34/Dr. Mobergers väg
+ Vårdcentral, Folktandvård
+
+Rondell 
+==============================================
+
+Rondell Glahytt
+ 37-47 ö: Oskarshamn, Bockara
+
+Etapp: Glahytt - Målilla ()
+
+T-korsning (enskild väg)
+(endast skyltad nordgående)
+
+Korsning (enskild väg)
+
+Rastplats Försjön
+(nordgående riktning)
+Högsby / Hultsfred
+(Korsning/Vid Påfart)
+
+Nödficka (nordgående): (57.2589403, 16.005621)
+
+T-korsning Sjöbo
+ Enskild väg
+(endast skyltad sydgående)
+
+T-korsning
+ Fågelfors
+
+Korsning (enskild väg)
+
+Nödficka (nordgående): (57.2922839212143, 15.929309594560143)
+
+Korsning (enskild väg)
+
+Korsning (enskild väg)
+
+T-korsning Mosshult
+ Kristdala
+ Mörlunda
+
+Järnvägsviadukt
+ Industrispår
+
+Järnvägsviadukt
+ Stångådalsbanan
+
+T-korsning St Sinnerstad
+ Mörlunda
+
+Korsning Stora Aby (enskild väg)
+ St Aby
+ Potatis Gårdsbutik
+
+T-korsning (enskild väg)
+(nordgående riktning)
+ Kampen
+
+T-korsning (enskild väg)
+(sydgående riktning)
+
+Dubbel T-korsning Rosenfors Rv 34
+ Rosenfors
+ L Sinnerstad
+
+Rastplats Rosenfors
+(sydgående riktning)
+
+Bro över Emån
+
+T-korsning (enskild väg)
+(endast förskyltad nordgående)
+ Kråkeryd
+
+Korsning (enskild väg)
+ Kvillerum, Hantverk
+ Motorstadion
+
+Bro över Emån
+(Mötesseparerad väg slutar/börjar)
+
+T-korsning Nyboholm
+ Emmenäs, Rosenfors
+ Motormuseum, Hembygdspark
+
+Rondell Målilla Rv 34
+ Centrum, Målilla hotell
+ 23: Växjö
+ 47 v: Jönköping, Vetlanda
+ Målilla kyrka
+ Bensinstation: INGO, Preem
+ Elbilsladdning: Virta
+
+Etapp: Målilla - Hultsfred ()

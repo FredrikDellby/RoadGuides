@@ -1,0 +1,35 @@
+T-korsning Ørje-vest
+ Fv843
+	0,5 km/0,5 km	26 s/26 s
+T-korsning Ørje-sentrum
+ 21 s: Halden
+ Bensinstasjon: Statoil
+
+Etapp 24: Ørje - Riksgrensen (6,0 km/6,1 km)
+	0,3 km/0,4 km	27 s/36 s
+T-korsning Ørje-nord
+ 21 n: Skotterud
+Bensinstasjon: Shell
+	0,8 km/0,7 km	58 s/50 s
+(Infoplats (västgående))
+T-korsning Ørje-øst
+(skyltat östgående)
+ Fv838	0,4 km/0,6 km	24 s/36 s
+
+T-korsning E18/Sletta
+ Industriområde
+T-korsning
+(skyltat västgående)
+ (Fv838)
+	0,8 km/0,7 km	48 s/42 s
+Parkeringsplats
+Trafikkontrollplats
+	1,7 km/1,7 km	1 min 27 s/1 min 27 s
+Rasteplass Brutjern
+	1,8 km/1,7 km	1 min 37 s/1 min 27 s
+Vägkrog/Minibank
+	0,3 km/0,4 km	22 s/29 s
+(Tollstasjon (västgående))
+Norge / Sverige
+Østfold / Värmland
+Marker / Årjäng

@@ -1,0 +1,179 @@
+Reseguide Lv 153 (Varberg - Skeppshult)
+========================================
+
+Etapp 1: Varberg - Åttabro (3,1 km/3,4 km)
+
+Rondell Lassebacka
+ [E6 n]: Göteborg
+ 41: Borås, Kinna
+Bensinstation: Statoil
+Restaurang: McDonald's
+					0.3 km/0.3 km	27 s/27 s
+Rondell 153/Lindbergsvägen
+					0.7 km/0.6 km	42 s/36 s
+Korsning Varberg Susvind
+					0.7 km/0.7 km	42 s/42 s
+Rondell 153/Österleden
+					0.8 km/0.8 km	48 s/48 s
+T-korsning 153/Tankvägen
+T-korsning
+ Träslöv
+					0.7 km/1.0 km	0 min 42 s/1 min 0 s
+Trp Åttabro (54)
+ E6 s: Malmö, Falkenberg
+ E6 n: Göteborg, Kungsbacka
+
+Etapp 2: Åttabro - Ullared (27,8 km/27,6 km)
+					0.8 km/0.5 km	41 s/26 s
+T-korsning Klastorp
+ Trönninge
+					1.6 km/1.6 km	1 min 22 s/1 min 22 s
+Korsning Klastorps by
+ Hunnestad
+					2.6 km/2.6 km	2 min 14 s/2 min 14 s
+T-korsning Gödestad
+ Grimeton
+					1.1 km/1.1 km	57 s/57 s
+T-korsning 153/Valingev.
+ Valinge
+					2.5 km/2.6 km	2 min 9 s/2 min 14 s
+T-korsning Havstorp
+ Grimeton
+Bensinstation: Preem
+					1.4 km/1.4 km	1 min 41 s/1 min 41 s
+Korsning Rolfstorp
+ Himle, Grimeton
+ Skällinge
+					0.4 km/0.4 km	29 s/29 s
+T-korsning Rolfstorp Ö
+ Himle
+					0.3 km/0.4 km	22 s/29 s
+T-korsning Rolfstorp K:a
+T-korsning
+ Svartrå
+					0.8 km/0.6 km	41 s/31 s
+T-korsning Hofgårds GK
+					6.7 km/6.7 km	5 min 45 s/5 min 45 s
+T-korsning Haksered
+ Knutsböke
+					0.4 km/0.4 km	21 s/21 s
+T-korsning
+ Källsjö
+					1.9 km/2.1 km	1 min 38 s/1 min 48 s
+Varberg / Falkenberg
+Korsning Borsthult
+ Skinnarlyngen
+					3.4 km/3.2 km	2 min 33 s/2 min 24 s
+T-korsning Flähult V
+ Fridhemsberg
+					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+T-korsning Yttre Hjältared
+ Källsjö
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+T-korsning
+ Svartrå
+					1.1 km/1.1 km	1 min 6 s/1 min 6 s
+Dubbel T-korsning Ullared
+ 154 s: Falkenberg
+ 154 n: Svenljunga, Älvsered
+
+Etapp 3: Ullared - Skeppshult (44,9 km/45,0 km)
+					6.1 km/6.0 km	4 min 35 s/4 min 30 s
+T-korsning Skällstorp
+ Okome
+					2.3 km/2.3 km	1 min 43 s/1 min 43 s
+T-korsning Gällared K:a
+					0.4 km/0.4 km	18 s/18 s
+Korsning Gällared
+ Vessigebro, Askome
+ Bredshult
+					6.7 km/6.9 km	5 min 2 s/5 min 11 s
+Rastplats Övarp
+T-korsning Gunnarstorpsv.
+ Gunnarstorp
+					1.3 km/1.1 km	1 min 18 s/1 min 6 s
+Korsning Ätran
+ Torup, Krogsered
+ Gunnarstorp
+					5.7 km/5.7 km	4 min 17 s/4 min 17 s
+Korsning Fegen V
+ Kalv
+					0.3 km/0.4 km	22 s/29 s
+Korsning Fegen C
+ Kinnared, Krogsered
+					3.9 km/4.0 km	2 min 56 s/3 min 0 s
+Halland / Jönköping
+Falkenberg / Gislaved
+Korsning Hökabäck
+ Gryteryd
+					5.5 km/5.4 km	4 min 8 s/4 min 3 s
+T-korsning
+ Sandvik
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Korsning
+ S. Hestra, Broaryd
+ Burseryd
+					1.1 km/1.1 km	50 s/50 s
+Järnvägskorsning
+					0.3 km/0.5 km	14 s/23 s
+Dubbel T-korsning Broaryd N
+ Broaryd
+ Smålandsstenar, Samseryd
+					5.6 km/5.4 km	4 min 12 s/4 min 3 s
+Korsning Skeppshult V
+ Skeppshult
+					0.1 km/0.3 km	5 s/15 s
+Järnvägsviadukt
+ Halmstad-Nässjö
+					1.8 km/1.8 km	33 s/33 s
+T-korsning Skeppshult S
+ 26 s: Halmstad, Hyltebruk
+ 26 n: Jönköping, Smålandsstenar
+ 153 ö: Värnamo
+
+Etapp 4: Skeppshult - Smålandsstenar, se Rv 26
+
+Etapp 5: Smålandsstenar - Bredaryd (22,2 km/23,5 km)
+
+Rondell Smålandsstenar C
+ 26 s: Halmstad, Skeppshult
+ 153 s: Varberg, Ullared
+ 26 n: Jönköping, Gislaved
+
+T-korsning 153/V. Järnvägs
+T-korsning 153/Ö. Järnvägs
+
+T-korsning Smålandsstenar Ö
+ Skeppshult, Ö. Kallset
+
+Korsning Nöbbele
+ Boaryd
+ Vä
+
+Rondell Reftele S
+ Reftele
+ Kållerstad
+
+T-korsning Reftele S
+ Ås
+
+T-korsning
+
+Gislaved / Värnamo
+
+T-korsning
+ Hamra
+
+T-korsning Hamravägen
+ Hamra
+
+T-korsning Bredaryd V
+ Bredaryd
+
+Rondell Bredaryd S
+ 152: Skillingaryd, Hillerstorp
+Bensinstation: OKQ8
+
+Rondell Rv 27/Lv 153
+ 27 s: Karlskrona, Värnamo
+ 27 n: Göteborg, Gislaved

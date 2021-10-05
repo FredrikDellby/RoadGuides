@@ -1,0 +1,170 @@
+Färdguide Rv 19 (Ystad - Vä)
+=============================
+
+Etapp 1: Ystad - Tomelilla (14,6 km/14,4 km)
+
+Rondell E65/Rv 19
+ E65 ö: Färja
+ [9 ö]: Simrishamn
+ E65 v: Malmö, Skurup
+ [9 v]: Trelleborg
+ [13]: Höör, Sjöbo
+T-korsning 19/Bussjövägen
+ Bussjö
+					0,9 km/0,7 km	46 s/36 s
+T-korsning Öjahill
+ Öja industri
+					0,5 km/0,5 km	23 s/23 s
+T-korsning Öja
+ Öja
+					3,2 km/3,4 km	2 min 45 s/2 min 55 s
+St Herrestad Gästgivaregård
+T-korsning St Herrestad
+					0,5 km/0,3 km	36 s/22 s
+T-korsning St Herrestad N
+					3,2 km/3,2 km	2 min 24 s/2 min 24 s
+Korsning Allevad
+					0,4 km/0,4 km	18 s/18 s
+Ystad / Tomelilla
+					0,4 km/0,4 km	18 s/18 s
+T-korsning
+					0,8 km/0,8 km	36 s/36 s
+Korsning Benestad
+					0,8 km/0,8 km	36 s/36 s
+T-korsning Benestad K:a
+					2,3 km/2,3 km	1 min 44 s/1 min 44 s
+T-korsning
+					1,4 km/1,4 km	1 min 3 s/1 min 3 s
+T-korsning Tosselilla
+ Nöjespark
+					0,4 km/0,4 km	21 s/21 s
+Rondell Svampakorset
+ 11 v: Simrishamn, Tomelilla
+ 11 ö: Malmö, Sjöbo
+
+Etapp 2: Tomelilla - Brösarp (23,8 km/23,7 km)
+					1,4 km/1,3 km	1 min 3 s/0 min 59 s
+Korsning Tryde Ö
+					0,4 km/0,4 km	18 s/18 s
+Korsning Tryde N
+					2,5 km/2,5 km	1 min 53 s/1 min 53 s
+T-korsning
+					1,0 km/1,0 km	45 s/45 s
+T-korsning
+					0,5 km/0,5 km	23 s/23 s
+Logi Gamlegård
+					0,9 km/0,9 km	41 s/41 s
+T-korsning Spjutstorpsvägen
+					1,1 km/1,1 km	50 s/50 s
+T-korsning Skåne-Tranås S
+					0,8 km/0,8 km	58 s/58 s
+Bensinstation: Q-star
+Korsning Skåne-Tranås
+					0,2 km/0,2 km	14 s/14 s
+T-korsning Skåne-Tranås N
+					3,1 km/3,1 km	2 min 20 s/2 min 20 s
+T-korsning 19/Bäretoftav.
+					1,7 km/2,0 km	1 min 17 s/1 min 30 s
+Trippel T-korsning Fågeltofta väg 19
+ Sankt Olof, Fågeltofta K:a
+ Månslunda
+ Bondrum
+					0,8 km/0,6 km	58 s/27 s
+T-korsning Bondrum N
+(skyltad sydgående riktning)
+ Bondrum
+					3,2 km/3,2 km	2 min 24 s/2 min 24 s
+T-korsning Eljaröd S
+					1,3 km/1,3 km	1 min 18 s/1 min 18 s
+T-korsning Eljaröd Ö
+					5,1 km/5,1 km	3 min 50 s/3 min 50 s
+Korsning Brösarp V
+ 9: Simrishamn, Kivik
+ Centrum
+ Rastplats Vägstationen
+
+Etapp 3: Brösarp - Lv 118 (9,9 km/10,1 km)
+					1,3 km/1,5 km	0 min 59 s/1 min 8 s
+T-korsning Torpabron
+(Tomelilla / Simrishamn)
+Parkeringsplats
+(sydgående riktning)
+					0,6 km/0,4 km	27 s/18 s
+T-korsning 19/Brösarps stationsv.
+					2,8 km/2,9 km	2 min 6 s/2 min 11 s
+Dubbel T-korsning Maglehem S
+					0,5 km/0,4 km	23 s/18 s
+Simrishamn / Kristianstad
+					1,0 km/0,9 km	45 s/41 s
+Trp Maglehem
+ Maglehem
+ S. Lökaröd
+					3,8 km/4,0 km	2 min 51 s/3 min 0 s
+Dubbel T-korsning
+ Olseröd
+ 118: Åhus
+
+Etapp 4: Lv 118 - Vä (19,0 km/18,9 km)
+					1,5 km/1,3 km	1 min 8 s/0 min 59 s
+T-korsning
+ Vittskövle
+					2,7 km/2,7 km	2 min 2 s/2 min 2 s
+T-korsning 19/Lökarödsv.
+					0,5 km/0,5 km	36 s/36 s
+T-korsning 19/Forsakarsv.
+					0,9 km/0,9 km	1 min 5 s/1 min 5 s
+Korsning 19/Skaddevägen
+					0,4 km/0,4 km	29 s/29 s
+T-korsning 19/Domarringsv.
+					2,4 km/2,4 km	1 min 48 s/1 min 48 s
+T-korsning (lokal väg)
+ ATA Timber Widtsköfle
+Korsning Eskilstorp
+ Vittskövle
+ Ö Sönnarslöv
+					5,0 km/5,0 km	3 min 45 s/3 min 45 s
+Parkeringsplats (ej skyltad)
+(Bussinfart)
+T-korsning (lokal väg)
+ Axeltorps Vårdhem
+
+Dubbel T-korsning Everöd V
+ Ö Sönnarslöv
+ Everöd, Toalett
+ Bensinstation: Q-star
+					0,9 km/1,0 km	41 s/45 s
+Trafikkontrollplats
+					1,6 km/1,4 km	1 min 12 s/1 min 3 s
+T-korsning Kristianstad Flygpl.
+ Kristianstad Österlen Airport
+					0,8 km/0,8 km	36 s/36 s
+T-korsning Lyngsjö S
+ Hommentorp
+					0,6 km/0,6 km	27 s/27 s
+Korsning Lyngsjö
+ Köpinge, Lyngsjö
+ Lyngsjö kyrka
+					1,3 km/1,3 km	59 s/59 s
+(Bro över Vramsån)
+
+T-korsning Nöbbelöv Stärkan
+ Lyckeby Starch AB
+					0,6 km/0,6 km	27 s/27 s
+T-korsning Nöbbelöv S
+ Tollarp, Ö Vram
+ Gasolkungen, Timber Trading
+					0.7 km/0.7 km	28 s/28 s
+Korsning Tings Nöbbelöv
+ Åhus, Gärds Köpinge
+ Träne, (Nöbbelöv)
+ Samåkningsparkering
+					0.6 km/0.7 km	24 s/28 s
+Korsning Rv 19/Adamsbergsv.
+ Enskild väg
+					0.5 km/0.4 km	20 s/16 s
+Korsning Rambro
+ Mosslunda
+					4.0 km/4.7 km	2 min 40 s/3 min 8 s
+Trp Nöbbelöv (35)
+ E22 n: Kalmar, Kristianstad
+ E22 s: Malmö, Hörby

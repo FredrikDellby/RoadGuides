@@ -1,0 +1,82 @@
+Färdguide Lv 162 Lysekil - Gläborg
+===================================
+
+Etapp 1: Lysekil - Lv 161 ()
+
+T-korsning Södra Hamnen
+
+T-korsning Lysekil station
+
+Rondell
+Bensinstation: Preem
+
+T-korsning 162/Landsvägsg.
+
+Rondell
+
+T-korsning 162/Dalskogsleden
+Bensinstation: Tanka
+
+T-korsning 162/Industrivägen
+Bensinstation: St1
+
+Korsning
+ 161: Uddevalla, Fiskebäckskil
+
+Etapp 2: Lv 161 - Hallinden ()
+
+Korsning Skal
+
+T-korsning Lyse S
+
+T-korsning Lyse N
+
+T-korsning Norrkilavägen
+
+T-korsning Häggvall
+
+T-korsning Gåseberg södra
+
+T-korsning Gåseberg norra
+
+Korsning Nolby
+
+(T-korsning)
+Rondell Brastad centrum
+
+Dubbel T-korsning
+Bensinstation: 1-2-3
+
+Korsning Stångenäsvallen
+
+T-korsning Grytebacken
+
+Korsning Brodalen
+Bensinstation: Preem
+
+T-korsning Bro kyrka
+
+Rondell Hallinden: (58.456714, 11.517622)
+ 171: Smögen, Kungshamn
+
+Etapp 3: Hallinden - Gläborg ()
+
+Pendelparkering Hallinden: (58.458422, 11.521725)
+
+(Järnvägsviadukt): (58.463177, 11.540777)
+ Lysekilsbanan
+T-korsning Hallindens kvarn: (58.463112, 11.541561)
+
+(T-korsning Gläborg): (58.482092, 11.572283)
+Lysekil / Munkedal: (58.482566, 11.572849)
+
+(Viadukt): (58.489349, 11.581145)
+ E6
+T-korsning Gläborg: (58.489778, 11.583318)
+ 165: Bullaren, Dingle
+
+Gläborgsmotet: (58.489119, 11.586478)
+ E6 s: Göteborg, Uddevalla
+ E6 n: Oslo, Strömstad
+ Håby
+Trafikkontrollplats: (58.488787, 11.589322)

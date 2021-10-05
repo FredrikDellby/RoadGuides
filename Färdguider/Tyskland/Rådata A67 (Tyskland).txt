@@ -1,0 +1,90 @@
+Time	Km	Instruction	For	Toward
+Summary:  25,2 kilometres (12 minutes)
+09:00	0,0	Depart 48 on E35 [E42] (East)	2,7 km	A67 / B43 / Basel / Stuttgart / Darmstadt / Raunheim
+09:01	2,7	Road name changes to A67 [E35]	2,3 km	
+09:02	5,0	At E35, 65428 Rüsselsheim, stay on A67 [E35] (South-West)	1,5 km	
+09:03	6,5	At 2, stay on A67 [E35] (South)	1,3 km	
+09:04	7,8	At 3, stay on A67 [E35] (South)	5,8 km	A67 / Basel / Heidelberg / Stuttgart / Darmstadt
+09:06	13,5	At 4, stay on A67 [E35] (South-East)	4,0 km	
+09:08	17,5	At 5, stay on A67 [E35] (South-East)	2,3 km	
+09:09	19,8	At E35, 64572 Büttelborn, stay on A67 [E35] (South-East)	4,2 km	
+09:11	24,0	At 6, stay on A67 [E35] (South-East)	1,2 km	
+09:12	25,2	Arrive 6		
+
+SUMMARY
+Driving distance:  25,2 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  31,99 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  23,1 kilometres (10 minutes)
+09:00	0,0	Depart 6 on A67 (North)	1,5 km	A67 / Köln / Wiesbaden / Mainz / Darmstadt
+09:00	1,5	At 6, stay on A67 [E35] (North-West)	9,9 km	
+09:05	11,4	At 4, stay on A67 [E35] (West)	4,9 km	Angoulême / Nantes / Paris / Libourne
+09:07	16,3	At 3, stay on A67 [E35] (North)	2,2 km	
+09:08	18,5	At 2, stay on A67 [E35] (North)	2,6 km	
+09:09	21,1	At E35, 65479 Raunheim, stay on A67 [E35] (North-East)	2,0 km	
+09:10	23,1	Arrive 1		
+
+SUMMARY
+Driving distance:  23,1 kilometres
+Trip duration:  10 minutes
+Driving time:  10 minutes
+Cost:  25,66 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,3 kilometres (16 minutes)
+09:00	0,0	Depart 6 on A67 (South)	5,3 km	A67 / Stuttgart / Mannheim / Saarbrücken
+09:02	5,3	At near Eschollbrücken, stay on A67 [E451] (South)	1,6 km	
+09:03	6,8	At 7, keep STRAIGHT to stay on A67 [E451]	6,7 km	
+09:06	13,5	At 8, stay on A67 [E451] (South)	5,4 km	
+09:08	18,9	At E451, 64683 Einhausen, stay on A67 [E451] (South)	3,8 km	
+09:10	22,7	At 9, stay on A67 [E451] (South)	2,1 km	
+09:11	24,8	At E451, 64653 Lorsch, stay on A67 [E451] (South)	5,5 km	
+09:14	30,3	At E451, 68623 Lampertheim, stay on A67 [E451] (South)	4,0 km	
+09:16	34,3	Arrive 10		
+
+SUMMARY
+Driving distance:  34,3 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  43,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,3 kilometres (16 minutes)
+09:00	0,0	Depart 25 on A67 [E451] (North)	10,5 km	A67 / Hannover / Frankfurt / Köln / Darmstadt
+09:04	10,5	At E451, 64653 Lorsch, stay on A67 [E451] (North)	1,6 km	
+09:05	12,1	At 9, stay on A67 [E451] (North)	4,2 km	
+09:07	16,4	At E451, 64683 Einhausen, stay on A67 [E451] (North)	5,3 km	
+09:10	21,7	At 8, stay on A67 [E451] (North)	7,2 km	
+09:13	28,8	At 7, stay on A67 [E451] (North)	0,9 km	
+09:13	29,7	At E451, 64319 Pfungstadt, stay on A67 [E451] (North)	5,6 km	
+09:16	35,3	Arrive 6		
+
+SUMMARY
+Driving distance:  35,3 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  39,28 kr
+
+Mönchhof (1) - Darmstadt (6)
+5.0 km/2.0 km	3 min 0 s/1 min 12 s
+3.8 km/2.0 km	2 min 17 s/1 min 12 s
+1.5 km/2.6 km	0 min 54 s/1 min 34 s
+1.3 km/2.2 km	0 min 47 s/1 min 19 s
+5.8 km/4.9 km	3 min 29 s/2 min 56 s
+4.0 km/3.1 km	2 min 24 s/1 min 52 s
+2.3 km/2.8 km	1 min 23 s/1 min 41 s
+4.2 km/4.0 km	2 min 31 s/2 min 24 s
+1.2 km/1.5 km	0 min 43 s/0 min 54 s
+
+Darmstadt (6) - Viernheim (10)
+5.3 km/5.6 km	2 min 53 s/3 min 3 s
+1.6 km/0.9 km	0 min 52 s/0 min 29 s
+6.7 km/7.2 km	3 min 39 s/3 min 56 s
+5.4 km/5.3 km	2 min 57 s/2 min 53 s
+3.8 km/4.2 km	2 min 4 s/2 min 17 s
+2.1 km/1.6 km	1 min 9 s/0 min 52 s
+5.5 km/5.3 km	3 min 0 s/2 min 53 s
+4.0 km/5.2 km	2 min 11 s/2 min 50 s

@@ -1,0 +1,51 @@
+Time	Km	Instruction	For	Toward
+Summary:  57,0 kilometres (44 minutes)
+09:00	0,0	Depart Bergslagsdiagonalen, 711 91 Lindesberg on Local road(s) (North)	80 m	
+09:00	0,1	Bear RIGHT (East) onto 68	0,1 km	
+09:00	0,2	Turn LEFT to stay on 68	1,9 km	
+09:01	2,1	At T-korsning Lövåsen, stay on 68 (North)	1,3 km	
+09:02	3,4	At Korsning Gusselby södra, stay on 68 [Östra Gusselby] (North-East)	1,0 km	
+09:03	4,4	At T-korsning Gusselhyttan, stay on 68 (North-East)	11,0 km	
+09:11	15,4	At Korsning Morskoga, stay on 68 (North-East)	6,0 km	
+09:16	21,4	At T-korsning Hägernäs, stay on 68 (North-East)	5,5 km	
+09:20	27,0	At near Norra Allmänningbo, stay on 68 (East)	1,6 km	
+09:21	28,5	At T-korsning Forsen, stay on 68 (North)	3,6 km	
+09:24	32,1	At T-korsning Riddarhyttan, stay on 68 [Fagerstavägen] (North-West)	4,0 km	
+09:28	36,1	At T-korsning Bäckegruvans vsk, stay on 68 (East)	7,5 km	
+09:34	43,5	At Korsning Kärrbo vsk, stay on 68 (East)	1,6 km	
+09:35	45,1	At T-korsning Övre Sundet, stay on 68 (North-East)	3,8 km	
+09:38	49,0	At near Kalvänge, stay on 68 (East)	0,5 km	
+09:38	49,5	At 68, 739 91 Skinnskatteberg, stay on 68 (North-West)	7,5 km	
+09:44	57,0	Arrive Korsning Hedkärra		
+
+SUMMARY
+Driving distance:  57,0 kilometres
+Trip duration:  44 minutes
+Driving time:  44 minutes
+Cost:  66,54 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  56,8 kilometres (44 minutes)
+09:00	0,0	Depart 66 75, 737 92 Hedkärra on 66 [68] (South)	30 m	
+09:00	0,1	Keep STRAIGHT onto 68 [Köpingsvägen]	7,5 km	
+09:05	7,6	At 68, 737 92 Skinnskatteberg, stay on 68 (South)	0,5 km	
+09:06	8,1	At near Kalvänge, stay on 68 (West)	3,8 km	
+09:09	11,9	At T-korsning Övre Sundet, stay on 68 (South-West)	1,6 km	
+09:10	13,5	At Korsning Kärrbo vsk, stay on 68 (West)	7,5 km	
+09:15	20,9	At T-korsning Bäckegruvans vsk, stay on 68 (West)	4,0 km	
+09:19	24,9	At T-korsning Riddarhyttan, stay on 68 [Fagerstavägen] (South)	3,6 km	
+09:22	28,5	At T-korsning Forsen, stay on 68 (South)	1,6 km	
+09:23	30,1	At near Norra Allmänningbo, stay on 68 (West)	5,5 km	
+09:27	35,6	At T-korsning Hägernäs, stay on 68 (South-West)	6,0 km	
+09:32	41,6	At Korsning Morskoga, stay on 68 [Morskoga Erikslund] (West)	11,0 km	
+09:40	52,6	At T-korsning Gusselhyttan, stay on 68 (South-West)	1,0 km	
+09:41	53,6	At Korsning Gusselby södra, stay on 68 [Östra Gusselby] (West)	1,3 km	
+09:42	55,0	At T-korsning Lövåsen, stay on 68 (South)	1,9 km	
+09:44	56,8	Arrive T-korsning Lindesberg N		
+
+SUMMARY
+Driving distance:  56,8 kilometres
+Trip duration:  44 minutes
+Driving time:  44 minutes
+Cost:  66,38 kr
+

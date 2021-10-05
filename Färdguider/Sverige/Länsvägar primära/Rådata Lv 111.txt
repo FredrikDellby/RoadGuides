@@ -1,0 +1,119 @@
+Time	Km	Instruction	For	Toward
+Summary:  7,0 kilometres (5 minutes)
+09:00	0,0	Depart Österleden, 253 61 Helsingborg on Local road(s) (North-East)	40 m	
+09:00	0,1	Bear RIGHT (North) onto 111 [Österleden]	1,3 km	
+09:01	1,3	At T-korsning 111/Clausgatan, stay on 111 [Österleden] (North)	0,3 km	
+09:01	1,6	At T-korsning 111/Påarpsv., stay on 111 [Österleden] (North)	1,0 km	
+09:02	2,6	At Korsning 111/Fältarpsv., stay on 111 [Österleden] (North)	2,0 km	
+09:03	4,6	At T-korsning 111/N. Hunnetorpsv., stay on 111 [Österleden] (North)	0,8 km	
+09:04	5,4	At Korsning 111/Vasatorpsv., stay on 111 [Österleden] (North)	0,8 km	
+09:04	6,3	At Österleden, 254 64 Helsingborg, stay on 111 [Österleden] (North)	0,7 km	
+09:05	7,0	Arrive Österleden, 254 65 Helsingborg		
+
+SUMMARY
+Driving distance:  7,0 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  12,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,8 kilometres (5 minutes)
+09:00	0,0	Depart 111, 254 66 Helsingborg on Local road(s) (South)	0,2 km	RÅÅ
+09:00	0,2	Bear RIGHT (East) onto 111 [Österleden]	0,1 km	RÅÅ
+09:00	0,3	At Österleden, 254 65 Helsingborg, stay on 111 [Österleden] (South-East)	1,4 km	
+09:01	1,7	At Korsning 111/Vasatorpsv., stay on 111 [Österleden] (South)	0,8 km	
+09:02	2,6	At T-korsning 111/N. Hunnetorpsv., stay on 111 [Österleden] (South)	2,0 km	
+09:03	4,6	At Korsning 111/Fältarpsv., stay on 111 [Österleden] (South)	1,0 km	
+09:04	5,6	At T-korsning 111/Påarpsv., stay on 111 [Österleden] (South)	0,3 km	
+09:04	5,8	At T-korsning 111/Clausgatan, stay on 111 [Österleden] (South)	1,0 km	
+09:05	6,8	Arrive 111, 253 60 Helsingborg		
+
+SUMMARY
+Driving distance:  6,8 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  11,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,2 kilometres (17 minutes)
+09:00	0,0	Depart Österleden, 254 65 Helsingborg on Local road(s) (North)	0,2 km	Höganäs / Berga Norra
+09:00	0,2	Bear RIGHT (West) onto 111	0,3 km	Höganäs / Berga Norra
+09:00	0,5	At 111, 254 67 Helsingborg, stay on 111 (North-West)	0,9 km	
+09:01	1,4	At 111, 254 66 Helsingborg, keep STRAIGHT to stay on 111	1,4 km	
+09:02	2,8	At 111, 255 91 Helsingborg, keep STRAIGHT to stay on 111	1,4 km	
+09:03	4,2	At T-korsning Laröd Lv111, stay on 111 (West)	3,5 km	
+09:06	7,6	At T-korsning Kulla Gunnarstorp, stay on 111 (North-West)	2,8 km	
+09:08	10,4	At T-korsning Domsten N, stay on 111 (West)	0,4 km	
+09:08	10,8	At T-korsning Grå Läge, stay on 111 (North-West)	1,1 km	
+09:09	11,9	At roundabout, take the FIRST exit onto 111	1,1 km	
+09:10	12,9	At T-korsning Viken Ö, stay on 111 (North)	1,9 km	
+09:11	14,8	At 111, 260 40 Viken, stay on 111 (North-West)	1,9 km	
+09:13	16,7	At roundabout, take the SECOND exit onto 111 [Höganäsvägen]	1,1 km	
+09:14	17,8	At T-korsning Lerberget N, stay on 111 [Höganäsvägen] (North)	1,6 km	
+09:16	19,5	At Korsning Kullagymnasiet, stay on 111 [Höganäsvägen] (North)	0,4 km	
+09:17	19,9	At roundabout, take the SECOND exit onto 111	0,3 km	
+09:17	20,2	Arrive 111, 263 38 Höganäs		
+
+SUMMARY
+Driving distance:  20,2 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  25,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,1 kilometres (17 minutes)
+09:00	0,0	Depart 111, 263 38 Höganäs on Local road(s) (South-East)	10 m	
+09:00	0,1	Bear RIGHT (South) onto 111	0,3 km	
+09:00	0,3	At roundabout, take the THIRD exit onto 111 [Höganäsvägen]	0,5 km	
+09:01	0,8	At Korsning Kullagymnasiet, stay on 111 [Höganäsvägen] (South)	1,6 km	
+09:03	2,4	At T-korsning Lerberget N, stay on 111 [Höganäsvägen] (South)	1,0 km	
+09:04	3,5	At roundabout, take the THIRD exit onto 111	1,7 km	
+09:05	5,2	At 111, 260 40 Viken, stay on 111 (East)	2,1 km	
+09:07	7,3	At T-korsning Viken Ö, stay on 111 (South)	1,1 km	
+09:07	8,3	At roundabout, take the SECOND exit onto 111	1,1 km	
+09:08	9,5	At T-korsning Grå Läge, stay on 111 (South-East)	0,4 km	
+09:09	9,9	At T-korsning Domsten N, stay on 111 [Christinelundsvägen] (East)	2,8 km	
+09:11	12,6	At T-korsning Kulla Gunnarstorp, stay on 111 (South-East)	3,5 km	
+09:13	16,1	At T-korsning Laröd Lv111, stay on 111 (East)	1,3 km	
+09:14	17,4	At 111, 255 91 Helsingborg, keep STRAIGHT to stay on 111	1,1 km	
+09:15	18,5	At 111, 255 91 Helsingborg, stay on 111 (South-East)	1,2 km	
+09:16	19,7	At 111, 254 67 Helsingborg, stay on 111 (South-East)	0,4 km	
+09:17	20,1	Arrive 111, 254 66 Helsingborg		
+
+SUMMARY
+Driving distance:  20,1 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  25,11 kr
+
+1.3 km/1.0 km	1 min 7 s/0 min 51 s
+0.3 km/0.3 km	15 s/15 s
+1.0 km/1.0 km	51 s/51 s
+2.0 km/2.0 km	1 min 43 s/1 min 43 s
+0.8 km/0.8 km	41 s/41 s
+0.8 km/1.4 km	0 min 41 s/1 min 12 s
+0.7 km/0.3 km	36 s/15 s
+
+Resultat:
+0.5 km/0.4 km	23 s/18 s
+0.9 km/1.2 km	41 s/54 s
+
+1.4 km/1.1 km	56 s/44 s
+1.4 km/1.3 km	56 s/52 s
+3.5 km/3.5 km	2 min 20 s/2 min 20 s
+2.8 km/2.8 km	1 min 52 s/1 min 52 s
+
+Resultat:
+0.4 km/0.4 km	18 s/18 s
+1.1 km/1.1 km	50 s/50 s
+
+1.1 km/1.1 km	44 s/44 s
+1.9 km/2.1 km	1 min 16 s/1 min 24 s
+1.9 km/1.7 km	1 min 16 s/1 min 8 s
+
+Resultat:
+1.1 km/1.0 km	1 min 6 s/1 min 0 s
+1.6 km/1.6 km	1 min 36 s/1 min 36 s
+
+0.4 km/0.5 km	29 s/36 s
+0.3 km/0.3 km	22 s/22 s

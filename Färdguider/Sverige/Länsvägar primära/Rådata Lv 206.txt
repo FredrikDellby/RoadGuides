@@ -1,0 +1,113 @@
+Time	Km	Instruction	For	Toward
+Summary:  13,7 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Rv 50/Lv 206 on Skänningevägen (East)	0,4 km	
+09:00	0,4	At near Vadstena, stay on Skänningevägen (South-East)	0,8 km	
+09:01	1,2	Bear LEFT (East) onto Local road(s)	10 m	
+09:01	1,2	Bear RIGHT (East) onto Skänningevägen	50 m	
+09:01	1,3	Road name changes to 206	1,3 km	
+09:03	2,5	At T-korsning Börstad, stay on 206 (East)	1,7 km	
+09:04	4,2	At T-korsning, stay on 206 (East)	0,3 km	
+09:05	4,5	At 206, 592 94 Vadstena, stay on 206 (East)	2,0 km	
+09:07	6,5	At T-korsning Fivelstad K:a, stay on 206 (East)	2,5 km	
+09:09	9,0	At 206, 596 91 Skänninge, stay on 206 (East)	0,4 km	
+09:10	9,4	At T-korsning Fågelstavägen, stay on 206 (East)	1,8 km	
+09:11	11,2	At T-korsning Hagalund Mjölby, stay on 206 (South-East)	1,8 km	
+09:13	12,9	At near Skänninge, stay on 206 (East)	0,4 km	
+09:13	13,3	At T-korsning Lv 206/Motalag., stay on 206 (East)	0,3 km	
+09:14	13,7	Arrive T-korsning Rv 32/Lv 206		
+
+SUMMARY
+Driving distance:  13,7 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  19,59 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,6 kilometres (14 minutes)
+09:00	0,0	Depart T-korsning Skänninge NO on 206 (West)	0,3 km	
+09:00	0,3	At T-korsning Lv 206/Motalag., stay on 206 (West)	0,4 km	
+09:00	0,8	At near Skänninge, stay on 206 (West)	1,8 km	
+09:02	2,5	At T-korsning Hagalund Mjölby, stay on 206 (North-West)	1,8 km	
+09:04	4,3	At T-korsning Fågelstavägen, stay on 206 (North-West)	0,4 km	
+09:04	4,7	At 206, 596 Skänninge, stay on 206 (West)	2,5 km	
+09:07	7,2	At T-korsning Fivelstad K:a, stay on 206 (West)	2,0 km	
+09:09	9,2	At 206, 592 Vadstena, stay on 206 (West)	0,3 km	
+09:09	9,5	At T-korsning, stay on 206 (North-West)	1,7 km	
+09:11	11,2	At T-korsning Börstad, stay on 206 (West)	1,3 km	
+09:12	12,4	Road name changes to Skänningevägen	50 m	
+09:12	12,5	Bear LEFT (West) onto Local road(s)	10 m	
+09:12	12,5	Bear RIGHT (West) onto Skänningevägen	0,6 km	
+09:13	13,1	At Skänningevägen, 592 Vadstena, stay on Skänningevägen (West)	0,5 km	
+09:14	13,6	Arrive T-korsning Rv 50/Lv 206		
+
+SUMMARY
+Driving distance:  13,6 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  17,05 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,8 kilometres (12 minutes)
+09:00	0,0	Depart T-korsning Rv 32/Lv 206 on 32 (South)	1,1 km	
+09:00	1,1	At roundabout, take the THIRD exit onto 206	0,8 km	
+09:01	1,9	At T-korsning, stay on 206 (East)	2,8 km	
+09:04	4,7	At Korsning, stay on 206 (East)	1,3 km	
+09:05	6,0	At Korsning, stay on 206 (East)	0,8 km	
+09:06	6,8	At T-korsning Öjebro, stay on 206 (East)	0,4 km	
+09:07	7,2	At T-korsning, stay on 206 (East)	2,8 km	
+09:10	10,0	At Korsning Gottlösa, stay on 206 (East)	2,8 km	
+09:12	12,8	Arrive T-korsning Lv 206/Ulje		
+
+SUMMARY
+Driving distance:  12,8 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  15,61 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,4 kilometres (13 minutes)
+09:00	0,0	Depart near Mantorp on Local road(s) (North)	0,1 km	
+09:00	0,1	Keep STRAIGHT onto 206	3,2 km	
+09:03	3,3	At T-korsning Gottlösa, stay on 206 (West)	2,9 km	
+09:06	6,2	At T-korsning, stay on 206 (West)	0,3 km	
+09:07	6,6	At T-korsning Öjebro, stay on 206 (West)	0,8 km	
+09:08	7,4	At Korsning, stay on 206 (West)	1,3 km	
+09:09	8,7	At Korsning, stay on 206 (West)	2,8 km	
+09:12	11,5	At T-korsning, stay on 206 (West)	0,7 km	
+09:12	12,2	At roundabout, take the FIRST exit onto 32	1,1 km	
+09:13	13,4	Arrive T-korsning Rv 32/Lv 206		
+
+SUMMARY
+Driving distance:  13,4 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  18,41 kr
+
+Rv 50/Lv 206 - Industrigatan
+0.4 km/0.5 km	0 min 29 s/0 min 36 s
+
+Industrigatan - Fivelstad
+2.1 km/1.9 km	2 min 6 s/1 min 54 s
+1.7 km/1.7 km	1 min 42 s/1 min 42 s
+0.3 km/0.3 km	0 min 18 s/0 min 18 s
+2.0 km/2.0 km	2 min 0 s/2 min 0 s
+
+Fivelstad - Rv 32/Lv 206
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+1.8 km/1.8 km	1 min 33 s/1 min 33 s
+1.8 km/1.8 km	1 min 33 s/1 min 33 s
+0.4 km/0.4 km	0 min 21 s/0 min 21 s
+0.3 km/0.3 km	0 min 15 s/0 min 15 s
+
+Rv 32/Lv 206 - Skänninge Ö
+1.1 km/1.1 km	0 min 57 s/0 min 57 s	70
+
+Skänninge Ö - Trp Mantorp
+0.8 km/0.7 km	0 min 36 s/0 min 31 s	80
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+0.8 km/0.8 km	0 min 36 s/0 min 36 s
+0.4 km/0.3 km	0 min 18 s/0 min 14 s
+2.8 km/2.9 km	2 min 6 s/2 min 11 s
+2.8 km/3.3 km	2 min 6 s/2 min 28 s

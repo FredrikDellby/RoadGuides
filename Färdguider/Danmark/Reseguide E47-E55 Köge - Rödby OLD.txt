@@ -1,0 +1,125 @@
+Reseguide E47-E55 Köge-Rödbyhavn (Sydmotorvejen)
+================================================
+
+Dr. Köge-Vest
+ E20: Odense
+ E20-E47-E55: Köbenhavn
+					2,4 km/2,9 km
+Avfart 33 (Lellinge)
+ Köge
+ [E20]: Odense
+Bensinstation: OK
+					2,8 km/2,5 km
+Parkeringsplads
+					4,4 km/4,0 km
+Parkeringsplads (nordgående)
+					1,7 km/2,5 km
+Avfart 34 (Herfölge)
+ 151: Köge S
+					1,9 km/0,8 km
+Roskilde / Storström
+					2,2 km/2,6 km
+Rasteplads (sydgående)
+					1,9 km/2,0 km
+Avfart 35 (Haslev)
+(avfart sydgående riktning
+ påfart norgående riktning)
+					2,1 km/4,3 km
+Rasteplads Piberhus
+					5,0 km/2,8 km
+Avfart 36 (Dalby)
+ 269: Ringsted, Haslev
+(avfart nordgående riktning
+ påfart sydgående riktning)
+					2,7 km/3,4 km
+Avfart 37 (Rönnede)
+ 54: Nästved
+					4,8 km/4,0 km
+Rönnede / Fladså
+					5,9 km/7,1 km
+Avfart 38 (Tappernöje)
+Rasteplads Tappernöje
+Bensinstation: Statoil
+					4,1 km/3,0 km
+Fladså / Prästö
+					0,8 km/1,2 km
+Avfart 39 (Bårse)
+ 256: Prästö
+					2,9 km/2,5 km
+Prästö / Vorningborg
+					3,3 km/4,2 km
+Avfart 40: Udby
+ 151: Vordingborg
+Bensinstation: Q8
+					4,9 km/4,0 km
+Örslevvej
+					4,1 km/5,1 km
+Avfart 41: Vordingborg
+					4,1 km/3,1 km
+Farø-Falsterbron nordre
+					1,5 km/2,3 km
+Avfart 42: Farø
+Rasteplads Farø
+					2,5 km/1,7 km
+Farø-Falsterbron søndre
+					5,0 km/6,0 km
+Avfart 43: Nørre Alslev
+					4,2 km/3,2 km
+Järnvägskorsning
+					2,3 km/3,2 km
+Avfart 44: Eskilstrup
+ E55: Gedser
+Restaurang: Höjmölle Kro
+					2,1 km/1,8 km
+Rasteplads Dronninghave Øst
+(nordgående riktning)
+					2,8 km/2,6 km
+Guldborgsundstunnelen
+Nørre Alslev / Sakskøbing
+					3,4 km/3,9 km
+Avfart 45: Guldborg
+ Majbølle
+					2,7 km/2,6 km
+Rasteplads Studehave Vest
+(sydgående riktning)
+					4,3 km/3,5 km
+Järnvägskorsning
+					0,9 km/0,6 km
+Avfart 46: Sakskøbing
+ 9: Nykøbing F
+					1,9 km/2,7 km
+Parkeringsplads (sydgående)
+					2,9 km/2,6 km
+Avfart 47: Forneby
+ Maribo
+(avfart sydgående riktning
+ påfart nordgående riktning)
+					2,7 km/0,9 km
+Järnvägskorsning
+					1,3 km/1,2 km
+Sakskøbing / Maribo
+					3,3 km/3,3 km
+Järnvägskorsning	
+					0,9 km/1,2 km
+Avfart 48: Maribo
+ 9: Nakskov
+Bensinstation: JET, Statoil
+					1,4 km/1,1 km
+Järnvägskorsning
+					2,4 km/2,4 km
+Rasteplads (nordgående)
+					1,7 km/1,9 km
+Rasteplads (sydgående)
+					1,7 km/1,3 km
+Maribo / Rødby
+					1,5 km/1,8 km
+Avfart 49: Holeby
+ Rødby
+					5,4 km/5,2 km
+Rasteplads (nordgående)
+					2,0 km/2,8 km
+Avfart 50: Rødbyhavn
+Bensinstation: DK-benzin, Statoil
+Betalstation, Scandlines
+					1,6 km/0,6 km
+Rødby-Puttgarden

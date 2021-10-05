@@ -1,0 +1,398 @@
+Time	Km	Instruction	For	Toward
+Summary:  10,6 kilometres (5 minutes)
+09:00	0,0	Depart E314, 6422 Heerlen on A76 [E314] (South)	0,2 km	
+09:00	0,2	Entering Germany		
+09:00	0,2	Road name changes to A4 [E314]	3,9 km	
+09:01	4,1	At 2, stay on A4 [E314] (East)	2,3 km	
+09:03	6,4	At 3, stay on A4 [E314] (East)	2,1 km	
+09:03	8,6	At E314, 52080 Aachen, stay on A4 [E314] (East)	2,0 km	
+09:05	10,6	Arrive E314, 52080 Aachen		
+
+SUMMARY
+Driving distance:  10,6 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  12,00 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,3 kilometres (5 minutes)
+09:00	0,0	Depart 4 on A4 [E40] (West)	2,5 km	A4 / A44 / Eindhoven / Heerlen / Aachen / Brüssel / Liège / Düsseldorf
+09:01	2,5	At E314, 52080 Aachen, stay on A4 [E314] (West)	2,5 km	
+09:02	5,0	At 3, stay on A4 [E314] (West)	2,5 km	
+09:04	7,5	At 2, stay on A4 [E314] (West)	3,8 km	
+09:05	11,3	Arrive E314, 52072 Aachen		
+
+SUMMARY
+Driving distance:  11,3 kilometres
+Trip duration:  5 minutes
+Driving time:  5 minutes
+Cost:  12,83 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  52,0 kilometres (25 minutes)
+09:00	0,0	Depart E314, 52080 Aachen on A4 [Autobahnkreuz Aachen] (East)	3,9 km	A4 / A44 / KÖLN / Krefeld / Düsseldorf / Lüttich / Liège
+09:02	3,9	At E40, 52249 Eschweiler, stay on A4 [E40] (North-East)	2,3 km	
+09:03	6,2	At 5A, stay on A4 [E40] (East)	3,4 km	A4 / KÖLN / Weisweiler
+09:04	9,6	At 5B, keep STRAIGHT to stay on A4 [E40]	2,1 km	
+09:05	11,8	At 6, stay on A4 [E40] (East)	7,1 km	
+09:09	18,9	At E40, 52353 Düren, stay on A4 [E40] (East)	2,5 km	
+09:10	21,4	At 7, stay on A4 [E40] (East)	5,7 km	A4 / KÖLN / Buir
+09:13	27,1	At E40, 52382 Niederzier, stay on A4 [E40] (North-East)	2,9 km	
+09:15	29,9	At E40, 52399 Merzenich, stay on A4 [E40] (East)	1,1 km	
+09:15	31,1	At 8, stay on A4 [E5] (East)	4,2 km	
+09:17	35,3	At E5, 50170 Kerpen, stay on A4 [E5] (East)	3,9 km	
+09:19	39,2	At 9, stay on A4 [E40] (East)	8,1 km	A4 / Olpe / KÖLN / Kreuz KÖLN-West
+09:23	47,3	At E40, 50226 Frechen, stay on A4 [E40] (East)	2,9 km	
+09:25	50,2	At 9B, stay on A4 [E40] (East)	1,8 km	
+09:25	52,0	Arrive 10		
+
+SUMMARY
+Driving distance:  52,0 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  58,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  52,1 kilometres (24 minutes)
+09:00	0,0	Depart A4, 50858 KÖLN on A4 [E40] (West)	3,0 km	A4 / A1 / Aachen / Euskirchen / Frechen
+09:01	3,0	At E40, 50226 Frechen, stay on A4 [E40] (West)	2,6 km	
+09:02	5,6	At E40, 50226 Frechen, stay on A4 [E40] (West)	6,9 km	
+09:05	12,4	At 9, stay on A4 [E40] (South-West)	5,0 km	A4 / Brüssel / Eindhoven / Aachen
+09:08	17,5	At E5, 50189 Elsdorf, stay on A4 [E5] (West)	4,3 km	
+09:10	21,8	At 8, stay on A4 [E5] (West)	1,0 km	
+09:10	22,8	At Golzheimer Bürge, stay on A4 [E40] (West)	3,0 km	
+09:12	25,9	At E40, 52382 Niederzier, stay on A4 [E40] (South-West)	5,8 km	
+09:14	31,7	At 7, stay on A4 [E40] (West)	2,3 km	A4 / Aachen / Weisweiler
+09:15	34,0	At E40, 52353 Düren, stay on A4 [E40] (West)	6,8 km	
+09:18	40,8	At 6, stay on A4 [E40] (West)	2,7 km	
+09:20	43,5	At 5B, keep RIGHT to stay on A4 [E40]	3,3 km	
+09:21	46,8	At 5A, stay on A4 [E40] (West)	2,2 km	A4 / Eindhoven / Kreuz Aachen
+09:22	48,9	At E40, 52249 Eschweiler, stay on A4 [E40] (South-West)	3,1 km	
+09:24	52,1	Arrive 4		
+
+SUMMARY
+Driving distance:  52,1 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  58,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,7 kilometres (9 minutes)
+09:00	0,0	Depart 10 on A4 [E40] (East)	6,0 km	A4 / Frankfurt A.M. / Olpe / KÖLN
+09:03	6,0	At 11, stay on A4 [E40] (South-East)	3,9 km	A4 / Frankfurt A.M. / Olpe / Bonn / Containerbahnhof Eifeltor
+09:05	9,9	At 12, stay on A4 [E40] (East)	3,8 km	A4 / Frankfurt A.M. / Olpe / Oberhausen / Flughafen KÖLN/Bonn
+09:07	13,7	At 13, stay on A4 [E40] (North-East)	1,8 km	A4 / Frankfurt A.M. / Olpe / Kreuz Gremberg
+09:08	15,5	At 14, stay on A4 [E40] (East)	2,2 km	A4 / Frankfurt A.M. / Olpe / Oberhausen / Dreieck Heumar
+09:09	17,7	Arrive 15		
+
+SUMMARY
+Driving distance:  17,7 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  20,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  17,9 kilometres (9 minutes)
+09:00	0,0	Depart 28 on A4 [A59] (South)	0,5 km	A59 / A4 / Bonn / Flughafen KÖLN/Bonn / Aachen
+09:00	0,5	Keep RIGHT onto Ramp [E40]	2,3 km	A4 / Aachen
+09:01	2,7	At 14, keep RIGHT to stay on A4 [E40]	2,4 km	A4 / Aachen / KÖLN-Poll
+09:02	5,1	At 13, stay on A4 [E40] (South-West)	2,9 km	A4 / Aachen / Kreuz KÖLN-SÜD
+09:04	8,0	At 12, stay on A4 [E40] (South-West)	3,7 km	A4 / Aachen / Euskirchen / K.-Klettenberg
+09:06	11,8	At 11, stay on A4 [E40] (North-West)	6,1 km	A4 / Aachen / Euskirchen / Kreuz KÖLN-West
+09:09	17,9	Arrive A4, 50858 KÖLN		
+
+SUMMARY
+Driving distance:  17,9 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  20,31 kr
+
+Förbi Aachen
+4.1 km/3.8 km	2 min 28 s/2 min 17 s	100
+2.3 km/2.5 km	1 min 23 s/1 min 30 s
+2.1 km/2.5 km	1 min 16 s/1 min 30 s
+2.0 km/2.5 km	1 min 12 s/1 min 30 s
+
+Aachen - Köln
+3.9 km/3.1 km	2 min 8 s/1 min 41 s	110
+2.3 km/2.2 km	1 min 15 s/1 min 12 s
+3.4 km/3.3 km	1 min 51 s/1 min 48 s
+2.1 km/2.7 km	1 min 9 s/1 min 28 s
+7.1 km/6.8 km	3 min 52 s/3 min 43 s
+1.6 km/1.3 km	0 min 52 s/0 min 43 s
+0.9 km/1.0 km	0 min 29 s/0 min 33 s
+5.7 km/5.8 km	3 min 7 s/3 min 10 s
+2.9 km/3.0 km	1 min 35 s/1 min 38 s
+1.1 km/1.0 km	0 min 36 s/0 min 33 s
+4.2 km/4.3 km	2 min 17 s/2 min 21 s
+3.9 km/5.0 km	2 min 8 s/2 min 44 s
+8.1 km/6.9 km	4 min 25 s/3 min 46 s
+2.9 km/2.6 km	1 min 35 s/1 min 25 s
+1.8 km/3.0 km	0 min 59 s/1 min 38 s
+
+Förbi Köln
+6.0 km/6.1 km	3 min 36 s/3 min 40 s	100
+3.9 km/3.7 km	2 min 20 s/2 min 13 s
+2.6 km/2.0 km	1 min 34 s/1 min 12 s
+1.2 km/0.9 km	0 min 43 s/0 min 32 s
+1.8 km/2.4 km	1 min 5 s/1 min 26 s
+2.2 km/2.7 km	1 min 19 s/1 min 37 s
+
+Time	Km	Instruction	For	Toward
+Summary:  24,2 kilometres (12 minutes)
+09:00	0,0	Depart 15 on A4 [E40] (East)	1,6 km	A3 / A4 / Oberhausen / Düsseldorf / Olpe
+09:01	1,6	Merge onto A3 [A4]	2,3 km	
+09:02	3,9	At 27, keep RIGHT onto Ramp [E40]	40 m	A4 / K-Zentrum / Olpe / Gummersbach
+09:02	4,0	Keep RIGHT to stay on Ramp [E40]	1,6 km	A4 / Olpe / Gummersbach
+09:03	5,5	At 17, stay on A4 [E40] (East)	2,7 km	A4 / Olpe / K-Holweide
+09:05	8,2	At 18, stay on A4 [E40] (East)	1,5 km	
+09:05	9,8	At E40, 51427 Bergisch Gladbach, stay on A4 [E40] (East)	1,2 km	
+09:06	11,0	At 19, stay on A4 [E40] (East)	3,2 km	
+09:08	14,1	At 20, stay on A4 [E40] (East)	1,8 km	
+09:08	15,9	At E40, 51429 Bergisch Gladbach, stay on A4 [E40] (South-East)	1,6 km	
+09:09	17,5	At 21, stay on A4 [E40] (East)	6,7 km	
+09:12	24,2	Arrive 22		
+
+SUMMARY
+Driving distance:  24,2 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  27,40 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,9 kilometres (12 minutes)
+09:00	0,0	Depart 22 on A4 [E40] (West)	6,3 km	
+09:02	6,3	At 21, stay on A4 [E40] (North-West)	1,5 km	
+09:03	7,8	At E40, 51429 Bergisch Gladbach, stay on A4 [E40] (West)	1,5 km	
+09:04	9,3	At 20, stay on A4 [E40] (West)	4,0 km	
+09:06	13,2	At 19, stay on A4 [E40] (West)	1,0 km	
+09:06	14,2	At E40, 51427 Bergisch Gladbach, stay on A4 [E40] (West)	0,9 km	
+09:06	15,1	At 18, stay on A4 [E40] (West)	2,8 km	
+09:08	18,0	At 17, stay on A4 [E40] (West)	1,4 km	Autobahnkreuz KÖLN-Ost
+09:09	19,3	At 16, stay on A4 [E40] (West)	1,3 km	A4 / A3 / Frankfurt A.M. / Aachen / Bonn / Oberhausen / Düsseldorf
+09:10	20,6	Merge onto A3 [A4]	2,3 km	
+09:12	22,9	Arrive 28		
+
+SUMMARY
+Driving distance:  22,9 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  26,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,8 kilometres (18 minutes)
+09:00	0,0	Depart 22 on A4 [E40] (East)	1,1 km	
+09:00	1,1	At E40, 51491 Overath, stay on A4 [E40] (North)	3,8 km	
+09:02	4,9	At E40, 51766 Engelskirchen, stay on A4 [E40] (East)	5,6 km	
+09:04	10,4	At 23, stay on A4 [E40] (East)	1,2 km	
+09:05	11,7	At E40, 51766 Engelskirchen, stay on A4 [E40] (East)	1,8 km	
+09:06	13,5	At 24, stay on A4 [E40] (East)	2,6 km	A4 / Olpe / Gummersbach
+09:07	16,1	At near Hückhausen, stay on A4 [E40] (East)	1,8 km	
+09:08	17,9	At 25, stay on A4 [E40] (East)	1,7 km	
+09:09	19,6	At E40, 51674 Wiehl, stay on A4 [E40] (East)	6,4 km	
+09:12	26,0	At 26, stay on A4 [E40] (South-East)	4,1 km	
+09:13	30,1	At E40, 51580 Reichshof, stay on A4 [E40] (East)	2,4 km	
+09:15	32,5	At 27, stay on A4 [E40] (North-East)	8,3 km	
+09:18	40,8	Arrive 28		
+
+SUMMARY
+Driving distance:  40,8 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  45,97 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  42,7 kilometres (19 minutes)
+09:00	0,0	Depart 29 on A4 (West)	10,5 km	A4 / KÖLN / Gummersbach
+09:04	10,5	At 27, stay on A4 [E40] (West)	1,4 km	
+09:05	11,9	At E40, 51580 Reichshof, stay on A4 [E40] (West)	3,7 km	
+09:07	15,6	At 26, stay on A4 [E40] (North-West)	7,2 km	A4 / KÖLN / Gummersbach
+09:10	22,8	At E40, 51674 Wiehl, stay on A4 [E40] (West)	2,0 km	
+09:11	24,8	At 25, stay on A4 [E40] (West)	1,5 km	
+09:12	26,2	At E40, 51674 Wiehl, stay on A4 [E40] (West)	2,7 km	
+09:13	28,9	At 24, stay on A4 [E40] (West)	1,3 km	
+09:14	30,2	At E40, 51766 Engelskirchen, stay on A4 [E40] (West)	1,7 km	
+09:14	31,9	At 23, stay on A4 [E40] (West)	5,2 km	
+09:17	37,1	At E40, 51766 Engelskirchen, stay on A4 [E40] (South-West)	3,8 km	
+09:18	40,9	At E40, 51491 Overath, stay on A4 [E40] (South)	1,7 km	
+09:19	42,7	Arrive 22		
+
+SUMMARY
+Driving distance:  42,7 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  48,04 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  61,9 kilometres (32 minutes)
+09:00	0,0	Depart 87 on A7 [E40] (North)	0,8 km	
+09:00	0,8	At exit 86, take Ramp [86] (RIGHT) onto A4 [E40]	3,4 km	A4 / Berlin / Dresden / Erfurt / Bad Hersfeld
+09:02	4,2	At E40, 36275 Kirchheim, stay on A4 [E40] (North-East)	5,3 km	
+09:05	9,5	At near Johannesberg, stay on A4 [E40] (East)	1,6 km	
+09:06	11,2	At near Johannesberg, stay on A4 [E40] (East)	0,7 km	
+09:06	11,8	At 32, stay on A4 [E40] (East)	11,4 km	
+09:12	23,2	At 33, stay on A4 [E40] (North)	7,5 km	
+09:17	30,7	At 34, stay on A4 [E40] (North-East)	6,6 km	
+09:20	37,3	At 35, stay on A4 [E40] (East)	1,9 km	
+09:21	39,2	At 36, stay on A4 [E40] (East)	7,2 km	
+09:24	46,4	At near Sallmannshausen, stay on A4 [E40] (East)	2,5 km	
+09:26	48,8	At E40, 37293 Herleshausen, stay on A4 [E40] (East)	3,5 km	
+09:27	52,3	At 38, stay on A4 [E40] (East)	2,3 km	
+09:28	54,6	At E40, 99817 Eisenach, stay on A4 [E40] (North-East)	1,6 km	
+09:29	56,2	At near Hörschel, stay on A4 [E40] (East)	1,0 km	
+09:30	57,2	At near Hörschel, stay on A4 [E40] (East)	0,6 km	
+09:30	57,8	At E40, 99817 Eisenach, stay on A4 [E40] (East)	4,1 km	
+09:32	61,9	Arrive 39A		
+
+SUMMARY
+Driving distance:  61,9 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  69,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,1 kilometres (12 minutes)
+09:00	0,0	Depart 45 on A4 [E40] (East)	4,5 km	A4 / Berlin / Dresden / Erfurt-West
+09:02	4,5	At 46, stay on A4 [E40] (East)	4,3 km	
+09:04	8,8	At A4, 99102 Erfurt, stay on A4 [E40] (East)	4,8 km	
+09:06	13,6	At 47A, stay on A4 [E40] (East)	3,4 km	
+09:07	17,0	At 47B, stay on A4 [E40] (East)	1,6 km	
+09:08	18,6	At E40, 99428 Bechstedtstrass, stay on A4 [E40] (East)	3,6 km	
+09:10	22,2	At 48, stay on A4 [E40] (East)	3,9 km	
+09:12	26,1	Arrive 49		
+
+SUMMARY
+Driving distance:  26,1 kilometres
+Trip duration:  12 minutes
+Driving time:  12 minutes
+Cost:  29,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,0 kilometres (11 minutes)
+09:00	0,0	Depart 49 on A4 [E40] (West)	3,6 km	
+09:01	3,6	At 48, stay on A4 [E40] (West)	3,1 km	
+09:03	6,7	At E40, 99428 Bechstedtstrass, stay on A4 [E40] (West)	2,1 km	
+09:04	8,9	At 47B, stay on A4 [E40] (West)	3,2 km	
+09:05	12,1	At 47A, stay on A4 [E40] (West)	4,7 km	
+09:07	16,7	At near Bechstedt-Wagd, stay on A4 [E40] (West)	4,8 km	
+09:10	21,6	At 46, stay on A4 [E40] (West)	3,4 km	
+09:11	25,0	Arrive 45		
+
+SUMMARY
+Driving distance:  25,0 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  27,81 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  60,9 kilometres (32 minutes)
+09:00	0,0	Depart 39A on A4 [E40] (West)	2,9 km	
+09:01	2,9	At E40, 99819 Krauthausen, stay on A4 [E40] (West)	1,5 km	
+09:02	4,4	At near Hörschel, stay on A4 [E40] (West)	1,2 km	
+09:03	5,6	At near Hörschel, stay on A4 [E40] (West)	1,6 km	
+09:03	7,1	At near Neuenhof, stay on A4 [E40] (West)	1,2 km	
+09:04	8,3	At 38, stay on A4 [E40] (West)	4,7 km	
+09:06	13,0	At 37, stay on A4 [E40] (West)	3,4 km	
+09:08	16,4	At near Sallmannshausen, stay on A4 [E40] (West)	5,8 km	
+09:10	22,2	At 36, stay on A4 [E40] (West)	2,9 km	
+09:12	25,1	At 35, stay on A4 [E40] (West)	6,7 km	
+09:15	31,8	At 34, stay on A4 [E40] (South-West)	7,0 km	
+09:19	38,8	At 33, stay on A4 [E40] (West)	11,9 km	
+09:26	50,8	At 32, keep STRAIGHT to stay on A4 [E40]	0,7 km	
+09:26	51,5	At E40, 36251 Bad Hersfeld, stay on A4 [E40] (West)	1,1 km	
+09:27	52,6	At near Johannesberg, stay on A4 [E40] (West)	4,0 km	
+09:29	56,5	At E40, 36251 Bad Hersfeld, stay on A4 [E40] (West)	4,3 km	
+09:32	60,9	Arrive 31		
+
+SUMMARY
+Driving distance:  60,9 kilometres
+Trip duration:  32 minutes
+Driving time:  32 minutes
+Cost:  67,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  42,4 kilometres (22 minutes)
+09:00	0,0	Depart 49 on A4 [E40] (East)	3,9 km	A4 / Berlin / Dresden / Apolda
+09:01	3,9	At E40, 99438 Vollersroda, stay on A4 [E40] (East)	2,5 km	
+09:02	6,4	At 50, stay on A4 [E40] (South-East)	5,3 km	
+09:05	11,8	At 51, stay on A4 [E40] (South-East)	2,8 km	
+09:06	14,5	At E40, 99441 Magdala, stay on A4 [E40] (South)	0,9 km	
+09:07	15,5	At 52, stay on A4 [E40] (South)	3,2 km	
+09:09	18,6	At E40, 07751 Bucha, stay on A4 [E40] (East)	5,7 km	
+09:12	24,3	At 53, stay on A4 [E40] (North-East)	0,7 km	
+09:13	25,1	At near Rutha, stay on A4 [E40] (East)	1,0 km	
+09:14	26,1	At near Rutha, stay on A4 [E40] (East)	6,7 km	A4 / Berlin / München / Dresden / Jena-Lobeda / Jena-Ost
+09:18	32,8	At near Podelsatz, stay on A4 [E40] (East)	4,9 km	
+09:20	37,7	At near Dorna, stay on A4 [E40] (East)	2,5 km	
+09:21	40,2	At near Mörsdorf, stay on A4 [E40] (East)	2,2 km	
+09:22	42,4	Arrive 56A		
+
+SUMMARY
+Driving distance:  42,4 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  47,11 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  43,7 kilometres (24 minutes)
+09:00	0,0	Depart 56A on A4 [E40] (West)	3,1 km	A4 / Frankfurt A. M. / Erfurt / Stadtroda
+09:01	3,1	At E40, 07646 Bollberg, stay on A4 [E40] (West)	2,7 km	
+09:03	5,8	At 55, stay on A4 [E40] (West)	4,7 km	
+09:05	10,5	At near Hainbücht, stay on A4 [E40] (West)	6,5 km	
+09:09	17,0	At 54, stay on A4 [E40] (West)	1,4 km	
+09:10	18,4	At E40, 07747 Jena, stay on A4 [E40] (South-West)	0,8 km	
+09:11	19,1	At 53, stay on A4 [E40] (South-West)	5,7 km	
+09:14	24,8	At E40, 07751 Bucha, stay on A4 [E40] (West)	3,1 km	
+09:16	28,0	At 52, stay on A4 [E40] (North-West)	0,5 km	
+09:16	28,5	At E40, 99441 Magdala, stay on A4 [E40] (North)	2,8 km	
+09:18	31,3	At 51, stay on A4 [E40] (West)	5,3 km	
+09:20	36,6	At 50, stay on A4 [E40] (North-West)	2,6 km	
+09:21	39,2	At E40, 99441 Mellingen, stay on A4 [E40] (West)	4,5 km	
+09:24	43,7	Arrive 49		
+
+SUMMARY
+Driving distance:  43,7 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  48,62 kr
+
+4.2 km/4.3 km	2 min 17 s/2 min 21 s
+5.3 km/4.0 km	2 min 53 s/2 min 11 s
+1.6 km/1.1 km	52 s/36 s
+0.7 km/0.7 km	23 s/23 s
+11.4 km/11.9 km	6 min 13 s/6 min 29 s
+7.5 km/7.0 km	4 min 5 s/3 min 49 s
+6.6 km/6.7 km	3 min 36 s/3 min 39 s
+1.9 km/2.9 km	1 min 2 s/1 min 35 s
+7.2 km/5.8 km	3 min 56 s/3 min 10 s
+2.5 km/3.4 km	1 min 22 s/1 min 51 s
+3.5 km/4.7 km	1 min 55 s/2 min 34 s
+2.3 km/1.2 km	1 min 15 s/0 min 39 s
+1.6 km/1.6 km	52 s/52 s
+1.0 km/1.2 km	33 s/39 s
+0.6 km/1.5 km	20 s/49 s
+4.1 km/2.9 km	2 min 14 s/1 min 35 s
+
+Resultat:
+4.5 km/3.4 km	2 min 15 s/1 min 42 s
+4.3 km/4.8 km	2 min 9 s/2 min 24 s
+4.8 km/4.7 km	2 min 24 s/2 min 21 s
+3.4 km/3.2 km	1 min 42 s/1 min 36 s
+1.6 km/2.1 km	0 min 48 s/1 min 3 s
+3.6 km/3.1 km	1 min 48 s/1 min 33 s
+3.9 km/3.6 km	1 min 57 s/1 min 48 s
+
+Resultat:
+3.9 km/4.5 km	1 min 57 s/2 min 15 s
+2.5 km/2.6 km	1 min 15 s/1 min 18 s
+5.3 km/5.3 km	2 min 39 s/2 min 39 s
+2.8 km/2.8 km	1 min 24 s/1 min 24 s
+0.9 km/0.5 km	27 s/15 s
+3.2 km/3.1 km	1 min 36 s/1 min 33 s
+5.7 km/5.7 km	2 min 51 s/2 min 51 s
+0.7 km/0.8 km	21 s/24 s
+1.0 km/1.4 km	30 s/42 s
+6.7 km/6.5 km	3 min 21 s/3 min 15 s
+4.9 km/4.7 km	2 min 27 s/2 min 21 s
+2.5 km/2.7 km	1 min 15 s/1 min 21 s
+2.2 km/3.1 km	1 min 6 s/1 min 33 s

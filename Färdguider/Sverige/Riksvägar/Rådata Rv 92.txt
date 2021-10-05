@@ -1,0 +1,24 @@
+Time	Km	Instruction	For	Toward
+Summary:  29,8 kilometres (18 minutes)
+09:00	0,0	Depart Korsning Bjurholm N on 92 [Vännäsvägen] (East)	0,3 km	
+09:00	0,3	At T-korsning Österbacka V, stay on 92 [Vännäsvägen] (East)	0,6 km	
+09:00	0,8	At T-korsning Österbacka Ö, stay on 92 [Vännäsvägen] (East)	6,1 km	
+09:04	6,9	At Korsning Strömåker Rv92, stay on 92 (East)	7,3 km	
+09:08	14,2	At near Långåker, stay on 92 (East)	1,0 km	
+09:08	15,2	At T-korsning Pengsjö Rv92, stay on 92 (East)	2,5 km	
+09:09	17,6	At T-korsning Långåker, stay on 92 (East)	4,3 km	
+09:12	21,9	At Korsning Penglund, stay on 92 [Penglund] (South-East)	2,4 km	
+09:13	24,3	At Korsning Karlslund, stay on 92 (East)	1,1 km	
+09:14	25,4	At 92, 911 94 Vännäs, stay on 92 (North-East)	0,3 km	
+09:15	25,7	At Korsning 92/Fällforsv., stay on 92 [Fällforsvägen] (East)	1,8 km	
+09:16	27,5	At T-korsning 92/V. Järnvägsg., stay on 92 (North)	0,5 km	
+09:16	27,9	At near Vännäs, stay on 92 (East)	0,7 km	
+09:17	28,6	At T-korsning 92/Ö. Järnvägsg., stay on 92 (East)	1,2 km	
+09:18	29,8	Arrive T-korsning E18/Rv 92		
+
+SUMMARY
+Driving distance:  29,8 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  34,61 kr
+

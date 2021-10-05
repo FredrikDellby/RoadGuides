@@ -1,0 +1,114 @@
+﻿Färdguide Lv 164 (Strömstad - Steneby)
+=======================================
+
+Etapp 1: Strömstad - Skee (5,5 km/6,0 km)
+
+Färjeterminal
+ Färja: [E18], Sandefjord
+					0,7 km/0,6 km	42 s/36 s
+Korsning 164/Trädgårdsg.
+					0,5 km/0,5 km	30 s/30 s
+Strömstads Camping
+					0,3 km/0,4 km	18 s/24 s
+Rondell Hålkedalen
+					1,5 km/1,5 km	1 min 17 s/1 min 17 s
+T-korsning 164/Drivnäsvägen
+					1,8 km/1,8 km	1 min 33 s/1 min 33 s
+Järnvägsbro
+ Bohusbanan
+					0,7 km/1,3 km	0 min 36 s/1 min 7 s
+Strömstadsmotet
+ E6 s: Göteborg, Uddevalla
+ E6 n: Oslo, Svinesund
+
+Etapp 2: Skee - Holkekärr (28,4 km/27,7 km)
+					1,8 km/1,2 km	2 min 10 s/1 min 26 s
+Rondell Skee station
+Bensinstation: Statoil
+					0,5 km/0,4 km	36 s/29 s
+Korsning Skee östra
+					5,6 km/5,6 km	4 min 48 s/4 min 48 s
+Korsning Skärje
+					0,9 km/0,9 km	46 s/46 s
+T-korsning Norra Valex
+					4,8 km/4,8 km	4 min 7 s/4 min 7 s
+T-korsning Lytorp
+					2,4 km/2,7 km	2 min 3 s/2 min 19 s
+T-korsning
+Strömstad / Tanum
+T-korsning
+					6,6 km/6,3 km	5 min 39 s/5 min 24 s
+T-korsning Lille Län
+					5,8 km/5,8 km	4 min 58 s/4 min 58 s
+T-korsning Holkekärr
+ 165 n: Halden
+
+Etapp 3: Holkekärr - Mon (23,2 km/23,2 km)
+					4,0 km/4,0 km	3 min 26 s/3 min 26 s
+Dubbel T-korsning Backa
+ Sk
+ 165 s: Munkedal, Hällevadsholm
+					0,6 km/0,5 km	27 s/23 s
+Långevallsälven
+					0,7 km/0,7 km	32 s/32 s
+Korsning Klageröd
+					4,4 km/4,4 km	3 min 18 s/3 min 18 s
+Korsning
+					6,8 km/6,9 km	5 min 6 s/5 min 11 s
+Tanum / Dals-Ed
+T-korsning Loviseholm
+					1,8 km/1,7 km	1 min 21 s/1 min 17 s
+T-korsning Björnlidmon
+					2,7 km/2,9 km	2 min 2 s/2 min 11 s
+T-korsning Lundby
+Parkeringsplats
+					2,2 km/2,1 km	1 min 39 s/1 min 35 s
+T-korsning
+ 166 v: Halden
+
+Etapp 4: Mon - Ed (12,6 km/12,6 km)
+					0,6 km/0,6 km	27 s/27 s
+T-korsning Mon korsväg
+					3,1 km/3,2 km	2 min 20 s/2 min 24 s
+Rastplats Parsetjärn
+					2,1 km/2,0 km	1 min 35 s/1 min 30 s
+T-korsning Göranderud
+					2,1 km/2,1 km	1 min 35 s/1 min 35 s
+T-korsning Mellbyn
+					3,2 km/3,3 km	2 min 24 s/2 min 29 s
+(Korsning Mejeriet)
+
+Dubbel T-korsning Gröne Backe
+ Älgpark	
+ Äng, Camping
+					0,6 km/0,4 km	36 s/24 s
+T-korsning Ed S
+ Ed Centrum
+					0,9 km/1,0 km	0 min 54 s/1 min 0 s
+Korsning Ed SO
+ Ed Centrum
+
+Etapp 5: Ed - Steneby (17,5 km/17,6 km)
+					0,8 km/0,8 km	36 s/36 s
+Järnvägsviadukt
+ Dalslandsbanan
+					1,4 km/1,4 km	1 min 3 s/1 min 3 s
+Parkeringsplats
+					2,0 km/2,0 km	1 min 30 s/1 min 30 s
+T-korsning Vassända
+					0,3 km/0,3 km	14 s/14 s
+T-korsning Vångsjö
+					4,7 km/4,7 km	3 min 32 s/3 min 32 s
+Dals-Ed / Bengtsfors
+					3,4 km/3,4 km	2 min 33 s/2 min 33 s
+T-korsning Norebyn
+ Falkholts Gästgiferi
+					4,5 km/4,5 km	3 min 23 s/3 min 23 s
+Korsning Steneby nordöst
+ Steneby K:a
+ Dalslandsaktiviteter
+					0,5 km/0,5 km	23 s/23 s
+T-korsning Steneby norra
+ 172 s: Uddevalla, Bäckefors
+ 172 n: Bengtsfors, Billingsfors
+ 164 ö: Åmål

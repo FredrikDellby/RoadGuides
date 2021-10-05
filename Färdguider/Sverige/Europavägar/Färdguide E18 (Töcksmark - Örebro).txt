@@ -1,0 +1,454 @@
+Reseguide E18 Töcksmark - Örebro
+=================================
+
+Etapp 1: Norge - Årjäng (27,7 km/27,8 km)
+
+Norge / Sverige
+Østfold / Värmland
+Marker / Årjäng
+Gränsstation
+					2,1 km/2,2 km	1 min 48 s/1 min 53 s
+Dubbel T-korsning Hån S
+ Hån
+					2,8 km/3,0 km	1 min 52 s/2 min 0 s
+Infoplats (östgående)
+Trafikplats Älgerud
+ Töcksfors V, Östervallskog
+					0,6 km/0,3 km	27 s/14 s
+Korsning Töcksfors S
+ V. Fågelvik
+					0,7 km/0,9 km	36 s/46 s
+Trafikplats Töcksfors C
+ Centrum
+					0,4 km/0,2 km	21 s/10 s
+T-korsning E18/Sveavägen
+					0,7 km/0,8 km	36 s/41 s
+Dubbel T-korsning Töcksfors ind.
+					3,7 km/3,5 km	2 min 47 s/2 min 38 s
+T-korsning Skålerud
+ Karlanda, V. Bön
+					2,7 km/2,7 km	2 min 2 s/2 min 2 s
+Korsning Holmedal E18
+ Holmedal
+ Leverbyn
+					0,9 km/0,9 km	41 s/41 s
+T-korsning Holmedal K:a
+ Holmedal
+					1,2 km/1,2 km	54 s/54 s
+T-korsning Selen V
+ Lennartsfors
+					1,0 km/1,0 km	45 s/45 s
+T-korsning Selen Ö
+ Lennartsfors
+					1,0 km/1,0 km	45 s/45 s
+T-korsning Rössbyn E18
+ Karlanda, V. Bön
+					5,8 km/5,8 km	4 min 21 s/4 min 21 s
+T-korsning Tvärdalen
+ Långelanda
+					3,5 km/3,8 km	2 min 38 s/2 min 51 s
+Infoplats
+T-korsning
+ Skidbacke
+					0,8 km/0,6 km	36 s/27 s
+Trafikplats Årjäng V
+ 172: Bengtsfors
+ Backa ind. omr.
+
+Etapp 2: Årjäng - Nysäter (45,6 km/45,4 km)
+					0,6 km/0,9 km	31 s/46 s
+Trafikplats Årjäng C
+ Centrum
+ 172: Arvika
+ 177: Åmotfors
+					1,6 km/1,2 km	1 min 22 s/1 min 2 s
+(Infoplats)
+T-korsning Årjäng Ö
+ Årjängs travbana
+ Nordiska travmuseet
+					4,9 km/4,9 km	3 min 41 s/3 min 41 s
+Korsning Tenvik
+ Sillegårdsed
+					2,0 km/2,0 km	1 min 30 s/1 min 30 s
+Järnsjöns Camping
+					1,4 km/1,5 km	1 min 3 s/1 min 8 s
+Sandaholm
+					3,0 km/2,9 km	1 min 35 s/1 min 35 s
+T-korsning (lokal väg)
+ Årjängs GK
+					2,1 km/2,1 km	3 min 50 s/3 min 50 s
+T-korsning Sillerud N
+ Sillerud, Bengtsfors
+ Bensinstation: Din-X
+					0,8 km/0,8 km	36 s/36 s
+T-korsning Sillerud S
+ Sillerud, Bengtsfors
+					0,6 km/0,6 km	27 s/27 s
+T-korsning Trubbyn N
+ Trubbyn
+					1,0 km/1,0 km	45 s/45 s
+T-korsning Trubbyn S
+ Trubbyn
+					1,4 km/1,4 km	1 min 3 s/1 min 3 s
+T-korsning Fälltakan
+ Signebyn
+					2,8 km/2,8 km	2 min 6 s/2 min 6 s
+T-korsning Jämnemon
+ Sillebotten
+					2,0 km/2,0 km	1 min 30 s/1 min 30 s
+Korsning Myrås
+ Sillebotten
+					2,1 km/2,1 km	1 min 35 s/1 min 35 s
+Årjäng / Säffle
+					6,7 km/6,7 km	5 min 2 s/5 min 2 s
+Korsning Rudsbyn
+ Svanskog, Hallanda
+					1,9 km/1,9 km	1 min 26 s/1 min 26 s
+Korsning Skarbol
+ Svanskog
+					4,5 km/4,6 km	3 min 23 s/2 min 27 s
+Esters Café
+T-korsning Ed (Långserud)
+ Gillberga
+					1,4 km/1,2 km	1 min 3 s/0 min 54 s
+T-korsning
+ Ed
+					4,7 km/4,7 km	3 min 32 s/3 min 32 s
+T-korsning Ökne
+ 175 n: Arvika, Nysäter
+
+Etapp 3: Nysäter - Valnäs (13,7 km/13,7 km)
+					2,5 km/2,7 km	1 min 53 s/2 min 2 s
+Parkeringsplats
+					0,7 km/0,8 km	32 s/36 s
+Byälven
+					1,4 km/1,2 km	1 min 3 s/0 min 54 s
+Korsning Knöstad
+ 175 s: Säffle
+ Nysäter
+					2,6 km/2,6 km	1 min 57 s/1 min 57 s
+Parkeringsplats
+					2,5 km/2,4 km	1 min 53 s/1 min 48 s
+Säffle / Grums
+					4,0 km/4,0 km	3 min 0 s/3 min 0 s
+T-korsning Valnäs E18
+ E45 s: Göteborg, Säffle
+
+Etapp 4: Valnäs - Vålberg (16,4 km/16,4 km)
+					0,8 km/1,4 km	32 s/56 s
+Valnäsmotet
+ E45 s: Göteborg, Säffle
+					3,8 km/3,4 km	2 min 17 s/2 min 2 s
+Segmomotet
+ Segemon
+ Borgvik
+					2,5 km/2,3 km	1 min 30 s/1 min 23 s
+Liljedalsmotet
+ Ed K:a
+					0,8 km/1,0 km	36 s/45 s
+Infoplats (östgående)
+Korsning Sandåsen
+ Enskild väg
+					1,5 km/1,3 km	1 min 8 s/0 min 59 s
+Dubbel T-korsning Slottsbron S
+ Bensinstation: Preem
+					1,8 km/1,6 km	1 min 48 s/1 min 36 s
+T-korsning Slottsbron N
+					0,6 km/0,6 km	36 s/36 s
+(Bro)
+T-korsning E18/Edsholmsgatan
+					0,9 km/0,9 km	46 s/46 s
+Korsning Gruvön E18
+ Grums Centrum
+					0,5 km/0,6 km	26 s/31 s
+Järnvägsviadukt
+ Industrispår
+					1,4 km/1,4 km	1 min 12 s/1 min 12 s
+T-korsning
+ Gruvöns bruk
+					0,5 km/0,7 km	23 s/32 s
+Infoplats (västgående)
+					1,4 km/1,3 km	1 min 3 s/0 min 59 s
+Rondell Nyängen E18
+ E45 n: Mora, Sunne
+ Vålberg
+ Rastplats Nyängen
+ Bensinstation: OKQ8
+ Restaurang: Rasta
+
+Etapp 5: Vålberg - Karlstad (17,2 km/17,1 km)
+					1,1 km/1,1 km	44 s/44 s
+Grums / Karlstad
+					0,8 km/0,7 km	32 s/28 s
+Korsning Gökhöjden
+ Vålberg
+					0,3 km/0,3 km	12 s/12 s
+Norsälven-väst
+					0,5 km/0,5 km	20 s/20 s
+Norsälven-öst
+					0,6 km/0,7 km	24 s/28 s
+T-korsning
+ Enskild väg
+					2,3 km/2,4 km	1 min 32 s/1 min 36 s
+Dubbel T-korsning Segerstad/E18
+ Segerstad
+ Nor, Törne
+					2,7 km/3,2 km	1 min 44 s/2 min 8 s
+Björkåsmotet
+ Vålberg
+					3,1 km/3,2 km	1 min 52 s/1 min 55 s
+Rastplats Sörmon
+					4,3 km/3,9 km	2 min 35 s/2 min 20 s
+Skutbergsmotet
+ Eriksberg
+					1,0 km/0,9 km	45 s/41 s
+Bergviksmotet-väst
+(östgående riktning)
+ Bergvik köpcentrum
+Bensinstation: OKQ8
+Restaurang: McDonald's
+					0,7 km/0,6 km	28 s/24 s
+Bergviksmotet-öst
+ (avfart västgående riktning
+  påfart östgående riktning)
+ [E45 n]: Mora
+ 61: Kongsvinger
+ 62: Trysil
+ Karlstads Flygplats
+
+Etapp 6: Genom Karlstad (6,7 km/6,9 km)
+					0,5 km/0,9 km	20 s/36 s
+Hultbergsmotet
+ Hammarö, Skoghall
+					1,4 km/1,6 km	0 min 56 s/1 min 4 s
+Våxnäsmotet
+ Våxnäs
+Bensinstation: Statoil, Uno-X
+					1,1 km/0,9 km	44 s/36 s
+Klaramotet
+ Karlstad Centrum
+					1,5 km/1,5 km	1 min 0 s/1 min 0 s
+Älvmotet
+ Skåre
+					0,6 km/0,4 km	24 s/16 s
+Klarälven
+					0,6 km/1,0 km	24 s/40 s
+Rudsmotet
+ Färjestad
+Bensinstation: Statoil, Shell
+					1,0 km/0,7 km	40 s/28 s
+Bergmotet
+ 63: Ludvika
+ 236: Hammarö
+ Karlstad Centrum
+
+Etapp 7: Karlstad - Väse (19,7 km/20,0 km)
+					1,5 km/1,4 km	1 min 0 s/0 min 56 s
+Kroppkärrsmotet
+					1,3 km/1,5 km	0 min 52 s/1 min 0 s
+Universitetsmotet
+ Universitet, Kronoparken
+					2,1 km/2,1 km	1 min 16 s/1 min 16 s
+Alstersmotet
+ Alsters Herrgård
+					2,1 km/2,3 km	1 min 16 s/1 min 23 s
+Skattkärrsmotet
+ Skattkärr
+					3,8 km/3,9 km	2 min 17 s/2 min 20 s
+Spångamotet
+ Skattkärr
+ Ö. Fågelvik
+					8,9 km/8,7 km	5 min 20 s/5 min 13 s
+Väsemotet
+ Väse
+ 240: Hagfors, Molkom
+ Bensinstation: OKQ8
+ Restaurang: Värmlands Rasta
+
+Etapp 8: Väse - Kristinehamn (20,2 km/19,9 km)
+					2,1 km/1,5 km	1 min 24 s/1 min 0 s
+Karlstad / Kristinehamn
+					1,2 km/1,2 km	48 s/48 s
+Korsning
+ Enskild väg
+					2,0 km/2,0 km	1 min 20 s/1 min 20 s
+Korsning Ölme kyrka
+ Lundsholm, Träfors
+					0,8 km/1,0 km	32 s/40 s
+Dubbel T-korsning Liksåsen
+ Enskild väg
+					1,1 km/1,0 km	44 s/40 s
+Dubbel T-korsning
+					0,5 km/0,4 km	20 s/16 s
+Korsning Lindås vsk
+ Broby, Vall
+					2,1 km/2,1 km	1 min 24 s/1 min 24 s
+Korsning Ölme E18
+ Broby, Skanum
+ Rastplats Stolpen
+ Bensinstation: Statoil (b)
+ Restaurang: Stolpen
+					1,1 km/1,5 km	0 min 44 s/1 min 0 s
+Trafikkontrollplats
+T-korsning
+ Enskild väg
+					2,5 km/2,2 km	1 min 40 s/1 min 28 s
+Dubbel T-korsning Östervik
+ Kroksvik
+					0,9 km/0,9 km	36 s/36 s
+T-korsning
+ Lokalt mål
+					2,4 km/2,4 km	1 min 36 s/1 min 36 s
+Mariebergsmotet
+ Centrum
+ Sjukhus
+					1,3 km/1,6 km	0 min 52 s/1 min 4 s
+Solbackensmotet
+ Centrum
+ 26: Filipstad, Storfors
+					2,3 km/2,2 km	1 min 32 s/1 min 28 s
+Övre Kvarnmotet
+ 26: Mariestad
+ Centrum
+ Rastplats Östra kvarn
+
+Etapp 9: Kristinehamn - Karlskoga (23,4 km/23,2 km)
+					2,8 km/2,7 km	1 min 52 s/1 min 48 s
+Infoplats
+					0,9 km/0,9 km	36 s/36 s
+Korsning
+ Enskilda vägar
+					4,4 km/4,2 km	2 min 56 s/2 min 48 s
+Rastplats Ristjärn
+(västgående riktning)
+					1,9 km/1,9 km	1 min 16 s/1 min 16 s
+Värmland / Örebro
+Kristinehamn / Karlskoga
+T-korsning Bodalen
+					3,0 km/3,0 km	2 min 0 s/2 min 0 s
+Linnebäcks Camping
+					0,9 km/0,9 km	36 s/36 s
+T-korsning Linnebäck västra
+ Enskild väg
+					0,8 km/0,8 km	32 s/32 s
+Trp Linnebäck
+ Stråbergsmyren, Degerfors
+					0,9 km/0,8 km	36 s/32 s
+T-korsning Björtorp
+					1,7 km/2,5 km	1 min 8 s/1 min 40 s
+Trp Gottebol
+ Gottebol
+					1,2 km/0,6 km	48 s/24 s
+Infoplats/Kontrollplats
+					0,9 km/1,0 km	36 s/40 s
+Trp Odlingen
+ Industriområde
+ Karlskoga Flygplats
+ Bodaborg Äventyrshus
+(Järnvägsviadukt)
+ Nora-Bergslags järnväg
+					1,3 km/1,1 km	1 min 7 s/0 min 57 s
+Korsning
+ Lokalväg
+Bensinstation: Norsk Hydro,
+Uno-x, OKQ8
+					0,5 km/0,8 km	26 s/41 s
+Jätterondell
+ 205 s: Laxå
+ 243 s: Degerfors
+ 205 n: Hällefors, Grythyttan
+ 237: Filipstad
+
+Etapp 10: Genom Karlskoga (4,2 km/3,9 km)
+					1,2 km/1,3 km	1 min 12 s/1 min 18 s
+Rondell
+ Bensinstation: OKQ8
+ Restaurang: McDonald's, MAX
+Trafikplats
+ Hotel: Karlskoga Hotel
+					0,9 km/0,6 km	54 s/36 s
+Avfart+Påfart Stallbacken
+(östgående riktning)
+					0,4 km/0,5 km	24 s/30 s
+Korsning E18/Filipstadsvägen
+ Bensinstation: Statoil
+(Boforsen)
+Trafikplats
+ Nobel Industri
+ Nobelmuseet
+ Hotel: Brogårdens Hotell
+(Järnvägsviadukt)
+ Industrispår
+					0,9 km/0,7 km	54 s/42 s
+Korsning E18/Stackfallsv.
+					0,4 km/0,4 km	24 s/24 s
+Korsning Sandviken
+ Bensinstation: Preem
+					0,5 km/0,5 km	30 s/30 s
+T-korsning E18/Österleden
+ 243: Nora
+ Nobelmuseet
+ Bensinstation: Shell
+
+Etatpp 11: Karlskoga - Adolfsberg (37,5 km/36,9 km)
+					0,4 km/0,4 km	21 s/21 s
+Korsning Brickegården N
+ Bensinstation: St1
+					0,6 km/1,0 km	31 s/51 s
+Trafikplats Immetorp
+ Degerfors
+ Sibberboda
+					3,8 km/3,5 km	2 min 32 s/2 min 20 s
+T-korsning Våtsjötorp
+ Enskild väg
+					1,4 km/1,6 km	0 min 56 s/1 min 4 s
+Rastplats Sandbäcken
+(östgående riktning)
+					1,6 km/1,4 km	1 min 4 s/0 min 56 s
+Korsning Våtsjön
+ Café
+					1,2 km/1,3 km	48 s/52 s
+Trp Villingsberg
+					1,0 km/1,0 km	40 s/40 s
+Rastplats Villingen
+(västgående riktning)
+					0,7 km/0,8 km	28 s/32 s
+Dubbel T-korsning
+ Enskild väg
+					1,0 km/0,8 km	40 s/32 s
+T-korsning
+ Enskild väg
+					1,4 km/1,4 km	56 s/56 s
+Karlskoga / Lekeberg
+					2,3 km/2,4 km	1 min 32 s/1 min 36 s
+Trp Kulbäcken
+ Klunkhyttan
+					2,2 km/2,2 km	1 min 28 s/1 min 28 s
+Trp Lekhyttan (106)
+ Lekhyttan, Mullhyttan
+ Garphyttan
+					6,3 km/6,2 km	3 min 47 s/3 min 43 s
+Lekeberg / Örebro
+					0,6 km/1,1 km	22 s/40 s
+Trafikplats Via (107)
+ 204: Gullspång, Fjugesta
+ Vintrosa
+					3,8 km/3,4 km	2 min 17 s/2 min 2 s
+Svartån
+					2,4 km/3,0 km	1 min 26 s/1 min 48 s
+Trp Falltorp (108)
+ Örebro Flygplats
+					4,0 km/3,7 km	2 min 24 s/2 min 13 s
+Trp Berglunda (109)
+ Berglunda
+Trp Adolfsberg-väst (110)
+(avfart östgående riktning
+påfart västgående riktning)
+ [E20 v]: Göteborg
+ Örebro S
+					2,8 km/1,9 km	1 min 52 s/1 min 16 s
+Trp Adolfsberg-nord (110)
+(avfart västgående riktning
+påfart östgående riktning)
+ E18-E20 ö: Stockholm
+ Örebro C

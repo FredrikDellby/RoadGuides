@@ -1,0 +1,459 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,5 kilometres (16 minutes)
+09:00	0,0	Depart Korsning Klareberg on Ellesbovägen (North)	1,2 km	
+09:01	1,2	At Untitled 44, stay on Ellesbovägen (North)	4,3 km	
+09:05	5,5	Keep STRAIGHT onto Ellesbovägen [Oxhagens Rosenhill]	0,8 km	
+09:07	6,3	At T-korsning Rödbomotet, turn RIGHT (East) onto Jordfallsvägen	60 m	
+09:07	6,4	Turn LEFT (North) onto Lilla Kongahällavägen	0,6 km	
+09:08	6,9	Road name changes to Bohusbron	0,2 km	
+09:09	7,1	Road name changes to Färjevägen	0,3 km	
+09:10	7,3	At T-korsning Bohus fästning, stay on Färjevägen (North)	0,2 km	
+09:10	7,5	Road name changes to Strandgatan	0,3 km	
+09:11	7,8	Road name changes to ÄLVliden [Strandgatan]	0,1 km	
+09:12	8,0	Road name changes to Strandgatan	0,4 km	
+09:13	8,4	At roundabout, take the SECOND exit onto Strandgatan	0,3 km	
+09:14	8,7	Road name changes to Posttorget	30 m	
+09:14	8,7	At roundabout, take the THIRD exit onto Uddevallavägen	0,5 km	
+09:15	9,2	At Korsning, road name changes to Local road(s)	0,3 km	
+09:16	9,5	Bear RIGHT (North) onto Local road(s)	30 m	
+09:16	9,5	Arrive Korsning Kungälv N		
+
+SUMMARY
+Driving distance:  9,5 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  13,73 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,8 kilometres (17 minutes)
+09:00	0,0	Depart Korsning Kungälvs sjukhus on Local road(s) (South)	0,1 km	
+09:00	0,1	Bear LEFT (South-East) onto Local road(s)	0,3 km	
+09:00	0,5	At Korsning, road name changes to Uddevallavägen	0,4 km	
+09:01	0,9	Enter roundabout	0,2 km	
+09:01	1,0	At roundabout, take the SECOND exit onto Local road(s)	0,1 km	
+09:01	1,1	Road name changes to Strandgatan	0,3 km	
+09:03	1,4	At roundabout, take the SECOND exit onto Strandgatan	0,5 km	
+09:03	1,9	Road name changes to ÄLVliden [Strandgatan]	0,1 km	
+09:04	2,0	Road name changes to Strandgatan	0,3 km	
+09:05	2,3	Road name changes to Färjevägen	0,2 km	
+09:06	2,5	At T-korsning Bohus fästning, stay on Färjevägen (South)	0,3 km	
+09:07	2,7	Road name changes to Bohusbron	0,2 km	
+09:07	2,9	Road name changes to Lilla Kongahällavägen	0,2 km	
+09:08	3,0	At Lilla Kongahällavägen, 442 90 Kungälv, stay on Lilla Kongahällavägen (South)	0,4 km	
+09:09	3,4	Turn RIGHT (West) onto Jordfallsvägen, then immediately turn LEFT (South) onto Ellesbovägen	5,2 km	
+09:15	8,6	At Untitled 44, stay on Ellesbovägen (South)	1,2 km	
+09:17	9,8	Arrive Korsning Klareberg		
+
+SUMMARY
+Driving distance:  9,8 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  14,22 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,1 kilometres (20 minutes)
+09:00	0,0	Depart Korsning Kungälv N on Local road(s) (North)	0,1 km	
+09:00	0,1	Keep STRAIGHT onto Karebyvägen	0,2 km	
+09:00	0,3	Bear RIGHT (North) onto Local road(s)	0,4 km	
+09:02	0,7	Bear LEFT (North) onto Local road(s)	0,4 km	
+09:02	1,0	At T-korsning, stay on Local road(s) (North-West)	0,3 km	
+09:02	1,3	At roundabout, take the SECOND exit onto Local road(s)	0,7 km	
+09:04	2,0	At T-korsning Ulvegärde, road name changes to Karebyvägen	0,4 km	
+09:04	2,4	At roundabout, take the SECOND exit onto Karebyvägen	0,4 km	
+09:04	2,8	At roundabout, take the FIRST exit onto Karebyvägen	0,2 km	
+09:05	2,9	Road name changes to Arntorp	1,4 km	
+09:06	4,3	Road name changes to Prästvägen	0,5 km	
+09:07	4,8	At Korsning Kareby korsväg, keep STRAIGHT onto Local road(s)	1,1 km	
+09:09	5,9	At Korsning Hanekullen, stay on Local road(s) (North)	0,2 km	
+09:09	6,1	Road name changes to Lundby	0,7 km	
+09:10	6,8	Bear LEFT (North-West) onto Local road(s)	0,3 km	
+09:11	7,1	Keep STRAIGHT onto Lundby	0,2 km	
+09:11	7,3	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:12	7,6	Keep STRAIGHT onto Tolleröd	0,9 km	
+09:14	8,5	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:14	8,8	Road name changes to Ingetorp	80 m	
+09:15	8,9	Road name changes to Local road(s)	0,7 km	
+09:16	9,6	At T-korsning Ingetorp, stay on Local road(s) (West)	0,3 km	
+09:17	9,9	Road name changes to Lunna	0,3 km	
+09:17	10,2	Keep STRAIGHT onto Local road(s)	30 m	
+09:18	10,2	Bear LEFT (West) onto Local road(s)	0,1 km	
+09:18	10,3	At E6, 442 93 Kungälv, stay on Local road(s) (West)	0,3 km	
+09:18	10,6	Road name changes to Karebyvägen	0,4 km	
+09:19	11,0	Road name changes to Local road(s)	30 m	
+09:20	11,1	Arrive T-korsning Kode vägskäl		
+
+SUMMARY
+Driving distance:  11,1 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  14,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  11,0 kilometres (20 minutes)
+09:00	0,0	Depart T-korsning Kode vägskäl on Jörlandavägen (South-East)	90 m	
+09:00	0,1	Keep STRAIGHT onto Local road(s)	30 m	
+09:00	0,1	Road name changes to Karebyvägen	0,4 km	
+09:01	0,6	Road name changes to Local road(s)	0,2 km	
+09:02	0,8	At E6, 442 93 Kungälv, stay on Local road(s) (East)	0,1 km	
+09:02	0,9	Bear RIGHT (East) onto Local road(s)	30 m	
+09:02	1,0	Keep STRAIGHT onto Lunna	0,3 km	
+09:03	1,2	Road name changes to Local road(s)	0,3 km	
+09:04	1,6	At Korsning Ingetorp, stay on Local road(s) (East)	0,7 km	
+09:05	2,3	Road name changes to Ingetorp	80 m	
+09:05	2,4	Road name changes to Local road(s)	0,3 km	
+09:06	2,6	Keep STRAIGHT onto Tolleröd	0,9 km	
+09:07	3,5	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:08	3,8	Keep STRAIGHT onto Lundby	0,2 km	
+09:09	4,0	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:10	4,3	Bear RIGHT (South) onto Lundby	0,7 km	
+09:11	5,1	Road name changes to Local road(s)	0,2 km	
+09:12	5,2	At Korsning Hanekullen, stay on Local road(s) (South)	1,1 km	
+09:13	6,4	At Korsning Kareby korsväg, keep STRAIGHT onto Prästvägen	0,5 km	
+09:13	6,8	Road name changes to Arntorp	1,4 km	
+09:15	8,2	Road name changes to Karebyvägen	0,1 km	
+09:16	8,3	At roundabout, take the SECOND exit onto Karebyvägen	0,4 km	
+09:16	8,7	At roundabout, take the SECOND exit onto Karebyvägen	0,4 km	
+09:17	9,1	At T-korsning Ulvegärde, road name changes to Local road(s)	0,7 km	
+09:18	9,8	At roundabout, take the SECOND exit onto Local road(s)	0,3 km	
+09:18	10,1	At T-korsning, stay on Local road(s) (South)	0,4 km	
+09:19	10,4	Bear RIGHT (South) onto Local road(s)	0,4 km	
+09:19	10,8	Bear LEFT (South) onto Karebyvägen	0,2 km	
+09:20	11,0	Arrive Korsning Kungälvs sjukhus		
+
+SUMMARY
+Driving distance:  11,0 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  14,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,8 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Kode vägskäl on Jörlandavägen (North-West)	90 m	
+09:00	0,1	Road name changes to Local road(s)	30 m	
+09:00	0,1	Keep STRAIGHT onto Jörlandavägen	0,6 km	
+09:01	0,7	Keep STRAIGHT onto Local road(s)	1,7 km	
+09:04	2,4	At near Furudalen, stay on Local road(s) (North-West)	10 m	
+09:04	2,4	Keep STRAIGHT onto Håby	0,2 km	
+09:04	2,6	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:05	2,9	Keep STRAIGHT onto Håby	0,6 km	
+09:06	3,6	Bear LEFT (North) onto Local road(s)	70 m	
+09:07	3,6	Bear LEFT (North-West) onto Local road(s)	0,1 km	
+09:07	3,7	Road name changes to Stensängen	0,6 km	
+09:08	4,3	At Korsning Stenflaten, bear RIGHT (North) onto Local road(s)	0,6 km	
+09:09	4,9	Keep STRAIGHT onto Källsby	0,1 km	
+09:09	5,1	Road name changes to Local road(s)	10 m	
+09:09	5,1	Road name changes to Bagarevägen	0,5 km	
+09:10	5,5	At Korsning Jörlanda Tank, road name changes to Local road(s)	0,2 km	
+09:10	5,7	Turn LEFT (North) onto Local road(s)	0,6 km	
+09:10	6,3	Keep STRAIGHT onto Kvarnhöjden	0,3 km	
+09:11	6,5	Road name changes to Damstö	0,7 km	
+09:11	7,2	Road name changes to Local road(s)	0,8 km	
+09:12	8,0	At T-korsning Anrås, keep STRAIGHT onto Södra Anrås	0,1 km	
+09:12	8,2	Road name changes to Local road(s)	0,6 km	
+09:13	8,8	At near Stora Skår, stay on Local road(s) (North)	0,3 km	
+09:13	9,1	At roundabout, take the SECOND exit onto Local road(s)	1,2 km	
+09:15	10,2	Keep STRAIGHT onto Dyrtorp	0,6 km	
+09:15	10,8	Bear LEFT (West) onto Local road(s)	50 m	
+09:15	10,8	Arrive T-korsning Strandkärr		
+
+SUMMARY
+Driving distance:  10,8 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  14,45 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,7 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Strandkärr on Local road(s) (East)	50 m	
+09:00	0,1	Bear RIGHT (East) onto Dyrtorp	0,6 km	
+09:00	0,6	Keep STRAIGHT onto Local road(s)	1,1 km	
+09:01	1,7	At roundabout, take the SECOND exit onto Local road(s)	0,3 km	
+09:02	2,0	At near Stora Skår, stay on Local road(s) (South)	0,6 km	
+09:03	2,6	At T-korsning Anrås, stay on Local road(s) (South)	80 m	
+09:03	2,7	Road name changes to Södra Anrås	0,1 km	
+09:03	2,8	Keep STRAIGHT onto Local road(s)	0,8 km	
+09:04	3,6	Road name changes to Damstö	0,7 km	
+09:04	4,3	Road name changes to Kvarnhöjden	0,3 km	
+09:04	4,6	Keep STRAIGHT onto Local road(s)	0,6 km	
+09:05	5,1	At T-korsning Jörlanda, stay on Local road(s) (West)	0,2 km	
+09:05	5,3	Road name changes to Bagarevägen	0,5 km	
+09:06	5,8	Road name changes to Local road(s)	10 m	
+09:06	5,8	Road name changes to Källsby	0,1 km	
+09:06	5,9	Keep STRAIGHT onto Local road(s)	0,6 km	
+09:07	6,5	At Korsning Stenflaten, bear LEFT (South-East) onto Stensängen	0,6 km	
+09:07	7,1	Road name changes to Local road(s)	0,1 km	
+09:08	7,2	Bear RIGHT (South) onto Local road(s)	70 m	
+09:08	7,3	Bear RIGHT (South) onto Håby	0,6 km	
+09:09	7,9	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:10	8,2	Keep STRAIGHT onto Håby	0,2 km	
+09:11	8,4	Keep STRAIGHT onto Local road(s)	10 m	
+09:11	8,4	At near Furudalen, stay on Local road(s) (South-East)	1,7 km	
+09:13	10,2	Keep STRAIGHT onto Jörlandavägen	0,6 km	
+09:14	10,7	Keep STRAIGHT onto Local road(s)	30 m	
+09:15	10,7	Arrive T-korsning Kode vägskäl		
+
+SUMMARY
+Driving distance:  10,7 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  14,30 kr
+
+Klareberg - Rödbo
+1.2 km/1.2 km	1 min 12 s/1 min 12 s
+5.1 km/5.6 km	5 min 6 s/5 min 36 s
+
+Rödbo - Kungälv
+1.0 km/0.5 km	1 min 12 s/0 min 36 s
+1.1 km/1.1 km	1 min 19 s/1 min 19 s
+0.3 km/0.4 km	0 min 22 s/0 min 29 s
+0.5 km/0.5 km	0 min 36 s/0 min 36 s
+0.3 km/0.5 km	0 min 22 s/0 min 36 s
+
+Kungälv - Rollsbo
+1.0 km/0.9 km	1 min 12 s/1 min 5 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+0.7 km/0.7 km	0 min 50 s/0 min 50 s
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+0.4 km/0.4 km	0 min 29 s/0 min 29 s
+
+Rollsbo - Kode
+2.0 km/1.9 km	1 min 43 s/1 min 38 s
+1.1 km/1.1 km	0 min 57 s/0 min 57 s
+3.7 km/3.6 km	3 min 10 s/3 min 5 s
+0.7 km/0.8 km	0 min 36 s/0 min 41 s
+0.8 km/0.8 km	0 min 41 s/0 min 41 s
+
+Kode -
+2.4 km/2.3 km	2 min 3 s/1 min 58 s
+1.9 km/1.9 km	1 min 38 s/1 min 38 s
+
+- Jörlanda
+1.2 km/1.4 km	1 min 26 s/1 min 41 s
+
+Jörlanda - Anröd
+2.5 km/2.5 km	2 min 9 s/2 min 9 s
+
+Anröd - Stora Höga
+0.8 km/0.6 km	0 min 58 s/0 min 43 s
+0.3 km/0.3 km	0 min 22 s/0 min 22 s
+
+Stora Höga - Strandkärr
+1.0 km/1.0 km	1 min 0 s/1 min 0 s
+0.7 km/0.7 km	0 min 42 s/0 min 42 s
+
+Time	Km	Instruction	For	Toward
+Summary:  22,9 kilometres (18 minutes)
+09:00	0,0	Depart 160, 444 60 Stora Höga on 160 (East)	70 m	
+09:00	0,1	Keep RIGHT onto Local road(s)	20 m	
+09:00	0,1	At roundabout, take the SECOND exit onto Local road(s)	50 m	
+09:00	0,1	Keep STRAIGHT onto 160	0,3 km	
+09:00	0,5	Road name changes to Local road(s)	80 m	
+09:00	0,6	Bear RIGHT (East) onto Local road(s)	10 m	
+09:00	0,6	At roundabout, take the SECOND exit onto Local road(s)	0,3 km	
+09:00	0,9	At Infart_Spekeröd, stay on Local road(s) (East)	0,6 km	
+09:01	1,4	Road name changes to Gåre	0,2 km	
+09:01	1,6	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:01	1,8	Keep STRAIGHT onto Gåre	0,1 km	
+09:01	1,9	At T-korsning Spekeröd, stay on Gåre (North-East)	0,3 km	
+09:02	2,2	At Korsning Spekeröds K:a, road name changes to Local road(s)	1,5 km	
+09:03	3,7	At Korsning Gössby, stay on Local road(s) (North)	0,8 km	
+09:04	4,5	At T-korsning Tveten, stay on Local road(s) (North)	0,2 km	
+09:04	4,7	Keep STRAIGHT onto Grössbacke	0,6 km	
+09:04	5,3	Keep STRAIGHT onto Local road(s)	0,9 km	
+09:05	6,1	At Korsning Grössbacke, stay on Local road(s) (North-East)	0,7 km	
+09:05	6,8	Keep STRAIGHT onto Presstorp	0,1 km	
+09:05	6,9	Keep STRAIGHT onto Local road(s)	1,6 km	
+09:07	8,5	Keep STRAIGHT onto Södra Härgusseröd	0,3 km	
+09:07	8,8	Road name changes to Härgusseröd [Sandbacka]	0,3 km	
+09:07	9,1	At T-korsning Härgusseröd, keep STRAIGHT onto Norra Härgusseröd	0,3 km	
+09:08	9,5	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:08	9,6	Bear RIGHT (East) onto Local road(s)	90 m	
+09:08	9,7	Road name changes to Södra Grössbyn	0,3 km	
+09:08	10,0	Enter roundabout	10 m	
+09:08	10,0	At roundabout, take the FIRST exit onto Södra Grössbyn	0,3 km	
+09:09	10,3	Road name changes to Local road(s)	0,2 km	
+09:09	10,5	Road name changes to Norra Grössbyn	80 m	
+09:09	10,6	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:09	10,7	At T-korsning Grössbyn, stay on Local road(s) (North-East)	70 m	
+09:09	10,8	Keep STRAIGHT onto Norra Grössbyn	0,4 km	
+09:10	11,2	Keep STRAIGHT onto Local road(s)	50 m	
+09:10	11,2	Keep STRAIGHT onto Norra Grössbyn	0,1 km	
+09:10	11,4	Road name changes to Local road(s)	0,5 km	
+09:10	11,8	Road name changes to Sköllunga	0,3 km	
+09:10	12,2	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:10	12,3	Keep STRAIGHT onto Sköllunga	0,6 km	
+09:11	12,8	Road name changes to Local road(s)	0,1 km	
+09:11	12,9	Keep STRAIGHT onto Sköllunga	0,6 km	
+09:11	13,5	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:12	13,8	Road name changes to Tönneröd	0,2 km	
+09:12	14,0	Keep STRAIGHT onto Local road(s)	0,7 km	
+09:12	14,6	Keep STRAIGHT onto Stubberöd	0,2 km	
+09:12	14,8	Keep STRAIGHT onto Local road(s)	0,4 km	
+09:13	15,3	Keep STRAIGHT onto Stubberöd	0,3 km	
+09:13	15,6	At T-korsning, road name changes to Local road(s)	0,4 km	
+09:13	16,0	At T-korsning Huveröd, stay on Local road(s) (North)	0,1 km	
+09:13	16,1	Road name changes to Amdal	0,9 km	
+09:14	17,0	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:14	17,3	Keep STRAIGHT onto Amdal	0,2 km	
+09:14	17,5	Keep STRAIGHT onto Local road(s)	0,7 km	
+09:15	18,1	At near Högen, stay on Local road(s) (North)	0,1 km	
+09:15	18,3	Bear LEFT (North) onto Local road(s)	1,0 km	
+09:16	19,2	Road name changes to Grinneröds Backa	0,8 km	
+09:16	20,0	Keep STRAIGHT onto Grinneröds Backa Tångarna	0,3 km	
+09:16	20,3	Keep STRAIGHT onto Grinneröds Backa [Grinneröds Backa Lillsäter]	0,2 km	
+09:17	20,4	Keep STRAIGHT onto Local road(s)	10 m	
+09:17	20,4	Keep STRAIGHT onto Grinneröds Backa	0,2 km	
+09:17	20,6	Keep STRAIGHT onto Local road(s)	1,2 km	
+09:18	21,8	Bear LEFT (North) onto Local road(s)	0,8 km	
+09:18	22,6	Bear RIGHT (North-West) onto Local road(s)	90 m	
+09:18	22,7	Road name changes to Bastebacka	0,2 km	
+09:18	22,9	Arrive Korsning Grinneröd		
+
+SUMMARY
+Driving distance:  22,9 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  27,41 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,3 kilometres (18 minutes)
+09:00	0,0	Depart Korsning Grinneröd on Bastebacka (South-East)	0,2 km	
+09:00	0,2	Road name changes to Local road(s)	90 m	
+09:00	0,3	Bear LEFT (East) onto Local road(s)	0,8 km	
+09:00	1,1	Bear RIGHT (South) onto Local road(s)	1,2 km	
+09:01	2,3	Keep STRAIGHT onto Grinneröds Backa	0,2 km	
+09:01	2,5	Keep STRAIGHT onto Local road(s)	10 m	
+09:01	2,5	Keep STRAIGHT onto Grinneröds Backa [Grinneröds Backa Lillsäter]	0,2 km	
+09:01	2,6	Keep STRAIGHT onto Grinneröds Backa Tångarna	0,3 km	
+09:02	2,9	Keep STRAIGHT onto Grinneröds Backa	0,8 km	
+09:02	3,7	Road name changes to Local road(s)	1,0 km	
+09:03	4,7	Bear RIGHT (South) onto Local road(s)	0,1 km	
+09:03	4,8	At near Högen, stay on Local road(s) (South)	0,7 km	
+09:04	5,4	Keep STRAIGHT onto Amdal	0,2 km	
+09:04	5,6	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:04	5,9	Keep STRAIGHT onto Amdal	0,9 km	
+09:05	6,8	Road name changes to Local road(s)	0,1 km	
+09:05	6,9	At T-korsning Huveröd, stay on Local road(s) (South)	0,4 km	
+09:05	7,3	At T-korsning, keep STRAIGHT onto Stubberöd	0,3 km	
+09:05	7,6	Keep STRAIGHT onto Local road(s)	0,4 km	
+09:06	8,1	Keep STRAIGHT onto Stubberöd	0,2 km	
+09:06	8,3	Keep STRAIGHT onto Local road(s)	0,7 km	
+09:06	8,9	Keep STRAIGHT onto Tönneröd	0,2 km	
+09:06	9,1	Road name changes to Local road(s)	0,3 km	
+09:07	9,4	Keep STRAIGHT onto Sköllunga	0,6 km	
+09:07	9,9	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:07	10,1	Road name changes to Sköllunga	0,6 km	
+09:07	10,7	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:08	10,8	Keep STRAIGHT onto Sköllunga	0,3 km	
+09:08	11,1	Road name changes to Local road(s)	0,5 km	
+09:08	11,5	Road name changes to Norra Grössbyn	0,1 km	
+09:08	11,7	Keep STRAIGHT onto Local road(s)	50 m	
+09:08	11,7	Keep STRAIGHT onto Norra Grössbyn	0,4 km	
+09:09	12,1	Keep STRAIGHT onto Local road(s)	70 m	
+09:09	12,2	At T-korsning Grössbyn, stay on Local road(s) (South-West)	0,1 km	
+09:09	12,4	Keep STRAIGHT onto Norra Grössbyn	80 m	
+09:09	12,4	Road name changes to Local road(s)	0,2 km	
+09:09	12,6	Road name changes to Södra Grössbyn	0,3 km	
+09:10	12,9	At roundabout, take the SECOND exit onto Södra Grössbyn	0,3 km	
+09:10	13,2	Road name changes to Local road(s)	90 m	
+09:10	13,3	Bear LEFT (South-West) onto Local road(s)	0,1 km	
+09:10	13,4	Keep STRAIGHT onto Norra Härgusseröd	0,3 km	
+09:11	13,7	At Infart_bensinmack, stay on Norra Härgusseröd (South)	90 m	
+09:11	13,8	Keep STRAIGHT onto Härgusseröd [Sandbacka]	0,3 km	
+09:11	14,1	Road name changes to Södra Härgusseröd	0,3 km	
+09:11	14,4	Keep STRAIGHT onto Local road(s)	1,6 km	
+09:12	15,9	Keep STRAIGHT onto Presstorp	0,1 km	
+09:13	16,1	Keep STRAIGHT onto Local road(s)	0,7 km	
+09:13	16,8	At Korsning Grössbacke, stay on Local road(s) (South-West)	0,9 km	
+09:14	17,6	Keep STRAIGHT onto Grössbacke	0,6 km	
+09:14	18,2	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:14	18,4	At T-korsning Tveten, stay on Local road(s) (South)	0,8 km	
+09:15	19,1	At Korsning Gössby, stay on Local road(s) (South-West)	1,5 km	
+09:16	20,7	At Korsning Spekeröds K:a, road name changes to Gåre	0,3 km	
+09:16	21,0	At T-korsning Spekeröd, stay on Gåre (South-West)	0,1 km	
+09:17	21,1	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:17	21,2	Keep STRAIGHT onto Gåre	0,2 km	
+09:17	21,5	Road name changes to Local road(s)	0,6 km	
+09:17	22,0	At Infart_Spekeröd, stay on Local road(s) (West)	0,3 km	
+09:18	22,3	Arrive near Dyretorp		
+
+SUMMARY
+Driving distance:  22,3 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  26,64 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,0 kilometres (8 minutes)
+09:00	0,0	Depart 167, 459 91 Ljungskile on 167 (North)	0,2 km	
+09:00	0,2	Road name changes to Local road(s)	0,6 km	
+09:00	0,9	At T-korsning Ljungsskile CS, stay on Local road(s) (North)	0,4 km	
+09:01	1,3	At T-korsning Resecentrum, stay on Local road(s) (North)	0,2 km	
+09:01	1,5	Bear LEFT (North) onto Local road(s)	0,4 km	
+09:01	1,8	Bear RIGHT (North) onto Vällebergsvägen	10 m	
+09:01	1,9	At T-korsning Ljungsskile N, stay on Vällebergsvägen (North)	0,2 km	
+09:02	2,0	Road name changes to Uddevallavägen	1,0 km	
+09:03	3,0	At Korsning Aröds korsväg, keep STRAIGHT onto Local road(s)	0,1 km	
+09:03	3,2	Keep STRAIGHT onto Aröd	40 m	
+09:03	3,2	Road name changes to Local road(s)	0,5 km	
+09:03	3,7	Road name changes to Höggeröd [Höggeröd Lilla]	0,3 km	
+09:03	4,0	Keep STRAIGHT onto Local road(s)	0,8 km	
+09:04	4,7	Keep STRAIGHT onto Höggeröd	0,4 km	
+09:04	5,1	Road name changes to Stinneröd	90 m	
+09:04	5,2	Keep STRAIGHT onto Local road(s)	0,2 km	
+09:04	5,4	Bear LEFT (North) onto Local road(s)	0,2 km	
+09:05	5,6	At T-korsning Vägeryr, bear LEFT (North-West) onto Konungsberg [Vägeryr]	1,1 km	
+09:05	6,8	Bear LEFT (North-West) onto Local road(s)	0,2 km	
+09:06	7,0	Road name changes to Haljersröd Stenevaden	0,5 km	
+09:06	7,5	Road name changes to Konungsberg	0,3 km	
+09:06	7,8	Keep STRAIGHT onto Local road(s)	0,6 km	
+09:07	8,4	At T-korsning Grohed Tingshus, stay on Local road(s) (North)	0,6 km	
+09:07	9,0	Keep STRAIGHT onto Buddeberg	0,3 km	
+09:07	9,3	Keep STRAIGHT onto Local road(s)	0,3 km	
+09:08	9,7	At Korsning Grohed korsväg, stay on Local road(s) (North)	0,2 km	
+09:08	9,9	Bear LEFT (North-West) onto Local road(s)	0,1 km	
+09:08	10,0	Arrive T-korsning Grohed		
+
+SUMMARY
+Driving distance:  10,0 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  13,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,2 kilometres (8 minutes)
+09:00	0,0	Depart T-korsning Grohed on Local road(s) (West)	0,3 km	
+09:00	0,3	Turn LEFT (South-East) onto Local road(s)	0,1 km	
+09:00	0,4	Bear RIGHT (South) onto Local road(s)	0,2 km	
+09:00	0,6	At Korsning Grohed korsväg, stay on Local road(s) (South)	0,3 km	
+09:00	1,0	Keep STRAIGHT onto Buddeberg	0,3 km	
+09:01	1,3	Keep STRAIGHT onto Local road(s)	0,6 km	
+09:01	2,0	At T-korsning Grohed Tingshus, stay on Local road(s) (South)	0,6 km	
+09:02	2,5	Keep STRAIGHT onto Konungsberg	0,3 km	
+09:02	2,8	Road name changes to Haljersröd Stenevaden	0,5 km	
+09:02	3,3	Road name changes to Local road(s)	0,2 km	
+09:02	3,5	Bear RIGHT (South) onto Konungsberg [Vägeryr]	1,1 km	
+09:03	4,7	At T-korsning Vägeryr, bear RIGHT (South) onto Local road(s)	0,2 km	
+09:03	4,9	Bear RIGHT (South) onto Local road(s)	0,2 km	
+09:03	5,1	Keep STRAIGHT onto Stinneröd	90 m	
+09:04	5,2	Road name changes to Höggeröd	0,4 km	
+09:04	5,6	Keep STRAIGHT onto Local road(s)	0,8 km	
+09:04	6,3	Keep STRAIGHT onto Höggeröd [Höggeröd Lilla]	0,3 km	
+09:05	6,6	Road name changes to Local road(s)	0,5 km	
+09:05	7,1	Road name changes to Aröd	40 m	
+09:05	7,1	Keep STRAIGHT onto Local road(s)	0,1 km	
+09:05	7,3	At Korsning Aröds korsväg, road name changes to Uddevallavägen	1,0 km	
+09:06	8,3	Road name changes to Vällebergsvägen	0,2 km	
+09:06	8,5	At T-korsning Ljungsskile N, stay on Vällebergsvägen (South)	10 m	
+09:06	8,5	Bear LEFT (South) onto Local road(s)	0,4 km	
+09:07	8,8	At T-korsning Ljungsskile CN, stay on Local road(s) (South)	0,5 km	
+09:07	9,3	At T-korsning Ljungsskile CS, stay on Local road(s) (South)	0,8 km	
+09:08	10,1	Road name changes to 167	80 m	
+09:08	10,2	Arrive 167, 459 32 Ljungskile		
+
+SUMMARY
+Driving distance:  10,2 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  13,21 kr
+

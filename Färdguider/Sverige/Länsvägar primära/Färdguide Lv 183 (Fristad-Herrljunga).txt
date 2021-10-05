@@ -1,0 +1,49 @@
+Rondell Fristad N
+ 42 s: Borås
+ 42 n: Trollhättan, Vårgårda
+ Rångedala
+					6.4 km/6.4 km	5 min 29 s/5 min 29 s
+Korsning Borgstena skola
+ Od
+					0.8 km/0.9 km	0 min 58 s/1 min 5 s
+Tankställe Borgstena S
+Bensinstation: Bilisten
+(Järnvägsbro)
+					0.5 km/0.6 km	36 s/43 s
+T-korsning Borgstena C
+ Tämta, Dövedal
+Tankställe Borgstena N
+Bensinstation: Preem
+					1.3 km/1.1 km	1 min 7 s/0 min 57 s
+Borås / Herrljunga
+					4.7 km/4.7 km	4 min 2 s/4 min 2 s
+T-korsning Fagred
+ Molla
+					1.6 km/1.9 km	1 min 22 s/1 min 38 s
+T-korsning Vesene Ö
+ Annelund, Ljung
+					0.3 km/0.3 km	15 s/15 s
+T-korsning Vesene V
+ Tämta
+					4.8 km/5.1 km	4 min 7 s/4 min 22 s
+T-korsning
+ 182: Vårgårda
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Grude
+ 182: Ulricehamn, Ljung
+					2.3 km/2.2 km	1 min 58 s/1 min 53 s
+Järnvägskorsning
+					1.5 km/1.5 km	1 min 17 s/1 min 17 s
+Korsning Södra Björke
+ Jällby
+					1.3 km/1.3 km	59 s/59 s
+T-korsning
+ Hudene, Boatorp
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+Korsning Ebbared
+ Hudene
+ Jällby
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+T-korsing Bergagärde
+ 181 ö: Falköping, Floby
+ 181 v: Vårgårda, Herrljunga

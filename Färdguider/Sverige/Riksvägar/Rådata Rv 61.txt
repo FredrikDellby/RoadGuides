@@ -1,0 +1,196 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,3 kilometres (17 minutes)
+09:00	0,0	Depart T-korsning Morkulien Norge on 2 (East)	0,2 km	
+09:00	0,2	Entering Sweden		
+09:00	0,2	Road name changes to 61 [Kungsvägen]	1,5 km	
+09:02	1,7	At T-korsning Eda Folkets Park, stay on 61 [Kungsvägen] (South-East)	0,5 km	
+09:02	2,1	At Korsning Eda Glasbruk S, stay on 61 [Kungsvägen] (South-East)	4,8 km	
+09:06	7,0	At roundabout, take the SECOND exit onto 61	0,8 km	
+09:07	7,7	At T-korsning Tallmon S, stay on 61 (South)	3,0 km	
+09:09	10,7	At Nolbykorset, stay on 61 (South)	0,9 km	
+09:10	11,6	At T-korsning Eda Kyrka, stay on 61 (South-East)	1,1 km	
+09:11	12,7	At T-korsning Mellbyn, stay on 61 (South)	2,5 km	
+09:13	15,2	At T-korsning Eda skans, stay on 61 (South)	3,3 km	
+09:16	18,4	At Korsning N. By, stay on 61 (South)	1,9 km	
+09:17	20,3	Arrive T-korsning Åmotfors nord		
+
+SUMMARY
+Driving distance:  20,3 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  24,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,9 kilometres (16 minutes)
+09:00	0,0	Depart T-korsning Åmotfors nord on 61 (North-West)	1,9 km	
+09:01	1,9	At Korsning N. By, stay on 61 (North)	3,3 km	
+09:03	5,2	At T-korsning Eda skans, stay on 61 [Haga Hagviken] (North)	2,5 km	
+09:06	7,6	At T-korsning Mellbyn, stay on 61 (North)	1,1 km	
+09:07	8,7	At T-korsning Eda Kyrka, stay on 61 (North-West)	0,9 km	
+09:07	9,6	At Nolbykorset, stay on 61 (North)	2,8 km	
+09:09	12,4	At T-korsning Tallmon S, stay on 61 (North)	0,9 km	
+09:10	13,3	At roundabout, take the SECOND exit onto 61	4,7 km	
+09:14	18,0	At Korsning Eda Glasbruk S, stay on 61 [Kungsvägen] (North-West)	0,6 km	
+09:15	18,7	At T-korsning Eda Folkets Park, stay on 61 [Kungsvägen] (North-West)	1,2 km	
+09:16	19,9	Arrive T-korsning Morkulien		
+
+SUMMARY
+Driving distance:  19,9 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  23,98 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,5 kilometres (11 minutes)
+09:00	0,0	Depart 61, 665 94 Fagerås on 61 (East)	1,7 km	
+09:01	1,7	At 61, 665 94 Fagerås, stay on 61 (East)	1,1 km	
+09:02	2,8	At 61, 665 94 Fagerås, stay on 61 (South-East)	0,6 km	
+09:02	3,4	At 61, 665 91 Kil, stay on 61 (East)	1,0 km	
+09:03	4,4	At T-korsning Industri, stay on 61 (East)	0,6 km	
+09:03	5,0	At 61, 665 32 Kil, stay on 61 (East)	2,4 km	
+09:05	7,3	At 61, 665 35 Kil, stay on 61 (East)	0,4 km	
+09:05	7,7	At 61, 665 91 Kil, stay on 61 (East)	0,7 km	
+09:06	8,4	At 61, 665 91 Kil, stay on 61 (South-East)	1,5 km	
+09:07	9,9	At T-korsning Klingerud, stay on 61 (South)	1,8 km	
+09:08	11,7	At 61, 655 91 Karlstad, stay on 61 (South)	1,6 km	
+09:10	13,3	At Korsning Krontorp, stay on 61 (South)	1,7 km	
+09:11	15,0	At Korsning Bofasterudsvägen, stay on 61 [Grava-Mossen] (South-East)	0,5 km	
+09:11	15,5	Arrive Grava-Mossen, 655 91 Karlstad		
+
+SUMMARY
+Driving distance:  15,5 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  19,85 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  15,8 kilometres (11 minutes)
+09:00	0,0	Depart 62, 653 50 Skåre on 61 (North)	1,3 km	
+09:00	1,3	At Korsning Bofasterudsvägen, stay on 61 (North-West)	1,7 km	
+09:02	2,9	At 61, 655 91 Karlstad, stay on 61 (North)	1,1 km	
+09:03	4,1	At 61, 655 91 Karlstad, stay on 61 (North)	2,4 km	
+09:04	6,4	At T-korsning Klingerud, stay on 61 (North)	1,4 km	
+09:05	7,8	At 61, 665 91 Kil, stay on 61 (North-West)	0,5 km	
+09:06	8,3	At 61, 665 91 Kil, stay on 61 (West)	0,7 km	
+09:06	9,0	At 61, 665 91 Kil, stay on 61 (West)	2,0 km	
+09:08	11,0	At 61, 665 32 Kil, stay on 61 (West)	0,9 km	
+09:09	11,9	At T-korsning Industri, stay on 61 (West)	0,4 km	
+09:09	12,4	At 61, 665 91 Kil, stay on 61 (West)	1,0 km	
+09:10	13,4	At 61, 665 91 Kil, stay on 61 (North-West)	1,1 km	
+09:10	14,5	At 61, 665 94 Fagerås, stay on 61 (West)	1,3 km	
+09:11	15,8	Arrive 61, 665 94 Fagerås		
+
+SUMMARY
+Driving distance:  15,8 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  20,69 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  6,4 kilometres (4 minutes)
+09:00	0,0	Depart 61, 655 91 Skåre on 61 (South-East)	2,5 km	
+09:01	2,5	At Kätterud, 655 91 Karlstad, stay on 61 [62] (South)	1,8 km	
+09:03	4,3	At 62, 655 91 Karlstad, stay on 61 [62] (South)	1,3 km	
+09:04	5,6	At 62, 653 46 Karlstad, keep STRAIGHT to stay on 61 [62]	0,3 km	
+09:04	5,9	Keep RIGHT onto Ramp	0,5 km	
+09:04	6,4	Arrive E18, 653 46 Karlstad		
+
+SUMMARY
+Driving distance:  6,4 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  9,24 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  5,5 kilometres (4 minutes)
+09:00	0,0	Depart near Bergvik on Ramp (West)	0,5 km	61 / 62 / E45 / Flygplats / Kongsvinger / Arvika / Trysil / Hagfors / Sunne
+09:00	0,5	Keep STRAIGHT onto 61 [62]	0,1 km	
+09:00	0,7	At 62, 653 46 Karlstad, stay on 61 [62] (North-West)	1,0 km	
+09:01	1,7	At 62, 653 46 Karlstad, stay on 61 [62] (North)	2,0 km	
+09:02	3,7	At Kätterud, 655 91 Karlstad, stay on 61 [62] (North)	1,8 km	
+09:04	5,5	Arrive 61, 653 50 Skåre		
+
+SUMMARY
+Driving distance:  5,5 kilometres
+Trip duration:  4 minutes
+Driving time:  4 minutes
+Cost:  7,74 kr
+
+
+Morokulien - Eda Glasbruk S
+1.7 km/1.2 km	2 min 2 s/1 min 26 s	50
+0.5 km/0.6 km	0 min 36 s/0 min 43 s
+
+Eda Glasbruk S - Tallmorondell
+4.8 km/4.7 km	3 min 36 s/3 min 32 s	80
+
+Tallmorondell - Tallmon S
+0.8 km/0.9 km	0 min 48 s/0 min 54 s	60
+
+Tallmon S - Mellbyn
+3.0 km/2.8 km	2 min 15 s/2 min 6 s	80
+0.9 km/0.9 km	0 min 41 s/0 min 41 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+
+Mellbyn - Eda Skans
+2.5 km/2.5 km	2 min 9 s/2 min 9 s	70
+
+Eda Skans - Åmotfors N
+3.3 km/3.3 km	2 min 28 s/2 min 28 s	80
+1.9 km/1.9 km	1 min 26 s/1 min 26 s
+
+Åmotfors nord - Åmotfors öst
+1.0 km/1.0 km	0 min 51 s/0 min 51 s	70
+
+Åmotfors öst - Graningerondellen
+4.4 km/4.3 km	3 min 18 s/3 min 14 s	80
+2.7 km/2.7 km	2 min 2 s/2 min 2 s
+5.1 km/5.1 km	3 min 50 s/3 min 50 s
+2.5 km/2.5 km	1 min 53 s/1 min 53 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+1.4 km/1.5 km	1 min 3 s/1 min 8 s
+
+Graningerondellen - T-korsning Gate
+1.2 km/1.0 km	1 min 26 s/1 min 12 s	50
+0.4 km/0.5 km	0 min 29 s/0 min 36 s
+0.7 km/0.5 km	0 min 50 s/0 min 36 s
+
+T-korsning Gate - Finnebäck
+7.5 km/7.5 km	5 min 38 s/5 min 38 s	80
+1.4 km/1.4 km	1 min 3 s/1 min 3 s
+2.3 km/2.3 km	1 min 43 s/1 min 43 s
+4.9 km/4.9 km	3 min 41 s/3 min 41 s
+1.6 km/1.6 km	1 min 12 s/1 min 12 s
+2.4 km/2.4 km	1 min 48 s/1 min 48 s
+
+Finnebäck - Fageråsmotet
+3.5 km/3.5 km	2 min 38 s/2 min 38 s	80
+2.5 km/2.8 km	1 min 53 s/2 min 6 s
+6.1 km/5.8 km	4 min 35 s/4 min 21 s
+1.5 km/1.5 km	1 min 8 s/1 min 8 s
+4.0 km/4.0 km	3 min 0 s/3 min 0 s
+6.2 km/6.7 km	4 min 39 s/5 min 2 s
+
+Fageråsmotet - Ilandamotet
+1.7 km/1.3 km	1 min 8 s/0 min 52 s	90
+1.1 km/1.1 km	0 min 44 s/0 min 44 s
+0.6 km/1.0 km	0 min 24 s/0 min 40 s
+1.0 km/0.4 km	0 min 40 s/0 min 16 s
+0.6 km/0.9 km	0 min 24 s/0 min 36 s
+2.4 km/2.0 km	1 min 36 s/1 min 20 s
+0.4 km/0.7 km	0 min 16 s/0 min 28 s
+0.7 km/0.5 km	0 min 28 s/0 min 20 s
+1.5 km/1.4 km	1 min 0 s/0 min 56 s
+1.8 km/2.4 km	1 min 12 s/1 min 36 s
+1.6 km/1.1 km	1 min 4 s/0 min 44 s
+1.7 km/1.7 km	1 min 8 s/1 min 8 s
+0.5 km/1.3 km	0 min 20 s/0 min 52 s
+
+Ilandamotet - Henstadmotet
+2.5 km/1.8 km	1 min 53 s/1 min 21 s
+1.8 km/2.0 km	1 min 21 s/1 min 30 s
+
+Henstadmotet - Bergviksmotet
+1.3 km/1.0 km	0 min 52 s/0 min 40 s
+0.8 km/0.7 km	0 min 32 s/0 min 28 s

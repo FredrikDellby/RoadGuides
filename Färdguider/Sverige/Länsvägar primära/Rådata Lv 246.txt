@@ -1,0 +1,93 @@
+Time	Km	Instruction	For	Toward
+Summary:  25,1 kilometres (27 minutes)
+09:00	0,0	Depart Korsning Bäckåsarna on 246 [Bäckåsarna] (East)	2,4 km	
+09:01	2,4	At Korsning Uddeholm, stay on 246 (South)	2,4 km	
+09:03	4,8	At T-korsning, stay on 246 (East)	3,0 km	
+09:07	7,8	At OKQ8 [246 683, Hagfors, Sverige, Tel: +46 563-10478], stay on 246 (East)	1,1 km	
+09:09	8,8	At Korsning Hagfors S, stay on 246 [Dalavägen] (North)	1,7 km	
+09:11	10,6	At roundabout, take the SECOND exit onto 246	4,5 km	
+09:16	15,1	At T-korsning, stay on 246 (East)	10,1 km	
+09:27	25,1	Arrive T-korsning Gumhöjden		
+
+SUMMARY
+Driving distance:  25,1 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  34,33 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  25,1 kilometres (27 minutes)
+09:00	0,0	Depart T-korsning Gumhöjden on 246 (West)	10,1 km	
+09:10	10,1	At T-korsning, stay on 246 (West)	4,5 km	
+09:15	14,5	At roundabout, take the SECOND exit onto 246 [Dalavägen]	1,8 km	
+09:17	16,3	At Korsning Hagfors S, stay on 246 [Karlströms Väg] (South)	1,1 km	
+09:19	17,3	At 246, 683 Hagfors, stay on 246 (West)	3,0 km	
+09:23	20,3	At T-korsning, stay on 246 (West)	2,4 km	
+09:25	22,7	At Korsning Uddeholm, stay on 246 (North)	2,4 km	
+09:27	25,1	Arrive Korsning Bäckåsarna		
+
+SUMMARY
+Driving distance:  25,1 kilometres
+Trip duration:  27 minutes
+Driving time:  27 minutes
+Cost:  34,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,6 kilometres (36 minutes)
+09:00	0,0	Depart T-korsning Gumhöjden on 246 (East)	9,8 km	
+09:10	9,8	At 246, 683 Hagfors, stay on 246 (South)	2,8 km	
+09:12	12,6	At T-korsning Motjärnshyttan, stay on 246 (South)	13,3 km	
+09:22	25,9	At T-korsning Nordmark, stay on 246 (South-East)	4,0 km	
+09:26	29,9	At T-korsning Fogdhyttan, stay on 246 (South)	10,0 km	
+09:35	39,9	At Korsning Filipstad N, stay on 246 (West)	0,7 km	
+09:36	40,6	Arrive T-korsning Filipstad V		
+
+SUMMARY
+Driving distance:  40,6 kilometres
+Trip duration:  36 minutes
+Driving time:  36 minutes
+Cost:  48,26 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,6 kilometres (36 minutes)
+09:00	0,0	Depart T-korsning Filipstad V on 246 [Skillervägen] (North)	0,7 km	
+09:01	0,7	At Korsning Filipstad N, stay on 246 (North-East)	10,0 km	
+09:10	10,7	At T-korsning Fogdhyttan, stay on 246 (North)	4,0 km	
+09:14	14,7	At T-korsning Nordmark, stay on 246 (North)	13,3 km	
+09:24	28,0	At T-korsning Motjärnshyttan, stay on 246 (North)	2,8 km	
+09:26	30,8	At 246, 683 Hagfors, stay on 246 (North)	9,8 km	
+09:36	40,6	Arrive T-korsning Gumhöjden		
+
+SUMMARY
+Driving distance:  40,6 kilometres
+Trip duration:  36 minutes
+Driving time:  36 minutes
+Cost:  48,25 kr
+
+
+Bäckåsarna - Hagfors S (Tank)
+2.4 km/2.4 km	2 min 3 s/2 min 3 s	70
+2.4 km/2.4 km	2 min 3 s/2 min 3 s
+3.0 km/3.0 km	2 min 34 s/2 min 34 s
+
+Hagfors S (Tank) - Hagfors N
+1.1 km/1.1 km	1 min 19 s/1 min 19 s	50
+1.7 km/1.8 km	2 min 2 s/2 min 10 s
+
+Hagfors N - T-korsning
+4.5 km/4.5 km	3 min 51 s/3 min 51 s	70
+
+T-korsning - Gumhöjden
+10.1 km/10.1 km	7 min 35 s/7 min 35 s	80
+
+Gumhöjden - Nordmark
+9.8 km/9.8 km	7 min 21 s/7 min 21 s	80
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+13.3 km/13.3 km	9 min 59 s/9 min 59 s
+
+Nordmark - Filipstad N
+4.0 km/4.0 km	3 min 26 s/3 min 26 s	70
+10.0 km/10.0 km	8 min 34 s/8 min 34 s
+
+Filipstad N - Filipstad V
+0.7 km/0.7 km	0 min 50 s/0 min 50 s	50

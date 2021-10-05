@@ -1,0 +1,133 @@
+Time	Km	Instruction	For	Toward
+Summary:  11,3 kilometres (7 minutes)
+09:00	0,0	Depart 1 Avenue de la Porte d'Auteuil, 75016 Paris on Ramp (West)	0,6 km	Versailles / Rouen
+09:00	0,6	Road name changes to A13 [E5]	0,4 km	
+09:01	1,0	At E5, 75016 Paris, stay on A13 [E5] (West)	0,7 km	
+09:01	1,8	At E5, 92100 Boulogne-Billancourt, stay on A13 [E5] (West)	1,8 km	
+09:02	3,6	At E5, 92210 Saint-Cloud, stay on A13 [E5] (West)	0,8 km	
+09:03	4,4	At E5, 92210 Saint-Cloud, stay on A13 [E5] (West)	3,6 km	
+09:05	8,0	At 5, stay on A13 [E5] (West)	3,3 km	A13 / E5 / Saint-Germain-en-Laye / Saint-Quentin-en-Yvelines / Rouen / Versailles-Notre Dame
+09:07	11,3	Arrive 6		
+
+SUMMARY
+Driving distance:  11,3 kilometres
+Trip duration:  7 minutes
+Driving time:  7 minutes
+Cost:  15,07 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  12,6 kilometres (8 minutes)
+09:00	0,0	Depart E5, 78870 Bailly on A13 [E5] (South-East)	4,1 km	A13 / E5 / Boulogne / Suresnes / Paris / Versailles-Montreuil
+09:02	4,1	At E5, 78150 Le Chesnay, stay on A13 [E5] (East)	4,3 km	
+09:05	8,4	At 4, stay on A13 [E5] (East)	0,8 km	A13 / E5 / Paris-Porte d'Auteuil / Paris-Porte de Passy / Paris-Porte de Saint-Cloud / Bois de Boulogne
+09:05	9,2	At 3, keep STRAIGHT to stay on A13 [E5]	2,0 km	Paris / Pte d'Auteuil / Pte de Passy / Pte de St Cloud / Bois de Boulogne
+09:07	11,2	At 2, stay on A13 [E5] (East)	1,0 km	
+09:07	12,2	At 1, stay on A13 [E5] (East)	0,4 km	
+09:08	12,6	Arrive Route du Point du Jour À Bagatelle		
+
+SUMMARY
+Driving distance:  12,6 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  16,53 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  53,7 kilometres (28 minutes)
+09:00	0,0	Depart 6 on A13 [E5] (West)	12,7 km	A13 / E5 / Saint-Quentin-en-Yvelines / Poissy / Rouen / Versailles-Satory
+09:06	12,7	At 7, stay on A13 [E5] (North)	4,8 km	
+09:09	17,6	At E5, 78630 Morainvilliers, stay on A13 [E5] (North-West)	3,8 km	
+09:11	21,4	At 8, stay on A13 [E5] (North-West)	4,2 km	A13 / E5 / Mantes / Rouen / Le Havre / Caen / Z.I. des Mureaux
+09:13	25,6	At 9, stay on A13 [E5] (West)	2,2 km	
+09:14	27,7	At E5, 78410 Aubergenville, stay on A13 [E5] (West)	1,8 km	
+09:15	29,5	At 10, stay on A13 [E5] (West)	7,1 km	
+09:19	36,7	At 11, stay on A13 [E5] (West)	1,8 km	A13 / Mantes Sud / Mantes la Ville-les Brouets / Rouen / Le Havre / Caen
+09:20	38,5	At 12, stay on A13 [E5] (West)	1,1 km	A13 / Mantes Ouest / Évreux / Rouen / Le Havre / Caen
+09:21	39,6	*Toll road* At 13, stay on A13 [E5] (West)	3,8 km	
+09:23	43,3	*Toll road* At E5, 78710 Rosny-sur-Seine, stay on A13 [E5] (West)	4,2 km	
+09:25	47,5	*Toll road* At 14, stay on A13 [E5] (North-West)	3,3 km	
+09:27	50,8	*Toll road* At E5, 78270 La Villeneuve-en-Chevrie, stay on A13 [E5] (West)	2,9 km	
+09:28	53,7	Arrive 15		
+
+SUMMARY
+Driving distance:  53,7 kilometres
+Trip duration:  28 minutes
+Driving time:  28 minutes
+Cost:  63,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  36,3 kilometres (19 minutes)
+09:00	0,0	*Toll road* Depart 15 on A13 [E5] (West)	1,2 km	A13 / Rouen / Le Havre / Caen
+09:00	1,2	Stay on A13 [E5] (West)	5,5 km	
+09:03	6,7	At E5, 27120 Douains, stay on A13 [E5] (North-West)	1,4 km	
+09:04	8,1	At 16, stay on A13 [E5] (North-West)	7,6 km	A13 / Rouen / Le Havre-Caen
+09:08	15,7	At E5, 27600 Saint-Aubin-sur-Gaillon, stay on A13 [E5] (North-West)	3,7 km	
+09:10	19,4	*Toll road* At 17, stay on A13 [E5] (North-West)	8,9 km	A13 / Elbeuf / Rouen / Le Havre / Caen
+09:14	28,3	*Toll road* At 18, stay on A13 [E5] (North)	2,2 km	A13 / Louviers-Centre / Rouen / Le Havre / Caen
+09:16	30,4	*Toll road* At E5, 27400 Vironvay, stay on A13 [E5] (North)	4,6 km	
+09:18	35,0	*Toll road* At 19, stay on A13 [E5] (North-West)	1,2 km	A13 / Criquebeuf / Elbeuf / Rouen / Le Havre / Caen
+09:19	36,3	Arrive E5, 27100 Val-de-Reuil		
+
+SUMMARY
+Driving distance:  36,3 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  40,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,1 kilometres (16 minutes)
+09:00	0,0	*Toll road* Depart A154, 27100 Val-de-Reuil on A13 [E5] (West)	3,2 km	
+09:01	3,2	*Toll road* At E5, 27340 Tostes, stay on A13 [E5] (North-West)	4,4 km	
+09:03	7,5	*Toll road* At 20, stay on A13 [E5] (North)	0,4 km	Tourville la Rivière / Elbeuf-Centre / Rouen / Le Havre / Caen
+09:04	7,9	Stay on A13 [E5] (North)	2,9 km	
+09:05	10,9	At 21, stay on A13 [E5] (North-West)	2,0 km	A13 / Oissel / Rouen / Le Havre / Caen
+09:06	12,8	At 22, stay on A13 [E5] (North-West)	2,0 km	A13 / Rouen-Centre / Le Havre / Caen
+09:07	14,8	At E5, 76350 Oissel, stay on A13 [E5] (West)	4,8 km	A13 / E5 / E402 / E46 / Le Havre / Caen
+09:10	19,7	At E5, 76530 Grand-Couronne, stay on A13 [E5] (West)	0,7 km	
+09:10	20,4	At E5, 76530 Moulineaux, stay on A13 [E5] (West)	2,0 km	
+09:11	22,4	*Toll road* At 24, stay on A13 [E5] (West)	6,1 km	A13 / E5 / E402 / E46 / Le Mans / Alençon / Caen / Le Havre / Pont Audemer
+09:15	28,6	*Toll road* At E46, 27310 La Trinité-de-Thouberville, stay on A13 [E46] (West)	2,5 km	
+09:16	31,1	Arrive E46, 27310 Bosgouet		
+
+SUMMARY
+Driving distance:  31,1 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  35,04 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,9 kilometres (16 minutes)
+09:00	0,0	*Toll road* Depart E46, 27310 Honguemare-Guenouville on A13 [E46] (East)	2,5 km	
+09:01	2,5	*Toll road* At E46, 27310 Bosgouet, stay on A13 [E46] (East)	5,3 km	
+09:04	7,9	*Toll road* At 24, stay on A13 [E5] (East)	0,9 km	
+09:04	8,8	Stay on A13 [E5] (East)	3,0 km	
+09:06	11,7	At 23, stay on A13 [E5] (East)	5,6 km	A13 / Oissel / Rouen-Est / Calais / Amiens-Reims / Évreux / Paris
+09:09	17,4	At A139, 76350 Oissel, stay on A13 [E5] (East)	1,5 km	
+09:09	18,9	At 22, stay on A13 [E5] (South-East)	1,7 km	A13 / E5 / Tourville la Rivière / Vernon / Évreux / Paris
+09:10	20,6	At 21, stay on A13 [E5] (South-East)	3,5 km	A13 / Criquebeuf / Vernon / Évreux / Paris
+09:12	24,1	*Toll road* At 20, stay on A13 [E5] (South)	3,9 km	
+09:14	27,9	*Toll road* At E5, 27340 Tostes, stay on A13 [E5] (South)	4,0 km	
+09:16	31,9	Arrive E5, 27100 Val-de-Reuil		
+
+SUMMARY
+Driving distance:  31,9 kilometres
+Trip duration:  16 minutes
+Driving time:  16 minutes
+Cost:  36,02 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  40,2 kilometres (21 minutes)
+09:00	0,0	*Toll road* Depart E46, 27310 Bosgouet on A13 [E46] (West)	0,9 km	
+09:00	0,9	*Toll road* At 25, stay on A13 [E46] (West)	7,9 km	A13 / E5 / E46 / Caen / Le Havre / Deauville Trouville / Pont Audemer
+09:04	8,8	*Toll road* At E46, 27350 Rougemontiers, stay on A13 [E46] (West)	6,1 km	
+09:07	14,9	*Toll road* At 26, stay on A13 [E46] (West)	1,2 km	
+09:08	16,2	*Toll road* At E46, 27500 Bourneville, stay on A13 [E46] (West)	2,5 km	A13 / Pont de Normandie / Honfleur / Deauville-Trouville / Caen
+09:09	18,6	*Toll road* At near Fourmetot, stay on A13 [E46] (West)	18,1 km	
+09:19	36,7	*Toll road* At 28, keep STRAIGHT to stay on A13 [E46]	3,5 km	
+09:21	40,2	Arrive E46, 27210 Beuzeville		
+
+SUMMARY
+Driving distance:  40,2 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  44,74 kr
+

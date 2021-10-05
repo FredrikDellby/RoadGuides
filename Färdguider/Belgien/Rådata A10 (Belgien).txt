@@ -1,0 +1,137 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,7 kilometres (11 minutes)
+09:00	0,0	Depart Verenigde Natieslaan, 8400 Oostende on N340 [Verenigde Natieslaan] (South-East)	50 m	
+09:00	0,1	At roundabout, take the SECOND exit onto A10	3,5 km	E40 / A10 / Brugge / Brussel
+09:02	3,5	At 5, stay on A10 (East)	2,9 km	
+09:03	6,4	At A10, 8460 Oudenburg, stay on A10 (East)	3,2 km	
+09:05	9,6	At A10, 8490 Jabbeke, stay on A10 (East)	9,8 km	E40 / Brussel / Brugge / Jabbeke
+09:10	19,4	At 7, stay on A10 [E40] (East)	1,3 km	
+09:11	20,7	Arrive E40, 8210 Zedelgem		
+
+SUMMARY
+Driving distance:  20,7 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  26,54 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  21,7 kilometres (11 minutes)
+09:00	0,0	Depart E40, 8020 Oostkamp on A10 [E40] (North-West)	2,0 km	E40 / A10 / Calais / Veurne / Oostende
+09:01	2,0	At 7, stay on A10 [E40] (West)	6,7 km	
+09:04	8,8	At 6, stay on A10 [E40] (West)	7,0 km	
+09:08	15,8	At 5B, stay on A10 (West)	2,5 km	
+09:09	18,3	At 5, stay on A10 (West)	3,4 km	
+09:11	21,7	Arrive A10, 8400 Oostende		
+
+SUMMARY
+Driving distance:  21,7 kilometres
+Trip duration:  11 minutes
+Driving time:  11 minutes
+Cost:  28,38 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  39,7 kilometres (20 minutes)
+09:00	0,0	Depart E40, 8210 Zedelgem on A10 [E40] (South-East)	3,7 km	E40 / Brussel / Gent
+09:01	3,7	At 9, stay on A10 [E40] (East)	5,3 km	
+09:04	9,1	At 10, stay on A10 [E40] (East)	10,0 km	
+09:10	19,1	At 11, stay on A10 [E40] (East)	6,1 km	
+09:13	25,2	At 12, stay on A10 [E40] (East)	6,9 km	
+09:16	32,0	At 13, stay on A10 [E40] (East)	1,3 km	
+09:17	33,3	At E40, 9031 Gent, stay on A10 [E40] (East)	3,4 km	
+09:19	36,7	At 14, stay on A10 [E40] (East)	2,3 km	E40 / E17 / Brussel / Antwerpen / Kortrijk
+09:20	39,0	At 15, stay on A10 [E40] (East)	0,8 km	
+09:20	39,7	Arrive Heerweg-Noord, 9052 Gent		
+
+SUMMARY
+Driving distance:  39,7 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  49,93 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  39,4 kilometres (20 minutes)
+09:00	0,0	Depart near Broeken on A10 [E40] (West)	1,5 km	E40 / Oostende / Brugge / Expo
+09:00	1,5	At 15, stay on A10 [E40] (West)	1,4 km	
+09:01	2,9	At 14, stay on A10 [E40] (West)	4,1 km	E40 / Calais / Oostende / Brugge
+09:03	7,0	At E40, 9031 Gent, stay on A10 [E40] (West)	0,8 km	
+09:04	7,8	At 13, stay on A10 [E40] (West)	7,3 km	
+09:07	15,1	At 12, stay on A10 [E40] (West)	5,7 km	
+09:10	20,8	At 11, stay on A10 [E40] (West)	10,6 km	E40 / Oostende / Brugge
+09:16	31,4	At 10, stay on A10 [E40] (West)	5,5 km	
+09:19	36,9	At 9, stay on A10 [E40] (West)	2,5 km	
+09:20	39,4	Arrive E40, 8020 Oostkamp		
+
+SUMMARY
+Driving distance:  39,4 kilometres
+Trip duration:  20 minutes
+Driving time:  20 minutes
+Cost:  49,60 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  41,7 kilometres (22 minutes)
+09:00	0,0	Depart Heerweg-Noord, 9052 Gent on A10 [E40] (East)	4,0 km	E40 / Brussel / Aalst
+09:02	4,0	At 16, stay on A10 [E40] (East)	4,5 km	E40 / Brussel / Aalst
+09:04	8,4	At 17, stay on A10 [E40] (South-East)	1,1 km	
+09:05	9,6	At E40, 9230 Wetteren, stay on A10 [E40] (South-East)	9,1 km	
+09:09	18,7	At 18, stay on A10 [E40] (East)	5,4 km	
+09:12	24,0	At E40, 9320 Aalst, stay on A10 [E40] (South-East)	7,3 km	E40 / Brussel
+09:16	31,4	At 19A, stay on A10 [E40] (East)	4,0 km	
+09:18	35,4	At 20, stay on A10 [E40] (East)	5,8 km	
+09:22	41,1	At A10, 1702 Dilbeek, stay on A10 [E40] (East)	0,6 km	
+09:22	41,7	Arrive A10, 1702 Dilbeek		
+
+SUMMARY
+Driving distance:  41,7 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  50,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  42,7 kilometres (22 minutes)
+09:00	0,0	Depart A10, 1702 Dilbeek on A10 (North-West)	1,9 km	E40 / Oostende / Gent
+09:00	1,9	At A10, 1702 Dilbeek, stay on A10 [E40] (West)	6,2 km	
+09:04	8,1	At 20, stay on A10 [E40] (West)	3,7 km	
+09:06	11,8	At 19A, stay on A10 [E40] (West)	6,7 km	
+09:09	18,4	At E40, 9320 Aalst, stay on A10 [E40] (West)	6,0 km	E40 / Oostende / Gent
+09:12	24,5	At 18, stay on A10 [E40] (West)	9,1 km	
+09:17	33,6	At E40, 9230 Wetteren, stay on A10 [E40] (North-West)	0,8 km	
+09:18	34,4	At 17, stay on A10 [E40] (North-West)	5,2 km	
+09:20	39,6	At 16, stay on A10 [E40] (West)	3,1 km	E40 / E17 / Calais / Oostende / Kortrijk / Gent-Centrum
+09:22	42,7	Arrive E40, 9052 Gent		
+
+SUMMARY
+Driving distance:  42,7 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  51,97 kr
+
+Oostend - Brugge
+3.5 km/3.4 km	1 min 55 s/1 min 51 s
+2.9 km/2.5 km	1 min 35 s/1 min 22 s
+3.2 km/7.0 km	1 min 45 s/3 min 49 s
+9.8 km/6.7 km	5 min 21 s/3 min 39 s
+1.3 km/2.0 km	0 min 43 s/1 min 5 s
+
+Brugge - Ghent
+3.7 km/2.5 km	2 min 1 s/1 min 22 s
+5.3 km/5.5 km	2 min 53 s/3 min 0 s
+2.7 km/2.5 km	1 min 28 s/1 min 22 s
+6.3 km/8.1 km	3 min 26 s/4 min 25 s
+6.1 km/5.7 km	3 min 20 s/3 min 7 s
+6.9 km/7.3 km	3 min 46 s/3 min 59 s
+1.3 km/0.8 km	0 min 43 s/0 min 26 s
+3.4 km/4.1 km	1 min 51 s/2 min 14 s
+2.3 km/1.4 km	1 min 15 s/0 min 46 s
+0.8 km/1.5 km	0 min 26 s/0 min 49 s
+
+Ghent - Brussel
+4.0 km/3.1 km	2 min 11 s/1 min 41 s
+4.5 km/5.2 km	2 min 27 s/2 min 50 s
+1.1 km/0.8 km	0 min 36 s/0 min 26 s
+9.1 km/9.1 km	4 min 58 s/4 min 58 s
+5.4 km/6.0 km	2 min 57 s/3 min 16 s
+5.2 km/3.9 km	2 min 50 s/2 min 8 s
+2.2 km/2.7 km	1 min 12 s/1 min 28 s
+4.0 km/3.7 km	2 min 11 s/2 min 1 s
+5.8 km/6.2 km	3 min 10 s/3 min 23 s
+0.6 km/1.9 km	0 min 20 s/1 min 2 s

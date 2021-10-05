@@ -1,0 +1,202 @@
+Time	Km	Instruction	For	Toward
+Summary:  4,8 kilometres (6 minutes)
+09:00	0,0	Depart T-korsning E18/E63 on E18 [Lyftkransgatan] (East)	0,5 km	
+09:00	0,5	At T-korsning E18/Pensiovägen, stay on E18 [Pansiovägen] (East)	0,9 km	
+09:01	1,3	At T-korsning E18/Ruissalontie, stay on E18 [Pansiovägen] (North-East)	0,2 km	
+09:02	1,6	At Korsning E18/Rv 8, stay on E18 [Bangårdsgatan] (North-East)	0,4 km	
+09:03	2,0	At T-korsning E18/Hantverkare, stay on E18 [Bangårdsgatan] (North-East)	0,5 km	
+09:03	2,5	At T-korsning E18/Ajurinkatu, stay on E18 [Bangårdsgatan] (North-East)	0,3 km	
+09:04	2,8	At T-korsning E18/Brahegatan, stay on E18 [Bangårdsgatan] (East)	0,7 km	
+09:05	3,4	At Korsning E18/Lonttisvägen, stay on E18 [Helsingforsgatan] (East)	0,4 km	
+09:05	3,9	At Korsning E18/Assistentg., stay on E18 [Helsingforsgatan] (East)	0,6 km	
+09:06	4,5	At T-korsning E18/Suntiovägen, stay on E18 [1] (South)	0,3 km	
+09:06	4,8	Arrive E18, 20500 Åbo		
+
+SUMMARY
+Driving distance:  4,8 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  8,54 kr
+
+====
+Time	Km	Instruction	For	Toward
+Summary:  36,1 kilometres (19 minutes)
+09:00	0,0	Depart 15 on E18 [1] (East)	2,7 km	
+09:01	2,7	At Valtatie 1, 24280 Salo, stay on E18 [1] (East)	6,9 km	
+09:05	9,6	At 16, stay on E18 [1] (East)	1,3 km	
+09:05	11,0	At 1, 25130 Salo, stay on E18 [1] (East)	1,6 km	
+09:06	12,6	At 1, 25130 Salo, stay on E18 [1] (East)	4,8 km	
+09:09	17,4	At 17, stay on E18 [1] (East)	7,3 km	
+09:13	24,7	At 18, stay on E18 [1] (East)	2,2 km	
+09:14	26,9	At 1, 25410 Salo, stay on E18 [1] (East)	5,5 km	
+09:17	32,4	At 19, stay on E18 [1] (East)	3,7 km	
+09:19	36,1	Arrive near Kettula		
+
+SUMMARY
+Driving distance:  36,1 kilometres
+Trip duration:  19 minutes
+Driving time:  19 minutes
+Cost:  42,10 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  35,2 kilometres (18 minutes)
+09:00	0,0	Depart near Kettula on E18 [1] (West)	3,0 km	
+09:01	3,0	At 19, stay on E18 [1] (West)	5,3 km	
+09:04	8,4	At 1, 25410 Salo, stay on E18 [1] (West)	2,1 km	
+09:05	10,4	At 18, stay on E18 [1] (West)	7,8 km	
+09:09	18,2	At 17, stay on E18 [1] (West)	4,9 km	
+09:12	23,2	At 1, 25110 Salo, stay on E18 [1] (West)	1,8 km	
+09:13	25,0	At 1, 25130 Salo, stay on E18 [1] (West)	0,8 km	
+09:13	25,8	At 16, stay on E18 [1] (West)	6,7 km	
+09:17	32,5	At 1, 24280 Salo, stay on E18 [1] (West)	2,7 km	
+09:18	35,2	Arrive 15		
+
+SUMMARY
+Driving distance:  35,2 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  41,01 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  22,9 kilometres (13 minutes)
+09:00	0,0	Depart near Kettula on E18 [1] (East)	2,0 km	
+09:01	2,0	At 20, stay on E18 [1] (East)	3,2 km	
+09:02	5,2	At 1, 09810 Nummi-Pusula, stay on E18 [1] (East)	4,2 km	
+09:04	9,4	At 21, stay on E18 [1] (South-East)	1,1 km	
+09:05	10,4	At 1, 09430 Nummi-Pusula, stay on E18 [1] (South-East)	0,7 km	
+09:05	11,1	At 1, 09430 Nummi-Pusula, stay on E18 [1] (South)	1,3 km	
+09:06	12,3	At 1, 09430 Nummi-Pusula, stay on E18 [1] (East)	0,7 km	
+09:07	13,0	At 1, 09430 Nummi-Pusula, stay on E18 [1] (East)	2,0 km	
+09:08	15,0	At E18, 08480 Lohja, stay on E18 [1] (East)	0,6 km	
+09:08	15,7	At 1, 08480 Lohja, stay on E18 [1] (East)	0,7 km	
+09:09	16,4	At 1, 08350 Lohja, stay on E18 [1] (East)	2,2 km	
+09:10	18,6	At 1, 08350 Lohja, stay on E18 [1] (East)	1,3 km	
+09:11	19,9	At 22, stay on E18 [1] (South-East)	3,0 km	
+09:13	22,9	Arrive 23		
+
+SUMMARY
+Driving distance:  22,9 kilometres
+Trip duration:  13 minutes
+Driving time:  13 minutes
+Cost:  26,54 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,0 kilometres (14 minutes)
+09:00	0,0	Depart 23 on E18 [1] (West)	3,3 km	
+09:02	3,3	At 22, stay on E18 [1] (North-West)	1,5 km	
+09:02	4,8	At 1, 08350 Lohja, stay on E18 [1] (North-West)	2,8 km	
+09:04	7,6	At 1, 08350 Lohja, stay on E18 [1] (West)	0,7 km	
+09:05	8,3	At Orosmäen Tunneli, 08480 Lohja, stay on E18 [1] (West)	0,6 km	
+09:05	8,9	At 1, 08480 Lohja, stay on E18 [1] (West)	2,1 km	
+09:06	11,0	At 1, 09430 Nummi-Pusula, stay on E18 [1] (West)	0,7 km	
+09:07	11,7	At 1, 09430 Nummi-Pusula, stay on E18 [1] (West)	1,3 km	
+09:08	12,9	At 1, 09430 Nummi-Pusula, stay on E18 [1] (North)	0,6 km	
+09:08	13,5	At 1, 09430 Nummi-Pusula, stay on E18 [1] (North-West)	0,3 km	
+09:08	13,9	At 21, stay on E18 [1] (West)	4,2 km	
+09:10	18,1	At 1, 09810 Nummi-Pusula, stay on E18 [1] (West)	3,5 km	
+09:12	21,6	At 20, stay on E18 [1] (West)	2,4 km	
+09:14	24,0	Arrive near Kettula		
+
+SUMMARY
+Driving distance:  24,0 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  27,71 kr
+
+0.5 km/0.6 km	36 s/43 s
+0.9 km/0.8 km	1 min 5 s/0 min 58 s
+0.2 km/0.3 km	14 s/22 s
+0.4 km/0.4 km	29 s/29 s
+0.5 km/0.3 km	36 s/22 s
+0.3 km/0.7 km	22 s/50 s
+0.7 km/0.3 km	50 s/22 s
+0.4 km/0.4 km	29 s/29 s
+0.6 km/0.6 km	43 s/43 s
+0.3 km/0.3 km	22 s/22 s
+
+0.8 km/0.6 km	41 s/31 s
+1.5 km/2.0 km	1 min 17 s/1 min 43 s
+
+1.5 km/1.1 km	1 min 0 s/0 min 44 s
+1.0 km/1.2 km	40 s/48 s
+1.6 km/2.4 km	1 min 4 s/1 min 36 s
+3.5 km/3.6 km	2 min 20 s/2 min 24 s
+3.3 km/3.0 km	2 min 12 s/2 min 0 s
+
+3.7 km/4.1 km	2 min 1 s/2 min 14 s
+2.2 km/1.6 km	1 min 12 s/0 min 52 s
+4.3 km/3.7 km	2 min 21 s/2 min 1 s
+3.1 km/3.7 km	1 min 41 s/2 min 1 s
+5.4 km/5.9 km	2 min 57 s/3 min 13 s
+5.8 km/5.5 km	3 min 10 s/3 min 0 s
+6.8 km/7.1 km	3 min 43 s/3 min 52 s
+6.4 km/5.2 km	3 min 29 s/2 min 50 s
+0.5 km/1.5 km	16 s/49 s
+
+2.7 km/2.7 km	1 min 28 s/1 min 28 s
+6.9 km/6.7 km	3 min 46 s/3 min 39 s
+1.3 km/0.8 km	43 s/26 s
+1.6 km/1.8 km	52 s/59 s
+4.8 km/4.9 km	2 min 37 s/2 min 40 s
+7.3 km/7.8 km	3 min 59 s/4 min 15 s
+2.2 km/2.1 km	1 min 12 s/1 min 9 s
+5.5 km/5.3 km	3 min 0 s/2 min 53 s
+3.7 km/3.0 km	2 min 1 s/1 min 38 s
+
+2.0 km/2.4 km	1 min 5 s/1 min 19 s
+3.2 km/3.5 km	1 min 45 s/1 min 55 s
+4.2 km/4.2 km	2 min 17 s/2 min 17 s
+1.1 km/0.3 km	36 s/10 s
+0.7 km/0.6 km	23 s/20 s
+1.3 km/1.3 km	43 s/43 s
+0.7 km/0.7 km	23 s/23 s
+2.0 km/2.1 km	1 min 5 s/1 min 9 s
+0.6 km/0.6 km	20 s/20 s
+0.7 km/0.7 km	23 s/23 s
+2.2 km/2.8 km	1 min 12 s/1 min 32 s
+1.3 km/1.5 km	43 s/49 s
+3.0 km/3.3 km	1 min 38 s/1 min 48 s
+
+6.3 km/6.1 km	3 min 26 s/3 min 20 s
+4.3 km/3.3 km	2 min 21 s/1 min 48 s
+4.9 km/5.2 km	2 min 40 s/2 min 50 s
+5.2 km/5.8 km	2 min 50 s/3 min 10 s
+6.9 km/6.8 km	3 min 46 s/3 min 43 s
+1.4 km/0.9 km	46 s/29 s
+3.9 km/4.8 km	2 min 8 s/2 min 37 s
+
+Time	Km	Instruction	For	Toward
+Summary:  14,6 kilometres (9 minutes)
+09:00	0,0	Depart 29 on 1 [Åboleden] (East)	1,8 km	
+09:01	1,8	At Åboleden, 02740 Esbo, stay on 1 [Åboleden] (East)	2,2 km	
+09:02	4,1	At Turunväylä, 02760 Esbo, stay on 1 [Åboleden] (South-East)	2,5 km	
+09:04	6,5	At Åboleden, 02750 Esbo, stay on 1 [Åboleden] (East)	3,8 km	
+09:06	10,3	At Åboleden, 02140 Esbo, stay on 1 [Åboleden] (East)	4,3 km	1 / Helsinki / Helsingfors
+09:09	14,6	Arrive 1, 00350 Helsingfors		
+
+SUMMARY
+Driving distance:  14,6 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  26,20 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  13,5 kilometres (8 minutes)
+09:00	0,0	Depart Hoplaksvägen, 00350 Helsingfors on 1 [Åboleden] (North-West)	3,4 km	1 / Turku / Åbo
+09:02	3,4	At Åboleden, 02600 Esbo, stay on 1 [Åboleden] (West)	3,4 km	
+09:04	6,8	At Åboleden, 02630 Esbo, stay on 1 [Åboleden] (West)	3,5 km	
+09:06	10,3	At Åboleden, 02760 Esbo, stay on 1 [Åboleden] (North-West)	2,5 km	
+09:08	12,8	At Åboleden, 02740 Esbo, stay on 1 [Åboleden] (West)	0,7 km	
+09:08	13,5	Arrive Åboleden, 02740 Esbo		
+
+SUMMARY
+Driving distance:  13,5 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  24,18 kr
+
+1.8 km/0.7 km	1 min 12 s/0 min 28 s
+2.2 km/2.5 km	1 min 28 s/1 min 40 s
+2.5 km/3.5 km	1 min 40 s/2 min 20 s
+3.8 km/3.4 km	2 min 32 s/2 min 16 s
+4.3 km/3.4 km	2 min 52 s/2 min 16 s

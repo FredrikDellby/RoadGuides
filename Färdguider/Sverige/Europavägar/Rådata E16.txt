@@ -1,0 +1,70 @@
+Time	Km	Instruction	For	Toward
+Summary:  34,0 kilometres (29 minutes)
+09:00	0,0	Depart Øyeren/200/Sverige [200 2218, Kongsvinger, Norge] on 239 (South-East)	11,8 km	
+09:09	11,8	At 239, 685 91 Torsby, stay on 239 (East)	0,5 km	
+09:10	12,3	At 239 80, 685 91 Lekvattnet, stay on 239 [Lekvattnet] (East)	7,9 km	
+09:17	20,2	At MÅRbacken, 685 91 Torsby, stay on 239 [MÅRbacken] (East)	11,9 km	
+09:27	32,2	At Västanå, 685 91 Torsby, stay on 239 [Västanå] (East)	1,8 km	
+09:29	34,0	Arrive near Torsby		
+
+SUMMARY
+Driving distance:  34,0 kilometres
+Trip duration:  29 minutes
+Driving time:  29 minutes
+Cost:  40,21 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  34,1 kilometres (29 minutes)
+09:00	0,0	Depart 239, 685 32 Torsby on Local road(s) (South)	10 m	
+09:00	0,1	Bear RIGHT (South) onto 239	1,9 km	
+09:01	1,9	At 239, 685 91 Torsby, stay on 239 [Västanå] (West)	11,9 km	
+09:12	13,9	At MÅRbacken, 685 91 Torsby, stay on 239 [MÅRbacken] (North-West)	8,0 km	
+09:19	21,8	At 239 41, 685 91 Lekvattnet, stay on 239 [Lekvattnet] (West)	0,3 km	
+09:19	22,1	At Lekvattnet 54, 685 91 Torsby, stay on 239 [Lekvattnet] (North-West)	12,0 km	
+09:29	34,1	Arrive Øyeren/200/Sverige [200 2218, Kongsvinger, Norge]		
+
+SUMMARY
+Driving distance:  34,1 kilometres
+Trip duration:  29 minutes
+Driving time:  29 minutes
+Cost:  40,43 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  28,8 kilometres (25 minutes)
+09:00	0,0	Depart 70, 780 41 Djurås on Local road(s) (North)	70 m	
+09:00	0,1	Turn RIGHT (South-West) onto 71	0,4 km	
+09:00	0,5	At 71, 780 41 Djurås, stay on 71 (West)	0,5 km	
+09:01	1,0	At roundabout, take the SECOND exit onto 71	2,0 km	
+09:03	3,0	At Korsning Lindan, stay on 71 (West)	3,1 km	
+09:05	6,1	At T-korsning Gagnefs GK, stay on 71 (West)	5,5 km	
+09:09	11,6	At roundabout, take the SECOND exit onto 71	9,8 km	
+09:18	21,4	At Statoil [71 780 44, Dala-Floda, Sverige, Tel: +46 241-22594], stay on 71 [Stora Vägen] (West)	0,6 km	
+09:19	22,0	At Korsning Dala-Floda V, stay on 71 [Stora Vägen] (South-West)	1,3 km	
+09:20	23,3	At T-korsning Forsgärdet, stay on 71 [Stora Vägen] (South)	5,5 km	
+09:25	28,8	Arrive T-korsning E16/Rv66	
+
+SUMMARY
+Driving distance:  28,8 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  38,15 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  28,5 kilometres (24 minutes)
+09:00	0,0	Depart T-korsning E16/Rv66 on 71 (East)	5,5 km	
+09:04	5,5	At T-korsning Forsgärdet, stay on 71 [Stora Vägen] (North)	1,3 km	
+09:05	6,8	At Korsning Dala-Floda V, stay on 71 [Stora Vägen] (East)	0,4 km	
+09:06	7,3	At Korsning Dala-Floda K:a, stay on 71 [Stora Vägen] (East)	9,9 km	
+09:15	17,2	At roundabout, take the SECOND exit onto 71	5,5 km	
+09:19	22,8	At T-korsning Gagnefs GK, stay on 71 (East)	3,1 km	
+09:22	25,8	At Korsning Lindan, stay on 71 (East)	2,0 km	
+09:23	27,8	At roundabout, take the SECOND exit onto 71	0,4 km	
+09:24	28,2	At 71, 780 41 Djurås, stay on 71 (East)	0,3 km	
+09:24	28,5	Arrive 71, 780 41 Djurås		
+
+SUMMARY
+Driving distance:  28,5 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  37,68 kr
+

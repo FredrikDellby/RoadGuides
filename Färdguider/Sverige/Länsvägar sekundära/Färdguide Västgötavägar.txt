@@ -1,0 +1,66 @@
+Färdguide Falköping - Kungslena
+================================
+
+T-korsning Falköpig NO
+ 46 s: Ulricehamn
+ [47]: Trollhättan, Jönköping
+ 46 n: Skövde, Stenstorp
+ 184: Lidköping, Skara
+					2.8 km/2.8 km	2 min 24 s/2 min 24 s
+Korsning Uddagården
+ Vartofta, Karleby
+ Torbjörntorp
+					3.6 km/3.6 km	3 min 5 s/3 min 5 s
+Dubbel T-korsning Åsle
+ Åsle K:a, Mularp
+ Flittorp
+					2.7 km/2.6 km	2 min 19 s/2 min 14 s
+Dubbel T-korsning Tiarp
+ Tidaholm, Ekedalen
+ Högstena
+					3.4 km/3.4 km	2 min 55 s/2 min 55 s
+Falköping / Tidaholm
+					3.3 km/3.5 km	2 min 50 s/3 min 0 s
+T-korsning Kungslena
+ Ekedalen, Dimbo
+ Stenstorp
+
+Färdguide Högstena - Tidaholm
+=============================
+
+T-korsning Högstena N
+ Falköping
+ Dala
+					4.0 km/4.0 km	4 min 0 s/4 min 0
+Korsning Flittorp
+ Åsle
+					2.7 km/2.7 km	2 min 42 s/2 min 42 s
+Dubbel T-korsning Tiarp
+ Falköping, Åsle
+ Kungslena
+					3.4 km/3.4 km	3 min 24 s/3 min 24 s
+Falköping / Tidaholm
+					3.4 km/3.4 km	3 min 24 s/3 min 24 s
+Korsning Varvboholm
+ Dimbo
+ Stenstorp, Kungslena
+					1.0 km/1.0 km	1 min 0 s/1 min 0 s
+Korsning Ekedalen
+ Dimbo
+ Ekedalen
+					2.3 km/2.3 km	2 min 18 s/2 min 18 s
+Korsning Acklinga K:a
+ Acklinga K:a
+					0.9 km/0.9 km	0 min 54 s/0 min 54 s
+Korsning Gärdet
+ 26 s: Jönköping, Mullsjö
+ 26 n: Mariestad, Skövde
+					4.4 km/4.5 km	4 min 24 s/4 min 30 s
+T-korsning Tidaholm N
+Rondell Tidaholm N
+ [193]: Falköping
+ [193]: Hjo
+					0.6 km/0.5 km	0 min 36 s/0 min 30 s
+T-korsning Gamla Torget
+ [193]: Falköping
+ [193]: Hjo

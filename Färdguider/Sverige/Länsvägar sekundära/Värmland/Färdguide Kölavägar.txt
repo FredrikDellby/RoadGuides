@@ -1,0 +1,110 @@
+Solbergavägen (väg 624)
+========================
+10,6 km/10,6 km
+
+T-korsning
+ 177 n: Åmotfors
+ 177 s: Årjäng, Koppom
+					0,7 km/0,7 km	36 s/36 s
+T-korsning
+ Hovsten
+					2,5 km/2,5 km	2 min 9 s/2 min 9 s
+T-korsning Solberga
+ Hovsten, Tömte
+					2,2 km/2,2 km	1 min 53 s/1 min 53 s
+Bygdegård
+					1,0 km/1,0 km	51 s/51 s
+T-korsning Älgestad
+ Korterud
+					1,3 km/1,3 km	1 min 7 s/1 min 7 s
+Lillälven
+					0,9 km/0,9 km	46 s/46 s
+T-korsning
+ Sopstation
+					2,1 km/2,1 km	1 min 48 s/1 min 48 s
+Korsning Adolfsfors
+ Charlottenberg, Köla
+ Skillingsfors
+
+Korterudsvägen (väg 620)
+=========================
+T-korsning Älgestad
+					3,3 km/3,3 km	2 min 50 s/2 min 50 s
+T-korsning Korterud
+
+Östra Skillingmarksvägen (väg 631/634)
+======================================
+19,8 km/19,8 km
+
+T-korsning Skillingsfors V
+ Koppom
+ Sundshagsfors, Camping
+Korsning Skillingsfors C
+ Vestmarka
+					0,3 km/0,3 km	27 s/27 s
+Skillingsfors K:a
+Korsning Skillingsfors Ö
+ Enskild väg
+					9,9 km/9,8 km	9 min 54 s/9 min 48 s
+T-korsning Korterud
+ Älgestad
+					0,9 km/0,9 km	46 s/46 s
+T-korsning
+ Lässerud
+					2,1 km/2,1 km	1 min 48 s/1 min 48 s
+Lillälven
+					1,9 km/1,9 km	1 min 38 s/1 min 38 s
+Korsning Adolfsfors
+ Koppom, Solberga
+					0,8 km/1,0 km	41 s/51 s
+T-korsning Köla S
+ Charlottenberg
+Korsning Köla S
+ Rudsgården
+					4,0 km/3,7 km	3 min 26 s/3 min 10 s
+T-korsning Flogned
+ 177 s: Årjäng, Koppom
+ 177 n: Åmotfors
+
+Kölavägen (väg 631)
+====================
+7,4 km/7,2 km
+
+T-korsning Köla S
+ Flogned, Rudsgården
+ Skillingmark, Adolfsfors
+T-korsning
+ Köla hembygdsgård
+					0,5 km/0,3 km	30 s/18 s
+T-korsning Köla K:a
+					1,0 km/1,0 km	1 min 0 s/1 min 0 s
+T-korsning
+ Valfjället (enskild väg)
+					2,0 km/2,0 km	1 min 30 s/1 min 30 s
+T-korsning Valfjället
+ Valfjället skicenter
+					1,3 km/1,3 km	59 s/59 s
+Vrångsälven
+					2,2 km/2,2 km	1 min 39 s/1 min 39 s
+T-korsning
+ Konst, Ridcenter
+					0,5 km/0,5 km	26 s/26 s
+Korsning Nolbykorset
+ 61 s: Karlstad, Arvika
+ 61 n: Kongsvinger, Charlottenberg
+
+Rudsgårdsvägen (väg 633)
+=========================
+5,5 km/5,3 km
+
+T-korsning Köla S
+ Skillingsfors, Adolfsfors
+ Charlottenberg, Valfjälet
+Korsning Köla S
+ Flogned
+					3,2 km/3,0 km	2 min 45 s/2 min 34 s
+Bålstad busshållplats
+					2,3 km/2,3 km	1 min 58 s/1 min 58 s
+T-korsning Rudsgården
+ 177 s: Årjäng, Koppom
+ 177 n: Åmotfors

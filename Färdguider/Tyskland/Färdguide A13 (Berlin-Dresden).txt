@@ -1,0 +1,120 @@
+Schönefelder Kreuz (1)
+ A10 ccw: [A12, A11]
+ A10 cw: [A115, A9, A2, A24]
+ A113: Zentrum-Ost
+
+Anschlausstelle 2
+ Ragow
+
+Nottekanal
+
+Anschlausstelle 3a
+ Mittenwalde
+
+Anschlausstelle 3b
+ Bestensee
+
+Raststätte Am Kahlberg
+ Restaurang
+
+Anschlausstelle 4
+ Groß Köris
+
+Anschlausstelle 5a
+ Teupitz
+
+Anschlausstelle 5b
+ Baruth/Mark
+
+Dahme
+
+Anschlausstelle 6
+ Staakow
+
+Rastplatz Bugkgraben
+(sydgående riktning)
+Rastplatz Krausnicker Berge
+(nordgående riktning)
+
+Anschlausstelle 7
+ Freiwalde
+ B115
+
+Rasthof Berstetal
+(nordgående riktning)
+ Benzin: Aral
+ Restaurang, Hotel, Bankomat
+
+Anschlausstelle 8
+ Duben
+ B87
+
+Raststätte Rüblingsheide
+(sydgående riktning)
+ Benzin: Aral
+ Restaurang, Bankomat
+
+Anschlausstelle 9
+ Lübbenau/Spreewald
+
+Dreieck Spreewald (10)
+ A15: Wroclaw, Cottbus
+
+Anschlausstelle 11
+ Kittlitz
+
+Rastplatz (sydgående)
+
+Anschlausstelle 12
+ Calau
+
+Parkplatz
+
+Anschlausstelle 13
+ Bronkow
+
+Anschlausstelle 14
+ Großräschen
+ B96
+
+Rasthof Freienhufener Eck
+ Benzin, Restaurang
+
+Anschlausstelle 15
+ Klettwitz
+
+Anschlausstelle 16
+ Schwarzheide
+
+Anschlausstelle 17
+ Ruhland
+ B169
+
+Schwarze-Elster-Brücke
+ 127 m
+
+Rastplatz
+
+Anschlausstelle 18
+ Ortrand
+
+(Pulsnitzbrücke)
+(Bradenburg / Sachsen)
+
+Anschlausstelle 19
+ Schönborn
+
+Rastplatz Schönfeld
+
+Anschlausstelle 20
+ Thiendorf
+
+Anschlausstelle 21
+ Radeburg
+
+Anschlausstelle 22
+ Marsdorf
+
+Dreieck Dresden-Nord (23)
+ A4 w: Gena, Dresden, [A14 Leipzig]
+ A4 o: Wroclaw, Görlitz

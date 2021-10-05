@@ -1,0 +1,255 @@
+Time	Km	Instruction	For	Toward
+Summary:  27,6 kilometres (21 minutes)
+09:00	0,0	Depart 63, 654 Karlstad on 63 [Örsholmsleden] (North)	1,0 km	
+09:00	1,0	At 63, 654 Karlstad, stay on 63 (North)	1,1 km	
+09:01	2,2	At 63, 654 Karlstad, stay on 63 (North)	4,7 km	
+09:05	6,9	At Korsning Skål, stay on 63 [Ulvsbybacken] (North)	1,0 km	
+09:06	7,9	At Korsning Ulvsbyn, stay on 63 (North)	1,3 km	
+09:07	9,2	At T-korsning Vallargärdet S, stay on 63 [Bengtsbol] (North-East)	0,4 km	
+09:07	9,7	At T-korsning Vallargärdet N, stay on 63 [Bengtsbol] (North-East)	2,6 km	
+09:09	12,2	At T-korsning, stay on 63 (East)	0,6 km	
+09:10	12,9	At T-korsning, stay on 63 [Norra Forsnäs] (North)	8,0 km	
+09:16	20,9	At T-korsning, stay on 63 [Getebol] (North)	1,0 km	
+09:16	21,9	At T-korsning, stay on 63 (North)	2,0 km	
+09:18	23,9	At T-korsning, stay on 63 (East)	3,0 km	
+09:20	26,9	At T-korsning Molkom S, stay on 63 (East)	0,7 km	
+09:21	27,6	Arrive T-korsning Molkom SÖ		
+
+SUMMARY
+Driving distance:  27,6 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  34,46 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  27,1 kilometres (21 minutes)
+09:00	0,0	Depart T-korsning Molkom SÖ on 63 (West)	0,7 km	
+09:00	0,7	At T-korsning Molkom S, stay on 63 (West)	3,0 km	
+09:03	3,7	At T-korsning, stay on 63 (West)	2,0 km	
+09:04	5,7	At T-korsning, stay on 63 [Getebol] (South)	1,0 km	
+09:05	6,7	At T-korsning, stay on 63 [Getebol] (South)	8,0 km	
+09:11	14,8	At T-korsning, stay on 63 (South)	0,6 km	
+09:11	15,4	At T-korsning, stay on 63 (West)	2,3 km	
+09:13	17,7	At T-korsning Vallargärdet N, stay on 63 [Bengtsbol] (South)	0,7 km	
+09:14	18,4	At T-korsning Vallargärdet S, stay on 63 [Bengtsbol] (South-West)	1,3 km	
+09:15	19,7	At Korsning Ulvsbyn, stay on 63 [Ulvsbyn] (South)	1,0 km	
+09:16	20,7	At Korsning Skål, stay on 63 (South)	4,6 km	
+09:19	25,3	At 63, 654 Karlstad, keep STRAIGHT to stay on 63	1,2 km	
+09:20	26,6	At 63, 654 Karlstad, stay on 63 (South)	0,5 km	
+09:21	27,1	Arrive Höjdgatan, 654 Karlstad		
+
+SUMMARY
+Driving distance:  27,1 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  33,56 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,2 kilometres (26 minutes)
+09:00	0,0	Depart T-korsning Molkom SÖ on 63 [240] (East)	0,9 km	
+09:00	0,9	At T-korsning Molkom Ö, stay on 63 (North-East)	3,0 km	
+09:02	3,9	At near Blombacka, stay on 63 (East)	1,3 km	
+09:03	5,2	At Korsning Blombacka Ö, stay on 63 [Lindfors] (East)	0,9 km	
+09:04	6,1	At Korsning Lindfors V, stay on 63 (East)	1,0 km	
+09:05	7,1	At Korsning Lindfors Ö, stay on 63 (East)	5,8 km	
+09:09	12,9	At 63, 660 Molkom, stay on 63 (East)	0,6 km	
+09:10	13,4	At T-korsning Brattforsheden, stay on 63 (North-East)	5,5 km	
+09:15	18,9	At Korsning Brattfors S, stay on 63 (North-East)	2,8 km	
+09:18	21,8	At Korsning Brattfors N, stay on 63 (East)	8,4 km	
+09:24	30,1	At Rondell Filipstad V, stay on 63 (East)	0,3 km	
+09:25	30,4	At near Filipstad, stay on 63 [Hertig Karlsgatan] (East)	0,8 km	
+09:26	31,2	Arrive Korsning Filipstad Ö		
+
+SUMMARY
+Driving distance:  31,2 kilometres
+Trip duration:  26 minutes
+Driving time:  26 minutes
+Cost:  39,44 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  31,2 kilometres (24 minutes)
+09:00	0,0	Depart Korsning Filipstad Ö on 63 [Hertig Karlsgatan] (West)	0,5 km	
+09:00	0,5	At Korsning 63/Tegnergatan, stay on 63 [Hertig Karlsgatan] (West)	0,3 km	
+09:01	0,8	At T-korsning Filipstad Ö, stay on 63 (West)	8,6 km	
+09:08	9,4	At Korsning Brattfors N, stay on 63 (South-West)	2,8 km	
+09:10	12,3	At Korsning Brattfors S, stay on 63 (South-West)	5,5 km	
+09:14	17,8	At T-korsning Brattforsheden, stay on 63 (South-West)	0,6 km	
+09:15	18,3	At near Suttertjärn, stay on 63 (West)	5,8 km	
+09:19	24,1	At Korsning Lindfors Ö, stay on 63 (West)	1,0 km	
+09:20	25,1	At Korsning Lindfors V, stay on 63 [Lindforsvägen] (West)	0,9 km	
+09:20	26,0	At Korsning Blombacka Ö, stay on 63 (West)	1,3 km	
+09:21	27,3	At near Blombacka, stay on 63 (West)	3,0 km	
+09:24	30,3	At T-korsning Molkom Ö, stay on 63 [240] (South-West)	0,9 km	
+09:24	31,2	Arrive T-korsning Molkom SÖ		
+
+SUMMARY
+Driving distance:  31,2 kilometres
+Trip duration:  24 minutes
+Driving time:  24 minutes
+Cost:  44,95 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,3 kilometres (21 minutes)
+09:00	0,0	Depart Korsning Filipstad Ö on 26 [63] (East)	2,7 km	
+09:02	2,7	At T-korsning, stay on 26 [63] (North)	3,7 km	
+09:05	6,4	At Korsning Persberg, stay on 26 [63] (East)	2,1 km	
+09:07	8,5	At T-korsning Rv 26/Rv 63, keep STRAIGHT onto 63	7,0 km	
+09:12	15,6	At T-korsning Saxå S, stay on 63 (East)	4,2 km	
+09:15	19,7	At near Saxhyttan, stay on 63 (South-East)	3,8 km	
+09:18	23,5	At Korsning Saxhyttan V, stay on 63 (South-East)	1,0 km	
+09:19	24,5	At T-korsning Saxhyttan Ö, stay on 63 (North-East)	1,2 km	
+09:20	25,7	At Korsning Hammarn V, stay on 63 (North-East)	0,6 km	
+09:21	26,3	Arrive near Hammarn		
+
+SUMMARY
+Driving distance:  26,3 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  32,09 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  26,5 kilometres (21 minutes)
+09:00	0,0	Depart 63, 712 Grythyttan on Local road(s) (South)	40 m	
+09:00	0,1	Bear RIGHT (West) onto 63	0,7 km	
+09:00	0,8	At Korsning Hammarn V, stay on 63 (South-West)	1,2 km	
+09:01	2,0	At T-korsning Saxhyttan Ö, stay on 63 (West)	1,0 km	
+09:02	3,0	At Korsning Saxhyttan V, stay on 63 (North-West)	3,8 km	
+09:05	6,7	At near Saxhyttan, stay on 63 (West)	4,2 km	
+09:08	10,9	At T-korsning Saxå S, stay on 63 (West)	7,0 km	
+09:14	17,9	At T-korsning Rv 26/Rv 63, keep STRAIGHT onto 26 [63]	2,1 km	
+09:16	20,0	At Korsning Persberg, stay on 26 [63] (West)	3,7 km	
+09:18	23,7	At T-korsning, stay on 26 [63] (South)	2,7 km	
+09:21	26,5	Arrive Korsning Filipstad Ö		
+
+SUMMARY
+Driving distance:  26,5 kilometres
+Trip duration:  21 minutes
+Driving time:  21 minutes
+Cost:  32,36 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,6 kilometres (46 minutes)
+09:00	0,0	Depart near Hammarn on 63 (East)	0,1 km	
+09:00	0,1	Turn LEFT to stay on 63	2,4 km	
+09:02	2,5	At Korsning Hällefors S, stay on 63 [Grythyttevägen] (North)	1,8 km	
+09:04	4,3	At Korsning Hällefors N, stay on 63 (North)	11,4 km	
+09:14	15,7	At T-korsning Jönshyttan, stay on 63 (South)	4,8 km	
+09:18	20,4	At Korsning Hjulsjö N, stay on 63 (East)	0,9 km	
+09:19	21,4	At T-korsning Hjulsjö Ö, stay on 63 (South-East)	0,5 km	
+09:19	21,9	At Korsning Hjulsjö S, stay on 63 (South-East)	8,3 km	
+09:27	30,1	At near Finnbo, stay on 63 (East)	8,0 km	
+09:36	38,1	At T-korsning Stjärnfors S, stay on 63 (North)	0,5 km	
+09:36	38,5	At T-korsning Stjärnfors N, stay on 63 (North)	4,6 km	
+09:41	43,2	At near Ljusnarsberg, stay on 63 (North)	0,5 km	
+09:42	43,7	At T-korsning 63/Ställdalsv., stay on 63 [Konstmästaregatan] (East)	0,4 km	
+09:43	44,1	At Korsning Kopparberg C, stay on 63 [Kyrkogårdsgatan] (North-East)	2,5 km	
+09:46	46,6	Arrive T-korsning Kopparberg N		
+
+SUMMARY
+Driving distance:  46,6 kilometres
+Trip duration:  46 minutes
+Driving time:  46 minutes
+Cost:  56,52 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  46,5 kilometres (46 minutes)
+09:00	0,0	Depart 50, 714 Kopparberg on Local road(s) (South)	0,1 km	
+09:00	0,1	Keep STRAIGHT onto 63	2,5 km	
+09:03	2,6	At Korsning Kopparberg C, stay on 63 [Konstmästaregatan] (South-West)	0,4 km	
+09:03	3,0	At T-korsning 63/Ställdalsv., stay on 63 [Konstmästaregatan] (South-West)	0,5 km	
+09:04	3,5	At near Ljusnarsberg, stay on 63 (South)	4,6 km	
+09:09	8,1	At T-korsning Stjärnfors N, stay on 63 (South)	0,5 km	
+09:10	8,6	At T-korsning Stjärnfors S, stay on 63 (South)	8,0 km	
+09:18	16,6	At near Finnbo, stay on 63 (West)	8,3 km	
+09:26	24,8	At Korsning Hjulsjö S, stay on 63 (North-West)	0,5 km	
+09:27	25,3	At T-korsning Hjulsjö Ö, stay on 63 (North-West)	0,9 km	
+09:28	26,3	At Korsning Hjulsjö N, stay on 63 (West)	4,8 km	
+09:31	31,0	At T-korsning Jönshyttan, stay on 63 (North)	11,4 km	
+09:41	42,4	At Korsning Hällefors N, stay on 63 [Grythyttevägen] (South)	1,8 km	
+09:44	44,2	At Korsning Hällefors S, stay on 63 (South)	2,3 km	
+09:46	46,5	Arrive 63, 712 Grythyttan		
+
+SUMMARY
+Driving distance:  46,5 kilometres
+Trip duration:  46 minutes
+Driving time:  46 minutes
+Cost:  56,28 kr
+
+
+Bergmotet - Trafikplats
+1.0 km/0.5 km	0 min 51 s/0 min 26 s	70
+1.1 km/1.2 km	0 min 57 s/1 min 2 s
+
+Trafikplats - Vallargärdet S
+4.7 km/4.6 km	3 min 32 s/3 min 27 s	80
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+1.3 km/1.3 km	0 min 59 s/0 min 59 s
+
+Vallargärdet S - Vallargärdet N
+0.4 km/0.7 km	0 min 29 s/0 min 50 s	50
+
+Vallargärdet N - Molkom S
+2.6 km/2.3 km	1 min 57 s/1 min 43 s	80
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+8.0 km/8.0 km	6 min 0 s/6 min 0 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+2.0 km/2.0 km	1 min 30 s/1 min 30 s
+3.0 km/3.0 km	2 min 15 s/2 min 15 s
+
+Molkom S - Molkom Ö
+0.7 km/0.7 km	0 min 42 s/0 min 42 s	60
+0.9 km/0.9 km	0 min 54 s/0 min 54 s
+
+Molkom Ö - Lindfors Ö
+3.0 km/3.0 km	2 min 34 s/2 min 34 s	70
+1.3 km/1.3 km	1 min 7 s/1 min 7 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+1.0 km/1.0 km	0 min 51 s/0 min 51 s
+
+Lindfors Ö - Filipstad V
+5.8 km/5.8 km	4 min 21 s/4 min 21 s	80
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+5.5 km/5.5 km	4 min 8 s/4 min 8 s
+2.8 km/2.8 km	2 min 6 s/2 min 6 s
+8.0 km/8.0 km	6 min 0 s/6 min 0 s
+0.4 km/0.6 km	0 min 18 s/0 min 27 s
+
+Filipstad V - Filipstad Ö
+0.3 km/0.3 km	0 min 22 s/0 min 22 s	50
+0.8 km/0.5 km	0 min 58 s/0 min 36 s
+
+Filipstad Ö - 26/63
+2.7 km/2.7 km	2 min 19 s/2 min 19 s	70
+3.7 km/3.7 km	3 min 10 s/3 min 10 s
+2.1 km/2.1 km	1 min 48 s/1 min 48 s
+
+26/63 - Hammarn N
+7.0 km/7.0 km	5 min 15 s/5 min 15 s	80
+4.2 km/4.2 km	3 min 9 s/3 min 9 s
+3.8 km/3.8 km	2 min 51 s/2 min 51 s
+1.0 km/1.0 km	0 min 45 s/0 min 45 s
+1.2 km/1.2 km	0 min 54 s/0 min 54 s
+0.6 km/0.8 km	0 min 27 s/0 min 36 s
+
+Hammarn N - Hällefors S
+2.5 km/2.3 km	2 min 9 s/1 min 58 s	70
+
+Hällefors S - Hällefors N
+1.8 km/1.8 km	2 min 10 s/2 min 10 s	50
+
+Hällefors N - Järnvägskorsning
+11.4 km/11.4 km	9 min 46 s/9 min 46 s	70
+4.8 km/4.8 km	4 min 7 s/4 min 7 s
+0.9 km/0.9 km	0 min 46 s/0 min 46 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+8.3 km/8.3 km	7 min 7 s/7 min 7 s
+8.0 km/8.0 km	6 min 51 s/6 min 51 s
+0.5 km/0.5 km	0 min 26 s/0 min 26 s
+4.6 km/4.6 km	3 min 57 s/3 min 57 s
+
+Järnvägskorsning - Kopparberg C
+0.5 km/0.5 km	0 min 45 s/0 min 45 s	40
+0.4 km/0.4 km	0 min 36 s/0 min 36 s
+
+Kopparberg C - Kopparberg N
+2.5 km/2.6 km	2 min 9 s/2 min 14 s	70

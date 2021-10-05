@@ -1,0 +1,306 @@
+Reseguide A2 (Hannover - Oberhausen)
+====================================
+
+AB-Kreuz Hannover-Ost (48)
+ A7 n: Hamburg
+ A7 s: Kassel, Göttingen
+					4.0 km/3.8 km	2 min 24 s/2 min 17 s
+AB-Kreuz Hannover-Buchholz (47)
+ A37 n: Celle
+ A37 s: Hannover-Zentrum
+					2.0 km/1.1 km	1 min 12 s/0 min 40 s
+Anschlausstelle 46
+ Hannover-Lahe
+					0.8 km/1.2 km	0 min 29 s/0 min 43 s
+Rastplatz Varrelheide
+ WC
+					3.2 km/3.3 km	1 min 55 s/1 min 59 s
+Anschlausstelle 45
+ Hannover-Bothfeld
+					1.5 km/1.3 km	0 min 54 s/0 min 47 s
+Rastplatz (östgående)
+ WC
+					1.2 km/2.0 km	0 min 43 s/1 min 12 s
+Anschlausstelle 44
+ Hannover/Langhenhagen
+ Hannover Flughaven
+ B522:
+					2.9 km/2.1 km	1 min 44 s/1 min 16 s
+Rastplatz Godshorn (västgående)
+ WC
+					2.8 km/3.4 km	1 min 41 s/2 min 2 s
+AB-Dreieck Hannover-West (43)
+(avfart östgående riktning
+påfart västgående riktning)
+ A352: [A7 n]: Hamburg
+					1.4 km/2.3 km	0 min 50 s/1 min 23 s
+Anschlausstelle 42
+ Hannover-Herrenhausen
+ B6 n: Nienburg
+ B6 s: Hannover-Zentrum
+					5.4 km/4.3 km	3 min 14 s/2 min 35 s
+Anschlausstelle 41
+ Garbsen
+Rasthof Garbsen
+ Bensin, Restaurang
+					2.5 km/2.6 km	1 min 15 s/1 min 18 s
+Leinebrücke (250 m)
+					0.7 km/1.1 km	0 min 21 s/0 min 33 s
+Anschlausstelle 40
+ Wunsdorf-Luthe
+ B441 w: Uchte
+ B441 o: Seelze
+					1.0 km/0.4 km	0 min 30 s/0 min 12 s
+Mittellandkanalbrücke (75 m)
+					3.1 km/2.9 km	1 min 33 s/1 min 27 s
+Anschlausstelle 39
+ Wunsdorf-Kolenfeld
+					5.7 km/6.3 km	2 min 51 s/3 min 9 s
+Rastplatz Brückethaler Knick
+ WC
+					1.7 km/1.7 km	0 min 51 s/0 min 51 s
+Anschlausstelle 38
+ Bad Nenndorf
+ B65 w: Stadthagen
+ B65 o: Ronnenberg, Gehrden
+					7.3 km/7.2 km	3 min 39 s/3 min 36 s
+Anschlausstelle 37
+ Lauenau
+ B442 n: Ronnenberg
+ B442 s: Bad Münder am Deister
+					3.8 km/3.0 km	1 min 54 s/1 min 30 s
+Rastplatz Schlafstrift
+ Restaurang
+					5.6 km/5.8 km	2 min 48 s/2 min 54 s
+Anschlausstelle 36
+ Rehren
+ Hessisch Oldendorf, Hammeln
+					1.5 km/1.7 km	0 min 45 s/0 min 51 s
+Rasthof Auetal
+ Bensin, Restaurang
+					4.0 km/4.4 km	2 min 0 s/2 min 12 s
+(Talbrücke Ölbergen (325 m))
+
+Parkplatz (östgående)
+					4.4 km/4.2 km	2 min 12 s/2 min 6 s
+Anschlausstelle 35
+ Bad Eilsen
+ B83 w: Minden, Bückeburg
+ B83 o: Hammeln, Hessisch Oldendorf
+(Talbrücke Arensburg(562/568 m))
+
+(Talbrücke Luhden (230 m))
+
+(Talbrücke Schermbeck B (230 m))
+
+(Talbrücke Schermbeck A (180 m))
+					3.6 km/3.7 km	1 min 48 s/1 min 51 s
+Rastplatz
+ WC
+					1.5 km/1.1 km	0 min 45 s/0 min 33 s
+Niedersachsen / Northrhein-Westfalen
+
+(Talbrücke Kleinenbremen (180 m))
+					5.5 km/5.6 km	2 min 45 s/2 min 48 s
+Anschlausstelle 34
+ Veltheim
+					1.7 km/1.8 km	0 min 51 s/0 min 54 s
+Rastplatz Fuchsgrund/Löwenburg
+					4.0 km/3.9 km	2 min 0 s/1 min 57 s
+Anschlausstelle 33
+ Porta Westfalica
+ B482: 
+					1.5 km/1.6 km	0 min 45 s/0 min 48 s
+Weserbrücke (200 m)
+
+(Weser-Flutbrücke (250 m))
+					0.6 km/1.4 km	0 min 18 s/0 min 42 s
+AB-Kreuz Bad Oyenhausen (32)
+ A30 w: Amsterdam, Osnabrück
+ B514: Vlotho
+
+(Talbrücke Steinegge (255 m))
+
+(Talbrücke Exter (202,5/236 m))
+					8.9 km/8.4 km	4 min 27 s/4 min 12 s
+Anschlausstelle 31
+ Exter
+					3.2 km/3.3 km	1 min 36 s/1 min 39 s
+Anschlausstelle 30
+ Herford-Ost
+
+(Talbrücke Finnebach (158 m))
+					3.7 km/3.5 km	1 min 51 s/1 min 45 s
+Rasthof Herford
+ Bensin, Restaurang
+					1.7 km/2.6 km	0 min 51 s/1 min 18 s
+(Werrebrücke (100 m))
+Anschlausstelle 29
+ Herford / Bad Salzuflen
+ B239:
+					4.8 km/3.9 km	2 min 24 s/1 min 57 s
+Anschlausstelle 28
+ Ostwestfalen / Lippe
+
+(Rasthof Bielefeld)
+ Planerad
+					4.8 km/5.0 km	2 min 24 s/2 min 30 s
+Parkplatz (västgående)
+ WC
+					2.7 km/3.2 km	1 min 21 s/1 min 36 s
+Anschlausstelle 27
+ Bielefeld-Zentrum
+ B66:
+
+(Talbrücke Lämershagen (200 m))
+					7.0 km/6.3 km	3 min 30 s/3 min 9 s
+Anschlausstelle 26
+ Bielefeld-Sennerstadt
+ B68: 
+					1.4 km/2.2 km	0 min 42 s/1 min 6 s
+AB-Kreuz Bielefeld (25)
+ A33 n:
+ A33 s:
+					2.4 km/1.5 km	1 min 12 s/0 min 45 s
+Rastplatz Obergassel (östgående)
+ Restaurang
+Rastplatz Niedergassel (västgående)
+ Restaurang
+					6.4 km/7.1 km	3 min 12 s/3 min 33 s
+Parkplatz Sürenheide/Heidenplatz
+					2.1 km/1.7 km	1 min 3 s/0 min 51 s
+Anschlausstelle 24
+ Gütersloh
+					4.6 km/5.0 km	2 min 18 s/2 min 30 s
+Rasthof Gütersloh
+					3.3 km/3.8 km	1 min 39 s/1 min 54 s
+Anschlausstelle 23
+ Rheda-Weidenbrück
+ B64:
+					9.5 km/8.8 km	4 min 45 s/4 min 24 s
+Parkplatz Am Berge/Marburge
+					5.4 km/5.0 km	2 min 42 s/2 min 30 s
+Anschlausstelle 21
+ Oelde
+					4.2 km/4.5 km	2 min 6 s/2 min 15 s
+Rasthof Vellern
+ Restaurang
+					3.5 km/3.3 km	1 min 45 s/1 min 39 s
+Anschlausstelle 20
+ Beckum
+ B475:
+					7.3 km/7.4 km	3 min 39 s/3 min 42 s
+Parkplatz Stettin/Brunsberg
+					3.3 km/3.1 km	1 min 39 s/1 min 33 s
+Anschlausstelle 19
+ Hamm-Uentrop
+					0.6 km/0.5 km	0 min 18 s/0 min 15 s
+Lippebrücke
+					1.4 km/1.5 km	0 min 42 s/0 min 45 s
+Datteln-Hamm-Kanal-Brücke
+					1.6 km/1.1 km	0 min 48 s/0 min 33 s
+Parkplatz
+					6.3 km/7.3 km	3 min 9 s/3 min 39 s
+Rasthof Rhynern
+ Bensin, Restaurang
+					2.3 km/2.0 km	1 min 9 s/1 min 0 s
+Anschlausstelle 18
+ Hamm
+ B63:
+					6.4 km/6.8 km	3 min 12 s/3 min 24 s
+Anschlausstelle 17
+ Bönen
+					1.4 km/1.1 km	0 min 42 s/0 min 33 s
+Parkplatz Kolberg (östgående)
+					3.0 km/3.9 km	1 min 30 s/1 min 57 s
+Kamener Kreuz (16)
+ A1 n: Bremen. Münster
+ A1 s: Köln, Wuppertal
+					5.2 km/4.0 km	3 min 7 s/2 min 24 s
+Anschlausstelle 15
+ Kamen / Bergkamen
+ B61 w: Lünen, Beckinghausen
+					2.3 km/2.6 km	1 min 23 s/1 min 34 s
+Rastplatz Paschheide (västgående)
+ WC
+					3.4 km/3.2 km	2 min 2 s/1 min 55 s
+Anschlausstelle 14
+(östgående riktning)
+ Dortmund-Landstorp
+					3.1 km/3.8 km	1 min 52 s/2 min 17 s
+Anschlausstelle 13
+ Dortmund-Nordost
+ B236: Lünen
+					4.6 km/4.2 km	2 min 46 s/2 min 31 s
+Rastplatz Kleine Herrenthey
+(östgående riktning)
+ WC
+					2.0 km/1.5 km	1 min 12 s/0 min 54 s
+Dortmund-Ems-Kanal-Brücke (90 m)
+					0.8 km/3.4 km	0 min 29 s/2 min 2 s
+Anschlausstelle 12
+ Dortmund-Mengede
+AB-Kreuz Dortmund-Nordwest (12)
+ A45 s: Frankfurt/Main, Hagen
+					4.6 km/2.3 km	2 min 46 s/1 min 23 s
+Rastplatz (västgående)
+ WC
+					1.3 km/1.1 km	0 min 47 s/0 min 40 s
+Anschlausstelle 11
+ Henrichenburg
+ B235 n: Lüdinghausen, Datteln
+ B235 s: Witten, Castrop-Rauxel
+
+(Rhein-Herne-Kanal-Brücke (90 m))
+					4.6 km/4.8 km	2 min 46 s/2 min 53 s
+Anschlausstelle 10
+ Recklinghausen-Ost
+2.7 km/2.7 km	1 min 37 s/1 min 37 s
+
+Anschlausstelle 9
+ Recklinghausen-Süd
+					1.7 km/3.0 km	1 min 1 s/1 min 48 s
+AB-Kreuz Recklinghausen (8)
+ A43 n: Münster
+ A43 s: Wuppertal, Bochum
+Rastplatz Hochlarmark
+					4.7 km/3.2 km	2 min 49 s/1 min 55 s
+Anschlausstelle 7
+ Herten
+					1.9 km/2.1 km	1 min 8 s/1 min 16 s
+Rasthof Resser Mark
+ Bensin, Restaurang
+					1.4 km/1.2 km	0 min 50 s/0 min 43 s
+Tunnel Einhausung Erle (320 m)
+					1.3 km/1.6 km	0 min 47 s/0 min 58 s
+Anschlausstelle 6
+ Gelsenkirchen-Buer
+					2.5 km/2.3 km	1 min 30 s/1 min 23 s
+Rastplatz Allenstein (östgående)
+					3.7 km/3.7 km	2 min 13 s/2 min 13 s
+Anschlausstelle 5
+ Essen / Gladbeck
+ B224: 
+					0.8 km/0.7 km	0 min 29 s/0 min 25 s
+Anschlausstelle 4
+ Gladbeck-Ellinghorst
+					2.6 km/4.4 km	1 min 34 s/2 min 38 s
+AB-Kreuz Bottrop (3)
+ A 31 s:
+ A 31 n:
+Anschlausstelle 3
+ Bottrop
+					3.7 km/1.9 km	2 min 13 s/1 min 8 s
+Rasthof Bottrop (östgående)
+ Bensin, Restaurang
+Rastplatz Schwarze Heide (västgående)
+ WC
+					0.9 km/0.8 km	0 min 32 s/0 min 29 s
+Anschlausstelle 2
+ Oberhausen-Köningshardt
+					1.9 km/3.2 km	1 min 8 s/1 min 55 s
+AB-Kreuz Oberhausen (1)
+ A3 n: Arnhem, Wesen
+ A3 s: Düsseldorf, Duisburg
+ A516 w:
+

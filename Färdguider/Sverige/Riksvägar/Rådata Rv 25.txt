@@ -1,0 +1,148 @@
+Time	Km	Instruction	For	Toward
+Summary:  37,9 kilometres (25 minutes)
+09:00	0,0	Depart near Dragaryd on 25 [Helsingborgsvägen] (East)	0,2 km	Ljungby S
+09:00	0,2	At Helsingborgsvägen, 341 32 Ljungby, keep RIGHT onto Ramp	0,3 km	E4 / 25 / Stockholm / Kalmar / Växjö
+09:00	0,5	Keep RIGHT onto E4 [25]	5,5 km	
+09:03	6,0	At 80, keep STRAIGHT onto Ramp [80]	0,2 km	25 / Kalmar / Växjö / Ljungby N
+09:04	6,2	Keep RIGHT to stay on Ramp [Trafikplats Ljungby Norra]	0,2 km	25 / Kalmar / Ljungby C.
+09:04	6,4	Keep STRAIGHT onto 25	0,8 km	
+09:05	7,2	At roundabout, take the SECOND exit onto 25	1,2 km	
+09:06	8,4	At Korsning Sickinge, stay on 25 (East)	2,6 km	
+09:07	11,0	At 25, 341 96 Ljungby, stay on 25 (East)	1,8 km	
+09:08	12,8	At Korsning Tutaryd väg 25, stay on 25 (East)	6,3 km	
+09:13	19,2	At T-korsning Ryssby V, stay on 25 (East)	1,2 km	
+09:13	20,4	At Korsning Ryssby N, stay on 25 (East)	0,7 km	
+09:14	21,1	At Korsning Östraby, stay on 25 (East)	1,8 km	
+09:15	22,9	At Korsning Staffansboda, stay on 25 (East)	3,3 km	
+09:17	26,2	At near Lyngsåsa, stay on 25 (East)	0,7 km	
+09:18	26,9	At 25, 330 17 Rydaholm, stay on 25 (East)	4,5 km	
+09:21	31,4	At near Lyngsåsa, stay on 25 (East)	3,0 km	
+09:23	34,4	At Korsning Brunnshult, stay on 25 (East)	3,5 km	
+09:25	37,9	Arrive 25, 342 93 Alvesta		
+
+SUMMARY
+Driving distance:  37,9 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  44,56 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  37,8 kilometres (25 minutes)
+09:00	0,0	Depart near Hjortsberga on Local road(s) (North)	50 m	
+09:00	0,1	Keep RIGHT onto 25	3,5 km	
+09:02	3,5	At Korsning Brunnshult, stay on 25 (West)	3,0 km	
+09:04	6,5	At near Lyngsåsa, stay on 25 (West)	4,4 km	
+09:07	11,0	At 25, 330 17 Rydaholm, stay on 25 (West)	0,6 km	
+09:07	11,6	At Korsning Malaberg, stay on 25 (West)	3,4 km	
+09:09	15,0	At 25, 341 76 Ryssby, stay on 25 (West)	1,9 km	
+09:10	16,9	At Korsning Östraby, stay on 25 (West)	0,7 km	
+09:11	17,6	At Korsning Ryssby N, stay on 25 (West)	1,2 km	
+09:12	18,8	At T-korsning Ryssby V, stay on 25 (West)	6,3 km	
+09:16	25,1	At Korsning Tutaryd väg 25, stay on 25 (West)	1,8 km	
+09:17	26,9	At Korsning Gnustorp, stay on 25 (West)	2,6 km	
+09:19	29,5	At Korsning Sickinge, stay on 25 (West)	1,1 km	
+09:20	30,7	At roundabout, take the SECOND exit onto 25	0,8 km	
+09:21	31,5	At 25, 341 96 Ljungby, keep STRAIGHT to stay on 25	0,4 km	
+09:21	31,9	At 25, 341 96 Ljungby, bear RIGHT (North) onto Ramp [Trafikplats Ljungby Norra]	0,3 km	E4 / 25 / Helsingborg / Halmstad
+09:21	32,2	Keep STRAIGHT onto E4 [25]	5,6 km	
+09:25	37,8	Arrive 79		
+
+SUMMARY
+Driving distance:  37,8 kilometres
+Trip duration:  25 minutes
+Driving time:  25 minutes
+Cost:  44,43 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,3 kilometres (14 minutes)
+09:00	0,0	Depart 25, 342 93 Alvesta on Local road(s) (South-East)	40 m	
+09:00	0,1	Bear RIGHT (East) onto 25 [27]	1,1 km	
+09:00	1,1	At T-korsning Hjortsberga S, stay on 25 [27] (East)	0,5 km	
+09:01	1,6	At T-korsning Norra Råsen, stay on 25 [27] (East)	0,6 km	
+09:01	2,2	At T-korsning Forsa vägskäl, stay on 25 [27] (North-East)	0,4 km	
+09:02	2,6	At near Hjortsberga, stay on 25 [27] (East)	0,4 km	
+09:02	3,0	At Korsning Hälleberg, stay on 25 [27] (East)	1,1 km	
+09:03	4,0	At 27, 342 95 Alvesta, stay on 25 [27] (East)	3,8 km	
+09:05	7,8	At 27, 342 92 Alvesta, stay on 25 [27] (East)	0,6 km	
+09:05	8,4	At 27, 342 92 Alvesta, stay on 25 [27] (East)	1,1 km	
+09:06	9,4	At 27, 342 92 Alvesta, stay on 25 [27] (East)	0,4 km	
+09:06	9,9	At 27, 342 92 Alvesta, stay on 25 [27] (East)	2,8 km	
+09:08	12,7	At near Lekaryd, stay on 25 [27] (East)	6,2 km	
+09:13	18,8	At 27, 352 50 Växjö, stay on 25 [27] (East)	1,5 km	
+09:14	20,3	Arrive 27, 352 50 Växjö		
+
+SUMMARY
+Driving distance:  20,3 kilometres
+Trip duration:  14 minutes
+Driving time:  14 minutes
+Cost:  23,50 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  20,9 kilometres (15 minutes)
+09:00	0,0	Depart near Bergsnäs on Ramp [27] (West)	1,6 km	25 / 27 / 30 / Halmstad / Göteborg / Flygplats / Jönköping
+09:01	1,6	At 27, 352 50 Växjö, stay on 25 [27] (West)	6,6 km	
+09:06	8,2	At near Lekaryd, stay on 25 [27] (West)	2,7 km	
+09:08	10,8	At near Lekaryd, stay on 25 [27] (West)	0,5 km	
+09:08	11,3	At 27, 342 92 Alvesta, stay on 25 [27] (West)	1,1 km	
+09:09	12,3	At 27, 342 92 Alvesta, stay on 25 [27] (West)	0,8 km	
+09:09	13,2	At 27, 342 92 Alvesta, stay on 25 [27] (West)	3,6 km	
+09:12	16,7	At T-korsning Alvesta V, stay on 25 [27] (West)	1,1 km	
+09:12	17,8	At Korsning Hälleberg, stay on 25 [27] (South-West)	0,5 km	
+09:13	18,4	At near Hjortsberga, stay on 25 [27] (West)	0,4 km	
+09:13	18,7	At T-korsning Forsa vägskäl, stay on 25 [27] (South-West)	0,6 km	
+09:14	19,3	At T-korsning Norra Råsen, stay on 25 [27] (West)	0,5 km	
+09:14	19,8	At T-korsning Hjortsberga S, stay on 25 [27] (West)	1,1 km	
+09:15	20,9	Arrive 27, 342 93 Alvesta		
+
+SUMMARY
+Driving distance:  20,9 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  24,49 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  7,8 kilometres (6 minutes)
+09:00	0,0	Depart 27, 352 50 Växjö on 25 [27] (South-East)	0,1 km	Centrum
+09:00	0,1	Take Ramp [27] (RIGHT) onto 23 [25]	1,9 km	23 / 25 / 27 / 29 / Oskarshamn / Kalmar / Karlskrona
+09:01	2,0	At 23, 352 46 Växjö, stay on 23 [25] (North-East)	1,4 km	
+09:02	3,4	At 23, 352 60 Växjö, stay on 23 [25] (East)	1,6 km	
+09:03	5,0	At 23, 352 44 Växjö, road name changes to 25 [27]	2,0 km	
+09:05	7,0	At T-korsning, stay on 25 [27] (South)	0,8 km	
+09:06	7,8	Arrive Fagrabäcksrondellen, 352 41 Växjö		
+
+SUMMARY
+Driving distance:  7,8 kilometres
+Trip duration:  6 minutes
+Driving time:  6 minutes
+Cost:  13,50 kr
+
+6.0 km/6.3 km	4 min 0 s/4 min 12 s
+1.2 km/0.8 km	0 min 48 s/0 min 32 s
+1.2 km/1.1 km	0 min 48 s/0 min 44 s
+2.6 km/2.6 km	1 min 44 s/1 min 44 s
+1.8 km/1.8 km	1 min 12 s/1 min 12 s
+6.3 km/6.3 km	4 min 12 s/4 min 12 s
+1.2 km/1.2 km	0 min 48 s/0 min 48 s
+0.7 km/0.7 km	0 min 28 s/0 min 28 s
+1.8 km/1.9 km	1 min 12 s/1 min 16 s
+3.3 km/3.4 km	2 min 12 s/2 min 16 s
+0.7 km/0.6 km	0 min 28 s/0 min 24 s
+4.5 km/4.4 km	3 min 0 s/2 min 56 s
+3.0 km/3.0 km	2 min 0 s/2 min 0 s
+3.5 km/3.5 km	2 min 20 s/2 min 20 s
+
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+0.5 km/0.5 km	0 min 23 s/0 min 23 s
+0.6 km/0.6 km	0 min 27 s/0 min 27 s
+0.4 km/0.4 km	0 min 18 s/0 min 18 s
+0.4 km/0.5 km	0 min 18 s/0 min 23 s
+1.1 km/1.1 km	0 min 50 s/0 min 50 s
+
+3.8 km/3.6 km	2 min 32 s/2 min 24 s
+0.6 km/0.8 km	0 min 24 s/0 min 32 s
+1.1 km/1.1 km	0 min 44 s/0 min 44 s
+0.4 km/0.5 km	0 min 16 s/0 min 20 s
+2.8 km/2.7 km	1 min 52 s/1 min 48 s
+6.2 km/6.6 km	4 min 8 s/4 min 24 s
+
+1.5 km/1.6 km	0 min 54 s/0 min 58 s

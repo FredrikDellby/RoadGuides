@@ -1,0 +1,2332 @@
+Skåne län
+==========
+
+f.d. Malmöhus län:
+- Nyhamnsläge					X
+- Höganäs					X
+- Ödåkra-Väla					X
+- Helsingborg Bergavägen (Tanka)		X
+- Helsingborg Välavägen				-*
+- Helsingborg Ängelholmsvägen			X
+- Helsingborg Råå/Planteringsvägen		X
+- Billesholm Spinngatan (Tanka)			X
+- Glumslöv norrgående				X
+- Glumslöv södergående				X
+- Landskrona Volvo (Tanka)			X
+- Landskrona Föreningsgatan			X
+- Höör Björkgatan				X
+- Hörby Storgatan (Tanka)			X
+- Eslöv Vikhemsvägen (Tanka)			-
+- Löddeköpinge					X
+- Lund Kung Oscars väg				X
+- Lund Getingevägen				X
+- Lund Porfyrvägen (Tanka)			X
+- Lund (E-on)
+- Södra Sandby Lundavägen			X
+- Staffanstorp Malmövägen			X
+- Veberöd Truckvägen				X
+- Sjöbo Panteringsgatan (Tanka)			X
+- Arlöv Lundavägen				X
+- Malmö Västkustvägen				X
+- Malmö Vattenverksvägen			X
+- Malmö Ystadvägen (E-on)
+- Malmö Höstgatan Värnhem (Tanka)		X
+- Malmö Nobelvägen (E-on)
+- Malmö Erikslust				X
+- Malmö Rosengård				X
+- Malmö Batterigatan				X
+- Malmö Svansjögatan				X
+- Malmö Mobilia					X
+- Malmö Agnesfridsvägen (Tanka)			X
+- Svedala N. Tvärgatan				X
+- Malmö Sturup					X
+- Vellinge Börjesgatan				X
+- Höllviken					X
+- Trelleborg (Tanka)				-
+- Trelleborg Hedvägen				X
+- Trelleborg Kontinentalplan			X
+- Ystad Kristianstadvägen			X
+- Ystad Metallgatan (Tanka)			X
+
+f.d. Kristianstad län:
+- Båstad Östra Karup, Hallandsåsen		X
+- Båstad Hallandsvägen				X
+- Båstad Hallandsvägen (Tanka)			X
+- Båstad Boarp					-*
+- Skånes Fagerhult				-*
+- Örkelljunga Vallhallavägen			X
+- Ängelholm Kungsgårdsleden (Tanka)		X
+- Ängelholm Östergatan				X
+- Ängelholm Östra vägen				X
+- Åstorp Västra vägen				X
+- Åstorp (E-on)
+- Klippan Storgatan (Tanka)			X
+- Perstorp Banvallsvägen			X
+- Hörja Örkelljungavägen			X
+- Hässleholm Kaptensgatan			X
+- Hässleholm 3:e Avenyn				X
+- Hässleholm N. Kringelvägen (Tanka)		-*
+- Osby Såggatan (Tanka)				X
+- Knislinge Brobyvägen				X
+- Kristianstad Näsbyholmsvägen (E-on)
+- Kristianstad Långebrogatan			X
+- Kristianstad Ringvägen (E-on)
+- Kristianstad Blekingevägen (Tanka)		X
+- Åhus Storgatan				X
+- Brösarp Albovägen				X
+- Tomelilla Malmövägen (Tanka)			X
+- Borrby Sandbyvägen (Tanka)			X
+- Simrishamn Fredsdalsgatan (Tanka)		X
+
+
+Blekinge län
+=============
+
+- Sölvesborg Kämpaslätt (Tanka)			-
+   Kämpaslättsvägen 1
+- Olofström (E-on)
+   Ekhagsvägen 1
+- Olofström Ekhagsvägen (Tanka)			-
+   Ekhagsvägen 1
+- Olofström Brostugevägen			-
+   Brostugevägen 2
+- Svängsta Öjavadsvägen				-
+- Asarum Karlshamn (Tanka)			-
+   Korpadalsvägen 2
+- Ronneby Plankgatan				-
+   Plankgatan 5
+- Ronneby Karlshamnsv. (Tanka)			-
+   Karlshamnsvägen 1
+- Rödeby Rödebyvägen				-
+   Rödebyvägen 25
+- Nättraby Idrottsvägen				-
+   Idrottsvägen 2
+- Karlskrona Gullbernav. (Tanka)		-
+   Gullbernavägen 22
+- Lyckeby Stationsvägen				-*
+- Karlskrona Järnvägstorget			-
+- Jämjö Riksvägen				-
+   Riksvägen 2
+
+
+
+Hallands län
+=============
+
+- Väröbacka gamla E6:an				X
+   Varbergsvägen 22
+- Varberg Västra Vallgatan			X
+   Västra vallgatan 15
+- Varberg Värnamovägen (Tanka)			X
+   Värnamovägen 14
+- Tvååker Himle					-
+- Ullared (E-on)
+   Falkenbergsvägen 21
+- Träslövsläge Fiskhamnsvägen			-*
+- Falkenberg Årstadsvägen			X
+- Falkenberg Varbergsvägen (Tanka)		X
+   Varbergsvägen 59-61
+- Torup Gamla Nissastigen (Tanka)		-
+- Oskarström Brogatan				-
+   Brogatan 33
+- Halmstad Kristinehedsvägen (Tanka)		-*
+- Halmstad Karl Ifvarssons gata (E-on)
+- Halmstad Stationsgatan			X
+   Stationsgatan 74
+- Halmstad Frennarpsvägen			X
+- Halmstad Kornhillsvägen			X
+   Kornhillsvägen 4
+- Halmstad Laholmsvägen				X
+   Laholmsvägen 206
+- Mellbystrand					X
+   Norrleden 2
+- Laholm Industrigatan (Tanka)			-
+   Industrigatan 6
+
+
+Kronobergs län
+===============
+
+Västra delen:
+- Ljungby Långgatan (Tanka)			X
+   Långgatan 1
+- Ljungby Helsingborgsvägen
+- Strömsnäsbruk Glasbruksvägen
+   Glasbruksvägen 15
+- Älmhult Skolgatan				X
+   Skolgatan 8
+- Älmhult Danksa Vägen (Tanka)			-
+   Danska Vägen 4
+- Älmhult S:a Ringvägen				-*
+   S:a Ringvägen 10
+
+Östra delen:
+- Moheda V:a Järnvägsgatan			X
+   Västra Järnvägsgatan 2
+- Växjö Ljungadalsgatan (Tanka)			-
+   Ljungadalsgatan 1-3
+- Växjö Stora vägen				X
+   Stora vägen 6
+- Växjö Lineborgsplan				-
+- Växjö Norremarksvägen				X
+   Norremarksvägen 2
+- Växjö Arabygatan				-
+   Arabygatan 53
+- Växjö Sambandsvägen				X
+   Sambandsvägen 2
+- Alvesta Fabriksgatan				X
+   Fabriksgatan 3
+- Alvesta Blädingevägen (Tanka)			-
+   Blädingevägen 20
+- Ingelstad Riksvägen				-
+   Riksvägen 24
+- Lessebo Storgatan				X
+   Storgatan 60
+- Tingsryd Storgatan (Tanka)			-
+   Storgatan 113
+
+
+Kalmar län
+===========
+
+Norra delen:
+- Västervik Breviksvägen (Tanka)		-
+   Breviksvägen 70
+- Västervik Allén				X
+   Allén 76
+- Vimmerby Magasinsgatan			X
+   Magasinsgatan 5
+- Vimmerby Stångågatan (Tanka)			-
+   Stångågatan 4
+- Hjorted Eklyckan				-*
+- Hultsfred Nytorpsvägen			X
+- Oskarshamn Åsavägen				-
+- Oskarshamn Idrottsvägen			X
+   Idrottsvägen 1
+- Oskarshamn Inkörningsvägen (Tanka)		X
+   Inkörningsvägen 2
+
+Södra delen:
+- Mönsterås Storgatan				X
+   Storgatan 90
+- Nybro Servicegatan (Tanka)			-
+   Servicegatan 1
+- Kalmar Ölandsleden				-
+   Ölandsleden 7
+- Kalmar Norra vägen (Tanka)			-
+   Norra vägen 77-79
+- Kalmar Borgmästaregatan			X
+   Borgmästaregatan 15
+- Emmaboda Granitvägen (Tanka)			X
+   Granitvägen 2
+- Emmaboda					X
+   Storgatan 61
+- Vassmolösa Karlskronavägen			-*
+   Karlskronavägen 51
+- Torsås Kalmarvägen				-
+   Kalmarvägen 10
+- Bergkvara Kungsvägen (Tanka)			X
+   Kungsvägen 63
+
+Öland:
+- Löttorp Högby					-
+- Borgholm (Tanka)				X
+   Storgatan 41
+- Borgholm Storgatan				X
+   Storgatan 77
+- Färjestaden Hamnplan				-
+- Färjestaden Algutsrum				X
+   Törnbottenvägen
+- Mörbylånga Köpmangatan			X
+   Köpmangatan 28
+
+
+Jönköpings län
+===============
+
+Norra delen:
+- Tranås Ågatan (Tanka)				-
+   Ågatan 36
+- Tranås Säbyvägen				X
+   Säbyvägen 1
+- Bankeryd Domsandsvägen			X
+   Domsandsvägen 1
+- Huskarna Vårstarondellen			X
+- Jönköping Jordbrovägen			X
+   Jordbrovägen 10
+- Jönköping Solåsvägen				-*
+
+Västra delen:
+- Skillingaryd Storgatan			-
+   Storgatan 44
+- Skillingaryd Klevshult			X
+- Gnosjö Fritidsvägen				X
+- Gnosjö (E-on)
+   Långgatan
+- Gisslaved (E-on)
+   Stegvägen
+- Gisslaved Södergård				X
+   Gräfthultsvägen 1
+- Gisslaved Baldersvägen (Tanka)		-
+   Baldersvägen 37
+- Smålandsstenar (Tanka)			X
+   Södra Nissastigen
+- Bredaryd Östra Vägen				X
+- Värnamo Nydalavägen (Tanka)			-
+- Värnamo Halmstadsvägen			X
+- Värnamo Bredasten				-
+
+Östra delen:
+- Nässjö Rådhusgatan				X
+   Rådhusgatan 68
+- Nässjö Sörängsvägen (Tanka)			X
+   Sörängsvägen 64
+- Eksjö Stallbergavägen				X
+   Stallbergavägen 2
+- Eksjö Breviksvägen (Tanka)			-
+   Breviksvägen 40
+- Vetlanda Industrigatan (Tanka)		X
+   Industrigatan 31
+- Vetlanda Lasarettsgatan			X
+   Lasarettsgatan 26
+- Vetlanda Storgatan				X
+   Storgatan 83
+
+
+Västra Götalands län
+=====================
+
+Inre Göteborgsområdet:
+- Hisings Backa Brunnsbo (Tanka)		-	-
+   Litteraturgatan
+- Hisings Backa Transportgatan			-*	-
+- Hisings Backa Importgatan			X	-
+   Importgatan 2-4
+- Göteborg Monteringsvägen			-*
+- Göteborg Torslanda (Tanka)			-
+   Sörredsvägen
+- Göteborg Sommarvädersgatan			X
+   Sommarvädersgatan 1
+- Göteborg Inlandsgatan				X
+   Inlandsgatan 52
+- Göteborg Lundbyleden (Tanka)			X
+   Herkulesgatan-Inlandsgatan
+- Göteborg Angered				X
+   Korpvägen, Angeredsleden
+- Göteborg Bergsjövägen				X
+- Göteborg Pusterviksplatsen (Tanka)		X
+   Pusterviksplatsen 2
+- Göteborg Gasklockan				-*
+   Falutorget
+- Göteborg Danska vägen				-
+- Göteborg Delsjövägen				-*
+   Delsjövägen/Alfred Wigelius
+- Sävedalen Göteborgsvägen (Tanka)		X	- (ej info)
+   Göteborgsvägen 36-44
+- Partille G:a Kronvägen			X
+   Gamla Kronvägen 94
+- Västra Frölunda Ängkärrsvägen			X
+   Ängkärrsvägen 4
+- Västra Frölunda Bärnstensgatan		X
+   Bärnstensgatan 3
+- Västra Frölunda Skattegårdsv.			X
+   Skattegårdsvägen 2
+- Västra Frölunda Långebergsg. (Tanka)		-
+   Norra Långebergsgatan 3
+- Mölndal Toltorpsgatan				X
+   Toltorpsgatan 54
+- Hovås Brottkärrsvägen				X
+- Kållered Ekenleden				X
+   Ekenleden 1
+
+Yttre Göteborgsområdet:
+- Skärhamn Enebacken				X
+   Enebacken 2
+- Stenungsund Industrivägen			-
+- Stenungsund Doterödsvägen (Tanka)		-
+- Kungälv Bultgatan (Tanka)			-*
+- Kungälv					X
+   Teknikergatan 2
+- Nödinge Nödingevägen				X
+   Ale Torg 20
+- Landvetter G:a Landsvägen			-
+   Gamla Landsvägen 2
+- Hindås Stationsvägen				-
+   Stationsvägen 2
+- Billdal					X
+   Kungsporten 7
+- Kungsbacka Energigatan			X
+   Energigatan 2
+
+Sjuhärad:
+- Fristad					X
+   Stora vägen 24
+- Borås Alidelundsgatan				X
+   Alidelundsgatan 5
+- Borås Getängsvägen				X
+   Getängsvägen 2
+- Borås Hultagatan				X
+   Hultagatan 9
+- Borås Hultagatan (Tanka)			-
+   Hultagatan 51
+- Ulricehamn Boråsvägen				X
+   Boråsvägen 9
+- Ulricehamn Falköpingsv. (Tanka)		-
+- Ulricehamn Strängsered			-
+- Kinna Lyddevägen				X
+- Kinna Verkstadsgatan (Tanka)			-
+   Verkstadsgatan 4
+- Björketorp automat				X
+   Varbergsvägen 303
+- Svenljunga Nylännesgatan			X
+   Nylännesgatan 2
+- Tranemo Limmaredsvägen (Tanka)		-
+   Limmaredsvägen 11
+
+Mellersta Västergötland:
+- Vänersborg Edsvägen				X
+- Vänersborg Johannesbergsv. (Tanka)		-
+   Johannesbergsvägen 1
+- Vargön Tunhemsvägen				-
+   Tunhemsvägen 1
+- Grästorp Astranna				-
+- Trollhättan Flygmotorvägen (Tanka)		-*	- (ej info)
+- Trollhättan Lantmannavägen			X
+   Lantmannavägen 6-8
+- Trollhättan Tunhemsvägen (Tanka)		X	- (ej info)
+   Tunhemsvägen 4
+- Lilla Edet Skansenvägen			-
+   Skansenvägen 34
+- Nossebro Grästorpsvägen			X
+- Alingsås Bangatan (Tanka)			-
+- Alingsås Kristineholmsvägen			X
+- Vårgårda, Vårgårdarasta			X
+
+Bohuslän:
+- Strömstad, Norby				-
+- Strömstad Tångenvägen (Tanka)			-
+   Tångenvägen 1
+- Strömstad Solviksgatan			-
+   Solviksgatan 2
+- Tanumshede Industriv. (Tanka)			-*
+   Industrivägen 2
+- Fjällbacka Dinglevägen			X
+   Dinglevägen 13
+- Hunnebostrand (Tanka)				-*
+   Uleberg nedergård 6
+- Dingle Kustvägen (Tanka)			-*
+   Kustvägen 1
+- Munkedal Håbygård, Håby			-
+   Tradenvägen 6
+- Lysekil Förrådsvägen (Tanka)			X
+   Förrådsvägen 1
+- Uddevalla Trumpetvägen			X
+   Trumpetvägen 1
+- Uddevalla Kurverödsleden			X
+- Uddevalla Strömstadsvägen			X
+   Strömstadsvägen 50
+- Uddevalla Kärrnäsvägen (Tanka)		-
+   Kärrnäsvägen 2
+- Uddevalla Göteborgsvägen (Tanka)		-*
+   Göteborgsvägen 15
+- Uddevalla Myråsvägen				-*
+
+Dalsland:
+- Åmål Hovslagaregatan				X
+   Hovslagaregatan 1
+- Billingsfors Stenebyvägen			X
+   Stenebyvägen 9
+- Ed automat					-
+   Jordbrovägen 20
+- Brålanda Storgatan				X
+   Storgatan 62
+
+Skaraborg:
+- Mariestad Leverstadsvägen			X
+   Leverstadsvägen 6
+- Mariestad Muggebo/Rattugglan			-
+- Mariestad Hammarsmedsg. (Tanka)		-
+   Hammarsmedsgatan 27
+- Karlsborg Askersundsvägen			-*
+   Norra vägen 1
+- Lidköping					X
+   Ågårdsrondellen/Tallskogsvägen
+- Lidköping Mellbygatan (Tanka)			X
+   Mellbygatan 48
+- Skara Smedstorpsg./Munkatorpsg.		
+- Skara Skaraborgsgatan
+   Skaraborgsgatan 70
+- Skara Hospitalgatan (Tanka)
+   Hospitalgatan 13
+- Skövde Mellomkvarnsv. (Tanka)
+   Mellomkvarnsvägen 2
+- Skövde Gamla Kungsvägen
+   Gamla Kungsvägen 49
+- Skövde Mariestadsvägen
+   Mariestadsvägen 3
+- Tibro Värdshusgatan
+   Värdshusgatan 2
+- Tibro Mariestadsvägen (Tanka)
+   Mariestadsvägen 27
+- Hjo Industrigatan
+   Industrigatan 32
+- Vara Torggatan (Tanka)
+   Torggatan 54
+- Falköping Österängsgatan
+   Österängsgatan 2
+- Falköping Lovenegatan (Tanka)
+   Lovenegatan 1
+- Tidaholm Skogsholmsvägen
+   Skogsholmsvägen 1
+
+
+Östergötlands län
+==================
+
+Västra delen:
+- Motala Vintergatan (Tanka)
+   Vintergatan 9
+- Vadstena Södra vägen
+   Södra vägen 2
+- Ödeshög Östgötaporten
+   Trp Ödeshög E4
+- Mjölby Kungsgatan (Tanka)
+   Kungsgatan 1
+- Mjölby Smålandsvägen
+   Smålandsvägen 71
+- Ljungsbro Cloettavägen
+   Cloettavägen 20
+- Vikingstad
+   Bankebergsvägen
+- Linköping
+   Nygårdsinfarten 1
+- Linköping Rydsvägen
+   Rydsvägen 1a
+- Linköping Vigfastgatan (Tanka)
+   Vigfastgatan 1
+- Linköping Kylarevägen
+   Kylarevägen 1
+- Linköping Duvkullestigen
+   Duvkullestigen 1
+- Linghem
+   Väg 976 Gamla E4
+
+Södra delen:
+- Boxholm Västerleden
+   Västerleden 1
+- Åtvidaberg Prästängsv. (Tanka)
+   Prästängsvägen 1
+- Kisa Kalmarvägen (Tanka)
+   Kalmarvägen 20
+- Ysterbymo
+   Kisavägen 4
+
+Östra delen:
+- Finspång Norrköpingsvägen
+   Norrköpingsvägen 26
+- Finspång Viberga
+- Norrköping Blygatan
+   Blygatan 27
+- Norrköping Stockholmsv.
+   Stockholmsvägen 72-74
+- Norrköping (E-on)
+   Stohagsgatan
+- Norrköping Exportgatan (Tanka)
+   Exportgatan 9
+- Norrköping Skarphagsleden
+- Norrköping Moa Martinnsons gata
+   Moa Martinssons gata 6
+- Norrköping Hagebygatan
+   Hagebygatan 241
+- Norrköping Skärblackavägen
+   Trp Klinga
+- Söderköping
+   Länsmansgatan 2
+- Ringarum Restaurangen
+   Kyrkängsvägen
+- Valdermarsvik (Tanka)
+   Vammargatan 1
+
+
+Gotlands län
+=============
+
+- Slite 
+   Storgatan 104
+- Visby Lummelundsv. (Tanka)
+   Lummelundsvägen 9
+- Visby Kung Magnus Väg
+   Kung Magnus Väg 12
+- Visby Färjeleden
+   Färjeleden 5
+- Romakloster Visbyvägen
+- Klintehamn
+   Norra Kustvägen 55
+- Ljugarn
+- Hemse automat
+   Ronevägen
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+- Skillingsfors, Konsum
+- Arvika Blästervägen
+   Blästervägen 2
+- Arvika Karlstadsvägen
+- Arvika Åkaregatan (Tanka)
+   Åkaregatan 5
+- Brunskog, Konsum
+- Årjäng
+   Snickargatan 2b
+- Säffle Järnvägsgatan
+- Säffle Sommarrovägen
+   Sommarrovägen 2
+- Säffle Stamvägen (Tanka)
+   Stamvägen 1
+
+Karlstadområdet:
+- Molkom
+   Rörgatan 1
+- Kil Storgatan
+   Storgatan 18
+- Kil Stenåsen
+   Årstidsvägen 2
+- Forshaga
+   Storgatan 2
+- Grums Sveagatan
+   Sveagatan 138
+- Grums Nyängsvägen
+   Nyängsvägen 1
+- Karlstad Packhusg. (Tanka)
+   Packhusgatan 1
+- Karlstad Köpvägen
+   Köpvägen 1
+- Karlstad Höjdgatan
+   Filipstadsvägen, Rv 63
+- Karlstad Hagalundsvägen
+   Hagalundsvägen 29
+- Karlstad Lantvärnsgatan
+   Lantvärnsgatan 2
+- Väse
+   Väsemotet
+- Skoghall
+   Hovlandavägen 5
+
+Norra och Centrala:
+- Sysslebäck
+   Näckåsvägen 30
+- Stöllet Värnäsmon
+- Torsby
+   Kyrkogatan 16
+- Ekshärad
+   Klarälvsvägen 15
+- Hagfors
+   Blomvägen 2
+- Sunne Norrgårdsgatan (Tanka)
+- Sunne Sörgårdsgatan
+   Sörgårdsgatan 3
+- Munkfors Tallbacksvägen
+   Kapellvägen 2
+- Sunnemo, Konsum
+
+Östra Värmland:
+- Lesjöfors
+   Bergslagsgatan 59
+- Filipstad Scheelegat. (Tanka)
+   Scheelegatan 2
+- Filipstad Konsul Lundströms väg
+   Konsul Lundströms väg 2
+- Storfors
+   Västra Skyttegatan 18
+- Kristinehamn Västerlångg.
+   Västerlånggatan 4
+- Kristinehamn V. Ringvägen
+   Västra Ringvägen 1
+- Kristinehamn Västgötagatan
+   Västgötagatan 45
+
+
+Örebro län
+===========
+
+Värmland/Västernärke:
+- Karlskoga Selma Lagerlöfs väg
+   Selma Lagerlöfs väg 1
+- Karlskoga Prix
+   Prix Stormarknads parkering
+- Karlskoga Tibastvägen (Tanka)
+   Tibastvägen 8
+- Degerfors Garagegatan
+   Garagegatan 44
+- Fjugesta
+   Letstigen 17
+- Laxå Riksvägen
+   Riksvägen-Revirgatan
+- Askersund Duvnäsvägen (Tanka)
+   Duvnäsvägen 2
+- Askersund
+   Hallbergsvägen
+
+Östernärke:
+- Örebro Hjalmar Bergmans väg
+- Örebro Västhagagatan
+   Västhagagatan 7
+- Örebro Vivalla
+- Örebro Södermalmsplan
+   Södermalmsplan 5
+- Örebro Hagmarksgatan
+   Hagmarksgatan 48
+- Örebro Bettorpsgatan (Tanka)
+   Bettorpsgatan 4-6
+- Kumla Täbyvägen
+   Täbyvägen 2
+- Kumla Stenevägen
+   Stenevägen 19-21
+- Hallsberg Samzeliigatan
+- Hallsberg Vingen
+- Pålsboda
+   Norra Storgatan 21
+
+Västra Västmanland:
+- Hällefors
+   Svartälvsvägen 8
+- Kopparberg
+   Kata Dhalströms väg 1
+- Nora
+   Bergslagsgatan 3
+- Lindesberg Kristinavägen
+   Kristinavägen 8-10
+- Lindesberg Bergslagsv. (Tanka)
+- Frövi
+   Centralvägen 15
+
+
+Södermanlands län
+==================
+
+Norra delen:
+- Torshälla
+   Eskilstunavägen 31
+- Eskilstuna Mått Jo. Väg (Tanka)
+   Mått Johanssons Väg 54
+- Eskilstuna Västergatan
+   Västergatan 13
+- E-on Eskilstuna
+   Fabriksgatan 12
+- Eskilstuna Svallinge
+   Albert Nyströms Väg 2
+- Eskilstuna Sturegatan
+   Sturegatan 14
+- Eskilstuna Skjulstagatan
+   Sjulstagatan 2
+- Strängnäs Markörvägen
+   Markörvägen 1
+- Strängnäs Eskilstunavägen (Tanka)
+   Eskilstunavägen 30
+- Strängnäs Tosterö
+   Mälarvägen 2
+
+Mellersta delen:
+- Vingåker
+   Storgatan 45
+- Katrineholm Starrv. (Tanka)
+   Starrvägen 9
+- Katrineholm Vassmogatan
+   Vassmogatan 1
+- Katrineholm Vasavägen
+   Vasavägen 34
+- Katrineholm Strångsjövägen
+- Malmköping
+   Landsvägsgatan 1
+- Flen N. Kungsgatan
+   N. Kungsgatan 21
+- Flen Brogatan
+   Brogatan 6
+- Gnesta
+   Riksväg 57, Sigtunarondellen
+
+Södra delen:
+- Stigtomta
+   Bärbovägen 21
+- Nyköping Gustavsbergsstigen
+   Gustavsbergsstigen 2
+- Nyköping Gumsbacken (Tanka)
+   Gumsbacken Scandic E4
+- Nyköping Teatergatan
+   Teatergatan 1
+- Oxelösund
+   Styrmansgatan 4-6
+- Tystberga södergående
+   Rastplats Sillekrog, E4
+- Tystberga norrgående
+   Rastplats Sillekrog, E4
+- Vagnhärad
+   Gnestavägen 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARLÖV LUNDAVÄGEN
+		 
+Besöksadress:
+LUNDAVÄGEN 9
+Arlöv
+
+Telefon:
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   MALMÖ VÄSTKUSTV
+	 
+Besöksadress:
+VÄSTKUSTVÄGEN 19-21
+MALMÖ
+
+Telefon:
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   MALMÖ VATTENVERKSVÄGEN
+	 
+Öppethållande:
+Mån-fre 00.00-24.00
+Lör 00.00-24.00
+Sön 00.00-24.00
+
+Besöksadress:
+VATTENVERKSVÄGEN 60
+Malmö
+
+Postadress:
+VATTENVERKSVÄGEN 60
+21243
+MALMÖ
+
+Telefon:
+040-184748
+Fax:
+040-184713
+	
+Utbud
+# Bemannad
+# Öppet dygnet runt
+# Reservdelar
+# Gör-Det-Själv
+# Restaurang
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+    Bussar
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   MALMÖ ERIKSLUST
+	 
+Besöksadress:
+JOHN ERICSSONS VÄG 94
+Malmö Erikslust
+
+Telefon:
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:
+MALMÖ SVANSJÖGATAN
+	
+Öppethållande:
+Mån-fre 07.00-22.00
+Lör 08.00-22.00
+Sön 08.00-22.00
+
+Besöksadress:
+SVANSJÖGATAN 2
+Malmö
+
+Postadress:
+SVANSJÖGATAN 2
+21766
+MALMÖ
+
+Telefon:
+040-370860
+Fax:
+040-370864
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Gör-Det-Själv
+# Restaurang
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+# Släputhyrning
+# Brev & Paket
+# Diesel
+# Biltvätt
+# Gas - CNG - fordonsgas
+# Gas - biogas
+
+Välkommen till:   MALMÖ MOBILIA
+	
+  	 
+Besöksadress:
+	
+
+BLEKINGSBORGSGATAN 2
+Malmö
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   MALMÖ ROSENGÅRD
+	
+  	 
+Besöksadress:
+	
+
+AMIRALSG - CRONMANS V
+Malmö
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   MALMÖ BATTERIGATAN (TOFTANÄS)
+	
+  	 
+Öppethållande:
+	
+
+Må-Fr 06.00-22.00
+Lö-Sö 08.00-22.00
+
+ 
+Besöksadress:
+	
+
+BATTERIGATAN 2
+MALMÖ
+
+ 
+
+Postadress:
+	
+
+BATTERIGATAN 2
+21241
+MALMÖ
+
+ 
+
+Telefon:
+	
+
+040-596940
+Fax:
+	
+
+040-596941
+Fri text:
+
+Spolarvätska på pump.
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Gör-Det-Själv
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+    Bussar
+# Släputhyrning
+# Livsmedel
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+# Gas - biogas
+
+Välkommen till:   VELLINGE BÖRJESGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 07.00-21.00
+Lör 08.00-18.00
+Sön 09.00-18.00
+
+ 
+Besöksadress:
+	
+
+BÖRJESGATAN 1
+Vellinge
+
+ 
+
+Postadress:
+	
+
+BÖRJESGATAN 1
+23531
+VELLINGE
+
+ 
+
+Telefon:
+	
+
+040-420460
+Fax:
+	
+
+040-422642
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Biluthyrning
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   HÖLLVIKEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-22.00
+Lör 08.00-22.00
+Sön 08.00-22.00
+
+ 
+Besöksadress:
+	
+
+RONDELLEN/VÄG 100
+Höllviken
+
+ 
+
+Postadress:
+	
+
+RONDELLEN/VäG 100
+23651
+HÖLLVIKEN
+
+ 
+
+Telefon:
+	
+
+040-450240
+Fax:
+	
+
+040-457625
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Verkstad
+# Restaurang
+# Däckservice
+# Biluthyrning
+# Båtstation
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   TRELLEBORG HEDVÄGEN 187
+	
+  	 
+Besöksadress:
+	
+
+HEDVÄGEN 187
+Trelleborg
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+
+Välkommen till:   TRELLEBORG KONTINENTPLAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-22.00
+Lör 06.00-22.00
+Sön 06.00-22.00
+
+ 
+Besöksadress:
+	
+
+KONTINENTPLAN
+Trelleborg
+
+ 
+
+Postadress:
+	
+
+KONTINENTPLAN
+23142
+TRELLEBORG
+
+ 
+
+Telefon:
+	
+
+0410-14208
+Fax:
+	
+
+0410-13248
+Fri text:
+
+Biltillbehör, även Volvo original.
+Ni finner oss längs med huvudleden
+E6 - riksväg 9, mitt i Trelleborg, snett emot McDonald's
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Verkstad
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   SVEDALA N.TVÄRGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-22.00
+Lör 07.00-22.00
+Sön 07.00-22.00
+
+ 
+Besöksadress:
+	
+
+N TVÄRGATAN 24
+Svedala
+
+ 
+
+Postadress:
+	
+
+N TVÄRGATAN 24
+23335
+SVEDALA
+
+ 
+
+Telefon:
+	
+
+040-400861
+Fax:
+	
+
+040-400457
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Däckservice
+# Biluthyrning
+
+    Personbilar
+# Livsmedel
+# Brev & Paket
+# Video
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   STAFFANSTORP MALMÖVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+MALMÖVÄGEN
+Staffanstorp
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+
+Välkommen till:   LUND KUNG OSCARS VÄG
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.30-22.00
+Lör 08.00-22.00
+Sön 08.00-22.00
+
+ 
+Besöksadress:
+	
+
+KUNG OSCARS VÄG 14
+Lund
+
+ 
+
+Postadress:
+	
+
+KUNG OSCARS VÄG 14
+22237
+LUND
+
+ 
+
+Telefon:
+	
+
+046-2117395
+Fax:
+	
+
+046-120639
+Fri text:
+
+Telefon verkstad 046-211 73 98
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Verkstad
+# Gör-Det-Själv
+# Restaurang
+# Däckservice
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   LUND GETINGEVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+GETINGEVÄGEN 34
+Lund
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   SÖDRA SANDBY LUNDAVÄGEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.30-19.00
+Lör-Sön 08.00-18.00
+
+ 
+Besöksadress:
+	
+
+LUNDAVÄGEN
+Södra Sandby
+
+ 
+
+Postadress:
+	
+
+LUNDAVÄGEN
+24734
+SÖDRA SANDBY
+
+ 
+
+Telefon:
+	
+
+046-58466
+Fax:
+	
+
+046-57920
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Släputhyrning
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   YSTAD KRISTIANSTADSVÄGEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 05.45-22.00
+Lör 06.45-22.00
+Sön 07.45-22.00
+
+ 
+Besöksadress:
+	
+
+KRISTIANSTADSV 38
+Ystad
+
+ 
+
+Postadress:
+	
+
+KRISTIANSTADSV 38
+27133
+YSTAD
+
+ 
+
+Telefon:
+	
+
+0411-555876
+Fax:
+	
+
+0411-555676
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Biluthyrning
+
+    Personbilar
+    Bussar
+# Släputhyrning
+# Livsmedel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   BRÖSARP ALBOVÄGEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 07.00-21.00
+Lör 09.00-19.00
+Sön 09.00-19.00
+
+ 
+Besöksadress:
+	
+
+ALBOVÄGEN 9
+Brösarp
+
+ 
+
+Postadress:
+	
+
+ALBOVÄGEN 9
+27750
+BRÖSARP
+
+ 
+
+Telefon:
+	
+
+0414-73670
+Fax:
+	
+
+0414-73051
+Fri text:
+
+Epost OKQ8.brosarp@swipnet.se
+	
+Utbud
+# Bemannad
+# Verkstad
+# Släputhyrning
+# Diesel
+
+
+Välkommen till:   LÖDDEKÖPINGE
+		 
+Besöksadress:
+TRANSPORTVÄGEN 22
+
+Telefon:
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+
+Välkommen till:   LANDSKRONA FÖRENINGSG
+	 
+Öppethållande:
+Mån-fre 07.00-19.00
+Lör 08.00-16.00
+Sön 09.00-15.00
+
+Besöksadress:
+FÖRENINGSGATAN 220
+Landskrona
+
+Postadress:
+FÖRENINGSGATAN 220
+26151
+LANDSKRONA
+
+Telefon:
+0418-12610
+Fax:	
+0418-12690
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Diesel
+# E85 - Etanol
+# Gas - CNG - fordonsgas
+# Gas - biogas
+
+Välkommen till:   GLUMSLÖV SÖDERGÅENDE
+	
+  	 
+Öppethållande:
+Mån-fre 00.00-24.00
+Lör 00.00-24.00
+Sön 00.00-24.00
+
+Besöksadress:
+VÄG E6/E20
+Glumslöv
+
+Postadress:
+E 6 SÖDERGÅENDE
+26108
+GLUMSLÖV
+
+Telefon:
+0418-70330
+Fax:
+0418-70335
+	
+Utbud
+# Bemannad
+# Öppet dygnet runt
+# Reservdelar
+# Restaurang
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Truckcenter
+# E85 - Etanol
+
+
+Välkommen till:   GLUMSLÖV NORRGÅENDE
+	 
+Öppethållande:
+Mån-fre 00.00-24.00
+Lör 00.00-24.00
+Sön 00.00-24.00
+
+ 
+Besöksadress:
+VÄG E6/E20
+Glumslöv
+
+Postadress:
+E 6 NORRGÅENDE
+26163
+GLUMSLÖV
+
+Telefon:
+0418-70685
+Fax:
+0418-73010
+	
+Utbud
+# Bemannad
+# Öppet dygnet runt
+# Reservdelar
+# Restaurang
+# Livsmedel
+# Brev
+# Diesel
+# Truckcenter
+# E85 - Etanol
+
+
+Välkommen till:   HELSINGBORG ÄNGELHOLMSV
+		 
+Öppethållande:
+Mån-fre 06.00-22.00
+Lör 08.00-22.00
+Sön 08.00-22.00
+
+Besöksadress:
+ÄNGELHOLMSVÄGEN 8
+Helsingborg
+
+Postadress:
+ÄNGELHOLMSVÄGEN 8
+25442
+HELSINGBORG
+
+Telefon:
+042-121406
+Fax:
+042-214312
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Restaurang
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+    Bussar
+# Släputhyrning
+# Brev
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+
+Välkommen till:   HELSINGBORG VÄLAVÄGEN
+		 
+Besöksadress:
+VÄLAVÄGEN 27
+Helsingborg
+
+Telefon:
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+
+Välkommen till:   HELSINGBORG RÅÅV/PLANTERINGSV
+	
+  	 
+Besöksadress:
+	
+
+RÅÅVÄGEN 118
+Helsingborg
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   HÖGANÄS PRINS CARLSGATAN
+	
+  	 
+Besöksadress:
+	
+
+PRINS CARLSGATAN
+Höganäs
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   NYHAMNSLÄGE KRAPPERUPSVÄGEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 07.00-20.00
+Lör 08.00-20.00
+Sön 08.00-20.00
+
+ 
+Besöksadress:
+	
+
+KRAPPERUPSVÄGEN 99
+Nyhamnsläge
+
+ 
+
+Postadress:
+	
+
+KRAPPERUPSVÄGEN 99
+26041
+NYHAMNSLÄGE
+
+ 
+
+Telefon:
+	
+
+042-344077
+Fax:
+	
+
+042-344077
+Fri text:
+
+Minilivs
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Däckservice
+# Släputhyrning
+# Livsmedel
+# Diesel
+# Gasol
+
+Välkommen till:   BILLESHOLM SPINNGATAN
+	
+  	 
+Besöksadress:
+	
+
+SPINNGATAN 2
+Billesholm
+
+ 
+
+Telefon:
+	
+
+020-656565
+	
+Utbud
+# Automat
+
+Välkommen till:   ÅSTORP VÄSTRA VÄGEN
+	
+  	 
+Besöksadress:
+	
+
+VÄSTRA VÄGEN 10
+Åstorp
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+
+Välkommen till:   ÄNGELHOLM ÖSTRA VÄGEN
+	
+  	 
+Besöksadress:
+	
+
+ÖSTRA VÄGEN 17
+ÄNGELHOLM
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+Fri text:
+
+Spolarvätska på pump.
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   ÄNGELHOLM ÖSTERGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 05.00-20.00
+Lör 07.00-19.00
+Sön 07.00-19.00
+
+ 
+Besöksadress:
+	
+
+ÖSTERGATAN 77
+Ängelholm
+
+ 
+
+Postadress:
+	
+
+ÖSTERGATAN 77
+26233
+ÄNGELHOLM
+
+ 
+
+Telefon:
+	
+
+0431-411178
+Fax:
+	
+
+0431-15420
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Livsmedel
+# Diesel
+# Biltvätt
+
+Välkommen till:   HÖRJA ÖRKELLJUNGAVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+ÖRKELLJUNGAVÄGEN 19
+Hörja
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+
+Välkommen till:   HÄSSLEHOLM KAPTENSGATAN
+	
+  	 
+Besöksadress:
+	
+
+KAPTENSGATAN 12
+Hässleholm
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   HÄSSLEHOLM 3:E AVENYN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-22.00
+Lör 07.00-22.00
+Sön 07.00-22.00
+
+ 
+Besöksadress:
+	
+
+3:E AVENYEN
+Hässleholm
+
+ 
+
+Postadress:
+	
+
+3:E AVENYEN 21
+28132
+HÄSSLEHOLM
+
+ 
+
+Telefon:
+	
+
+0451-10637
+Fax:
+	
+
+0451-81545
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+# Släputhyrning
+# Livsmedel
+# Brev
+# Diesel
+# Biltvätt
+# Gasol
+
+Välkommen till:   KRISTIANSTAD LÅNGEBROGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-22.00
+Lör 08.00-22.00
+Sön 09.00-22.00
+
+ 
+Besöksadress:
+	
+
+KARLSGATAN 11
+Kristianstad
+
+ 
+
+Postadress:
+	
+
+KARLSGATAN 11
+29159
+KRISTIANSTAD
+
+ 
+
+Telefon:
+	
+
+044-211963
+Fax:
+	
+
+044-109915
+Fri text:
+
+Posten finns här!
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Verkstad
+# Däckservice
+# Biluthyrning
+
+    Personbilar
+    Lastbilar
+    Bussar
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+
+Välkommen till:   VEBERÖD TRUCKVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+TRUCKVÄGEN
+Veberöd
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Jönköpings län
+===============
+
+Östra delen av länet:
+
+Välkommen till:   NÄSSJÖ SÖRÄNGSVÄGEN (VOLVO)
+	
+  	 
+Besöksadress:
+	
+
+SÖRÄNGSVÄGEN 64
+Nässjö
+
+ 
+
+Telefon:
+	
+
+0380-373737
+	
+Utbud
+# Automat
+# Diesel
+
+Välkommen till:   NÄSSJÖ RÅDHUSGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.30-24.00
+Lör 08.00-24.00
+Sön 08.00-24.00
+
+ 
+Besöksadress:
+	
+
+RÅDHUSGATAN 68
+Nässjö
+
+ 
+
+Postadress:
+	
+
+RÅDHUSGATAN 68
+57133
+NÄSSJÖ
+
+ 
+
+Telefon:
+	
+
+0380-18500
+Fax:
+	
+
+0380-73008
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Gör-Det-Själv
+# Restaurang
+# Biluthyrning
+
+    Personbilar
+# Släputhyrning
+# Livsmedel
+# Brev & Paket
+# Diesel
+# Biltvätt
+# E85 - Etanol
+
+Välkommen till:   VETLANDA INDUSTRIG 31 (VOLVO)
+	
+  	 
+Besöksadress:
+	
+
+INDUSTRIGATAN 31
+
+ 
+
+Telefon:
+	
+
+0383-59600
+Fax:
+	
+
+0383-18488
+Fri text:
+
+NY
+	
+Utbud
+# Automat
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   VETLANDA LASARETTSGATAN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 05.30-24.00
+Lör 08.00-18.00
+Sön 09.00-18.00
+
+ 
+Besöksadress:
+	
+
+LASARETTSGATAN 26
+Vetlanda
+
+ 
+
+Postadress:
+	
+
+LASARETTSGATAN 26
+57440
+VETLANDA
+
+ 
+
+Telefon:
+	
+
+0383-12721
+Fax:
+	
+
+0383-12921
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Verkstad
+# Däckservice
+# Diesel
+# Biltvätt
+# Gasol
+
+Välkommen till:   VETLANDA STORGATAN
+	
+  	 
+Besöksadress:
+	
+
+STORGATAN 83
+Vetlanda
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+
+Välkommen till:   EKSJÖ STALLBERGAV
+	
+  	 
+Besöksadress:
+	
+
+STALLBERGAVÄGEN 2
+Eksjö
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   EKSJÖ BREVIKSVÄGEN (VOLVO)
+	
+  	 
+Besöksadress:
+	
+
+BREVIKSVÄGEN 40
+Eksjö
+
+ 
+
+Telefon:
+	
+
+0381-662070
+	
+Utbud
+# Automat
+# Diesel
+
+Kalmar län
+===========
+
+Norra delen av länet:
+
+Välkommen till:   HULTSFRED NYTORPSVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+NYTORPSVÄGEN
+Hultsfred
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+Fax:
+	
+
+0492-10663
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   OSKARSHAMN ÅSAVÄGEN
+	
+  	 
+Besöksadress:
+	
+
+ÅSAVÄGEN
+Oskarshamn
+
+ 
+
+Telefon:
+	
+
+020 65 65 65
+	
+Utbud
+# Minipris
+# Diesel
+
+Välkommen till:   OSKARSHAMN INKÖRNINGSV (VOLVO)
+	
+  	 
+Besöksadress:
+	
+
+INKÖRNINGSVÄGEN 2
+Oskarshamn
+
+ 
+
+Telefon:
+	
+
+0491-89700
+	
+Utbud
+# Automat
+# Diesel
+# E85 - Etanol
+
+Välkommen till:   OSKARSHAMN IDROTTSVÄGEN
+	
+  	 
+Öppethållande:
+	
+
+Mån-fre 06.00-24.00
+Lör 08.00-24.00
+Sön 09.00-24.00
+
+ 
+Besöksadress:
+	
+
+IDROTTSVÄGEN 1
+Oskarshamn
+
+ 
+
+Postadress:
+	
+
+IDROTTSVÄGEN 1
+57231
+OSKARSHAMN
+
+ 
+
+Telefon:
+	
+
+0491-77509
+Fax:
+	
+
+0491-15098
+Fri text:
+
+cm.kent@hotmail.com
+	
+Utbud
+# Bemannad
+# Reservdelar
+# Gör-Det-Själv
+# Biluthyrning
+
+    Personbilar
+# Släputhyrning
+# Livsmedel
+# Brev
+# Video
+# Diesel
+# Biltvätt
+# E85 - Etanol
+# Gasol
+

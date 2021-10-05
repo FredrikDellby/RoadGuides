@@ -1,0 +1,48 @@
+1.4 km/1.0 km	0 min 56 s/0 min 40 s
+
+6.4 km/6.5 km	3 min 29 s/3 min 33 s
+3.0 km/2.8 km	1 min 38 s/1 min 32 s
+3.2 km/2.5 km	1 min 45 s/1 min 22 s
+1.1 km/2.2 km	0 min 36 s/1 min 12 s
+12.0 km/11.6 km	6 min 33 s/6 min 20 s
+4.0 km/3.9 km	2 min 11 s/2 min 8 s
+4.5 km/4.5 km	2 min 27 s/2 min 27 s
+4.2 km/4.3 km	2 min 17 s/2 min 21 s
+7.8 km/7.8 km	4 min 15 s/4 min 15 s
+5.3 km/4.7 km	2 min 53 s/2 min 34 s
+5.5 km/5.3 km	2 min 60 s/2 min 53 s
+5.7 km/6.5 km	3 min 7 s/3 min 33 s
+3.8 km/4.1 km	2 min 4 s/2 min 14 s
+13.5 km/12.5 km	7 min 22 s/6 min 49 s
+0.7 km/1.6 km	0 min 23 s/0 min 52 s
+2.5 km/1.6 km	1 min 22 s/0 min 52 s
+
+6.8 km/7.3 km	4 min 32 s/4 min 52 s
+3.0 km/2.5 km	1 min 60 s/1 min 40 s
+2.7 km/3.0 km	1 min 48 s/1 min 60 s
+6.6 km/7.1 km	4 min 24 s/4 min 44 s
+5.9 km/5.8 km	3 min 56 s/3 min 52 s
+5.8 km/5.2 km	3 min 52 s/3 min 28 s
+
+7.8 km/8.5 km	4 min 15 s/4 min 38 s
+9.1 km/9.2 km	4 min 58 s/5 min 1 s
+1.8 km/1.5 km	0 min 59 s/0 min 49 s
+6.7 km/6.8 km	3 min 39 s/3 min 43 s
+
+8.2 km/8.0 km	4 min 28 s/4 min 22 s
+3.8 km/4.1 km	2 min 4 s/2 min 14 s
+3.6 km/3.0 km	1 min 58 s/1 min 38 s
+
+6.1 km/6.3 km	3 min 20 s/3 min 26 s
+6.5 km/6.9 km	3 min 33 s/3 min 46 s
+12.1 km/12.2 km	6 min 36 s/6 min 39 s
+9.6 km/9.3 km	5 min 14 s/5 min 4 s
+2.3 km/2.5 km	1 min 15 s/1 min 22 s
+3.7 km/3.1 km	2 min 1 s/1 min 41 s
+2.6 km/2.9 km	1 min 25 s/1 min 35 s
+3.5 km/3.9 km	1 min 55 s/2 min 8 s
+2.7 km/2.0 km	1 min 28 s/1 min 5 s
+6.3 km/7.0 km	3 min 26 s/3 min 49 s
+2.6 km/2.3 km	1 min 25 s/1 min 15 s
+4.9 km/5.1 km	2 min 40 s/2 min 47 s
+4.1 km/4.6 km	2 min 14 s/2 min 31 s

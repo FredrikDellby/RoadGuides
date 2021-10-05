@@ -1,0 +1,544 @@
+Reseguide E4 (Stockholm - Haparanda)
+=====================================
+
+Etapp 18: Norrtull - Kista (6,4 km/7,9 km)
+
+Trp Norrtull (164)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ E20: Värtahamnen
+ 277: Lidingö
+(Eugeniatunneln-syd)
+					0,7 km/1,1 km	36 s/57 s
+(Eugeniatunneln-nord)
+Trp Haga Södra (165)
+(ej påfart sydgående)
+ Karolinska sjukhuset
+(Trafikplats 166)
+(ej avfart sydgående)
+ Linvärvartorpet
+					1,0 km/1,4 km	0 min 51 s/1 min 12 s
+Trp Haga Norra (167)
+ Haga slott
+ Solna Centrum, Sundbyberg
+ Bensinstation: Tanka
+ Restaurang: Renaissance
+					1,1 km/0,3 km	57 s/15 s
+Trp Frösunda (168)
+(ej avfart sydgående)
+ Försunda, Frösundsvik
+ Restaurang: The Port
+ Hotel: Radisson SAS Royal
+					0,6 km/1,4 km	0 min 31 s/1 min 12 s
+Trp Järva Krog (169)
+ E18 ö: Norrtälje, Danderyd
+ Hallonbergen
+ Bensinstation: Statoil
+ Restaurang/Hotel: Scandic
+					2,5 km/1,6 km	1 min 53 s/1 min 12 s
+Trp Sörentorp (170)
+(avfart nordgående riktning
+påfart sydgående riktning)
+					0,6 km/2,1 km	0 min 27 s/1 min 35 s			
+Solna / Sollentuna
+Trafikplats Kista (171)
+ E18 v: Oslo, Enköping
+ 279: Kista, Sundbyberg
+
+Etapp 19: Kista - Arlanda (26,5 km/25,6 km)
+					2,1 km/2,5 km	1 min 35 s/1 min 53 s
+Trp Tureberg (172)
+ 275: Vällingby, Barkaby
+ Sollentuna C
+ Bensinstation: Shell, Statoil
+ Hotel: Ibis Kista
+					2,8 km/2,0 km	2 min 6 s/1 min 30 s
+Trp Häggvik (173)
+ 265: Täby kyrkby, Åkersberga
+ 262: Danderyd, Häggvik
+					3,6 km/4,0 km	2 min 24 s/2 min 40 s
+Trp Rotebro (174)
+ Norrviken
+ 267: [E18 n], Rotebro
+ Restaurang: McDonald's
+					2,9 km/3,2 km	1 min 44 s/1 min 55 s
+Trp Bredden (175)
+ Bollstanäs
+ Bensinstation: OKQ8
+ Restaurang: Bergkällan
+(Sollentuna / Upplands-Väsby)
+					2,2 km/2,4 km	1 min 19 s/1 min 26 s
+Trafikplats Glädjen (176)
+ 268: Vallentuna
+ Upplands-Väsby
+ Bensinstation: Statoil, OKQ8
+ Restaurang: McDonald's, Burger King
+ Restaurang/Hotel: Scandic
+					4,6 km/4,4 km	2 min 31 s/2 min 24 s
+Rastplats Stora Wäsby (177)
+ Bensinstation: Shell
+ Restaurang: McDonald's
+(Upplands-Väsby / Sigtuna)
+					3,0 km/2,6 km	1 min 38 s/1 min 25 s
+Trp Rosersberg (179)
+ Rosersberg
+					2,6 km/2,9 km	1 min 25 s/1 min 35 s
+Trafikplats Märsta (180)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ 163: Sigtuna, Märsta
+ Arlandastad
+ Restaurang: McDonald's
+					1,7 km/1,6 km	56 s/52 s
+Trp Arlanda (181)
+ Arlanda Flygplats
+ 173: Norrtälje, Almunge
+ Märsta S (sydgående)
+
+Etapp 20: Arlanda - Bärbyleden (33,8 km/34,3 km)
+					2,3 km/1,7 km	1 min 15 s/0 min 56 s
+Trafikplats Mårby (182)
+(avfart sydgående riktning
+påfart nordgående riktning)
+					7,5 km/7,5 km	4 min 5 s/4 min 5 s
+Stockholm / Uppsala
+Sigtuna / Knivsta
+					5,2 km/5,8 km	2 min 50 s/3 min 10 s
+Trp Brunnby (184)
+ 77: Norrtälje, Rimbo
+ Knivsta
+ Bensinstation: Statoil
+ Restaurang/Hotel: Nova Park
+					6,4 km/6,5 km	3 min 29 s/3 min 33 s
+Rastplats Mora stenar
+(nordgående riktning)
+					1,2 km/0,6 km	39 s/20 s
+Knivsta / Uppsala
+					3,7 km/4,1 km	2 min 1 s/2 min 14 s
+Trafikplats Säby (186)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Uppsala S, C
+					1,2 km/1,7 km	39 s/56 s
+Trafikplats Kumla (187)
+ 282: Knutby, Almunge
+ 255: Sigtuna
+ Uppsala S, C
+					6,3 km/6,4 km	3 min 26 s/3 min 29 s
+Trp Bärbyleden (188)
+ 288: Östhammar, Gimo
+ Uppsala N, C
+ 55: Enköping
+ 72: Sala
+ Gamla Uppsala
+ 272: Östervåla
+ Restaurang: MAX
+
+Etapp 21: Bärbyleden - Gävle västra (98,6 km/98,5 km)
+					6,4 km/6,1 km	3 min 29 s/3 min 20 s
+Trp Fullerö (189)
+ 292: Österbybruk, Storvreta
+ Gamla Uppsala
+					3,5 km/3,4 km	1 min 55 s/1 min 51 s
+Rastplats Torsberget
+(sydgående riktning)
+					2,1 km/2,3 km	1 min 9 s/1 min 15 s
+Rastplats Tre Ängar
+(nordgående riktning)
+					3,0 km/2,5 km	1 min 38 s/1 min 22 s
+Trp Björklinge (190)
+ Vattholma
+ Björklinge
+					9,2 km/8,8 km	5 min 1 s/4 min 48 s
+Uppsala / Tierp
+					9,3 km/10,2 km	5 min 4 s/5 min 34 s
+Trafikplats Karby (191)
+ Örbyhus, Husby
+					5,8 km/5,7 km	3 min 10 s/3 min 7 s
+Trp Månkarbo (192)
+ Månkarbo
+					14,8 km/14,9 km	8 min 4 s/8 min 8 s
+Trafikplats Tierp (193)
+ Tierp
+ 292 ö: Hargshamn, Örbyhus
+ 292 v: Söderfors
+					12,4 km/12,0 km	6 min 46 s/6 min 33 s
+Trp Mehedeby syd (194)
+ Mehedeby
+					2,6 km/2,8 km	1 min 25 s/1 min 32 s
+Trp Mehedeby (195)
+ 291: Älvkarleby
+ Rastplats Dalälven
+ Bensinstation: Preem
+ Restaurang: Dragon Gate
+(Tierp / Älvkarleby)
+					1,6 km/1,2 km	52 s/39 s
+Dalälven (400 m)
+					5,9 km/5,9 km	3 min 13 s/3 min 13 s
+Trafikplats Hyttön (196)
+					0,9 km/0,7 km	29 s/23 s
+Uppsala / Gävleborg
+Älvkarleby / Gävle
+					17,0 km/17,4 km	9 min 16 s/9 min 29 s
+Trp Gävle södra (197)
+ Gävle S, C
+ 76: Norrtälje, Älvkarleby
+					1,6 km/1,8 km	0 min 58 s/1 min 5 s
+Rastplats Gävle Bro (198)
+ Bensinstation: Preem
+					2,6 km/2,9 km	1 min 34 s/1 min 44 s
+Trp Gävle västra (199)
+ Gävle V
+ 80: Falun, Sandviken
+ 56: Västerås
+ 68: Örebro
+
+Etapp 22: Gävle västra - Tönnebro (47,4 km/47,3 km)
+					1,6 km/1,1 km	58 s/40 s
+Trp Gävle norra (200)
+ Gävle N, C
+					1,2 km/1,1 km	43 s/40 s
+Parkeringsplats
+					6,8 km/6,6 km	4 min 5 s/3 min 58 s
+Testeboån
+					5,0 km/4,1 km	3 min 0 s/2 min 28 s
+Rastplats Skarvberget
+					12,7 km/14,1 km	7 min 37 s/8 min 28 s
+Trafikplats Hagsta (201)
+ Hamrångefjärden, Bergby
+ 303: Ockelbo
+ Bensinstation: Shell
+ Restaurang: Hagsta Krog
+					7,0 km/6,4 km	4 min 12 s/3 min 50 s
+Korsning Axmartavlan
+ Bergby, Ljusne
+					5,5 km/6,1 km	3 min 40 s/4 min 4 s
+(Vändplats): 60.963792,17.0313868
+
+T-korsning (skyltad sydgående)
+ Vändplats
+
+Parkering Högbacka (nordgående)
+Rastplats Högbacka (sydgående)
+					0,8 km/0,3 km	32 s/12 s
+T-korsning Högbacka (enskild väg)
+ Blåkulla
+					1,5 km/1,5 km	1 min 0 s/1 min 0 s
+T-korsning (enskild väg)
+ Romsen
+					1,3 km/1,3 km	52 s/52 s
+T-korsning (enskild väg)
+ Tönnebrosjön
+					1,3 km/1,3 km	52 s/52 s
+Gävle / Söderhamn: (61.0433036,16.9627531)
+(Bro över Björkångsån)
+					2,7 km/3,5 km	1 min 48 s/2 min 20 s
+(Vändplats): 61.0628524,16.9634729
+
+Trp Tönnebro (203)
+ 83: Ljusdal, Järvsö, Bollnäs
+ Rastplats Tönnebro, Badplats
+ Bensinstation: OKQ8
+ Restaurang: Tönnebro Värdshus (Rasta)
+
+Etapp 23: Tönnebro - Söderhamn södra (26,7 km/26,2 km)
+(Vändplats): 61.0859341,16.9738173
+					3.2 km/2.4 km	2 min 8 s/1 min 36 s
+Korsning (enskild väg)
+ Vändplats
+					3.7 km/3.7 km	2 min 28 s/2 min 28 s
+Väghållningsplats (nordgående): 61.1055104,17.000267
+
+Korsning (enskild väg)
+ Vändplats
+					0.7 km/0.6 km	28 s/24 s
+Rastplats Sörbränningen
+(sydgående riktning)
+					1.0 km/1.0 km	40 s/40 s
+Korsning (enskild väg)
+ Vändplats	
+					3.0 km/3.1 km	2 min 0 s/2 min 4 s
+Parkering Norrbränningen
+(sydgående riktning)
+
+Korsning (enskild väg)
+ Vändplats, Fiske
+					3.8 km/3.8 km	2 min 32 s/2 min 32 s
+Korsning (enskild väg)
+ Vändplats
+					1.7 km/1.8 km	1 min 8 s/1 min 12 s
+Väghållningsplats (sydgående): 61.205278,17.0477503
+
+Trp Sörljusne (204)
+ Ljusne
+					2.5 km/2.7 km	1 min 40 s/1 min 48 s
+Väghållningsplats (nordgående)
+
+Korsning (enskild väg)
+ Höljebro kraftverk, Vändplats
+
+Ljusnan (200 m)
+					1.1 km/0.8 km	44 s/32 s
+Väghållningsplats (sydgående)
+
+Trp Höljebro (205)
+ Ljusne
+ Onsäng, Söderdala
+					2.5 km/2.4 km	1 min 40 s/1 min 36 s
+T-korsning (enskild väg)
+(endast skyltad sydgående)
+ Vändplats
+					1.9 km/1.8 km	1 min 16 s/1 min 12 s
+Korsning Östansjö V (enskild väg)
+ Östansjö, Ålsjöns naturreservat
+					1.6 km/2.0 km	1 min 4 s/1 min 20 s
+Vändplats (sydgående): 61.2938679,17.0224852
+
+Trp Söderhamn södra (206)
+ Söderhamn S, C
+ 50: Falun, Bollnäs
+
+Etapp 24: Söderhamn - Hudiksvall ()
+					0.9 km/0.8 km	32 s/29 s
+Trp Söderhamn norra (207)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Söderhamn Centrum
+					4.0 km/4.3 km	2 min 24 s/2 min 35 s
+Trafikplats Styvje (208)
+ Vågbro
+ Kungsgården
+					3.4 km/2.9 km	2 min 2 s/1 min 44 s
+Infoplats (nordgående)
+					5.6 km/5.8 km	3 min 22 s/3 min 29 s
+Rastplats Alebosjön
+(sydgående riktning)
+					1.4 km/1.6 km	50 s/58 s
+Trafikplats Losjö (209)
+					3.0 km/2.6 km	1 min 48 s/1 min 34 s
+Söderhamn / Hudiksvall
+					7.5 km/7.6 km	4 min 30 s/4 min 34 s
+Trafikplats Ångersjön (210)
+ Långvinds bruk
+ Vedmora
+ Rastplats Ångersjön
+					1.6 km/1.5 km	58 s/54 s
+Trafikplats Enånger (211)
+ Enånger
+
+Trp Njutånger (212)
+ Njutånger, Nianfors
+
+Trp Iggesund (213)
+ Iggesund
+					0.9 km/1.6 km	0 min 41 s/1 min 12 s
+Trp Hudiksvall Södra (214)
+ Hudiksvall Centrum
+ 84: Sveg, Ljusdal, Delsbo
+
+Etapp 25: Hudiksvall - Jättendal (33,7 km/33,1 km)
+					3.5 km/3.0 km	2 min 20 s/2 min 0 s
+T-korsning Hudiksvall V
+ Hudiksvall Centrum
+					2.7 km/2.7 km	1 min 48 s/1 min 48 s
+Trp Hälsingtuna (216)
+ Hudiksvalls flygplats
+ Ilsbo
+					2.1 km/2.0 km	1 min 24 s/1 min 20 s
+T-korsning Masbo vägskäl
+ Hudiksvall N
+ Bensin: OKQ8
+					4.3 km/4.4 km	2 min 52 s/2 min 56 s
+Korsning Välsta
+ Strömsbruk, Välsta
+					0.7 km/0.8 km	28 s/32 s
+T-korsning
+					6.3 km/6.2 km	4 min 12 s/4 min 8 s
+Hudiksvall / Nordanstig
+					5.5 km/5.5 km	3 min 40 s/3 min 40 s
+Korsning Vattrång
+ Vattlång
+					0.8 km/1.2 km	0 min 41 s/1 min 2
+Rastplats Harmånger
+(nordgående riktning)
+					1.3 km/0.9 km	1 min 7 s/0 min 46 s
+T-korsning Harmånger S
+ Harmånger
+ Bensinstation: Statoil
+					0.6 km/0.6 km	43 s/43 s
+Korsning Harmånger V
+ Lönnånger, Harmånger
+ Ilsbo
+					4.3 km/4.3 km	3 min 41 s/3 min 41 s
+T-korsning Älvsta
+ Jättendal
+					0.6 km/0.6 km	31 s/31 s
+Korsning Dvästa (enskild väg)
+ Bensinstation: OKQ8
+					0.9 km/0.9 km	46 s/46 s
+Korsning Jättendal
+ Hårte
+ 307: Stöde, Hassela
+
+Etapp 26: Jättendal - Länsgränsen (21,1 km/21,1 km)
+					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+Järnvägskorsning
+					4.1 km/4.1 km	3 min 5 s/3 min 5 s
+Korsning Gnarp Böle
+ Sörfjärden
+ Gnarp
+					1.4 km/1.4 km	1 min 3 s/1 min 3 s
+Korsning Gnarp OKQ8
+ Norrfjärden
+ Gnarp
+					0.4 km/0.4 km	18 s/18 s
+Järnvägskorsning
+					4.4 km/4.4 km	3 min 18 s/3 min 18 s
+Korsning Tjärnvik vägskäl
+ Grytte
+					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+
+
+===================================================================
+T-korsning Årskogen E4
+					3.1 km/3.1 km	2 min 20 s/2 min 20 s
+					1.1 km/1.1 km	50 s/50 s
+Väghållningsplats (nordgående)
+
+Gävleborg / Västernorrland: (62.1533771,17.3485469)
+Nordanstig / Sundsvall
+(Väghållningsplats (sydgående))
+(Korsning (enskild väg))
+ Ej skyltad
+
+Etapp 27: Länsgränsen - Sundsvall (26,6 km/26,5 km)
+					6.6 km/6.8 km	4 min 24 s/4 min 32 s
+Rastplats Armsjön (sydgående)
+
+Trafikkontrollplats Armsjön
+(främst för nordgående)
+
+Väghållningsplats (sydgående)
+
+Parkeringsplats (sydgående)
+
+T-korsning (enskild väg)
+ Nyråviken
+
+Serviceplats (grusväg, sydgående)
+
+Korsning (enskild väg)
+ Igeltjärn
+ Vändplats
+
+Trafikplats S Maj
+(ev. ingen avfart sydgående)
+ Ortsjön, Maj
+ Åstjärnarna, Orrsjön (fiske)
+ Jaktskyttebana, Bo på Lantgåd
+					2.3 km/2.0 km	1 min 32 s/1 min 20 s
+Parkeringsplats (nordgående)
+
+T-korsning Räbbegård E4 (nordgående)
+ Galtström (sevärdhet), Skatan
+T-korsning Gomaj E4 (sydgående)
+ Ortsjön, Maj
+ Åstjärnarna, Orrsjön (fiske)
+ Jaktskyttebana, Bo på Lantgåd
+					0.9 km/1.0 km	36 s/40 s
+T-korsning (enskild väg)
+ Bergtäkt
+(Parkeringsplats (nordgående))
+					0.9 km/0.8 km	36 s/32 s
+Korsning Myra E4
+ Galtström, Skatan, Njurunda K:a
+ Ulvberg (enskild väg)
+ Bensinstation: Preem
+ Restaurang: Myre Diner
+
+Trp Njurunda (222)
+
+Bro över Ljungan
+
+Trafikplats Nolby (223)
+
+Trp Stockvik (224)
+
+Infoplats (nordgående)
+ Info om vägtullar
+
+Trp Skönsmon (225)
+(nordgående riktning)
+ E14: Trondheim, Östersund
+(Sundsvallsbron-syd
+ 2109 m
+(Vägavgift Sundsvallsbron)
+
+Trp Skönsmon (225)
+(sydgående riktning)
+
+Trp Skönsberg (226)
+(nordgående riktning)
+
+Sundsvallsbron-nord)
+ 2109 m
+Trp Skönsberg (226)
+(sydgående riktning)
+
+Trp Gärdedalen (227)
+
+Trp Birsta Syd
+(avfart nordgående riktning
+påfart sydgående riktning)
+
+Trafikplats Birsta (230)
+
+Rastplats Skönviksberget
+
+Trafikplats Timrå (231)
+
+Busshållplats Timrå E4 (avfart, båda riktningar)
+
+Trafikplats Vivsta (232)
+
+Trp Sörberge (233)
+
+Bro över Indalsälven (400 m)
+
+Trp Midlanda (234)
+ Sundsvalls Flygplats
+
+
+Gamla E4 (Njurunda - Sundsvall)
+=============================================================
+					2.5 km/2.6 km	1 min 40 s/1 min 44 s
+Dubbel T-korsning Njurundabommen
+ Njurundabommen
+ Bunsta
+					0.8 km/0.8 km	48 s/48 s
+Tankställe Dingersjö
+ Bensinstation: Statoil
+					1.4 km/1.3 km	1 min 24 s/1 min 18 s
+T-korsning E4/Tunavägen
+ Matfors, Allsta
+					0.6 km/0.6 km	43 s/43 s
+T-korsning Kvissleby OK
+ Bensinstation: OKQ8
+					1.0 km/1.0 km	1 min 12 s/1 min 12 s
+Korsning Kvissleby Centrum
+ Juniskär, Essvik, Skottsund
+					1.5 km/1.7 km	1 min 48 s/2 min 2 s
+Dubbel T-korsning Svartvik
+ Svartviks herrgård, industriminnen
+					2.5 km/2.3 km	3 min 0 s/2 min 46 s
+Järnvägskorsning
+					1.5 km/1.5 km	1 min 48 s/1 min 48 s
+T-korsning Bredsand
+ Bensinstation: Statoil
+					3.0 km/3.0 km	3 min 0 s/3 min 0 s
+T-korsning E4/Fridhemsg.
+ Skönsmon
+					1.0 km/1.0 km	1 min 0 s/1 min 0 s
+Korsning E4/E14
+ E14: Trondheim, Östersund
+ 86: Bispgården, Selånger

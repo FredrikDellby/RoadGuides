@@ -1,0 +1,197 @@
+Färdguide A1 (Paris - Lille)
+=============================
+
+Etapp 1: Porte de la Chapelle - A1/A3 (11,8 km/11,2 km)
+
+Échangeur Porte de la Chapelle (1)
+ BP med:
+ BP mot:
+					1.3 km/0.7 km	52 s/28 s
+Tunnel-sud
+					1.3 km/2.4 km	0 min 52 s/1 min 36 s
+Sortie 2
+ Saint-Denis
+					1.4 km/1.6 km	0 min 56 s/1 min 4 s
+Sortie 3
+ Sarcelles
+ [A16]: Amiens
+Sortie 4
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Stains
+					1.8 km/1.1 km	1 min 12 s/0 min 44 s
+Aire de La Courneuve
+ Gazole: Shell, Carrefour
+					1.8 km/1.2 km	1 min 12 s/0 min 48 s
+Échangeur A1 et A86
+(avfart sydgående riktning
+påfart nordgående riktning)
+					1.0 km/1.6 km	0 min 40 s/1 min 4 s
+Sortie 5
+ Le Blanc-Mesnil
+					1.3 km/1.2 km	52 s/48 s
+Tunnel
+					1.9 km/1.5 km	1 min 16 s/1 min 0 s
+Échangeur A1 et A3
+(avfart nordgående riktning
+påfart sydgående riktning)
+
+Etapp 2: A1/A3 - Sortie 9 (46,1 km/46,4 km)
+					3.8 km/4.1 km	2 min 17 s/2 min 28 s
+Échangeur CDG (sud)
+(avfart nordgående riktning
+påfart sydgående riktning)
+					4.4 km/3.9 km	2 min 24 s/2 min 8 s
+Échangeur CDG (nord)
+(inga avfarter)
+(Tunnel-sud)
+					1.7 km/2.6 km	0 min 56 s/1 min 25 s
+(Tunnel-nord)
+Sortie 6
+(avfart sydgående riktning
+påfart nordgående riktning)
+					2.9 km/0.9 km	1 min 27 s/0 min 27 s
+Aire de Chennevrières
+(sydgående riktning)
+Aire de Villeron
+(nordgående riktning)
+					1.8 km/3.7 km	0 min 54 s/1 min 51 s
+Aire de Vémars
+ Gazole: Elf, Total
+					1.4 km/1.5 km	42 s/45 s
+Sortie 7
+ Chantilly
+					2.2 km/2.1 km	1 min 6 s/1 min 3 s
+Aire de Survilliers
+					1.1 km/0.4 km	33 s/12 s
+Île-de-France / Picardie
+Val d'Oise / Oise
+					2.3 km/3.0 km	1 min 9 s/1 min 30 s
+Sortie Parc Astérix
+					9.5 km/10.6 km	4 min 45 s/5 min 18 s
+Sortie 8
+ Senlis, Creil
+ D1324: Meaux
+					11.3 km/9.8 km	5 min 39 s/4 min 54 s
+Aire de Roberval
+					3.8 km/3.7 km	1 min 54 s/1 min 51 s
+(Oise)
+
+Sortie 9
+ D200: Port-Saninte-Maxence
+
+Etapp 3: Sortie 9 - A1/A29 (60,6 km/61,3 km)
+					2.7 km/4.1 km	1 min 21 s/2 min 3 s
+Aire de Chevrières
+(nordgående riktning)
+Aire de Longueil-Ste-Marie
+(sydgående riktning)
+					5.9 km/4.6 km	2 min 57 s/2 min 18 s
+Sortie 10
+ Compiègne
+ N31: Beauvais
+					2.2 km/2.3 km	1 min 6 s/1 min 9 s
+Aire de Rémy
+(nordgående riktning)
+Aire de Bois d'Arsy
+(sydgående riktning)
+					12.2 km/12.5 km	6 min 6 s/6 min 15 s
+Sortie 11
+ D935: Montdidier
+(Aire de Ressons)
+ Gazole: Total, Shell
+					11.3 km/11.3 km	5 min 39 s/5 min 39 s
+Aire de Tilloloy
+(Oise / Somme)
+					9.3 km/9.0 km	4 min 39 s/4 min 30 s
+Sortie 12
+ D934: Amiens, Roye, Chauny, Tergnier
+					3.0 km/2.6 km	1 min 30 s/1 min 18 s
+Aire de Goyencourt
+					5.4 km/5.8 km	2 min 42 s/2 min 54 s
+Aire de Fonches
+(nordgående riktning)
+Aire d'Hattencourt
+(sydgående riktning)
+					8.7 km/9.0 km	4 min 21 s/4 min 30 s
+Èchangeur A1 et A29
+ A29 est: Saint-Quentin
+ A29 ou: Rouen, Amiens
+
+Etapp 4: A1/A29 - A1/A2 (19,4 km/17,8 km)
+					3.3 km/2.8 km	1 min 39 s/1 min 24 s
+Sortie 13
+ D1029: Saint-Quentin
+					0.9 km/1.0 km	27 s/30 s
+Aire d'Assevilliers
+ Gazole: Carrefour, Esso
+					6.7 km/6.4 km	3 min 21 s/3 min 12 s
+Aire de Feuillères
+(nordgående riktning)
+					2.7 km/3.0 km	1 min 21 s/1 min 30 s
+(Aire de Maurepas)
+(sydgående riktning)
+Sortie 13.1
+ D938: Albert, Péronne
+					5.9 km/4.5 km	2 min 57 s/2 min 15 s
+Échangeur A1 et A2
+ A2: Bruxelles, valenciennes
+
+Etapp 5: A1/A2 - A1/A26 (33,6 km/35,5 km)
+					2.2 km/2.2 km	1 min 6 s/1 min 6 s
+Picardie / Nord-pas-de-Calais
+Somme / Pas-de-Calais
+					4.6 km/5.3 km	2 min 18 s/2 min 39 s
+Aire de Beaulencourt
+(nordgående riktning)
+					3.2 km/3.0 km	1 min 36 s/1 min 30 s
+Sortie 14
+ D930: Bapaume
+					9.2 km/8.0 km	4 min 36 s/4 min 0 s
+Aire de Saint-Léger
+(sydgående riktning)
+ Gazole: Avia
+Aire de Croisilles
+(nordgående riktning)
+					8.6 km/11.6 km	4 min 18 s/5 min 48 s
+(Aire de Wancourt)
+ Gazole: Esso
+Sortie 15
+ D939: Arras
+					5.8 km/5.5 km	2 min 54 s/2 min 45 s
+Échangeur A1 et A26
+ A26 ou: Calais
+ A26 est: Reims, Saint-Quentin
+
+Etapp 6: A1/A26 - A1/A27 (36,9 km/37,1 km)
+					3.3 km/2.3 km	1 min 48 s/1 min 15 s
+Sortie 16
+ Douai, Arras
+					8.2 km/8.0 km	4 min 28 s/4 min 22 s
+Sortie 16.1
+ D40: Hénin-Beaumont
+					2.2 km/2.9 km	1 min 12 s/1 min 35 s
+Sortie 17
+ N43: Noyelles-Godault
+					0.6 km/1.5 km	20 s/49 s
+Échangeur A1 et A21
+					4.8 km/3.0 km	2 min 37 s/1 min 38 s
+Sortie 17.1
+ Plate-forme multimodale de Dourges
+					2.8 km/3.2 km	1 min 32 s/1 min 45 s
+Sortie 18
+ D917: Carvin
+					2.2 km/1.3 km	1 min 12 s/0 min 43 s
+Pas-de-Calais / Nord
+					4.6 km/5.6 km	2 min 31 s/3 min 3 s
+Aire de Phalempin
+ Gazole: BP, Total
+					1.8 km/1.5 km	59 s/49 s
+Sortie 19
+ D549: Seclin
+					4.5 km/4.9 km	2 min 27 s/2 min 40 s
+Sortie 20
+ Fahces-Thumesnil, Áreoport Lesquin
+					1.9 km/2.9 km	1 min 2 s/1 min 35 s
+Échangeur A1 et A27
+ A27: Bruxelles, Tournai

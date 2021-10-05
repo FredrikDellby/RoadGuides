@@ -1,0 +1,106 @@
+A. Varningsmärken
+ Vägens sträckning
+  1a. Skarp kurva åt vänster
+  1b. Skarp kurva åt höger
+  2a. Flera skarpa kurvor, först åt vänster
+  2b. Flera skarpa kurvor, först åt höger
+  3. Nerförsbacke
+  4. Uppförsbacke
+  5. Avsmalnande väg
+   a. från båda sidor
+   b. från höger
+   c. från vänster
+ Vägens underlag
+  6. Varning för bro
+  7. Varning för kajkant
+  8. Varning för ojämn väg
+  9. Varning för farhinder
+   a. Upphöjt
+   b. Nersänkt
+  10. Slirig väg
+  11. Stenskott
+  12. Varning för stenras
+   a. Från höger
+   b. Från vänster
+  13. Övergångsställe
+ Människor på vägen
+  14. Gående
+  15. Barn
+  16. Cykel
+  17. Skidåkare
+  18. Ridande
+ Djur på vägen
+  19. Varning för vilt
+   a. Älg
+   b. Hjortdjur
+   c. Ren
+   d. Häst
+   e. Nötkreatur
+   f. Vildsvin
+   g. Får
+  20. Vägarbete
+  21. Slut på vägarbete
+  23. Flerfärgssignal (trafikljus)
+  24. Varning för sidvind
+   a. Från höger
+   b. Från vänster
+  25. Mötande trafik
+  26. Tunnel
+  27. Svag/höjd vägkant
+  28. Korsande väg, högerhandsregeln gäller
+  29. Varning för vägkorsning (vid huvudled)
+   a. Från båda håll
+   b. Från vänster
+   c. Från höger
+   ...
+   f. Huvudleden svänger höger
+  30. Cirkulationsplats
+  31. Långsamtgående fordon
+  32. Fordon med förspänt dragdjur
+   a. Häst med vagn
+   b. Hundspann
+   c. Häst sulky
+  33. Terrängskoter
+  34. Köbindning
+  35. Järnvägskorsning med bommar
+  36. Järnvägskorsning utan bommar
+  37. Spårvägskorsningar
+  38. Förberedande för järnvägskorsning
+   a. Tre streck
+   b. Två streck
+   c. Ett streck
+  39. Kryssmärke
+   a. Ett spår
+   b. Flera spår
+  40. Övrig varning
+
+B. Väjningspliktsmärken
+ Vid korsning
+  1. Väjningsplikt
+  2. Stopplikt
+ Övergånsställe
+  3. Övergånsställe
+   a. Herr gårman
+   b. Fru gårman
+ Huvudleder
+  4. Huvudled
+  5. Huvudled upphör
+ Vid smal väg
+  6. Väjningsplikt mot mötande
+  7. Mötande har väjningsplikt
+
+C. Förbudsmärken
+  1. Förbud mot infart
+  2. Förbud mot trafik med fordon
+  3. Förbud mot alla fordon utom moped
+  4. Förbud mot fordon mer än 2 hjul
+  5. Förbud mot fordon med två hjul
+  6. Förbud mot fordon med släpvagn'
+  7. Förbud mot tung lastbil
+  8. Förbud mot traktor
+  9. Förbud mot farligt gods
+  10. Förbud mot cykel och moped
+  11. Förbud mot moped
+  12. 
+
+  

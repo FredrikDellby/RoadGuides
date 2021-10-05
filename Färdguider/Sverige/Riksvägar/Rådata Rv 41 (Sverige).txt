@@ -1,0 +1,124 @@
+Time	Km	Instruction	For	Toward
+Summary:  20,2 kilometres (18 minutes)
+09:00	0,0	Depart near Tofta on Local road(s) (East)	30 m	
+09:00	0,1	Bear RIGHT (North) onto 41	5,1 km	
+09:04	5,1	At T-korsning V. Derome, stay on 41 (North)	2,5 km	
+09:06	7,6	At T-korsning Åsby S, stay on 41 (North)	0,7 km	
+09:06	8,3	At Korsning Sällstorpsv., stay on 41 (North)	3,0 km	
+09:09	11,3	At T-korsning Veddige S, stay on 41 [Viskastigen] (North)	0,8 km	
+09:10	12,0	At T-korsning Veddige N, stay on 41 [Viskastigen] (North-East)	1,0 km	
+09:11	13,0	At near Veddige, stay on 41 [Viskastigen] (East)	1,3 km	
+09:13	14,3	At T-korsning Järlöv, stay on 41 (North-East)	5,9 km	
+09:18	20,2	Arrive near Istorp		
+
+SUMMARY
+Driving distance:  20,2 kilometres
+Trip duration:  18 minutes
+Driving time:  18 minutes
+Cost:  24,66 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  19,8 kilometres (17 minutes)
+09:00	0,0	Depart near Istorp on 41 (West)	5,9 km	
+09:05	5,9	At T-korsning Järlöv, stay on 41 (South-West)	1,3 km	
+09:06	7,2	At near Veddige, stay on 41 [Viskastigen] (West)	1,0 km	
+09:07	8,2	At T-korsning Veddige N, stay on 41 [Viskastigen] (South-West)	0,6 km	
+09:08	8,8	At Korsning Veddige S, stay on 41 [Viskastigen] (South)	3,2 km	
+09:11	11,9	At Korsning Sällstorpsv., stay on 41 [Bjurumsvägen] (South)	0,7 km	
+09:12	12,6	At T-korsning Åsby S, stay on 41 (South)	2,3 km	
+09:14	14,9	At T-korsning V. Derome, stay on 41 (South)	4,8 km	
+09:17	19,8	Arrive 41, 432 95 Varberg		
+
+SUMMARY
+Driving distance:  19,8 kilometres
+Trip duration:  17 minutes
+Driving time:  17 minutes
+Cost:  27,51 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,8 kilometres (23 minutes)
+09:00	0,0	Depart near Istorp on 41 (East)	0,6 km	
+09:00	0,6	At near Istorp, stay on 41 (North)	4,2 km	
+09:04	4,7	At near Horred, stay on 41 [Varbergsvägen] (North)	0,3 km	
+09:04	5,0	At Korsning Horred S, stay on 41 [Varbergsvägen] (North)	0,7 km	
+09:05	5,7	At Korsning Horred N, stay on 41 [Varbergsvägen] (North)	2,4 km	
+09:07	8,1	At near Viskabacka, stay on 41 (East)	0,5 km	
+09:08	8,6	At T-korsning Sundholmen, stay on 41 [Sundholmen] (North-East)	5,8 km	
+09:13	14,4	At T-korsning Björketorp, stay on 41 [Varbergsvägen] (North)	0,6 km	
+09:14	15,0	At near Björketorp, stay on 41 [Varbergsvägen] (North-East)	5,1 km	
+09:19	20,0	At T-korsning Berghem S, stay on 41 (North-East)	0,7 km	
+09:20	20,7	At T-korsning Berghem Ö, stay on 41 (North-East)	4,0 km	
+09:23	24,8	Arrive 41, 511 Skene		
+
+SUMMARY
+Driving distance:  24,8 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  31,16 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  24,9 kilometres (22 minutes)
+09:00	0,0	Depart 41, 511 63 Skene on 41 (West)	4,2 km	
+09:03	4,2	At T-korsning Berghem Ö, stay on 41 (South-West)	0,7 km	
+09:03	4,9	At T-korsning Berghem S, stay on 41 (South-West)	5,0 km	
+09:08	9,9	At 41 316, 519 94 Björketorp, stay on 41 [Varbergsvägen] (South-West)	0,6 km	
+09:09	10,5	At T-korsning Björketorp, stay on 41 [Varbergsvägen] (South)	5,8 km	
+09:14	16,3	At T-korsning Sundholmen, stay on 41 [Sundholmen] (South-West)	0,5 km	
+09:15	16,8	At near Viskabacka, stay on 41 (West)	2,4 km	
+09:17	19,1	At near Horred, stay on 41 [Varbergsvägen] (South)	0,7 km	
+09:18	19,8	At 41 427, 519 30 Horred, stay on 41 [Varbergsvägen] (South)	0,4 km	
+09:18	20,2	At 41 446, 519 30 Horred, stay on 41 [Varbergsvägen] (South)	4,1 km	
+09:22	24,3	At near Istorp, stay on 41 (South)	0,6 km	
+09:22	24,9	Arrive near Istorp		
+
+SUMMARY
+Driving distance:  24,9 kilometres
+Trip duration:  22 minutes
+Driving time:  22 minutes
+Cost:  35,65 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,9 kilometres (23 minutes)
+09:00	0,0	Depart 41, 511 Skene on 41 (East)	2,2 km	
+09:01	2,2	At 41, 511 Kinna, stay on 41 (North)	0,7 km	
+09:02	2,9	At 41, 511 Kinna, keep RIGHT onto Ramp	0,7 km	Örby / Industriområde Assberg / Industriområde Näs
+09:02	3,5	Keep STRAIGHT onto 41	0,5 km	
+09:03	4,1	At 41, 511 Kinna, stay on 41 (North-East)	1,7 km	
+09:04	5,8	At T-korsning Kinna NÖ, stay on 41 (East)	6,2 km	
+09:09	12,0	At Korsning Skephultsv., stay on 41 (North-East)	4,3 km	
+09:12	16,3	At T-korsning Ramslätt, stay on 41 (North-East)	1,2 km	
+09:13	17,5	At T-korsning Flenstorp, stay on 41 (North-East)	1,3 km	
+09:14	18,8	At T-korsning Stenastorp, stay on 41 (North)	2,8 km	
+09:16	21,6	At 41, 515 Kinnarumma, stay on 41 (North)	2,2 km	
+09:17	23,8	At T-korsning, stay on 41 (North)	3,1 km	
+09:20	26,9	At 41, 515 Viskafors, stay on 41 (North)	4,0 km	
+09:23	30,9	Arrive Rondell Rv 27/Rv 41		
+
+SUMMARY
+Driving distance:  30,9 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  36,91 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  30,8 kilometres (23 minutes)
+09:00	0,0	Depart 41, 504 46 Borås on Local road(s) (West)	30 m	
+09:00	0,1	Bear RIGHT (South-West) onto 41	3,9 km	
+09:03	3,9	At T-korsning, stay on 41 (South)	3,2 km	
+09:05	7,1	At T-korsning, stay on 41 (South)	1,8 km	
+09:06	8,9	At 41, 515 92 Kinnarumma, stay on 41 (South-West)	3,2 km	
+09:09	12,1	At T-korsning Stenastorp, stay on 41 (South)	1,3 km	
+09:10	13,4	At T-korsning Flenstorp, stay on 41 (South-West)	1,0 km	
+09:10	14,4	At near Kinnarumma, stay on 41 (West)	4,5 km	
+09:14	19,0	At Korsning Skephultsv., stay on 41 (South-West)	6,1 km	
+09:18	25,1	At T-korsning Kinna NÖ, stay on 41 (West)	1,5 km	
+09:19	26,5	At 41, 511 54 Kinna, stay on 41 (South-West)	1,2 km	
+09:20	27,8	At 41, 511 58 Kinna, stay on 41 (South)	0,7 km	
+09:21	28,4	At 41, 511 31 Kinna, stay on 41 (South)	2,3 km	
+09:23	30,8	Arrive 41, 511 63 Skene		
+
+SUMMARY
+Driving distance:  30,8 kilometres
+Trip duration:  23 minutes
+Driving time:  23 minutes
+Cost:  41,90 kr

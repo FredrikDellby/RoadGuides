@@ -1,0 +1,40 @@
+Time	Km	Instruction	For	Toward
+Summary:  18,5 kilometres (15 minutes)
+09:00	0,0	Depart near Gällstad on Local road(s) (West)	30 m	
+09:00	0,1	Turn RIGHT (South) onto 157 [Ulricehamnsvägen]	0,6 km	
+09:00	0,6	At Korsning Gällstad södra, stay on 157 [Ulricehamnsvägen] (South)	3,8 km	
+09:03	4,4	At T-korsning St Bystad, stay on 157 (South)	0,9 km	
+09:04	5,3	At T-korsning Kättebo, stay on 157 (South-West)	1,2 km	
+09:05	6,5	At near Torsbo, stay on 157 (South-West)	2,2 km	
+09:06	8,7	At T-korsning, stay on 157 (South)	0,5 km	
+09:07	9,2	At T-korsning, stay on 157 (South)	4,7 km	
+09:10	13,9	At Korsning, stay on 157 (West)	1,2 km	
+09:11	15,0	At T-korsning Södra Åsarp, stay on 157 (West)	2,5 km	
+09:14	17,5	At T-korsning Limmared centr, stay on 157 [Muntebovägen] (South-West)	1,0 km	
+09:15	18,5	Arrive T-korsning Limmared västra		
+
+SUMMARY
+Driving distance:  18,5 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  22,12 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  18,5 kilometres (15 minutes)
+09:00	0,0	Depart T-korsning Limmared västra on 157 (East)	0,8 km	
+09:01	0,8	At T-korsning 157/V. Järnväg, stay on 157 [Muntebovägen] (East)	2,7 km	
+09:04	3,5	At T-korsning Södra Åsarp, stay on 157 (East)	1,2 km	
+09:05	4,7	At Korsning, stay on 157 (North)	4,7 km	
+09:08	9,3	At T-korsning, stay on 157 (North)	0,4 km	
+09:08	9,8	At T-korsning, stay on 157 (North)	2,2 km	
+09:10	12,0	At near Torsbo, stay on 157 [Kättebo] (North)	1,2 km	
+09:11	13,2	At T-korsning Kättebo, stay on 157 (North)	0,9 km	
+09:12	14,1	At T-korsning St Bystad, stay on 157 (North)	3,8 km	
+09:14	17,9	At Korsning Gällstad södra, stay on 157 [Ulricehamnsvägen] (North)	0,6 km	
+09:15	18,5	Arrive near Gällstad		
+
+SUMMARY
+Driving distance:  18,5 kilometres
+Trip duration:  15 minutes
+Driving time:  15 minutes
+Cost:  22,06 kr

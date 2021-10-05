@@ -1,0 +1,187 @@
+Skåne län
+
+f.d. Kristianstad län:
+Önnestads folkhögskola
+Charlottenborgs Vandrarhem
+Skåne Tranås Vandrarhem
+Haväng Vandrarhem
+Kivikstrand Vandrarhem
+Simrishamns Vandrarhem
+
+f.d. Malmöhus län
+Jonstorp Vandrarhem			Jonstorp
+Kfum Nyckelbo Vandrarhem		Hittarp
+Helsingborgs Vandrarhem i City		Helsingborg
+
+Västra Götalands län
+=====================
+
+Bohuslän:
+Roddaren Vandrarhem (SVIF)		Strömstad
+Crusellska (SVIF)			Strömstad
+Grebbestads Vandrarhem (SVIF)		Grebbestad
+Grebbestadsjjordens Turist (SVIF)	Grebbestad
+STF Fjällbacka/Valö			Fjällbacka
+Leifs Logi (SVIF)			Fjällbacka
+Hamburgö Gamla Skola (SVIF)		Hamburgsö
+Kustnära Vandrarhem (SVIF)		Heestrand
+Skärholmens Kvarn (SVIF)
+STF Wauglen/Kynnefjäll
+Vandrarhem Dingle (SVIF)		Dingle
+Hunnebostrands Vandrarhem (SVIF)	Hunnebostrand
+Hovenäsets Vandrarhem (SVIF)		Hovenäset
+Makrillvikens Vandrarhem (SVIF)		Smögen
+Utpost Hållö (SVIF)			Hållö
+Strand Vandrarhem och kusthotell (SVIF)	Lysekil
+STF Bassholmen
+STF Kärlingesunds Gård
+STF Vandrarhem Rörbäck
+STF Gustafsberg/Uddevalla		Uddevalla
+KomBo Logi - Hostel (SVIF)		Uddevalla
+STF Vandrarhem Ljungsskile		Ljungsskile
+Ulvöns Vandrarhem (SVIF)		Ljungsskile
+STF Tofta Sjögård			
+Maj på Malö (SVIF)			Malö
+STF Jordhammars Herrgård		Jordhammar
+STF Stenungsund				Stenungsund
+Getskärs Wärdshus (SVIF)		Stora Höga
+Rönnängs Vandrarhem (SVIF)		Rönnäng
+Kungälvs Vandrarhem och Camping (SVIF)	Kungälv
+Nordiska Folkhögskolan (SVIF)		Kungälv
+STF Bohus/Björkö (Hotell)		Björkö
+
+Göteborg:
+STF Stigbergsliden
+STF Mölnlycke/Wendelsberg
+Dalagärde Vandrarhem (SVIF)
+S:t Jörgens Hotel (SVIF)
+Kvibergs Vandrarhem och Stugby (SVIF)
+Masthuggsterassens vandrarhem (SVIF)
+Göteborgs minihotel (SVIF)
+Linné vandrarhem (SVIF)
+Slottsskogens vandrarhem (SVIF)
+Göteborgs vandrarhem (SVIF)
+Lisebergs vandrarhem Kärralund (SVIF)
+Partille vandrarhem (SVIF)
+
+Sjuhärad:
+STF Vandrarhem Borås			Borås
+STF Vandrarhem Ulricehamn		Ulricehamn
+STF Vandrarhem Årås
+STF Tostared/Lygnern
+Viskadalens Folkhögskola (SVIF)
+STF Fegen Backa Loge
+
+Mellersta Västergötland:
+Hunnebergs vandrarhem (SVIF)		Vargön
+STF Trollhättan/Gula Villan		Trollhättan
+STF Vandrarhem Prässebo			Prässebo
+Hedefors Vandrarhem (SVIF)		Lerum
+STF Alingsås/Villa Plantaget		Alingsås
+STF Alingsås/Hjälmared			Hjälmared
+Tånga Hed Vandrarhem och Camping (SVIF)	Vårgårda
+
+Dalsland:
+STF Vandrarhem Ed			Ed
+STF Vandrarhem Bengtsfors		Bengtsfors
+Kanalvillan (SVIF)			Dals-Långed
+STF Vandrarhem Åmål			Åmål
+STF Vandrarhem Håverud			Håverud
+STF Vandrarhem Kroppefjäll		Dals-Rostock
+STF Färgelanda				Ellenö
+Brålanda Hotel och Vandrarhem (SVIF)	Brålanda
+
+Skaraborg:
+STF Vandrarhem Gullspång		Gullspång
+STF Norrqvarn/Göta Kanal		Töreboda
+STF Tåtorp/Göta Kanal			Tåtorp
+STF Vandrarhem Forsvik			Forsvik
+STF Vandrarhem Karlsborg		Karlsborg
+Livslyckans vandrarhem (SVIF)		Karlsborg
+STF Hällekis/Falkängen			Hällekis
+STF Vandrarhem Mariestad		Mariestad
+Läckö strandgård (SVIF)			Kållandsö
+STF Vandrarhem Lidköping		Lidköping
+Skara Vandrarhem (SVIF)			Skara
+STF Skara/Eggby				Eggby
+STF Vandrarhem Skövde			Skövde
+Skövde Vandrarhem (SVIF)		Skövde
+STF Vandrarhem Hjo			Hjo
+STF Vandrarhem Vara			Vara
+STF Vandrarhem Falköping		Falköping
+
+Hallands län
+=============
+
+Nattmössan (SVIF)			Kungsbacka
+STF Vandrarhem Åsa			Åsa
+Fästningens Vandrarhem (SVIF)		Varberg	
+STF Vandrarhem Varberg			Träslövsläge
+Vandrarhem Eja Märtas Gård (SVIF)	Träslövsläge
+Rödlix Vandrarhem (SVIF)			
+Vandrarhemmet Moarna (SVIF)		Tvååker
+STF Bråtadal/Svartrå			Svartrå
+Fegens Vandrarhem (SVIF)		Fegen
+Katrinebergs Folkhögskola (SVIF)	Vessigebro
+Kvarnens Vandrarhem (SVIF)		Agerör
+STF Vandrarhem Falkberget		Falkenberg
+Falkenbergs Vandrarhem (SVIF)		Skrea Strand
+Steninge Vandrarhem (SVIF)		Steninge
+Plönninge Vandrarhem (SVIF)		Harplinge
+Birkagårdens Vandrarhem			Åled
+STF Halmstad/Tylebäck			Tylesand
+Hotell Laxen				Halmstad
+STF Mellbystrand			Mellbystrand
+STF Vandrarhem Laholm			Laholm
+
+
+Värmlands län
+==============
+
+Västra Värmland:
+Larstomtas Vandrarhem (SVIF)
+STF Vandrarhem Brunskog
+Sandvikengården (SVIF)
+STF Töcksfors/Turistgården
+STF Vandrarhem Blomskog
+
+Karlstadsområdet:
+STF Vandrarhem Karlstad
+STF Vandrarhem Hammarö/Skoghall
+
+Östra Värmland:
+STF Brattfors Gård
+Munkebergs Vandrarhem (SVIF)
+Gammelkroppa Skogsskola (SVIF)
+
+Fryken-Klarälven:
+Uddeholms Vandrarhem (SVIF)
+STF Vandrarhem Lakene Gård
+STF Vandrarhem Sunne
+STF Medskog/Östra Ämtervik
+Ransbergs Herrgård (SVIF)
+
+Norra Värmland:
+STF Vandrarhem Ransbysätern
+Vägsjöfors Herrgård (SVIF)
+STF Mårbacken/Lekvattnet
+
+Örebro län
+===========
+
+Västmanlandsdelen:
+STF Hjulsjö/Mårtensbo
+STF Vandrarhem Loka Brunn
+Gillersklack Vandrarhem
+The Wilderness Lodge (SVIF)
+STF Vandrarhem Nora
+Uskavigården (SVIF)
+
+Västra Närke:
+Karlskoga Folkhögskola Vandrarhem (SVIF)
+Tiwäga Vandrarhem (SVIF)
+STF Vandrarhem Tivedstorp
+STF Vandrarhem Hargebaden
+
+Östra Närke:
+STF Örebro/Livin

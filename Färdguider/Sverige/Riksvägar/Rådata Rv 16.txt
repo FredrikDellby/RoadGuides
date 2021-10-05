@@ -1,0 +1,121 @@
+Time	Km	Instruction	For	Toward
+Summary:  9,3 kilometres (9 minutes)
+09:00	0,0	Depart T-korsning Fjellbo on Fjelievägen (East)	0,2 km	
+09:00	0,2	Road name changes to 16 [Fjelievägen]	1,1 km	
+09:01	1,4	At Korsning Fjelie, stay on 16 [Fjelievägen] (East)	0,3 km	
+09:01	1,6	At T-korsning Fjelie, stay on 16 [Fjelievägen] (East)	1,4 km	
+09:02	3,0	At near Fjelie, stay on 16 [Fjelievägen] (East)	0,3 km	
+09:03	3,3	At T-korsning Gammelmark, stay on 16 [Fjelievägen] (East)	1,0 km	
+09:03	4,3	At Fjelievägen, 226 60 Lund, stay on 16 [Fjelievägen] (East)	0,5 km	
+09:04	4,8	At Korsning Ibis Lund, stay on 16 [Fjelievägen] (East)	0,5 km	
+09:04	5,3	At roundabout, take the FOURTH exit onto 16 [Norra Ringen]	0,5 km	
+09:05	5,8	At T-korsning Gunnesbo, stay on 16 [Norra Ringen] (North-East)	0,6 km	
+09:06	6,4	At near Lund, stay on 16 [Norra Ringen] (East)	0,5 km	
+09:06	6,9	At Korsning 16/Kävlingevägen, stay on 16 [Norra Ringen] (East)	1,2 km	
+09:08	8,1	At Korsning 16/Svenshögsv., stay on 16 [Norra Ringen] (East)	0,7 km	
+09:09	8,7	At roundabout, take the SECOND exit onto 16 [Norra Ringen]	0,6 km	
+09:09	9,3	Arrive Norra Ringen, 226 43 Lund		
+
+SUMMARY
+Driving distance:  9,3 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  13,84 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  9,3 kilometres (9 minutes)
+09:00	0,0	Depart 22 on Ramp [Trafikplats Lund N.] (North)	0,3 km	16 / E6 / E20 / Lund N / Bjärred
+09:00	0,3	Keep LEFT to stay on Ramp	70 m	
+09:00	0,4	At roundabout, take the THIRD exit onto 16 [Norra Ringen]	0,8 km	
+09:01	1,3	At roundabout, take the SECOND exit onto 16 [Norra Ringen]	0,7 km	
+09:02	2,0	At Korsning 16/Svenshögsv., stay on 16 [Norra Ringen] (West)	1,1 km	
+09:03	3,0	At Korsning 16/Kävlingevägen, stay on 16 [Norra Ringen] (West)	0,6 km	
+09:04	3,6	At near Lund, stay on 16 [Norra Ringen] (West)	0,6 km	
+09:04	4,3	At T-korsning Gunnesbo, stay on 16 [Norra Ringen] (South-West)	0,3 km	
+09:05	4,6	At roundabout, take the FIRST exit onto 16 [Fjelievägen]	0,5 km	
+09:05	5,0	At Fjelievägen, 227 61 Lund, stay on 16 [Fjelievägen] (West)	0,3 km	
+09:06	5,3	At Fjelievägen, 227 61 Lund, stay on 16 [Fjelievägen] (West)	1,3 km	
+09:07	6,6	At T-korsning Gammelmark, stay on 16 [Fjelievägen] (West)	0,2 km	
+09:07	6,8	At near Fjelie, stay on 16 [Fjelievägen] (West)	1,4 km	
+09:08	8,2	At T-korsning Fjelie, stay on 16 [Fjelievägen] (West)	0,3 km	
+09:08	8,4	At Korsning Fjelie, stay on 16 [Fjelievägen] (West)	0,9 km	
+09:09	9,3	Arrive Fjelievägen, 237 91 Bjärred		
+
+SUMMARY
+Driving distance:  9,3 kilometres
+Trip duration:  9 minutes
+Driving time:  9 minutes
+Cost:  14,12 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,8 kilometres (8 minutes)
+09:00	0,0	Depart Norra Ringen, 226 43 Lund on Local road(s) (South)	20 m	Dalby / Malmö
+09:00	0,1	Take Ramp (RIGHT) onto E22 [16]	2,0 km	Dalby / Malmö
+09:01	2,1	At 21, road name changes to Ramp [Trafikplats Gastelyckan]	0,3 km	16 / Dalby / Lund Ö
+09:01	2,3	Turn LEFT (East) onto 16 [Dalbyvägen]	0,5 km	
+09:02	2,8	At Korsning 16/Porfyrvägen, stay on 16 [Dalbyvägen] (East)	0,4 km	
+09:02	3,1	At Korsning Gastelyckan Ö, stay on 16 [Dalbyvägen] (East)	0,9 km	
+09:03	4,0	At Korsning 16/Norrängsv., stay on 16 [Dalbyvägen] (East)	1,1 km	
+09:04	5,2	At T-korsning Råbytorp, stay on 16 [Dalbyvägen] (East)	0,8 km	
+09:04	5,9	At Korsning Arendala, stay on 16 (East)	0,6 km	
+09:05	6,5	At T-korsning Hardebergav., stay on 16 (East)	0,8 km	
+09:05	7,3	At T-korsning, stay on 16 (East)	3,2 km	
+09:08	10,4	At roundabout, take the FIRST exit onto 16	0,4 km	
+09:08	10,8	Arrive 16, 240 10 Dalby		
+
+SUMMARY
+Driving distance:  10,8 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  15,51 kr
+
+Time	Km	Instruction	For	Toward
+Summary:  10,4 kilometres (8 minutes)
+09:00	0,0	Depart 11, 240 10 Dalby on Local road(s) (North)	90 m	
+09:00	0,1	Bear RIGHT (North-West) onto 16	0,4 km	
+09:00	0,5	At roundabout, take the SECOND exit onto 16	3,0 km	
+09:02	3,5	At T-korsning, stay on 16 (West)	1,0 km	
+09:03	4,5	At T-korsning Hardebergav., stay on 16 (West)	0,6 km	
+09:04	5,0	At Korsning Arendala, stay on 16 [Dalbyvägen] (West)	0,8 km	
+09:04	5,8	At T-korsning Råbytorp, stay on 16 [Dalbyvägen] (West)	1,1 km	
+09:05	7,0	At Korsning 16/Norrängsv., stay on 16 [Dalbyvägen] (West)	0,9 km	
+09:06	7,8	At Korsning Gastelyckan Ö, stay on 16 [Dalbyvägen] (West)	0,4 km	
+09:06	8,2	At Korsning 16/Porfyrvägen, stay on 16 [Dalbyvägen] (West)	0,3 km	
+09:07	8,5	At near Stora Råby, take Ramp (RIGHT) onto E22 [16]	1,9 km	E22 / Kalmar
+09:08	10,4	Arrive 22		
+
+SUMMARY
+Driving distance:  10,4 kilometres
+Trip duration:  8 minutes
+Driving time:  8 minutes
+Cost:  14,79 kr
+
+1.4 km/0.9 km	1 min 12 s/0 min 46 s
+0.3 km/0.3 km	15 s/15 s
+1.4 km/1.4 km	1 min 12 s/1 min 12 s
+0.3 km/0.2 km	15 s/10 s
+1.0 km/1.3 km	0 min 51 s/1 min 7 s
+0.5 km/0.3 km	26 s/15 s
+0.5 km/0.5 km	26 s/26 s
+
+0.5 km/0.3 km	36 s/22 s
+
+0.6 km/0.6 km	31 s/31 s
+0.5 km/0.6 km	26 s/31 s
+1.2 km/1.1 km	1 min 2 s/0 min 57 s
+0.7 km/0.7 km	36 s/36 s
+
+0.6 km/1.3 km	0 min 43 s/1 min 34 s
+
+2.1 km/1.9 km	1 min 35 s/1 min 26 s
+
+0.7 km/0.3 km	50 s/22 s
+0.4 km/0.4 km	29 s/29 s
+
+0.9 km/0.9 km	46 s/46 s
+1.1 km/1.1 km	57 s/57 s
+0.8 km/0.8 km	41 s/41 s
+0.6 km/0.6 km	31 s/31 s
+0.8 km/1.0 km	41 s/51 s
+3.2 km/3.0 km	2 min 45 s/2 min 34 s
+0.4 km/0.5 km	21 s/26 s

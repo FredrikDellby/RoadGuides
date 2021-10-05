@@ -1,0 +1,220 @@
+Échargeur entre A36 et A31
+ A31 n: Metz, Dijon
+ A31 s: [A6]: Lyon
+					7.6 km/8.8 km	3 min 48 s/4 min 24 s
+Aire de Villy-le-Moutier
+(östgående riktning)
+Aire d'Argilly
+(västgående riktning)
+					8.1 km/8.2 km	4 min 3 s/4 min 6 s
+Aire du Bois Guillerot
+(östgående riktning)
+Aire de Glanon
+(västgående riktning)
+					4.7 km/4.8 km	2 min 21 s/2 min 24 s
+Sortie 1
+ Seurre
+ Saint-Jean-de-Losne
+					10.5 km/10.8 km	5 min 15 s/5 min 24 s
+Aire des Noues
+(östgående riktning)
+Aire de Saint-Jean-de-Losne
+(västgående riktning)
+					9.5 km/9.6 km	4 min 45 s/4 min 48 s
+Échangeur entre A36 et A39
+ A39 s: Grenoble, Géneve,
+        Bourg-en-Bresse
+ A39 n: Dijon
+					2.4 km/1.2 km	1 min 12 s/0 min 36 s
+Bourgogne / Franche-Comté
+Côte d'Or / Jura
+					1.3 km/1.9 km	0 min 39 s/0 min 57 s
+Aire de Sampans
+(östgående riktning)
+Aire du Bois des Potets
+(västgående riktning)
+					6.1 km/6.0 km	3 min 3 s/3 min 0 s
+Sortie 2
+ Dole
+ Grey
+					5.2 km/5.9 km	2 min 36 s/2 min 57 s
+Aire de Dole-Audelange
+(östgående riktning)
+Aire de Dole-Romange
+(västgående riktning)
+					11.3 km/10.7 km	5 min 39 s/5 min 21 s
+Sortie 2.1
+ Dampierre, Ranchot
+ Gendrey
+					3.3 km/3.2 km	1 min 39 s/1 min 36 s
+Aire d'Hyombre
+(västgående riktning)
+					1.1 km/0.7 km	0 min 33 s/0 min 21 s
+Jura / Doubs
+					7.3 km/8.1 km	3 min 39 s/4 min 3 s
+Aire du Bois de Servole
+(östgående riktning)
+					4.1 km/4.2 km	2 min 3 s/2 min 6 s
+Sortie 3
+ Besançon-Planoise, Chemaudin,
+ [N57]: Lausanne, Pontarlier
+ D67: Grey, Marnay
+					4.9 km/4.7 km	2 min 27 s/2 min 21 s
+Aire de Le Bois de Frachère
+(östgående riktning)
+Aire de Peloussey
+(västgående riktning)
+					4.7 km/4.6 km	2 min 21 s/2 min 18 s
+Sortie 4
+ Besançon-Saint Claude
+ N57: Lausanne
+ D232: Vesoul
+					11.7 km/12.4 km	5 min 51 s/6 min 12 s
+Aire de Besançon Marchaux
+(östgående riktning)
+Aire de Besançon-Champoux
+(västgående riktning)
+					3.0 km/2.1 km	1 min 30 s/1 min 3 s
+Sortie 4.1
+ Besançon-Palente
+ Marchaux, Roulans
+ Champoux
+					7.7 km/8.0 km	3 min 51 s/4 min 0 s
+Aire de Chevaney
+(östgående riktning)
+Aire de Les Grands Brocards
+(västgående riktning)
+					11.4 km/11.2 km	5 min 42 s/5 min 36 s
+Sortie 5
+ Baume-les-Dames, Valdahon
+ Lurs
+					6.3 km/6.3 km	3 min 9 s/3 min 9 s
+Aire de Combes de Fougere
+(östgående riktning)
+Aire de Le Boulet
+(västgående riktning)
+					8.3 km/9.0 km	4 min 9 s/4 min 30 s
+Aire de Le Charme
+(östgående riktning)
+Aire de Le Galiot
+(västgående riktning)
+					2.6 km/1.8 km	1 min 18 s/0 min 54 s
+Sortie 6
+ Clerval, Anteuil
+ L'Isle-sur-le-Doubs
+					12.6 km/13.0 km	6 min 18 s/6 min 30 s
+(Péage de Saint-Maurice)
+
+Aire d'Écot
+(östgående riktning)
+ Bensin: BP
+Aire de La Combe Ronde
+(västgående riktning)
+					3.2 km/3.0 km	1 min 36 s/1 min 30 s
+Sortie 6.1
+ Pontarlier, Pont-de-Roide
+ Bavans, Voujeaucourt
+					5.1 km/3.7 km	3 min 4 s/2 min 13 s
+Sortie 7
+ Audincourt, Valentigney
+ Voujeaucourt
+					2.0 km/2.9 km	1 min 12 s/1 min 44 s
+Sortie 8
+ Montbéliard
+					0.9 km/2.0 km	0 min 32 s/1 min 12 s
+Sortie 9
+ Étupes, Exincourt
+ Sochaux
+					2.8 km/2.1 km	1 min 41 s/1 min 16 s
+Sortie 10
+ Grand-Charmont, Vieux-Charmont
+					2.1 km/1.9 km	1 min 16 s/1 min 8 s
+Aire de Dambenois
+(västgående riktning)
+					1.1 km/0.5 km	0 min 40 s/0 min 18 s
+Doubs / Territoire de Belfort
+					3.7 km/4.1 km	2 min 13 s/2 min 28 s
+Sortie 11
+ Delle, Dellémont
+ Épinal, Vesoul, Héricourt
+					2.7 km/2.8 km	1 min 37 s/1 min 41 s
+Aire de Grand Bois
+(östgående riktning)
+					1.2 km/1.4 km	0 min 43 s/0 min 50 s
+Sortie 12
+ Danjoutin
+ Belfort-Centre, Bavilliers
+					2.8 km/3.5 km	1 min 41 s/2 min 6 s
+Sortie 13
+ Belfort-Glacis-du-château
+					2.6 km/2.5 km	1 min 34 s/1 min 30 s
+Sortie 14
+ Belfort-Centre
+ Mulhouse, Beaune par RN
+Sortie 14 - Sortie 15
+					3.7 km/1.1 km	1 min 51 s/0 min 33 s
+Aire des Grands Prés
+(västgående riktning)
+Aire de la Forêt
+(östgående riktning)
+					2.7 km/4.2 km	1 min 21 s/2 min 6 s
+(Péage de Fontaine-Larivière)
+Sortie 14.1
+ Fontaine
+Aire de Fontaine
+					3.7 km/4.0 km	1 min 51 s/2 min 0 s
+Aire du Haut Bois
+(östgående riktning)
+Aire d'Angeot
+(västgående riktning)
+					0.8 km/0.5 km	0 min 24 s/0 min 15 s
+Franche-Comté / Alsace
+Terrtoire de Belfort / Haute-Rhin
+					8.2 km/9.1 km	4 min 6 s/4 min 33 s
+Aire de la Porte d'Alsace
+ Bensin: Total
+					3.1 km/2.9 km	1 min 33 s/1 min 27 s
+Sortie 15
+ Burnhaupt, Altkirch
+ Colmar, Guebwiller,
+ Thann, Cernay,
+ Masevaux, Belfort par RN
+					8.0 km/8.7 km	4 min 48 s/5 min 13 s
+Sortie 16
+ Mulhouse-les-Coteaux, Brunstatt,
+ Morschwiller-le-Bas, Altkirch
+ Thann, Cernay,
+ Épinal, Wittelsheim
+					2.1 km/1.3 km	1 min 16 s/0 min 47 s
+Sortie 17
+ Mulhouse-Dornach
+ Pfastatt, Lutterbach
+					3.4 km/3.8 km	2 min 2 s/2 min 17 s
+Sortie 18
+ Mulhouse-Centre, Illzach-Sud
+ Mulhouse-Bourtzwillerm, Guebwiller,
+ Kingersheim, Wittenheim, Illzach-Centre
+					1.8 km/1.2 km	1 min 5 s/0 min 43 s
+Sortie 19
+(avfart västgående riktning
+påfart östgående riktning)
+ Mulhouse-Centre
+					1.4 km/2.0 km	0 min 50 s/1 min 12 s
+Sortie 20
+ Sausheim Île Napoléon, Illzach
+					1.2 km/2.1 km	0 min 43 s/1 min 16 s
+Échangeur entre A36 et A35
+ A35 n: Strasbourg, Colmar
+ A35 s: Basle
+					2.4 km/0.7 km	1 min 26 s/0 min 25 s
+Sortie 21
+ Usine Peugeot Citroën de Sausheim
+					6.6 km/6.9 km	3 min 58 s/4 min 8 s
+Sortie 22
+ Ottmarsheim
+					2.1 km/2.3 km	1 min 16 s/1 min 23 s
+Frankrike / Tyskland
+Alsace / Baden-Württemberg
+AB-Dreieck Neuenburg (66)
+ A5 n: Frankfurt/Main, Freiburg
+ A5 s: Basel

@@ -1,0 +1,69 @@
+N89-N58
+=======
+
+A4-Sortie 25
+ A4 n: Bruxlles, Namur
+ A4 s: Luxembourg
+					2.3 km/1.9 km	1 min 43 s/1 min 26 s
+Korsning
+ Ochamps
+ Rossart
+					2.9 km/2.9 km	2 min 11 s/2 min 11 s
+Rondell N845
+ Ochamps
+ Saupont
+					1.5 km/1.5 km	1 min 8 s/1 min 8 s
+Rondell N884
+ La Blanche Oreille
+ Bertrix
+					1.8 km/2.2 km	1 min 21 s/1 min 39 s
+Sortie Glaumont
+ Paliseul, Offagne
+ Bertrix
+					4.2 km/4.5 km	2 min 48 s/3 min 0 s
+Sortie Fays-les-Veneurs
+ Offagne
+ Les Hayons
+					2.3 km/1.5 km	1 min 32 s/1 min 0 s
+Sortie
+(avfart nordgående riktning
+påfart sydgående riktning)
+					2.0 km/2.6 km	1 min 20 s/1 min 44 s
+Sortie Plainevaux
+ Paliseul
+ Bellevaux
+Sortie N819
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Alle, Rochehaut
+					2.5 km/1.9 km	1 min 40 s/1 min 16 s
+Sortie N95
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Bièvre
+					2.0 km/1.9 km	1 min 43 s/1 min 38 s
+Korsning Noirefontaine N
+ Ucimont, Sensenruth
+					0.6 km/0.7 km	0 min 31 s/0 min 36 s
+Dubbel T-korsning Noirefontaine S
+ Dohan, Les Hayons
+					1.3 km/1.2 km	1 min 7 s/1 min 2 s
+T-korsning N828
+ Bouillon
+					3.7 km/3.7 km	3 min 10 s/3 min 10 s
+Korsning N828
+ Bouillon
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+T-korsning N83
+ Arlon, Florenville
+					1.7 km/1.7 km	1 min 27 s/1 min 27 s
+Belgien / Frankrike
+Vallonien / Champagne-Ardennes
+Luxembourg / Ardennes
+					2.8 km/3.0 km	1 min 41 s/1 min 48 s
+Sortie D977
+ Givonne, La Chapelle
+					8.2 km/8.8 km	4 min 55 s/5 min 17 s
+Sortie N43
+ N43 oest: Charleville-Mézières
+ N43 est: Metz, Montmédy
