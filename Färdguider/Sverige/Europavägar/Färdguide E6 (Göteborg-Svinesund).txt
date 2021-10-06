@@ -186,9 +186,10 @@ Munkedal / Tanum
 Grindmotet (103)
  163 ö: Hällevadsholm
  163 v: Fjällbacka	
-(Grindtunneln)
+
+Grindtunneln)
 					3,0 km/3,2 km	1 min 38 s/1 min 45 s
-Rastplats Tegen
+(Rastplats Tegen
 (sydgående riktning)
 					3,4 km/3,4 km	1 min 51 s/1 min 51 s
 Rabbalshedemotet (104)
@@ -223,7 +224,7 @@ Tanum / Strömstad
 Sältenmotet (109)
  Saltö, Tjärnö, Råssö
 					1,3 km/1,4 km	43 s/46 s
-Rastplats Femstenaberg
+Rastplats Femstenaberg)
 (nordgående riktning)
 					2,9 km/3,0 km	1 min 35 s/1 min 38 s
 Skeemotet (110)
@@ -239,7 +240,7 @@ Blomsholmsmotet (112)
  176: Strömstad
  Färja: Kosteröarna
 					4,4 km/3,9 km	2 min 24 s/2 min 8 s
-Rastplats Dynekilen
+(Rastplats Dynekilen
 (sydgående riktning)
 					2,1 km/2,2 km	1 min 9 s/1 min 12 s
 Hogdalsmotet (113)

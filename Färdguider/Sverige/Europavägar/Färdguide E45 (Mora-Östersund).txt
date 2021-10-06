@@ -103,16 +103,19 @@ T-korsning Emådalen
  Ulvsjö
 
 (T-korsning Koppången södra)
+ Enskild väg
 
-T-korsning (enskild väg)
+(Koppångens hundstuga)
+
+T-korsning (enskild väg): (61.3974124, 14.8105206)
  Rosentorp
  Bageri, Stugor, Handelsbod
 
 (T-korsning (enskild väg))
  Gråtbäck
 
-(T-korsning Kvarnberg)
- Stugor
+T-korsning Kvarnberg: (61.4411446, 14.8668879)
+ Lokal väg, Stugor
 
 Skogslyckans stugområde
  Sommarcafé
@@ -176,9 +179,9 @@ Korsning Tandsjöborg N
 
 (Bro över Kölsjöån)
 
-Dubbel T-korsning Sjöändan S
+Dubbel T-korsning Sjöändan S (enskild väg)
  Svartåvallen, Sidertjärn
- Liten Rastplats
+ Börningsberget, Skogsmuseum, Naturreservat
 
 Bro över Tandsjöån
 
@@ -195,7 +198,9 @@ Bro över Björnån
 (T-korsning)
  Stensjövägen (enskild väg)
 
-Vänd/Parkeringsplats (grus)
+Vänd/Parkeringsplats (grus): (61.8428642881299, 14.659516474899334)
+
+Vänd/Parkeringsplats (grus):
 
 Gävleborg / Jämtland: (61.8673148,14.6358439)
 Ljusdal / Härjedalen
