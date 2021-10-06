@@ -214,8 +214,10 @@ Korsning Älfvik
 					0,3 km/0,3 km	14 s/14 s
 T-korsning Högboda motor
 					1,2 km/1,2 km	54 s/54 s
-Korsning Högboda väg 61
- Högboda
+Dubbel T-korsning Högboda väg 61
+ Rennstad, Högboda, Boda kyrka
+ Rum, Lanthandel, Westgård (stugor)
+ Brevik, Lerbodatorp (enskild väg)
 					4,0 km/4,0 km	3 min 0 s/3 min 0 s
 Infopunkt (nordgående)
  Högboda
