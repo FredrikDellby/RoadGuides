@@ -167,21 +167,17 @@ T-korsning
 Korsning Kingselviken
  Enskild väg
 					0,4 km/0,4 km	16 s/16 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 					0,4 km/0,4 km	16 s/16 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
 					0,4 km/0,4 km	16 s/16 s
-Korsning Stora Näs
- Enskild väg
+Korsning Stora Näs (enskild väg)
 					0,5 km/0,5 km	20 s/20 s
 Dubbel T-korsning Kallviken
  Edane
  Mangskog
 					2,6 km/2,5 km	1 min 57 s/1 min 53 s
-Korsning Sandbräckan
- Enskild väg
+Korsning Sandbräckan (enskild väg)
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
 T-korsning Vikene
  Brunskog, Edane
@@ -189,8 +185,7 @@ T-korsning Vikene
 T-korsning Slorud
  Mangskog, Åmot
 					1,2 km/1,2 km	54 s/54 s
-Korsning Dalslund
- Enskild väg
+Korsning Dalslund (enskild väg)
  SMU-gården
 					1,2 km/1,2 km	54 s/54 s
 T-korsning Finnebäck
@@ -203,10 +198,17 @@ T-korsning Brunsberg norra
 					2,6 km/2,7 km	1 min 57 s/2 min 2 s
 (Järnvägsviadukt)
  Värmlandsbanan
+Arvika / Kil)
 T-korsning
+(endast skyltad nordgående)
  Brunsberg
-Arvika / Kil
+(Arvika / Kil
 					5,9 km/5,9 km	4 min 26 s/4 min 26 s
+Infopunkt (sydgående)
+ Högboda
+
+Hembygdsgård
+
 Korsning Älfvik
  Grimstad
 					0,3 km/0,3 km	14 s/14 s
@@ -215,17 +217,23 @@ T-korsning Högboda motor
 Korsning Högboda väg 61
  Högboda
 					4,0 km/4,0 km	3 min 0 s/3 min 0 s
+Infopunkt (nordgående)
+ Högboda
+
+Parkeringsplats (sydgående sida)
+
 Korsning Säldebråten
  Tomten
  Frykerud
 					3,9 km/3,9 km	2 min 56 s/2 min 56 s
-Korsning Klaxås
- Enskild väg
+Korsning Klaxås (enskild väg)
 					0,3 km/0,3 km	12 s/12 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
-Dubbel T-korsning
+T-korsning (enskild väg)
+ Ej skyltad
+
+Dubbel T-korsning Äskebol
  Skållerud
 					0,3 km/0,6 km	12 s/24 s
 Fageråsmotet
