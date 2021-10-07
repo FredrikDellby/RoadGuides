@@ -278,3 +278,92 @@ Nesbyen / Gol
 T-korsning Rv 7/Rudvegen
  Fv2908: Nesbyen øst
 
+T-korsning Bruslageret
+ Halling Frakt AS (lokal vei)
+
+T-korsning Herad skule
+ Bagn, Liagardane (tollvei)
+ Gol hyttegrend, Gol Stål, Herad skule
+
+Herad kyrkje
+
+T-korsning (Gol Camping)
+ Herad samdrift, Frøysokstugu
+Korsning Gol Camping
+ Gol Campingsenter
+ Restaurang: Hoftun Kro
+
+(Korsning Haga bru)
+ Gol avløpsrenseanlegg
+(Haga bru)
+
+(Gol Bilhallar)
+
+Servicested Gol øst
+ Bensinstasjon: Shell
+ Restaurant:
+Rasteplass Gol øst
+
+(Hemsil bru (29 m)
+ kraftverksavløp
+					(/
+(Infoplass)
+(vestgående retning)
+T-korsning
+ Fv2914: Gol sentrum, stasjon
+ Info, mat, hotell, m.m.
+ LPG stasjon
+
+Viko bru (35,5 m)
+ Hemsil øst
+
+Rondell Gordarike Rv 7
+ Gol sentrum
+ Gol Trafikkstasjon
+
+Slettemoen bru (33,5 m)
+ Hemsil vest
+
+Rondell Gol Næringspark
+ [51]: Fagernes, Golsfjellet
+ 52: Lærdal, Hemsedal
+ Gol Sentrum
+ Info, mat, hotell, m.m.
+ Gordarike (seværdighet)
+
+Personbråten Camping
+
+Rasteplass Gol vest
+(fremst for østgående)
+
+Brekko camping
+
+T-korsning Rotneim Jordet
+ Fv2916: [52], Spildra
+
+T-korsning Rotneim vest
+ Jegleim Sag
+
+(Bru over Verma)
+
+Gol / Ål: (60.6704351,8.7959973)
+
+T-korsning Trillhus
+ Trillhus Camping og hytter
+
+Torpo Gjestegård
+ Ski- & Sykkelcamp
+
+T-korsning Torpo øst
+ Fv2926: Torpo Aust, Lien
+ Stavkyrkje
+ Camping, Info
+
+Vangen bru (Lya, 21 m)
+
+T-korsning Torpo vest
+ Fv2928: Torpo Vest, Oppheim
+ Stavkyrkje
+ Camping, Info
+
+
