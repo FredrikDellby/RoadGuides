@@ -648,10 +648,95 @@ Bensinstasjon: YX
 Rasteplass Hagastrand
 
 T-korsning Steindejordet
- Fv2513:
+ Fv2513: Øye Kyrkje, Øye stavkirke
 
 Rødølstunnelen-syd
  1 970 m
 
 Rødølstunnelen-nord
+(Strondafjordbrune)
+ Begna, 215 m
 
+T-korsning Øye Eidsbrue E16
+ Fv2513: Øye Kyrkje, Øye stavkirke
+
+Dubbel T-korsning Hermundstad
+ Tyinlam (gårdsbutikk)
+ Øye vestside (endast skilted østgående)
+ Rasteplass Grihamar, seværdighet
+
+(Sedal hpl)
+
+Kola bru (20 m)
+ Begna
+
+Bru over Begna
+
+T-korsning Tyinkrysset øst: (61.204757,8.247918)
+ Info: Tyin-Filefjell
+ Tørrisheisen, Ingrids hyttegrend
+ Bensinstasjon: Best
+ Butikk: Joker, Intersport
+
+T-korsning Tyinkrysset vest
+ 53: Årdal, Tyin, Tyinkrysset
+ Info/Parkering: Kongevegen (seværdighet)
+
+Filefjelltunnelen-øst: 61.20404,8.2321214
+ 5 780 m
+
+(Veiens høyeste punkt 990 moh)
+
+(Filefjelltunnelen-vest: (61.1792481,8.139126))
+T-korsning Varden
+ Fv2515: Tyin
+
+T-korsning Kyrkjestølen
+ Sankt Tomaskyrkja på Filefjell
+ Kyrkjestølen Hotell/hytter?
+
+Parkeringsplass Kongevegen
+ Info/vandring
+
+T-korsning Grønlistølen
+ Rasteplass
+(Bru over ?)
+
+(Innlandet / Vestland
+(Vang / Lærdal
+(Milsten/grusparkering)
+Innlandet / Vestland)
+Vang / Lærdal)
+
+Dubbel T-korsning
+ Hytter på Filefjell
+
+Bru over Løkenelvi
+
+(T-korning Buhaugane nord)
+ ikke skiltet
+
+(T-korsning Buhaugane sør)
+ ikke skiltet
+
+(Kjettingplass)
+
+Oddebrui (Oddedøla, 110 m)
+
+T-korsning Dalen
+ Gamle E16
+(Honing bru)
+ Smeddalselvi, 100 m
+
+Borlaugstunnelen-nord
+ 4 090 m
+
+(Borlaugstunnelen-syd: (61.0742933,7.9643323))
+T-korsning
+ Gram (gamle E16)
+
+Rondell Borlaug
+ 52: Gol, Hemsedal
+Korsning Borlaug
+ Parkeringsplass (bygdetun/Kongevegen)
+ Borlaug Vandrerhjem
