@@ -796,3 +796,72 @@ Trp Oskarshamn Norra
  Norra Hamnen
  Bad, Camping, Vandrarhem
 
+T-korsning Hällarna (enskild väg)
+ Ej skyltad
+
+Parkeringsplats (nordgående)
+Infoplats (sydgående)
+
+T-korsning Saltvik E22 (enskild väg)
+ Saltvik, Glabo båthamn, Vändplats
+
+Dubbel T-korsning Glabo-Åsa
+ Baggetorpskvarn, Skrikebo
+ Lohorvan, Vändplats (enskild väg)
+ Hermansmåla, Vändplats (enskild väg)
+
+Dubbel T-korsning Ängelstorp (enskild väg)
+ Ängelstorp gård
+ Stensjö by (sevärdhet)
+
+Dubbel T-korsning Virkvarn (enskild väg)
+ Virkvarn Hill
+ Dragskär, Virbo
+
+T-korsning (enskild väg)
+ Motorbana
+
+Korsning Öråsa
+ Oskarshamns Flygplats
+ Rastorp (enskild väg)
+
+T-korsning Sippetorp (enskild väg)
+(endast förskyltad sydgående)
+ Virsjödal
+
+Trafikplats Fårbo
+ Klintemåla, Figeholm, Fårbo
+ Baggetorp
+ OKG, SKB, ABB
+ Rastplats Fårbo
+ Restaurang: Sibylla
+
+Korsning (enskild väg)
+ Västragård
+
+Korsning Jämserum (enskild väg)
+ Ej skyltad
+
+Dubbel T-korsning (enskild väg)
+ Basthult
+ Ej skyltad
+
+Korsning (enskild väg)
+ Sulegång
+
+T-korsning Nygård (enskild väg)
+(ej skyltad sydgående)
+Korsning Nygård
+ Vimmerby, Ishult
+(2+1-väg upphör/börjar)
+
+Dubbel T-korsning Plåttorp
+ Misterhult
+ Plåttorp, Enskild väg
+
+Dubbel T-korsning Misterhult E22
+ Ölvedal
+ Klintemåla, Misterhult
+
+T-korsning Målbäcken S
+ Klintemåla, Misterhult, Flivik

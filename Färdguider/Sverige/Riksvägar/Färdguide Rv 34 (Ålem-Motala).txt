@@ -158,7 +158,7 @@ T-korsning
 
 Korsning (enskild väg)
 
-Nödficka (nordgående): (57.2922839212143, 15.929309594560143)
+Nödficka (nordgående): (57.2922839, 15.9293096)
 
 Korsning (enskild väg)
 
@@ -221,3 +221,147 @@ Rondell Målilla Rv 34
  Elbilsladdning: Virta
 
 Etapp: Målilla - Hultsfred ()
+
+T-korsning Hesjön (lokal väg)
+ Hesjöns naturcamping
+
+T-korsning (enskild väg)
+ Avfallsanläggning, Återvinningscentral, Välen
+
+T-korsning (enskild väg)
+ Ödhult, Pelletsfabrik
+
+T-korsning Lockebo vsk (enskild väg)
+ Alegöl (fiske)
+
+Infopunkt (nordgående)
+
+T-korsning Hultsfred S (Kvillerum)
+ Hultsfred S
+ Industri: Södra
+
+Korsning Hultsfred Ö (Hagadal)
+ Hultsfred Centrum, Hagadals fritidsomr.
+ Hammarsebo (enskild väg)
+ St. Hammarsjön
+
+Trp Hultsfred
+ Hultsfred Centrum
+ Industri: Nyhagen
+ Restaurang: Metropol
+ Bensinstation: OKQ8
+
+Järnvägsviadukt
+ Nässjö-Hultsfred
+
+Rondell Hultsfred N
+ Industri: Norra
+ Hultsfred Strandcamping, Badplats
+ 129: Mariannelund
+
+Bro över Silverån
+
+Dubbel T-korsning Hultsfreds Flygplats
+ Vena, Klostergård
+ Hultsfreds Flygplats
+
+T-korsning (lokal väg)
+ Betongstation
+
+T-korsning Bredshult Rv 23 (lokal väg)
+ Finja Betong
+
+T-korsning Ekornetorp
+ Bredshult
+
+T-korsning
+ GDL EcoCenter
+
+Hultsfred / Vimmerby: (57.5506237,15.8453843)
+
+T-korsning Högerödja (enskild väg)
+ Gissemåla (G:a Hultsfredsvägen)
+
+T-korsning SO
+ Storebro S, Pelarne
+ Visans Skepp (sevärdhet), Tobo GK
+ Fredensborgs Herrgård, Gästgiveri
+
+T-korsning Rv 34/Rampvägen
+ Storebro Centrum
+ Storebro Bruk, Nedre Bruket
+
+Bro över Stångån
+
+T-korsning Storebro N (Postbackarna)
+ Storebro N, Centrum
+ Visans Skepp (sevärdhet)
+ Storebro Bruk, Gästgiveri
+ Bensinstation: Q-star
+
+T-korsning Kvillehult (enskild väg)
+ Kvillehult
+
+T-korsning Ingebo (enskild väg)
+ Ingebo
+ Ingebo Hagar (gårdsbutik, Café, stugor, vandringsled)
+
+Infoplats (nordgående)
+
+(Bro över Stångån)
+Rondell Vimmerby SV
+ 40 ö: Västervik, Vimmerby S
+ 40 v: Jönköping, Mariannelund
+ Astrid Lindgrens Värld
+ Rastplats Åkebo
+
+Trp Vimmerby V
+ Vimmerby N, Centrum, Rumskulla
+ Astrid Lindgrens Värld
+
+T-korsning (lokal väg)
+ Reningsverk
+
+(T-korsning (lokal väg))
+ Något?
+					(/
+Parkeringsplats? (nordgående)
+
+T-korsning Fågelhem väg 34 (enskild väg)
+ Korka, S. Fågelhem
+
+Korsning (enskild väg)
+ N Fågelhem, Bildemontering
+
+Korsning Södra Vi S
+ Djursdala, Södra Vi
+ Skäfshult
+ Restaurang: ?
+
+Korsning (enskild väg)
+ Skräddarefall, Käbbo Vaxljus
+ Nils Holgerssons Värld, Camping
+ Bensinstation: Green Petroleum
+
+Järnvägsviadukt
+ Stångådalsbanan
+
+Korsning Näfshult
+ Djursdala, Södra Vi
+ Slitshult, Låxbo (enskild väg)
+
+T-korsning Vagelhem
+ Ydrefors, Gullringen
+ Vandrarhem, Simhall
+
+Korsning Stång
+ Älö
+ Ålhult (enskild väg)
+
+Kalmar / Östergötland: (57.8506248,15.7478377)
+Vimmerby / Kinda
+
+(Infopunkt (nordgående))
+Korsning
+ 135: Gamleby, Horn
+ Björkhult
