@@ -252,3 +252,128 @@ Korsning Arbrå Nytorp N
 Korsning Arbrå Kyrka
  Arbrå kyrka
 
+(Korsning Bessbo (enskild väg))
+ Vallsta Bygdegård
+
+Trippel T-korsning Vallsta Hov (enskild väg)
+ Hov
+ Blomstens Antik
+ (Vallstakyrkan?)
+
+T-korsning Rv 83/Östernäsv.
+ Lokal väg
+					(/
+Bensinstation: Q-star
+T-korsning Rv 83/Skolvägen
+ Lokal väg
+
+(T-korsning Lissgårdens förskola)
+ Lokal väg
+
+T-korsning Rv 83/Sågvägen
+ Lokal väg
+
+Korsning Hamre
+ Nianfors, Iste
+ Industri: Vallsta
+ Hälsingegård Gästgivars
+
+T-korsning Vallsta by (enskild väg)
+ Vallstabyn
+
+Korsning Orbaden väg 83
+ Orbaden
+ Åsberget (enskild väg)
+ Hotel/Restaurang: Orbaden Spa & Resort, Vilan Boende & Restaurang
+ Orbadens Camping, Grill & Café, stugor
+ Hälsingegård Gästgivars (norra infarten)
+
+(T-korsning Orfa (enskild väg))
+ Orbaden Zip & Climb
+
+(Parkeringsplats/uppställningsplats)
+(på sydgående sida)
+
+Infoplats (sydgående): (61.5637301,16.3351154)
+
+T-korsning Simeå Q-star
+ Simeå
+ Bensinstation: Q-star
+
+T-korsning Simeå Norra väg 83
+ Sidskogen, Simeå
+ Ridhus Bergåkra Gård
+
+(Parkeringsplats/uppställningsplats): ((61.5862561, 16.3128148)
+(på sydgående sida)
+
+T-korsning Undersvik södra
+ Udersvik, Karsjö
+ Stiftsgården, HallåMi (gårdsbutik)
+
+Parkerings/Infoplats
+(främst för sydgående)
+
+Bollnäs / Ljusdal: (61.6352643,16.2659422)
+
+T-korsning Karsjö norra
+ Undersvik, Karsjö
+
+Tevsjö Destilleri
+
+T-korsning Lörstrand södra (enskild väg)
+ Lörstrand, Wiklunds Golv
+
+Korsning Löräng
+ Lörstrand, Linskäkt (enskild väg)
+ Sörby
+
+Rastplats Järvsö Nybo
+(främst för nordgående)
+Dubbel T-korsning Tå Nybo
+ Grönås, Harsagården Skola
+					/)
+T-korsning Tå industri (lokal väg)
+ Industri: Hamre
+
+Korsning Karls (enskild väg)
+ Hälsingegård Karls (sevärdhet/café)
+ Myra, Bränna
+
+T-korsning Älvsätra (lokal väg)
+ Hotel/Restaurang: Järvsö B&B
+
+Korsning Ulfsta (enskild väg)
+ Daniels Gårdsbutik
+ Orrabackens
+
+T-korsning Kramsta (enskild väg)
+ Kramstatjärn
+
+T-korsning Kramsta hällar (lokal väg)
+ Kramsta Gästgård & Konferens
+
+Bensinstation: INGO
+(Järvsöbaden grusplan)
+
+Dubbel T-korsning Järvsöbaden
+ Lokal väg
+
+Korsning Rv 83/Stationsg.
+ Hälsocentral
+Järvsö Bibliotek
+
+T-korsning Rv 83/Vallmovägen (lokal väg)
+ Bergshotellet, Järvsö Zoo, Rovdjurscentrum
+
+T-korsning Rv 83/Stenevägen
+ Delsbo, Järvsö station
+(T-korsning Rv 83/Anders-Persv.)
+ Café: Anders-Pers Fikabod
+
+Pizza Stugan
+
+Sibylla
+Korsning Rv 83/Stationsg. (norra)
+Järvsö pizzeria
+Öje Grill & Kiosk
