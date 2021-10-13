@@ -110,10 +110,145 @@ T-korsning Hårga Rv 83 (enskild väg)
  Hembygdsgård, Hårga
 
 (T-korsning)
- Granbo by, enskild väg
+ Granboby, enskild väg
 
 Korsning Granbo
+ Granbo by (enskild väg)
+ Acktjära, Granbo
+ Sävstorpet (sevärdhet)
 
 Korsning Granbo norra
  Granbokrossen, Enskild väg
+
+Korsning Böle
+ Böle (enskild väg)
+ Markmyra, Granbo
+
+(T-korsning (enskild väg))
+ Fällene
+
+Dubbel T-korsning Fällene (enskild väg)
+ Bollnäs Motor & Fritid
+
+T-korsning Voxätter
+ Lenninge, Daagarssongården (café)
+
+Bro över Voxnan: (61.3153462,16.4401288)
+
+Korsning Lenninge
+ Lenninge
+
+T-korsning Bollnäs Vik
+ Annefors
+
+(Infoplats (nordgående)): (61.3296373,16.4122211)
+Korsning Häggesta Södra (lokal väg)
+ Reningsverk
+ Industri: Häggesta
+
+Rondell Häggesta
+ Häggesta (enskild väg)
+ Bollnäs Söder Handelsomr. (lokal väg)
+
+T-korsning (lokal väg)
+T-korsning Bollnäs folkhögsskola (lokal väg)
+ Folkhögskola
+
+T-korsning Rv 83/Järnvägsg. (lokal väg)
+ Centrum, Järnvägsstn
+ Turistbyrå, Parkering
+T-korsning Rv 83/Nygatan (lokal väg)
+ Rastställe Scandic, Långnäs Camping
+ Bensinstation: St1
+ Restaurang: McDonald's
+					/)
+Järnvägsviadukt
+ Norra Stambanan
+
+Rondell Torsbergsgymnasiet (Rv 50/Rv 83)
+ 50 s: Falun
+ [301]: Edsbyn
+ Sjukhus
+
+T-korsning Bollnässtugan (lokal väg)
+ Resecentrum, Parkering
+ Restaurang: Bollnässtugan, MAX
+
+T-korsning Rv 83/Fabriksgatan (lokal väg)
+ Brånan, Gärdet
+
+T-korsning Rv 50/Rv 83
+ 50 n: Söderhamn, Centrum
+ Turistbyrå, Scandic, Långnäs Camping
+
+T-korsning Höglunda/(Rv 83/Bollevägen) (lokal väg)
+ Björktjära, Bolleberget (vandring)
+
+T-korsning Rv 83/Blåbandsv. (lokal väg)
+ Framnäs
+
+Rondell Framnäs väg 83 (lokal väg)
+ Bollnäsa Norra Handelsomr.
+
+Infopunkt (sydgående): (61.3733515,16.3895127)
+
+Korsning Rv 83/Tegelbruksv. (lokal väg)
+ Industri: Norrborn
+ Fröste (enskild väg)
+
+(Bro över Galvån)
+Korsning Röste
+ Växsjö, Keramik
+ Åsbacka, Galvåns naturreservat
+
+(T-korsning Rv 83/Korvgatan)
+ Enskild väg
+
+(T-korsning Växsjö)
+ Enskild väg
+
+Korsning Rv 83/Storsvedvägen
+ Kapell, Enskild väg
+
+Korsning Lottefors (enskild väg)
+ Ej skyltat
+
+T-korsning Lottefors N
+ Växsjö
+ Mek. verkstad, Lottefors kraftverk
+
+T-korsning Tjärnberg (enskild väg)
+ Tjärnberg, Koldemo Bil o Mek
+Infoplats (nordgående)
+
+Korsning Träslottet (enskild väg)
+ Hälsingegård Träslottet (sevärdhet/café)
+ Hälsingegårdar (info, världsarv)
+
+T-korsning Koldemo
+ Arbrå (endast skyltat nordgående)
+
+Dubbel T-korsning Arbrå V
+ Galven
+ Arbrå, Bruks
+ Komplett Hälsingland (Café)
+ Bensinstation: Q-star
+
+T-korsning (enskild väg)
+ Skidanläggning
+
+Korsning Arbrå Kyrkbyn
+ Växbo, Arbrå
+ Linberedning Trolldalen (sevärdhet)
+ Linspinneri/Linneväveri (sevärdhet)
+ Nytorps Ridhus, Galleri (lokal väg)
+
+Korsning Arbrå Nytorp S
+ Enskild väg (ej skyltad)
+
+Korsning Arbrå Nytorp N
+ Nytorpcentrum, Enskild väg
+
+Korsning Arbrå Kyrka
+ Arbrå kyrka
 
