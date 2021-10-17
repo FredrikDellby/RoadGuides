@@ -129,11 +129,47 @@ Järnvägskorsning
 T-korsning Rv 34/Dr. Mobergers väg
  Vårdcentral, Folktandvård
 
-Rondell 
-==============================================
+T-korsning Rv 34/Dr. Mobergers väg
+ Vårdcentral
+
+Rondell Fröviskolan
+ 37 v: Växjö, Åseda
+ Industri: Hanåsa Ö
+ Bensinstation: Q-star
+
+T-korsning Rv 34/Maskingatan
+ Industri: Hanåsa V
+
+Korsning St. Hanåsa
+ Berga, Hanåsa sågverk
+
+Järnvägskorsning
+ Stångådalsbanan
+
+T-korsning (enskild väg)
+ Blankan, Drageryd, Valåkra
+
+Parkeringspunkt/Rastpunkt: (57.1982297,16.0141689)
+ Sevärdhet: Kyrkestenarna
+
+Järnvägsviadukt
+ Stångådalsbanan
+
+T-korsning Lövhäll
+ Berga
+ Hotell/Vandrarhem: Solhöjden
+
+T-korsning Gösjö Camping (enskild väg)
+ Gösjö Camping, Badplats
+
+(Korsning Gösjöbadet (enskild väg))
+
+(Parkeringspunkt)
+ Båda riktningar
 
 Rondell Glahytt
  37-47 ö: Oskarshamn, Bockara
+ Parkeringsplats: Samåkning
 
 Etapp: Glahytt - Målilla ()
 
@@ -416,3 +452,45 @@ T-korsning Malmavägen
 
 Bro över Storån/Stångådalsbanan
 2+1-väg börjar/upphör
+
+(Korsning Lustbacka)
+ Enskild väg
+
+(T-korsning Knäck)
+ Enskild väg
+
+(T-korsning Torp Rusthåll)
+ Gårdsbutik, Enskild väg
+
+(Bro över Storån)
+(Korsning Tjustad)
+ Enskild väg
+
+T-korsning Berga (enskild väg)
+ Kinda Häst
+
+Korsning Slätmon
+ Dansbo
+
+Korsning Svartmålen
+ Håkantorp
+
+(T-korsning/Vändplats)
+
+(T-korsning Krågedal)
+ Krågedal, Enskild väg
+
+(Järnvägsviadukt)
+ Stångådalsbanan
+T-korsning Efsinge (enskild väg)
+ Stuga
+
+Korsning Nygård (enskild väg)
+ Efsinge
+
+Rondell Rimforsa Rv 34
+ Åtvidaberg, Rimforsa Centrum
+ Ulrika, Rimforsa V
+ Sevärdhet: Trollegater, Hallstad ängar
+ Bensinstation: INGO
+ Hotell/Restaurang: Kinda Motell
