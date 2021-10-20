@@ -1,0 +1,41 @@
+T-korsning Bjurvik (Smedudden)
+
+T-korsning
+ Södra Råda
+ Södra Råda gamla kyrkplats (sevärdhet)
+
+Korsning Rudskoga V (enskild väg)
+ Värmlandsbär AB
+
+Betania Rudskoga
+
+T-korsning (enskild väg)
+ Svedrins Trädgård (Café)
+
+Korsning Rudskoga Ö
+ Rudskoga kyrka
+ Frosterud (enskild väg)
+
+(T-korsning (enskild väg))
+ Rudskoga Loppis
+
+Korsning Runnebol
+ Skottlanda
+
+T-korsning (enskild väg)
+ Engströms Handelsträdgård, Rolands Plantskola
+
+(Korsning+T-korsning (enskild väg))
+ Domarringar
+
+Parkeringsplats (grus): (59.0922496,14.3266634)
+(bäst lämpad östgående)
+
+Värmland / Örebro: (59.1014945,14.3324585)
+Kristinehamn / Degerfors
+
+Korsning Mo
+ 243: Karlskoga, Degerfors
+ Kristinehamn, Skottlanda
+
+
