@@ -364,6 +364,84 @@ Vangen bru (Lya, 21 m)
 T-korsning Torpo vest
  Fv2928: Torpo Vest, Oppheim
  Stavkyrkje
+
+T-korsning Rv 7/Kringlevegen
+
+(Korsning Torpomoen øst)
+T-korsning Torpomoen øst
+ Torpomoen
+
+(T-korsning Torpomoen vest)
+ Torpomoen
+
+Ål Trelast AS
+
+T-korsning Rv 7/Liagardsvegen
+ Liagardane, Ål Trelast
+
+T-korsning Sando Bru
+ Sataslåtten Camping, Hytter
+
+T-korsning Gullhagen Industri
+ Gullhagen Industri
+
+(Gullhagabrue)
+ Vatna
+T-korsning Gullhagabrue
+ Fv2930: Vats, Bergsjø/Rødungstølsområdet
+ Skisenter
  Camping, Info
+
+T-korsning Ål Camping
+ Ål Camping & Hytter
+
+T-korsning
+ Oppsjø Industri
+
+T-korsning Ål Sentrum Rv 7
+ Fv2932: Ål Sentrum, stasjon
+ Bensinstasjon: Circle-K
+ Elbilslading: Kople, Grønn Kontakt
+ Restaurant: Aroma Kafe Grill og Pizza
+ Hotell: Thon Hotel Hallingdal, Ål Pensjonat
+
+T-korsning Ål vest
+ Fv2934: Hyttepark, Camping, Høyt & Lavt Klatrepark
+
+(Vangebrua)
+Dubbel T-korsning Vangebrua
+ Noss
+ Badeplass
+
+(T-korsning Rv 7/Tjørndalsvegen)
+
+T-korsning
+ Breie (endast skiltet vestgående)
+
+Infopunkt (østgående)
+T-korsning Tellehaug
+ Berie (endast skiltet østgående)
+
+T-korsning Kleivi Industri
+ Kleivi Næringspark, Rødungen S
+ OOES Kortanlegg, Gartneri
+Ål / Hol: (60.5784617,8.4164084)
+
+Korsning Kleivi
+
+Parkerings/Infopunkt
+(fremst østgående)
+(T-korsning Slettemoen)
+
+Dubbel T-korsning Hol kirke)
+ Hol Bygdemuseum
+ Hol kirke, Parkering
+					/)
+T-korsning Hagafoss
+ 50: Aurland, Hovet, Hol sentrum
+ Camping
+					(/
+(Hagafoss bru (19 m)
+ Holsfjorden
 
 
