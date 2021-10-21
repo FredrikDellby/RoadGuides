@@ -436,6 +436,7 @@ Parkerings/Infopunkt
 Dubbel T-korsning Hol kirke)
  Hol Bygdemuseum
  Hol kirke, Parkering
+ Rasteplass Hagafoss
 					/)
 T-korsning Hagafoss
  50: Aurland, Hovet, Hol sentrum
@@ -443,5 +444,20 @@ T-korsning Hagafoss
 					(/
 (Hagafoss bru (19 m)
  Holsfjorden
+
+T-korsning Veidal
+ Hol stasjon
+
+(T-korsning Røo)
+
+T-korsning Vindeggleet
+ Hamarsbøen
+
+(T-korsning Sandsvegen)
+ Maskinsalg
+(Gjenvinningsstasjon)
+
+(Dubbel T-korsning Årset)
+ Lokale veier, ej skiltet
 
 
