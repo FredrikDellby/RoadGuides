@@ -167,19 +167,19 @@ Rondell Lv 205/Storgatan
 (Järnvägsviadukt)
  Värmlandsbanan
 
-Korsning Lv 205/Herrgårdsgatan
+Korsning Lv 205/Herrgårdsgatan (lokal väg)
  Kanada, St-Valla
  Degerfors Idrottsplats, Fotbollsmuseum	
  Torget, Folkets Hus
 
-Bensinstation: INGO
-Rondell Agens torg
+(Bensinstation: INGO)
+Rondell Agens torg (lokal väg)
  Restaurang: Pizzeria, Agen Restaurang & Pizzeria
 
-T-korsning Lv 205/Nya Brogatan
+T-korsning Lv 205/Nya Brogatan (lokal väg)
  Ramshöjden
 
-Korsning Lv 205/Smålandsgatan
+Korsning Lv 205/Smålandsgatan (lokal väg)
  Bensinstation: OKQ8
 
 Rondell Lv 205/Raka vägen
@@ -187,7 +187,7 @@ Rondell Lv 205/Raka vägen
  Högberg, Degerfors GK
  Industri: Strömtorp, Kvarnberg
 
-T-korsning Östra Kvarnberget
+T-korsning Östra Kvarnberget (lokal väg)
  Östra Kvarnberget, Lokal väg
 
 Infoplats (sydgående)
@@ -199,7 +199,7 @@ Korsning Nyttorp (lokal väg)
 
 Degerfors / Karlskoga: (59.2862101,14.4666594)
 
-Rondell Lv 205/Skogsbovägen
+Rondell Lv 205/Skogsbovägen (lokal väg)
  Äspenäs, Storängen Industri
 
 (Infoplats (nordgående))
@@ -208,19 +208,19 @@ Rondell Storängen
  Storängen Industri
  Högåsen
 
-Korsning Aggerud
+Korsning Aggerud (lokal väg)
  Aggerud
  Hembygdsgård, Folkhögskola, Vandrarhem
   Övre Aggerud
 
 Korsning Lasarettet södra
- Ingen skyltning
+ Lokal väg (ingen skyltning)
 
-Korsning Lasarettet norra
+Korsning Lasarettet norra (lokal väg)
  Sjukhus
  Baggängen
 
-Korsning
+Korsning (lokal väg)
  Skranta
  Skrantahöjden
 
@@ -235,14 +235,15 @@ Jätterondell
 (Järnvägsbro)
  Nora-Bergslags järnväg
 					0.7 km/0.8 km	50 s/58 s
-Korsning 205/Gustavsgatan
+Korsning Lv 205/Gustavsgatan (lokal väg)
  Rävåsen, Centrum
  Karlberg, Industri: Kilsta
 					1.4 km/1.4 km	1 min 41 s/1 min 41 s
 (Korsning Lv 205/Hallänningsg.)
+ Lokal väg
 
-Korsning Lv 205/Spelgatan
- Rävåsen 
+Korsning Lv 205/Spelgatan (lokal väg)
+ Rävåsen
  Löten
 
 Rondell Karlskoga NV
@@ -257,7 +258,7 @@ T-korsning Karlskoga flygpl.
 Timsälven (Bergslagskanalen)
 
 (T-korsning Gelleråsen södra)
- Vattenverk
+ Vattenverk, Lokal väg
 
 Korsning Gelleråsen
  237 n: Filipstad, Storfors
