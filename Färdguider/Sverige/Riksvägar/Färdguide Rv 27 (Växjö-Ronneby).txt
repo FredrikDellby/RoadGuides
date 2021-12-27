@@ -71,9 +71,9 @@ T-korsning
 					0,7 km/0,7 km	32 s/32 s
 T-korsning Kvarnamåla Ö
 					6,1 km/6,1 km	4 min 35 s/4 min 35 s
-T-korsning 27/Ledningsg.
+T-korsning Rv 27/Ledningsg.
 					0,3 km/0,3 km	18 s/18 s
-T-korsning 27/Växjövägen
+T-korsning Rv 27/Växjövägen
 					0,3 km/0,3 km	18 s/18 s
 T-korsning
  120 v: Markaryd, Älmhult
@@ -98,3 +98,31 @@ T-korsning Rv 27/Rv 29
  29: Karlshamn, Asarum
 
 Etapp 15: Rv 29 - Ronneby ()
+
+Dubbel T-korsning Djuramåla
+ Enskild väg
+
+T-korsning (enskild väg)
+ Hundpensionat
+
+Kronoberg / Blekinge: (56.4504601,15.0254879)
+Tingsryd / Ronneby
+
+Korsning Dockemåla (enskild väg)
+ Pallindustri
+
+T-korsning Öljehult N (enskild väg)
+ Öljehult, Infoplats, Vandringsled
+
+(Korsning (enskild väg))
+ Öljehult, Infoplats, Vandringsled
+
+T-korsning Rv 27/Sockenvägen
+ Öljehult, kyrka
+
+(Korsning Siggamåla)
+ Humlamåla, Enskild väg
+
+T-korsning Hallabro N
+ Konga
+

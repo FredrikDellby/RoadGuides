@@ -188,13 +188,13 @@ Rondell Lv 205/Raka vägen
  Industri: Strömtorp, Kvarnberg
 
 T-korsning Östra Kvarnberget
- Östra Kvarnberget
+ Östra Kvarnberget, Lokal väg
 
 Infoplats (sydgående)
-(Korsning)
+(Korsning (lokal väg))
  Fritidsgården Kvarnberg
 
-Korsning Nyttorp
+Korsning Nyttorp (lokal väg)
  Industri
 
 Degerfors / Karlskoga: (59.2862101,14.4666594)

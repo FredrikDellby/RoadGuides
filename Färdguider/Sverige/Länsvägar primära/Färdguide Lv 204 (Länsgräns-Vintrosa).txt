@@ -1,4 +1,6 @@
 T-korsning Bjurvik (Smedudden)
+ 26 s: Mariestad, Gullspång
+ 26 n: Filipstad, Kristinehamn
 
 T-korsning
  Södra Råda
@@ -34,7 +36,7 @@ Parkeringsplats (grus): (59.0922496,14.3266634)
 Värmland / Örebro: (59.1014945,14.3324585)
 Kristinehamn / Degerfors
 
-Korsning Mo
+Korsning Mokorset
  243: Karlskoga, Degerfors
  Kristinehamn, Skottlanda
 

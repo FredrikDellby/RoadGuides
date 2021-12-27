@@ -308,16 +308,20 @@ T-korsning Bor
  Ohs, Gällaryd
  Museijärnväg
 					4.0 km/4.0 km	4 min 0 s/4 min 0 s
-T-korsning Ed
+T-korsning Fållen
  Hyggestorp, Plantskola
 					4.3 km/4.3 km	3 min 14 s/3 min 14 s
-T-korsning
+(Korsning Rydstorp)
+ Plantskola, Enskild väg (ej skyltad)
+
+T-korsning Lindeberg
+ Sölaryd
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
 Korsning Horda Rv 27
- Ryssby
+ Hyggestorp
  Horda
 					3.2 km/3.2 km	2 min 24 s/2 min 24 s
-T-korsning
+T-korsning Bomsholm
  Hyggestorp
 					0.7 km/0.8 km	31 s/36 s
 Dubbel T-korsning Upplid S
@@ -327,15 +331,37 @@ Dubbel T-korsning Upplid S
 Trp Rydaholm
  Moheda, Rydaholm
  Ljungby, Lagan
+ Hotell/Restaurang: Rydaholms Värdshus
 					1.6 km/1.7 km	1 min 12 s/1 min 17 s
 Korsning Rydaholm S
+ Hjortsjö (enskild väg)
+ Rydaholm S (lokal väg)
+ Bensinsation: Oljeshejkerna Johnsson
 					5.6 km/5.6 km	4 min 12 s/4 min 12 s
-Jönköping / Kronoberg
+(Trippel) Dubbel T-korsning Sjöholmen
+ Smålands bil- musik- och leksaksmuseum
+ Sjöholmen sommarhem (lokal väg)
+ (Lindstad (enskild väg))
+
+Korsning Hjortsjöbadet
+ Lokal väg, Hjortsjöbadet
+
+Jönköping / Kronoberg: (56.9382512,14.3766346)
 Värnamo / Alvesta
+
+(Vändplats
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
-T-korsning Camping
+T-korsning (enskild väg)
+ Lövholmen, Granstalida
+
+(Korsning Mellanbäck)
+ Hult (enskild väg)
+
+T-korsning Sjöatorp S (enskild väg)
+ Sjöatorp N, Camping
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 Sjöatorpsrondellen
  25 ö: Kalmar, Växjö, Alvesta
  27 s: Karlskrona
  25 v: Halmstad, Ljungby
+ Rastplats Moasjön
