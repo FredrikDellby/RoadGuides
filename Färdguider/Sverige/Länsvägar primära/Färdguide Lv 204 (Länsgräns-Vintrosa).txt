@@ -1,9 +1,9 @@
+Färdguide Lv 204 (Bjurvik - Vintrosa)
+======================================
+
 T-korsning Bjurvik (Smedudden)
-<<<<<<< HEAD
-=======
  26 s: Mariestad, Gullspång
  26 n: Filipstad, Kristinehamn
->>>>>>> a2b648cfb84f331c160a4f46bf6bf0cd4f49676a
 
 T-korsning
  Södra Råda
@@ -39,12 +39,6 @@ Parkeringsplats (grus): (59.0922496,14.3266634)
 Värmland / Örebro: (59.1014945,14.3324585)
 Kristinehamn / Degerfors
 
-<<<<<<< HEAD
-Korsning Mo
-=======
 Korsning Mokorset
->>>>>>> a2b648cfb84f331c160a4f46bf6bf0cd4f49676a
  243: Karlskoga, Degerfors
  Kristinehamn, Skottlanda
-
-
