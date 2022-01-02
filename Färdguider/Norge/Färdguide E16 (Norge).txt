@@ -740,3 +740,155 @@ Rondell Borlaug
 Korsning Borlaug
  Parkeringsplass (bygdetun/Kongevegen)
  Borlaug Vandrerhjem
+
+Trafikkontrollplass
+
+T-korning Eraker
+ (Fv630): Borgund, Camping
+(Eråksbrua (100 m))
+ Lærdalselvi
+
+T-korning
+ Eraker
+
+(T-korning Teigum)
+
+Tuftåstunnelen-øst (1 958 m)
+
+Tuftåstunnelen-vest
+
+(Bergsbrua)
+ Lærdalselvi, 146 m
+T-korning Borgund E16
+ (Fv630): Borgund sentrum
+ Bensinstasjon: Borgund servicesenter
+ Rasteplass Steinklepp
+
+T-korning Borgund hyttesenter
+ Borgund hyttesenter og Camping
+
+T-korning Lo aust
+ Fv630 (Gamle E16): Husum
+ Historisk rute, Kongevegen
+ Borgund stavkyrkje
+
+Borgundtunnelen-øst (3 050 m)
+
+Borgundtunnelen-vest
+Øygardsbrui (75 m)
+ Fv630 og Lærdalselvi
+
+T-korning Sjurhaugen
+ Fv630/Gamle E16
+ Historisk rute, Kongevegen
+ (Borgund stavkyrkje)
+
+Seltatunnelen-øst (1 632 m)
+
+Seltatunnelen-vest
+
+T-korning Seltun vest
+ Fv630/Gamle E16
+ Historisk rute (info/parkering/vandring)
+
+Seltun bru (Lærdalselvi, 57 m)
+
+T-korning
+ Bjørkum, Arkeologiske funn
+
+T-korning Bjørkum E16
+ Bjørkum, Arkeologiske funn
+
+T-korning Hønjum E16
+ Hønjum, Bjørkum Camping
+
+(Bru over Jutlaelvi)
+ ca 20 m
+
+Rasteplass Hodndalen
+ Utsiktsplass: Jutlamannen
+
+Korsning Saltkjelen
+ Saltkjelen
+
+T-korning Ljøsne skule
+ Mo, Skytebane, Golfbane
+
+(Joker Ljøsne)
+T-korning Ljøsne
+ Mo
+
+T-korning Lunde
+ Fv271: Stønjum (ikke skiltet)
+(Volls bru)
+ Lærdalselvi, 74 m
+
+T-korning Tønjum
+ Fv5630/272: Mo
+
+T-korning Tønjum kyrkje
+
+Slinde Truck Senter
+
+T-korning Håbakken
+ Kontrollstasjon
+ Restaurant: Haabakken
+ Servicesenter
+
+Rondell Håbakken
+ 5: Sogndal, Lærdal
+
+Lærdalstunnelen-nord (24 509 m)
+
+Lærdal / Aurdal
+
+Lærdalstunnelen-syd
+
+Rondell Aurland E16
+ Sentrum, Aurlandsfjellet
+ 50: Hol
+ Info/Serviceplass
+ Bensinstasjon: Circle-K
+(Nyheim bru)
+ Aurlandselvi, 64 m
+
+Onstadtunnelen-øst (673 m)
+
+(Onstadtunnelen-vest)
+T-korning Otnes
+ Onstad, (Aurland sentrum)
+
+Parkeringsplass: (60.884070171300976, 7.154892987172483)
+ grusvei, ikke skiltet
+
+T-korning Bøen
+ Otternes
+
+Rasteplass Krekheller: (60.87252006986536, 7.14433449825479)
+
+Fretheimtunnelen-øst (1 363 m)
+
+Fretheimtunnelen-vest
+
+(Brekke bru)
+ over Fv245, Flåmselvi og Flåmsbana, 255 m
+T-korning Flåm E16
+
+Flenjatunnelen (5 053 m)
+
+(Flenjatunnelen)
+T-korning Langhuso kryss
+ Fv5626:
+
+(Vændplats)
+(Gudvangatunnelen-syd (11 428 m))
+
+Gudvangatunnelen-nord
+
+T-korning Gudvangen servicesenter
+ Bensinstasjon: Shell
+
+(Ramsøy bru)
+ Nærøydalselvi, 68 m
+T-korning Gudvangen E16
+

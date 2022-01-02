@@ -915,4 +915,103 @@ Korsning Lunds by
  Lokal väg, ej skyltad
 
 T-korsning Hyttan
- 40 v: Jönköping
+ 40 v: Jönköping, Vimmberby, Ankarsrum
+
+T-korsning Daddhorvan
+ Valstad
+
+T-korsning Verkebäck E22
+ Västrum, Verkebäck, Gunnebo
+ Restaurang: Charlies grill & pizza
+
+Verkebäcksbron
+ Verkebäcksviken, Smalspåret
+Vändplats (sydgående)
+
+Järnvägsviadukt
+ Smalspåret
+
+T-korsning Arabien
+ Verkebäck
+
+T-korsning (enskild väg)
+ Bergtäkt
+
+Trp Rössle
+ Västervik (Centrum), Sjukhus
+ Västervik Resort
+ Rödsle (enskild väg)
+
+Korsning Stenberga (enskild väg)
+ Ej skyltad
+
+T-korsning Mommehål
+ Svinnersbo, Flygplats
+ Mörtvik (enskild väg)
+
+T-korsning (enskild väg)
+ Hjortkullen
+
+Wärdshuset Hjorten
+
+T-korsning Hjortekrog (enskild väg)
+ Hjortkullen
+
+Korsning Kvistrum (enskild väg)
+ Gagersrum, Skvagerfall
+ E22:ans Handelshus
+
+Parkeringsplats
+
+Korsning Kungsholm
+ Almvik S
+ Blackstad
+
+Korsning Bomtorpet
+ Almvik
+ Törnsfall
+
+(Bro över ...)
+Korsning Almvik N
+ Almvik N
+ Tegelbruksmuseum, Café
+ Blekhem (enskild väg)
+
+Korsning Segelrum (enskild väg)
+ Segelrum
+
+Korsning Nytorp Gamleby
+ Enskild väg, ej skyltad
+
+T-korsning Enestorp (enskild väg)
+ Ekobutik
+
+T-korsning Baggetorp
+ Gamleby S
+ Pensionat, Konferens
+
+Korsning Ullevi (enskild väg)
+ Ullevi by
+ Risdal
+
+(Korsning (enskild väg))
+ Ej skyltad
+
+Trp Gamleby C
+ Gamleby C
+ Hallingeberg
+ Camping, Badplats
+
+(T-korsning (enskild väg))
+ Ej skyltad
+
+Trp Gamleby Norra
+ Gamleby N
+ 35: Linköping, Åtvidaberg, Överum
+ 135: Kisa
+
+T-korsning Valstad (enskild väg)
+ Hushållningssällskapet
+
+Parkeringsplats (främst nordgående)
+Korsning (enskild väg)
