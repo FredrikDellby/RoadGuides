@@ -434,42 +434,51 @@ Trafikplats Våtsjön
  Café: Lakelodge
 					1,2 km/1,3 km	48 s/52 s
 Trp Villingsberg
-					1,0 km/1,0 km	40 s/40 s
-Rastplats Villingen
+					1,7 km/1,0 km	40 s/40 s
+Rastplats St Villingen
 (västgående riktning)
-					0,7 km/0,8 km	28 s/32 s
+					(/0,8 km	(/32 s
 Dubbel T-korsning
- Enskild väg
+ Enskild väg (ej förskyltad)
 					1,0 km/0,8 km	40 s/32 s
 T-korsning
  Enskild väg
 					1,4 km/1,4 km	56 s/56 s
+(T-korsning)
+ Enskild väg (ej förskyltad)
+
 Karlskoga / Lekeberg
 					2,3 km/2,4 km	1 min 32 s/1 min 36 s
-Trp Kulbäcken
- Klunkhyttan
+(T-korsning)
+ Enskild väg (ej skyltad)
+
+Trp Kulbäcken/Klunkhyttan
 					2,2 km/2,2 km	1 min 28 s/1 min 28 s
 Trp Lekhyttan (106)
  Lekhyttan, Mullhyttan
  Garphyttan
 					6,3 km/6,2 km	3 min 47 s/3 min 43 s
+Bro över Garphytteån
+
 Lekeberg / Örebro
 					0,6 km/1,1 km	22 s/40 s
-Trafikplats Via (107)
+Trp Vintrosa (107)
  204: Gullspång, Fjugesta
  Vintrosa
 					3,8 km/3,4 km	2 min 17 s/2 min 2 s
-Svartån
+Bro över Svartån
 					2,4 km/3,0 km	1 min 26 s/1 min 48 s
 Trp Falltorp (108)
  Örebro Flygplats
 					4,0 km/3,7 km	2 min 24 s/2 min 13 s
 Trp Berglunda (109)
  Berglunda
+					/)
 Trp Adolfsberg-väst (110)
 (avfart östgående riktning
 påfart västgående riktning)
  [E20 v]: Göteborg
+ [51 s]: Norrköping
  Örebro S
 					2,8 km/1,9 km	1 min 52 s/1 min 16 s
 Trp Adolfsberg-nord (110)
