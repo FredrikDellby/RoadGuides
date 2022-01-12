@@ -7,48 +7,69 @@ Trafikplats Stigamo (30)
  E4 s: Helsingborg, Värnamo
  E4 n: Stockholm, Jönköping
 					2,3 km/1,3 km	1 min 44 s/0 min 59 s
-Dubbel T-korsning Eckersholm
- Barnarp
+T-korsning Eckersholm Rv 30
+ Byarum, Lovsjö
 					1,1 km/1,1 km	50 s/50 s
-T-korsning
- Ödestugu
+T-korsning Krokavadet
+ Bodafors, Malmbäck, Tenhult, Ödestugu
 					2,8 km/2,8 km	2 min 6 s/2 min 6 s
 Korsning Krängshultsvägen
- Vaggeryd, Krängeshult
+ Vaggeryd, Krängshult
 					3,8 km/3,8 km	2 min 51 s/2 min 51 s
+T-korsning Sonarp (enskild väg)
+ Sonarps B&B, Stugor, Möbler och inredning
+
 T-korsning Ödestuguvägen
  Tenhult, Ödestugu
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-T-korsning Hok Herrgård
- Hok Herrgård, Golfbana
+T-korsning Hooks Herrgård (lokal väg)
+ Hotel/Restaurang: Hookk Herrgård
+ Golfbana
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
+(Parkeringsplats)
+ grus/gräsväg
+
 Dubbel T-korsning Hok N
- Nässjö, Malmbäck
+ (Nässjö), Malmbäck, Camping/stugor
  Vaggeryd
 					0,7 km/0,7 km	42 s/42 s
 Järnvägsviadukt
  Halmstad-Nässjö
 
-Rondell Hok S
- Lokala mål
+Rondell Hok S (lokala mål)
+ Bensinstation: Q-star
+ Restaurang: Pizzeria & Restaurang- Alexandra Hok
 					5,1 km/5,0 km	3 min 50 s/3 min 45 s
+(T-korsning)
+ HCF, Enskild väg
+
 T-korsning Svenarum N
- Malmbäck, Hagafors
+ Långserum, Hagafors
 					0,4 km/0,4 km	18 s/18 s
+T-korsning Svenarum C
+ Hembygdsgård, Lokal väg
+
 T-korsning Svenarum S
  Vaggeryd
 					3,2 km/3,2 km	2 min 24 s/2 min 24 s
 T-korsning Tofterydsvägen
  Skillingaryd, Tofteryd
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-T-korsning Kinnebro
- Nydala
+Korsning Kinnebro
+ Hubbestad, Svenstorp
+ Yxenhaga (stugor)
 					4,0 km/4,0 km	3 min 0 s/3 min 0 s
+Korsning Svenarums Torv
+ Torvindustri, Lokal väg
+
 Vaggeryd / Sävsjö
 					5,7 km/5,7 km	4 min 17 s/4 min 17 s
-T-korsning
+T-korsning Boda
  127 v: Värnamo
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
+T-korsning (enskild väg)
+ Naturreservat, Parkerings/Infoplats
+
 Rondell Vrigstad V
 					0,7 km/0,8 km	50 s/58 s
 (Vrigstad Värdshus)
