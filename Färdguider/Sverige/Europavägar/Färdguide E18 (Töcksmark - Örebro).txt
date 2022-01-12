@@ -345,68 +345,93 @@ Trp Odlingen
  Industriområde
  Karlskoga Flygplats
  Bodaborg Äventyrshus
-(Järnvägsviadukt)
+
+Järnvägsviadukt)
  Nora-Bergslags järnväg
 					1,3 km/1,1 km	1 min 7 s/0 min 57 s
-Korsning
- Lokalväg
-Bensinstation: Norsk Hydro,
-Uno-x, OKQ8
+Korsning (lokal väg)
+ Ekeby, Bodaborg
+ Skrantahöjden
+ Bensinstation: St1, OKQ8
+ Restaurang: Rastens Gatukök
 					0,5 km/0,8 km	26 s/41 s
 Jätterondell
  205 s: Laxå
  243 s: Degerfors
  205 n: Hällefors, Grythyttan
  237: Filipstad
+Avfart (västgående)
+ Sjukhus, ej tunga fordon
 
 Etapp 10: Genom Karlskoga (4,2 km/3,9 km)
 					1,2 km/1,3 km	1 min 12 s/1 min 18 s
-Rondell
+Rondell (lokal väg)
  Bensinstation: OKQ8
  Restaurang: McDonald's, MAX
-Trafikplats
+Trafikplats (lokala vägar)
  Hotel: Karlskoga Hotel
 					0,9 km/0,6 km	54 s/36 s
 Avfart+Påfart Stallbacken
 (östgående riktning)
 					0,4 km/0,5 km	24 s/30 s
 Korsning E18/Filipstadsvägen
- Bensinstation: Statoil
-(Boforsen)
-Trafikplats
- Nobel Industri
+ Dammbro (lokal väg)
+ Industri: Björkborn (lokal väg)
  Nobelmuseet
- Hotel: Brogårdens Hotell
-(Järnvägsviadukt)
+ Bensinstation: Circle-K
+(Bro över Timsälven)
+Trp Rosendal
+ Rosendal (lokal väg)
+ Industri: Bofors (lokal väg)
+ Hotel: Hotell Krey
+					/)
+Järnvägsviadukt)
  Industrispår
 					0,9 km/0,7 km	54 s/42 s
 Korsning E18/Stackfallsv.
+ Lokal väg
 					0,4 km/0,4 km	24 s/24 s
 Korsning Sandviken
- Bensinstation: Preem
+ Lokal väg
 					0,5 km/0,5 km	30 s/30 s
 T-korsning E18/Österleden
  243: Nora
- Nobelmuseet
- Bensinstation: Shell
+ Indutri: Brickegården
+ Bensinstation: Preem, OKQ8
 
 Etatpp 11: Karlskoga - Adolfsberg (37,5 km/36,9 km)
 					0,4 km/0,4 km	21 s/21 s
 Korsning Brickegården N
- Bensinstation: St1
+ Flottnäset (lokal väg)
+ Källmossen (lokal väg)
+ Restaurang: Pizza House, Pärltuppen
 					0,6 km/1,0 km	31 s/51 s
+(Bro över Svartälven
+					(/
 Trafikplats Immetorp
- Degerfors
- Sibberboda
+ Utterbäck
+ Knutsbol, Industri: Valåsen
+ Kalskoga Golfklubb
 					3,8 km/3,5 km	2 min 32 s/2 min 20 s
+(Korsning (enskild väg))
+ Ej skyltad
+
+(Korsning (enskild väg))
+ Ej skyltad
+					(/
 T-korsning Våtsjötorp
- Enskild väg
+ Bergtäkt, Enskild väg
 					1,4 km/1,6 km	0 min 56 s/1 min 4 s
+T-korsning Sandbäcken (enskild väg)
+ Sundet, Vändplats
 Rastplats Sandbäcken
 (östgående riktning)
 					1,6 km/1,4 km	1 min 4 s/0 min 56 s
-Korsning Våtsjön
- Café
+(Dubbel) T-korsning
+ Djerfstugan, Enskild väg
+
+Trafikplats Våtsjön
+ Café: Lakelodge
 					1,2 km/1,3 km	48 s/52 s
 Trp Villingsberg
 					1,0 km/1,0 km	40 s/40 s
