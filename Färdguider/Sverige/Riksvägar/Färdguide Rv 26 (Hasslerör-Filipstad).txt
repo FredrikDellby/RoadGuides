@@ -68,7 +68,7 @@ T-korsning
 Västra Götaland / Värmland
 Gullspång / Kristinehamn
 T-korsning Bjurvik
- 204: Fjugestad
+ 204: Örebro, Fjugesta, Svartå
  [243]: Karlskoga, Degerfors
 
 Etapp 22: Bjurvik - Kristinehamn (33,6 km/34,2 km)
@@ -98,31 +98,64 @@ T-korsning Hultsvägen
  Hult
 					0.8 km/0.8 km	36 s/36 s
 T-korsning
- Björneborg
+ Skogagården, (Björneborg)
 					7.8 km/7.8 km	5 min 51 s/5 min 51 s
+(T-korsning Uppsjön)
+ Enskild väg
+
 T-korsning Agetorp
- Björneborg
+ Degerfors, Björneborg
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
+Infopunkt (nordgående): (59.2589376,14.1722294)
+
+T-korsning (enskild väg)
+ Udden, Västanås, Bygdegård
+
+T-korsning Norra Stenåsen
+ Motorklubb, Enskild väg
+
 T-korsning Järsberg
  Visnums-Kil, Hult
 					1.5 km/1.6 km	1 min 8 s/1 min 12 s
+Korsning Karaby gård
+ Karaby gård, Enskild väg
+
+T-korsning KaMeWa (lokal väg)
+ Runsten (sevärdhet), Järsbergs såg
+
 Rondell Kristinehamn SO
  Centrum
 					0.8 km/0.8 km	41 s/41 s
-Järnvägsbro
+T-korsning Rv 26/Vegagatan
+ Industri: Drevsta, Bilprovning
+(Järnvägsbro)
  Värmlandsbanan
 					1.2 km/1.3 km	1 min 2 s/1 min 7 s
-T-korsning Rv26/Närkevägen
+T-korsning Rv 26/Närkevägen
  Centrum
 					0.5 km/1.0 km	26 s/51 s
-Korsning Kvarndammen
- Bensinstation: OKQ8, Bilisten
- Restaurang: McDonald's
+Korsning Kvarndammen (lokal väg)
+ Rastplats Kvarndammen
+ Industri: Övre Kvarn
+ Bensinstation: Q-star
+ Restaurang: Burger King, McDonald's
+Övre Kvarnmotet-syd
+ E18 ö: Stockholm, Karlskoga
+
+Övre Kvarnmotet-nord
+ Bjurtjärn
+ Vägstation, Hultet (vandring)
 Övre Kvarnmotet
  E18 ö: Stockholm, Karlskoga
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
 Solbackensmotet
  E18 v: Oslo, Karlstad
+Solbackensmotet-syd
+ Centrum, Industri: Marielund
+
+Solbackensmotet-nord
+ E18 v: Oslo, Karlstad
+ Centrum, Industri: Marielund
 
 Etapp 23: Kristinehamn - Storfors (26,8 km/26,6 km)
 					2.1 km/1.7 km	1 min 35 s/1 min 17 s
