@@ -346,17 +346,22 @@ Korsning Boamarken
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
 Korsning Brännebrona
  Enskild väg
- Brännebrona Värdshus
+ Restaurang: Brännebrona Värdshus
 					1,0 km/1,0 km	45 s/45 s
-Götene / Mariestad
+T-korsning Brännebrona N
+ Betongvaror, Enskild väg
+
+Götene / Mariestad: (58.5829563,13.6132976)
 					1,2 km/1,2 km	54 s/54 s
 T-korsning Lilla Moholm
- Äskekärr
+ Hällekis, Årnäs
+ Muggeberg (enskild väg)
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
 T-korsning Månstorp
+ L Tisslegården
 					1,2 km/1,2 km	54 s/54 s
 T-korsning Motorp
- Lugnås K:a
+ Lugnås K:a, Vandrarhem
 					0,3 km/0,6 km	14 s/27 s
 Rastplats Motorp
 (västgående riktning)
@@ -364,17 +369,19 @@ Rastplats Motorp
 Parkeringsplats (östgående)
 					2,1 km/2,0 km	1 min 35 s/1 min 30 s
 Korsning Lugnås E20
- Lugnås K:a
- Hällekis, Bredsäter
+ Lugnås K:a, Minnesfjället (sevärdhet)
+ Lugnås
  Restaurang: E3-baren
 					2,8 km/2,8 km	2 min 6 s/2 min 6 s
 T-korsning Prästkvarn
- Lugnås, Prästekvarn
- Bensinstation: St1
+ Årnäs
 					4,9 km/4,8 km	3 min 41 s/3 min 36 s
+(T-korsning Hamrum)
+ Enskild väg
+
 Trp Haggården
  Mariestad S, C
- 26: Jönköping, Skövde
+ 26 s: Jönköping, Skövde
  Bensinstation: Preem, Tanka
  Resstaurang: McDonald's
 
@@ -385,8 +392,9 @@ Trp Ullervad
  201: Tibro
  Bensinstation: Statoil
 					1,2 km/1,4 km	54 s/1 min 3 s
-Rattugglan
- Restaurang: Rasta
+(IDS Diesel (västgående)
+Rattugglan Raststopp
+ Hotell/Restaurang: Rasta
  Bensinstation: OKQ8
 					2,2 km/2,6 km	1 min 39 s/1 min 53 s
 Trp Brodderud
@@ -400,23 +408,26 @@ T-korsning Ingarud
  Brodderud
 					0,6 km/0,8 km	27 s/36 s
 Tankställe Hasslerör
- Bensinstation: Shell (b)
- Restaurang: Stoppet
+ Bensinstation: Shell
 					0,4 km/0,3 km	18 s/14 s
 Korsning Berga vägskäl
- Hasslerör
+ Hasslerör, Berga
+ Bed & Breakfast
+ Sörgården (enskild väg)
 					0,9 km/0,9 km	41 s/41 s
 Korsning 
- Torp
+ Västeräng
 					0,5 km/0,5 km	23 s/23 s
 T-korsning Hasslerör Ö
- 26: Kristinehamn, Gullspång
+ 26 n: Mora, Kristinehamn, Gullspång
 
 Etapp 21: Hasslerör - Hova (21,2 km/21,2 km)
 					0,7 km/0,8 km	28 s/32 s
 T-korsning Vallby
- Färed
- Bensinstation: St1
+ Fredsberg
+ Hassle sjukhem, Motorbana
+ (Bensinstation: St1)
+ (Restaurang: Vallbygrillen)
 					2,2 km/2,2 km	1 min 28 s/1 min 28 s
 Korsning Tjos
  Enskild väg
