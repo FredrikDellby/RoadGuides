@@ -1,4 +1,4 @@
-Reseguide Rv 26 Mariestad - Filipstad
+Reseguide Rv 26 Hasslerör - Filipstad
 ======================================
 
 Etapp 20: Hasslerör - Otterbäcken (26,0 km/25,4 km)
@@ -8,10 +8,15 @@ T-korsning Hasslerör Ö
  E20 v: Göteborg, Mariestad
  26 s: Jönköping, Skövde
 					0.7 km/0.8 km	31 s/36 s
-T-korsning Hasslerör N
- Hasslerör
+Dubbel T-korsning Hasslerör N
+ Hasslerör, Café
+					/)
 Järnvägskorsning
  Kinnekullebanan
+					(/
+Dubbel T-korsning Hassle kyrkan
+ Hassle kyrka
+ Kyrkans hus
 					2.4 km/2.3 km	1 min 48 s/1 min 43 s
 T-korsning Fåleberg
  Torsö
@@ -19,53 +24,82 @@ T-korsning Fåleberg
 Dubbel T-korsning Sjötorp S
  Sjötorp
  Lyrestad
+ Slussområde (sevärdhet)
+ Rastplats/Turistinfo
 					0.6 km/0.5 km	27 s/23 s
-Göta Kanal
+Bro över Göta Kanal
 					1.3 km/1.3 km	59 s/59 s
 T-korsning Sjötorp N
  Sjötorp
+ Slussområde (sevärdhet)
+ Rastplats/Turistinfo
 					0.4 km/0.4 km	18 s/18 s
 T-korsning Kullerud
- Slättevalla
+ Lyrestad
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Sannerudskär
- Moviken
+Korsning Sannerudskär
+ Moviken, Enskild väg
 					3.3 km/3.3 km	2 min 28 s/2 min 28 s
-T-korsning Askeviken
- Askevikens camping
-					0.9 km/0.2 km	41 s/9 s
-Mariestad / Gullspång
-					0.7 km/0.7 km	31 s/31 s
-T-korsning Ekenäs
- Askeviksbadet
+Korsning Askeviken södra (enskild väg)
+ (Askeviks Café & Restaurang), ej skyltat
+
+Dubbel T-korsning Askeviken (enskild väg)
+ Rudet, Blomsterhult, Ekenäs
+ Askevikens Camping, Askeviksbadet
+ Askeviks Café & Restaurang
+					0.4 km/0.3 km	41 s/9 s
+Mariestad / Gullspång: (58.8920189,14.0159701)
+					1.2 km/1.3 km	31 s/31 s
+T-korsning Ekenäs (enskild väg)
+ Askeviksbadet, Villa Ekenäs (ej skyltat)
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
 T-korsning Otterbäcken S
  Otterbäcken
+ Barfotens Camping, Badplats
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
-Korsning Otterbäcken Ö
- Torpa (enskild)
- Otterbäcken
+(Korsning Otterbäcken Ö)
+ Gunnarstorp (enskild)
+ (Otterbäcken)
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
-Korsning Otterbäcken N
+T-korsning Otterbäcken N
  200: Hova
- Otterbäcken
+ Ribbingsfors Golfklubb
 
 Etapp 21: Otterbäcken - Bjurvik (11,5 km/11,5 km)
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
-Korsning
- Gullspång
+T-korsning Otterbäcken Ind.
+ Otterbäcken, Industiområde
 
-(Järnvägskorsning)
+Korsning Älvstorp (enskild väg)
+ Åråshult, Råglanda, Älvstorp
+ Åråshult Camping, Fiske
+
+Prisoasen
+
+Korsning Gullspång SV
+ Vårdcentral, Lokal väg
 					0.7 km/0.7 km	36 s/36 s
 Dubbel T-korsning Gullspång V
- Gullspång
- Amnehärads kyrka
- Bensinstation: Statoil
+ Amnehärad kyrka, Naturreservat
+ Gullspång Centrum, Infoplats
+ Södra Råda G:a kyrkplats
+ Bensinstation: INGO
+ Restaurang: Pizzeria Restaurang Glada Laxen
 					0.9 km/0.9 km	46 s/46 s
+Bro över Gullspångsälven
+
 T-korsning
- Gullspång
+ Södra Råda
 					7.3 km/7.3 km	5 min 29 s/5 min 29 s
-Västra Götaland / Värmland
+Ställplats Älven
+
+(Parkeringsplats (gräs/grus))
+(främst för nordgående)
+
+Korsning Stranden (enskild väg)
+ Våffel
+
+Västra Götaland / Värmland: (59.0508793,14.1410238)
 Gullspång / Kristinehamn
 T-korsning Bjurvik
  204: Örebro, Fjugesta, Svartå
@@ -73,27 +107,39 @@ T-korsning Bjurvik
 
 Etapp 22: Bjurvik - Kristinehamn (33,6 km/34,2 km)
 					4.0 km/4.0 km	3 min 0 s/3 min 0 s
-Korsning Värmlands Säby
- Värmlands Säby herrgård
+Korsning Värmlands Säby (enskild väg)
+ Värmlands Säby herrgård (sevärdhet)
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning Nybble
- Visnums-Kil
+ Medhamn, Visnums-Kil kyrka
+ Rastplats Nybble
+ Vårdcentral, Lanthandel, Camping
+ Restaurang: Diner 26/Nybblebaren
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
 Korsning Visnum Vall
- Åtorp
+ Skottlanda, Dressinbana
+ Gravfält (enskild väg)
 					1.1 km/1.1 km	50 s/50 s
-Korsning Visnum S
+Parkeringsplats (främst för sydgående)
+
+Korsning Visnum S (prästgården)
+ Prästgård (enskild väg)
  Visnums kyrka
 					0.5 km/0.5 km	23 s/23 s
-Korsning Visnum N
+Korsning Visnum N (kyrkan)
+ Långerud, Gårdsslakteri (enskild väg)
  Visnums kyrka
 					0.4 km/0.4 km	18 s/18 s
-T-korsning Långserud
- Bäckhammar
+T-korsning Långerud
+ Långerud
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
 T-korsning Bäckhammar väg 26
  Bäckhammar
+ Lanthandel, Gatukök
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
+Korsning (enskild väg)
+ Husbilslandet
+
 T-korsning Hultsvägen
  Hult
 					0.8 km/0.8 km	36 s/36 s

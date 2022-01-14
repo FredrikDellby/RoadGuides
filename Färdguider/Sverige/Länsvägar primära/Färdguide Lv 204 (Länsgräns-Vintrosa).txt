@@ -31,6 +31,7 @@ T-korsning (enskild väg)
  Engströms Handelsträdgård, Rolands Plantskola
 
 (Korsning+T-korsning (enskild väg))
+ Hotell Skagersbrunn
  Domarringar
 
 Parkeringsplats (grus): (59.0922496,14.3266634)
