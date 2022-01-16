@@ -198,10 +198,79 @@ Bro över Björnån
 (T-korsning)
  Stensjövägen (enskild väg)
 
-Vänd/Parkeringsplats (grus): (61.8428642881299, 14.659516474899334)
+Vänd/Parkeringsplats (grus): (61.8428643, 14.6595165)
 
 Vänd/Parkeringsplats (grus):
 
 Gävleborg / Jämtland: (61.8673148,14.6358439)
 Ljusdal / Härjedalen
 
+(Korsning E45/Klevavägen)
+ Enskild väg, ej skyltad
+
+Dubbel Korsning Byavallen
+ Motocrossbana
+ Hotell, Golfbana
+
+T-korsning Byavallen V
+ Enskild väg, Vandrarhem
+(Bro över Noret)
+
+Järnvägsviadukt
+ Inlandsbanan
+
+(Dubbel) T-korsning Bäckedal E45)
+					/)
+T-korsning E45/Härjulfs väg
+ Älvdalen, Särna
+
+Korsning (lokal väg)
+Restaurang: Sibylla
+Bensinstation: Circle-K
+Korsning Sveg (Träbjörnen)
+ 84 v: Röros, Funäsdalen, Hede
+ Centrum
+Bensinstation: OKQ8
+					/)
+(Hotell Härjedalen)
+
+(Korsning E45/Sandvägen)
+ Lokal väg, ingen skyltning
+
+T-korsning E45/Motorgatan
+ Industri: Östra
+ Bilspedition, Bilprovning
+
+T-korsning E45/Basvägen
+ Lokal väg, ej skyltad
+ Bensinstation: Preem
+
+Dubbel T-korsning Nilsvallen
+ Stugor (enskild väg)
+ Sundsätt, Sveg Airport
+
+T-korsning (enskild väg)
+ Ridanläggning
+
+(Korsning Håtjärnen)
+ Byn (enskild väg)
+
+(Bro över Sålnån)
+Korsning Sålnen
+ Ytterberg
+
+T-korsning Älvros V (enskild väg)
+ Högåsens naturreservat
+
+(T-korsning)
+ Lokal väg, ej skyltad
+Älvros gamla kyrka
+Gammal gård
+
+(Dubbel) T-korsning Älvros
+ Lokal väg, ej skyltad
+ 84 ö: Hudiksvall, Ljusdal
+
+Korsning Älvros nya
+ Älvros nya kyrka
+ Lokal väg (ej skyltad)
