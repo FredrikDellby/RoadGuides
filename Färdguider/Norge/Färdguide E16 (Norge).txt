@@ -362,7 +362,7 @@ Bergsundtunnelen-nord
  Gamle Valdresvegen
 
 T-korsning Erstad Bagn sør E16
-
+======================================
 T-korsning Bagn E16
  Fv2450: Tonsåsen, Bagn sentrum
  Reinli, Reinli stavkyrkje
@@ -457,250 +457,214 @@ T-korsning E16/Tveitavegen
  Valdreshallen
 T-korsning E16/Skifervegen
  Parkering Skiferplassen
-
+======================================
 Korsning Avisa Valdres
  Fv2442: Skrautvål
  Industri: Spikarmoen, Idrettspark
 Bensinstasjon: Circle-K
 T-korsning E16/Jernbaneveg.
  Fv2496: Fagernes sentrum
+========================================
 
-(Fagernes bru)
- Neselvi, 59 m
-T-korsning Fagernesbrue
- 51 n: Vågå, Beitostølen
- Valdresflye
+Kryss Vågsbotn)
+					/)
+Kryss Vågsbotn-syd
 
-Fagernes Camping
-Valdres Folkemuseum
+T-korsning Birkeland kryss
+ (ej skiltet vestgående)
 
-T-korsning Fødnesvegen E16
- Fodnes
+T-korsning Blindheim kryss
+ Blindheim
 
-Strand kirke
+T-korsning Gaupås kryss
+ Rødland, Gaupås
+========================================
+T-korning Gudvangen E16
+(Ramsøy bru)
+ Nærøydalselvi, 68 m
 
-Rasteplass Hømanberg: (60.9817324, 9.1481665)
-(fremst for sydgående)
+T-korning Gudvangen servicesenter
+ Bensinstasjon: Shell
 
-Søndre Svennes Camping
+(Gudvangatunnelen-vest)
+  11 428 m
 
-T-korsning Ulnes kyrkje
- Fv2484: Øvre Røn, Fodnes
- Panoramavegen, Vaset skisenter
- Ulnes kirke
+Gudvangatunnelen-øst
+(Vændplats)
 
-(Korsning Ulnes E16)
-(ikke skiltet)
- Butikk: Joker
+T-korning Langhuso kryss
+ Fv5626:
+(Flenjatunnelen-nord)
+ 5 053 m
 
-Valdres Vilt og trad. mat
+Flenjatunnelen-syd
 
-(T-korsning)
- Prosess Automasjon AS
+T-korning Flåm E16
+(Brekke bru)
+ over Fv245, Flåmselvi og Flåmsbana, 255 m
 
-Nord-Aurdal / Vestre Slidre: (61.0174418,9.0920019)
+Fretheimtunnelen-vest (1 363 m)
 
-T-korsning Viste
- Øvre Røn
+Fretheimtunnelen-øst
 
-T-korsning Røn S
- Fv2476: Fossheim bru
- Miljøstasjon
+Rasteplass Krekheller: (60.8725201, 7.1443345)
 
-T-korsning Furulund Pensjonat
-Bensinstasjon: YX
+T-korning Bøen
+ Otternes
 
-T-korsning Røn N
- Fv2485: [51], Øystre Slidre, Røn kirke
+Parkeringsplass: (60.8840702, 7.1548930)
+ grusvei, ikke skiltet
 
-Hande Rakfisk
+T-korning Otnes
+ Onstad, (Aurland sentrum)
+(Onstadtunnelen-vest)
+ 673 m
 
-(Korsning Jarstad)
- Slidrefjordens Gjestegård
+Onstadtunnelen-øst
 
-T-korsning Nesja Einangsundet bru
- Fv2476: Einang Bru
+(Nyheim bru)
+ Aurlandselvi, 64 m
+Rondell Aurland E16
+ 50: Hol
+ Sentrum, Aurlandsfjellet
+ Info/Serviceplass
+ Bensinstasjon: Circle-K
+
+Lærdalstunnelen-syd (24 509 m)
+
+Aurdal / Lærdal
+
+Lærdalstunnelen-nord
+
+Rondell Håbakken
+ 5: Sogndal, Lærdal
+
+T-korning Håbakken
+ Kontrollstasjon
+ Restaurant: Haabakken
+ Servicesenter
+
+Slinde Truck Senter
+
+T-korning Tønjum kyrkje
+
+T-korning Tønjum
+ Fv5630/272: Mo
+
+(Volls bru)
+ Lærdalselvi, 74 m
+T-korning Lunde
+ Fv271: Stønjum (ikke skiltet)
+
+T-korning Ljøsne
+ Mo
+(Joker Ljøsne)
+
+T-korning Ljøsne skule
+ Mo, Skytebane, Golfbane
+
+Korsning Saltkjelen
+ Saltkjelen
+
+Rasteplass Hodndalen
+ Utsiktsplass: Jutlamannen
+
+(Bru over Jutlaelvi)
+ ca 20 m
+
+T-korning Hønjum E16
+ Hønjum, Bjørkum Camping
+
+T-korning Bjørkum E16
+ Bjørkum, Arkeologiske funn
+
+T-korning
+ Bjørkum, Arkeologiske funn
+
+Seltun bru (Lærdalselvi, 57 m)
+
+T-korning Seltun vest
+ Fv630/Gamle E16
+ Historisk rute (info/parkering/vandring)
+
+Seltatunnelen-vest (1 632 m)
+
+Seltatunnelen-øst
+
+T-korning Sjurhaugen
+ Fv630/Gamle E16
+ Historisk rute, Kongevegen
+ (Borgund stavkyrkje)
+
+Øygardsbrui (75 m)
+ Fv630 og Lærdalselvi
+Borgundtunnelen-vest (3 050 m)
+
+Borgundtunnelen-øst
+
+T-korning Lo aust
+ Fv630 (Gamle E16): Husum
+ Historisk rute, Kongevegen
+ Borgund stavkyrkje
+
+T-korning Borgund hyttesenter
+ Borgund hyttesenter og Camping
+
+T-korning Borgund E16
+ (Fv630): Borgund sentrum
+ Bensinstasjon: Borgund servicesenter
+ Rasteplass Steinklepp
+(Bergsbrua)
+ Lærdalselvi, 146 m
+
+Tuftåstunnelen-vest (1 958 m)
+
+Tuftåstunnelen-øst
+
+(T-korsning Teigum)
 
 T-korsning
-(ej skyltad sydgående)
- Fv2484: Slidre sentrum
- Slidredomen, Einangsteinen
+ Eraker
 
-T-korsning Hausåker
-(ej skyltad nordgående)
- Slidre sentrum
- Slidredomen, Einangsteinen
+(Eråksbrua (100 m))
+ Lærdalselvi
+T-korning Eraker
+ (Fv630): Borgund, Camping
 
-Rasteplass Idstad: (61.1200379, 8.95562182)
+Trafikkontrollplass
 
-Marit Anny's vevstogo
+Korsning Borlaug
+ Parkeringsplass (bygdetun/Kongevegen)
+ Borlaug Vandrerhjem
+Rondell Borlaug
+ 52: Gol, Hemsedal
 
-(T-korsning Kvamshall)
- Laftesmia
+(Borlaugstunnelen-syd: (61.0742933,7.9643323))
+T-korsning
+ Gram (gamle E16)
 
-T-korsning Lome øst E16
- Fv2510, [51]: Beitostølen, Skammestein
- Ellestadbygda, Lomen stavkyrkje
+Borlaugstunnelen-nord
+ 4 090 m
 
-T-korsning Lomen kyrkje
- Lomen kyrkje
+(Honing bru)
+ Smeddalselvi, 100 m
+T-korsning Dalen
+ Gamle E16
 
-Korsning Lomen Auto
- Ej skiltet veg
+Oddebrui (Oddedøla, 110 m)
 
-Vestre Slidre / Vang
+(Kjettingplass)
 
-T-korsning Riste bru E16
- Fv2476: Riste bru
- Syndin, Strø (bompeng)
- Hytter/Camping: Syndinstøga
+(T-korsning Buhaugane sør)
+ ikke skiltet
 
-T-korsning E16/Ryfossvegen
- Ryfossvegen (gamle E16)
+(T-korning Buhaugane nord)
+ ikke skiltet
 
-Rasteplass Ryfoss: (61.13708981079052, 8.82739817425554)
+Bru over Løkenelvi
 
-T-korsning Ryfoss
- Fv2510, [51]: Beitostølen, Skammestein
- Höre, Ryfoss sentrum
- Bensinstasjon: YX
- Café: Saras Café
-
-Dubbel T-korsning Kvismoen
- Kvien, Höre stavkyrkje
- Industri: Kvismo
-
-(T-korsning Tveitabrue)
- Stadion
-Tveitabrue (34 m)
- Storåne
-
-Rasteplass Tomlødegård
-
-T-korsning Vangsnes Øylo
- Fv2516: Hensåsen, Rogn camping/hytter
-
-T-korsning E16/Hugastølv.
- Hugakollen
-
-Ala Camping: (61.145395445485, 8.712898465752108)
-
-Øylo Gjestgiveri
-
-Rasteplass Hugavika
-
-T-korsning Hemsingbrue Øylo
- Fv2510: Hensåsen
- Slettefjellvegen (bompeng)
- Hotell/Camping/Hytter
-
-Rasteplass Hemsing
-
-Kvamskleivtunnelen (220 m)
-
-Kvamskleiva halvbru (31 m)
-
-T-korsning (lokal veg)
- Miljøstasjon, Energiverk
-
-T-korsning Syndin
- Nordre Syndin (bompeng)
- Kongevegen (info/parkering/vandring)
-
-Dubbel T-korsning Vang skule
- Smådalen, Helin
- Grindafjell hytteomr
- Vang barne og ungdomsskule
-
-T-korsning E16/Skørisbakkin
-Tindulf hyttebutikk
-Coop Prix Fjellvang
- Elbilsladdning: Fortum
-
-Vang kyrkje
- Vangsteinen
-T-korsning Vang kyrkje
- Prestekontor
-T-korsning Vangstunet
- Vang kommune
-
-Korsning Vang sentrum
-Valdres Sparebank
-
-(Sommerhotellet)
-(T-korsning E16/Lundsmarka)
- Vang arbeidssenter
-
-T-korsning (lokal vei)
- Øygarden tun
-
-Mjøsvang Kafe
- Informasjon
-Bensinstasjon: BP
-
-(Bru over )
-
-Korsning Bøaflatadn
- Bøflaten Camping
- Skakadalen (bompeng)
-Bensinstasjon: YX
-
-Rasteplass Hagastrand
-
-T-korsning Steindejordet
- Fv2513: Øye Kyrkje, Øye stavkirke
-
-Rødølstunnelen-syd
- 1 970 m
-
-Rødølstunnelen-nord
-(Strondafjordbrune)
- Begna, 215 m
-
-T-korsning Øye Eidsbrue E16
- Fv2513: Øye Kyrkje, Øye stavkirke
-
-Dubbel T-korsning Hermundstad
- Tyinlam (gårdsbutikk)
- Øye vestside (endast skilted østgående)
- Rasteplass Grihamar, seværdighet
-
-(Sedal hpl)
-
-Kola bru (20 m)
- Begna
-
-Bru over Begna
-
-T-korsning Tyinkrysset øst: (61.204757,8.247918)
- Info: Tyin-Filefjell
- Tørrisheisen, Ingrids hyttegrend
- Bensinstasjon: Best
- Butikk: Joker, Intersport
-
-T-korsning Tyinkrysset vest
- 53: Årdal, Tyin, Tyinkrysset
- Info/Parkering: Kongevegen (seværdighet)
-
-Filefjelltunnelen-øst: 61.20404,8.2321214
- 5 780 m
-
-(Veiens høyeste punkt 990 moh)
-
-(Filefjelltunnelen-vest: (61.1792481,8.139126))
-T-korsning Varden
- Fv2515: Tyin
-
-T-korsning Kyrkjestølen
- Sankt Tomaskyrkja på Filefjell
- Kyrkjestølen Hotell/hytter?
-
-Parkeringsplass Kongevegen
- Info/vandring
-
-T-korsning Grønlistølen
- Rasteplass
-(Bru over ?)
+Dubbel T-korsning
+ Hytter på Filefjell
 
 (Innlandet / Vestland
 (Vang / Lærdal
@@ -708,187 +672,239 @@ T-korsning Grønlistølen
 Innlandet / Vestland)
 Vang / Lærdal)
 
-Dubbel T-korsning
- Hytter på Filefjell
+(Bru over Sula?)
+T-korsning Grønlistølen
+ Rasteplass
 
-Bru over Løkenelvi
+Parkeringsplass Kongevegen
+ Info/vandring
 
-(T-korning Buhaugane nord)
- ikke skiltet
+T-korsning Kyrkjestølen
+ Sankt Tomaskyrkja på Filefjell
+ Kyrkjestølen Hotell/hytter?
 
-(T-korsning Buhaugane sør)
- ikke skiltet
+T-korsning Varden
+ Fv2515: Tyin
+(Filefjelltunnelen-vest: (61.1792481,8.139126))
+ 5 780 m
 
-(Kjettingplass)
+(Veiens høyeste punkt 990 moh)
 
-Oddebrui (Oddedøla, 110 m)
+Filefjelltunnelen-øst: 61.20404,8.2321214
 
-T-korsning Dalen
- Gamle E16
-(Honing bru)
- Smeddalselvi, 100 m
+T-korsning Tyinkrysset vest
+ 53: Årdal, Tyin, Tyinkrysset
+ Info/Parkering: Kongevegen (seværdighet)
 
-Borlaugstunnelen-nord
- 4 090 m
+T-korsning Tyinkrysset øst: (61.204757,8.247918)
+ Info: Tyin-Filefjell
+ Tørrisheisen, Ingrids hyttegrend
+ Bensinstasjon: Best
+ Butikk: Joker, Intersport
 
-(Borlaugstunnelen-syd: (61.0742933,7.9643323))
+Bru over Begna
+
+Kola bru (20 m)
+ Begna
+
+(Sedal hpl)
+
+Dubbel T-korsning Hermundstad
+ Øye vestside (endast skilted østgående)
+ Rasteplass Grihamar, seværdighet
+ Tyinlam (gårdsbutikk)
+
+T-korsning Øye Eidsbrue E16
+ Fv2513: Øye Kyrkje, Øye stavkirke
+
+(Strondafjordbrune)
+ Begna, 215 m
+Rødølstunnelen-nord
+ 1 970 m
+
+Rødølstunnelen-syd
+
+T-korsning Steindejordet
+ Fv2513: Øye Kyrkje, Øye stavkirke
+
+Rasteplass Hagastrand
+
+Bensinstasjon: YX
+Korsning Bøaflatadn
+ Bøflaten Camping
+ Skakadalen (bompeng)
+
+(Bru over )
+
+Bensinstasjon: BP
+Mjøsvang Kafe
+ Informasjon
+
+T-korsning (lokal vei)
+ Øygarden tun
+
+(T-korsning E16/Lundsmarka)
+ Vang arbeidssenter
+(Sommerhotellet)
+
+Valdres Sparebank
+Korsning Vang sentrum
+
+T-korsning Vangstunet
+ Vang kommune
+
+T-korsning Vang kyrkje
+ Prestekontor
+Vang kyrkje
+ Vangsteinen
+
+Coop Prix Fjellvang
+ Elbilsladdning: Fortum
+Tindulf hyttebutikk
+T-korsning E16/Skørisbakkin
+
+Dubbel T-korsning Vang skule
+ Vang barne og ungdomsskule
+ Smådalen, Helin (bompeng)
+ Grindafjell hytteomr
+
+T-korsning Syndin
+ Nordre Syndin (bompeng)
+ Kongevegen (info/parkering/vandring)
+
+T-korsning (lokal veg)
+ Miljøstasjon, Energiverk
+
+Kvamskleiva halvbru (31 m)
+
+Kvamskleivtunnelen (220 m)
+
+Rasteplass Hemsing
+
+T-korsning Hemsingbrue Øylo
+ Fv2510: Hensåsen
+ Slettefjellvegen (bompeng)
+ Hotell/Camping/Hytter
+
+Rasteplass Hugavika
+
+Øylo Gjestgiveri
+
+Ala Camping: (61.1453954, 8.71289847)
+
+T-korsning E16/Hugastølv.
+ Hugakollen
+
+T-korsning Vangsnes Øylo
+ Fv2516: Hensåsen, Rogn camping/hytter
+
+Rasteplass Tomlødegård
+
+Tveitabrue (34 m)
+ Storåne
+(T-korsning Tveitabrue)
+ Stadion
+
+Dubbel T-korsning Kvismoen
+ Industri: Kvismo
+ Kvien, Høre stavkyrkje
+
+T-korsning Ryfoss
+ Fv2510, [51]: Beitostølen, Skammestein
+ Höre, Ryfoss sentrum
+ Bensinstasjon: YX
+ Café: Saras Café
+
+Rasteplass Ryfoss: (61.1370898, 8.82739817)
+
+T-korsning E16/Ryfossvegen
+ Ryfossvegen (gamle E16)
+
+T-korsning Riste bru E16
+ Fv2476: Riste bru
+ Syndin, Strø (bompeng)
+ Hytter/Camping: Syndinstøga
+
+Vang / Vestre Slidre
+
+Korsning Lomen Auto
+ Ej skiltet veg
+
+T-korsning Lomen kyrkje
+ Lomen kyrkje
+
+T-korsning Lome øst E16
+ Fv2510, [51]: Beitostølen, Skammestein
+ Ellestadbygda, Lomen stavkyrkje
+
+(T-korsning Kvamshall)
+ Laftesmia
+
+Marit Anny's vevstogo
+
+Rasteplass Idstad: (61.1200379, 8.95562182)
+
+T-korsning Hausåker
+(ej skyltad nordgående)
+ Slidre sentrum
+ Slidredomen, Einangsteinen
+
 T-korsning
- Gram (gamle E16)
+(ej skyltad sydgående)
+ Fv2484: Slidre sentrum
+ Slidredomen, Einangsteinen
 
-Rondell Borlaug
- 52: Gol, Hemsedal
-Korsning Borlaug
- Parkeringsplass (bygdetun/Kongevegen)
- Borlaug Vandrerhjem
+T-korsning Nesja Einangsundet bru
+ Fv2476: Einang Bru
 
-Trafikkontrollplass
+(Korsning Jarstad)
+ Slidrefjordens Gjestegård
 
-T-korning Eraker
- (Fv630): Borgund, Camping
-(Eråksbrua (100 m))
- Lærdalselvi
+Hande Rakfisk
 
-T-korning
- Eraker
+T-korsning Røn N
+ Fv2485: [51], Øystre Slidre, Røn kirke
 
-(T-korning Teigum)
+Bensinstasjon: YX
+T-korsning Furulund Pensjonat
 
-Tuftåstunnelen-øst (1 958 m)
+T-korsning Røn S
+ Fv2476: Fossheim bru
+ Miljøstasjon
 
-Tuftåstunnelen-vest
+T-korsning Viste
+ Øvre Røn
 
-(Bergsbrua)
- Lærdalselvi, 146 m
-T-korning Borgund E16
- (Fv630): Borgund sentrum
- Bensinstasjon: Borgund servicesenter
- Rasteplass Steinklepp
+Vestre Slidre / Nord-Aurdal: (61.0174418,9.0920019)
 
-T-korning Borgund hyttesenter
- Borgund hyttesenter og Camping
+(T-korsning)
+ Prosess Automasjon AS
 
-T-korning Lo aust
- Fv630 (Gamle E16): Husum
- Historisk rute, Kongevegen
- Borgund stavkyrkje
+Valdres Vilt og trad. mat
 
-Borgundtunnelen-øst (3 050 m)
+(Korsning Ulnes E16)
+(ikke skiltet)
+ Butikk: Joker
 
-Borgundtunnelen-vest
-Øygardsbrui (75 m)
- Fv630 og Lærdalselvi
+T-korsning Ulnes kyrkje
+ Fv2484: Øvre Røn, Fodnes
+ Panoramavegen, Vaset skisenter
+ Ulnes kirke
 
-T-korning Sjurhaugen
- Fv630/Gamle E16
- Historisk rute, Kongevegen
- (Borgund stavkyrkje)
+Søndre Svennes Camping
 
-Seltatunnelen-øst (1 632 m)
+Rasteplass Hømanberg: (60.9817324, 9.1481665)
+(fremst for sydgående)
 
-Seltatunnelen-vest
+Strand kirke
+T-korsning Fødnesvegen E16
+ Fodnes
 
-T-korning Seltun vest
- Fv630/Gamle E16
- Historisk rute (info/parkering/vandring)
+Valdres Folkemuseum
+Fagernes Camping
 
-Seltun bru (Lærdalselvi, 57 m)
-
-T-korning
- Bjørkum, Arkeologiske funn
-
-T-korning Bjørkum E16
- Bjørkum, Arkeologiske funn
-
-T-korning Hønjum E16
- Hønjum, Bjørkum Camping
-
-(Bru over Jutlaelvi)
- ca 20 m
-
-Rasteplass Hodndalen
- Utsiktsplass: Jutlamannen
-
-Korsning Saltkjelen
- Saltkjelen
-
-T-korning Ljøsne skule
- Mo, Skytebane, Golfbane
-
-(Joker Ljøsne)
-T-korning Ljøsne
- Mo
-
-T-korning Lunde
- Fv271: Stønjum (ikke skiltet)
-(Volls bru)
- Lærdalselvi, 74 m
-
-T-korning Tønjum
- Fv5630/272: Mo
-
-T-korning Tønjum kyrkje
-
-Slinde Truck Senter
-
-T-korning Håbakken
- Kontrollstasjon
- Restaurant: Haabakken
- Servicesenter
-
-Rondell Håbakken
- 5: Sogndal, Lærdal
-
-Lærdalstunnelen-nord (24 509 m)
-
-Lærdal / Aurdal
-
-Lærdalstunnelen-syd
-
-Rondell Aurland E16
- Sentrum, Aurlandsfjellet
- 50: Hol
- Info/Serviceplass
- Bensinstasjon: Circle-K
-(Nyheim bru)
- Aurlandselvi, 64 m
-
-Onstadtunnelen-øst (673 m)
-
-(Onstadtunnelen-vest)
-T-korning Otnes
- Onstad, (Aurland sentrum)
-
-Parkeringsplass: (60.884070171300976, 7.154892987172483)
- grusvei, ikke skiltet
-
-T-korning Bøen
- Otternes
-
-Rasteplass Krekheller: (60.87252006986536, 7.14433449825479)
-
-Fretheimtunnelen-øst (1 363 m)
-
-Fretheimtunnelen-vest
-
-(Brekke bru)
- over Fv245, Flåmselvi og Flåmsbana, 255 m
-T-korning Flåm E16
-
-Flenjatunnelen (5 053 m)
-
-(Flenjatunnelen)
-T-korning Langhuso kryss
- Fv5626:
-
-(Vændplats)
-(Gudvangatunnelen-syd (11 428 m))
-
-Gudvangatunnelen-nord
-
-T-korning Gudvangen servicesenter
- Bensinstasjon: Shell
-
-(Ramsøy bru)
- Nærøydalselvi, 68 m
-T-korning Gudvangen E16
-
+T-korsning Fagernesbrue
+ 51 n: Vågå, Beitostølen
+ Valdresflye
+(Fagernes bru)
+ Neselvi, 59 m
