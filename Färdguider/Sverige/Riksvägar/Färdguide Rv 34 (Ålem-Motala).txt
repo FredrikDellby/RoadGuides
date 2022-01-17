@@ -494,3 +494,173 @@ Rondell Rimforsa Rv 34
  Sevärdhet: Trollegater, Hallstad ängar
  Bensinstation: INGO
  Hotell/Restaurang: Kinda Motell
+
+Korsning (enskild väg)
+
+(T-korsning (enskild väg))
+ Ej skyltad
+
+(Mitträcke upphör/börjar)
+
+(Mitträcke börjar/upphör)
+
+Rastplats Hackelboön
+Kinda / Linköping: (58.1640134,15.6795299)
+
+Bro över Kinda Kanal
+ 58.1683229,15.6776042
+ 58.169209,15.6774437
+
+T-korsning Hamra
+ Dal
+
+T-korsning Eda (enskild väg)
+ Ridskola
+
+T-korsning (enskild väg)
+ Endast skyltad nordgående
+
+Korsning Brokind Gård (enskild väg)
+ Melskog
+ Kinda Kanal, Brokinds Herrgård
+
+T-korsning Brokinds vägkors
+ Bestorp, Brokind
+ Stiftsgården Vårdnäs, Golf
+
+Parkeringsplats/Rastplats
+(främst för nordgående)
+(Bro över Kinda Kanal)
+
+Parkeringsplats/Rastplats
+(främst för sydgående)
+
+T-korsning (enskild väg)
+ Viggeby naturreservat
+
+T-korsning Karlemåla
+ Arnebo, Sundsmåla Gård
+
+Korsning Älgbosätter
+ Fjälla, Enskild väg
+
+Korsning Törneviks vägkors
+ Törnevik
+
+T-korsning (enskild väg)
+ Bergtäkt (endast förskyltad nordgående)
+
+Korsning Lökebo (enskild väg)
+ St. Gåra
+
+Parkeringsplats (främst sydgående)
+
+Korsning Rosenborg
+ Västerby, Arnebo
+ Västerby Golfbana
+
+Etapp: Rosenborg - Trp Ryd
+
+T-korsning (enskild väg)
+ Endast skyltad nordgående
+
+T-korsning Karlsberg
+ Målbäck, Enskild väg
+
+(Korsning (enskild väg))
+ Ej skyltad
+
+T-korsning Skeda Udde Rv 34
+ Haraldsbo, Skeda Udde
+ Lanthandel
+
+T-korsning Mutebo norrgård
+ Haraldsbo, Skeda Udde
+ Miniatyrjärnväg, Lanthandel
+
+T-korsning (enskild väg)
+ Bäck, Kerstinebo
+
+T-korsning Håckerstad
+ Skeda kyrka (ej skyltad sydgående)
+
+Korsning (enskild väg)
+ Siktesbo
+
+Korsning (enskild väg)
+ Mörby
+
+Parkeringsplats
+(nordgående riktning)
+
+T-korsning (Haddorp)
+ Syrorp
+
+Korsning Skeda NV
+ Sturefors, Slaka
+ Nykil
+
+Korsning (enskild väg)
+ Lilla Åby, Djurhem
+ Tollstorp
+
+T-korsning Karstorp
+ Berga
+
+T-korsning (enskild väg)
+ Bergtäkt, ej skyltad sydgående
+Parkeringsplats (sydgående)
+
+Kåparpsrondellen
+ [35]: Västervik, Lambohov
+ Sjukhus, Universitetet
+ Vikingstad
+
+Trafikonrollplats (nordgående)
+
+Mjärdevirondellen
+ Mjärdevi, Science Park
+ Jägarvallen, Djursjukhus
+
+Trp Ryd (Rondell)
+ Centrum, Flygplats
+ Ryd
+ Linköpings Universitet
+ Gamla Linköping (sevärdhet)
+ Bensinstation: Circle-K
+ Hotell/Restaurang: Scandic Linköping Väst
+
+Etapp: Trp Ryd - Trp Linköping Västra
+
+Trafikplats Ryd
+(sydgående riktning)
+ Centrum, Flygplats
+ Linköpings Universitet
+ Gamla Linköping (sevärdhet)
+
+Trp Malmslätt
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Malmslätt, Flygvapenmuseum
+
+(Järnvägsbro)
+ Södra Stambanan
+
+Trafikplats Wärö
+ Malmslätt, Malmen
+ Flygvapenmuseum
+
+Trp Linköping Västra-syd
+ E4 n: Stockholm, Norrköping
+
+Trp Linköping Västra-nord
+ E4 s: Helsingborg, Mjölby
+
+Bro över Svartån
+
+Trp Ljungsbro
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Ljungsbro, Cloetta
+ Bensinstation: Preem
+
