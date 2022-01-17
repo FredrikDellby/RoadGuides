@@ -527,7 +527,9 @@ T-korsning Rv 7/Skarsetvegen)
  Tuftebrui (seværdighet)
 (Gjennvinningsstasjon)
 
-Bru over : 60.5230062,8.1285998
+Bru over ?: 60.5230062,8.1285998
+
+(Bom for fjellovergang)
 
 (T-korsning Rennedalen)
  Lokal veg
@@ -538,5 +540,62 @@ Ustaeggen View Point
 
 Korsning Ustaoset stasjon
  Ustaoset stasjon
+Joker Ustaoset
+Bensinstasjon & Kiosk
 
+Ustaoset Rom og Hytteutleie
 
+(Bru over Lorthølbekken)
+Gjennvinningsstasjon (søndre side)
+
+Parkering (grus, søndre side)
+
+Bru over Øyneåni
+
+Parkering/Gjenvinning Uggen: (60.5039370, 7.9760371)
+ Søndre side
+
+Rasteplass Ustevatnet: (60.5048438, 7.9432087)
+ Søndre side
+
+Rasteplass Plassen
+
+(Jernbaneviadukt)
+ Bergensbanen
+T-korsning
+ Haugastøl stasjon
+
+Rasteplass Haugastøl (nordre side)
+
+Haugastøl Turistanlegg
+ Hotell mm
+Infoplass (nordre side)
+ Rallarvegen
+Bom for fjellovergang
+
+Ustekveikja bru II (15,5 m)
+ Ustekveikja
+
+Gretteberg Kafé
+Parkering/Gjenvinning (søndre side)
+Parkering Tursti (nordre side)
+
+Parkering/Vendplass
+Bom for fjellovergang
+(Bru over Ørteråne)
+
+(T-korsning Østerdammen)
+
+Rasteplass Østerdammen: (60.4781803,7.825788)
+
+Rasteplass Lægreidsfyllinga: (60.4615587,7.818304)
+
+T-korsning Fagerheim Fjellstove
+ Fagerheim Fjellstugu
+
+Krekkja bru (13 m)
+ Krækkjaungen
+
+Samegammene (souvenirs)
+
+Rasteplass Båtstjørne?: (60.4335389,7.7669212)
