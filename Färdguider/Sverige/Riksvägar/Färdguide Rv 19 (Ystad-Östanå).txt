@@ -191,7 +191,8 @@ T-korsning Karpalund N
  Isgrannatorp (endast skyltad sydgående)
 Korsning Lagerhusföreningen
  Kristianstad Företagsförening, Lokal väg
-(Järnvägsviadukt)
+					/)
+Järnvägsviadukt)
  Skånebanan
 
 (Bro över
@@ -211,7 +212,7 @@ Korsning Rv 19/Araslövsvägen
 (Dubbel) T-korsning Vinnö N
  Lokal väg, (Enskild väg)
 
-Korsning
+Korsning Färlöv Ö/kyrka
  Torsebo
  Önnestad, Färlövs kyrka
 Bensinstation: Din-X
@@ -219,7 +220,7 @@ Bensinstation: Din-X
 (T-korsning Färlövs skola)
  Färlövs skola, Lokal väg
 
-(T-korsning (lokal väg)): (56.07701915728369, 14.083033543567602)
+(T-korsning (lokal väg)): (56.0770192, 14.0830335)
  Alde International
 
 T-korsning Färlöv N
@@ -249,9 +250,67 @@ T-korsning (enskild väg)
  Hanaskogs Slott, Gård
 
 T-korsning Rv 19/Radhusvägen
+ Brukshundklubb, Lokal väg
 
 T-korsning Hanaskog S
  Gumlösa, Centrum
  Tarkett
 
+T-korsning Hanaskog N
+ Kviinge kyrka, Tarkett
 
+Bro över Almaån
+
+Korsning Knislinge S
+ Näsum, Sibbhult, Knislinge C
+ Hässleholm, Wanås slott
+ Industri: Södra
+
+T-korsning Rv 19/Brobyvägen
+ Näsum, Hjärsås, Centrum
+ Hässleholm, Wanås slott
+ Café, Rum & Frukost
+(T-korsning Rv 19/Stationsvägen)
+ Lokal väg, ej skyltad
+
+Korsning Ö. Göinge Golfklubb (lokal väg)
+ Ö. Göinge Golfklubb, Cafe Haack
+
+T-korsning
+ Gryt
+
+Rastplats Anilla
+
+Parkeringsplats
+(främst för nordgående)
+
+Korsning Kraftstationen (enskild väg)
+ Lerkärlet Krukmakeri
+
+T-korsning Nöbbelöv
+ Glimåkra, Broby S
+
+T-korsning (lokal väg): 56.2389852,14.0725166
+ Plåtslageri
+(Mitträcke börjar/upphör)
+
+Rondell Broby SV
+ 119 : Tingsryd, Lönsboda, Glimåkra
+ 119 : Hässleholm
+ Industri: Broby, Bastholmen
+
+Korsning Broby NV
+ Broby N
+ Tydinge, Tydingesjön (Badplats mm)
+
+(T-korsning
+
+(T-korsning
+
+Korsning Glimminge Rv 19
+ Njura, Glimminge
+ Hästveda
+
+Trafikplats Östanå
+ 23 n: Växjö, Älmhult, Osby
+ 23 s: Malmö, Hässleholm
