@@ -86,17 +86,38 @@ Parkeringsplats (östra sidan)
 Korsning Rödån (enskild väg)
  Missionshus, Auktionshall, Kisok/Café
 
+Korsning Rödån N (enskild väg)
+ Sjöbacka Camping
+
+(T-korsning Hästebacken)
+ Enskilda vägar
+
+Infopunkt (nordgående): 58.0901647,14.2005996
+
+Korsning Häldetorp
+ Amurliden, Enskild väg
+
 Korsning Brandstorp
- Tidaholm, Brandstorps K:a
+ Brandstorps K:a (sevärdhet)
+ Hökensås (vandring, natur)
+ Lanthandel, Hembygdsgård
+ Bensinstation: Q-star
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
-Jönköping / Västra Götaland
+Infopunkt (sydgående): 58.1223178,14.2170779
+
+T-korsning Backen väg 195
+ Ridcenter, Enskild väg
+
+Jönköping / Västra Götaland: (~58.1350169,14.2195074)
 Habo / Hjo
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
 Korsning Kolabotten
+ Krokstorps gård (enskild väg)
  Gate
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 T-korsning Gate N
  Gate
+ Bisonfarm, Konst
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 Korsning S. Fågelås
  S. Fågelås K:a
