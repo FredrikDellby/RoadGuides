@@ -1,49 +1,91 @@
-Trafikplats
- 26 s: Jönköping, Halmstad
- 26 n: Mariestad, Skövde
- 47 ö: Oskarshamn
+Etapp 1: Månseryd - Habo ()
+
+Trp Månseryd
+ 26 s: Halmstad
+ 26 n: Mariestad, Skövde, Mullsjö
+ Kortebo, Tokeryds Herrgård
+ 47 ö: Oskarshamn, Jönköping
  47 v: Trollhättan, Falköping
-Bensinstation: Preem
+ Bensinstation: Preem
 					3.0 km/2.8 km	2 min 0 s/1 min 52 s
-T-korsning Ekeryd
- Bankeryd
+(Bro över Lillån)
+
+Trp Ekeryd
+ Klerebo, Bankeryd C
+ Bankeryds kyrka, Bad
 (Järnvägsbro)
 					1.4 km/1.4 km	56 s/56 s
 T-korsning Bankeryd V
- Bankeryd
+ Bankeryd C, Industri
 					0.3 km/0.3 km	14 s/14 s
-Jönköping / Habo
+Jönköping / Habo: (57.86768,14.1029719)
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-T-korsning Fiskebäck
+Trp Ebbarp (enskild väg)
+ Domsand, Habo Camping, Fiskebäcks kapell
+ Ebbarp
+
+Trp Fiskebäck
  Fiskebäck
+ Infoplats Väst-Göta
 					0.3 km/0.3 km	14 s/14 s
-Rastplats Väst-Göta
-Restaurang: Västgöte Motell
-Bensinstation: Statoil
 					1.1 km/1.2 km	50 s/54 s
 Rondell Sjogarp
- Habo, Mullsjö
+ Sjogarp (lokal väg)
+ Mullsjö, Habo S C, kyrka
+
+Etapp 2:
 					2.0 km/2.0 km	1 min 20 s/1 min 20 s
-T-korsning
+Parkeringsplats (östra sidan)
+ Stora Kärrs Bokskog
+
+T-korsning (enskild väg)
  Munkaskog
+ Slättens idrottsområde
+ Restaurang: Lustfyllt
 					0.8 km/0.8 km	32 s/32 s
-T-korsning Habo NO
- Habo
+Korsning Tumbäck
+ Habo N, Bergtäkt
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 T-korsning Kvarnekulla
  Gustav Adolf
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
+T-korsning (enskild väg)
+ Fiskrökeri
+
 T-korsning Källebäcken
- Gustav Adolf
+ Gustav Adolf, Källebäcken
 					6.4 km/6.4 km	5 min 29 s/5 min 29 s
-(Fagerhult)
+(Korsning Norra Källebäcken)
+ Ringborg, Källebäcken (enskild väg)
+
+Korsning Bäckebo (enskild väg)
+ Grenen, Fiskrökeri
+
+T-korsning Fagerhult
+ Krämmeskog, Enskild väg
+
+Korsning Fagerhult
+ Lanthandel, Lokal väg
+
+T-korsning Fagerhult N (lokal väg)
+ Fagerhults belysning
+
+Korsning Bråten (enskild väg)
+ Karstorp, Bråten
+ Sved, Falks grav
 
 T-korsning Baskarp
- Svedåns hamn
+ Habo Plast, Lokal väg
 					1.1 km/1.1 km	50 s/50 s
-Korsning Sibbatorp
- Svedåns hamn
+T-korsning Sibbatorp (enskild väg)
+ Svedåns hamn, Baskarp Sand, Sibelco
+(Korsning Sibbatorp (enskild väg))
 					8.8 km/8.8 km	6 min 36 s/6 min 36 s
+Parkeringsplats (östra sidan)
+
+Korsning Rödån (enskild väg)
+ Missionshus, Auktionshall, Kisok/Café
+
 Korsning Brandstorp
  Tidaholm, Brandstorps K:a
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
