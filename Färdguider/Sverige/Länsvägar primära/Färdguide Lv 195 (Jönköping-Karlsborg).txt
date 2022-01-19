@@ -125,29 +125,47 @@ Korsning S. Fågelås
 T-korsning Linderyd
  193: Falköping, Tidaholm
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
-Korsning
+Korsning Isleryd (enskild väg)
+ Landbyvallen
+
+Korsning Trollebo (enskild väg)
  Hökensås Golfklubb
 					1.0 km/1.0 km	45 s/45 s
+(Parkeringsplats/grusväg)
 Korsning Korsgården
- Almnäs slott
+ Almnäs bruk, Enskild väg
 					1.3 km/1.3 km	59 s/59 s
 Korsning Myrebo
- N. Fågelås K:a
+ N. Fågelås K:a, Bed & Breakfast
+ Lidängen (enskild väg)
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+Korsning Norra Hulan
+ Mitt Broderi, Enskild väg
+ 
 T-korsning Hjo SV
- Hjo Centrum
+ Hjo S
+ Ringaberget (enskild väg)
 					1.6 km/1.8 km	1 min 12 s/1 min 21 s
 Rondell Hjo V
- Hjo Centrum
+ Hjo V, Centrum
  Korsberga
+ Infoplats
+ Bensinstation: INGO, St1
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+(Korsning Stampens Kvarn)
+ Lokal väg
+
+T-korsning Lv 195/Kapellvägen
+ Grebban
+
 Rondell Hjo NV
- Hjo Centrum
+ Hjo NV, Centrum
  194: Skövde
- 201: Mariestad, Tibro
+ [201]: Mariestad, Tibro
+ Trästaden, Infoplats
 					2.8 km/2.7 km	2 min 6 s/2 min 2 s
 T-korsning Hjo N
- Hjo
+ Hjo N
 					3.9 km/3.9 km	2 min 56 s/2 min 56 s
 T-korsning Grevbäck
  Grevbäck
