@@ -304,7 +304,7 @@ Trp Kinnekulle
  Götene
  44: Uddevalla, Lidköping
  Rastplats Götene
- Bensinstation: Preem (b)
+ Bensinstation: Preem, St1
  Restaurang: Rasta
 
 Etapp 19: Götene - Mariestad syd (23,8 km/23,4 km)
@@ -319,10 +319,10 @@ Korsning Boamarken
 Korsning Brännebrona
  Enskild väg
  Restaurang: Brännebrona Värdshus
-					1,0 km/1,0 km	45 s/45 s
+					0,6 km/0,6 km	27 s/27 s
 T-korsning Brännebrona N
  Betongvaror, Enskild väg
-
+					0,4 km/0,4 km	18 s/18 s
 Götene / Mariestad: (58.5829563,13.6132976)
 					1,2 km/1,2 km	54 s/54 s
 T-korsning Lilla Moholm
@@ -490,7 +490,7 @@ T-korsning Tubberud (enskild väg)
 					1,3 km/1,2 km	52 s/48 s
 Västra Götaland / Örebro: (58.8995426,14.3357213)
 Gullspång / Laxå
-Infopunkt (östgående)
+Infopunkt (östgående))
 					0,4 km/0,4 km	16 s/16 s
 Korsning Vallsjöbol
  Gårdsjö, Vallsjön
@@ -524,7 +524,7 @@ Korsning Hallebäck (enskild väg)
 T-korsning E20/Kolviksvägen
  Långsmon, Enskild väg
 					0,7 km/0,7 km	28 s/28 s
-Korsning Backgården Enskild väg
+Korsning Backgården (enskild väg)
  V/Ö Backgården
 					0,5 km/0,7 km	20 s/28 s
 Rastplats Borasjön
@@ -543,7 +543,7 @@ Korsning Laxå väst (lokal väg)
  Bensinstation: Q-star
 					1,0 km/1,1 km	51 s/57 s
 Rondell Laxå mitt
- 205: Askersund
+ 205 s: Askersund
  Bensinstation: INGO
  Restaurang: Rastpunkt Laxå, Burger King, Grindstugan
 
@@ -558,7 +558,7 @@ T-korsning E20/Venavägen (lokal väg)
  Bensinstation: Preem
 
 T-korsning Laxå Ö
- 205: Karlskoga
+ 205 n: Karlskoga, Degerfors
  Industri: ESAB, Storängen, Lindåsen
  Bensinstation: OKQ8 (b)
  Restaurang: Knuten
@@ -572,7 +572,7 @@ Korsning Stavåna
 T-korsning Nylandsvägen
  Hökaberg, Enskild väg
 					0,8 km/0,8 km	32 s/32 s
-Korsning Enskild väg
+Korsning (enskild väg)
  Gropbäcken, Bergtäkt
  Sandstubbetorp
 					0,4 km/0,5 km	16 s/20 s
