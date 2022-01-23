@@ -1015,3 +1015,68 @@ T-korsning Valstad (enskild väg)
 
 Parkeringsplats (främst nordgående)
 Korsning (enskild väg)
+
+(Parkeringsficka+korsning)
+
+Korsning Nyavida (enskild väg)
+ Vida gård
+ Råserum, Gursten, Vida
+
+(T-korsning E22/Björnsholmsv.
+(sydgående riktning)
+ Bilskrot, Lokal väg
+
+Korsning Björnsholm
+ 213: Loftahammar
+ Björnsholm, B&B, Bilskrot
+
+Korsning Björnsholm N
+ Hässelstad (enskild väg)
+ Överum
+
+(Infoplats (sydgående): (57.9612373,16.4458711)
+
+T-korsning Tindered (enskild väg)
+ Hjulby, Tindered, Hässelstad
+
+T-korsning Tindereds Rastplats
+ Bensinstation: Q-star
+ Restaurang: Tindereds Lantkök
+ Spa, Gårdsbutik, Naturstig
+
+T-korsning (enskild väg)
+(endast skyltad sydgående)
+
+Korsning (enskild väg)
+(endast skyltad nordgående)
+
+Korsning Helgenäs södra vsk
+ Helgenäs
+ Äventyrsfort, Byggvaror
+
+Korsning Helgenäs norra vsk
+ Sundby
+ Åtvidaberg, Falerum, Ukna, Edsbruk
+
+(Bro över Edsån)
+
+T-korsning Hälleberg (enskild väg)
+ Hälleberg (endast förskyltad sydgående)
+
+Korsning Skarpinge (enskild väg)
+ Träindustri
+ Skarpinge
+
+T-korsning Valtersten
+ Östra Ed, Långrådna,
+ Skeppsgården, Hulta
+
+Korsning Bällsjö (enskild väg)
+(ej förskyltad)
+
+T-korsning Hulta (enskild väg)
+ Hulta
+
+T-korsning Spångdalen
+ Enskild väg
+
