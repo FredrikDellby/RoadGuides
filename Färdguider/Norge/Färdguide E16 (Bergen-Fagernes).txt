@@ -67,6 +67,7 @@ Holagjel bru (74 m)
  Holaelva
 
 Kryss Herland
+ 566: Osterøy
 					/)
 Songstadtunnelen I)
  271 m
@@ -79,9 +80,11 @@ Songstadtunnelen II
 (Romslo bru IV)
  over dalsøkk, 81 m
 Kryss Romslo E16-syd)
+ Romslo
 (østgående retning)
 
 (Kryss Romslo E16-nord
+ Romslo
 (vestgående retning)
 (Romslotunnelen-vest)
  605 m
@@ -93,6 +96,129 @@ Risnestunnelen-vest
 Risnestunnelen-øst
 
 Rondell Trengereid rundkøyring
+ 49: Norheimsund, Hardanger (turistvei)
+ Trengereid
+ Rasteplass/Info
+ Kafe: Hjelle Bakeri Trengereid
+(Trengereidtunnelen-syd)
+
+(Trengereidtunnelen-nord)
+ 1 770 m
+Bergen / Vaksdal: (60.4389444,5.6343626)
+
+Stavenestunnelen-vest
+ 2 771 m
+
+Stavenestunnelen-øst
+
+Langhelletunnelen-vest
+ 926 m
+
+Langhelletunnelen-øst
+
+Kjenestunnelen (336 m)
+
+Bogetunnelen-syd
+ 2 036 m
+
+Bogetunnelen-nord
+
+T-korsning Vaksdal E16
+ Fv5408: Herfindal, Vaksdal
+ Bensinstasjon: Oljeleverandøren
+(Vaksdalselva bru)
+ Vaksdalselva, 34 m
+
+Jamnatunnelen-syd (791 m)
+
+Jamnatunnelen-nord
+
+Fossmarktunnelen (110 m)
+
+Kleinslåttunnelen (55 m)
+
+Hettetunnelen-syd
+ 626 m
+
+Hettetunnelen-nord
+
+Steganestunnelen (77 m)
+ Under Bergensbanen
+
+Stanghelletunnelen (202 m)
+
+T-korsning Stanghelle sør
+ Stanghelle, Daglegvarer
+ Kro: Slice Bistro & Bar
+
+Lågaskarstunnelen)
+ 314 m
+					/)
+T-korsning Helle sør
+ Helle
+					(/
+(Helletunnelen
+ 321 m
+
+(T-korsning Helle nord)
+Dalevågtunnelen-syd
+ 1 399 m
+
+Dalevågtunnelen-nord
+
+Dalegarden bru (204 m)
+ Daleelva og Bergensbanen
+
+Dubbel T-korsning Dalegården
+ Dalegarden, Industri: Dale sør
+ Industri: Dale nord
+ Parkeringsplass (lastbil), Bobilplass
+ Bensinstasjon: Shell, (Bunker Oil Dale)
+ Restaurant: Dale Outlet & Kafe, Camillas kro
+
+Beitlatunnelen-vest
+ 663 m
+
+(Beitlatunnelen-øst)
+T-korsning Dale stasjon
+ Dale stasjon
+
+T-korsning Dale E16
+ Fv5400: Bergsdalen, Dale sentrum
+ Dale of Norway - Factory Outlet
+ Restaurant: 2 Bror Pizza, Petersens Handleri
+
+T-korsning Dalseid
+ 569: Romarheim, Mo
+(Dalseidtunnelen-vest)
+ 1 809 m
+
+Dalseidtunnelen-øst
+
+Rasteplass Furnestreet
+(Treselva bru (Djupevikelva, 21 m)
+
+Trollkonetunnelen-vest
+ 734 m
+
+(Trollkonetunnelen-øst)
+T-korsning Verpelstad
+ Verpelstad
+(Kluftafjellstunnelen-vest)
+ 467 m
+
+Kluftafjellstunnelen-øst (467 m)
+
+Hyvingstunnelen-vest
+ 1 347 m
+
+Hyvingstunnelen-øst
+
+Bolstadtunnelen bomstasjon: (60.6355367,5.9409526)
+ takst 47,- / 99,-
+					(/
+(Bolstadtunnelen
+ 387 m
 
 ========================================
 T-korning Gudvangen E16
