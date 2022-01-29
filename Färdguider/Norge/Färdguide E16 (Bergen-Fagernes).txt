@@ -214,11 +214,55 @@ Hyvingstunnelen-vest
 
 Hyvingstunnelen-øst
 
+(Vaksdal / Voss)
+
 Bolstadtunnelen bomstasjon: (60.6355367,5.9409526)
- takst 47,- / 99,-
+ takst 47/99 kr
 					(/
 (Bolstadtunnelen
  387 m
+(Jernbaneviadukt)
+ Bergensbanen
+
+T-korsning Bolstadøyri E16
+ Bolstadøyri
+ stasjon, rom
+
+(Vassenden buss hpl)
+
+Vassendatunnelen (206 m)
+
+Kort tunnel
+
+(Storevik bru I)
+ over dalsøkk, 98 m
+Nakkagjelstunnelen (209 m))
+					/)
+Holemarktunnelen-syd
+ 457 m
+
+Holemarktunnelen-nord
+
+Holemark Rasteplass
+
+Hernestunnelen-vest
+ 519 m
+
+Hernestunnelen-øst
+
+Væletunnelen-vest
+ 458 m
+
+Væletunnelen-øst
+
+(Evanger bru II)
+ Vosso sideløp, 48 m
+T-korsning Evanger E16
+ Evanger stasjon
+ Fv5410: Eksingedalen, Brekkehus, Evanger
+ Daglegvarer, Kunstcafe ()
+(Evanger bru I)
+ Vosso, 112 m
 
 ========================================
 T-korning Gudvangen E16
