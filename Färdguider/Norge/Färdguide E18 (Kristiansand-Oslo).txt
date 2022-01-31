@@ -702,25 +702,33 @@ Etapp 20: Sørenga - Nøstvet (18,1 km/18,6 km)
 Kryss Grønlikaia (2)
 (avfart sydgående riktning
 påfart nordgående riktning)
+ Ekeberg
+					(/
 Kryss Grønlia
 (avfart nordgående riktning
 påfart sydgående riktning)
- Ring 1
+ [E6 n]: Trondheim
+ Ring 1: Sentrum Ø, Ekeberg
 					0,3 km/0,6 km	14 s/27 s
 Kryss Sjursøya
- Kongshavn
+ Sydhavna
 					1,4 km/1,0 km	1 min 3 s/0 min 45 s
-Påfart (nordgående)
-Bomstasjon Mosseveien
-(nordgående riktning)
+Bomstasjon Mosseveien: (59.8858295,10.7680326)
+(fremst vestgående retning)
+Påfart (vestgående)
 					0,4 km/0,4 km	21 s/21 s
 T-korsning E18/Ormsundv.
-(Bensinstasjon: YX)
-(sydgående riktning)
+ Malmøya, Ormøya
+Bensinstasjon: YX (østgående)
 					1,1 km/1,1 km	1 min 6 s/1 min 6 s
 T-korsning E18/Ulvøybroen
+ Ulvøya
 					0,9 km/0,9 km	54 s/54 s
-T-korsning E18/Nordstrand
+T-korsning E18/Furubråtveien
+ Ikke skiltet
+
+T-korsning E18/Nordstrandv.
+ Nordstrand
 					0,7 km/0,7 km	42 s/42 s
 T-korsning E18/Ljabruveien
 					1,4 km/1,4 km	1 min 24 s/1 min 24 s
@@ -731,13 +739,14 @@ Herregårdskrysset
 					1,7 km/1,6 km	1 min 7 s/1 min 12 s
 Mastemyrkrysset
  152:
-(Oslo / Oppegård)
+					/)
+Oslo / Norde Follo)
 					1,6 km/1,2 km	1 min 12 s/0 min 54 s
 Nydammen bru (121 m)
 					2,2 km/2,8 km	1 min 33 s/2 min 6 s
 Rasteplass Svartskog
 					3,9 km/3,2 km	2 min 56 s/2 min 24 s
-Oppegård / Ås
+Norde Follo / Ås
 					0,5 km/0,9 km	23 s/41 s
 Ringneskrysset
  156: Tusenfryd, Greverud
