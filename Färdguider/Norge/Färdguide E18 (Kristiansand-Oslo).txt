@@ -650,46 +650,75 @@ Strandkrysset (13)
  Bensinstasjon: Shell
 					1,5 km/1,6 km	1 min 8 s/1 min 12 s
 Lysakerkrysset (12)
- 166: Fornebu
- 150-Ring 3: Sinsenkrysset
+ 166: Snarøya, Fornebu
+ 150-Ring 3: Smestad
+ Hotell: Fornebuområdet
 
 Etapp 19: Lysaker - Sørenga (9,0 km/8,3 km)
 					0,8 km/0,8 km	36 s/36 s
+(Lysakerlokket (264 m))
 Kryss Lysaker torg (11)
-(ej avfart östgående)
-Bærum / Oslo
-Avfart Lilleakerveien (10)
+(ej avrampe østgående)
+ [160]: Jar, Bekkestua, Lysaker
+					/)
+(Lysakerelva bru)
+ Lysakerelva, 61 m
+(Viken / Oslo)
+(Bærum / Oslo)
+Avrampe Lilleakerveien (10)
 (västgående riktning)
+ Lilleaker, Sollerud
+ Lysaker stasjon
+Avrampe Værkerø V (11)
+(østgående)
+ Sollerud
+ 160, [Ring 3]: Smestad, Værkerø
 					0,6 km/0,7 km	27 s/32 s
 Værkerøkrysset (9)
- 160:
+(ej avrampe østgående)
+ [Ring 3]: Smestad
+ 160: Værkerø
+ Camping Bogstad
 					1,0 km/0,3 km	45 s/27 s
-Serviceplass Værkerø
-(västgående riktning)
- Bensinstation: Shell
+(Avrampe/pårampe Vennersborgveien
+(vestgående retning)
+
+(Serviceplass Værkerø (vestgående)
+ Bensinstation: YX
 					0,6 km/0,9 km	27 s/41 s
-(Maritim bomstasjon)
-(östgående riktning)
+
 Kryss Sjølyst (8)
- Ring 2: Majorstuen, Carl Berners pl.
+ Ring 2: Skøyen, Majorstuen
  Bensinstasjon: Circle-K, Esso
  Restaurang: McDonald's
- Hotel: Scandic
-(Sjølysttunnelen (167 m))
+ Hotell: Scandic Sjølyst
+(Maritim bomstasjon (østgående))
+					/)
+Sjølysttunnelen (167 m))
 					1,0 km/0,8 km	51 s/41 s
 Kryss Frognerkilen (7)
- Bygdøy
+ Bygdøy, Museer
 					1,5 km/1,5 km	1 min 17 s/1 min 17 s
 Kryss Hjortnes (6)
- Färja: Kiel
-					0,7 km/0,8 km	32 s/36 s
-Vestbanekrysset (5)
- 162, Filipstad
-(Operatunnelen-vest)
-					1,7 km/1,4 km	1 min 17 s/1 min 3 s
+ Sentrum V/Ø, Hjortnes
+ Færge: Kiel (Color Line)
+					0,7 km/)	32 s/)
+Kryss Filipstad (5))
+(avrampe østgående retning
+pårampe vestgående retning)
+ Ring 1: Sentrum V
+					/0,8 km	(/36 s
+(Operatunnelen-vest
+					(/
+(Vestbanekrysset (5)
+(avrampe vestgående retning
+pårampe østgående retning)
+ Ring 1: Sentrum V
+					(/1,7 km/1,4 km	1 min 17 s/1 min 3 s
 Kryss Festningskaia (4)
  Oslo-sentrum
- Färja: København, Frederikshavn
+ Færge: København, Frederikshavn
+ Oslo sentralstasjon
 					1,3 km/0,8 km	59 s/36 s
 Kryss Sørenga-vest (3)
 (avfart östgående riktning
@@ -714,8 +743,7 @@ Kryss Sjursøya
  Sydhavna
 					1,4 km/1,0 km	1 min 3 s/0 min 45 s
 Bomstasjon Mosseveien: (59.8858295,10.7680326)
-(fremst vestgående retning)
-Påfart (vestgående)
+Pårampe (vestgående)
 					0,4 km/0,4 km	21 s/21 s
 T-korsning E18/Ormsundv.
  Malmøya, Ormøya
@@ -731,16 +759,22 @@ T-korsning E18/Nordstrandv.
  Nordstrand
 					0,7 km/0,7 km	42 s/42 s
 T-korsning E18/Ljabruveien
+(kun adgang vestgående)
 					1,4 km/1,4 km	1 min 24 s/1 min 24 s
-T-korsning E18/Gradvollveien
+(T-korsning E18/Gradvollveien)
 					0,9 km/1,5 km	0 min 46 s/1 min 17 s
 Herregårdskrysset
- 155:
+ 155: Enebakk, Holmlia
+ Nordstrand, Ingerstrand
+(Bomstasjon Fiskevollbukta)
+(vestgående retning)
 					1,7 km/1,6 km	1 min 7 s/1 min 12 s
-Mastemyrkrysset
- 152:
-					/)
 Oslo / Norde Follo)
+					(/
+Mastemyrkrysset
+ 152: Kolbotn
+ Industri: Mastemyr
+ Hotel: Quality Hotel Entry
 					1,6 km/1,2 km	1 min 12 s/0 min 54 s
 Nydammen bru (121 m)
 					2,2 km/2,8 km	1 min 33 s/2 min 6 s
@@ -749,9 +783,11 @@ Rasteplass Svartskog
 Norde Follo / Ås
 					0,5 km/0,9 km	23 s/41 s
 Ringneskrysset
- 156: Tusenfryd, Greverud
+ 156, [152]: Oppegård, Langhus
+ [E6 n]: Oslo N/Ø
+ TusenFryd
 					0,8 km/0,6 km	36 s/27 s
 Kryss Nøstvet (22)
- E6 n: Trondheim, Oslo-øst
+ E6 n: Trondheim, Oslo (N/Ø)
 (avfart västgående riktning
 påfart østgående riktning)
