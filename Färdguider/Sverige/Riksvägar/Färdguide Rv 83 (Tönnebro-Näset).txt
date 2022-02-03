@@ -356,24 +356,104 @@ T-korsning Kramsta hällar (lokal väg)
 Bensinstation: INGO
 (Järvsöbaden grusplan)
 
-Dubbel T-korsning Järvsöbaden
+Korsning Järvsöbaden S
  Lokal väg
+
+Dubbel T-korsning Järvsöbaden N
+ Järvsö Bibliotek, Lokal väg
 
 Korsning Rv 83/Stationsg.
  Hälsocentral
-Järvsö Bibliotek
 
 T-korsning Rv 83/Vallmovägen (lokal väg)
  Bergshotellet, Järvsö Zoo, Rovdjurscentrum
 
 T-korsning Rv 83/Stenevägen
  Delsbo, Järvsö station
+					(/
 (T-korsning Rv 83/Anders-Persv.)
- Café: Anders-Pers Fikabod
-
+ Café: Anders-Pers Fikabod, Lokal väg
+					/)
 Pizza Stugan
-
+					(/
 Sibylla
 Korsning Rv 83/Stationsg. (norra)
-Järvsö pizzeria
-Öje Grill & Kiosk
+(endast skyltad nordgående)
+ Järnvägsstation, Turistbyrå
+					/)
+Järvsö pizzeria/Öje Grill & Kiosk
+					(/
+(Korsning Rv 83/Friskasvägen)
+ ICA Supermarket, Lokal väg
+					/)
+T-korsning Rv 83/Industrivägen
+(endast skyltad sydgående)
+ Järnvägsstation, Turistbyrå
+
+Järvsö Camping & Stugor
+Järvsö Gårdsbageri
+
+T-korsning Järvsöbacken
+ Rödmyra, Järvsöbacken (skidanl.)
+ Öjeberget (rest.), Alpbyn (stugor)
+
+Korsning Rv 83/Skästra byv.
+ Växthusen i Våga, Stuga (lokal väg)
+
+Rastplats Järvsö (främst sydgående)
+
+Korsning Skästra
+ Ö Skästra, Lantbruksmaskiner
+ V Skästra, Blommor och bär
+
+Korsning Skästra N
+ Ygskorset, Sjövästa
+
+(Bro över ...): (61.7533201,16.1607936)
+
+Parkeringsplats (främst nordgående)
+
+Korsning Ede (enskild väg)
+ Shabby Chic Boden
+
+T-korsning Rv 83/Bodavägen
+ Hembygdsgård, Enskild väg
+
+Parkeringsplast (grus)
+(främst för nordgående)
+
+(Korsning Ljusdals Boda)
+ Enskild väg
+
+(T-korsning Storhaga S)
+ Storhaga, Enskild väg
+
+T-korsning Storhaga
+ Sjävästa
+
+Avfart Älvstoppet
+(nordgående riktning)
+ Rastplats Ljusdal
+ Restaurang: Älvstoppet
+ Bensinstation: Q-star
+
+Rondell Ljusdal S
+ 84 v: Sveg, Kårböle, Färila
+ Industri: Stavsätter
+Korsning Stavsätter (lokal väg)
+ Rastplats Ljusdal
+ Restaurang: Älvstoppet
+ Bensinstation: Q-star
+					(/
+Bro över Ljusnan
+					/)
+T-korsning Rv 83/84/Kyrksjönäsv.
+ Älvvallen, Folkpark, Lokal väg
+ Hembygdsgård (rest.)
+
+T-korsning Rv 83/Högastigen (lokal väg)
+ Parkering: Ljusdals kyrka
+
+T-korsning Ljusdals kyrka
+ 84 ö: Hudiksvall, Centrum, Sjukhus
+

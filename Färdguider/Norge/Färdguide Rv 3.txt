@@ -364,3 +364,67 @@ Mælen bru (49 m): (62.2824995, 10.7266326)
 Korsning Motrøkrysset: (62.2888553, 10.7383360)
  30: Røros, Rendalen, Tynset
 
+T-korsning Midtmoen
+ Fv2248: Tynset (ikke skiltet)
+
+Kjettingplass Strøsand: (62.3386203, 10.6879745)
+(på østre side)
+
+Parkeringsplass/Gjennvinning: (62.3425429, 10.6814439)
+(fremst før sydgående)
+
+T-korsning Lonåskrysset
+ Fv2246: Lonås
+(Tunna bru)
+ Tunna, 31 m
+
+Bru over Tunna
+
+(T-korsning Fossbakken Rv 3)
+ Bru til landgård, ikke skiltet
+
+Parkerings/lasteplass: (62.3685572, 10.5821646)
+(kan være tilfellig)
+
+Kvikneskogen: (62.3659395,10.5623134 / 62.3656317,10.5591)
+ veiens høyeste punkt, 733 moh.
+
+T-korsning Nyheim
+ Sørsjøen, Røstvangen Gruver
+
+Rasteplass Nesodden: (62.3983739,10.4300225)
+
+T-korsning Tørresvangen
+ Gårdsysteri, ikke skiltet
+(Bru over ...)
+
+Korsning Solvang grendehus
+ Klebersteinsbrudd (seværdighet)
+ Gjennvinningsstasjon
+
+Parkeringsplass: (62.4465634, 10.3982711)
+(vestre side, direkte intill vegen)
+
+Rasteplass Vektplassen
+
+T-korsning Estensmo
+ Kvikne Fjellpark (hotell/hytter)
+
+Estensmo bru (Orkla, 49 m)
+
+T-korsning Kleven
+ Storinnsjøen
+
+Parkeringsplass Eidsfossen: (62.5168304,10.3788389)
+
+(Bru over Fuglåsbekken)
+
+T-korsning Granenget Kvikne
+ Kviknehytta
+
+Graneng bru (28 m)
+ Orkla
+
+(T-korsning)
+ Kviknehytta
+
