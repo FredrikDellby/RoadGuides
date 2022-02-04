@@ -547,46 +547,16 @@ Trp Stockvik (224)
 Infoplats (nordgående)
  Info om vägtullar
 
-Trp Skönsmon (225)
+Trp Skönsmon (225))
 (nordgående riktning)
  E14: Trondheim, Östersund
-(Sundsvallsbron-syd
+Sundsvallsbron-syd): 62.3819604,17.3522626
  2109 m
 (Vägavgift Sundsvallsbron)
 
-Trp Skönsmon (225)
+(Trp Skönsmon (225)
 (sydgående riktning)
 
-Trp Skönsberg (226)
-(nordgående riktning)
-
-Sundsvallsbron-nord)
- 2109 m
-Trp Skönsberg (226)
-(sydgående riktning)
-
-Trp Gärdedalen (227)
-
-Trp Birsta Syd
-(avfart nordgående riktning
-påfart sydgående riktning)
-
-Trafikplats Birsta (230)
-
-Rastplats Skönviksberget
-
-Trafikplats Timrå (231)
-
-Busshållplats Timrå E4 (avfart, båda riktningar)
-
-Trafikplats Vivsta (232)
-
-Trp Sörberge (233)
-
-Bro över Indalsälven (400 m)
-
-Trp Midlanda (234)
- Sundsvalls Flygplats
 
 
 Gamla E4 (Njurunda - Sundsvall)

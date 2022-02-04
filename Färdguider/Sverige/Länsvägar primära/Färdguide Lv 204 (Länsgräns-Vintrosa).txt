@@ -104,4 +104,87 @@ Korsning Mullhyttan Kvarnen
 T-korsning Lv 205/Tryggebodav.
  Enskild väg
 T-korsning Lv 205/Stationsvägen
- 
+ All
+
+Dubbel T-korsning Mullhyttans kyrka
+ Parkeringsplats
+ Furuhöjden
+
+T-korsning Ljungstorp
+ Bålby, Stockås
+ Butiken på landet
+ Bildemontering, Torvindustri
+
+T-korsning Ljungstorp östra
+ Lekhyttan
+
+Korsning Övratorp (enskild väg)
+ Jannelunds Gård
+ Motorcafé
+
+T-korsning Skärlingtorp
+ Vekhyttan
+
+(Bro över Lillån): 59.1590372,14.780025
+
+Dubbel T-korsning Kvistbro kyrka
+ Edsberg, Cafélins Magasin
+ Kvistbro kyrka
+
+Tankställe Gropen
+ Bensinstation: Q-star
+ Butik: Återbruket
+
+T-korsning Gropen (lokal väg)
+ Industri: Gropen
+
+Dubbel T-korsning Fjugesta V
+ Fjugesta C
+ Industri: Tegelbruket
+ Sannabadet
+ Västanbytorp, Västanby (enskild väg)
+ Westmans stenhuggeri, Leksaksmuseum
+
+Korsning Lv 204/Bergsgatan
+ Industri: Berga (lokal väg)
+ Sparbanksbörsen
+ Kälkesta (enskild väg)
+
+T-korsning (enskild väg)
+ Berga gård, Äggbod
+
+Korsning Brånsta
+ Fjugesta N, Trioplast
+ Kinkhyttan, Brotorp
+
+Bro över Svartån
+					/)
+T-korsning Hidingebrovägen
+ Hildingebro, Enskild väg
+ Kökssnickeri, Bygghandel, Handelsträdgård
+
+T-korsning Sälven
+ Hidinge, Veterinär
+
+Korsning Haga Hidingebro
+ Hidinge Gamla K:a, Hidingegård (enskild väg)
+ Lanna
+
+(Korsning)
+ Vombo, Enskild väg
+ Lanna Potatis
+
+(Lekeberg / Örebro)
+
+(T-korsning)
+ Enskild väg, ingen skyltning
+Rondell Via/Lanna
+ Örebro, Vintrosa kyrka
+ Karlskoga, Lekhyttan
+
+Trp Vintrosa-syd
+ E28 ö: Stockholm, Örebro
+
+Trp Vintrosa-nord
+ E18 v: Oslo, Karlskoga
+ Garphyttan, Vintrosa

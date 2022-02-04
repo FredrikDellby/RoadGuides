@@ -1,0 +1,102 @@
+Färdguide Lv 201 (Hjo - Mariestad)
+===================================
+
+T-korsning Gråhall
+ 194 ö: Hjo
+ 194 v: Skövde, Värsås
+
+(Korsning Stora Ruder)
+ L:a Ruder, Enskild väg
+
+T-korsning Oskarsberg
+ Mofalla
+
+Korsning (enskild väg)
+ Jaktsktttebana, Alkärrstorp
+
+(T-korsning (enskild väg)
+ Jubberud
+
+T-korsning Ruder
+ Spännefalla, Kårtorp
+ Lilla Spännefalla gårdsbutik
+ Ruders Egendom (hotell)
+
+Parkering: Kyrkogård C
+
+T-korsning (enskild väg)
+ Bäckafallet
+ Parkering: Kyrkogård N, Gravkapell
+========================
+T-korsning Mo kyrka
+ Mo kyrka
+
+T-korsning Fägrevägen
+ Fägre
+
+T-korsning Moholms Herrgård
+ Moholms Säteri/Herrgård, Enskild väg
+
+Dubbel T-korsning Idrottsplatsen
+ Moholms skola, Idrottsplats (lokal väg)
+ Sträte (enskild väg)
+
+Järnvägsviadukt
+ Västra Stambanan
+
+Dubbel T-korsning Moholm (lokal väg)
+ Tingsholm, Tygbutik
+ Marinservice, Humstorps Metall
+ Bensinstation: GP
+
+T-korsning Lv 201/Falkvägen
+ Krabbängsgården, Lokal väg
+
+Rondell Hjälstads kyrka
+ 200 n: Töreboda
+ 200 s: Skövde
+
+Korsning Rölsa
+ Tomten
+
+Korsning Stenbrottet
+ Hallansberg, Säckestad
+ Odensåker
+
+Töreboda / Mariestad: (58.6221934,13.9392443)
+
+T-korsning (enskild väg)
+ Ebbetorp
+
+Korsning Julakorset
+ Jula
+ Tidavad
+ Veterinärstation, Betongfabrik
+
+T-korsning Segerstad
+ Jula
+
+Korsning Ullervads kyrka
+ Bengtstorp
+ Ullervad
+
+T-korsning Ulriksdal
+ Ullervad, Ridanläggning
+
+Trp Ullervad-syd
+ E20 ö: Stockholm, Örebro
+ 26 n: Kristinehamn, Gullspång
+					(/
+Trp Ullervad-nord
+ E20 v: Göteborg, Skara
+ 26 s: Jönköping, Skövde
+T-korsning Sandbäcken
+ Rasteplats, Lokal väg
+ Bensinstation: Circle-K
+
+Rondell Grangärdet
+ Sjukhus
+ Industri: Katrinefors
+ KK AB, Electrolux
+ Vandring, Golfbana, Camping, Bad
+
