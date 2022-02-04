@@ -247,7 +247,7 @@ Etapp 23: Tönnebro - Söderhamn södra (26,7 km/26,2 km)
 Korsning (enskild väg)
  Vändplats
 					3.7 km/3.7 km	2 min 28 s/2 min 28 s
-Väghållningsplats (nordgående): 61.1055104,17.000267
+(Väghållningsplats (nordgående)): 61.1055104,17.000267
 
 Korsning (enskild väg)
  Vändplats
@@ -258,6 +258,8 @@ Rastplats Sörbränningen
 Korsning (enskild väg)
  Vändplats	
 					3.0 km/3.1 km	2 min 0 s/2 min 4 s
+(Väghållningsplats (sydgående))
+
 Parkering Norrbränningen
 (sydgående riktning)
 
@@ -267,23 +269,25 @@ Korsning (enskild väg)
 Korsning (enskild väg)
  Vändplats
 					1.7 km/1.8 km	1 min 8 s/1 min 12 s
-Väghållningsplats (sydgående): 61.205278,17.0477503
+(Väghållningsplats (sydgående)): 61.205278,17.0477503
 
 Trp Sörljusne (204)
  Ljusne
 					2.5 km/2.7 km	1 min 40 s/1 min 48 s
-Väghållningsplats (nordgående)
+(Väghållningsplats (nordgående))
 
 Korsning (enskild väg)
  Höljebro kraftverk, Vändplats
 
-Ljusnan (200 m)
+Bro över Ljusnan (200 m)
 					1.1 km/0.8 km	44 s/32 s
-Väghållningsplats (sydgående)
+(Väghållningsplats (sydgående))
 
 Trp Höljebro (205)
  Ljusne
  Onsäng, Söderdala
+					/)
+(Väghållnings/Vändplats (nordgående))
 					2.5 km/2.4 km	1 min 40 s/1 min 36 s
 T-korsning (enskild väg)
 (endast skyltad sydgående)
@@ -346,86 +350,162 @@ Trp Hälsingtuna (216)
  Ilsbo
 					2.1 km/2.0 km	1 min 24 s/1 min 20 s
 T-korsning Masbo vägskäl
- Hudiksvall N
- Bensin: OKQ8
+ Hudiksvall N, Hornslandet
+ Hölick (Camping/bad/stugor)
+ Travbana
 					4.3 km/4.4 km	2 min 52 s/2 min 56 s
-Korsning Välsta
- Strömsbruk, Välsta
+Korsning (enskild väg)
+ Brobackarna
+
+Parkering/Infoplats Tjurmyran
+
+Korsning Välsta gård (enskild väg)
+ Solkebo
+ Klostret
+
+Korsning Välsta (Silja)
+ Stocka, Strömsbruk, Via
+ Silja, Bildemontering
 					0.7 km/0.8 km	28 s/32 s
-T-korsning
+T-korsning (ej skyltad)
+ Enskild väg
 					6.3 km/6.2 km	4 min 12 s/4 min 8 s
-Hudiksvall / Nordanstig
+Korsning Steg (enskild väg)
+ Långsjön
+ Steg
+
+(Väghållningsplats (nordgående))
+
+Hudiksvall / Nordanstig: (61.8625219,17.2058705)
 					5.5 km/5.5 km	3 min 40 s/3 min 40 s
+
+Korsning (enskild väg)
+ Långtjärn (fiske)
+ Sågberget
+
+Driftvändplats (sydgående)
+
+(Driftvändplats (nordgående))
+2+1-väg upphör/börjar: (61.8926084,17.1887)
+
 Korsning Vattrång
- Vattlång
+ Uti änget (enskild väg)
+ Svedja
 					0.8 km/1.2 km	0 min 41 s/1 min 2
-Rastplats Harmånger
-(nordgående riktning)
 					1.3 km/0.9 km	1 min 7 s/0 min 46 s
-T-korsning Harmånger S
- Harmånger
- Bensinstation: Statoil
+T-korsning Harmånger/Bringsta
+ Stering, Enskild väg
 					0.6 km/0.6 km	43 s/43 s
 Korsning Harmånger V
- Lönnånger, Harmånger
- Ilsbo
+ Strömsbruk, Stocka
+ Vattlång
+ Rastplats Harmånger
+ Restaurang/Hotell: Värdshuset 17 Rum & Kök
+ Röstabadet
+(Påfart (nordgående))
+
+Bro över Harmångersån
+
+Korsning Harmånger N (enskild väg)
+ Nordanå, Nygårdens B&B
+ Restaurang: Gröna Huset, E4 Pizzeria
 					4.3 km/4.3 km	3 min 41 s/3 min 41 s
-T-korsning Älvsta
- Jättendal
+T-korsning Nybyn
+ Älvstagården
 					0.6 km/0.6 km	31 s/31 s
-Korsning Dvästa (enskild väg)
- Bensinstation: OKQ8
+Korsning Dvästa (lokal väg)
+ Bensinstation: Macken
 					0.9 km/0.9 km	46 s/46 s
 Korsning Jättendal
- Hårte
- 307: Stöde, Hassela
+ Mellanfjärden
+ 307: Hassela, Bergsjö
+ Sjömärket (hotell/rest.), Turistbyrå
+Parkeringsplats (sydgående)
 
 Etapp 26: Jättendal - Länsgränsen (21,1 km/21,1 km)
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
-Järnvägskorsning
+Korsning Sandbäcken (ej skyltad)
+ Enskild väg
+
+T-korsning (enskild väg)
+ Böle, Motorbana
+
+Järnvägsviadukt
+ Ostkustbanan
 					4.1 km/4.1 km	3 min 5 s/3 min 5 s
+Korsning Bäling (enskild väg)
+ Bäling, Bergmanplast
+
+(T-korsning)
+ Milsten, Enskild väg
+
+T-korsning Rödsbacken
+ LGL Maskin, Lokal väg
+
 Korsning Gnarp Böle
- Sörfjärden
- Gnarp
+ Sörfjärden, Gnarpsbaden
+ Gränsfors, Gnarp
+ Infoplats, Gränsfors Bruk
+ Bensinstation: Circle-K
+ Restaurang: Gnarps Pizzeria
+Avfart (sydgående)
+ Bensinstation: Circle-K
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
 Korsning Gnarp OKQ8
  Norrfjärden
  Gnarp
+ Bensinstation: OKQ8
+ (Hotell: Berggårdens Gästgiveri)
 					0.4 km/0.4 km	18 s/18 s
-Järnvägskorsning
+Järnvägsviadukt
+ Ostkustbanan
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
+2+1-väg börjar/upphör: (62.0629667,17.2656167)
+
+(f.d. Parkeringsplats)
+(sydgående riktning)
+
+Korsning (enskild väg)
+ Vändplats
+
+(f.d. Parkeringsplats)
+(sydgående riktning)
+
 Korsning Tjärnvik vägskäl
- Grytte
+ Norrfjärden
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+(Parkeringsficka, extra bed)
+(nordgående riktning)
+Bro över Dyrån
 
-
-===================================================================
 T-korsning Årskogen E4
+ Årskogen
+ Gårdsjön (enskild väg)
 					3.1 km/3.1 km	2 min 20 s/2 min 20 s
-					1.1 km/1.1 km	50 s/50 s
 Väghållningsplats (nordgående)
-
+					1.1 km/1.1 km	50 s/50 s
 Gävleborg / Västernorrland: (62.1533771,17.3485469)
 Nordanstig / Sundsvall
 (Väghållningsplats (sydgående))
-(Korsning (enskild väg))
+Korsning (enskild väg)
  Ej skyltad
 
 Etapp 27: Länsgränsen - Sundsvall (26,6 km/26,5 km)
 					6.6 km/6.8 km	4 min 24 s/4 min 32 s
 Rastplats Armsjön (sydgående)
+(Dubbel T-korsning Skedlovallen fäbodar)
+ Enskild väg, ej skyltad
 
 Trafikkontrollplats Armsjön
 (främst för nordgående)
-
-Väghållningsplats (sydgående)
+(Väghållningsplats (sydgående))
 
 Parkeringsplats (sydgående)
 
 T-korsning (enskild väg)
  Nyråviken
 
-Serviceplats (grusväg, sydgående)
+(Serviceplats (grusväg, sydgående))
 
 Korsning (enskild väg)
  Igeltjärn
