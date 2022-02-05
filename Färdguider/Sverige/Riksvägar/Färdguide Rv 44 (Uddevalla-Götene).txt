@@ -3,10 +3,13 @@ Reseguide Rv 44 (Uddevalla - Götene)
 
 Etapp 1: Genom Uddevalla ()
 
-Torpmotet
- E6: Oslo
- E6: Göteborg
+Södra Torpmotet-väst
+ E6 s: Göteborg
  161: Lysekil
+ [160]: Orust, Tjörn
+
+Södra Torpmotet-öst
+ E6 n: Oslo
 					0.8 km/0.4 km	58 s/29 s
 Korsning Herrestad V
  Herrestad
@@ -16,16 +19,18 @@ Korsning Kissleberg
  Herrestad
 					1.2 km/1.2 km	1 min 2 s/1 min 2 s
 Rondell Kärra
- Kurveröd
-Bensinstation: OKQ8
+ Industri: Fröland, Hamn
+ Kurveröd, Stadshuset
+ Bensinstation: OKQ8, Tanka
 
 Kärratunneln
 					1.4 km/1.7 km	0 min 56 s/1 min 8 s
 Sörvikstunneln
 					0.9 km/1.4 km	36 s/56 s
 Brattåsmotet
- Centrum
- Norra Uddevalla
+ Norra Uddevalla, H Hamnen
+ Industri: Kasen, Stadshuset
+ Bensinstation: INGO
 					1.1 km/0.9 km	44 s/36 s
 Fjällvägsmotet
  Centrum, Södra Uddevalla
@@ -34,13 +39,15 @@ Fjällvägsmotet
 Kurödsmotet
  172: Bengtsfors, Färgelanda
  Östra Uddevalla
+ Industri: Kuröd, Lillesjö
+ Bensinstation: Shell
 					1.3 km/1.3 km	52 s/52 s
 Ramserödsmotet
  Grodhed Ind. Omr.
  Björbäck Ind. Omr.
 					1.7 km/1.5 km	1 min 8 s/1 min 0 s
 Råsserödsmotet
- [E6]: Göteborg
+ [E6 s]: Göteborg
 
 Etapp 2: Uddevalla - Vänersborg ()
 					5.6 km/5.3 km	3 min 22 s/3 min 11 s
@@ -69,18 +76,17 @@ Trp Båberg
 Etapp 3: Vänersborg - Trollhättan ()
 
 (Vänersborg / Trollhättan
-					/1.3 km	/52 s
+					(/1.3 km	(/52 s
 Trp Skogsbo
  Vänersborg
 					2.1 km/1.6 km	1 min 24 s/1 min 4 s
 Trp Överby
  Överby Köpcentrum
 
-Stallbackabron-väst
+Stallbackabron-väst)
  Göta älv
 					1.7 km/1.5 km	1 min 8 s/1 min 0 s
 Stallbackabron-öst
- Göta älv
 					0.7 km/1.3 km	28 s/52 s
 Trafikplats Stallbacka
  E45 s: Göteborg, Trollhättan C
