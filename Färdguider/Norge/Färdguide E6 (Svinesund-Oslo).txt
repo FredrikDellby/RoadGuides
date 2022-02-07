@@ -264,19 +264,21 @@ Mortensrudkrysset (28)
  Livsmedel: Kiwi, Europris
 					1,6 km/1,4 km	1 min 4 s/0 min 56 s
 Skullerudkrysset (29)
-					1,6 km/2,2 km	1 min 4 s/1 min 28 s
+					(/2,2 km	(/1 min 28 s
+(Abildsø bomstasjon: (59.8778986,10.8202759)
+ takst 22-26/49-88 kr (rushtid 28-31/66-104 kr)
+					1,6 km/	1 min 4 s/
 Bakkerudkrysset (30)
  Bensinstasjon: Circle-K
  Elbilsladdning: VIRTA, Circle-K
  Livsmedel: Bunnpris
-(Abildsø bomstasjon)
 					1,5 km/1,0 km	1 min 0 s/0 min 40 s
 Kryss Sandstuveien (31)
  Livsmedel: REMA 1000
 					0,6 km/1,0 km	27 s/40 s
 Ryenkrysset (32)
- Oslo-Sentrum
- [E18 v]: Drammen
+ [E18 v]: Kristiansand, Oslo-Sentrum
+ Ryen, Ekeberg (Camping)
  Bensinstasjon: Esso
  Livsmedel: Kiwi, REMA 1000
 					0,9 km/0,6 km	41 s/27 s
@@ -287,22 +289,31 @@ Manglerudkrysset (33)
 					0,8 km/0,6 km	1 min 20 s/0 min 27 s
 Brynskrysset (34)
 (ej avfart sydgående)
+ Bryn, Oppsal
  Elbilsladdning: Brynsenteret
  Livsmedel: MENY
-(Brynstunnelen (240 m))
 					0,7 km/0,8 km	32 s/36
-Järnvägsviadukt
+Brynstunnelen (240 m)
+					/)
+Järnvägsviadukt)
  Hovedbanen
 
 Brynsengkrysset (35)
+ Tveita, Teisen, Oppsal
+ Helsfyr, Bryn
 					0,9 km/0,9 km	41 s/41 s
-(Teisen bomstasjon)
+(Teisen bomstasjon: (59.9167224,10.8125965)
+ takst 18-20/49-88 kr (rushtid 22-24/66-104 kr)
+					(/
 Teisenkrysset (36)
 (avfart sydgående riktning
 påfart nordgående riktning)
- Oslo-Sentrum
- [E18 v]: Drammen
+ [E18 v]: Kristiansand, Oslo-Sentrum
+ Helsfyr
 					0,5 km/1,0 km	23 s/45 s
 Hovinkrysset (37)
  E6 n: Trondheim, Gardemoen
- Ring 3: Oslo-Nord
+ Alnabru, Ulven
+ Ring 3, [4]: Sinsen
+ [163]: Stovner
+
