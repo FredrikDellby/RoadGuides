@@ -232,10 +232,10 @@ Morskogstunnelen-syd
 Morskogstunnelen-nord
  /2322 m
 
-(Budalsbekkbrua)
-  Budalsbekken, 43 m
 Viken / Innlandet: (60.4989935,11.2384895)
 Eidsvoll / Stange
+(Budalsbekkbrua)
+  Budalsbekken, 43 m
 					2,0 km/2,3 km	1 min 12/1 min 23 s
 Strandlykkjakrysset (60)
  Morskogen, Trautskogen, Strandlykkja
