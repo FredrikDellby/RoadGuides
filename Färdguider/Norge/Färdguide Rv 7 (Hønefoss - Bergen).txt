@@ -5,15 +5,28 @@ Rondell E16/Rv 7
  E16 n: Bergen, Fagernes
  E16 s: Oslo, Bærum
 					2.6 km/2.5 km	2 min 14 s/2 min 9 s
-T-korsning Rv 7/Fv173
- Ask
+T-korsning Ramsrud Rv 7
+ Sandaker
+
+T-korsning Nøkleby rv.7
+ Fv2874: Ask, [350]
 					4.3 km/4.3 km	3 min 41 s/3 min 41 s
-T-korsning Rv 7/Fv174
- Ve
+Karlsplassbrua (123 m): (60.1945796,10.1551989)
+
+Elvenga bru (48 m): (60.1960135,10.1501054)
+
+T-korsning Heggenvanninga
+ Fv2876: Heggen, Øst Veme
 					2.1 km/2.4 km	1 min 48 s/2 min 3 s
+T-korsning Rv 7/Stadionveien
+ Veme stadion
+
+Restaurant: Sophas Mathus
 Korsning Veme-øst
- Gardhammar
+ Fv2880: Lia
+
 Bensinstasjon: Shell
+
 T-korsning Veme-vest
  Heggen
 					2.5 km/2.2 km	2 min 9 s/1 min 53 s
@@ -599,3 +612,76 @@ Krekkja bru (13 m)
 Samegammene (souvenirs)
 
 Rasteplass Båtstjørne?: (60.4335389,7.7669212)
+Rasteplass Båtstjørne?: (60.4335230, 7.7631232)
+
+Rasteplass Båtstjørne?: (60.4320830, 7.7556345)
+
+Rasteplass Båtstjørne?: (60.4296582, 7.7485427)
+
+Rasteplass Båtstjørne?: (60.4271919, 7.7443828)
+
+Lægreid Høyfjellsseter: (60.4214349,7.7170697)
+
+Rasteplass Halne: (60.4183959,7.7050327)
+
+Viken / Vestland: (60.4198123,7.6931406)
+Hol / Eidfjord
+
+Halne Fjellstugu
+T-korsning Halne
+ Turistbåt
+
+(Liten Parkeringsplass): (60.4119655,7.6464221)
+
+Bru over Skulevikåna: (60.4023013,7.6170841)
+
+Dobbelt Rasteplass Skulevika: (60.4002307, 7.6154150)
+ En på vært side
+
+Rasteplass Skiftesjøen: (60.3769661,7.5660344)
+
+Rasteplass Høgdesteinen?: (60.3724157,7.5412612)
+ veiens høyeste punkt, 1250 moh
+
+Dubbel T-korsning Tråastølen
+ Hotell/Restaurant: Trondsbu
+
+Dyranut Fjellstova/Rasteplass
+
+Liten Parkeringsplass: (60.3690885, 7.4952960)
+Målestasjon?
+
+(Sidoveg)
+
+(Sidoveg)
+
+Krossdalen (stugu+liten parkering)
+
+(Sidoveg)
+
+Rasteplass Våkavadet
+(søndre side)
+
+Lerio parkeringsplasser
+ En på vært side
+					/)
+Bom for fjellovergang (Sysendammen)
+Leiro bru (Leiro, 19 m)
+(T-korsning Rv 7/Skinnvelten)
+ Sysendammen
+
+T-korsning Rv 7/Bruskarva: (60.4060117, 7.3597400)
+ Grusparkeringsplass, Gjenvinningsstasjon
+
+(Parkeringsplass, norde side)
+
+Korsning Maurset Skisenter
+ Austre Maursetlia
+ Motell, skisenter
+(Maurset gamle kiosk)
+
+(Dubbel) T-korsning Maurset Landhandel
+ Vestre Maursetlia
+ Elbilsladning: Tesla, BKK
+
+
