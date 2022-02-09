@@ -115,6 +115,9 @@ Kryss Vik
  Fv2854: Røyse, Vik
  Rasteplass Vik
  Bensinstasjon: Circle-K, Shell
+
+Serviceplass Vik-vest (østgående)
+ Bensinstasjon: Shell, Café
 					1.2 km/1.4 km	0 min 54 s/1 min 3 s
 Påfart (østgående)
 
@@ -136,7 +139,7 @@ Kryss Norderhov
  Fv2854: Røyse
  Norderhov kirke
 					0.5 km/0.6 km	23 s/27 s
-T-korsning Hønensvingen E16
+Rondell Hønensvingen E16
  241: Jevnaker, Klekken
 					1.6 km/1.7 km	1 min 12 s/1 min 17 s
 Kryss Hvervenkastet
@@ -149,7 +152,7 @@ Storelva bru (185 m)
  Storelva
 					1.0 km/0.8 km	45 s/36 s
 Kryss Bærenga
- 35(0): Hokksund, Vikersund
+ 350: Hokksund, Vikersund
  Hønefoss Sentrum
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
 Rondell E16/Rv 7
