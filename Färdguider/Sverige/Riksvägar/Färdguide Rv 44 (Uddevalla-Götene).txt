@@ -43,8 +43,8 @@ Kurödsmotet
  Bensinstation: Shell
 					1.3 km/1.3 km	52 s/52 s
 Ramserödsmotet
- Grodhed Ind. Omr.
- Björbäck Ind. Omr.
+ Ängebacken
+ Industri: Grodröd, Björbäck
 					1.7 km/1.5 km	1 min 8 s/1 min 0 s
 Råsserödsmotet
  [E6 s]: Göteborg
