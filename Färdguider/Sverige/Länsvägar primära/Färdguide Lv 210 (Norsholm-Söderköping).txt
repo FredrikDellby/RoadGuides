@@ -1,0 +1,89 @@
+Färdguide Lv 210 (Norsholm - Söderköping)
+==========================================
+
+T-korsning Tankställe Norsholm
+ Bensinstation: Circle-K
+Trp Norsholm-nord
+
+Trp Norsholm-syd
+
+(T-korsning)
+ Enskild väg
+
+T-korsning (Eggebyberg)
+ Linghem, Gistad
+
+(T-korsning (enskild väg))
+ Genväg till Norsholm, Vägbom
+
+T-korsning
+ Skärkind, Galleri
+
+T-korsning
+ Norsholm
+
+(T-korsning Bostorp)
+ Kvästorp, Enskild väg
+
+T-korsning
+ Norsholm
+ Bråttom sluss, Vandrarhem
+(T-korsning (enskild väg))
+ Fröö Kött&Mat
+
+Norrköping / Söderköping: (58.4872384,16.087848)
+(endast skyltat östgående)
+
+T-korsning (enskild väg)
+ Golfbana
+
+Korsning (enskild väg)
+ Djurtandvård
+
+T-korsning (enskild väg)
+ Butiken på landet
+
+Dubbel T-korsning Klubben
+ Ö Ryd, V Husby
+ Norrköping
+ Norrköping-Söderköping Golfklubb
+
+T-korsning Västra Husby kyrka
+ V Husby kyrka, Församlingsexp, Förskola
+
+(T-korsning (lokal väg))
+ Gravfält
+
+Korsning Loddby Lv 210
+ Nybble
+ Loddby (enskild väg)
+
+Korsning (enskild väg)
+ Ej skyltad
+
+Korsning Evertsholm Ö
+ Berga (enskild väg)
+ Mariehov
+
+(Dubbel) T-korsning Perstorp (enskild väg)
+ Ej skyltad enskild väg
+ Thorstorps gård (B&B, gårdsbutik)
+
+(Korsning Kollberg)
+ Enskild väg, ej skyltad
+
+Korsning Lv 210/Högmarksv.
+ SH Entreprenad, Lokal väg
+
+(Korsning Brandstation)
+ Lokal väg
+Korsning Söderköping NV
+ E22 s: Kalmar, Centrum
+ 210 ö: S:t Anna
+ E22 n: Norrköping
+ Infoplats, Turistbyrå
+ Parkering Kanal väster, Slussen
+
+
+Färdguide Lv 210 (Söderköping - S:t Anna)
+==========================================
