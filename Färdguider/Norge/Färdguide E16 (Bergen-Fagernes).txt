@@ -264,6 +264,119 @@ T-korsning Evanger E16
 (Evanger bru I)
  Vosso, 112 m
 
+Parkeringsplass (grus): (60.6475849,6.1246048)
+
+(T-korsning E16/Saghaugen)
+ Furegardane Power Plant (ikke skiltet)
+
+T-korsning Geitle
+ Steine, Idrettsplass
+ Voss (sykelsti)
+
+Tverrelva bru (32 m)
+ Tverrelvi
+
+Knoltatunnelen (356 m)
+
+Rasteplass Jorna: (60.6368478,6.2384603)
+(søndre side)
+(T-korsning Jorna)
+ Idrettsplass
+
+(T-korsning Flaga)
+ Syklestier
+
+(Flage bru I)
+ over dalsøkk, 22 m
+T-korsning Bulken E16
+ Fv5400: Hamlagrö
+ Fv5396: Bulken
+ Hotel/Restaurant: Lilandtunet Gjestgiveri
+
+(Bru over Storagrovi)
+
+T-korsning Djukastein E16
+ Fv5396: Dyrvedalen
+
+Kryss Kvåle
+ Rasteplass Kvåle
+ Café: Hjelle Bakeri
+
+Rondell
+ Vang sentrum
+(Vangstunnelen-vest)
+ 2 469 m
+
+(Vangstunnelen-øst)
+Rondell Vang N
+ [7]: Oslo (via Geilo)
+ 13 s: Odda
+
+Rondell Nye Voss vgs
+ Fv5402: Bavallen
+ Voss Folkemuseum, Voss Resort (ski)
+
+Rondell Skulestadmo E16
+ Fv5390: Nedkvitne
+ Golfbane, Voss Active
+ Lastebilparkering
+ Skulestad skule
+
+Rondell Skulestad skule
+ Ikke skiltet
+
+Voss Auto and Service / MECA: (60.6703128,6.4498936)
+
+T-korsning Saue camping
+ Saue Camping
+
+Korsning Løno
+ Smalahovetunet
+
+Dubbel T-korsning Tvinno
+ Fv5390: Norheim, Nedkvitne
+ Golfbane, Nesheimtunet
+ Afdal, Tvindefossen
+ Tvinde Camping
+
+(T-korsning Gjøstein)
+ Bru over Strandaelvi, ikke skiltet
+
+Parkeringsplass: (60.7405911,6.4901702)
+ Voss Active High Rope & Zip-Line Park
+Åsbrekke bru (Strandaelvi, 23 m)
+Rasteplass Åsbrekkegjelet (vestgående side)
+
+T-korsning Taulen
+ Taulen Camping
+
+(T-korsning Kvarme)
+ Ikke skiltet
+
+Skjelviki (industri): (60.7639688,6.4926179)
+
+(Skromle bru)
+ Strandaelvi, 60 m
+(Kjettingplass (østgående))
+T-korsning Rødno kryss
+  Rødno
+
+(Hole bru)
+ Holaelvi, 22 m
+T-korsning Hole bru
+ Lund
+
+T-korsning Sundve skule
+ Idrettsplass
+Sundve skule
+ Engjaland
+(T-korsning Sundve E16)
+
+(T-korsning Gamleheimen)
+
+Rondell Vinje E16
+ 13 n: Vik, Myrkdalen
+ Bensinstasjon: Esso
 ========================================
 T-korning Gudvangen E16
 (Ramsøy bru)
