@@ -1,67 +1,88 @@
-Färdguide Lv 222 (Värmdöleden)
+FÃ¤rdguide Lv 222 (VÃ¤rmdÃ¶leden)
 ===============================
 
 Trafikkarusell Slussen
 
+T-korsning Fotografiska
+ Lokal vÃ¤g, Viking Line Check-in
+
 T-korsning Tegelvikshamnen
+ FÃ¤rja: Helsingfors, Ã…bo, Mariehamn
+T-korsning StadsgÃ¥rden/Folkungag.
+ Lokal gata
 
-T-korsning Stadsg./Folkungag.
+T-korsning Danvikstull
+ Tegelviksgatan (lokal vÃ¤g)
 
-(Danviksbron)
+(Betalstation)
+Danviksbron
 (Stockholm / Nacka)
 
 Korsning Henriksdal
-Bensinstation: St1
+ Henriksdalshamnen, Danviksklippan (endast Ã¶stgÃ¥ende)
+ Kvarnholmen, Henriksdal, Danviken
+ (Bensinstation: St1)
 
 Trafikplats Lugnet
- 260: Älta, Sickla
+ 260: Ã„lta, Sickla, Hammarby SjÃ¶stad
+ Info: Nacka
+
+Trp Alphyddan
+(avfart Ã¶stgÃ¥ende riktning vÃ¤nster sida
+pÃ¥fart vÃ¤stgÃ¥ende riktning vÃ¤nster sida)
+ 75-SÃ¶dra LÃ¤nken: [E4 s], [E20 s], [73 s]
+
+Trp Kvarnholmen
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ Kvarnholmen
 
 Trafikplats Nacka
-(avfart östgående riktning
-påfart västgående riktning)
- Nacka C, Järla
+(endast kontrollplats Ã¶stgÃ¥ende)
+ Nacka C, Jarlaberg, Nacka Strand
+ Trafikkontrollplats
 
 Trafikplat Skvaltan
- 228: Saltsjöbaden, Fisksätra
+ SaltsjÃ¶baden, FisksÃ¤tra
 
 Trp Skogalund
-(avfart västgående riktning
-påfart östgående riktning)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  Nacka C, Skogalund
 
 Trafikplats Skuru
  Skuru
 
 (Skurubron)
-Trp Björknäs
-(avfart östgående riktning
-påfart västgående riktning)
+Trp BjÃ¶rknÃ¤s
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
 
 Trp Orminge
- Orminge, Lännersta
+ Orminge, LÃ¤nnersta
 
-(Bro över Kilsviken)
+(Bro Ã¶ver Kilsviken)
 
-Trafikplats Insjön
- Insjön, Kummelnäs
-(Nacka / Värmdö)
+Trafikplats InsjÃ¶n
+ InsjÃ¶n, KummelnÃ¤s
+(Nacka / VÃ¤rmdÃ¶)
 
 (Farstabron)
 
-Trp Hålludden
-(avfart östgående riktning
-påfart västgående riktning)
- Hålludden
+Trp HÃ¥lludden
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ HÃ¥lludden
 
 Trp Gustavsberg
- Gustavsberg, Ingarö, Värmdö marknad
+ Gustavsberg, IngarÃ¶, VÃ¤rmdÃ¶ marknad
 
-Trp/Rondell Mölnvik
+Trp/Rondell MÃ¶lnvik
  Gustavsberg
 
 Rondell 222/Mormor
  Grisslinge havsbad
 
 Rondell Lv 222/Lv 274
- 274: Åkersberga, Vaxholm
+ 274: Ã…kersberga, Vaxholm
 
