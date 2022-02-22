@@ -1,4 +1,4 @@
-Färdguide E22 (Malmö - Norrköping)
+FÃ¤rdguide E22 (MalmÃ¶ - NorrkÃ¶ping)
 ===================================
 
 T-korsning E22/Hornsgatan
@@ -7,31 +7,31 @@ Restaurang: McDonald's
 Hotel: Formule 1
 
 Trafikplats Sege
- Inre Ringvägen
+ Inre RingvÃ¤gen
  Hamnen
 
-Malmö / Burlöv
+MalmÃ¶ / BurlÃ¶v
 
-Trp Kronetorp Södra
- Arlöv, Burlöv Centrum
+Trp Kronetorp SÃ¶dra
+ ArlÃ¶v, BurlÃ¶v Centrum
 
 Trp Kronetorp Norra (18)
  E6-E22 s: Trelleborg
- E20 v: Köpenhamn
+ E20 v: KÃ¶penhamn
  [E65]: Ystad, Sturup
- E6-E20 n: Göteborg, Helsingborg
+ E6-E20 n: GÃ¶teborg, Helsingborg
  [E4]: Stockholm
 
 Etapp 3: Kronetorp - Rolsberga (31,7 km/31,2 km)
 					2,7 km/1,8 km	1 min 28 s/0 min 59 s
-Burlöv / Staffanstorp
+BurlÃ¶v / Staffanstorp
 					3,6 km/4,2 km	1 min 58 s/2 min 17 s
-Trp Lund Södra (19)
+Trp Lund SÃ¶dra (19)
  108: Trelleborg, Staffanstorp
  Bensinstation: Statoil
 (Staffanstorp / Lund)
 					1,4 km/1,5 km	50 s/54 s
-Trafikplats Råby (20)
+Trafikplats RÃ¥by (20)
  203: Dalby
 					1,9 km/1,6 km	1 min 8 s/0 min 58 s
 Trp Gastelyckan (21)
@@ -41,121 +41,121 @@ Trp Gastelyckan (21)
  Hotel: First, Scandic
 					2,2 km/2,6 km	1 min 12 s/1 min 25 s
 Trp Lund Norra (22)
- 16: Bjärred
+ 16: BjÃ¤rred
  Bensinstation:
 					8,0 km/7,2 km	4 min 22 s/3 min 56 s
-Lund / Eslöv
+Lund / EslÃ¶v
 					0,5 km/1,3 km	16 s/43 s
-Trp Gårdstånga (23)
- 104 ö: Sjöbo
- 104 v: Kävlinge
- 113 n: Eslöv
- Rastplats Gårdstånga
+Trp GÃ¥rdstÃ¥nga (23)
+ 104 Ã¶: SjÃ¶bo
+ 104 v: KÃ¤vlinge
+ 113 n: EslÃ¶v
+ Rastplats GÃ¥rdstÃ¥nga
  Bensinstation: Shell
 					3,3 km/2,3 km	1 min 48 s/1 min 15 s
-Trp Roslöv (24)
+Trp RoslÃ¶v (24)
  Flyinge
 					3,6 km/3,8 km	2 min 10 s/2 min 4 s
 Trafikplats Hurva (25)
- Löberöd
+ LÃ¶berÃ¶d
  Skarhult, Hurva
 					3,5 km/3,4 km	1 min 55 s/1 min 51 s
-Eslöv / Höör
+EslÃ¶v / HÃ¶Ã¶r
 					1,1 km/1,6 km	36 s/52 s
 Trp Rolsberga (26)
- 23: Växjö, Hässleholm, Höör
+ 23: VÃ¤xjÃ¶, HÃ¤ssleholm, HÃ¶Ã¶r
 
-Etapp 4: Rolsberga - Hörby (11,7 km/11,7 km)
+Etapp 4: Rolsberga - HÃ¶rby (11,7 km/11,7 km)
 					3,4 km/3,4 km	1 min 51 s/1 min 51 s
 Trp Fogdarp (27)
- 17: Landskrona, Eslöv
+ 17: Landskrona, EslÃ¶v
 					2,6 km/2,1 km	1 min 34 s/1 min 16 s
-Busshållplats
+BusshÃ¥llplats
 
-Höör / Hörby
+HÃ¶Ã¶r / HÃ¶rby
 					0,7 km/0,9 km	25 s/32 s
 Infoplats
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 					2,2 km/2,1 km	1 min 19 s/1 min 16 s
 Trp Osbyholm (28)
  Osbyholm
- Lyby, Hörby
+ Lyby, HÃ¶rby
 					2,8 km/3,2 km	1 min 41 s/1 min 55 s
 Trp Norrehe (29)
- 13 s: Ystad, Hörby
- 13 n: Ängelholm, Höör
+ 13 s: Ystad, HÃ¶rby
+ 13 n: Ã„ngelholm, HÃ¶Ã¶r
 
-Etapp 5: Hörby - Kristianstad ()
+Etapp 5: HÃ¶rby - Kristianstad ()
 					1.7 km/1.7 km	1 min 8 s/1 min 8 s
-Trafikplats Hörby (30)
- Hörby
- S. Rörum
+Trafikplats HÃ¶rby (30)
+ HÃ¶rby
+ S. RÃ¶rum
 
-Trp Hörby norra (31)
- Hörby
+Trp HÃ¶rby norra (31)
+ HÃ¶rby
 
-Trp Ekeröd (32)
- Rastplats: Ekerödsrasten
+Trp EkerÃ¶d (32)
+ Rastplats: EkerÃ¶dsrasten
 
-Hörby / Kristianstad
+HÃ¶rby / Kristianstad
 
-Trp Linderöd (33)
-(avfart nordgående riktning
-påfart sydgående riktning)
- Linderöd
+Trp LinderÃ¶d (33)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ LinderÃ¶d
 
 Trp Knopparp (34)
- Linderöd, Tollarp
+ LinderÃ¶d, Tollarp
 
-Vramsån
+VramsÃ¥n
 
-Trp Nöbbelöv (35)
+Trp NÃ¶bbelÃ¶v (35)
  19 s: Ystad, Tomelilla
  [9 s]: Simrishamn
- Åhus
+ Ã…hus
 
-Trafikplats Vä (36)
- Norra Åsum
- Vä
+Trafikplats VÃ¤ (36)
+ Norra Ã…sum
+ VÃ¤
 					2.2 km/2.3 km	1 min 28 s/1 min 32 s
-Trp Härlöv (37)
- 21: Helsingborg, Hässleholm
+Trp HÃ¤rlÃ¶v (37)
+ 21: Helsingborg, HÃ¤ssleholm
  19 n: Osby
 
-Etapp 6: Kristianstad - Bromölla (25,3 km/25,6 km)
+Etapp 6: Kristianstad - BromÃ¶lla (25,3 km/25,6 km)
 					1.9 km/2.1 km	1 min 8 s/1 min 16 s
 Trafikplats Vilan (38)
- Norra Åsum
+ Norra Ã…sum
 					0.8 km/0.5 km	29 s/18 s
-Hammarsjön (Helge å)
+HammarsjÃ¶n (Helge Ã¥)
 					0.7 km/1.1 km	25 s/40 s
 Trp Kristianstad (39)
  Kristianstad Centrum
 					2.5 km/2.5 km	1 min 30 s/1 min 30 s
 Trp Hammar (40)
- 118 s: Åhus
+ 118 s: Ã…hus
  118 n: Broby
 					3.4 km/3.7 km	2 min 2 s/2 min 13 s
-Trp Fjälkinge (41)
- Fjälkinge, Viby
+Trp FjÃ¤lkinge (41)
+ FjÃ¤lkinge, Viby
 					2.6 km/1.8 km	1 min 44 s/1 min 12 s
-Dubbel T-korsning Fjälkinge Ö
+Dubbel T-korsning FjÃ¤lkinge Ã–
 
 T-korsning Ekohallen V
  Eko Stormarknad
 
-T-korsning Ekohallen Ö
+T-korsning Ekohallen Ã–
  Eko Stormarknad
 
 Trafikkontrollplats
 					1.9 km/1.9 km	1 min 16 s/1 min 16 s
-Korsning Bäckaskog E22
- Landön (Camping), Nymö
- Vånga, Bäckaskog
- Bäckaskogs slott
+Korsning BÃ¤ckaskog E22
+ LandÃ¶n (Camping), NymÃ¶
+ VÃ¥nga, BÃ¤ckaskog
+ BÃ¤ckaskogs slott
 					1.0 km/1.3 km	40 s/52 s
-Korsning Bäckaskog Ö
- Vånga, Bäckaskog
+Korsning BÃ¤ckaskog Ã–
+ VÃ¥nga, BÃ¤ckaskog
 
 Parkeringsplats
  Restaurang: Tradar'n
@@ -166,339 +166,339 @@ Korsning E22/Knutehusv.
  Vanneberga, Trolle-Ljungby
  Knutehusen
 
-Kristianstad / Bromölla
+Kristianstad / BromÃ¶lla
 					1.3 km/1.1 km	52 s/44 s
-Korsning (enskild väg)
- Frågott, Vändplats
+Korsning (enskild vÃ¤g)
+ FrÃ¥gott, VÃ¤ndplats
 					1.4 km/1.4 km	56 s/56
-T-korsning Gualöv V
- Tosteberga, Gualöv
+T-korsning GualÃ¶v V
+ Tosteberga, GualÃ¶v
 
-Trp Gualöv (43)
- Gualöv, Nymölla
+Trp GualÃ¶v (43)
+ GualÃ¶v, NymÃ¶lla
 
-Skräbeån
+SkrÃ¤beÃ¥n
 
-Trp Bromölla (44)
- 116: Olofström, Näsum
- Nymölla
+Trp BromÃ¶lla (44)
+ 116: OlofstrÃ¶m, NÃ¤sum
+ NymÃ¶lla
 
-Etapp 7: Bromölla - Pukavik ()
+Etapp 7: BromÃ¶lla - Pukavik ()
 
-Skåne / Blekinge
-Bromölla / Sölvesborg
+SkÃ¥ne / Blekinge
+BromÃ¶lla / SÃ¶lvesborg
 
-Trp Sölvesborg Väst (45)
+Trp SÃ¶lvesborg VÃ¤st (45)
 
-Trp Sölvesborg Öst (46)
+Trp SÃ¶lvesborg Ã–st (46)
 
 Trp Listerlandet (47)
- 123: Mjällby, Hanö
+ 123: MjÃ¤llby, HanÃ¶
 
 (Vesankanalen)
 
-Sölvesborg / Karlshamn
+SÃ¶lvesborg / Karlshamn
 
 Trafikplats Pukavik (48)
- 15: Halmstad, Olofström
+ 15: Halmstad, OlofstrÃ¶m
 
 Etapp 8: Pukavik - Ronneby ()
 
-Trp Mörrum Väst (49)
+Trp MÃ¶rrum VÃ¤st (49)
 
-Mörrumsån
+MÃ¶rrumsÃ¥n
 
-Trp Mörrum Öst (50)
+Trp MÃ¶rrum Ã–st (50)
 
-Trp Karlshamn Väst (51)
- 29 n: Växjö, Tingsryd
+Trp Karlshamn VÃ¤st (51)
+ 29 n: VÃ¤xjÃ¶, Tingsryd
  29 s: Karlshamn C, Hamnar
 
-(Karlshamnsån)
+(KarlshamnsÃ¥n)
 Trp Karlshamn Norr (52)
  Karlshamn N, C
  Asarum
 
-Trp Karlshamn Öst (53)
- Karlshamn Ö, C
- Hällaryd
+Trp Karlshamn Ã–st (53)
+ Karlshamn Ã–, C
+ HÃ¤llaryd
 
-Trafikplats Åryd (54)
- Åryd
+Trafikplats Ã…ryd (54)
+ Ã…ryd
  Eriksberg Vilt och Naturpark
- Rastplats Åryd
+ Rastplats Ã…ryd
 
 Karlshamn / Ronneby
 
-(Bräkneån)
+(BrÃ¤kneÃ¥n)
 
-Trp Bräkne-Hoby (55)
- Järnavik, Tjärö
+Trp BrÃ¤kne-Hoby (55)
+ JÃ¤rnavik, TjÃ¤rÃ¶
  (bad, camping, stugor, vandrarhem, vandringsled)
- Bräkne-Hoby Stormarknad
+ BrÃ¤kne-Hoby Stormarknad
  Bensinstation: St1
- Restaurang: Hoby Kulle Herrgård
+ Restaurang: Hoby Kulle HerrgÃ¥rd
 
-Rastplats Galtsjön
+Rastplats GaltsjÃ¶n
  Bensinstation: Preem
  Restaurang: Motell Restaurant Loppis
 
-Trp Ronneby Väst (56)
- 27: Göteborg, Växjö, Tingsryd
+Trp Ronneby VÃ¤st (56)
+ 27: GÃ¶teborg, VÃ¤xjÃ¶, Tingsryd
  Ronneby, Kallinge flygplats
 
 Etapp 9: Ronneby - Karlskrona ()
 
-Ronnebyån
+RonnebyÃ¥n
 
 Trp Ronneby Norr (57)
  Ronneby N, C
  Kallinge
 
-Trp Ronneby Öst (58)
+Trp Ronneby Ã–st (58)
  Ronnebyhamn
 
-Korsning Björketorp E22
- Gärestad
+Korsning BjÃ¶rketorp E22
+ GÃ¤restad
  Tving, Johannishus
  Golfbana
 
-T-korsning E22/Åsavallsvägen
+T-korsning E22/Ã…savallsvÃ¤gen
  Idrottsplats (Listerby IK)
 
 Rondell Listerby E22
  Kuggeboda, Ronneby havscamping
  Johannishus
  Bensinstation: Shell
- Restaurang: Listerby Pizzeria, Blå Bistro
+ Restaurang: Listerby Pizzeria, BlÃ¥ Bistro
 
-Rastplats Förkärla
+Rastplats FÃ¶rkÃ¤rla
 
-Korsning Förkärla kyrka
- Förkärla kyrka
+Korsning FÃ¶rkÃ¤rla kyrka
+ FÃ¶rkÃ¤rla kyrka
  Arvidstorp
 
 (Korsning)
- Enskild väg
+ Enskild vÃ¤g
 (Parkeringsplats)
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 
 Rondell Hjortahammars vsk
- Hasslö (vandrarhem, bad), Almö (golf, restaurang)
+ HasslÃ¶ (vandrarhem, bad), AlmÃ¶ (golf, restaurang)
  Johannishus, Skanska Betong
 
 Ronneby / Karlskrona
 
 T-korsning Skillinge
- Grönadal
+ GrÃ¶nadal
 
-Korsning (enskild väg)
- Tävetorp
+Korsning (enskild vÃ¤g)
+ TÃ¤vetorp
 
-Dubbel T-korsning Bjärby
+Dubbel T-korsning BjÃ¤rby
  Idrottsplats
- Agdatorp (enskild väg)
+ Agdatorp (enskild vÃ¤g)
 
-Trp Nättraby (61)
- Nättraby, Skärva (världsarv)
+Trp NÃ¤ttraby (61)
+ NÃ¤ttraby, SkÃ¤rva (vÃ¤rldsarv)
  Bensinstation: OKQ8
- Restaurang: Nättraby Vägkrog
+ Restaurang: NÃ¤ttraby VÃ¤gkrog
 
 Trp Trantorp (62)
- Allatorp, Skärva (världsarv)
+ Allatorp, SkÃ¤rva (vÃ¤rldsarv)
  Golfbana (Nicklastorp)
 
-Trp Karlskrona Väst-väst (63)
-(avfart nordgående riktning
-påfart sydgående riktning)
+Trp Karlskrona VÃ¤st-vÃ¤st (63)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
  Karlskrona V, Centrum
 
-Trp Karlskrona Väst-öst (63)
+Trp Karlskrona VÃ¤st-Ã¶st (63)
  Karlskrona V, Centrum
  Rosenholm, NKT Arena
  
-Trp Karlskrona Öst (64)
-(extra avfart nordgående)
- Karlskrona Ö, Centrum
+Trp Karlskrona Ã–st (64)
+(extra avfart nordgÃ¥ende)
+ Karlskrona Ã–, Centrum
  Bensinstation: Shell
  Restaurang: McDonald's
 
-Trp Karlskrona Öst (64)
- Karlskrona Ö, Centrum
- 28: Vetlanda, Emmaboda, Rödeby
+Trp Karlskrona Ã–st (64)
+ Karlskrona Ã–, Centrum
+ 28: Vetlanda, Emmaboda, RÃ¶deby
  Bensinstation: Shell, Circle-K
  Restaurang: McDonald's
 
-Lyckebyån
+LyckebyÃ¥n
 
-Rondell Lösen E22
+Rondell LÃ¶sen E22
 
-Korsning Barnens Gård
+Korsning Barnens GÃ¥rd
  Viet
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Stubbetorp
-Korsning Öljersjö (enskild väg)
- Öljersjö Södra
- Öljersjö Gård
+Korsning Ã–ljersjÃ¶ (enskild vÃ¤g)
+ Ã–ljersjÃ¶ SÃ¶dra
+ Ã–ljersjÃ¶ GÃ¥rd
 
-Rondell Torstäva vägskäl
- Tjurkö, Sturkö
- Trummenäs Golfklubb
-Rastplats Torstäva-öst
+Rondell TorstÃ¤va vÃ¤gskÃ¤l
+ TjurkÃ¶, SturkÃ¶
+ TrummenÃ¤s Golfklubb
+Rastplats TorstÃ¤va-Ã¶st
 
-T-korsning Torstäva (enskild väg)
+T-korsning TorstÃ¤va (enskild vÃ¤g)
  Tornby
- Rastplats Torstäva
+ Rastplats TorstÃ¤va
 
-(T-korsning Ramdala Ö)
- Tornby (enskild väg)
+(T-korsning Ramdala Ã–)
+ Tornby (enskild vÃ¤g)
 
 T-korsning Ramdala E22
- Sturkö, Ramdala
+ SturkÃ¶, Ramdala
 
 Korsning Vallby E22
  Missionskyrka
- Sälleryd, Vallby Gård
+ SÃ¤lleryd, Vallby GÃ¥rd
 
-Ekedalsvägen Jämjö
- Kråkerum
- Karlströms Gård, Orionstugan
+EkedalsvÃ¤gen JÃ¤mjÃ¶
+ KrÃ¥kerum
+ KarlstrÃ¶ms GÃ¥rd, Orionstugan
 
 T-korsning
  Torhamn
 
-Rondell Jämjö Centrum
- Jämjö kyrka
- Restaurang: Jämjö Pizzahus, Jämjö Gatukök
+Rondell JÃ¤mjÃ¶ Centrum
+ JÃ¤mjÃ¶ kyrka
+ Restaurang: JÃ¤mjÃ¶ Pizzahus, JÃ¤mjÃ¶ GatukÃ¶k
 
 Bensinstation: OKQ8
-T-korsning E22/Kråkerumsv.
- Kråkerum
- Sjöstens Hjorthägn
+T-korsning E22/KrÃ¥kerumsv.
+ KrÃ¥kerum
+ SjÃ¶stens HjorthÃ¤gn
 
-T-korsning E22/Klakebäcksv.
- Björkenäs, Konugnshamn, Klakebäck
+T-korsning E22/KlakebÃ¤cksv.
+ BjÃ¶rkenÃ¤s, Konugnshamn, KlakebÃ¤ck
 
-T-korsning E22/Sydkraftsvägen
- Jämjö Industriområde
+T-korsning E22/SydkraftsvÃ¤gen
+ JÃ¤mjÃ¶ IndustriomrÃ¥de
 Restaurang: Sammy's Pizza
 
-T-korsning E22/Ekerydsvägen
+T-korsning E22/EkerydsvÃ¤gen
  Ekeryd
 
-Parkeringsplats (sydgående)
+Parkeringsplats (sydgÃ¥ende)
 
-T-korsning (enskild väg)
-(endast skyltad sydgående)
+T-korsning (enskild vÃ¤g)
+(endast skyltad sydgÃ¥ende)
 
-Korsning N Binga (enskild väg)
+Korsning N Binga (enskild vÃ¤g)
  Bosava
- Brända ene
+ BrÃ¤nda ene
 
 Parkeringsplats
 (Korsning)
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Käxelåkra (enskild väg)
+Korsning KÃ¤xelÃ¥kra (enskild vÃ¤g)
  Horsaryd
  Ekeryd
 
-T-korsning (enskild väg)
-(endast skyltad sydgående)
+T-korsning (enskild vÃ¤g)
+(endast skyltad sydgÃ¥ende)
 
-Korsning Törnåkra
- Olsäng
+Korsning TÃ¶rnÃ¥kra
+ OlsÃ¤ng
 
-T-korsning (enskild väg)
-(endast skyltad sydgående)
+T-korsning (enskild vÃ¤g)
+(endast skyltad sydgÃ¥ende)
 
-T-korsning (enskild väg)
-(endast skyltad nordgående)
+T-korsning (enskild vÃ¤g)
+(endast skyltad nordgÃ¥ende)
 
-T-korsning E22/Fågelmarav.
- Fågelmara Gård
+T-korsning E22/FÃ¥gelmarav.
+ FÃ¥gelmara GÃ¥rd
 
 (Kvarnen Butik)
-Korsning Fågelmara C
+Korsning FÃ¥gelmara C
  Flyeryd, Lanthandel
  Missionskyrkan, Orkla
 
 Bensinstation: St1
-Korsning Fågelmara N
+Korsning FÃ¥gelmara N
  Kristianopel
- Turistområde Kristianopel
+ TuristomrÃ¥de Kristianopel
  Rastplats, stugor, camping, bad, restaurang
 
-(T-korsning Fågelmara skola)
+(T-korsning FÃ¥gelmara skola)
 
-(T-korsning E22/G:a landsvägen)
+(T-korsning E22/G:a landsvÃ¤gen)
 
-T-korsning (enskild väg)
- Skäggeryd
+T-korsning (enskild vÃ¤g)
+ SkÃ¤ggeryd
 
-T-korsning (enskild väg)
- Övre Tång
+T-korsning (enskild vÃ¤g)
+ Ã–vre TÃ¥ng
 
-Korsning Tockamåla
+Korsning TockamÃ¥la
  Milasten
 
-T-korsning Björkedal
- Brömsebro
+T-korsning BjÃ¶rkedal
+ BrÃ¶msebro
 
-T-korsning Brömsebro E22
- Brömsebro
- Auktionsbyrå, Café
+T-korsning BrÃ¶msebro E22
+ BrÃ¶msebro
+ AuktionsbyrÃ¥, CafÃ©
 
 Blekinge / Kalmar
-Karlskrona / Torsås
+Karlskrona / TorsÃ¥s
 
-Korsning Brömsebro Råsens vsk E22
- Råsen
- Restaurang: Blomlöfs Rökeri
+Korsning BrÃ¶msebro RÃ¥sens vsk E22
+ RÃ¥sen
+ Restaurang: BlomlÃ¶fs RÃ¶keri
 
 Korsning Korpavik
  Bredavik
- Gettnabo, Brömsebro
+ Gettnabo, BrÃ¶msebro
 
-T-korsning (enskild väg)
-(endast förskyltad nordgående)
- Törneryd
+T-korsning (enskild vÃ¤g)
+(endast fÃ¶rskyltad nordgÃ¥ende)
+ TÃ¶rneryd
 
-T-korsning Björkelycke
- Enskild väg
+T-korsning BjÃ¶rkelycke
+ Enskild vÃ¤g
 
-Korsning (enskild väg)
-(endast skyltad nordgående)
+Korsning (enskild vÃ¤g)
+(endast skyltad nordgÃ¥ende)
 
 (Korsning)
 (ej skyltad knappt)
- Enskild väg
+ Enskild vÃ¤g
 
-Dubbel T-korsning Bröms
- Bröms
- Fredsstenen, Brömsehus
- Rastplats Bröms
+Dubbel T-korsning BrÃ¶ms
+ BrÃ¶ms
+ Fredsstenen, BrÃ¶msehus
+ Rastplats BrÃ¶ms
  Skubbebo
 
 (Dubbel T-korsning)
- Enskild väg, Massör
+ Enskild vÃ¤g, MassÃ¶r
 
-(Korsning Järnsida E22)
- Enskild väg, Järnsida
+(Korsning JÃ¤rnsida E22)
+ Enskild vÃ¤g, JÃ¤rnsida
 
-Parkeringsplats (nordgående)
+Parkeringsplats (nordgÃ¥ende)
 Korsning Gata
- N Tång
+ N TÃ¥ng
 
 (Korsning Skeppevik)
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning (enskild väg)
- Sköppevik, Skeppeviks Camping
- Bockekulla, Korthålsbana
+Korsning (enskild vÃ¤g)
+ SkÃ¶ppevik, Skeppeviks Camping
+ Bockekulla, KorthÃ¥lsbana
 
-T-korsning Kärrabo
+T-korsning KÃ¤rrabo
  Bergkvara Hamn
  Industri: Blocket
 
@@ -508,41 +508,41 @@ Agro Shoppen
 T-korsning E22/Kyrkogatan
  Kapell
 
-Korsning E22/Gummebovägen
- Dynekärr
+Korsning E22/GummebovÃ¤gen
+ DynekÃ¤rr
 
 Dubbel T-korsning Bergkvara Centrum
- Hamnen, Dalskär
- Visselfjärda, Torsås
+ Hamnen, DalskÃ¤r
+ VisselfjÃ¤rda, TorsÃ¥s
 
 Bensinstation: Din-X
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Ragnabo
 
-(Korsning Påboda)
- Enskild väg
+(Korsning PÃ¥boda)
+ Enskild vÃ¤g
 
-T-korsning (enskild väg)
- Påbonäs, Påbonäs borg
+T-korsning (enskild vÃ¤g)
+ PÃ¥bonÃ¤s, PÃ¥bonÃ¤s borg
 
 T-korsning
- Djursvik, Söderåkra k:a
+ Djursvik, SÃ¶derÃ¥kra k:a
 
-(Bruatorpsån)
-Trp Söderåkra
- Hagby, Stufvenäs Gästgiveri
- Möre Golfklubb
- Söderåkra, Infoplats
+(BruatorpsÃ¥n)
+Trp SÃ¶derÃ¥kra
+ Hagby, StufvenÃ¤s GÃ¤stgiveri
+ MÃ¶re Golfklubb
+ SÃ¶derÃ¥kra, Infoplats
  Bensinstation: Preem
- Hotel: Möre Hotell/Green Door
+ Hotel: MÃ¶re Hotell/Green Door
 
-Torsås / Kalmar: (56.469218,16.0793693)
+TorsÃ¥s / Kalmar: (56.469218,16.0793693)
 
 Trp Halltorp
  Kolboda, Halltorp
  Olsbo
- Hotell/Restaurang: Stufvenäs Gästgiveri
+ Hotell/Restaurang: StufvenÃ¤s GÃ¤stgiveri
  Kolbodabadens Camping
  Infoplats
 
@@ -550,23 +550,23 @@ Trafikplats Resby
  Voxtorp, Arby
  Olsbo
 
-Rastplats Väntorp
+Rastplats VÃ¤ntorp
 
 Trp Kulltorp
- Kolboda, Arby, Vassmolösa
+ Kolboda, Arby, VassmolÃ¶sa
  Mortorp
  Kolbodabadens Camping
 
 Trp Ljungbyholm
- Hagby, Vassmolösa
- Påryd, Tvärskog, Ljungbyholm
+ Hagby, VassmolÃ¶sa
+ PÃ¥ryd, TvÃ¤rskog, Ljungbyholm
 
 Trp Hossmo
  Rinkabyholm
  Ljungbyholm
 
-Trafikplats Dörby
- 25 v: Halmstad, Växjö, Nybro
+Trafikplats DÃ¶rby
+ 25 v: Halmstad, VÃ¤xjÃ¶, Nybro
  31 n: Vetlanda
 
 Trp Karlsro
@@ -575,26 +575,26 @@ Trp Karlsro
  Travbana
 
 Infoplats/Trafikkontrollplats
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 
-Trp Kalmar Södra
+Trp Kalmar SÃ¶dra
  Kalmar S, Sjukhus
  Flygplats, Hamnen
  Camping
- Vandring: Kalmar Dämme
+ Vandring: Kalmar DÃ¤mme
  Bensinstation: Preem
 
 Trp Kalmar Centrum
- Kalmar C, Köpcenter Giraffen
+ Kalmar C, KÃ¶pcenter Giraffen
  Hotell: Scandic
  Restaurang: McDonald's, Kolgrill Dilan
  Bensinstation: Shell, Circle-K
 
-Trp Ölandsleden
- 137: Öland
+Trp Ã–landsleden
+ 137: Ã–land
  Hotell/Restaurang: Rasta
  Bensinstation: OKQ8
- Köpcenter HANSA CITY
+ KÃ¶pcenter HANSA CITY
 
 Trafikplats Berga
  Berga
@@ -607,187 +607,187 @@ Trp Kalmar Norra
  Lindsdal
 
 Trp Lindsdal
- 125: Fagerhult, Läckeby
+ 125: Fagerhult, LÃ¤ckeby
  Bensinstation: Din-X
  Djursjukhus, Rafshagen bad/camping
- Björnö, Stävlö slott
+ BjÃ¶rnÃ¶, StÃ¤vlÃ¶ slott
 
 Infoplats Rafshagen E22
 
-Avfart+Påfart (nordgående)
- Björnö
+Avfart+PÃ¥fart (nordgÃ¥ende)
+ BjÃ¶rnÃ¶
 
 Trp Rockneby
- Rugstorp, Läckeby, Rockneby
+ Rugstorp, LÃ¤ckeby, Rockneby
  Revsudden
  Bensinstation: Preem
- Restaurang: Café lilla Tjorven
+ Restaurang: CafÃ© lilla Tjorven
  Rockneby Bed & Breakfast
 
 (Rockneby E22 buss)
 
 Korsning E22/Hultsbygatan
- Hultsby, Enskild väg
+ Hultsby, Enskild vÃ¤g
 
 Korsning Ryssbylund
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning Ryssbylund N
  Ryssbylund
 
-T-korsning (vändplats)
-(endast skyltad sydgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad sydgÃ¥ende)
 
-T-korsning (vändplats)
-(endast skyltad sydgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad sydgÃ¥ende)
 
-Trp Kåremo E22
- Pataholm, Ljungnäs
- Kåremo
- Turistväg: Mönsterås kustväg
+Trp KÃ¥remo E22
+ Pataholm, LjungnÃ¤s
+ KÃ¥remo
+ TuristvÃ¤g: MÃ¶nsterÃ¥s kustvÃ¤g
 
-Korsning Bröttorp vsk (enskild väg)
- Bröttorp, Vändplats
+Korsning BrÃ¶ttorp vsk (enskild vÃ¤g)
+ BrÃ¶ttorp, VÃ¤ndplats
 
-T-korsning (vändplats)
-(endast skyltad nordgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad nordgÃ¥ende)
 
-Kalmar / Mönsterås: (56.8923977,16.3808887)
+Kalmar / MÃ¶nsterÃ¥s: (56.8923977,16.3808887)
 
-Korsning Haraldsmåla
- Pataholm, Haraldsmåla
- Åbro
+Korsning HaraldsmÃ¥la
+ Pataholm, HaraldsmÃ¥la
+ Ã…bro
 
-Korsning Hullingsmåla (enskild väg)
- Vändplats
+Korsning HullingsmÃ¥la (enskild vÃ¤g)
+ VÃ¤ndplats
 
-T-korsning (vändplats)
-(endast skyltad sydgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad sydgÃ¥ende)
 
-Korsning Södra Bäckebo (enskild väg)
-Infoplats (nordgående)
+Korsning SÃ¶dra BÃ¤ckebo (enskild vÃ¤g)
+Infoplats (nordgÃ¥ende)
 
-T-korsning (vändplats)
-(endast skyltad nordgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad nordgÃ¥ende)
 
-Korsning Ålem S
- 34 n: (Linköping), Vimmberby
- Högsby, Blomstermåla
+Korsning Ã…lem S
+ 34 n: (LinkÃ¶ping), Vimmberby
+ HÃ¶gsby, BlomstermÃ¥la
  Bensinstation: Preem
 
-(Bro över Alsterå)
-Dubbel T-korsning Ålem N
- Timmernabben, Ålems kyrkby
+(Bro Ã¶ver AlsterÃ¥)
+Dubbel T-korsning Ã…lem N
+ Timmernabben, Ã…lems kyrkby
  Gabriel Keramik
- Café, Camping, Bad, Vandrarhem
- Ålem
+ CafÃ©, Camping, Bad, Vandrarhem
+ Ã…lem
 
-Korsning E22/Solbergavägen (enskild väg)
+Korsning E22/SolbergavÃ¤gen (enskild vÃ¤g)
  Solberga
- N Bäckebo
-Trafikkontrollplats (nordgående)
+ N BÃ¤ckebo
+Trafikkontrollplats (nordgÃ¥ende)
 
-Korsning Ramsås (enskild väg)
+Korsning RamsÃ¥s (enskild vÃ¤g)
  Nyebo
- Ramsås
+ RamsÃ¥s
 
-T-korsning (vändplats)
-(endast skyltad sydgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad sydgÃ¥ende)
 
-T-korsning (vändplats)
-(endast skyltad nordgående)
+T-korsning (vÃ¤ndplats)
+(endast skyltad nordgÃ¥ende)
 
-Dubbel T-korsning Oknebäck södra
- Blomstermåla
+Dubbel T-korsning OknebÃ¤ck sÃ¶dra
+ BlomstermÃ¥la
  Timmernabben
  Gabriel Keramik
- Café, Camping, Bad, Vandrarhem
+ CafÃ©, Camping, Bad, Vandrarhem
  CNG Gas
 
-Korsning Oknebäck norra
- Oknö
- Industri: Oknebäck
+Korsning OknebÃ¤ck norra
+ OknÃ¶
+ Industri: OknebÃ¤ck
 
-Dubbel T-korsning Mönsterås västra
- Koverhult, Mönsterås metall
- Centrum S, Industri: Älgerum, Balken
+Dubbel T-korsning MÃ¶nsterÃ¥s vÃ¤stra
+ Koverhult, MÃ¶nsterÃ¥s metall
+ Centrum S, Industri: Ã„lgerum, Balken
 
 Dubbel T-korsning Parkskolan
- Turistbyrå, Vattenpalatset
+ TuristbyrÃ¥, Vattenpalatset
 
-Korsning Mönsterås norra
+Korsning MÃ¶nsterÃ¥s norra
  Centrum N
  Fliseryd
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Alebo
 
-(Bro över Lillån)
+(Bro Ã¶ver LillÃ¥n)
 T-korsning Bo
  Forsa
 
 Korsning Torp
- Svartö, Ödängla, Hammarglo
- Bössemåla (enskild väg)
+ SvartÃ¶, Ã–dÃ¤ngla, Hammarglo
+ BÃ¶ssemÃ¥la (enskild vÃ¤g)
 
 Korsning Tvillingsbackarna
- Mönsterås bruk (Södra Cell)
- Älmhult (enskild väg)
+ MÃ¶nsterÃ¥s bruk (SÃ¶dra Cell)
+ Ã„lmhult (enskild vÃ¤g)
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  SBK
 
-T-korsning (enskild väg)
-(bäst skyltad sydgående)
- Åserum
+T-korsning (enskild vÃ¤g)
+(bÃ¤st skyltad sydgÃ¥ende)
+ Ã…serum
 
-Korsning (endast skyltad nordgående)
- Enskild väg
+Korsning (endast skyltad nordgÃ¥ende)
+ Enskild vÃ¤g
 
-T-korsning (endast skyltad sydgående)
- Enskild väg
+T-korsning (endast skyltad sydgÃ¥ende)
+ Enskild vÃ¤g
 
-T-korsning (endast skyltad sydgående)
- Enskild väg
+T-korsning (endast skyltad sydgÃ¥ende)
+ Enskild vÃ¤g
 
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
 
-Korsning Em (enskild väg)
+Korsning Em (enskild vÃ¤g)
 
-Mönsterås / Oskarshamn
-(Bro över Emån)
+MÃ¶nsterÃ¥s / Oskarshamn
+(Bro Ã¶ver EmÃ¥n)
 
-Rastplats Emån
+Rastplats EmÃ¥n
 
-Trp Påskallavik
- Påskallavik
+Trp PÃ¥skallavik
+ PÃ¥skallavik
  Emsfors
 
-(Påskallavik E22 busshpl)
+(PÃ¥skallavik E22 busshpl)
 
-Korsning Vånevik
- Påskallavik, Stenhuggarmuseum
- Grinderum (enskild väg)
+Korsning VÃ¥nevik
+ PÃ¥skallavik, Stenhuggarmuseum
+ Grinderum (enskild vÃ¤g)
 
 T-korsning
  Fliseryd
  Oskarshamns GK
 
-T-korsning Applerum (vändplats)
-(endast skyltad nordgående)
+T-korsning Applerum (vÃ¤ndplats)
+(endast skyltad nordgÃ¥ende)
 
 Parkeringsplats
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 
-Trp Oskarshamn Södra
+Trp Oskarshamn SÃ¶dra
  Oskarshamn S
  Norra Hamnen
- Färja: Gotland
+ FÃ¤rja: Gotland
 
 Trp Oskarshamn Centrum
  Oskarshamn C, Sjukhus
- 37: Växjö, Högsby
- 47: Jönköping
+ 37: VÃ¤xjÃ¶, HÃ¶gsby
+ 47: JÃ¶nkÃ¶ping
  Bensinstation: Shell
  Restaurang: McDonald's, Burger King
 
@@ -796,168 +796,168 @@ Trp Oskarshamn Norra
  Norra Hamnen
  Bad, Camping, Vandrarhem
 
-T-korsning Hällarna (enskild väg)
+T-korsning HÃ¤llarna (enskild vÃ¤g)
  Ej skyltad
 
-Parkeringsplats (nordgående)
-Infoplats (sydgående)
+Parkeringsplats (nordgÃ¥ende)
+Infoplats (sydgÃ¥ende)
 
-T-korsning Saltvik E22 (enskild väg)
- Saltvik, Glabo båthamn, Vändplats
+T-korsning Saltvik E22 (enskild vÃ¤g)
+ Saltvik, Glabo bÃ¥thamn, VÃ¤ndplats
 
-Dubbel T-korsning Glabo-Åsa
+Dubbel T-korsning Glabo-Ã…sa
  Baggetorpskvarn, Skrikebo
- Lohorvan, Vändplats (enskild väg)
- Hermansmåla, Vändplats (enskild väg)
+ Lohorvan, VÃ¤ndplats (enskild vÃ¤g)
+ HermansmÃ¥la, VÃ¤ndplats (enskild vÃ¤g)
 
-Dubbel T-korsning Ängelstorp (enskild väg)
- Ängelstorp gård
- Stensjö by (sevärdhet)
+Dubbel T-korsning Ã„ngelstorp (enskild vÃ¤g)
+ Ã„ngelstorp gÃ¥rd
+ StensjÃ¶ by (sevÃ¤rdhet)
 
-Dubbel T-korsning Virkvarn (enskild väg)
+Dubbel T-korsning Virkvarn (enskild vÃ¤g)
  Virkvarn Hill
- Dragskär, Virbo
+ DragskÃ¤r, Virbo
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Motorbana
 
-Korsning Öråsa
+Korsning Ã–rÃ¥sa
  Oskarshamns Flygplats
- Rastorp (enskild väg)
+ Rastorp (enskild vÃ¤g)
 
-T-korsning Sippetorp (enskild väg)
-(endast förskyltad sydgående)
- Virsjödal
+T-korsning Sippetorp (enskild vÃ¤g)
+(endast fÃ¶rskyltad sydgÃ¥ende)
+ VirsjÃ¶dal
 
-Trafikplats Fårbo
- Klintemåla, Figeholm, Fårbo
+Trafikplats FÃ¥rbo
+ KlintemÃ¥la, Figeholm, FÃ¥rbo
  Baggetorp
  OKG, SKB, ABB
- Rastplats Fårbo
+ Rastplats FÃ¥rbo
  Restaurang: Sibylla
 
-Korsning (enskild väg)
- Västragård
+Korsning (enskild vÃ¤g)
+ VÃ¤stragÃ¥rd
 
-Korsning Jämserum (enskild väg)
+Korsning JÃ¤mserum (enskild vÃ¤g)
  Ej skyltad
 
-Dubbel T-korsning (enskild väg)
+Dubbel T-korsning (enskild vÃ¤g)
  Basthult
  Ej skyltad
 
-Korsning (enskild väg)
- Sulegång
+Korsning (enskild vÃ¤g)
+ SulegÃ¥ng
 
-T-korsning Nygård (enskild väg)
-(ej skyltad sydgående)
-Korsning Nygård
+T-korsning NygÃ¥rd (enskild vÃ¤g)
+(ej skyltad sydgÃ¥ende)
+Korsning NygÃ¥rd
  Vimmerby, Ishult
-(2+1-väg upphör/börjar)
+(2+1-vÃ¤g upphÃ¶r/bÃ¶rjar)
 
-Dubbel T-korsning Plåttorp
+Dubbel T-korsning PlÃ¥ttorp
  Misterhult
- Plåttorp, Enskild väg
+ PlÃ¥ttorp, Enskild vÃ¤g
 
 Dubbel T-korsning Misterhult E22
- Ölvedal
- Klintemåla, Misterhult
+ Ã–lvedal
+ KlintemÃ¥la, Misterhult
 
-T-korsning Målbäcken S
- Klintemåla, Misterhult, Flivik
+T-korsning MÃ¥lbÃ¤cken S
+ KlintemÃ¥la, Misterhult, Flivik
 
-T-korsning Mörtfors E22
- Mörtfors, Café och Hotell
+T-korsning MÃ¶rtfors E22
+ MÃ¶rtfors, CafÃ© och Hotell
 
 T-korsning Virum
  Virum
 
-Infopunkt (sydgående)
-Oskarshamn / Västervik)
-(Bro över Marströmmen)
-(Oskarshamn / Västervik
+Infopunkt (sydgÃ¥ende)
+Oskarshamn / VÃ¤stervik)
+(Bro Ã¶ver MarstrÃ¶mmen)
+(Oskarshamn / VÃ¤stervik
 
-Korsning Bälö
- Solstadström
+Korsning BÃ¤lÃ¶
+ SolstadstrÃ¶m
  Hjorted
  Bensinstation: Din-X/Green Petroleum
  Restaurang: Fenix
 
 T-korsning Blankaholm E22
  Blankaholm
- Bad, Camping, Gästhamn
- Hotell/Restaurang: Gästgiveri
+ Bad, Camping, GÃ¤sthamn
+ Hotell/Restaurang: GÃ¤stgiveri
 
 Parkeringsplats
-(främst för nordgående)
+(frÃ¤mst fÃ¶r nordgÃ¥ende)
 
 Parkeringsplats
-(främst för sydgående)
+(frÃ¤mst fÃ¶r sydgÃ¥ende)
 
 T-korsning Bofall
  Lebo
 
-Korsning Häggebotorp
- Slingsö
+Korsning HÃ¤ggebotorp
+ SlingsÃ¶
  Hjorted, Kristdala
 
-(Bro över Botorpström)
-Rastplats Botorpström
+(Bro Ã¶ver BotorpstrÃ¶m)
+Rastplats BotorpstrÃ¶m
 
 Korsning Lunds by
- Västrum, Gladhammars Kyrka
- Lunds by (sevärdhet)
+ VÃ¤strum, Gladhammars Kyrka
+ Lunds by (sevÃ¤rdhet)
 
 (T-korsning Gladhammar E22)
- Lokal väg, ej skyltad
+ Lokal vÃ¤g, ej skyltad
 
 (T-korsning)
- Lokal väg, ej skyltad
+ Lokal vÃ¤g, ej skyltad
 
 T-korsning Hyttan
- 40 v: Jönköping, Vimmberby, Ankarsrum
+ 40 v: JÃ¶nkÃ¶ping, Vimmberby, Ankarsrum
 
 T-korsning Daddhorvan
  Valstad
 
-T-korsning Verkebäck E22
- Västrum, Verkebäck, Gunnebo
+T-korsning VerkebÃ¤ck E22
+ VÃ¤strum, VerkebÃ¤ck, Gunnebo
  Restaurang: Charlies grill & pizza
 
-Verkebäcksbron
- Verkebäcksviken, Smalspåret
-Vändplats (sydgående)
+VerkebÃ¤cksbron
+ VerkebÃ¤cksviken, SmalspÃ¥ret
+VÃ¤ndplats (sydgÃ¥ende)
 
-Järnvägsviadukt
- Smalspåret
+JÃ¤rnvÃ¤gsviadukt
+ SmalspÃ¥ret
 
 T-korsning Arabien
- Verkebäck
+ VerkebÃ¤ck
 
-T-korsning (enskild väg)
- Bergtäkt
+T-korsning (enskild vÃ¤g)
+ BergtÃ¤kt
 
-Trp Rössle
- Västervik (Centrum), Sjukhus
- Västervik Resort
- Rödsle (enskild väg)
+Trp RÃ¶ssle
+ VÃ¤stervik (Centrum), Sjukhus
+ VÃ¤stervik Resort
+ RÃ¶dsle (enskild vÃ¤g)
 
-Korsning Stenberga (enskild väg)
+Korsning Stenberga (enskild vÃ¤g)
  Ej skyltad
 
-T-korsning Mommehål
+T-korsning MommehÃ¥l
  Svinnersbo, Flygplats
- Mörtvik (enskild väg)
+ MÃ¶rtvik (enskild vÃ¤g)
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Hjortkullen
 
-Wärdshuset Hjorten
+WÃ¤rdshuset Hjorten
 
-T-korsning Hjortekrog (enskild väg)
+T-korsning Hjortekrog (enskild vÃ¤g)
  Hjortkullen
 
-Korsning Kvistrum (enskild väg)
+Korsning Kvistrum (enskild vÃ¤g)
  Gagersrum, Skvagerfall
  E22:ans Handelshus
 
@@ -969,32 +969,32 @@ Korsning Kungsholm
 
 Korsning Bomtorpet
  Almvik
- Törnsfall
+ TÃ¶rnsfall
 
-(Bro över ...)
+(Bro Ã¶ver ...)
 Korsning Almvik N
  Almvik N
- Tegelbruksmuseum, Café
- Blekhem (enskild väg)
+ Tegelbruksmuseum, CafÃ©
+ Blekhem (enskild vÃ¤g)
 
-Korsning Segelrum (enskild väg)
+Korsning Segelrum (enskild vÃ¤g)
  Segelrum
 
 Korsning Nytorp Gamleby
- Enskild väg, ej skyltad
+ Enskild vÃ¤g, ej skyltad
 
-T-korsning Enestorp (enskild väg)
+T-korsning Enestorp (enskild vÃ¤g)
  Ekobutik
 
 T-korsning Baggetorp
  Gamleby S
  Pensionat, Konferens
 
-Korsning Ullevi (enskild väg)
+Korsning Ullevi (enskild vÃ¤g)
  Ullevi by
  Risdal
 
-(Korsning (enskild väg))
+(Korsning (enskild vÃ¤g))
  Ej skyltad
 
 Trp Gamleby C
@@ -1002,81 +1002,147 @@ Trp Gamleby C
  Hallingeberg
  Camping, Badplats
 
-(T-korsning (enskild väg))
+(T-korsning (enskild vÃ¤g))
  Ej skyltad
 
 Trp Gamleby Norra
  Gamleby N
- 35: Linköping, Åtvidaberg, Överum
+ 35: LinkÃ¶ping, Ã…tvidaberg, Ã–verum
  135: Kisa
 
-T-korsning Valstad (enskild väg)
- Hushållningssällskapet
+T-korsning Valstad (enskild vÃ¤g)
+ HushÃ¥llningssÃ¤llskapet
 
-Parkeringsplats (främst nordgående)
-Korsning (enskild väg)
+Parkeringsplats (frÃ¤mst nordgÃ¥ende)
+Korsning (enskild vÃ¤g)
 
 (Parkeringsficka+korsning)
 
-Korsning Nyavida (enskild väg)
- Vida gård
- Råserum, Gursten, Vida
+Korsning Nyavida (enskild vÃ¤g)
+ Vida gÃ¥rd
+ RÃ¥serum, Gursten, Vida
 
-(T-korsning E22/Björnsholmsv.
-(sydgående riktning)
- Bilskrot, Lokal väg
+(T-korsning E22/BjÃ¶rnsholmsv.
+(sydgÃ¥ende riktning)
+ Bilskrot, Lokal vÃ¤g
 
-Korsning Björnsholm
+Korsning BjÃ¶rnsholm
  213: Loftahammar
- Björnsholm, B&B, Bilskrot
+ BjÃ¶rnsholm, B&B, Bilskrot
 
-Korsning Björnsholm N
- Hässelstad (enskild väg)
- Överum
+Korsning BjÃ¶rnsholm N
+ HÃ¤sselstad (enskild vÃ¤g)
+ Ã–verum
 
-(Infoplats (sydgående): (57.9612373,16.4458711)
+(Infoplats (sydgÃ¥ende): (57.9612373,16.4458711)
 
-T-korsning Tindered (enskild väg)
- Hjulby, Tindered, Hässelstad
+T-korsning Tindered (enskild vÃ¤g)
+ Hjulby, Tindered, HÃ¤sselstad
 
 T-korsning Tindereds Rastplats
  Bensinstation: Q-star
- Restaurang: Tindereds Lantkök
- Spa, Gårdsbutik, Naturstig
+ Restaurang: Tindereds LantkÃ¶k
+ Spa, GÃ¥rdsbutik, Naturstig
 
-T-korsning (enskild väg)
-(endast skyltad sydgående)
+T-korsning (enskild vÃ¤g)
+(endast skyltad sydgÃ¥ende)
 
-Korsning (enskild väg)
-(endast skyltad nordgående)
+Korsning (enskild vÃ¤g)
+(endast skyltad nordgÃ¥ende)
 
-Korsning Helgenäs södra vsk
- Helgenäs
- Äventyrsfort, Byggvaror
+Korsning HelgenÃ¤s sÃ¶dra vsk
+ HelgenÃ¤s
+ Ã„ventyrsfort, Byggvaror
 
-Korsning Helgenäs norra vsk
+Korsning HelgenÃ¤s norra vsk
  Sundby
- Åtvidaberg, Falerum, Ukna, Edsbruk
+ Ã…tvidaberg, Falerum, Ukna, Edsbruk
 
-(Bro över Edsån)
+(Bro Ã¶ver EdsÃ¥n)
 
-T-korsning Hälleberg (enskild väg)
- Hälleberg (endast förskyltad sydgående)
+T-korsning HÃ¤lleberg (enskild vÃ¤g)
+ HÃ¤lleberg (endast fÃ¶rskyltad sydgÃ¥ende)
 
-Korsning Skarpinge (enskild väg)
- Träindustri
+Korsning Skarpinge (enskild vÃ¤g)
+ TrÃ¤industri
  Skarpinge
 
 T-korsning Valtersten
- Östra Ed, Långrådna,
- Skeppsgården, Hulta
+ Ã–stra Ed, LÃ¥ngrÃ¥dna,
+ SkeppsgÃ¥rden, Hulta
 
-Korsning Bällsjö (enskild väg)
-(ej förskyltad)
+Korsning BÃ¤llsjÃ¶ (enskild vÃ¤g)
+(ej fÃ¶rskyltad)
 
-T-korsning Hulta (enskild väg)
+T-korsning Hulta (enskild vÃ¤g)
  Hulta
 
-T-korsning Spångdalen
- Enskild väg
+(T-korsning SpÃ¥ngdalen)
+ Enskild vÃ¤g, ej fÃ¶rskyltad
 
+Korsning SkullrÃ¶ssle
+ Forsby
+
+T-korsning RavenÃ¤s
+ Ukna, Skedshult
+
+Korsning E22/Stenbrovad (enskild vÃ¤g)
+ Stenbrovad
+ Ã–nvad
+
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+Kalmar / Ã–stergÃ¶tland: (58.110594,16.5429637)
+VÃ¤stervik / Valdemarsvik
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+Korsning StockebÃ¤ck (enskild vÃ¤g)
+ Ej skyltad
+
+Korsning (enskild vÃ¤g)
+ Ej skyltad
+
+Korsning (enskild vÃ¤g)
+ Ej skyltad
+
+Korsning LydebÃ¤ck
+ Tryserums kyrka, Vandrarhem
+ LydebÃ¤ck (enskild vÃ¤g)
+
+Korsning (enskild vÃ¤g)
+ Ej skyltad
+
+Korsning KÃ¥rtorp
+ GÃ¥llÃ¶sa
+ Falerum, V Tryserum
+ Rastplats KÃ¥rtorp
+ CafÃ©/Restaurang: CafÃ© KÃ¥rtorp
+
+(T-korsning (enskild vÃ¤g))
+ Ej skyltad
+
+T-korsning SkÃ¶nero (enskild vÃ¤g)
+ SkÃ¶nero
+
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+Korsning Holmtebo
+ Holmtebo
+ Falerum, Holmbo
+
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+(Korsning (enskild vÃ¤g))
+ Utbyggd men ej skyltad
+
+Trp Valdemarsvik
+ 212: Fyrudden, Gryt
+ Valdemarsvik C, S FinnÃ¶
+ Nordic Brass
