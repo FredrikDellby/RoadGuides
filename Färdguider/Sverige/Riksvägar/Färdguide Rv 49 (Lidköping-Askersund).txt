@@ -79,65 +79,85 @@ påfart västgående riktning)
  Skara sommarland
 					1.7 km/2.0 km	1 min 8 s/1 min 20 s
 Trp Axevalla
- Axvall, Axvalla Travbana,
+ Axvall, Axvalla Travbana
  Skara sommarland
 					1.4 km/1.1 km	56 s/44 s
 T-korsning Skålltorp
  Axvall
+ Bensinstation: Q-star
 					0.6 km/0.6 km	27 s/27 s
-T-korsning Hedensberg
- Timmersdala, Eggby
+T-korsning Postgården
+ Lerdala, Flämslätt
+ Golfbana, Vandrarhem
 					3.7 km/3.7 km	2 min 47 s/2 min 47 s
+T-korsning Valle Camping (lokal väg)
+ Valle Campingstugor
+
+(T-korsning (enskild väg))
+ Ej skyltad
+
 Korsning Varnhem N
- Falköping, Varnhem,
- Varnhems kloster
- Lerdala, Öglunda
+ Varnhem, Klosterkyrka
+ Hornborgarsjön
+ (Lerdala), Öglunda
+ Info: Valle
 					0.8 km/0.8 km	41 s/41 s
-Korsning Varnhem Ö
- Varnhems kloster
- Enskild väg
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-Korsning Ljungatorp väg 49
- Ljungstorp
- Bensinstation: Qstar
+Korsning Ljungstorp väg 49
+ Ljungstorp, Galleri Sagé
 					3.3 km/3.3 km	2 min 50 s/2 min 50 s
-Skara / Falköping
+Tankställe Rosenlund
+ Bensinstation: Q-star
+
+Skara / Skövde: (58.384956,13.7373275)
 					1.9 km/2.0 km	1 min 38 s/1 min 43 s
-Falköping / Skövde
 T-korsning Stenberget
- Ljungstorp
+ Svarvarebacken
 					1.4 km/1.2 km	1 min 12 s/1 min 2 s
 T-korsning Våmbskleven
- Billingen
+ Våmbskleven, Enskild väg
 					1.7 km/1.8 km	1 min 27 s/1 min 33 s
-Rastplats Våmb
+T-korsning Eklunds (lokal väg)
+ Bildemontering
+
+T-korsning Eklunds Ö (lokal väg)
+ Lokal väg (ej skyltad)
+
+Rastplats Våmb (östgående)
 					0.5 km/0.4 km	26 s/21 s
 T-korsning Våmb K:a
  Våmb, Våmb K:a
 					0.3 km/0.3 km	22 s/22 s
 Korsning Våmb Ö
- Våmb
- Hentorp
+ Våmb (sevärdhet)
+ Simsjön (badplats, café, golfbana)
 					0.5 km/0.5 km	36 s/36 s
-Korsning Karlsro
- Karlsro ind. omr.
+Korsning Rv 49/Gruvgatan (lokal väg)
+ Stena, Paroc
  Cementa
 					0.4 km/0.5 km	29 s/36 s
+(Järnvägsbro)
+ Industrispår
 Hallenbergsrondellen
+ Skövde Centrum, Järnvägsstn
  [26 n]: Mariestad
- [200]: Töreboda
- Skövde Centrum
+ Skaraborgs Sjukhus
+ Billingehov, Billingehus, Billingen
+ (Skidbacke, Badplats, Vandring, Camping)
  Bensinstation: Circle-K
+ Restaurang: Pizzeria Maxim
 (T-korsning Rv 49/Gesällgatan)
+ Lokal väg, ej skyltad
 					0.9 km/1.1 km	1 min 5 s/1 min 19 s
 (Järnvägsbro)
  Industrispår till Cementa
 T-korsning Rv 49/Carlsrovägen
+ Lokal väg, ej skyltad
 
 T-korsning 49/Diabasvägen
- Karlsro ind. omr.
+ IndustrI: Karlsro, Paroc (lastbil)
 
-Korsning Hentorp
+Korsning Hentorp (lokal väg)
  Hentorp
  Södermalms IP
  Bensinstation: Shell
@@ -146,14 +166,15 @@ Korsning Hentorp
  Västra Stambanan
 Fabiansrondellen
  Skultorp
+ Tovatorp (enskild väg)
 					0.9 km/1.2 km	0 min 46 s/1 min 2 s
 Trp Skövde Södra
  26 s: Jönköping, Tidaholm
- 26 n: Mariestad
- 47 s: Ulricehamn, Falköping
- 49 ö: Askersund, Karlsborg
+ 46 s: Ulricehamn, Falköping
 
 Etapp 3: Skövde Södra - Mariesjö ()
+
+
 
 Trp Mariesjö
  26 s: Jönköping, Tidaholm
