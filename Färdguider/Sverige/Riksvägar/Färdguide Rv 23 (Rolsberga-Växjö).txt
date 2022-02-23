@@ -36,18 +36,32 @@ T-korsning Klinta gård (enskild väg)
 (T-korsning Klinta Trädgård)
  Lokal väg, otydligt skyltad
 
-T-korsning Ekeborg
+T-korsning Vrangelsborg
  Stehag
 Infoplats (nordgående)
 T-korsning Ringsjö Värdshus (lokal väg)
  Restaurang: Ringsjö Wärdshus
 					1,1 km/1,0 km	57 s/51 s
-Bro över Ringsjön
+(T-korsning Gamla Boo)
+ Lokal väg, övertäckt skylt
+
+Korsning Gamla Boo (lokal väg)
+ Gamla Boo badplats
+
+Bro över Ringsjön)
+					/)
+Ringsjöfisk Butik & Rökeri
 					0,6 km/0,6 km	31 s/31 s
-T-korsning Bosjökloster V
+Infoplats Bosjöklosters mölla
 					0,9 km/0,9 km	46 s/46 s
-T-korsning Bosjökloster GK
+T-korsning Bosjökloster (lokal väg)
+ Bosjökloster, Bosjökloster GK
+ Restaurang: Bosjökloster 101 Bistro & Bar
 					1,5 km/1,6 km	1 min 0 s/1 min 4 s
+T-korsning Ängsbyn (lokal väg)
+ Ängsbyn vändplats
+(2+1-väg börjar/upphör)
+
 Parkeringsplats
 (sydgående riktning)
 					1,0 km/1,0 km	40 s/40 s
