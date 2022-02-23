@@ -48,41 +48,88 @@ Trafikplat Skvaltan
 Trp Skogalund
 (avfart västgående riktning
 påfart östgående riktning)
- Nacka C, Skogalund
+ Nacka C, Jarlaberg, Nacka Strand
 
 Trafikplats Skuru
- Skuru
+ Skuru, Ektorp
+ Nacka Sjukhus, Info: Nacka
 
-(Skurubron)
+Skurusundsbron:
+(59.3141222,18.2191804 / 59.3143019,18.2238313)
+
 Trp Björknäs
 (avfart östgående riktning
 påfart västgående riktning)
+ Gustavsberg, Björknäs, Lokal Slinga Ö
 
 Trp Orminge
- Orminge, Lännersta
+ Lännersta
+ Orminge, Björknäs
 
-(Bro över Kilsviken)
+Bro över Kilsviken: (59.3284602,18.3096434 / 59.3294026,18.3139702)
 
 Trafikplats Insjön
- Insjön, Kummelnäs
-(Nacka / Värmdö)
+ N Nagnö, Skevik, Insjön, Kummelnäs
+					/)
+Nacka / Värmdö): 59.3254311,18.3332344
+(Motorväg / Motortrafikled)
 
-(Farstabron)
+Farstabron: (59.3217566,18.3447448 / 59.3189723,18.3492781)
+ Farstaviken
+
+(Motortrafikled / Motorväg)
 
 Trp Hålludden
 (avfart östgående riktning
 påfart västgående riktning)
- Hålludden
+ Hålludden (enskild väg)
+ Restaurang: Artipelag
 
 Trp Gustavsberg
- Gustavsberg, Ingarö, Värmdö marknad
-
-Trp/Rondell Mölnvik
  Gustavsberg
+ Ingarö
+ Porslinsmuseum, Värmdö marknad
+ Bensinstation: INGO
+
+Mölnviksrondellen
+ Gustavsberg, Värmdö köpcentrum
+
+(Avfart/påfart båtbrygga)
+(östgående riktning)
+
+Avfart Grisslinge
+ Mörtnäs (västgående)
+ Grisslinge havsbad (östgående)
+ Café: Systrarna Delselius
 
 Rondell 222/Mormor
  Grisslinge havsbad
+ Restaurang: Grisslinge Värdshus
 
+(Ålstäkets grill
+					(/
 Rondell Lv 222/Lv 274
- 274: Åkersberga, Vaxholm
+ 274, Färja: Vaxholm
+ Rindö, Hemmesta
 
+T-korsning Hagabergsvägen
+ Hagaberg
+
+T-korsning Lv 222/Torparvägen
+ Wärmdö GCC, Enskild väg
+
+T-korsning Skeppsdalsström
+ Skeppsdalsström (enskild väg)
+
+(T-korsning Lv 222/Grävlingsstigen)
+ Grävlingsstigen
+
+(T-korsning Lv 222/Mårdstigen)
+ Mårdstigen
+
+T-korsning Herrviksnäs
+ Herrviksnäs (enskild väg)
+
+Korsning Herrviks gård
+ Forellstigen
+ Herrviksvägen
