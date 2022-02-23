@@ -1,75 +1,98 @@
-Färdguide Rv 23 (Rolsberga - Växjö)
+FÃ¤rdguide Rv 23 (Rolsberga - VÃ¤xjÃ¶)
 ====================================
 
-Etapp 1: Rolsberga - Höör (16,6 km/16,2 km)
+Etapp 1: Rolsberga - HÃ¶Ã¶r (16,6 km/16,2 km)
 
-Trp Rolsberga (26)
- E22 s: Malmö, Lund
+Trp Rolsberga (26))
  E22 n: Kalmar, Kristianstad
+					/)
+Trp Rolsberga-nord (rondell)
+ E22 s: MalmÃ¶, Lund
+ E22 n: Kalmar, Kristianstad
+ LÃ¶berÃ¶d, Hurva, Rolsberga
+ Restaurang: Rolsberga GatukÃ¶k
+ Parkering SamÃ¥kning
 					1,4 km/0,8 km	1 min 3 s/0 min 36 s
-Korsning
+Korsning Gudmuntorp
+ Gudmuntorps kyrka, skola
+ Ã–. StrÃ¶
 					0,5 km/0,5 km	23 s/23 s
-Korsning
+Korsning Gudmuntorp N
+ Pugerup
 					2,2 km/2,3 km	1 min 53 s/1 min 58 s
-Rondell Snogeröd
- 17 ö: Hörby
- 17 v: Landskrona, Eslöv
+T-korsning Tofta gÃ¥rd
+ Tofta Rum B&B, Enskild vÃ¤g
+
+(T-korsning SnogerÃ¶d (enskild vÃ¤g))
+ Pugerup, Ej skyltad
+
+Rondell SnogerÃ¶d
+ 17 Ã¶: HÃ¶rby
+ 17 v: (Landskrona), EslÃ¶v
 					2,8 km/2,9 km	2 min 6 s/2 min 11 s
+T-korsning Klinta gÃ¥rd (enskild vÃ¤g)
+ Klinta, Behandlingshem
+
+(T-korsning Klinta TrÃ¤dgÃ¥rd)
+ Lokal vÃ¤g, otydligt skyltad
+
 T-korsning Ekeborg
-Infoplats (nordgående)
-T-korsning Ringsjö Wärdshus
+ Stehag
+Infoplats (nordgÃ¥ende)
+T-korsning RingsjÃ¶ VÃ¤rdshus (lokal vÃ¤g)
+ Restaurang: RingsjÃ¶ WÃ¤rdshus
 					1,1 km/1,0 km	57 s/51 s
-Bro över Ringsjön
+Bro Ã¶ver RingsjÃ¶n
 					0,6 km/0,6 km	31 s/31 s
-T-korsning Bosjökloster V
+T-korsning BosjÃ¶kloster V
 					0,9 km/0,9 km	46 s/46 s
-T-korsning Bosjökloster GK
+T-korsning BosjÃ¶kloster GK
 					1,5 km/1,6 km	1 min 0 s/1 min 4 s
 Parkeringsplats
-(sydgående riktning)
+(sydgÃ¥ende riktning)
 					1,0 km/1,0 km	40 s/40 s
 Korsning Nyby
 					1,8 km/1,7 km	1 min 12 s/1 min 8 s
 T-korsning
 					1,4 km/1,5 km	1 min 24 s/1 min 30 s
-Rondell 23/Ringsjövägen
+Rondell 23/RingsjÃ¶vÃ¤gen
 					0,6 km/0,6 km	43 s/43 s
-Rondell 23/Hörbyvägen
+Rondell 23/HÃ¶rbyvÃ¤gen
 					0,7 km/0,7 km	50 s/50 s
 Rondell Rv 13/Rv 23
- 13 s: Ystad, Hörby
- 13 n: Ängelholm, Klippan
+ 13 s: Ystad, HÃ¶rby
+ 13 n: Ã„ngelholm, Klippan
 
-Etapp 2: Höör - Sösdala (13,6 km/13,6 km)
+Etapp 2: HÃ¶Ã¶r - SÃ¶sdala (13,6 km/13,6 km)
 					0,5 km/0,5 km	36 s/36 s
 T-korsning
 					1,4 km/1,4 km	1 min 41 s/1 min 41 s
-Rondell 13/Pumpvägen
+Rondell 13/PumpvÃ¤gen
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
-T-korsning Ekeröd
- N. Rörum
+T-korsning EkerÃ¶d
+ N. RÃ¶rum
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
-Korsning Tjörnarp S
+Korsning TjÃ¶rnarp S
 					2,4 km/2,4 km	1 min 48 s/1 min 48 s
 T-korsning
- Tjörnarp
+ TjÃ¶rnarp
 					0,4 km/0,5 km	18 s/23 s
 Bensinstation: Pump
-Vägkrog
+VÃ¤gkrog
 T-korsning
 					0,5 km/0,4 km	23 s/18 s
-Höör / Hässleholm
+HÃ¶Ã¶r / HÃ¤ssleholm
 					2,5 km/2,5 km	1 min 53 s/1 min 53 s
-Trp Sösdala
- Sösdala
+Trp SÃ¶sdala
+ SÃ¶sdala
 
-Etapp 3: Sösdala - Hässleholm (17,4 km/17,6 km)
+Etapp 3: SÃ¶sdala - HÃ¤ssleholm (17,4 km/17,6 km)
 					1,9 km/1,8 km	1 min 26 s/1 min 21 s
 T-korsning
- Sösdala
+ SÃ¶sdala
 					0,8 km/0,8 km	36 s/36 s
 T-korsning
  Mellby
@@ -84,30 +107,30 @@ T-korsning
  Tormestorp
 					0,6 km/0,6 km	27 s/27 s
 T-korsning
- Vinslöv
+ VinslÃ¶v
 					1,3 km/1,4 km	0 min 59 s/1 min 3 s
 Parkeringsplats
 					3,6 km/3,7 km	2 min 42 s/2 min 47 s
 Parkeringsplats
 					1,4 km/1,3 km	1 min 3 s/1 min 3 s
-Infoplats (nordgående)
+Infoplats (nordgÃ¥ende)
 					1,4 km/1,5 km	1 min 3 s/1 min 8 s
-Trafikplats Röinge
- [21 ö]: Kristianstad
- Hässleholm Centrum
+Trafikplats RÃ¶inge
+ [21 Ã¶]: Kristianstad
+ HÃ¤ssleholm Centrum
 					1,1 km/0,9 km	57 s/46 s
-Korsning 21/Röingegatan
+Korsning 21/RÃ¶ingegatan
 					0,6 km/0,6 km	31 s/31 s
-Järnvägsviadukt
- Skånebanan
+JÃ¤rnvÃ¤gsviadukt
+ SkÃ¥nebanan
 					0,4 km/0,4 km	21 s/21 s
 T-korsning 21/Industrigatan
 					0,7 km/0,9 km	36 s/46 s
-Trafikplats Läreda
- 21 ö: Kristianstad
+Trafikplats LÃ¤reda
+ 21 Ã¶: Kristianstad
  21 v: Helsingborg, Perstorp
 
-Etapp 4: Hässleholm - Östanå (18,8 km/19,1 km)
+Etapp 4: HÃ¤ssleholm - Ã–stanÃ¥ (18,8 km/19,1 km)
 					1,3 km/1,1 km	59 s/50 s
 Rondell
  Stoby
@@ -116,7 +139,7 @@ T-korsning
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
 T-korsning
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
-Almaån
+AlmaÃ¥n
 					0,6 km/0,7 km	24 s/28 s
 Dubbel T-korsning
 					0,9 km/0,8 km	36 s/32 s
@@ -125,7 +148,7 @@ Korsning
 T-korsning
 					2,2 km/2,4 km	1 min 28 s/1 min 36 s
 Parkeringsplats
-(sydgående riktning)
+(sydgÃ¥ende riktning)
 					1,1 km/0,9 km	44 s/36 s
 T-korsning
 					3,0 km/3,0 km	2 min 0 s/2 min 0 s
@@ -133,43 +156,43 @@ T-korsning
 					1,2 km/1,2 km	48 s/48 s
 T-korsning
 					1,0 km/1,0 km	40 s/40 s
-Hässleholm / Östra Göinge
+HÃ¤ssleholm / Ã–stra GÃ¶inge
 					1,5 km/2,0 km	1 min 0 s/1 min 20 s
-Trafikplats Östanå
+Trafikplats Ã–stanÃ¥
  19: Ystad, Kristianstad
 
-Etapp 5: Östanå - Osby (11,8 km/11,3 km)
+Etapp 5: Ã–stanÃ¥ - Osby (11,8 km/11,3 km)
 					2,0 km/1,4 km	1 min 20 s/0 min 56 s
-T-korsning Östanå Ö
- Östanå
+T-korsning Ã–stanÃ¥ Ã–
+ Ã–stanÃ¥
 					2,3 km/2,3 km	1 min 32 s/1 min 32 s
-T-korsning 23/Osbyvägen
- Östanå
+T-korsning 23/OsbyvÃ¤gen
+ Ã–stanÃ¥
 					0,6 km/0,7 km	24 s/28 s
 Korsning
- Enskild väg
-Östra Göinge / Osby
+ Enskild vÃ¤g
+Ã–stra GÃ¶inge / Osby
 					1,4 km/1,3 km	56 s/52 s
 T-korsning
- Enskild väg, Strömsborg
+ Enskild vÃ¤g, StrÃ¶msborg
 					0,4 km/0,5 km	16 s/20 s
-Helge å
+Helge Ã¥
 					0,9 km/0,9 km	36 s/36 s
 T-korsning
- Enskild väg, Strömsborg
+ Enskild vÃ¤g, StrÃ¶msborg
 					1,1 km/1,2 km	44 s/48 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,5 km/0,5 km	20 s/20 s
 Rondell 23/Kristianstadsg.
 					0,8 km/0,7 km	36 s/32 s
 Korsning
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
 Rondell Rv 15/Rv 23
- 15 ö: Karlshamn, Olofström
+ 15 Ã¶: Karlshamn, OlofstrÃ¶m
  15 v: Halmstad, Markaryd
 
-Etapp 6: Osby - Älmhult (20,2 km/20,2 km)
+Etapp 6: Osby - Ã„lmhult (20,2 km/20,2 km)
 					0,5 km/0,5 km	23 s/20 s
 Rastplats Lars Dufwa
  Bensinstation: Statoil
@@ -177,33 +200,33 @@ Rastplats Lars Dufwa
 					2,7 km/2,7 km	1 min 48 s/1 min 48 s
 T-korsning
 					7,3 km/7,3 km	4 min 52 s/4 min 52 s
-Korsning Killeberg Ö
+Korsning Killeberg Ã–
 					0,3 km/0,3 km	12 s/12 s
 T-korsning
 					2,6 km/2,8 km	1 min 44 s/1 min 52 s
 Dubbel T-korsning Loshult Rv 23
 					0,7 km/0,7 km	28 s/28 s
 Korsning
- Enskild väg
-Skåne / Kronoberg
-Osby / Älmhult
+ Enskild vÃ¤g
+SkÃ¥ne / Kronoberg
+Osby / Ã„lmhult
 					0,3 km/0,2 km	12 s/8 s
-Infoplats (nordgående)
+Infoplats (nordgÃ¥ende)
 					2,0 km/1,9 km	1 min 20 s/1 min 16 s
 Korsning
 					1,1 km/1,1 km	44 s/44 s
-T-korsning Älmhult SO
+T-korsning Ã„lmhult SO
  Centrum
  Bensinstation: OKQ8
 					0,4 km/0,4 km	18 s/18 s
-Järnvägskorsning
- Älmhult-Olofström
+JÃ¤rnvÃ¤gskorsning
+ Ã„lmhult-OlofstrÃ¶m
 					2,4 km/2,5 km	1 min 48 s/1 min 53 s
-T-korsning Älmhult NO
+T-korsning Ã„lmhult NO
  120 v: Markaryd, Traryd
  Centrum, IKEA
 
-Etapp 7: Älmhult -
+Etapp 7: Ã„lmhult -
 
 T-korsning
- 120 ö: Tingsryd
+ 120 Ã¶: Tingsryd
