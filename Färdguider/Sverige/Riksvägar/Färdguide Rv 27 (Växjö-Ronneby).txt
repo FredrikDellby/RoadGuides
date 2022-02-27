@@ -3,46 +3,70 @@ Färdguide Rv 27 (Växjö - Ronneby)
 
 Etapp 12: Växjö - Rävåsen (18,5 km/18,3 km)
 
-Rondell Högstorp
+Fagrabäcksrondellen
  25 v: Halmstad, Ljungby
  27 v: Göteborg, Värnamo
  30: Jönköping, Lammhult
  25 ö: Kalmar, Lessebo
-T-korsning
+T-korsning Rv 27/Sandviksvägen
+ Lokal väg
  Bensinstation: Preem
- Hotel: Quality Hotel Växjö
 					1,3 km/1,2 km	1 min 7 s/1 min 2 s
-T-korsning Sandviksverket
- Lokalt mål
+T-korsning Sandviksverket (lokal väg)
+ Linnéuniversitetet, Sigfridsområdet
+ Industri: Sandvik
 					1,0 km/1,0 km	45 s/45 s
-T-korsning
+Dubbel T-korsning (lokal väg)
+ Ej skyltad väg
  Ekebergs företagspark
 					0,8 km/0,8 km	36 s/36 s
 Järnvägsviadukt
  Kust-till-Kustbanan
 					0,9 km/0,9 km	41 s/41 s
-T-korsning Skirsnäs
- Växjö S, Linnéuniversitetet
+T-korsning Skirsnäs (lokal väg)
+ Sigfridsområdet
 					0,5 km/0,5 km	23 s/23 s
-Korsning Lidhem
- Enskilda vägar
+Korsning Lidhem (enskilda vägar)
+ Ängarna
+ Skir
 					4,0 km/4,1 km	3 min 0 s/3 min 5 s
-T-korsning Skogslund
+(T-korsning Bramstorp)
+ Lundanäs, Enskild väg
+
+T-korsning Skogslund Växjö
+ Krokvik
 					0,5 km/0,4 km	23 s/18 s
 T-korsning
+ Tegnaby, Åryd
 					3,7 km/3,8 km	2 min 47 s/2 min 51 s
-T-korsning
+(Bro över ..)
+
+T-korsning Torsjö
+ Tegnaby
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-T-korsning 27/Finnamyrsv.
+Infopunkt Ingelstad: (56.7565986,14.9194733)
+(sydgående riktning)
+
+T-korsning Rv 27/Finnamyrsv.
+ Industri: Norra, Lokal väg
 					0,3 km/0,3 km	18 s/18 s
-T-korsning 27/Albreckts v.
- Bensinstation: OKQ8
+T-korsning Rv 27/Albreckts v.
+ Bensinstation: Ingelstadshuset
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
 Rondell Ingelstad kyrkan
+ Ingelstad Centrum
+ Hovmantorp
+ Hotell/Restaurang: Solviken
+ Inglinge Hög (sevärdhet)
+ Camping, Badplats
 					0,4 km/0,3 km	24 s/18 s
 T-korsning
+ Väderlanda
 					0,8 km/0,9 km	41 s/46 s
-T-korsning
+Korsning Rv 27/Dalängsvägen (lokal väg)
+ Sjöbol, Phoenix Mecano
+
+T-korsning (enskild väg)
  Återvinningscentral
 Infoplats (nordgående)
 					0,4 km/0,2 km	21 s/10 s
@@ -51,7 +75,11 @@ T-korsning Rävåsen
 
 Etapp 13: Rävåsen - Tingsryd (22,9 km/22,9 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-T-korsning
+Korsning+T-korsning Brändekvarnsvägen
+ Brändekvarn
+ Säljeryd
+ Kalvsvik, Uråsa
+(2+1-väg börjar/upphör)
 					4,8 km/4,9 km	3 min 36 s/3 min 41 s
 Växjö / Tingsryd
 T-korsning
@@ -164,3 +192,56 @@ T-korsning Backaryds kyrka
 T-korsning Rv 27/Vermansmålav. (enskild väg)
  Vermansmåla, Återvinningsstation
 
+(1+1-väg börjar/upphör)
+
+Korsning Bäckasjögärde (enskild väg)
+ Äskan
+
+Korsning Bäckasjön (enskild väg)
+
+Korsning (enskild väg)
+
+Korsning Fiskareby (enskild väg)
+
+Dubbel T-korsning (lokal väg)
+ Byggelementfabrik
+ Plantterminal
+
+T-korsning Silpinge vsk
+ St. Slipinge
+
+T-korsning (enskild väg)
+ Ej skyltad
+
+Dubbel T-korsning Ettebro
+ L. Slipinge (enskild väg)
+ Ettebro
+
+Trafikkontrollplats Möllenäs)
+(Korsning Möllenäs (enskild väg))
+					/)
+T-korsning
+ Eringsboda, Hasselstad
+
+Trp Kallinge
+ Eringsboda, Kallinge
+ Hasselstad, Bredåkra
+ Ronneby Airport/Kallinge Flygflottilj
+					/)
+Järnvägsviadukt)
+ Blekinge Kustbana
+
+Dubbel T-korsning Dammarnas vsk
+ Bräkne-Hoby
+ SA Bil & Däckservice AB
+
+Rondell Viggenområdet
+ Kallinge, Bilprovning
+ Bensinstation: OKQ8
+ Restaurang: MAX, McDonald's
+
+Trp Ronneby Väst-nord
+ E22 v: Malmö, Karlshamn
+
+Trp Ronneby Väst-syd
+ E22 ö: Kalmar, Karlskrona
