@@ -42,17 +42,17 @@ Infoplats (nordgående)
 T-korsning Ringsjö Värdshus (lokal väg)
  Restaurang: Ringsjö Wärdshus
 					1,1 km/1,0 km	57 s/51 s
-(T-korsning Gamla Boo)
+(T-korsning Gamla Boo S)
  Lokal väg, övertäckt skylt
 
-Korsning Gamla Boo (lokal väg)
+T-korsning Gamla Boo (lokal väg)
  Gamla Boo badplats
 
 Bro över Ringsjön)
 					/)
 Ringsjöfisk Butik & Rökeri
 					0,6 km/0,6 km	31 s/31 s
-Infoplats Bosjöklosters mölla
+Infopunkt Bosjöklosters mölla
 					0,9 km/0,9 km	46 s/46 s
 T-korsning Bosjökloster (lokal väg)
  Bosjökloster, Bosjökloster GK
@@ -65,13 +65,23 @@ T-korsning Ängsbyn (lokal väg)
 Parkeringsplats
 (sydgående riktning)
 					1,0 km/1,0 km	40 s/40 s
+T-korsning (lokal väg)
+ Idrottsplats
+
+T-korsning Nyby Blommor (lokal väg)
 Korsning Nyby
 					1,8 km/1,7 km	1 min 12 s/1 min 8 s
+(T-korsning Rv 23/Karl Johans väg (l.v.)
+
+(T-korsning Rv 23/Nils Magnus väg (l.v.)
+
 T-korsning
 					1,4 km/1,5 km	1 min 24 s/1 min 30 s
-Rondell 23/Ringsjövägen
+(Dubbel T-korsning (lokal väg))
+
+Rondell Höör södra
 					0,6 km/0,6 km	43 s/43 s
-Rondell 23/Hörbyvägen
+Rondell Rv 23/Hörbyvägen
 					0,7 km/0,7 km	50 s/50 s
 Rondell Rv 13/Rv 23
  13 s: Ystad, Hörby
