@@ -377,7 +377,91 @@ Sundve skule
 Rondell Vinje E16
  13 n: Vik, Myrkdalen
  Bensinstasjon: Esso
-========================================
+
+T-korsning E16/Draugsvollbakkane
+ Info: Turveg
+
+T-korsning Vinje Hotell
+ Hotell: Vinje Turisthotell
+ Hundpensjonat
+
+T-korsning Framnes
+ Fv5404: Vasstrondi
+
+T-korsning E16/Bidnesvegen
+ Bidne
+
+Rasteplass Oppheim: (
+
+Hotell: Vossestølen Hotell
+(Bru over ...)
+
+(Vossestølen Camping)
+
+(Oppheims Bua)
+T-korsning Oppheim kyrkje
+ Hotell: Oppheim Hotell
+ Turveg, Mor si grad (sevärdheter)
+
+Rasteplass Oppheimsvatnet/Haugsvik
+
+Dubbel T-korsning Haugsvik
+ Rygg (sevärdighet)
+ Fv5404: Vasstrondi
+
+Haugsvik handel
+ Bobiloppstilling
+
+T-korsning Brandset kryss
+ Brandseth, Ljosno
+ Fjellstove
+
+Hagatun Camping (ikke skiltet)
+
+(T-korsning)
+ Grindaflethytta
+
+T-korsning Stalheim kryss
+ Stalheim, Stalheimskleiva
+ Hotell, Restaurant, Folkemuseum
+
+Stalheimtunnelen-syd (1 189 m)
+
+Stalheimtunnelen-nord
+Sivletunnelen-vest (1 114 m)
+
+Sivletunnelen-aust
+
+(Nærøydalselva bru)
+ Nærøydalselvi, 39 m
+T-korsning Sivlesøy
+ Voss (sykelsti)
+ Turistinformasjon
+ 
+Stalheimsøy Gard: (60.8415391,6.7031796)
+
+(Voss / Aurland
+					(/
+Holten bru II (26 m)
+ Nærøydalselvi
+Jordøla bru (32 m, kommunegrense)
+ Jordøla
+
+Rasteplass Nærøydalselvi
+T-korsning Holmen
+(Glashammar bru)
+ Nærøydalselvi, 52 m
+					/)
+Voss / Aurland)
+
+(Skjerping bru)
+ Nærøydalselvi, 52 m
+Hemre Gård & Camping
+
+Vang Camping
+
+Gudvangen Camping
+
 T-korning Gudvangen E16
 (Ramsøy bru)
  Nærøydalselvi, 68 m
