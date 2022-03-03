@@ -447,4 +447,65 @@ T-korsning Kvikne Coop-marked
  Håndlaget, Trygdepensjonat
  Returpunkt, Post
 
+(T-korsning Rv 3/Bjørganveien)
+ Bjørgan prestegård, Bjørnsons fødested
 
+T-korsning Kvikne kirke
+ Kvikne kirke (sevärdighet)
+
+T-korsning
+ Samfunnshus, Idrettsplass
+
+T-korsning Stai bru
+ Stai bru
+
+T-korsning Ølsetlykkja
+ Synnøves Hjemmebakeri
+
+Bensinstasjon: Max Bensin Kvikne
+
+(T-korsning Storeng Kvikne camping)
+ Over en bru
+
+Rasteplass Litjfossen
+(fremst for sydgående)
+
+Litjfossen bru (55 m)
+ Orkla
+
+(Innlandet /
+(Tynset /
+(Gjennvinningsstasjon)
+/ Trøndelag)
+/ Rennebu)
+
+Nåverdalsbrua (100 m)
+ Orkla
+
+(Bru over Nåva)
+
+Lang Parkeringsplass: (62.7108463, 10.0662320)
+(østre side, for lastebiler sannsynligvis)
+
+T-korsning
+ Innset kirke
+
+Bensinstasjon: Max
+T-korsning Innset
+ Fv6510: Åsbakken
+ Sammfunnshus, Skole
+Butikk: Grendabua
+
+(Bru over bekk)
+
+T-korsning
+ Granligrenda
+
+Ulsbergbrua (91 m)
+ Dovrebanen
+	
+(Ulsberg fd stasjon)
+
+T-korsning Ulsberg
+ E6 n: Trondheim
+ E6 s: Oslo, Oppdal
