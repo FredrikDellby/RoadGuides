@@ -104,6 +104,7 @@ Trp Torsboda II (236)
  Bensinstation: Circle-K
 
 (Järnvägsviadukt)
+ Ådalsbanan
 T-korsning Torsboda Ö
  Hässjö kyrka
 
@@ -130,13 +131,48 @@ Korsning Sunne E4 (enskild väg)
  Vändplats, Sunne
 
 Dubbel T-korsning Bye Rast (enskild väg)
+ Bye Camping (Café/Restaurang)
+ Krånge (ej förskyltad)
 
 T-korsning Bye (enskild väg)
+ Sörängen, Bye (endast förskyltad nordgående)
 
 Sundsvall / Härnösand: (62.55813,17.6733213)
 T-korsning (enskild väg)
 (endast förskyltad sydgående)
  Vändplats, Grimsnäs
+
+Korsning (enskild väg)
+ Gåsnäs (ej förskyltad)
+
+Järnvägsviadukt
+ Ådalsbanan
+
+Korsning Högsnäs
+ Häggdånger K:a, Åvike
+ Häggsjö (enskild väg)
+
+T-korsning (enskild väg)
+ Kammartjärn
+
+Korsning Sörantjärn (enskild väg)
+ Sörantjärn, Vändplats
+
+Korsning Antjärn E4
+  Häggdånger K:a
+  Billsta, Sörmark
+  Antjärns Camping och Stugby
+
+Korsning Motorbanan E4
+ Häggdånger K:a, Mittsverigebanan
+ Tjärnsjö (enskild väg)
+
+Parkeringsplats (sydgående)
+
+Korsning Kittjärn (enskild väg)
+ Vändplats, Kittjärn
+
+Vändplats Lägdom (sydgående)
 
 Etapp 30: Härnösand - Mörtsal ()
 
