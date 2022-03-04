@@ -51,22 +51,92 @@ Sundsvall / Timrå: (62.4708985,17.3144308)
 					0.6 km/1.2 km	22 s/43 s
 Trafikplats Timrå (231)
  Timrå Centrum
+ Industri: Östrand (3,5 ton)
+ Infoplats
+ Restaurang: Lodelis Restaurang & Catering
 					2.1 km/2.5 km	1 min 16 s/1 min 30 s
 Busshållplats Timrå E4 (avfart, båda riktningar)
 
 Trafikplats Vivsta (232)
- Fagervik, Vivsta Varv
+ Timrå N
+ Fagervik, Vivstavarv
+ Industri: Timrå, NHC Arena
+ Badplats, Vivstavarvstjärns Camping
+
+Motorväg / Motortrafikled: (62.5027023,17.3493015)
 					4.1 km/3.1 km	2 min 44 s/2 min 4 s
 Trp Sörberge (233)
- 330: Indal
+ 330: Bergeforsen, Indal
  331: Sollefteå, Viksjö
+ Sörberge
+ Bergefors Park (Stugor/bad mm)
+ (Bensinstation: Gulf)
+ (Restaurang: Inez Gatukök, Sörbergegrillen, Pizzeria Cosmos)
 
 Etapp 29: Timrå - Härnösand ()
 
 Bro över Indalsälven (400 m)
 
 Trp Midlanda (234)
- Sundsvalls Flygplats
+ Naturreservat (Indalsälvens Delta)
+ Sundsvalls Flygplats Midlanda
+ Infoplats (Rastplats Y:et)
+ Bensinstation: Q-star
+
+Bro över Indalsälven (ca 100 m)
+
+Bro över Indalsälven (ca 250 m)
+
+(Trp Storholmen)
+ Enskild väg, ej skyltad
+
+Bro över Indalsälven (ca 120 m)
+
+Trp Torsboda I (235)
+ Åstön, Tynderö, Söråker
+ Söråker Hamn
+ Industri: Torsboda
+ Hotell/Restaurang: Söråkers Herrgård
+
+Trp Torsboda II (236)
+ Ala
+ Gumböle
+ Bensinstation: Circle-K
+
+(Järnvägsviadukt)
+T-korsning Torsboda Ö
+ Hässjö kyrka
+
+(fd) Parkeringsficka (grus)
+(nordgående riktning)
+
+Korsning Gökböle (enskild väg)
+ Vändplats, Gökböle
+
+(Vall över Bölesjön)
+
+Rastplats Bölesjön
+
+Korsning Svarvarböle vägskäl
+ Västansjö
+ Hässjö kyrka
+
+(T-korsning (enskild väg))
+ Vändplats, ej skyltad
+
+Vändplats Hussjö (sydgående)
+
+Korsning Sunne E4 (enskild väg)
+ Vändplats, Sunne
+
+Dubbel T-korsning Bye Rast (enskild väg)
+
+T-korsning Bye (enskild väg)
+
+Sundsvall / Härnösand: (62.55813,17.6733213)
+T-korsning (enskild väg)
+(endast förskyltad sydgående)
+ Vändplats, Grimsnäs
 
 Etapp 30: Härnösand - Mörtsal ()
 
