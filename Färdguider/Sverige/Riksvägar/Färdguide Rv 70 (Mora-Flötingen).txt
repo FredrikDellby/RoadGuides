@@ -1,6 +1,44 @@
 Färdguide Rv 70 (Mora - Flötingen)
 ===================================
 
-Etapp 14: Älvdalen - Särna ()
+Etapp 14: Mora - Älvdalen ()
 
-Etapp 15: Särna - Flötingen ()
+Rondell E45/Älvgatan
+ E45 s: Torsby, Malung
+(T-korsning Rv 70/Älvgatan)
+
+Rondell Rv 70/Badstugatan
+
+Badstubacksbron
+ Österdalälven
+
+Rondell Rv 70/Önavägen
+ Bensinstation: Circle-K, Shell
+ Restaurang: Isik Pizzeria
+
+Korsning Rv 70/Gruvvägen
+ Veterinär, Lokal väg
+
+T-korsning Rv 70/Kråkbergsv.
+ Enskild väg
+
+Korsning Finnsnäs
+ Östnor, Industri
+
+T-korsning (enskild väg)
+ Kråkberg
+ Karl Hedin Bygghandel, Brukshundklubb
+
+Korsning Frostkitten
+ Våmhus (camping), Bonäs
+ Myrängsgårdens Gästgiveri
+
+T-korsning (enskild väg)
+ Östnor
+
+Parkering Alderängarna: (61.0517269,14.4353717)
+ Sevärdhet
+s
+Etapp 15: Älvdalen - Särna ()
+
+Etapp 16: Särna - Flötingen ()

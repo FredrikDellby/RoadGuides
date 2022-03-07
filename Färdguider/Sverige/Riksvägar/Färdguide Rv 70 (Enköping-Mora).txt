@@ -545,14 +545,5 @@ T-korsning E45/Stationsv.
 
 Rondell E45/Älvgatan
  E45 s: Torsby, Malung
-(T-korsing Rv 70/Älvgatan)
-
-Rondell Rv 70/Badstugatan
-
-Badstubacksbron
- Österdalälven
-
-Rondell Rv 70/Önavägen
- Bensinstation: Circle-K, Shell
- Restaurang: Isik Pizzeria
+(T-korsning Rv 70/Älvgatan)
 
