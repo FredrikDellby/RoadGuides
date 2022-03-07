@@ -108,7 +108,7 @@ Ringerike / Krødsherad
 Kryss Ørgenvika
  280: Noresund
 
-Parkeringsplats (vestgående)
+Parkeringsplass (vestgående)
 
 Krødsherad / Flå
 
@@ -237,9 +237,9 @@ Korsning Bromma
  Restaurang: Nor Kro
 T-korsning Norsenteret
 
-Rasteplass Bromma
+Rasteplass Bromma (nordre side)
 
-Parkeringsplass
+Parkeringsplass (nordre side)
 
 T-korsning
  Fekjan Hytte/Camping
