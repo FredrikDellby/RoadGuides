@@ -1,14 +1,14 @@
-Reseguide Rv 7 Hønefoss -  Hardangerbrua
+Reseguide Rv 7 HÃ¸nefoss -  Hardangerbrua
 =========================================
 
 Rondell E16/Rv 7
  E16 n: Bergen, Fagernes
- E16 s: Oslo, Bærum
+ E16 s: Oslo, BÃ¦rum
 					2.6 km/2.5 km	2 min 14 s/2 min 9 s
 T-korsning Ramsrud Rv 7
  Sandaker
 
-T-korsning Nøkleby Rv 7
+T-korsning NÃ¸kleby Rv 7
  Fv2874: Ask, [350]
 					4.3 km/4.3 km	3 min 41 s/3 min 41 s
 Karlsplassbrua (123 m): (60.1945796,10.1551989)
@@ -16,30 +16,30 @@ Karlsplassbrua (123 m): (60.1945796,10.1551989)
 Elvenga bru (48 m): (60.1960135,10.1501054)
 
 T-korsning Heggenvanninga
- Fv2876: Heggen, Øst Veme
+ Fv2876: Heggen, Ã˜st Veme
 					2.1 km/2.4 km	1 min 48 s/2 min 3 s
 T-korsning Rv 7/Stadionveien
  Veme stadion
 
 Restaurant: Sophas Mathus
-Korsning Veme-øst
+Korsning Veme-Ã¸st
  Fv2880: Lia
 
 Bensinstasjon: Shell
 
 T-korsning Veme-vest
- Øst Veme, Veme kirke
+ Ã˜st Veme, Veme kirke
 					2.5 km/2.2 km	2 min 9 s/1 min 53 s
-(Væla bru)
- Væla, 19 m
+(VÃ¦la bru)
+ VÃ¦la, 19 m
 T-korsning Funkalsrud
  Jonsrud
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
 Dubbel T-korsning Gardhammer
  Fv2880: Skotland
- Jonsrud (endast skiltet østgående)
+ Jonsrud (endast skiltet Ã¸stgÃ¥ende)
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
-T-korsning Bårnås bru
+T-korsning BÃ¥rnÃ¥s bru
  Tranby
 					3.2 km/3.2 km	2 min 45 s/2 min 45 s
 (Korsning Rv 7/Fossefaret)
@@ -51,10 +51,10 @@ T-korsning Loftshus
 Hovland bru (37 m)
  Sogna
 					0.3 km/0.6 km	22 s/43 s
-T-korsning Sokna-øst
- Fv2884: Strømsoddbygda, Lunder kirke
+T-korsning Sokna-Ã¸st
+ Fv2884: StrÃ¸msoddbygda, Lunder kirke
 
-Rustad Café
+Rustad CafÃ©
 Bensinstasjon: YX
 
 Korsning+T-korsning Sokna sentrum
@@ -78,7 +78,7 @@ Jernbanebru
 
 90 km/h / 80 km/h: (60.2608005,9.8729607
 
-Kjettingplass (vestgående)
+Kjettingplass (vestgÃ¥ende)
 
 Juvet bru (90 m)
  Bergensbanen og Brekkebygdveien
@@ -86,7 +86,7 @@ Juvet bru (90 m)
 Rudselva bru (82 m)
  Rudselva
 
-Rallerudtunnelen-øst
+Rallerudtunnelen-Ã¸st
  2 780 m
 
 (Rallerudtunnelen-vest
@@ -98,35 +98,35 @@ Brekkebygda bomstasjon
  78,- / 157,-
 
 (90 km/h / 80 km/h)
-Kjettingplass (vestgående)
-Ørgenviktunnelen-øst
+Kjettingplass (vestgÃ¥ende)
+Ã˜rgenviktunnelen-Ã¸st
 
-Ringerike / Krødsherad
+Ringerike / KrÃ¸dsherad
 
-(Ørgenviktunnelen-vest
+(Ã˜rgenviktunnelen-vest
 
-Kryss Ørgenvika
+Kryss Ã˜rgenvika
  280: Noresund
 
-Parkeringsplats (vestgående)
+Parkeringsplats (vestgÃ¥ende)
 
-Krødsherad / Flå
+KrÃ¸dsherad / FlÃ¥
 
-Rasteplass Lindelia/Krøderfjorden
+Rasteplass Lindelia/KrÃ¸derfjorden
 
 (Parkeringsficka grus): (60.333715, 9.6486136)
 
-T-korsning Sønstebydalen
- Fv2900: Sørbygda
+T-korsning SÃ¸nstebydalen
+ Fv2900: SÃ¸rbygda
 
-T-korsning Tromaldstøa
+T-korsning TromaldstÃ¸a
  Fv2900: Gulsvik S, Vidalen
 (Trommald bru)
  Lielvi, 20 m
 
-Møteskilt vei begynner/ender
+MÃ¸teskilt vei begynner/ender
 
-Møteskilt vei ender/begynner
+MÃ¸teskilt vei ender/begynner
 
 Rasteplass Vikstrand
 
@@ -134,7 +134,7 @@ Rasteplass Gulsvik
 
 T-korsning Gulsvik brygge
  Bensinstasjon: Circle-K
- Elbilsladdning: Tesla, Mer, Grønn Kontakt
+ Elbilsladdning: Tesla, Mer, GrÃ¸nn Kontakt
  Restaurang: Hallingporten
 
 Solheimselv bru (37 m)
@@ -147,12 +147,12 @@ T-korsning Gulsvik-vest
 
 Rasteplass Kittilsviki
 
-Rasteplass Hallingporten øst
-(vestgående retning)
+Rasteplass Hallingporten Ã¸st
+(vestgÃ¥ende retning)
 
 Hallingporten (65 m)
 Rasteplass Hallingporten vest
-(østgående retning)
+(Ã¸stgÃ¥ende retning)
 
 Rasteplass Tuve bru)
 
@@ -163,72 +163,72 @@ Gulsvik bru (131 m)
  Hallingdalselva
 
 T-korsning Gamle sentralen
- Fv2902: Veteren, Høgevarde
+ Fv2902: Veteren, HÃ¸gevarde
 
 (Roppe bru)
 T-korsning Roppe bru
  Roppemoen
 
-Møteskilt vei begynner/ender
+MÃ¸teskilt vei begynner/ender
 
-Møteskilt vei ender/begynner
+MÃ¸teskilt vei ender/begynner
 
-(Møteskilt vei)
+(MÃ¸teskilt vei)
 
-Rasteplass Flå øst: (60.4234446, 9.47102456)
+Rasteplass FlÃ¥ Ã¸st: (60.4234446, 9.47102456)
 
 (T-korsning)
- Flå stadion
+ FlÃ¥ stadion
 
-Rondell Flå kirke
+Rondell FlÃ¥ kirke
  Fv2904: Turufjell
 
-Restaurang: Rumi Café
+Restaurang: Rumi CafÃ©
 Bensinstasjon: Esso
-Flå veksthus (kommunhus)
+FlÃ¥ veksthus (kommunhus)
 
-Rondell Bjørneparken
- Flå kjøpesenter
+Rondell BjÃ¸rneparken
+ FlÃ¥ kjÃ¸pesenter
  Bensinstasjon: Shell
  Elbilsladdning: Fortum
  Restaurang: McDonald's
- Flå Bjørnepark
+ FlÃ¥ BjÃ¸rnepark
 
-(Møteskilt vei)
+(MÃ¸teskilt vei)
 
-Grøsland bru (33 m)
- Grøslandelvi
+GrÃ¸sland bru (33 m)
+ GrÃ¸slandelvi
 
 T-korsning Tollevsrudlykka
- Fv2904: Flå kirke
+ Fv2904: FlÃ¥ kirke
 
 T-korsning Stavn
  Flenten, Stavn, Stavn Camping
 
-Haugeå bru (33 m)
+HaugeÃ¥ bru (33 m)
  Stamnselvi
 
 Stavn Campingsenter
 
 T-korsning Stavn skole
  Flenten, Stavn
- Stavn Gård og Hytter
+ Stavn GÃ¥rd og Hytter
 
 T-korsning Kolsrud
  Kolsrud
 
-Flå / Nesbyen
+FlÃ¥ / Nesbyen
 
 Rasteplass Bergheim
 T-korsning Bergheim
  Bergheim
 (Bru over foss)
 
-Møteskilt vei begynner/ender
+MÃ¸teskilt vei begynner/ender
 
-Møteskilt vei ender/begynner
+MÃ¸teskilt vei ender/begynner
 
-(Møteskilt vei)
+(MÃ¸teskilt vei)
 
 Korsning Bromma
  287: Eggedal, Hagleby
@@ -257,10 +257,10 @@ T-korsning Moane vest
 Rasteplass Moan: (60.5621154, 9.1217892)
 
 Rasteplass Nesbyen
-(vestgående retning)
+(vestgÃ¥ende retning)
 
 T-korsning Nesbyen Rv 7
- Fv2910: [40], Rødberg, Nesbyen
+ Fv2910: [40], RÃ¸dberg, Nesbyen
  Vassfaret naturreservat/vandring
  Museum, Skisenter, Golfbana
  Bensinstasjon: Shell
@@ -270,23 +270,23 @@ T-korsning Nesbyen Rv 7
 
 Bru over ..
 
-T-korsning Sutøya
- Camping/Café: Sjong
- Camping/Hotell/Restaurant: Sutøya Feriepark
+T-korsning SutÃ¸ya
+ Camping/CafÃ©: Sjong
+ Camping/Hotell/Restaurant: SutÃ¸ya Feriepark
 
 (Korsning Sjong nord)
  Sjong Camping nord infart
 
-T-korsning Smedsgården
- Hotell/Restaurant: Smedsgården
+T-korsning SmedsgÃ¥rden
+ Hotell/Restaurant: SmedsgÃ¥rden
 
 (Parkeringsplass)
-T-korsning Garnås
- Garnås, Meteorittkrater
+T-korsning GarnÃ¥s
+ GarnÃ¥s, Meteorittkrater
 
-Møteskilt vei begynner/ender
+MÃ¸teskilt vei begynner/ender
 
-Møteskilt vei ender/begynner
+MÃ¸teskilt vei ender/begynner
 
 Rasteplass Hallibakken: (60.6392407, 9.0567764)
 
@@ -296,46 +296,46 @@ Svenkerud veibru (42 m)
  Hallingdalselva
 Nesbyen / Gol
 T-korsning Rv 7/Rudvegen
- Fv2908: Nesbyen øst
+ Fv2908: Nesbyen Ã¸st
 
 T-korsning Bruslageret
  Halling Frakt AS (lokal vei)
 
 T-korsning Herad skule
  Bagn, Liagardane (tollvei)
- Gol hyttegrend, Gol Stål, Herad skule
+ Gol hyttegrend, Gol StÃ¥l, Herad skule
 
 Herad kyrkje
 
 T-korsning (Gol Camping)
- Herad samdrift, Frøysokstugu
+ Herad samdrift, FrÃ¸ysokstugu
 Korsning Gol Camping
  Gol Campingsenter
  Restaurang: Hoftun Kro
 
 (Korsning Haga bru)
- Gol avløpsrenseanlegg
+ Gol avlÃ¸psrenseanlegg
 (Haga bru)
 
 (Gol Bilhallar)
 
-Servicested Gol øst
+Servicested Gol Ã¸st
  Bensinstasjon: Shell
  Restaurant:
-Rasteplass Gol øst
+Rasteplass Gol Ã¸st
 
 (Hemsil bru (29 m)
- kraftverksavløp
+ kraftverksavlÃ¸p
 					(/
 (Infoplass)
-(vestgående retning)
+(vestgÃ¥ende retning)
 T-korsning
  Fv2914: Gol sentrum, stasjon
  Info, mat, hotell, m.m.
  LPG stasjon
 
 Viko bru (35,5 m)
- Hemsil øst
+ Hemsil Ã¸st
 
 Rondell Gordarike Rv 7
  Gol sentrum
@@ -344,17 +344,17 @@ Rondell Gordarike Rv 7
 Slettemoen bru (33,5 m)
  Hemsil vest
 
-Rondell Gol Næringspark
+Rondell Gol NÃ¦ringspark
  [51]: Fagernes, Golsfjellet
- 52: Lærdal, Hemsedal
+ 52: LÃ¦rdal, Hemsedal
  Gol Sentrum
  Info, mat, hotell, m.m.
- Gordarike (seværdighet)
+ Gordarike (sevÃ¦rdighet)
 
-Personbråten Camping
+PersonbrÃ¥ten Camping
 
 Rasteplass Gol vest
-(fremst for østgående)
+(fremst for Ã¸stgÃ¥ende)
 
 Brekko camping
 
@@ -366,15 +366,15 @@ T-korsning Rotneim vest
 
 (Bru over Verma)
 
-Gol / Ål: (60.6704351,8.7959973)
+Gol / Ã…l: (60.6704351,8.7959973)
 
 T-korsning Trillhus
  Trillhus Camping og hytter
 
-Torpo Gjestegård
+Torpo GjestegÃ¥rd
  Ski- & Sykkelcamp
 
-T-korsning Torpo øst
+T-korsning Torpo Ã¸st
  Fv2926: Torpo Aust, Lien
  Stavkyrkje
  Camping, Info
@@ -387,20 +387,20 @@ T-korsning Torpo vest
 
 T-korsning Rv 7/Kringlevegen
 
-(Korsning Torpomoen øst)
-T-korsning Torpomoen øst
+(Korsning Torpomoen Ã¸st)
+T-korsning Torpomoen Ã¸st
  Torpomoen
 
 (T-korsning Torpomoen vest)
  Torpomoen
 
-Ål Trelast AS
+Ã…l Trelast AS
 
 T-korsning Rv 7/Liagardsvegen
- Liagardane, Ål Trelast
+ Liagardane, Ã…l Trelast
 
 T-korsning Sando Bru
- Sataslåtten Camping, Hytter
+ SataslÃ¥tten Camping, Hytter
 
 T-korsning Gullhagen Industri
  Gullhagen Industri
@@ -408,49 +408,49 @@ T-korsning Gullhagen Industri
 (Gullhagabrue)
  Vatna
 T-korsning Gullhagabrue
- Fv2930: Vats, Bergsjø/Rødungstølsområdet
+ Fv2930: Vats, BergsjÃ¸/RÃ¸dungstÃ¸lsomrÃ¥det
  Skisenter
  Camping, Info
 
-T-korsning Ål Camping
- Ål Camping & Hytter
+T-korsning Ã…l Camping
+ Ã…l Camping & Hytter
 
 T-korsning
- Oppsjø Industri
+ OppsjÃ¸ Industri
 
-T-korsning Ål Sentrum Rv 7
- Fv2932: Ål Sentrum, stasjon
+T-korsning Ã…l Sentrum Rv 7
+ Fv2932: Ã…l Sentrum, stasjon
  Bensinstasjon: Circle-K
- Elbilslading: Kople, Grønn Kontakt
+ Elbilslading: Kople, GrÃ¸nn Kontakt
  Restaurant: Aroma Kafe Grill og Pizza
- Hotell: Thon Hotel Hallingdal, Ål Pensjonat
+ Hotell: Thon Hotel Hallingdal, Ã…l Pensjonat
 
-T-korsning Ål vest
- Fv2934: Hyttepark, Camping, Høyt & Lavt Klatrepark
+T-korsning Ã…l vest
+ Fv2934: Hyttepark, Camping, HÃ¸yt & Lavt Klatrepark
 
 (Vangebrua)
 Dubbel T-korsning Vangebrua
  Noss
  Badeplass
 
-(T-korsning Rv 7/Tjørndalsvegen)
+(T-korsning Rv 7/TjÃ¸rndalsvegen)
 
 T-korsning
- Breie (endast skiltet vestgående)
+ Breie (endast skiltet vestgÃ¥ende)
 
-Infopunkt (østgående)
+Infopunkt (Ã¸stgÃ¥ende)
 T-korsning Tellehaug
- Berie (endast skiltet østgående)
+ Berie (endast skiltet Ã¸stgÃ¥ende)
 
 T-korsning Kleivi Industri
- Kleivi Næringspark, Rødungen S
+ Kleivi NÃ¦ringspark, RÃ¸dungen S
  OOES Kortanlegg, Gartneri
-Ål / Hol: (60.5784617,8.4164084)
+Ã…l / Hol: (60.5784617,8.4164084)
 
 Korsning Kleivi
 
 Parkerings/Infopunkt
-(fremst østgående)
+(fremst Ã¸stgÃ¥ende)
 (T-korsning Slettemoen)
 
 Dubbel T-korsning Hol kirke)
@@ -468,49 +468,49 @@ T-korsning Hagafoss
 T-korsning Veidal
  Hol stasjon
 
-(T-korsning Røo)
+(T-korsning RÃ¸o)
 
 T-korsning Vindeggleet
- Hamarsbøen
+ HamarsbÃ¸en
 
 (T-korsning Sandsvegen)
  Maskinsalg
 (Gjenvinningsstasjon)
 
-(Dubbel T-korsning Årset)
+(Dubbel T-korsning Ã…rset)
  Lokale veier, ej skiltet
 
-(Bru over Fossåne)
+(Bru over FossÃ¥ne)
 
-T-korsning Trøo
+T-korsning TrÃ¸o
  for
 
 (Jernbanebru)
  Bergensbanen
-T-korsning Rv 7/Vøllovegen
+T-korsning Rv 7/VÃ¸llovegen
  Geilo Mekaniske Sveiseverksted
 
-Dubbel T-korsning Øen Turistsenter
- Geilo Næringspark
- Øen Turistsenter: Hotell, Camping, Hytter, Mat
- Øyovegen, Budalslie
+Dubbel T-korsning Ã˜en Turistsenter
+ Geilo NÃ¦ringspark
+ Ã˜en Turistsenter: Hotell, Camping, Hytter, Mat
+ Ã˜yovegen, Budalslie
  Geilomoen Barnesykehus
 
 Brusletto & Co AS
 T-korsning
  Geilo Hytter og Camping
  Avfallsmottak, Geilo Barnehage
-Rasteplass Øen (fremst vestgående)
+Rasteplass Ã˜en (fremst vestgÃ¥ende)
 
 (T-korsning Rv 7/Lundvegen)
- Geilomoen Næringshage
+ Geilomoen NÃ¦ringshage
 
 (T-korsning Geilo Esso)
 Bensinstasjon: Esso
 
 (Dubbel) T-korsning Geilo skole
  Havsdalen Prestholt
- Hotell/Restaurant: Bardøla
+ Hotell/Restaurant: BardÃ¸la
  Havsdalsenteret (ski)
  Geilo skole
 
@@ -518,7 +518,7 @@ Bensinstasjon: Circle-K
 					/)
 Restaurant: Golden House
 T-korsning Rv 7/Geilovegen
- Sentrum, Geilo stasjon (skiltet vestgående)
+ Sentrum, Geilo stasjon (skiltet vestgÃ¥ende)
 
 Hotell/Restaurant: Highland Lodge
 
@@ -544,7 +544,7 @@ T-korsning Rv 7/Gamlevegen
 Hotel/Restaurant: Tuftelia
 					/)
 T-korsning Rv 7/Skarsetvegen)
- Tuftebrui (seværdighet)
+ Tuftebrui (sevÃ¦rdighet)
 (Gjennvinningsstasjon)
 
 Bru over ?: 60.5230062,8.1285998
@@ -565,29 +565,29 @@ Bensinstasjon & Kiosk
 
 Ustaoset Rom og Hytteutleie
 
-(Bru over Lorthølbekken)
-Gjennvinningsstasjon (søndre side)
+(Bru over LorthÃ¸lbekken)
+Gjennvinningsstasjon (sÃ¸ndre side)
 
-Parkering (grus, søndre side)
+Parkering (grus, sÃ¸ndre side)
 
-Bru over Øyneåni
+Bru over Ã˜yneÃ¥ni
 
 Parkering/Gjenvinning Uggen: (60.5039370, 7.9760371)
- Søndre side
+ SÃ¸ndre side
 
 Rasteplass Ustevatnet: (60.5048438, 7.9432087)
- Søndre side
+ SÃ¸ndre side
 
 Rasteplass Plassen
 
 (Jernbaneviadukt)
  Bergensbanen
 T-korsning
- Haugastøl stasjon
+ HaugastÃ¸l stasjon
 
-Rasteplass Haugastøl (nordre side)
+Rasteplass HaugastÃ¸l (nordre side)
 
-Haugastøl Turistanlegg
+HaugastÃ¸l Turistanlegg
  Hotell mm
 Infoplass (nordre side)
  Rallarvegen
@@ -596,38 +596,38 @@ Bom for fjellovergang
 Ustekveikja bru II (15,5 m)
  Ustekveikja
 
-Gretteberg Kafé
-Parkering/Gjenvinning (søndre side)
+Gretteberg KafÃ©
+Parkering/Gjenvinning (sÃ¸ndre side)
 Parkering Tursti (nordre side)
 
 Parkering/Vendplass
 Bom for fjellovergang
-(Bru over Ørteråne)
+(Bru over Ã˜rterÃ¥ne)
 
-(T-korsning Østerdammen)
+(T-korsning Ã˜sterdammen)
 
-Rasteplass Østerdammen: (60.4781803,7.825788)
+Rasteplass Ã˜sterdammen: (60.4781803,7.825788)
 
-Rasteplass Lægreidsfyllinga: (60.4615587,7.818304)
+Rasteplass LÃ¦greidsfyllinga: (60.4615587,7.818304)
 
 T-korsning Fagerheim Fjellstove
  Fagerheim Fjellstugu
 
 Krekkja bru (13 m)
- Krækkjaungen
+ KrÃ¦kkjaungen
 
 Samegammene (souvenirs)
 
-Rasteplass Båtstjørne?: (60.4335389,7.7669212)
-Rasteplass Båtstjørne?: (60.4335230, 7.7631232)
+Rasteplass BÃ¥tstjÃ¸rne?: (60.4335389,7.7669212)
+Rasteplass BÃ¥tstjÃ¸rne?: (60.4335230, 7.7631232)
 
-Rasteplass Båtstjørne?: (60.4320830, 7.7556345)
+Rasteplass BÃ¥tstjÃ¸rne?: (60.4320830, 7.7556345)
 
-Rasteplass Båtstjørne?: (60.4296582, 7.7485427)
+Rasteplass BÃ¥tstjÃ¸rne?: (60.4296582, 7.7485427)
 
-Rasteplass Båtstjørne?: (60.4271919, 7.7443828)
+Rasteplass BÃ¥tstjÃ¸rne?: (60.4271919, 7.7443828)
 
-Lægreid Høyfjellsseter: (60.4214349,7.7170697)
+LÃ¦greid HÃ¸yfjellsseter: (60.4214349,7.7170697)
 
 Rasteplass Halne: (60.4183959,7.7050327)
 
@@ -636,27 +636,27 @@ Hol / Eidfjord
 
 Halne Fjellstugu
 T-korsning Halne
- Turistbåt
+ TuristbÃ¥t
 
 (Liten Parkeringsplass): (60.4119655,7.6464221)
 
-Bru over Skulevikåna: (60.4023013,7.6170841)
+Bru over SkulevikÃ¥na: (60.4023013,7.6170841)
 
 Dobbelt Rasteplass Skulevika: (60.4002307, 7.6154150)
- En på vært side
+ En pÃ¥ vÃ¦rt side
 
-Rasteplass Skiftesjøen: (60.3769661,7.5660344)
+Rasteplass SkiftesjÃ¸en: (60.3769661,7.5660344)
 
-Rasteplass Høgdesteinen?: (60.3724157,7.5412612)
- veiens høyeste punkt, 1250 moh
+Rasteplass HÃ¸gdesteinen?: (60.3724157,7.5412612)
+ veiens hÃ¸yeste punkt, 1250 moh
 
-Dubbel T-korsning Tråastølen
+Dubbel T-korsning TrÃ¥astÃ¸len
  Hotell/Restaurant: Trondsbu
 
 Dyranut Fjellstova/Rasteplass
 
 Liten Parkeringsplass: (60.3690885, 7.4952960)
-Målestasjon?
+MÃ¥lestasjon?
 
 (Sidoveg)
 
@@ -666,11 +666,11 @@ Krossdalen (stugu+liten parkering)
 
 (Sidoveg)
 
-Rasteplass Våkavadet
-(søndre side)
+Rasteplass VÃ¥kavadet
+(sÃ¸ndre side)
 
 Lerio parkeringsplasser
- En på vært side
+ En pÃ¥ vÃ¦rt side
 					/)
 Bom for fjellovergang (Sysendammen)
 Leiro bru (Leiro, 19 m)
@@ -691,4 +691,98 @@ Korsning Maurset Skisenter
  Vestre Maursetlia
  Elbilsladning: Tesla, BKK
 
+Garen Camping
 
+T-korsning Garen
+ Hytteservice, Golfbane
+
+T-korsning Liseth
+ Liseth Pensjonat og hyttetun
+IsdÃ¸la bru (15 m)
+ IsdÃ¸la
+T-korsning Fossli kryss
+ VÃ¸ringsfossen
+ Hotell/Restaurang: Fossli
+ CafÃ©/Hytter: Ã…stestÃ¸len
+
+T-korsning HÃ¸l (ikke skiltet)
+ VÃ¸ringfoss Kafeteria & Souvenir
+
+VÃ¸ringsfoss bru II (29 m)
+ Bjoreio
+
+T-korsning Fossatromma
+ VÃ¸ringsfoss - Nedre parkering
+
+Dalbergtunnelen (335 m))
+					/)
+Rasteplass Dahlberg
+ Utkikkspunkt
+
+Storegjeltunnelen-Ã¸st (842 m)
+
+Storegjeltunnelen-vest
+
+Rasteplass Storegjel
+(MÃ¥bÃ¸tunnelen-Ã¸st)
+ 1 893 m
+
+(MÃ¥bÃ¸tunnelen-vest
+Rasteplass MÃ¥bÃ¸ bru (vestgÃ¥ende)
+
+Kvernhushaugtunnelen-nord (542 m)
+
+Kvernhushaugtunnelen-syd
+MÃ¥bu bru II (11 m)
+ Bjoreio
+
+T-korsning MÃ¥bÃ¸
+ MÃ¥bÃ¸ gÃ¥rd
+ MÃ¥bÃ¸dalen Kulturlandskapmuseum
+
+(Parkeringsplass, norde side)
+
+Rasteplass Tveito: (60.4215289,7.1873027)
+(nordre side)
+
+Steinberg bru (Bjoreio, 37 m)
+
+MÃ¥bÃ¸dalen Camping: (60.42322,7.1366144)
+
+T-korsning Ã˜vre
+ HjÃ¸lmo
+ Norsk Natursenter Hardanger, Hardangerviddahallen
+ Hotell: Adventure hotel Eidfjord
+
+Dubbel T-korsning Hagavegen
+ Hotell/Restaurang: Eidfjord Gjestgjeveri
+ SÃ¤bÃ¶ Camping
+ HjÃ¸lmo
+
+Myklatun Camping
+(Veig bru)
+ Veig, 48 m
+
+Eidfjordtunnelen-syd (2 070 m)
+
+Eidfjordtunnelen-nord
+
+Stiganestunnelen (351 m)
+
+Kvamsdal Pensjonat: (60.457268,7.0848331)
+
+Bensinstasjon: Bunker Oil Eidfjord
+					/)
+(T-korsning Bygger'n Eidfjord)
+
+Bensinstasjon: YX
+ Fjell og Fjord CafÃ© og Kremmeri
+
+Dubbel T-korsning Eidfjord sentrum
+ Fv5096: Simadal
+ Eidfjord kyrkje
+ Eidfjordhallen, Brukskunst Felemakarsamling
+ Hotell/Restaurang: VÃ¸ringfoss, Vik Pensjonat,
+ Eidfjord Fjell og Fjord Hotell
+ Camping, Hytter
+Restaurang: Sjel og Gane Bar og Restaurant
