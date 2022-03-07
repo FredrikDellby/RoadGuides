@@ -237,3 +237,322 @@ Bensinstation: OKQ8
 Restaurang: Borlänge Världshus
 					1.1 km/1.0 km	57 s/51 s
 Grådarondellen
+ E16 ö: Gävle, Falun
+
+Etapp 7: Borlänge - Amsberg ()
+
+Rondell Tunavägen
+
+Trp Borlänge Centrum
+
+Backarondellen
+
+T-korsning Kupolen E16
+
+Rondell Hagaskolan E16
+ Högskolan Dalarna
+
+T-korsning E16/Masergatan
+ Maserhallen
+
+Rondell Tjärna
+
+Rondell E16/Mårdgatan
+
+T-korsning Tallmon (västgående)
+ Tallmon
+T-korsning Tjärna Discgolf (östgående)
+
+Rondell Mellsta
+
+Bro över Dalälven
+(Korsning Färjenäs södra)
+ Enskild väg
+
+Korsning Norr Amsberg
+ Amsbergs kapell, Badplats
+
+Dubbel T-korsning Amsberg Bilskroten
+ 293: Falun
+
+Etapp 8 : Amsberg - Djurås ()
+
+Rastplats Dalstugan
+(bäst lämpad östgående)
+
+(T-korsning Gagnbro)
+ Enskild väg
+
+Järnvägsbro
+ Siljansbanan
+
+Ingemar Bergmans brygga
+
+Dubbel T-korsning Gimsbärke
+ Restaurang: Rastastugan, Rasta & Fynda
+ Lokal väg
+Infoplats (bäst lämpad västgående)
+
+Parkeringsplats
+(bäst lämpad östgående)
+Borlänge / Gagnef
+
+Korsning Sifferbo E16
+
+T-korsning Sifferbo Camping
+ Lokal väg
+
+T-korsning E16/Gamla landsvägen
+ Enskild väg, Sifferbo Stugby och B&B
+
+T-korsning Djurmoskolan
+
+Korsning Djurmovägen
+
+T-korsning Djurmoo norra
+(ej skyltad östgående)
+ Djurås by
+
+T-korsning Djurås industriomr
+ Lokal väg
+
+T-korsning Täktberget
+ Lokal väg
+
+T-korsning Circle-K Djurås
+ Lokal väg
+
+Rondell E16/Rv 70 Djurås
+ E16 v: Oslo, Vansbro
+
+Etapp 9: Djurås - Leksand ()
+
+(Korsning Prostgårdarna)
+
+T-korsing Korsbacken
+ Gröntuv
+
+Korsning Gagnef V
+ Gröntuv
+ Gagnefs kyrkby
+ Restaurang: Gagnefs Pizzeria/Restaurang
+
+T-korsing Gagnef ICA
+ Gagnef station
+ Bensinstation: Preem
+
+Korsning Gagnef Nordbo
+ Hörnells industri
+
+Korsning Djura vägskäl
+ Djura, Gagnefs kyrkby
+
+T-korsing Gräv södra (enskild väg)
+ Gräv
+
+T-korsing Fix (enskild väg)
+ Gräv
+
+T-korsing Trollkrogen
+ Restaurang: Trollkrogen
+Gagnef / Leksand
+
+(Korsning Ål-kilen Rv 70)
+
+T-korsing Insjön södra
+ Södra Industri
+ Bensinstation: Bilisten/Q-star
+ Restaurang: Brödmasen, Insjöns Restaurang/Pizzeria
+
+Trp Insjön
+ Rexbo
+ Norra Industri
+ Köpcentrum
+
+Österdalälven
+
+T-korsing Rv 70/Ströjavägen
+
+T-korsing Rv 70/Häradsvägen
+ Häradsbygden
+(Järnvägsviadukt)
+ Siljansbanan
+
+Korsning Rv 70/Jon Ollas väg
+ Leksands knäckebröd
+
+Rastplats Leksand
+
+Korsning Leksand södra
+ Sollerön, Siljansnäs, Dala-Järna
+
+Österdalälven
+
+T-korsing Leksand norra
+ Sågmyra, Tällberg
+ Sommarland
+ Bensinstation: Circle-K, Tanka
+
+Etapp 10: Leksand - Rättvik ()
+
+Infoplats
+(bäst lämpad sydgående)
+
+Korsning Krökbacken
+ Torrberg, Leksands GK
+ Lima
+
+(Dubbel) T-korsing Leksboda väg 70
+ Hjortnäs, -gården
+
+Korsning
+ Överboda (enskild väg)
+ Plintsberg
+
+(T-korsing Sätra)
+ Enskild väg
+
+T-korsing Bodlindor väg 70
+ Enskild väg, -gården
+
+Korsning Opplimen
+ N Lindberg, Sjugare
+ Karlfeldtsgården
+
+Korsning Tällbergsporten
+ Tällberg
+ Rastplats Tällbergsporten
+
+T-korsing
+ Sjugare, N Bergsäng
+
+Korsning Kullsbjörken Rv 70
+ Mat och Logi
+
+T-korsing Kullsbjörken Norra
+ Tällberg
+
+Leksand / Rättvik
+
+Korsing Västgärde Rv 70
+ Enskild väg
+
+(Korsning Utby Rv 70)
+
+(Korsning Utby norra)
+
+T-korsing Gärdebyn Södra
+ [E16 ö]: Gävle
+ 69: Falun
+ Bensinstation: OKQ8
+ Restaurang/Hotel: Dala Wärdshus
+Rastplats Rättvik Söderås
+(nordgående riktning)
+
+Etapp 11: Genom Rättvik ()
+
+T-korsing Rv 70/Båthamnsvägen
+ Båthamn
+
+Rondell Karlsvik
+ Rättvik S
+ Restaurang: Karlsviks herrgård
+(Rättviksån)
+
+Rondell Rättvik centrum
+
+Rondell Rättvik station
+
+Rondell Vårdcentralen
+ 301: Edsbyn, Furudal
+
+Etapp 12: Rättvik - Mora ()
+
+Rondell
+
+Korsning Stiftsgården
+ Nittsjö, Dalhalla
+ Sjurberg, Kyrkudden
+
+(T-korsing Rv 70/Tempelvägen)
+ S:t Davidsgården, Meditationsgården
+
+(Korsning Rv 70/Siljansborgsvägen)
+ Enskild väg, Siljansborg
+
+Rastplats Sjurberg (sydgående)
+Infoplats (nordgående)
+
+(Dalbro)
+T-korsing Rv 70/Nittsjövägen
+ Nittsjö
+
+Korsning Rv 70/Hjortgårdsvägen
+ Karl Töfåsens fäbod
+ Sjurberg, Vikarbyn C
+
+Korsning Rv 70/Ö. Röjeråsvägen
+ Sätergården
+ Lanthandel
+ Restaurang: Vikarby Pizzeria
+
+Korsning Öja vägskäl
+ Tammeråsen, Röjeråsen
+ Öja, Vikarbyn C
+
+Infoplats (bäst lämpad sydgående)
+
+Korsning Ickholmen
+ Stumsnäs, Skräddargården
+
+Rättvik /
+(sydgående riktning)
+
+/ Mora
+(nordgående riktning)
+
+Korsning Garsås Rv 70
+ Vandrarhem
+
+Korsning Fu Rv 70
+ Nusnäs
+ Dalahästfabriken
+
+Korsning Färnäs Ö
+ Färnäs
+ Hotel/Restaurang: Värdshuset Moraklockan
+ Bensinstation
+
+Rondell Färnäs V (Kvarn)
+
+Rondell Mora-Noret
+ E45 n: Östersund, Orsa
+
+Etapp 13: Genom Mora ()
+
+Järnvägsviadukt
+ Inlandsbanan
+
+Siljan-Orsasjön
+
+T-korsning E45/Stationsv.
+ Bensinstation: OKQ8
+T-korsning E45/Kristineberg
+ Bensinstation: Statoil
+
+T-korsning E45/Stationsv.
+ Bensinstation: Shell
+
+Rondell E45/Älvgatan
+ E45 s: Torsby, Malung
+(T-korsing Rv 70/Älvgatan)
+
+Rondell Rv 70/Badstugatan
+
+Badstubacksbron
+ Österdalälven
+
+Rondell Rv 70/Önavägen
+ Bensinstation: Circle-K, Shell
+ Restaurang: Isik Pizzeria
+
