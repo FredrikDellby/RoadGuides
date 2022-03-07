@@ -60,6 +60,8 @@ Terningåa bru (Terningåa, 52 m): (60.88057, 11.47075)
 
 Skansen bru (Terningåa, 66,4 m): (60.8869, 11.50627)
 
+Viltlokk
+
 (Bomstasjon)
  43 kr (bil), 46 kr (lastbil)
 Rondell Åkroken: (60.88764, 11.50808)
