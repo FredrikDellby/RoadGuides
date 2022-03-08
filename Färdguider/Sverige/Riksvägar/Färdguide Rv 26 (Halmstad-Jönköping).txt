@@ -94,8 +94,7 @@ Korsning
 T-korsning Nyebro
  Torup
 					1,0 km/1,0 km	40 s/40 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 					1,0 km/1,0 km	40 s/40 s
 Rondell Torup Ö
  150: Falkenberg
@@ -103,42 +102,46 @@ Rondell Torup Ö
 Etapp 4: Torup - Hyltebruk ()
 
 (Vattendrag)
-Korsning
- Enskild väg
+Korsning (enskild väg)
 
 Järnvägsviadukt
  Torup-Hyltebruk
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 
 Dubbel T-korsning
 
 Korsning Glassbo
  Enskild väg, Våffelstuga
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 
-Korsning
- Enskild väg
+Korsning (enskild väg)
 
 Korsning Hyltebruk S
 
-T-korsning Stora Enso
- Lokala mål
+T-korsning Stora Enso (lokal väg)
 
-Korsning Wahlbecks
- Lokala mål
+(Korsning Rv 26/Kambovägen)
+ Enskild väg, endast skyltad sydgående
+
+Korsning Rv 26/Fagerhultsv. (enskild väg)
+ Fagerhult
+Bensinstation: PS Olje
 
 Rondell Hyltebruk N
 
 Etapp 5: Hyltebruk - Skeppshult ()
 
 Korsning
-(Parkering) (sydgående)
+ Skärkehylte, Hembygdspark
+					(/
+Infoplats (sydgående)
 
-Skärshults Camping
+(Korsning Skärshult)
+ Tyresmo, Enskild väg
+Rastplats Skärshult
+ Skärshults Camping
 
 Dubbel T-korsning Nyarp
 
@@ -155,48 +158,90 @@ T-korsning Skeppshult S
 Etapp 6: Skeppshult - Smålandsstenar ()
 
 Korsning Skeppshult gjuteri
+					(/
+Bensinstation: INGO
 
 Järnvägsviadukt
  Halmstad-Nässjö
 
 T-korsning Smålandsstenar S
+ Burseryd, Industri: Södra
 
-T-korsning 26/Algatan
- Lokalt mål
-T-korsning 26/Balkgatan
- Lokalt mål
+T-korsning 26/Algatan (lokal väg)
+T-korsning 26/Balkgatan (lokal väg)
 
-OKQ8
+Bensinstation: Tanka
 
-T-korsning 26/Parkgatan
- Lokalt mål
+Bensinstation: Q-star
 
-Rondell Rv 26/Lv 153
-Restaurang: Sabinas Steakhouse
-Restaurang: Man Hau
+T-korsning Rv 26/Parkgatan (lokal väg)
+ [153 ö]: Värnamo, Industri: Östra
+T-korsning Rv 26/Textilgatan (lokal väg)
+ Restaurang: Alex Korvbar
+
+Rondell Smålandsstenar C
+ 153 ö: Värnamo
+ Burseryd, Idrottshall
+ Restaurang: Jabers Restaurang & Pub, Göstas Konditori
+ Hotell: Smålandsstenars Hotell
+T-korsning Smålandsstenar Torg (lokal väg)
+ Infoplats, Parkering
+ Restaurang: Sabinas Steakhouse
 
 Etapp 7: Smålandsstenar - Gislaved ()
 
-T-korsning 26/Dalsgatan
- Lokalt mål
+T-korsning Rv 26/Västergatan (lokal väg)
+ Industri: Västra
 
-T-korsning Västbo transport
+T-korsning Rv 26/Villagatan (lokal väg)
+ Hörsjöns Camping, Fritidsområde
+ Badplats, Tennis
+
+Korsning Rv 26/Unionsgatan (lokal väg)
+ Idrottsplats
+ Industri: Västra
+
+Korsning Rv 26/Kvarngatan (lokal väg)
+ Gravfält, Hembygdsgård
+ Brukshundklubb, Folkets Park
+
+T-korsning Smålandsstenar N (enskild väg)
+ Släthult, USA-bilar, LG Maskin
+
+Parkerings-/Infoplats (östra sidan)
 
 Dubbel T-korsning Villstad
+ Släthult
+ Villstad Kyrkby (sevärdhet)
 
 T-korsning
+ Arnåsholm
 
-Villstad Vandrarhem
+(Villstad Idrottsplats)
+
+Dubbel T-korsning Ryd (enskild väg)
+ Ryds Torv
+ Trädgårda
+
+Infoplats (nordgående)
+T-korsning (enskild väg)
+ Torvtäkt
 
 Trp Gislaved Södra
+ Gislaved S, Centrum
+ Burseryd, Sjötofta
+ Bensinstation: OKQ8
+ Restaurang: Gislegrillen & Pizzeria
 
-Parkering (sydgående)
+Parkeringsplats (sydgående)
 
-Parkering (nordgående)
+Parkeringsplats (nordgående)
 
 Trp Gislaved Norra
- 27 ö: Karlskrona, Värnamo, Gislaved
+ 27 ö: Karlskrona, Anderstorp, Gislaved C
  27 v: Göteborg, Borås, Tranemo
+ Restaurang: Burger King, Rosegarden
+ Bensinstation: Q-star
 
 Etapp 8: Gislaved - Lv 156 ()
 
