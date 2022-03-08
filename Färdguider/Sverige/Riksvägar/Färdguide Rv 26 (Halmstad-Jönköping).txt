@@ -109,7 +109,7 @@ Järnvägsviadukt
 
 T-korsning (enskild väg)
 
-Dubbel T-korsning
+Dubbel T-korsning Rydöbruk N
 
 Korsning Glassbo
  Enskild väg, Våffelstuga
@@ -133,7 +133,7 @@ Rondell Hyltebruk N
 
 Etapp 5: Hyltebruk - Skeppshult ()
 
-Korsning
+Korsning Lindhult
  Skärkehylte, Hembygdspark
 					(/
 Infoplats (sydgående)
@@ -214,7 +214,7 @@ Dubbel T-korsning Villstad
  Släthult
  Villstad Kyrkby (sevärdhet)
 
-T-korsning
+T-korsning Dungen
  Arnåsholm
 
 (Villstad Idrottsplats)
@@ -222,6 +222,8 @@ T-korsning
 Dubbel T-korsning Ryd (enskild väg)
  Ryds Torv
  Trädgårda
+
+2+1-väg börjar/upphör: (57.2689658,13.4931071)
 
 Infoplats (nordgående)
 T-korsning (enskild väg)
@@ -245,14 +247,18 @@ Trp Gislaved Norra
 
 Etapp 8: Gislaved - Lv 156 ()
 
-Dubbel T-korsning
- []]
+Dubbel T-korsning Bårarydsby
+ Båraryd
  Enskild väg
 
-T-korsning
+2+1-väg upphör/börjar: (57.3513921,13.5570576)
+
+T-korsning Slätteryd
 
 T-korsning Norlida
 
+T-korsning Hestra Vägporten
+ Enskild väg
 (Järnvägsbro)
  Kust-till-Kustbanan
 
@@ -260,11 +266,19 @@ Korsning Hestra väg 26
  151: Värnamo, Gnosjö
 
 Dubbel T-korsning Isabergs stugby
- Lokalt mål
+ Isabergs stugby, Camping (lokal väg)
+ Rastplats Isaberg
 
-Korsning
+T-korsning Ettö Rv 26 (enskild väg)
+ Ettö Naturreservat
+Parkeringsplats (västra sidan)
 
-T-korsning
+Korsning Poststugan
+
+T-korsning Trollavik
+
+T-korsning (enskild väg)
+ Gussjöns badplats
 
 T-korsning Öreryd södra
 
@@ -272,7 +286,11 @@ T-korsning Öreryd norra
 
 T-korsning
 
-Dubbel T-korsning
+Parkeringsplats (västra sidan)
+
+(T-korsning (enskild väg))
+
+Dubbel T-korsning N Unnaryd Rv 26
  156: Kinna, Tranemo
 
 Etapp 9: Lv 156 - Rv 40 ()
