@@ -1,102 +1,208 @@
-F�rdguide Lv 180 (Brobacka - Bor�s)
+Färdguide Lv 180 (Brobacka - Borås)
 ====================================
 
-Etapp 1: Brobacka - Alings�s (9,6 km/9,7 km)
+Etapp 1: Brobacka - Alingsås (9,6 km/9,7 km)
 
 Korsning Brobacka
- 190 s: G�teborg, Gr�bo
- 190 n: Trollh�ttan, Sollebrunn
+ 190 s: Göteborg, Gråbo
+ 190 n: Trollhättan, Sollebrunn
+
+Korsning Brobacka Naturreservat (enskild väg)
+ Brobacka Naturreservat, Minnessten
 					5.9 km/6.0 km	4 min 26 s/4 min 30 s
-Dubbel T-korsning Alings�s N
- Lokala m�l
-					1.6 km/1.5 km	1 min 55 s/1 min 48 s
-Korsning
- Lokala m�l
-Bensinstation: Preem
+T-korsning (enskild väg)
+ Alingsås Brukshundklubb
+T-korsning Björkekärrs skola (enskild väg)
+ Veterinär
+
+T-korsning Lv 180/Keramikgatan (lokal väg)
+T-korsning Lv 180/Laggarebacken (lokal väg)
+
+T-korsning Lv 180/Kvarnbacken (lokal väg)
+ Kvarnbacken
+T-korsning Lv 180/Tegelbruksg.  (lokal väg)
+ Ej skyltad
+
+T-korsning Lv 180/Enehagsgatan (lokal väg)
+ Enehagen, Dammtorpet
+T-korsning Lv 180/Säterigatan (lokal väg)
+ V Noltorp
+ Hagagården, Vårdcentral, Noltorpsskolan
+
+Rondell Alströmervallen (lokal väg)
+ Noltorp C, S
+ Alströmergymnasiet
+ Bensinstation: Preem
 					0.5 km/0.5 km	36 s/36 s
-Korsning 180/Nyebrogatan
- Centrum, Nolhagaparken
+Korsning Hagaplan (lokal väg)
+ Centrum, Sjukhus
+ Industri: Bolltorp
 					0.7 km/0.8 km	50 s/58 s
-Tankst�lle Nolbyplan
-Bensinstation: Statoil
+Korsning Lv 180/G:a Vänersborgsv.
+ Lokal väg
+ Bensinstation: Statoil
 Rondell Nolbyplan
- �stadkulle, S�velund
+ Östadkulle, Brogården
+ Industri: Sävelund
 					0.5 km/0.6 km	36 s/43 s
-Korsning 180/N. Ringgatan
+Korsning Lv 180/N. Ringgatan (lokal väg)
  Centrum
-T-korsning 180/Kungsgatan
+ Östlyckan
+T-korsning Lv 180/Kungsgatan (lokal väg)
  Centrum
 					0.5 km/0.6 km	36 s/43 s
-(J�rnv�gskorsbro)
+(Järnvägskorsbro)
+ Västra Stambanan
+Korsning Lv 180/Götagatan (lokal väg)
+ Bensinstation: St1
+Korsning Götaplan
+ E20 v: Göteborg, Lerum
+ E20 ö: Stockholm, Skara
 
-Korsning G�taplan
- E20 v: G�teborg, Lerum
- E20 �: Stockholm, Skara
-Rondell 180/Hemv�gen
- Lokala m�l
+Etapp 2: Alingsås - Kommungräns (19,5 km/19,2 km)
 
-Etapp 2: Alings�s - Kommungr�ns (19,5 km/19,2 km)
+Dubbel Rondell Vimpeln
+ Lokala mål
+
+Korsning Lv 180/Borgmästarevägen
+ Stockslycke, Lokal väg
 					1.7 km/1.5 km	2 min 2 s/1 min 48 s
-Korsning �ngabo
- Maryd
+Korsning Lv 180/Gråbovägen (lokal väg)
+ Ängabo C, Vårdcentral
+
+Korsning Ängabo (lokal väg)
+ V. Ängabo
+ Ö. Ängabo
 					1.5 km/1.3 km	1 min 17 s/1 min 7 s
-P- och infoplats
-(en f�r varje riktning)
+Parkerings-/Infoplats
+(en för varje riktning)
 					1.2 km/1.5 km	1 min 2 s/1 min 17 s
-T-korsning Hj�lmared S
- Alings�s Golfbana
+Korsning Hjälmared Allé (lokal väg)
+ Hjälmared Folkhögskola, Färgens vattenverk
+
+T-korsning Hjälmared S (enskild väg)
+ Sundet, Färgengården
 					0.8 km/0.8 km	41 s/41 s
-Korsning Golfbanan
- Alings�s Golfbana
+Korsning Golfbanan (lokal väg)
+ Alingsås Golfbana
 					1.8 km/1.9 km	1 min 33 s/1 min 38 s
-Dubbel T-korsning Lyngnared
- Ingared, �den�s
- Lygn�
+Korsning Hukabäck (enskild väg)
+ SMU Fritidsgård, Stora Färgens lägergård
+
+T-korsning Lyngnared I
+ Lygnareds Camping, Badplats
+					(/
+T-korsning Lyngnared II
+ Ingared, Ödenäs
+					/)
+T-korsning Lyngnared III
+ Lygnö
 					3.7 km/3.7 km	3 min 10 s/3 min 10 s
 T-korsning Storsten
- N�runga, Uddabo
+ Nårunga, Uddabo
 					2.5 km/2.3 km	2 min 9 s/1 min 58 s
-Alings�s / Bollebygd
+Alingsås / Bollebygd: (57.8452524,12.6442311)
 					0.3 km/0.3 km	14 s/14 s
-Etapp 3: Kommungr�ns - Bor�s (18,2 km/18,6 km)
+Etapp 3: Kommungräns - Borås (18,2 km/18,6 km)
 
 T-korsning Storskogen
- Bollebygd, T�llsj�
+ Bollebygd, Töllsjö
 					5.8 km/5.8 km	4 min 21 s/4 min 21 s
-Bollebygd / Bor�s
+T-korsning Bohult (enskild väg)
+ Öresjöbacke, Gårdsbageri
+
+Korsning (Kämpagården)
+ Markland MC, Enskild väg
+
+Bollebygd / Borås: (57.8213994,12.7358996)
 					1.8 km/1.9 km	1 min 33 s/1 min 38 s
+T-korsning Hedbyvallen (enskild väg)
+ Idrottsplats, Bygdegård
+
 Korsning Hedared
- T�llsj�, Hedared K:a
+ Töllsjö, Hedared stavkyrka
+ Vemmenhult (enskild väg)
+Bensinstation: Smart (ICA)
 					0.5 km/0.5 km	26 s/26 s
-Tankst�lle Hedared
-Bensinstation: Bilisten
+(Dubbel) T-korsning Risavägen (enskild väg)
+ Sand & Betong
+ (Risa)
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-Rastplats N�vraspr�ng
+Rastplats Nävraspång
 					4.5 km/4.5 km	3 min 51 s/3 min 51 s
+T-korsning Lv 180/Trollsåsvägen (lokal väg)
+ Trollsås, Hällered provbana
+
+T-Korsning Hällered (enskild väg)
+ Asta Zero
+
+(T-korsning Lv 180/Näsvägen)
+ Enskild väg
+
+Sandhults kyrka
 Dubbel T-korsning Sandhult
- Sj�marken, Sandared
- Fristad, Bredared
+ Sandared, Idrottsplats
+ Vedugnsbageri, Gårdsbutik
+ Bredared
+ Bensinstation: Q-star
 					4.7 km/4.6 km	4 min 2 s/3 min 57 s
-T-korsning Bredaredsv.
+(T-korsning (lokal väg))
+ Utbyggd korsning utan skyltning
+
+T-korsning Götsered affär (enskild väg)
+ Varvhult, Hembygdsgård
+
+(T-korsning Lv 180/Ebbaredsv.)
+ Enskild väg
+
+T-korsning Lv 180/Bredaredsv.
  Bredared
 					3.2 km/3.2 km	3 min 50 s/3 min 50 s
-T-korsning 180/Symfonig.
- Viared
+T-korsning Lv 180/Linnés väg (enskild väg)
+ Hestrastugan
+
+T-korsning Elfsborgsstugan (lokal väg)
+ Infoplats, Återvinningsstation
+
+(T-korsning Ryssbyhöjd)
+ Lokal väg
+
+T-korsning Lv 180/Ryssbyvägen (lokal väg)
+ Ryssby klint, Utsiktsplats
+
+T-korsning Lv 180/Symfonigatan
+ Hestra parkstad
 					1.1 km/1.2 km	1 min 19 s/1 min 26 s
-Rondell V�gporten
- Bredared
-(J�rnv�gskorsning)
+T-korsning Lv 180/Fjällgatan
+ Byttorps Torg, Lokal väg
+
+T-korsning Lv 180/Kvibergsg.
+ Byttorpsklint Servicegård, Lokal väg
+
+Rondell Vägporten
+ Norrby
+ Knalleland
+ Industri: Ryda, Getängen
+(Järnvägskorsning)
+
+Dubbel Rondell (lokal väg)
+
+Rondell Rv 42/Lv 180
+ [40], [27]
+ 42: Trollhättan
+ Centrum, Sjukhus
+
 					0.3 km/0.3 km	22 s/22 s
 T-korsning 180/Parkgatan
- Bor�s Museum
+ Borås Museum
 					0.3 km/0.3 km	22 s/22 s
 Korsning Lv 180/Rv 42
- [40 v]: G�teborg
- 42: Trollh�ttan
+ [40 v]: Göteborg
+ 42: Trollhättan
  Knalleland
-(J�rnv�gskorsning)
+(Järnvägskorsning)
 					0.3 km/0.6 km	22 s/43 s
 Brodalsmotet
  Centrum
- 40 v: G�teborg
- 40 �: J�nk�ping, Ulricehamn
+ 40 v: Göteborg
+ 40 ö: Jönköping, Ulricehamn
