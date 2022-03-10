@@ -154,7 +154,7 @@ T-korsning Östad S
 Hagströms Lanthandel
  Bensinstation: Tapp
 					2.2 km/2.2 km	1 min 53 s/1 min 53 s
-Korsning Östad kyrka
+Korsning Östad kyrka (enskild väg)
  Östad kyrka
 Östad kyrka
 
@@ -176,24 +176,70 @@ T-korsning Brobacka
 
 Etapp 5: Brobacka - Sollebrunn (17,4 km/17,7 km)
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
-T-korsning Anten
- Långared
+T-korsning Brobacka kaffestuga (västgående)
+ Brobacka kaffestuga, Lokal väg
+
+Korsning Anten
+ Anten, Vänga, Långared
+ Anten-Gräfsnäs Museijärnväg
 					1.6 km/1.6 km	1 min 22 s/1 min 22 s
+T-korsning Anten kapell (enskild väg)
+ Antens kyrka
+
 T-korsning Skepplandav.
- Skepplanda
+ Granvattnet
 					5.8 km/5.8 km	4 min 58 s/4 min 58 s
+Korsning Arlid (enskild väg)
+ Arelid, Villa Arelid
+ Degebo
+
+T-korsning Sjöbo (enskild väg)
+ Ridhus
+
 Korsning Kvarnabo
  Skepplanda
+ Kvarnabo, Församlingshem (enskild väg)
 					3.4 km/3.4 km	2 min 55 s/2 min 55 s
+T-korsning Svedplan (lokal väg)
+ Svedplan industriPark
+
+Korsning Videhus (enskild väg)
+ Hvidehus
+
+T-korsning Gräfsnäs södra (enskild väg)
+ Ej skyltad
+
 Korsning Gräfsnäs
- Nygård, Hålanda
+ Älvängen
+ Gräfsnäs (enskild väg)
+ Slottsruin, Café, Badplats
+ Anten-Gräfsnäs Museijärnväg
 					3.7 km/3.7 km	3 min 10 s/3 min 10 s
+T-korsning Gräfsnäs herrgård (enskild väg)
+ Anstorp, Westerbo Butik
+
+T-korsning Högen (enskild väg)
+ Sollebrunns Bil & Däck
+
+T-korsning Källebacken (enskild väg)
+ Redox Miljöhantering, Zabi Trading
+
 Korsning Erska kyrka
- Loo
+ Långared
+ Erska kyrka, Gravfält (sevärdhet)
 					1.3 km/1.3 km	1 min 34 s/1 min 34 s
+(Restaurang: Pizzeria Fontana)
+T-korsning Lv 190/Skolgatan (lokal väg)
+ Skola, Idrottsplats
+T-korsning Sollebrunn station
+ Parkering, Busstation
+ Café: Kaffekoppen i Sollebrunn
+
+Korsning Lv 190/Gästgivareg.
+ Vårdcentral
 Korsning Sollebrunn
  42 s: Borås, Vårgårda
- 42 n: Trollhättan, Vänersborg
+ 42 n: Trollhättan, Infoplats
 
 Etapp 4: Sollebrunn - Nossebro (14,8 km/15,1 km)
 					3,7 km/3,9 km	3 min 42 s/3 min 54 s
