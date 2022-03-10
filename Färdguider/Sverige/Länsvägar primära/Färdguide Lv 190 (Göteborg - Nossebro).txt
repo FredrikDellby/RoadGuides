@@ -1,93 +1,183 @@
-Lv 190 (G�teborg - Nossebro)
+Lv 190 (Göteborg - Nossebro)
 =============================
 
-Etapp 1: L�rje - Gr�bo (20,0 km/19,4 km)
+Etapp 1: Hjällbo - Gråbacka (20,0 km/19,4 km)
 
-L�rjemotet
- E45 n: Karlstad, Trollh�ttan
+Lärjemotet
+ E45 n: Karlstad, Angered C
+ [E6 n]: Oslo
  E45 s: Centrum, Gamlestaden
 					0,8 km/0,2 km	41 s/10 s
-L�rjeholmsmotet
- Kortedala, Alelyckan
- Bensinstation: Statoil
+Lärjeholmsmotet
+ Gamlestaden, Kortedala, Hjällbo V
+ Bensinstation: INGO
 					0,5 km/0,7 km	26 s/42 s
-T-korsning Hj�llbo V
- Hammarkullen
-Rondell Hj�llbo V
- Hj�llbo Centrum
+T-korsning Hjällbo V
+ Hjällbo N, Hammarkullen
+Rondell Hjällbo V
+ Hjällbo Centrum
+ Vårdcentral, Hjällbo K:a
 					0,4 km/0,3 km	24 s/22 s
-T-korsning Hj�llboplatsen
-T-korsning 190/Bollplansg.
+T-korsning Hjällboplatsen (lokal väg)
+ Hjällboplatsen
+T-korsning 190/Bollplansg. (lokal väg)
+ S:t Eriks, Lärjedalen
+ Bläsebovallen, Bläseboskolan
 					1,9 km/1,8 km	2 min 17 s/2 min 10 s
-Rondell Stor�s s�dra
- Angered, Stor�s ind. omr.
+Korsning Lv 190/Bondegärdet
+ Lokal väg (ej skyltad)
+ Restaurang: Pizzeria Zaytun
+
+Korsning Lv 190/Fotbollsv. (lokal väg)
+ Polisen
+ Restaurang: Ristorante & Pizzeria Salvatore
+
+(Korsning Lv 190/Hjällbogärdet)
+ Lokal väg (ej skyltad)
+
+T-korsning Eriksbo
+ Lokal väg (ej skyltad)
+
+Dubbel T-korsning Eriksbo skola
+ Lokala vägar (ej skyltad)
+
+T-korsning Lv 190/Eriksbo backe
+ Lokal väg (ej skyltad)
+
+Rondell Storås södra
+ Hisingen, Angered C
+ Industri: Storås
 					0,4 km/0,4 km	24 s/24 s
-Korsning L�rje Hed
- Linnarhults industriomr.
 					0,4 km/0,5 km	24 s/30 s
-Dubbel T-korsning Linnarhultsv�gen
- Linnarhult
- Linnarhults industri
+Rondell Linnarhultsvägen (lokal väg)
+ Industri: Linnarhult, S Lärje Hed
+ Linnarhult, N Lärje Hed
 					0,7 km/0,6 km	42 s/36 s
-T-korsning
- Partille, Bergsj�n
+(Bro över Lärjeån)
+Rondell Gråbacka
+ [E20 ö]: Stockholm
+ Partille, Bergsjön
+
+Etapp 2: Gråbacka - Olofstorp ()
 					0,4 km/0,4 km	24 s/24 s
-T-korsning
- Angereds g�rd
+(Avfart+Påfart Stombergsvägen)
+ Angereds gård, Lokal väg (ej skyltad)
 					0,5 km/0,5 km	30 s/30 s
-Korsning Ekeredsv�gen
- Lokala m�l
+Rondell Ekeredsvägen (lokal väg)
+ Industri: Äspered
+ Sörbackens koloniområde
 					1,2 km/1,2 km	1 min 12 s/1 min 12 s
-T-korsning Angered kyrka
- Angered K:a
+Rondell Gunnilse
+ Angereds kyrka
 					1,9 km/1,9 km	1 min 38 s/1 min 38 s
-T-korsning Bingared
+(T-korsning Lv 190/Kraksjövägen)
+ Lerjedalens GK, Lokal väg (ej skyltad?)
+
+T-korsning Rågården (lokal väg)
+ Skanska bergtäkt
+
+T-korsning Bingared (lokal väg)
  Knipared
 					0,8 km/0,8 km	41 s/41 s
-T-korsning Bj�rsared skola
- Lokalt m�l
+(Korsning Kniparedsgården)
+ Brukshundklubb, Lokal väg
+
+T-korsning Björsared skola (lokal väg)
+ Björsared skola
 					0,4 km/0,4 km	21 s/21 s
-Tankst�lle Bj�rsared
+Tankställe Björsared
  Bensinstation: St1
+Korsning Lv 190/Björredsvägen (lokal väg)
+ 101 Tassar
 					1,0 km/1,0 km	51 s/51 s
-T-korsning Olofstorp V
+(Olofstorps Glasmästeri)
+
+Rondell Olofstorp V
  Olofstorp, Lerum
+
+Etapp 3: Olofstorp - Gråbo ()
 					0,9 km/0,9 km	41 s/41 s
+
 T-korsning Olofstorp N
+ Olofstorp, Lerum
 					0,5 km/0,5 km	26 s/26 s
 T-korsning Bergums kyrka
- Bergums K:a
+ Bergums kyrka
+ Vättlefjäll naturreservat, Björsjöås Vildmark
 					2,0 km/2,0 km	1 min 43 s/1 min 43 s
-G�teborg / Lerum
+T-korsning Lv 190/Dockeredsv. (lokal väg)
+ Bergums fritidslantgård
+
+Göteborg / Lerum: (57.8202679,12.2047586)
 					3,9 km/3,9 km	3 min 21 s/3 min 21 s
-Stora Lundby GK
+(Korsning Ytterstad (lokal väg))
+ Ej skyltad
+
+Dubbel T-korsning Jönsagården (enskild väg)
+ Trafik&Teknik
+ Mjörns Trä & Teknik, Tolsjöhult
+
+Korsning Stannum (enskild väg)
+ Olstorp
+ Hults Trä
+
+T-korsning Lv 190/Valters väg (lokal väg)
+ Stora Lundby GK
 					1,7 km/1,7 km	1 min 27 s/1 min 27 s
-Rondell Gr�bo
- Lerum, Stenkullen
- Bensinstation: Shell, Preem
+(T-korsning Lekstorp)
+ Tolsjöhult, Enskild väg
+Infopunkt (östgående)
 
-Etapp 2: Gr�bo - Brobacka (18,5 km/18,4 km)
+Rondell Gråbo NV
+ Lerum, Stenkullen, Gråbo C
+ Bensinstation: Gulf, Preem
+
+Etapp 4: Gråbo - Brobacka (18,5 km/18,4 km)
 					4.7 km/4.6 km	4 min 2 s/3 min 57 s
-T-korsning Bj�rboholm
-					5.0 km/5.0 km	4 min 17 s/4 min 17 s
-T-korsning Brog�rden V
- �lv�ngen, N�dinge, Nol
-					0.5 km/0.5 km	26 s/26 s
-T-korsning Brog�rden �
- Sj�vik
-					0.7 km/0.7 km	36 s/36 s
-T-korsning �stad S
- Sj�vik
-					2.2 km/2.2 km	1 min 53 s/1 min 53 s
-Lerum / Alings�s
-					5.4 km/5.4 km	4 min 38 s/4 min 38 s
-T-korsning Brobacka
- 180: Bor�s, Alings�s
+T-korsning Lv 190/Hjällsnäs byv. (enskild väg)
+ Hjällsnäs, 
 
-Etapp 3: Brobacka - Sollebrunn (17,4 km/17,7 km)
+Klädknallen
+Korsning Björboholm (enskild väg)
+ Björboholms Ångbåtsbrygga (ej skyltad)
+ Burhult
+					5.0 km/5.0 km	4 min 17 s/4 min 17 s
+T-korsning Brogården V
+ Älvängen, (Nödinge, Nol)
+					0.5 km/0.5 km	26 s/26 s
+T-korsning Brogården Ö
+ Sjövik, Sjöviksgården
+ Restaurang: Sjöviks Pizzeria
+					0.7 km/0.7 km	36 s/36 s
+T-korsning Östad S
+ Sjövik, Sjöviksgården
+Hagströms Lanthandel
+ Bensinstation: Tapp
+					2.2 km/2.2 km	1 min 53 s/1 min 53 s
+Korsning Östad kyrka
+ Östad kyrka
+Östad kyrka
+
+Östad skola
+T-korsning Lv 190/Krokavägen (enskild väg)
+ Idrottsplats
+
+Lerum / Alingsås
+					5.4 km/5.4 km	4 min 38 s/4 min 38 s
+Korsning Östads säteri (enskild väg)
+ Östads säteri
+
+(Korsning (enskild väg))
+ Östads Ridcenter
+
+T-korsning Brobacka
+ 180: Borås, Alingsås
+ Brobacka kaffestuga, Bergtäkt
+
+Etapp 5: Brobacka - Sollebrunn (17,4 km/17,7 km)
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
 T-korsning Anten
- L�ngared
+ Långared
 					1.6 km/1.6 km	1 min 22 s/1 min 22 s
 T-korsning Skepplandav.
  Skepplanda
@@ -95,16 +185,15 @@ T-korsning Skepplandav.
 Korsning Kvarnabo
  Skepplanda
 					3.4 km/3.4 km	2 min 55 s/2 min 55 s
-Korsning Gr�fsn�s
- Nyg�rd, H�landa
+Korsning Gräfsnäs
+ Nygård, Hålanda
 					3.7 km/3.7 km	3 min 10 s/3 min 10 s
 Korsning Erska kyrka
  Loo
 					1.3 km/1.3 km	1 min 34 s/1 min 34 s
 Korsning Sollebrunn
- 42 s: Bor�s, V�rg�rda
- 42 n: Trollh�ttan, V�nersborg
- Nossebro, Stora Mellby
+ 42 s: Borås, Vårgårda
+ 42 n: Trollhättan, Vänersborg
 
 Etapp 4: Sollebrunn - Nossebro (14,8 km/15,1 km)
 					3,7 km/3,9 km	3 min 42 s/3 min 54 s
@@ -112,15 +201,15 @@ Dubbel T-korsning Stora Mellby
 					5,0 km/4,8 km	5 min 0 s/4 min 48 s
 T-korsning Gendalen
 					3,4 km/3,4 km	3 min 24 s/3 min 24 s
-Alings�s / Essunga
+Alingsås / Essunga
 					1,5 km/1,5 km	1 min 30 s/1 min 30 s
 T-korsning Huntorp
 					0,5 km/0,6 km	36 s/43 s
-Rondell Nossebro v�st
+Rondell Nossebro väst
 					0,7 km/1,1 km	0 min 50 s/1 min 19 s
 T-korsning Nossebro kyrka
 Bensinstation: Q-star
 (Nossan)
 Rondell Liljedal
- 186 s: V�rg�rda
- 186 n: Gr�storp
+ 186 s: Vårgårda
+ 186 n: Grästorp
