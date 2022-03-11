@@ -1,0 +1,49 @@
+Färdguide Lv 311 (Älvros - Tännäs)
+===================================
+
+T-korsning Älvros
+
+T-korsning (enskild väg)
+ Städjan Fjällby, Idre fjäll
+ Gränjåsvallen
+(Bro över)
+
+(Parkeringsplats (östra sidan))
+(grus, ej skyltad)
+
+Bro över : 61.879293,12.9694225
+
+(T-korsning (enskild väg))
+ Fjätfallet
+
+T-korsning Fjätervålen Lv 311 (enskild väg)
+ Fjätervålens skidanläggning, Stugor
+
+(Parkeringsplats (västra sidan))
+(grus, ej skyltad)
+
+T-korsning Lillfjäten
+ Storfjäten
+
+Svea i Svängen (stugor): (61.9937198,12.9791904)
+Bro över Lillfjätån
+
+Bro över Lillfjätån
+
+(T-korsning (enskild väg))
+ Stenåssjön
+
+Bro över Lillfjätån
+
+Dalarna / Jämtland: (62.099254,12.9768787)
+Älvdalen / Härjedalen
+
+Bro över Storfjätån
+
+T-korsning Sörvattnet S
+ Idre, Foskros
+ Naturreservat
+(Bro över Fjätälven)
+
+T-korsning Sörvattnet
+ Linsell, Lofsdalen
