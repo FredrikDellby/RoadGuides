@@ -87,3 +87,61 @@ Korsning Söderköping NV
 
 Färdguide Lv 210 (Söderköping - S:t Anna)
 ==========================================
+
+T-korsning
+ E22 s: Kalmar, Valdemarsvik
+ E22 n: Norrköping, Söderköping
+
+T-korsning Mellantorp
+ Stegeborg, Mogata
+ Slottsruin, Husby Säteri
+
+T-korsning Bolltorp (enskild väg)
+ Bolltorps slott
+
+T-korsning Varsten
+ Gottsten
+
+T-korsning Dala
+ Hälla
+
+T-korsning
+ Hälla
+
+T-korsning
+ Össby
+
+(T-korsning)
+ Skjutbana, Lokal väg
+
+Infoplats
+Korsning Hösterum
+ Valdemarsvik, S Finnö
+
+T-korsning Sjögerum
+ Askesum
+
+(Korsning (enskild väg))
+ Nartorp
+ Ormestorp
+
+Korsning Hammantorp
+ Askesum
+ Stegeborg
+
+Korsning Bråta
+ Ytterby
+ Nartorp-Börrums Hembygdsförening
+
+T-korsning Skarpa
+ Stegeborg, Bottna
+ Lanthandel, Bed & Breakfast (Café)
+
+Infoplats (främst östgående): (58.3521353,16.7005994)
+
+Korsning Sankt Anna väg 210
+ S:t Anna kyrka, Kalvholmens Camping
+ S:t Anna gamla kyrka
+
+T-korsning Tjärholm
+ Tjärholm
