@@ -6,12 +6,12 @@ T-korsning Älvros
 T-korsning (enskild väg)
  Städjan Fjällby, Idre fjäll
  Gränjåsvallen
-(Bro över)
+(Bro över Brunnan)
 
 (Parkeringsplats (östra sidan))
 (grus, ej skyltad)
 
-Bro över : 61.879293,12.9694225
+Bro över Foskan: (61.879293,12.9694225)
 
 (T-korsning (enskild väg))
  Fjätfallet
@@ -25,7 +25,7 @@ T-korsning Fjätervålen Lv 311 (enskild väg)
 T-korsning Lillfjäten
  Storfjäten
 
-Svea i Svängen (stugor): (61.9937198,12.9791904)
+(Svea i Svängen (stugor)): (61.9937198,12.9791904)
 Bro över Lillfjätån
 
 Bro över Lillfjätån
