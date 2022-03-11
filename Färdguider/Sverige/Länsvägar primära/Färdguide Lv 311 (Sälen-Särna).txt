@@ -1,69 +1,94 @@
- Färdguide Lv 311 (Sälen - Särna)
+ FÃ¤rdguide Lv 311 (SÃ¤len - SÃ¤rna)
 =================================
 
-Rondell Sälen
- 66 v: Trysil, Sälenfjällen
+Rondell SÃ¤len
+ 66 v: Trysil, SÃ¤lenfjÃ¤llen
 					0.9 km/0.9 km	1 min 5 s/1 min 5 s
-Fjäril Saluhall
-
-T-korsning
+Centra/FjÃ¤ril Saluhall
+T-korsning (lokal vÃ¤g)
  Restaurang, Golfklubb
 
 Dalaboden
+					(/
+T-korsning SÃ¤len Centrum (lokal vÃ¤g)
+ SÃ¤len TuristbyrÃ¥
+ SÃ¤lenGallerian
+(Dalarnas Pizzeria & Restaurang)
+					/)
+Coop SÃ¤len
 
-T-korsning Sälen Centrum
- Sälen Turistbyrå
- SälenGallerian
-Dalarnas Pizzeria & Restaurang
-Coop Sälen
-
-Korsning 311/Postvägen
+Korsning Lv 311/PostvÃ¤gen (lokal vÃ¤g)
  Bensinstation: OKQ8
-T-korsning ICA Sälen
-T-korsning 311/Tomtvägen
- Parkering Olnispagården
+					(/
+T-korsning ICA SÃ¤len (lokal vÃ¤g)
+					/)
+T-korsning Lv 311/TomtvÃ¤gen (lokal vÃ¤g)
+ Parkering OlnispagÃ¥rden
 					0.5 km/0.6 km	36 s/43 s
-Wasa Fjällgård
-T-korsning Sälen norra
- Olnispagården
+Restaurang: Wasa FjÃ¤llgÃ¥rd
 Bensinstation: Q-star
+T-korsning SÃ¤len norra
+ OlnispagÃ¥rden
+Service Centrum SÃ¤len
+(Form & Funktion i SÃ¤len)
 
-(Korsning)
- Bro över Västerdalälven
+(Korsning (enskild vÃ¤g))
+ Bro Ã¶ver VÃ¤sterdalÃ¤lven
 					15.9 km/15.9 km	11 min 56 s/11 min 56 s
 T-korsning
- Älvdalen, Lövnäs
+ Ã„lvdalen, LÃ¶vnÃ¤s
 					5.5 km/5.5 km	4 min 43 s/4 min 43 s
-T-korsning Fulunäs
- Stöten
+T-korsning FulunÃ¤s
+ Hamar, Trysil, Grundforsen
+ StÃ¶ten, SÃ¤lens Vandrarhem
 
 Storagen Galleri & Loppis
 
-Korsning Sörsjön södra
- Fulufjällets nationalpark
+Korsning SÃ¶rsjÃ¶n sÃ¶dra (enskild vÃ¤g)
+ FulufjÃ¤llets nationalpark
+ MorbÃ¤ckssÃ¤tern, Storbron
+ NÃ¤sfjÃ¤llet (Camping/skicenter)
 
-Infoplats Sörsjön
+Infoplats SÃ¶rsjÃ¶n
 Kooperativet Dalen
 
-Sörsjöns Lanthandel
+SÃ¶rsjÃ¶ns Lanthandel
  Bensinstation
 					12.6 km/12.6 km	10 min 48 s/10 min 48 s
-Dubbel T-korsning Sörsjön
- Älvdalen, Nornäs
- Sörsjöns kapell
+Dubbel T-korsning SÃ¶rsjÃ¶n
+ Ã„lvdalen, NornÃ¤s
+ SÃ¶rsjÃ¶ns kapell
 
-Norrsjön Gästgifveri & Spa
+(T-korsning Lv 311/HÃ¤ngbrov.)
+ Nordisk Vildmark
+NorrsjÃ¶n GÃ¤stgifveri & Spa
 					12.1 km/12.0 km	9 min 5 s/9 min 0 s
-Älgpark & Huskyfarm
+(Nordic Footprints)
 
-Malung-Sälen / Älvdalen
+(Bro Ã¶ver 
+Malung-SÃ¤len / Ã„lvdalen: (61.5090256,13.0828726)
+
+Ã„lgpark & Huskyfarm: (61.5134620, 13.0840794)
 					20.1 km/20.1 km	15 min 5 s/15 min 5 s
-T-korsning
- Fulufjällsbyn
+T-korsning (enskild vÃ¤g)
+ FulufjÃ¤llsbyn, Strupen
 
-T-korsning Byggevallen
+Parkeringsplats (vÃ¤stra sidan)
+
+(T-korsning Byggevallen)
+ Strandvallen, Enskild vÃ¤g
+
+T-korsning (enskild vÃ¤g)
+ Mickeltemplet, Utsiktstorn
+
+T-korsning (enskild vÃ¤g)
+ Skidsportcenter, Mickeltemplet
 					1.7 km/1.9 km	1 min 42 s/1 min 54 s
-T-korsning Särna Centrum
- 70 s: Mora, Älvdalen
- 70 n: Röros, Idre
- 311 n: Tännäs
+Korsning SÃ¤rna Centrum
+ 70 s: Mora, Ã„lvdalen, (Sveg)
+ 70 n: RÃ¶ros, Idre, Centrum
+ 311 n: TÃ¤nnÃ¤s
+ SÃ¤rna Camping, Infoplats
+Bensinstation: OKQ8
+T-korsning Coop SÃ¤rna (lokal vÃ¤g)
+ Kyrka, Gammelkyrka, HembygdsgÃ¥rd
