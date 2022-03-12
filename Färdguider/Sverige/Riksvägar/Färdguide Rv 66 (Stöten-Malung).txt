@@ -172,19 +172,57 @@ T-korsning Risätra
 
 T-korsning
 
+Infoplats (östgående): (60.7623769,13.5019068)
+
+T-korsning Rv 66/Jommovägen (enskild väg)
+ Jommoholen, Monas ateljé
+
+T-korsning (enskild väg)
+ Råbergets fäbod
+ Brukshundklubb, Virkesterminal
+
 Korsning Malungsfors
+ V Fors, Fors kapell
+ Konsthantverk, Idrottsplats
+ Parkeringsplats med toalett
+ Bensinstation: Bymacken
+
+Korsning Östra Fors (enskild väg)
+ Lissmans Skinn- & Viltprodukter (ej skyltning)
+
+Vildhasses Fjällprodukter
 
 Järnvägskorsning
  Västerdalbanan
 
+(Korsning Torsjonasriset)
+ S Mon, Enskild väg
+
+Korsning (enskild väg)
+ Skvaltkvarn (sevärdhet)
+
+Korsning Rv 66/Lybergsvägen (enskild väg)
+ Lybergsgnupen naturreservat
+ Lyberget, Kvilselen
+
+T-korsning Rv 66/Hismovägen (lokal väg)
+ Industri: Torsgärdet, Hismo
+ Färg & Bygghandel
+
+(T-korsning Rv 66/Mobyvägen)
+ Plåtslageri, Lokal väg
+
 Korsning Albacken
  Centrum
-Bensinstation: Shell
+ Albacken
+ Bensinstation: Din-X
 
 Rondell Malung Ö
- E16 v: Kongsvinger
- E45 s: Göteborg, Torsby
+ E16 v: Oslo, (Kongsvinger)
+ E45 s: Karlstad, (Torsby)
+ Centrum, Sjukus
+ Camping, Badplats, Infoplats
  E45 n: Mora
- E16 ö: Gävle, Borlänge
- 66 ö: Västerås, Vansbro
-Bensinstation: Tanka
+ E16 ö: Gävle, (Borlänge)
+ 66 ö: Västerås, (Vansbro)
+ Bensinstation: Tanka
