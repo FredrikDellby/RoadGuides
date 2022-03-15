@@ -179,7 +179,7 @@ T-korsning Höjen (enskild väg)
 
 T-korsning By norra (enskild väg)
 
-T-korsning Frykenstrand
+T-korsning Frykenstrand (lokal väg)
  Hotell Frykenstrand
 					14.3 km/14.4 km	10 min 44 s/10 min 48 s
 (T-korsning Stöpafors S)
@@ -190,8 +190,7 @@ Korsning Stöpafors E45
  Bensinstation: Bilisten
  Restaurang: Diner 45
 
-Korsning Tossebergsklätten
-(Enskild väg)
+Korsning Tossebergsklätten (enskild väg)
  Tossebergsklätten
 
 Rastplats Tossebergsklätten
