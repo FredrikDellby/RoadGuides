@@ -175,7 +175,7 @@ T-korsning Höjen (enskild väg)
  Höjen, Motocrossbana
 
 (T-korsning By södra)
- Enskild väg
+ Nolby, Bytorp, Enskild väg
 
 T-korsning By norra (enskild väg)
 
@@ -183,69 +183,98 @@ T-korsning Frykenstrand (lokal väg)
  Hotell Frykenstrand
 					14.3 km/14.4 km	10 min 44 s/10 min 48 s
 (T-korsning Stöpafors S)
- Enskild väg
+ Stöpafors, Enskild väg
 
-Korsning Stöpafors E45
-(Enskild väg)
- Bensinstation: Bilisten
+Korsning Stöpafors E45 (enskild väg)
+ Bensinstation: Din-X
  Restaurang: Diner 45
 
 Korsning Tossebergsklätten (enskild väg)
- Tossebergsklätten
+ Tossebergsklätten, Hantverk, Mat
 
 Rastplats Tossebergsklätten
 					3.7 km/3.6 km	2 min 46 s/2 min 42 s
 Korsning Västra Berga
+ Bjälverud
+ Övre Råby, Rökeri (enskild väg)
 					3.1 km/3.1 km	2 min 20 s/2 min 20 s
-Korsning
+Korsning (enskild väg)
+ Yamaha Store, Djupdal
+
+Korsning Kårarna
+ Bjälverud
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
-Sunne / Torsby
+Sunne / Torsby: (60.0735009,13.0414156)
 					2.5 km/2.5 km	1 min 53 s/1 min 53 s
 Korsning Bredviken E45
- Svenneby, Torsby camping
+ Svenneby, Torsby Camping
  Granevik, Åshagen
 					3.3 km/3.5 km	2 min 28 s/2 min 38 s
-T-korsning Torsby södra
- Torsby S
- Svenneby
+Dubbel T-korsning Torsby södra
+ Moelven Notnäs
+ Granevik, Industri: Inova Park
+ Torsby Vandrarhem
 					1.1 km/1.2 km	1 min 6 s/1 min 12 s
 Rondell Torsby sydvästra
- Torsby Centrum
+ Torsby Centrum, Turistbyrå
  E16 v: Oslo, Kongsvinger
  Gräsmark
- Bensinstation: OKQ8
+ Bensinstation: Tanka
+ Restaurang: Toria Värdshus
 					1.0 km/0.8 km	0 min 60 s/0 min 48 s
 Bro över Röjdan
+T-korsning E45/Wåhlstedts väg (lokal väg)
+ Petter Solberg Adventure Center (ej skyltat)
 
-Korsning Torsby västra
- Torsby Centrum
+Dubbel T-korsning Torsby västra
+ Torsby Sjukhus
  Östmark
 					1.7 km/1.7 km	1 min 42 s/1 min 42 s
 Korsning Torsby Flygplats
- Industri omr.
- Torsby Flygplats, skitunnel
+ Industri: Skalleby, Polishus
+ Torsby Flygplats, Industri: Bergeby
+ Skidtunnel, Torsby Sportcenter
 					0.6 km/0.6 km	36 s/36 s
 T-korsning Torsby nordväst
- 239: Ekshärad
+ 239: Hagfors, Ekshärad
+ Sahlströmsgården (Hotell & Restaurang)
 					5.3 km/5.3 km	3 min 59 s/3 min 59 s
+T-korsning E45/Bergebyv. (enskild väg)
+ Jaktskyttebana
+
+(T-korsning E45/Önnerudsv.)
+ Önnerud, Enskild väg
+
 Rastplats Hänsjön
 					2.3 km/2.3 km	1 min 43 s/1 min 43 s
-Ljusnan
+CarExperience
+(Bro över Ljusnan)
 
 T-korsning Fensbol
  Utterbyn
 
-T-korsning E45/Skansenvägen
- Enskild väg, Markusfolks Gård
+T-korsning Petteråsen (enskild väg)
+ Naturreservat, Petteråsens Café
 
-Ljusnan
+T-korsning E45/Skansenvägen (enskild väg)
+ Skansen, Markusfolks Gård
+
+Bro över Ljusnan
 (T-korsning Västra Vadje)
  Enskild väg
 					7.4 km/7.7 km	5 min 33 s/5 min 47 s
-Bensinstation: Circle-K
-Trippel T-korsning Överbyn S
-(Enskild väg)
- Camping 45
+(T-korsning Östra Vadje)
+ Soup of Scandinavia, Enskild väg
+
+Korsning Åsteby (enskild väg)
+ Åsteby
+
+Tankställe Överbyn
+ Bensinstation: INGO
+					(/
+(Camping 45
+
+Infopunkt Hovfjället (nordgående)
 
 T-korsning E45/Hovfjällsvägen
  Hovfjället
@@ -253,12 +282,18 @@ T-korsning E45/Hovfjällsvägen
 T-korsning Vägsjöfors V
  Bograngen, Vitsand
 					1.4 km/1.1 km	1 min 41 s/1 min 19 s
-Korsning Vägsjöfors Herrgård
+Korsning Vägsjöfors Herrgård (lokal väg)
+ The Lodge, Vägsjöfors Herrgård, Stugby
 (Övre/Nedre Brocken)
 
 Korsning Vägsjöfors Ö
- Björbysätern
+ Digerberget
+ Värmlands Sjö och Fjäll Camping
+ Åsteby (enskild väg)
 					19.9 km/20.1 km	14 min 55 s/15 min 5 s
+T-korsning (enskild väg)
+ Naturreservat
+
 T-korsning (enskild väg)
  Osebol
 
