@@ -284,7 +284,7 @@ T-korsning Vägsjöfors V
 					1.4 km/1.1 km	1 min 41 s/1 min 19 s
 Korsning Vägsjöfors Herrgård (lokal väg)
  The Lodge, Vägsjöfors Herrgård, Stugby
-(Övre/Nedre Brocken)
+(Bro över Sundet (Övre/Nedre Brocken))
 
 Korsning Vägsjöfors Ö
  Digerberget
@@ -310,14 +310,14 @@ Korsning Värnäs
  Bensinstation: Din-X
  Restaurang/Kiosk: Mac 45
 					16.0 km/16.0 km	11 min 60 s/11 min 60 s
-T-korsning (enskild väg)
+T-korsning (enskild väg): (60.4569739,13.2944514)
  Naturreservat
 
-Halgån
+Bro över Halgån
 Parkeringsplats (ej skyltad)
 
 Värmland / Dalarna
-Torsby / Malung
+Torsby / Malung-Sälen
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
 Rastplats Lisskogsåsen
  Restaurang: Dutch Mountain
@@ -325,37 +325,51 @@ Rastplats Lisskogsåsen
 T-korsning Lisskogsåsen
  Ö. Näsberget, Lisskogsåsen
 					23.2 km/23.3 km	17 min 24 s/17 min 29 s
-Mellanhån-Järshån
+Bro över Mellanhån-Järshån
 
 Parkeringsplats
 (Bro över Uvan)
 
-T-korsning (lokalt mål)
+T-korsning (lokal väg)
  Byråsen, Skidbacke
 
+(Korsning E45/Nissvägen)
+ Lokal väg (ej skyltad)
+
+(Hotell VillaBergli Rum)
+
 Dubbel T-korsning Malung V
- V. Fors, Malungs Camping
- V. Utsjö
+ V. Fors, Malungs Camping, Natur och Fritid
+ V. Utsjö, Fjällfarmen (B&B)
 					0.4 km/0.4 km	36 s/36 s
-Västerdalälven
+Bro över Västerdalälven
 					0.4 km/0.3 km	36 s/27 s
-Korsning E45/Äsbyvägen
+Korsning E45/Äsbyvägen (lokal väg)
  Infoplats, Hotell och Spa
 Järnvägskorsning
  Västerdalsbanan
 
-T-korsning Malung centrum
+T-korsning Malung Centrum
+ Café: Jannesgården Café
+Restaurang/Café: Sibylla, Sandbäcks Café
 Korsning Malung Centrum
+					/)
 Bensinstation: Preem
 					0.4 km/0.4 km	36 s/36 s
+(Sankt Olof Hotell & Krog)
 Rondell Malung Ö
- 71 ö: Borlänge, Vansbro
- 71 v: Särna, Sälen
-T-korsning E45/Källvägen
- Bensinstation: Tanka
+ E16 ö: Gävle, Borlänge
+ 66 ö: Västerås, Vansbro
+ 66 v: Sälen, (Malungsfors)
+T-korsning E45/Källvägen (lokal väg)
+ Bensinstation: OKQ8, Tanka
+ Restaurang: Grillköket
 
 Korsning Dansande paret
- Lövängen industriomr.
+ Industri: Lövängen, TruckDiesel
+
+T-korsning E45/Skervägen (lokal väg)
+ Bilprovning
 
 T-korsning Ryhagen
  Ryhagen industriomr.
