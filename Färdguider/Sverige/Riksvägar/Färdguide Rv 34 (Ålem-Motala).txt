@@ -680,3 +680,95 @@ Parkeringsplats
 
 (Claudia's Gastrobar & Glass)
 Korsning Ljungs västra bro
+ Ljung
+ Maspelösa
+
+Korsning Sjöbacka bro
+ Råby, Sjöbacka bro
+ Viphagen (enskild väg)
+
+Linköping / Motala: (58.5371999,15.3781131)
+
+(T-korsning Hassla Klockrike)
+ Hassla Gård, Enskild väg
+
+Korsning Brunneby S
+ Klockrike, Äggbod
+
+Korsning Brunneby kyrka
+ Brunneby kyrka, Musteri, Gårdsbutik
+ Österstad
+
+T-korsning Hyttan
+ Borensberg S, Göta Kanal (sevärdhet)
+ Camping, Badplats, Vandrarhem
+
+Kungs Norrby akvedukt
+ Göta Kanal
+
+Rastplats Kungs Norrby
+(Bro över Motala Ström)
+
+T-korsning
+ Bjärka
+
+Trp Borensberg
+ 211: Örebro, Tjällmo
+ Borensberg N, Centrum
+ Göta Kanal (sevärdhet)
+ Camping, Badplats, Vandrarhem
+
+T-korsning Borensberg NV
+ Vänneberga
+
+(T-korsning)
+ Brånshult
+
+Dubbel T-korsning Brånshult Rv 34
+ Brånshult, Kristbergs K:a
+ Enskild väg
+
+T-korsning
+ [211]: Tjällmo
+
+Dubbel T-korsning Högby Rv 34
+ Karlsby
+ Högby Spa och Konferens
+ (Stråkenshus, Marocko)?
+
+Korsning (enskild väg)
+
+Korsning (enskild väg)
+
+Korsning Eveborg
+ Kulla, Härseby Gård
+ Enskild väg
+
+2+1-väg börjar/upphör
+
+Korsning Ervasteby
+ Karlsby
+ Borenshult
+
+Korsning (lokal väg)
+ Tivedens Byggvaror (ej skyltat)
+
+(T-korsning Rv 34/Dammtorpsvägen (sydgående)
+ Ingen skyltning
+(Järnvägsbro)
+ Godsstråket genom Bergslagen
+
+T-korsning (enskild väg)
+ Fallstugorna (endast förskyltad sydgående)
+
+Dubbel T-korsning Kohagsmossen
+ [50 n]: Askersund
+ Lokal väg (ej skyltad)
+
+T-korsning Rv 34/Granhultsg. (lokal väg)
+ Värmeverk, Tage Rejmes, Lastvagnsservice
+
+Korsning Motala NÖ
+ Centrum, Y-Ring
+ Borenshult, Motala Verkstad
+ Göta Kanal, Slussar (sevärdhet)
