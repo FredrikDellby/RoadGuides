@@ -1,88 +1,99 @@
 Etapp 11: Hedenstorp - Lv 195 (7,5 km/7,3 km)
 
 Trp Hedenstorp
- 40 ö: Jönköping, Västervik
+ 40 Ã¶: JÃ¶nkÃ¶ping, VÃ¤stervik
  [E4]: Stockholm, Helsingborg
- 47 ö: Oskarshamn
- 40 v: Göteborg, Ulricehamn
+ 47 Ã¶: Oskarshamn
+ 40 v: GÃ¶teborg, Ulricehamn
  26 s: Halmstad, Gislaved
 					1.1 km/0.9 km	57 s/46 s
 Trafikplats
- Jönköping S, Axamo
+ JÃ¶nkÃ¶ping S, Axamo
 					2.5 km/2.1 km	1 min 40 s/1 min 24 s
-T-korsning Klämmestorp
- Jönköping C
+T-korsning KlÃ¤mmestorp
+ JÃ¶nkÃ¶ping C
 					3.9 km/4.3 km	2 min 36 s/2 min 52 s
-Parkeringsplats (sydgående)
+Parkeringsplats (sydgÃ¥ende)
 
-Parkeringsplats (nordgående)
+Parkeringsplats (nordgÃ¥ende)
 
-Trp Månseryd
+Trp MÃ¥nseryd
  195: Hjo, Habo, Bankeryd
 
-Etapp 12: Lv 195 - Mullsjö (17,7 km/17,4 km)
-					0.9 km/0.5 km	41 s/23 s
-T-korsning
- Granshult
-					2.5 km/2.5 km	1 min 53 s/1 min 53 s
-					0.5 km/0.5 km	23 s/23 s
+Etapp 12: MÃ¥nseryd - MullsjÃ¶ (17,7 km/17,4 km)
+					3.9 km/3.5 km
 Trp Risbro
+ Habo, Habo kyrka (sevÃ¤rdhet)
+ Skirebo
+ Rastplats Risbro
+ Sand Golf Club (Hotell/Restaurang)
 					0.5 km/0.7 km	23 s/31 s
-Rastplats Risbro
-Jönköping / Habo
-					1.6 km/1.7 km	1 min 12 s/1 min 17 s
-Dubbel T-korsning Tuvebo
- Habo K:a
- Bottnaryd
-					2.9 km/2.7 km	2 min 11 s/2 min 2 s
-Tankställe Ljunga
- Beninstation: Statoil 1-2-3
-					0.9 km/0.8 km	41 s/36 s
-Korsning Ljunga
- Habo, Habo K:a
+Bro Ã¶ver DomneÃ¥n
+(JÃ¶nkÃ¶ping / Habo)
 					3.3 km/3.3 km	2 min 28 s/2 min 28 s
-Trp Bäckebo
+Trp BÃ¤ckebo
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ Perstorp
+ VÃ¤sterkÃ¤rr
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-Habo / Mullsjö
+(Habo / MullsjÃ¶)
 					0.5 km/0.6 km	23 s/27 s
-Rondell Mullsjö V
- Mullsjö C
+Rondell MullsjÃ¶ SV
+ MullsjÃ¶ C
  185: Bottnaryd
 
-Etapp 13: Mullsjö - Slättäng (15,0 km/15,0 km)
+Etapp 13: MullsjÃ¶ - SlÃ¤ttÃ¤ng (15,0 km/15,0 km)
 					1.2 km/1.1 km	54 s/50 s
-Järnvägsviadukt
- Jönköpingsbanan
+JÃ¤rnvÃ¤gsviadukt
+ JÃ¶nkÃ¶pingsbanan
 					2.1 km/2.1 km	1 min 35 s/1 min 35 s
-T-korsning Mullsjö N
- Mullsjö
+T-korsning MullsjÃ¶ N
+ MullsjÃ¶ N, Centrum
+ Industri: MullsjÃ¶ N
 					4.6 km/4.6 km	3 min 27 s/3 min 27 s
+(Lastbilscentral)
+(endast nordgÃ¥ende?)
+
 T-korsning Broholm
- Ryfors, Margareteholm
+ Margareteholm, (Ryfors)
+ Tunarp (enskild vÃ¤g)
 					0.7 km/0.7 km	31 s/31 s
-T-korsning Mon södra
- Utvängstorp
+T-korsning Mon sÃ¶dra
+ KlÃ¤mmestorp
+ HÃ¶gagÃ¤rdet, Anundsboden, SÃ¶rgÃ¥rden
 					0.9 km/0.9 km	41 s/41 s
+Bro Ã¶ver Tidan
+
 T-korsning Mon norra
  Sandhem
 					5.5 km/5.5 km	4 min 8 s/4 min 8 s
-T-korsning Slättäng
- 47 v: Trollhättan, Falköping
+Dubbel T-korsning (enskild vÃ¤g)
+ SÃ¶rgÃ¥rden KursgÃ¥rd
+ Kyrkekvarn (enskild vÃ¤g)
+ Kanotcenter, Turridning
+ Camping, Stugor
+ VeÂ´boa, Konst & Hantverk
 
-Etapp 14: Slättäng - Suntakstan (12,5 km/12,5 km)
+Parkeringsplats (nordgÃ¥ende)
+
+T-korsning SlÃ¤ttÃ¤ng
+ 47 v: TrollhÃ¤ttan, FalkÃ¶ping
+
+Etapp 14: SlÃ¤ttÃ¤ng - Suntakstan (12,5 km/12,5 km)
 					0.5 km/0.5 km	23 s/23 s
 Korsning
- Utvängstorp
+ UtvÃ¤ngstorp
 					0.7 km/0.9 km	31 s/41 s
 Korsning
-Jönköping / Västra Götaland
-Mullsjö / Tidaholm
+JÃ¶nkÃ¶ping / VÃ¤stra GÃ¶taland
+MullsjÃ¶ / Tidaholm
 					2.1 km/1.9 km	1 min 35 s/1 min 26 s
 Korsning
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-Korsning Vättak V
- Härja
- Hångsdala, Vättak
+Korsning VÃ¤ttak V
+ HÃ¤rja
+ HÃ¥ngsdala, VÃ¤ttak
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
 T-korsning
  Ettak
@@ -91,12 +102,12 @@ T-korsning
  Suntak
 					1.4 km/1.5 km	1 min 3 s/1 min 8 s
 Rondell Suntakstan
- 193 ö: Hjo, Tidaholm
- 193 v: Falköping
+ 193 Ã¶: Hjo, Tidaholm
+ 193 v: FalkÃ¶ping
 
 Etapp 15: Suntakstan - Munkabo (19,8 km/19,9 km)
 					2.7 km/2.6 km	2 min 2 s/1 min 57 s
-Korsning Ängatorp
+Korsning Ã„ngatorp
  Tidaholm, Baltak
  Dimbo
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
@@ -104,61 +115,61 @@ Korsning Acklinga
  Tidaholm
  Ekedalen
 					3.3 km/3.5 km	2 min 28 s/2 min 38 s
-Dubbel T-korsning Kavlåsbruket
+Dubbel T-korsning KavlÃ¥sbruket
  Ekedalen
- Kavlås, Hömb
+ KavlÃ¥s, HÃ¶mb
 					2.2 km/2.0 km	1 min 39 s/1 min 30 s
 Korsning Kungslena Mad
- Kavlås, Hömb
- Falköping, Kungslena
+ KavlÃ¥s, HÃ¶mb
+ FalkÃ¶ping, Kungslena
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-Tidaholm / Falköping
+Tidaholm / FalkÃ¶ping
 					1.3 km/1.3 km	59 s/59 s
-Korsning Åsebacken
- Blikstorp, Fröjered
+Korsning Ã…sebacken
+ Blikstorp, FrÃ¶jered
  Stenstorp, Dala
 					4.3 km/4.3 km	3 min 14 s/3 min 14 s
-Korsning Borgunda Ö
+Korsning Borgunda Ã–
  Borgunda
 					0.9 km/1.0 km	41 s/45 s
 Korsning Munkabro
  Borgunda
 Rondell Munkabro
- 46 s: Ulricehamn, Falköping
+ 46 s: Ulricehamn, FalkÃ¶ping
 
-Etapp 16: Munkabo - Skövde (8,9 km/9,5 km)
+Etapp 16: Munkabo - SkÃ¶vde (8,9 km/9,5 km)
 					0.9 km/1.1 km	41 s/50 s
-(Falköping / Skövde)
-Trp Grevagården
- Skultorp, Sjögerstad
-Rastplats: Grevagården
+(FalkÃ¶ping / SkÃ¶vde)
+Trp GrevagÃ¥rden
+ Skultorp, SjÃ¶gerstad
+Rastplats: GrevagÃ¥rden
 					2.5 km/2.2 km	1 min 40 s/1 min 28 s
 Trp Loringa
  Skultorp
 					2.5 km/2.7 km	1 min 40 s/1 min 48 s
 Trp Skultorp
- Hagelberg, Värsås
+ Hagelberg, VÃ¤rsÃ¥s
  Skultorp
 					1.5 km/1.7 km	1 min 0 s/1 min 8 s
 Skultorpstunneln
 					1.6 km/1.8 km	1 min 4 s/1 min 12 s
-Trp Skövde Södra
+Trp SkÃ¶vde SÃ¶dra
  49 v: Skara
- Skövde S
+ SkÃ¶vde S
 
-Etapp 17: Genom Skövde (8,0 km/7,3 km)
+Etapp 17: Genom SkÃ¶vde (8,0 km/7,3 km)
 					1.1 km/0.5 km	57 s/26 s
 Rondell
 					1.2 km/1.2 km	1 min 2 s/1 min 2 s
 Timsboholmsrondellen
- Centrum, Östermalm
+ Centrum, Ã–stermalm
 					1.5 km/1.4 km	1 min 17 s/1 min 12 s
-Trp Mariesjö
- 49 ö: Karlsborg, Tibro
+Trp MariesjÃ¶
+ 49 Ã¶: Karlsborg, Tibro
  194: Hjo
  Bensinstation: Preem
 
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Karlsborgsbanan
 Trafikplats
 					0.7 km/0.8 km	36 s/41 s
@@ -166,13 +177,13 @@ Stallsikenrondellen
 					0.9 km/1.0 km	46 s/51 s
 Trafikplats
 					1.5 km/1.4 km	1 min 17 s/1 min 12 s
-Horsåsrondellen
- 200: Töreboda, Tidan
-(Järnvägsviadukt)
- Västra Stambanan
+HorsÃ¥srondellen
+ 200: TÃ¶reboda, Tidan
+(JÃ¤rnvÃ¤gsviadukt)
+ VÃ¤stra Stambanan
 					0.6 km/0.6 km	31 s/31 s
-Trp Södra Ryd
- Södra Ryd
+Trp SÃ¶dra Ryd
+ SÃ¶dra Ryd
 Bensinstation: Tanka
 					0.5 km/0.5 km	26 s/26 s
 Karstorpsrondellen
@@ -180,48 +191,48 @@ Karstorpsrondellen
  [49 v]: Skara
  Bensinstation: Statoil
 
-Etapp 18: Skövde - Mariestad (29,3 km/29,8 km)
+Etapp 18: SkÃ¶vde - Mariestad (29,3 km/29,8 km)
 
 Trafikplats
- Södra Ryd
+ SÃ¶dra Ryd
 					3.5 km/3.7 km	2 min 38 s/2 min 47 s
-Mölltorpskorset
- Stöpen, Mölltorp
- Säter
+MÃ¶lltorpskorset
+ StÃ¶pen, MÃ¶lltorp
+ SÃ¤ter
 					2.9 km/2.7 km	2 min 11 s/2 min 2 s
-Korsning Stöpen väg 26
- Stöpen
- Säter
+Korsning StÃ¶pen vÃ¤g 26
+ StÃ¶pen
+ SÃ¤ter
 					3.7 km/3.8 km	2 min 47 s/2 min 51 s
-Korsning Kärrtorp
- Enskild väg
+Korsning KÃ¤rrtorp
+ Enskild vÃ¤g
 					0.8 km/0.7 km	36 s/31 s
 Korsning Mobacka
  Binneberg
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
-Korsning Lövåsen väg 26
+Korsning LÃ¶vÃ¥sen vÃ¤g 26
  Timmersdala
-Skövde / Mariestad
+SkÃ¶vde / Mariestad
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
 T-korsning Rambotorp
- Tidavad, Ödensåker
+ Tidavad, Ã–densÃ¥ker
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
 T-korsning
- Timmersdala, Låstad
+ Timmersdala, LÃ¥stad
 					3.3 km/3.3 km	2 min 28 s/2 min 28 s
-Korsning Kröken
- Böja
+Korsning KrÃ¶ken
+ BÃ¶ja
 					0.4 km/0.4 km	18 s/18 s
 Korsning Boterstena
  Tidavad
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
 Korsning Ek
- Lugnås, Lugnås K:a
+ LugnÃ¥s, LugnÃ¥s K:a
 					5.8 km/5.8 km	4 min 21 s/4 min 21 s
-Korsning Karleby väg 26
+Korsning Karleby vÃ¤g 26
  Ullervad
 					0.7 km/1.2 km	0 min 31 s/0 min 54 s
-Trp Haggården
- E20 ö: Stockholm, Örebro
+Trp HaggÃ¥rden
+ E20 Ã¶: Stockholm, Ã–rebro
  26 n: Filipstad, Kristinehamn
- E20 v: Göteborg, Skara
+ E20 v: GÃ¶teborg, Skara
