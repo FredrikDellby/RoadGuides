@@ -1,32 +1,73 @@
-Färdguide E18 (Kristiansand - Oslo)
+FÃ¤rdguide E18 (Kristiansand - Oslo)
 ====================================
-Brønningsmyrkrysset (86)
+
+Timeneskrysset (90)
+(motorvei begynder/ender)
+
+LauvÃ¥senkrysset (89)
+(avrampe Ã¸stgÃ¥ende retning
+pÃ¥rampe vestgÃ¥ende retning)
+
+BarstÃ¸lkrysset (88)
+
+LangÃ¥senkrysset (Dyreparkkrysset, 87)
+
+(90 km/h / 100 km/h
+
+Kristiansand / Lillesand
+(Stuedalen bru)
+ over Stuedalen, 59 m
+					(/
+(Studeheitunnelen)
+ 310 m/278 m
+					/)
+Studevann bru (102 m)
+ over Studevannet
+
+LÃ¸eheitunnelen
+ 322 m/347 m
+
+SteinÃ¥stunnelen-syd (2 222 m)
+
+SteinÃ¥stunnelen-nord
+
+Osane bru (VallesvÃ¦relva, 50 m)
+Brattheiatunnelen-vest (1 517 m)
+
+Brattheiatunnelen-Ã¸st
+
+Bjellandsvad bru (385 m)
+ Fjelldalselva
+
+BrÃ¸nningsmyrkrysset (86)
  420, [401]
- Høvåg Ø, Lillesand V, Brekkestø
+ HÃ¸vÃ¥g Ã˜, Lillesand V, BrekkestÃ¸
  Bensinstasjon: Circle-K, YX
- Elbilslading: IONITY, Grønn Kontakt, LadeiNorge, E.ON, Bellona
+ Elbilslading: IONITY, GrÃ¸nn Kontakt, LadeiNorge, E.ON, Bellona
+
+Etapp: Lillesand - Grimstad ()
 
 Songefjelltunnelen ()
  365 m/374 m
 
 Skifjelltunnelen-vest (1 088 m)
 
-Skifjelltunnelen-øst (1 076 m) 
+Skifjelltunnelen-Ã¸st (1 076 m) 
 
 Storemyrkrysset (85)
- 402: Birkeland, Møgelstu
+ 402: Birkeland, MÃ¸gelstu
 
 Moelva bru (52 m)
  Moelva
 
 (Kvernbekken bru, 94 m))
-Kvernåstunnelen (162 m)
+KvernÃ¥stunnelen (162 m)
 
 Gaupemyrkrysset (84)
  [420]: Lillesand sentrum, Homborsund
  Tingsaker
 
-Engelsheitunnelen miljøtunnel (253 m)
+Engelsheitunnelen miljÃ¸tunnel (253 m)
 
 Kaldvell bru (129 m)
  Kaldvellelva
@@ -42,23 +83,25 @@ Omrekrysset (83)
  Rasteplass Kroktjenn
 
 Rasteplass Trolldalen
-(vestgående retning)
+(vestgÃ¥ende retning)
 
 Reddalskanalen bru (128 m)
  Reddalskanalen
 
 Morholtkrysset (82)
- 420: Homborsund, Østerhus
+ 420: Homborsund, Ã˜sterhus
 
-Øygardsdalkrysset (81)
+Ã˜ygardsdalkrysset (81)
  420: Grimstad, Reddal
  Universitetet i Agder
  Bensinstasjon: Circle-K, Esso, Uno-X
- Elbilslading: Mer, Grønn Kontakt
+ Elbilslading: Mer, GrÃ¸nn Kontakt
  Restaurant: McDonald's
 
+Etapp: Grimstad - Arendal ()
+
 Kryss Frivoll (80)
- 404: Herefoss, Dømmesmoen
+ 404: Herefoss, DÃ¸mmesmoen
  Bensinstasjon: Uno-X
  Restaurant: Pizzabakeren Grimstad, Restaurant: Grimstad Vertshus og Kro
 
@@ -68,24 +111,23 @@ Kryss Arendalsveien (79)
  420: Grimstad
  Camping, Hytter
 
-Kryss Bringsværmyra (78)
+Kryss BringsvÃ¦rmyra (78)
  420: Fevik, Vik
- Fjære kirke (seværdighet)
+ FjÃ¦re kirke (sevÃ¦rdighet)
  Camping, Hotell, Bad
  
-Kryss Bringsværmoen (77)
-(avfart østgående retning
-påfart vestgående retning)
+Kryss BringsvÃ¦rmoen (77)
+(avfart Ã¸stgÃ¥ende retning
+pÃ¥fart vestgÃ¥ende retning)
  407: Rykene, Vik
-
 (Grimstadporten-vest (552 m))
 
-Grimstadporten-øst (552 m)
+Grimstadporten-Ã¸st (552 m)
 
 Grimstad / Arendal: (58.4012318,8.6758192)
 
 Kryss Nedenes (76)
- 420: Hisøy, Nedenes
+ 420: HisÃ¸y, Nedenes
  Bensinstasjon: Uno-X
  Elbilslading: Recharge
  Restaurant: Millers Kafe
@@ -95,27 +137,29 @@ Nidelva bru (211 m)
 
 Kryss Rannekleiv (75)
 (avrampe retning vest,
-pårampe retning øst)
+pÃ¥rampe retning Ã¸st)
  407: Rykene
 
-Kryss Sørsvannveien (74)
-(østgående retning)
- [407]: Hisøy, Bjorbekk
+Kryss SÃ¸rsvannveien (74)
+(Ã¸stgÃ¥ende retning)
+ [407]: HisÃ¸y, Bjorbekk
  Industri: Stoa, Agderparken
 
-Sørsvannveien (73)
-(vestgående retning)
- [407]: Hisøy, Bjorbekk
+SÃ¸rsvannveien (73)
+(vestgÃ¥ende retning)
+ [407]: HisÃ¸y, Bjorbekk
  Industri: Stoa, Agderparken
 
 Kryss Stoa (72)
- 42 ø: Arendal
+ 42 Ã¸: Arendal
  42 v: Evje, Froland
  Industri: Stoa, Agderparken
  Idrettsparken
  Bensinstasjon: Circle-K, Esso
  Elbilslading: Recharge
  Restaurant: Burger King
+
+Etapp: Arendal - Tvedestrand ()
 
 (Solberg bru (177 m))
  Arendalsbanen og Fv 42
@@ -124,29 +168,29 @@ Kryss Harebakken (71)
  410: Arendal, 421
  Sykehus
  Bensinstasjon: Circle-K
- Elbilslading: Grønn Kontakt
+ Elbilslading: GrÃ¸nn Kontakt
 
 (Motortrafikkvei / Motorvei)
-Torsbuåsen tunnel-syd
+TorsbuÃ¥sen tunnel-syd
  728,7 m/
 
-Torsbuåsen tunnel-nord
+TorsbuÃ¥sen tunnel-nord
  /722,1 m
 
-Stølen bomstasjon: (58.4941857,8.7703721)
+StÃ¸len bomstasjon: (58.4941857,8.7703721)
  11,- / 28,-
 
 Piletjenn bru (171,9 m): (58.4989431, 8.7842669)
 
 Longumkrysset (70)
- 409: Tromøy, [410]: Eydehavn
+ 409: TromÃ¸y, [410]: Eydehavn
  [411]
 
-Mørland bomstasjon: (58.5100664,8.8204552)
+MÃ¸rland bomstasjon: (58.5100664,8.8204552)
  24,- / 60,-
 
-Røydalen bru (173 m): (58.5148212, 8.8268983)
- Røydalsbekken
+RÃ¸ydalen bru (173 m): (58.5148212, 8.8268983)
+ RÃ¸ydalsbekken
 
 Hesthag tunnel-syd
  685 m/
@@ -154,21 +198,23 @@ Hesthag tunnel-syd
 Hesthag tunnel-nord
  /606 m
 
-Træfjell tunnel (136 m)
+TrÃ¦fjell tunnel (136 m)
 
 Arendal / Tvedestrand: (58.5553262,8.8736132)
 
-Årdalen bru (108,93 m): (58.5653188, 8.8953344)
+Ã…rdalen bru (108,93 m): (58.5653188, 8.8953344)
  Langangselva og Fv422
 
-Grenstølkrysset (67)
+GrenstÃ¸lkrysset (67)
  [411]: Tvedestrand
- 421: Åmli
+ 421: Ã…mli
 
-Fløyheia tunnel-syd
+Etapp: Tvedestrand - VinterkjÃ¦r ()
+
+FlÃ¸yheia tunnel-syd
  509,6 m/
 
-Fløyheia tunnel-nord
+FlÃ¸yheia tunnel-nord
  /508,6 m
 
 Motorvei ender/begynner
@@ -179,43 +225,45 @@ Kryss Lunde (66)
  [411]: Tvedestrand
 
 Kryss Sundsdalen
-(avfart østgående riktning
-påfart væstgående riktning)
+(avfart Ã¸stgÃ¥ende riktning
+pÃ¥fart vÃ¦stgÃ¥ende riktning)
 
 (Sundsbekkdalen bru (85 m))
- over dalsøkk
+ over dalsÃ¸kk
 
 Kryss Songe (65)
 
-Risør / Gjerstad
+RisÃ¸r / Gjerstad
 
-Svarthøl bru (60 m)
+SvarthÃ¸l bru (60 m)
  Steaelva
-Infoplats Svarthøl
-(fremst østgående)
+Infoplats SvarthÃ¸l
+(fremst Ã¸stgÃ¥ende)
 
-Bruråstunnelen (176 m)
+BrurÃ¥stunnelen (176 m)
 
 Kryss Vinterkjerr (64)
- 416: Risør
+ 416: RisÃ¸r
 
-Sørlandsporten (115 m)
+Etapp: VinterkjÃ¦r - Gjerdemyra ()
 
-Rondell Akland/Sørlandsporten
+SÃ¸rlandsporten (115 m)
+
+Rondell Akland/SÃ¸rlandsporten
  416: Myra
- 418: Søndeled
+ 418: SÃ¸ndeled
  Bensinstasjon: YX
- Kafeteria: Sørlandsporten
+ Kafeteria: SÃ¸rlandsporten
 
-(Bråten bru (52 m))
- Torbjørnsdalen
+(BrÃ¥ten bru (52 m))
+ TorbjÃ¸rnsdalen
 
 Kryss Moland (63)
- 416: Vegårdshei
+ 416: VegÃ¥rdshei
  Moland industripark
 
 Pinesund bru (205 m)
-Risør / Gjerstad
+RisÃ¸r / Gjerstad
 
 Haugselva bru (110)
 
@@ -225,13 +273,13 @@ Kryss Sundebru (61)
 (Sunde bru)
  Harsund, 175 m
 
-Kryss Øygardstjørnane (60)
- Rasteplass Østerholtheia
+Kryss Ã˜ygardstjÃ¸rnane (60)
+ Rasteplass Ã˜sterholtheia
 
-Breiøygardtunnelen (25 m)
+BreiÃ¸ygardtunnelen (25 m)
 
 Aust-Agder / Telemark
-Gjerstad / Kragerø
+Gjerstad / KragerÃ¸
 
 T-korsning Sannidal (55)
 
@@ -239,45 +287,47 @@ Grytvannselva bru (121 m)
  Tyvannselva
 
 Kryss Gjerde (54)
- 38 s: Kragerø
+ 38 s: KragerÃ¸
  38 n: Kviteseid, Drangedal
 
-Farsjøbrua (238 m)
- Farsjø
+Etapp : Gjerdemyra - Rugtvedt ()
+
+FarsjÃ¸brua (238 m)
+ FarsjÃ¸
 
 Trafikkontrollplass
 
-Kragerø / Bamble
+KragerÃ¸ / Bamble
 
 Bakkevann bru (59 m)
  Bakkevannet
 
 Rasteplass Bakkevannet-nord
-(västgående riktning)
+(vÃ¤stgÃ¥ende riktning)
 
 Rasteplass Bakkevannet-syd
-(östgående riktning)
+(Ã¶stgÃ¥ende riktning)
 
 Motortrafikkvei / Motorvei
 
 Sprangfossbrua
 
-Langrønningentunnelen (60 m)
+LangrÃ¸nningentunnelen (60 m)
 
 Stillinga bomstasjon
  36,- / 72,-
 
-Kryss Langrønningen (53)
+Kryss LangrÃ¸nningen (53)
 
-Rønholtdalbrua
+RÃ¸nholtdalbrua
 
 Svartholtbrua
 
-Vardåstunnelen (70 m)
+VardÃ¥stunnelen (70 m)
 
 Stemmenbrua
 
-Mørkekjerbrua
+MÃ¸rkekjerbrua
 
 Tinderholtbrua
 
@@ -289,30 +339,32 @@ Hegnabrua
 
 Kryss Rugtvedt (52)
 
+Etapp: Rugtvedt - Skjelsvik ()
+
 Bambletunnelen-vest
  765 m/751 m
 
-Bambletunnelen-øst
+Bambletunnelen-Ã¸st
 Bamble / Porsgrunn
 Grenlandsbrua-vest
  Frierfjorden, 608 m
 
-Grenlandsbrua-øst
-Kjørholttunnelen-vest
+Grenlandsbrua-Ã¸st
+KjÃ¸rholttunnelen-vest
  2 219 m/2 195 m
 
-(Kjørholttunnelen-øst)
-Kryss Kjørholt (51)
+(KjÃ¸rholttunnelen-Ã¸st)
+Kryss KjÃ¸rholt (51)
 
 Steinbrekktunnelen (184 m)
 
-Brattåstunnelen-vest
+BrattÃ¥stunnelen-vest
  524 m
 
-(Brattåstunnelen-øst)
+(BrattÃ¥stunnelen-Ã¸st)
 Kryss Skjelsvik-vest (50)
-(avfart östgående riktning
-påfart västgående riktning)
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
  36: Porsgrunn, Skien
  354: Brevik
 (Hovettunnelen-vest)
@@ -320,10 +372,10 @@ påfart västgående riktning)
 
 Etapp 11: Skjelsvik - Langangen ()
 
-(Hovettunnelen-øst)
-Kryss Skjelsvik-øst (50)
-(avfart västgående riktning
-påfart östgående riktning)
+(Hovettunnelen-Ã¸st)
+Kryss Skjelsvik-Ã¸st (50)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  36: Porsgrunn, Skien
  354: Brevik
 
@@ -334,10 +386,10 @@ Telemarksporten (270 m)
 Trafikkontrollplass Lanner
 
 Vestre Langangen bru
- Sundsåsdalen, 298 m
+ SundsÃ¥sdalen, 298 m
 
-Østre Langangen bru
- Ønna, 376 m
+Ã˜stre Langangen bru
+ Ã˜nna, 376 m
 
 Langangenkrysset (48)
 
@@ -345,105 +397,105 @@ Etapp 12: Langangen - Larvik (16,8 km/16,6 km)
 
 Porsgrunn / Larvik
 
-Solum miljøtunnel (51 m)
+Solum miljÃ¸tunnelÂ (51 m)
 
 Solum bru (182 m)
  Solumelva
 
-Hobekksetertunnelen (385 m)
+HobekksetertunnelenÂ (385 m)
 
-(Hobekk bru (dalsøkk, 161 m))
-Sandbekkåstunnelen (155 m)
+(Hobekk bru (dalsÃ¸kk,Â 161 m))
+SandbekkÃ¥stunnelenÂ (155 m)
 
 Rasteplass Vassbotnbrua
 
-Vassbotnbrua (307 m)
+VassbotnbruaÂ (307 m)
 
-Malerødtunnelen (230 m)
+MalerÃ¸dtunnelenÂ (230 m)
 Sky bomstasjon
 
-Paulertunnelen (420 m)
+PaulertunnelenÂ (420 m)
 
 Skykrysset (47)
 
-Martineåstunnelen-vest
- 1 298 m/1 275 m
+MartineÃ¥stunnelen-vest
+ 1Â 298 m/1Â 275 m
 
-Martineåstunnelen-øst
+MartineÃ¥stunnelen-Ã¸st
 Farrisbrua-vest
- Farriseidet, 570 m
+ Farriseidet,Â 570 m
 
-(Farrisbrua-øst)
+(Farrisbrua-Ã¸st)
 Kryss Farriseidet (46)
-(avfart västgående riktning
-påfart östgående riktning)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
 (Larvikstunnelen-vest)
- 2 790 m/2 795 m
+ 2Â 790 m/2Â 795 m
 
-Larvikstunnelen-øst
+Larvikstunnelen-Ã¸st
 
 Bommestad bomstasjon
 
 Bommestadkrysset (45)
 
-Etapp 13: Larvik - Tønsberg (29,5 km/29,6 km)
+Etapp 13: Larvik - TÃ¸nsberg (29,5 km/29,6 km)
 
 Bommestadbrua (152 m)
- Numedalslågen
+ NumedalslÃ¥gen
 
-Seierstadbrua (288 m)
+SeierstadbruaÂ (288 m)
 
-Rødbølbrua
+RÃ¸dbÃ¸lbrua
  152 m/164 m
 
-Rødbøltunnelen (160 m)
+RÃ¸dbÃ¸ltunnelenÂ (160 m)
 
 Ringdalkrysset (44)
 
 Skinmo bomstasjon
 
-Danebo miljøtunnel (51 m)
+Danebo miljÃ¸tunnelÂ (51 m)
 
 Larvik / Sandefjord
-Langåkerkrysset (43)
+LangÃ¥kerkrysset (43)
 
-(Natvall miljøtunnel)
+(Natvall miljÃ¸tunnel)
  219 m/221 m
 Natvallkrysset (42)
 
-Fokserødkrysset (41)
+FokserÃ¸dkrysset (41)
  Sandefjord Lufthavn Torp
 
-Bjørnerød viltlokk (48 m)
-Fokserød bomstasjon
+BjÃ¸rnerÃ¸d viltlokkÂ (48 m)
+FokserÃ¸d bomstasjon
 
-(Tassebekk viltlokk (42 m))
+(Tassebekk viltlokkÂ (42 m))
 Tassebekkrysset (40)
 
-Furulund miljøtunnel (50 m)
+Furulund miljÃ¸tunnelÂ (50 m)
 
-Kryss Sørby/Borge (39)
+Kryss SÃ¸rby/Borge (39)
 
 Rasteplass Ramsum
-(Ramsum viltlokk (42 m))
+(Ramsum viltlokkÂ (42 m))
 
 Ramsum bomstasjon
 
-(Søndre Hesby bru (60 m))
+(SÃ¸ndre Hesby bru (60 m))
  Merkedamselva
-(Sandefjord / Tønsberg)
+(Sandefjord / TÃ¸nsberg)
 Hesbykrysset (38)
 
 (Nordre Tem bru (81 m))
  Merkedamselva
 
-Aulerødkrysset (37)
+AulerÃ¸dkrysset (37)
 
-(Aulielva bru, 30 m)
+(Aulielva bru,Â 30 m)
  Aulielva
-Åskrysset (36)
+Ã…skrysset (36)
 
-Etapp 14: Tønsberg - Undrumsdalskrysset (9,4 km/9,5 km)
+Etapp 14: TÃ¸nsberg - Undrumsdalskrysset (9,4 km/9,5 km)
 
 Gulli bomstasjon
 
@@ -463,30 +515,30 @@ Undrumsdalskrysset (34)
 
 Etapp 15: Undrumsdalskrysset - Islandkrysset (20,0 km/19,7 km)
 					1,1 km/0,7 km	33 s/20 s
-Stenbjørnrødtunnelen-syd
+StenbjÃ¸rnrÃ¸dtunnelen-syd
  621 m/536 m
 					0,6 km/0,9 km	20 s/33 s
-Stenbjørnrødtunnelen-nord
-Flårtunnelen-syd
+StenbjÃ¸rnrÃ¸dtunnelen-nord
+FlÃ¥rtunnelen-syd
  882 m
 					1,1 km/0,9 km	39 s/23 s
-Flårtunnelen-nord
+FlÃ¥rtunnelen-nord
 					0,6 km/0,6 km	1 min 19 s/0 min 20 s
-Tønsberg / Horten
+TÃ¸nsberg / Horten
 					2,1 km/2,5 km	1 min 9 s/1 min 25 s
 Kopstadkrysset (33)
 					2,9 km/2,1 km	1 min 35 s/1 min 9 s
-(Horten / Tønsberg)
+(Horten / TÃ¸nsberg)
 Hellandkrysset (32)
-(avfart nordgående riktning
-påfart sydgående riktning)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
 					1,0 km/1,4 km	36 s/50 s
 Brekketunnelen-syd
  587 m/556 m
 					0,6 km/0,6 km	22 s/45 s
 Brekketunnelen-nord
 					1,5 km/1,4 km	43 s/43 s
-Tønsberg / Holmestrand
+TÃ¸nsberg / Holmestrand
 					0,5 km/0,7 km	25 s/32 s
 Bentsrudkrysset (31)
 					1,0 km/1,1 km	1 min 55 s/1 min 48 s
@@ -494,17 +546,17 @@ Sjeggestadbrua
  (Mofjellbekken bru, 229 m)
 					2,2 km/2,0 km
 Botnetunnelen-syd
- 1 375 m/
+ 1Â 375 m/
 					1,4 km/1,4 km	50 s/50 s
 Botnetunnelen-nord
- /1 374 m
+ /1Â 374 m
 					0,9 km/0,9 km	32 s/32 s
-Bringåkertunnelen-syd
- 1 129 m
+BringÃ¥kertunnelen-syd
+ 1Â 129 m
 					1,1 km/1,1 km	43 s/43 s
-Bringåkertunnelen-nord
+BringÃ¥kertunnelen-nord
 					1,0 km/1,4 km	32 s/50 s
-Islandtunnelen (388 m)
+IslandtunnelenÂ (388 m)
 					0,6 km/0,4 km	18 s/14 s
 Islandkrysset (30)
 
@@ -517,11 +569,11 @@ Rasteplass Grelland
 					1,4 km/0,8 km	50 s/29 s
 Hillestadtunnelen-nord
 					0,7 km/0,7 km	25 s/25 s
-Løkentunnelen-syd
+LÃ¸kentunnelen-syd
  702 m/699 m
 					0,7 km/0,7 km	25 s/25 s
-Løkentunnelen-nord
-Brattfoss bru (dalsøkk, 246 m)
+LÃ¸kentunnelen-nord
+Brattfoss bruÂ (dalsÃ¸kk,Â 246 m)
 					2,6 km/2,5 km	1 min 34 s/1 min 30 s
 Hanekleivtunnelen-syd
  1746 m
@@ -532,7 +584,7 @@ Hanekleivtunnelen-syd
 Hanekleivkrysset (29)
 					3,9 km/3,5 km	2 min 8 s/1 min 55 s
 Trafikkontrollplass
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 
 Bolstadtunnelen
  167 m/179 m
@@ -540,7 +592,7 @@ Bolstadtunnelen
 Rasteplass Tollerud
 (Tollerudelva bru)
 					2,3 km/2,4 km	1 min 15 s/1 min 19 s
-Bjørgetunnelen (175 m)
+BjÃ¸rgetunnelen (175 m)
 					1,9 km/2,3 km	1 min 2 s/1 min 15 s
 Gutufossen bru
  248 m/261 m
@@ -552,31 +604,31 @@ Sande / Drammen
 Eikkrysset (27)
 					1,1 km/0,9 km	40 s/32 s
 Serviceplass Kobbervikdalen
-(östgående riktning)
+(Ã¶stgÃ¥ende riktning)
  Deli di Luca
 					1,3 km/0,8 km	47 s/29 s
 Kobbervikdalkrysset (26)
-(avfart östgående riktning
-påfart västgående riktning)
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
 					1,3 km/0,4 km	47 s/14 s
 Kleivenetunnelen-syd
  (551 m/1825 m)
 					0,8 km/2,2 km	0 min 29 s/1 min 19 s
 (Kleivenetunnelen-nord)
-Bangeløkkakrysset (25)
+BangelÃ¸kkakrysset (25)
  E134: Haugesund, Kongsberg
  282, 319
 (Drammensbrua-syd)
  1892 m/
 
-Etapp 17: Drammen - Bærum (27,7 km/27,9 km)
+Etapp 17: Drammen - BÃ¦rum (27,7 km/27,9 km)
 					2,1 km/2,1 km	1 min 16 s/1 min 16 s
 (Drammensbrua-nord)
  /1841 m
 Drammen / Lier
-Brakerøyakrysset (24)
-(avfart västgående riktning
-påfart östgående riktning)
+BrakerÃ¸yakrysset (24)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  282
 					2,8 km/3,5 km	1 min 41 s/2 min 6 s
 Kjellstadkrysset (23)
@@ -594,8 +646,8 @@ Tranbykrysset (22)
  282
 					3,4 km/3,3 km	2 min 2 s/1 min 59 s
 Heiakrysset (21)
-(avfart västgående riktning
-påfart östgående riktning)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  Lierskogen
 					0,8 km/0,5 km	29 s/18 s
 Lier / Asker
@@ -607,32 +659,32 @@ Asker bru (249 m)
  Drammenbanen
 
 Fusdalkrysset (19)
-(avfart västgående riktning
-påfart östgående riktning)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  167
 					2,9 km/3,4 km	1 min 56 s/2 min 16 s
 Holmenkrysset (18)
- 165: Røyken
+ 165: RÃ¸yken
 					2,5 km/2,7 km	1 min 40 s/1 min 48 s
 (Nesbru bru)
  155 m/173 m
 
 Slependkrysset (17)
-(Asker / Bærum)
+(Asker / BÃ¦rum)
 (Slependen bru)
  188 m/174 m
 					1,9 km/1,6 km	1 min 16 s/1 min 4 s
-Kjørbokrysset (16)
- E16: Bergen, Hønefoss
- Bærum Centrum
+KjÃ¸rbokrysset (16)
+ E16: Bergen, HÃ¸nefoss
+ BÃ¦rum Centrum
  Bensinstasjon: Shell
  Restaurang: McDonald's
  Hotel: Thon
 (Sandvika bru-vest)
  458 m
 
-Etapp 18: Bærum - Lysaker (6,3 km/6,3 km)
-(Sandvika bru-øst)
+Etapp 18: BÃ¦rum - Lysaker (6,3 km/6,3 km)
+(Sandvika bru-Ã¸st)
 					1,8 km/1,4 km	1 min 21 s/1 min 3 s
 Blommenholmkrysset (15)
  Henie Onstad Kunstsenter
@@ -640,134 +692,134 @@ Blommenholmkrysset (15)
 Parkeringsplass
 
 Serviceplass Kirkeveien
-(västgående riktning)
+(vÃ¤stgÃ¥ende riktning)
  Bensinstasjon: Esso
 					0,5 km/0,9 km	23 s/41 s
-Høvikkrysset (14)
+HÃ¸vikkrysset (14)
  Bensinstasjon: Shell
 					1,4 km/1,1 km	1 min 3 s/0 min 50 s
 Strandkrysset (13)
  Bensinstasjon: Shell
 					1,5 km/1,6 km	1 min 8 s/1 min 12 s
 Lysakerkrysset (12)
- 166: Snarøya, Fornebu
+ 166: SnarÃ¸ya, Fornebu
  150-Ring 3: Smestad
- Hotell: Fornebuområdet
+ Hotell: FornebuomrÃ¥det
 
-Etapp 19: Lysaker - Sørenga (9,0 km/8,3 km)
+Etapp 19: Lysaker - SÃ¸renga (9,0 km/8,3 km)
 					0,8 km/0,8 km	36 s/36 s
 (Lysakerlokket (264 m))
 Kryss Lysaker torg (11)
-(ej avrampe østgående)
+(ej avrampe Ã¸stgÃ¥ende)
  [160]: Jar, Bekkestua, Lysaker
 					/)
 (Lysakerelva bru)
  Lysakerelva, 61 m
 (Viken / Oslo)
-(Bærum / Oslo)
+(BÃ¦rum / Oslo)
 Avrampe Lilleakerveien (10)
-(västgående riktning)
+(vÃ¤stgÃ¥ende riktning)
  Lilleaker, Sollerud
  Lysaker stasjon
-Avrampe Værkerø V (11)
-(østgående)
+Avrampe VÃ¦rkerÃ¸ V (11)
+(Ã¸stgÃ¥ende)
  Sollerud
- 160, [Ring 3]: Smestad, Værkerø
+ 160, [Ring 3]: Smestad, VÃ¦rkerÃ¸
 					0,6 km/0,7 km	27 s/32 s
-Værkerøkrysset (9)
-(ej avrampe østgående)
+VÃ¦rkerÃ¸krysset (9)
+(ej avrampe Ã¸stgÃ¥ende)
  [Ring 3]: Smestad
- 160: Værkerø
+ 160: VÃ¦rkerÃ¸
  Camping Bogstad
 					1,0 km/0,3 km	45 s/27 s
-(Avrampe/pårampe Vennersborgveien
-(vestgående retning)
+(Avrampe/pÃ¥rampe Vennersborgveien
+(vestgÃ¥ende retning)
 
-(Serviceplass Værkerø (vestgående)
+(Serviceplass VÃ¦rkerÃ¸ (vestgÃ¥ende)
  Bensinstation: YX
 					0,6 km/0,9 km	27 s/41 s
 
-Kryss Sjølyst (8)
- Ring 2: Skøyen, Majorstuen
+Kryss SjÃ¸lyst (8)
+ Ring 2: SkÃ¸yen, Majorstuen
  Bensinstasjon: Circle-K, Esso
  Restaurang: McDonald's
- Hotell: Scandic Sjølyst
-(Maritim bomstasjon (østgående))
+ Hotell: Scandic SjÃ¸lyst
+(Maritim bomstasjon (Ã¸stgÃ¥ende))
 					/)
-Sjølysttunnelen (167 m))
+SjÃ¸lysttunnelen (167 m))
 					1,0 km/0,8 km	51 s/41 s
 Kryss Frognerkilen (7)
- Bygdøy, Museer
+ BygdÃ¸y, Museer
 					1,5 km/1,5 km	1 min 17 s/1 min 17 s
 Kryss Hjortnes (6)
- Sentrum V/Ø, Hjortnes
- Færge: Kiel (Color Line)
+ Sentrum V/Ã˜, Hjortnes
+ FÃ¦rge: Kiel (Color Line)
 					0,7 km/)	32 s/)
 Kryss Filipstad (5))
-(avrampe østgående retning
-pårampe vestgående retning)
+(avrampe Ã¸stgÃ¥ende retning
+pÃ¥rampe vestgÃ¥ende retning)
  Ring 1: Sentrum V
 					/0,8 km	(/36 s
 (Operatunnelen-vest
 					(/
 (Vestbanekrysset (5)
-(avrampe vestgående retning
-pårampe østgående retning)
+(avrampe vestgÃ¥ende retning
+pÃ¥rampe Ã¸stgÃ¥ende retning)
  Ring 1: Sentrum V
 					(/1,7 km/1,4 km	1 min 17 s/1 min 3 s
 Kryss Festningskaia (4)
  Oslo-sentrum
- Færge: København, Frederikshavn
+ FÃ¦rge: KÃ¸benhavn, Frederikshavn
  Oslo sentralstasjon
 					1,3 km/0,8 km	59 s/36 s
-Kryss Sørenga-vest (3)
-(avfart östgående riktning
-påfart västgående riktning)
+Kryss SÃ¸renga-vest (3)
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
  [E6 n]: Trondheim, Gardemoen
- [E6 s]: Gøteborg, Moss
+ [E6 s]: GÃ¸teborg, Moss
 
-Etapp 20: Sørenga - Nøstvet (18,1 km/18,6 km)
+Etapp 20: SÃ¸renga - NÃ¸stvet (18,1 km/18,6 km)
 					0,5 km/0,7 km	23 s/32 s
-Kryss Grønlikaia (2)
-(avfart sydgående riktning
-påfart nordgående riktning)
+Kryss GrÃ¸nlikaia (2)
+(avfart sydgÃ¥ende riktning
+pÃ¥fart nordgÃ¥ende riktning)
  Ekeberg
 					(/
-Kryss Grønlia
-(avfart nordgående riktning
-påfart sydgående riktning)
+Kryss GrÃ¸nlia
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
  [E6 n]: Trondheim
- Ring 1: Sentrum Ø, Ekeberg
+ Ring 1: Sentrum Ã˜, Ekeberg
 					0,3 km/0,6 km	14 s/27 s
-Kryss Sjursøya
+Kryss SjursÃ¸ya
  Sydhavna
 					1,4 km/1,0 km	1 min 3 s/0 min 45 s
 Bomstasjon Mosseveien: (59.8858295,10.7680326)
-Pårampe (vestgående)
+PÃ¥rampe (vestgÃ¥ende)
 					0,4 km/0,4 km	21 s/21 s
 T-korsning E18/Ormsundv.
- Malmøya, Ormøya
-Bensinstasjon: YX (østgående)
+ MalmÃ¸ya, OrmÃ¸ya
+Bensinstasjon: YX (Ã¸stgÃ¥ende)
 					1,1 km/1,1 km	1 min 6 s/1 min 6 s
-T-korsning E18/Ulvøybroen
- Ulvøya
+T-korsning E18/UlvÃ¸ybroen
+ UlvÃ¸ya
 					0,9 km/0,9 km	54 s/54 s
-T-korsning E18/Furubråtveien
+T-korsning E18/FurubrÃ¥tveien
  Ikke skiltet
 
 T-korsning E18/Nordstrandv.
  Nordstrand
 					0,7 km/0,7 km	42 s/42 s
 T-korsning E18/Ljabruveien
-(kun adgang vestgående)
+(kun adgang vestgÃ¥ende)
 					1,4 km/1,4 km	1 min 24 s/1 min 24 s
 (T-korsning E18/Gradvollveien)
 					0,9 km/1,5 km	0 min 46 s/1 min 17 s
-Herregårdskrysset
+HerregÃ¥rdskrysset
  155: Enebakk, Holmlia
  Nordstrand, Ingerstrand
 (Bomstasjon Fiskevollbukta)
-(vestgående retning)
+(vestgÃ¥ende retning)
 					1,7 km/1,6 km	1 min 7 s/1 min 12 s
 Oslo / Norde Follo)
 					(/
@@ -780,14 +832,14 @@ Nydammen bru (121 m)
 					2,2 km/2,8 km	1 min 33 s/2 min 6 s
 Rasteplass Svartskog
 					3,9 km/3,2 km	2 min 56 s/2 min 24 s
-Norde Follo / Ås
+Norde Follo / Ã…s
 					0,5 km/0,9 km	23 s/41 s
 Ringneskrysset
- 156, [152]: Oppegård, Langhus
- [E6 n]: Oslo N/Ø
+ 156, [152]: OppegÃ¥rd, Langhus
+ [E6 n]: Oslo N/Ã˜
  TusenFryd
 					0,8 km/0,6 km	36 s/27 s
-Kryss Nøstvet (22)
- E6 n: Trondheim, Oslo (N/Ø)
-(avfart västgående riktning
-påfart østgående riktning)
+Kryss NÃ¸stvet (22)
+ E6 n: Trondheim, Oslo (N/Ã˜)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¸stgÃ¥ende riktning)
