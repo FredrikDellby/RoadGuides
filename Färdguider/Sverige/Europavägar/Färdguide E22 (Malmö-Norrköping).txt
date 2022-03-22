@@ -1,35 +1,58 @@
 Färdguide E22 (Malmö - Norrköping)
 ===================================
 
-T-korsning E22/Hornsgatan
-Bensinstation: Statoil
-Restaurang: McDonald's
-Hotel: Formule 1
+T-korsning Stockholmsv./Hornsgatan
+ C-Ring: Värnhemstorget, Stadion, Sjukhus
+ [E6 s]: Trelleborg, [E20 v]: Köpenhamn
+ C-Ring: Centrum, Hamnen, Centralstation
+ Konsert & Kongress, Östervärn (Parkering)
+ Bensinstation: Circle-K
+ Restaurang: McDonald's
 
-Trafikplats Sege
+(Dubbel Järnvägsbro)
+ Kontinentalbanan
+
+(Bro över Sege å
+					(/
+Trafikplats Sege)
  Inre Ringvägen
- Hamnen
-
+ [E6 s]: Trelleborg
+ [11]: Simrishamn
+ [E20 v]: Köpenhamn
+ [E65]: Ystad, Sturup
+ Limhamn
+ Arlöv, Hamnen
+					/)
+Bro över Sege å)
+					/)
 Malmö / Burlöv
 
 Trp Kronetorp Södra
+(avfart östgående riktning
+påfart västgående riktning)
  Arlöv, Burlöv Centrum
 
 Trp Kronetorp Norra (18)
  E6-E22 s: Trelleborg
  E20 v: Köpenhamn
  [E65]: Ystad, Sturup
+ Limhamn
+ Staffanstorp
  E6-E20 n: Göteborg, Helsingborg
  [E4]: Stockholm
+ Åkarp, Burlöv Center
 
 Etapp 3: Kronetorp - Rolsberga (31,7 km/31,2 km)
 					2,7 km/1,8 km	1 min 28 s/0 min 59 s
-Burlöv / Staffanstorp
+			(från Malmö C)	2,6 km/		1 min . s/ 			
+(Burlöv / Staffanstorp
 					3,6 km/4,2 km	1 min 58 s/2 min 17 s
 Trp Lund Södra (19)
  108: Trelleborg, Staffanstorp
  Bensinstation: Statoil
 (Staffanstorp / Lund)
+
+(Bro över Höje å)
 					1,4 km/1,5 km	50 s/54 s
 Trafikplats Råby (20)
  203: Dalby
@@ -81,6 +104,8 @@ Trp Osbyholm (28)
  Osbyholm
  Lyby, Hörby
 					2,8 km/3,2 km	1 min 41 s/1 min 55 s
+(Bro över Hörbyån)
+
 Trp Norrehe (29)
  13 s: Ystad, Hörby
  13 n: Ängelholm, Höör
@@ -95,7 +120,7 @@ Trp Hörby norra (31)
  Hörby
 
 Trp Ekeröd (32)
- Rastplats: Ekerödsrasten
+ Rastplats Ekerödsrasten
 
 Hörby / Kristianstad
 
@@ -107,7 +132,7 @@ påfart sydgående riktning)
 Trp Knopparp (34)
  Linderöd, Tollarp
 
-Vramsån
+Bro över Vramsån
 
 Trp Nöbbelöv (35)
  19 s: Ystad, Tomelilla
@@ -118,16 +143,26 @@ Trafikplats Vä (36)
  Norra Åsum
  Vä
 					2.2 km/2.3 km	1 min 28 s/1 min 32 s
-Trp Härlöv (37)
+Trp Härlöv-syd (37)
+ 19 n: Osby, Broby
  21: Helsingborg, Hässleholm
- 19 n: Osby
+ Handelsområde: Härlöv
+ Camping, Vandrarhem
+					1.9 km/
+(Trp Härlöv-nord (T-korsning)
+ 19 n: Osby, Broby
+ Handelsområde: Härlöv
+ Camping, Vandrarhem
+					(/
+(Trp Härlöv (37)
+ 21: Helsingborg, Hässleholm
 
 Etapp 6: Kristianstad - Bromölla (25,3 km/25,6 km)
-					1.9 km/2.1 km	1 min 8 s/1 min 16 s
+					(/2.1 km	(/1 min 16 s
 Trafikplats Vilan (38)
  Norra Åsum
 					0.8 km/0.5 km	29 s/18 s
-Hammarsjön (Helge å)
+Bro över Hammarsjön (Helge å)
 					0.7 km/1.1 km	25 s/40 s
 Trp Kristianstad (39)
  Kristianstad Centrum
@@ -140,11 +175,13 @@ Trp Fjälkinge (41)
  Fjälkinge, Viby
 					2.6 km/1.8 km	1 min 44 s/1 min 12 s
 Dubbel T-korsning Fjälkinge Ö
+ Fjälkinge (ej skyltad)
+ Enskild väg (ej skyltad)
 
-T-korsning Ekohallen V
+T-korsning Ekohallen V (lokal väg)
  Eko Stormarknad
 
-T-korsning Ekohallen Ö
+T-korsning Ekohallen Ö (lokal väg)
  Eko Stormarknad
 
 Trafikkontrollplats
@@ -159,7 +196,7 @@ Korsning Bäckaskog Ö
 
 Parkeringsplats
  Restaurang: Tradar'n
-(T-korsning)
+T-korsning (lokal väg)
  Industri
 					1.3 km/1.0 km	52 s/40 s
 Korsning E22/Knutehusv.
@@ -177,7 +214,7 @@ T-korsning Gualöv V
 Trp Gualöv (43)
  Gualöv, Nymölla
 
-Skräbeån
+Bro över Skräbeån
 
 Trp Bromölla (44)
  116: Olofström, Näsum
@@ -195,7 +232,7 @@ Trp Sölvesborg Öst (46)
 Trp Listerlandet (47)
  123: Mjällby, Hanö
 
-(Vesankanalen)
+(Bro över Vesankanalen)
 
 Sölvesborg / Karlshamn
 
@@ -206,7 +243,7 @@ Etapp 8: Pukavik - Ronneby ()
 
 Trp Mörrum Väst (49)
 
-Mörrumsån
+Bro över Mörrumsån
 
 Trp Mörrum Öst (50)
 
@@ -214,7 +251,8 @@ Trp Karlshamn Väst (51)
  29 n: Växjö, Tingsryd
  29 s: Karlshamn C, Hamnar
 
-(Karlshamnsån)
+(Bro över Karlshamnsån
+					(/
 Trp Karlshamn Norr (52)
  Karlshamn N, C
  Asarum
@@ -230,7 +268,7 @@ Trafikplats Åryd (54)
 
 Karlshamn / Ronneby
 
-(Bräkneån)
+(Bro över Bräkneån)
 
 Trp Bräkne-Hoby (55)
  Järnavik, Tjärö
@@ -249,7 +287,7 @@ Trp Ronneby Väst (56)
 
 Etapp 9: Ronneby - Karlskrona ()
 
-Ronnebyån
+Bro över Ronnebyån
 
 Trp Ronneby Norr (57)
  Ronneby N, C
@@ -263,7 +301,7 @@ Korsning Björketorp E22
  Tving, Johannishus
  Golfbana
 
-T-korsning E22/Åsavallsvägen
+T-korsning E22/Åsavallsvägen (lokal väg)
  Idrottsplats (Listerby IK)
 
 Rondell Listerby E22
@@ -305,12 +343,14 @@ Trp Nättraby (61)
  Restaurang: Nättraby Vägkrog
 
 Trp Trantorp (62)
+(avfart västgående riktning
+påfart östgående riktning)
  Allatorp, Skärva (världsarv)
  Golfbana (Nicklastorp)
 
 Trp Karlskrona Väst-väst (63)
-(avfart nordgående riktning
-påfart sydgående riktning)
+(avfart östgående riktning
+påfart västgående riktning)
  Karlskrona V, Centrum
 
 Trp Karlskrona Väst-öst (63)
@@ -329,7 +369,7 @@ Trp Karlskrona Öst (64)
  Bensinstation: Shell, Circle-K
  Restaurang: McDonald's
 
-Lyckebyån
+Bro över Lyckebyån
 
 Rondell Lösen E22
 
@@ -1146,3 +1186,55 @@ Trp Valdemarsvik
  212: Fyrudden, Gryt
  Valdemarsvik C, S Finnö
  Nordic Brass
+
+T-korsning (enskild väg)
+ Mossebo (ej skyltad sydgående)
+
+(Korsning Mossebo Gårdsbutik)
+ Enskild väg
+
+Korsning (enskild väg)
+ Änghästhagen, Bed & Breakfast
+
+(Korsning (enskild väg))
+ Fastebo, ej förskyltad
+
+(Parkeringsplats (grus))
+(nordgående)
+
+Trp Gusum
+ Gusum
+ Bruksmuseum, Glashyttan (sevärdhet)
+ Yxningens Badplats och Camping
+
+Korsning Bråta vägkors
+ Fängebo
+ Bråta
+
+Parkeringsplats (nordgående)
+
+Korsning Ringarum E22
+ Norrby (enskild väg)
+ Åtvidaberg, Yxnerum, Ringarum
+ Infoplats, Nordic Brass
+ Bensinstation: OKQ8
+ Restaurang: RASTA
+
+T-korsning Takmossen
+(endast sydgående riktning)
+ Takmossen
+
+Korsning Höckerum (enskild väg)
+ Höckerum
+
+(Korsning Råstock)
+ Nysjö, Enskild väg
+Valdemarsvik / Söderköping: (58.368159,16.429542)
+
+Korsning Skälboö
+ Dyhult, Ekbacken, Skälboö (enskild väg)
+ Fillingerum
+
+T-korsning Hökbäcken
+ Hälla
+T-korsning (enskild väg))
