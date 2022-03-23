@@ -53,6 +53,7 @@ Bro över Ringsjön)
 Ringsjöfisk Butik & Rökeri
 					0,6 km/0,6 km	31 s/31 s
 Infopunkt Bosjöklosters mölla
+(västra sidan)
 					0,9 km/0,9 km	46 s/46 s
 T-korsning Bosjökloster (lokal väg)
  Bosjökloster, Bosjökloster GK
@@ -76,6 +77,9 @@ Korsning Nyby
 (T-korsning Rv 23/Nils Magnus väg (l.v.)
 
 T-korsning
+ Orupssjukhuset
+
+Infopunkt: (55.920024,13.5394383)
 					1,4 km/1,5 km	1 min 24 s/1 min 30 s
 (Dubbel T-korsning (lokal väg))
 
@@ -85,103 +89,215 @@ Rondell Rv 23/Hörbyvägen
 					0,7 km/0,7 km	50 s/50 s
 Rondell Rv 13/Rv 23
  13 s: Ystad, Hörby
- 13 n: Ängelholm, Klippan
+ 13 n: Ängelholm, (Klippan)
+ Centrum, Skånes djurpark
+ Restaurang: Hardy's
 
 Etapp 2: Höör - Sösdala (13,6 km/13,6 km)
 					0,5 km/0,5 km	36 s/36 s
-T-korsning
+T-korsning Rv 23/S. Rörumsv.
+ S. Rörum
 					1,4 km/1,4 km	1 min 41 s/1 min 41 s
-Rondell 13/Pumpvägen
+(Korsning Rv 13/Industrigatan)
+ Röda Korset Kupan, Lokal väg
+
+T-korsning (lokal väg)
+ Majas HundLIV
+
+T-korsning (lokal väg)
+ Fiskbutik
+
+Rondell Rv 13/Pumpvägen
+ Stormarknad, Zizzi
+ Industri: Norra, Pumpvägen
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
-T-korsning Ekeröd
+Infopunkt (sydgående)
+
+T-korsning Rv 13/Barkvägen (lokal väg)
+ Industri: Norra
+Trafikkontrollplats
+
+Dubbel T-korsning Ekeröd
+ Veterinär (enskild väg)
  N. Rörum
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-T-korsning
- Enskild väg
+T-korsning (lokal väg)
+ Utesport
+
+T-korsning (enskild väg)
+ Karlarp, Göransborg
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
 Korsning Tjörnarp S
-					2,4 km/2,4 km	1 min 48 s/1 min 48 s
-T-korsning
+ Korsaröd
  Tjörnarp
+					2,4 km/2,4 km	1 min 48 s/1 min 48 s
+(Backer BHV)
+
+T-korsning Gunnarp
+ Tjörnarp, Tegelugn (sevärdhet)
 					0,4 km/0,5 km	18 s/23 s
-Bensinstation: Pump
-Vägkrog
+Serviceplats Gunnarp
+ Bensinstation: Q-star/Pump
+ Restaurang: Custom Vägkrog
 T-korsning
+ Yngligarum
 					0,5 km/0,4 km	23 s/18 s
-Höör / Hässleholm
+Höör / Hässleholm: (56.0121861,13.660941)
 					2,5 km/2,5 km	1 min 53 s/1 min 53 s
+T-korsning Vätteryds gravfält (l.v.)
+ Vätteryds gravfält (sevärdhet)
+ Café Brevé
+
+Infopunkt Sösdala (nordgående): (56.0271981,13.6768492)
+
 Trp Sösdala
+ Häglinge
  Sösdala
 
 Etapp 3: Sösdala - Hässleholm (17,4 km/17,6 km)
 					1,9 km/1,8 km	1 min 26 s/1 min 21 s
-T-korsning
- Sösdala
+T-korsning Skea S
+ N Sösdala (endast skyltad sydgående)
 					0,8 km/0,8 km	36 s/36 s
-T-korsning
- Mellby
+(T-korsning Skea N)
+ N Mellby (ej skyltad)
+Rastpunkt (sydgående)
+Infoplats (nordgående)
 					0,8 km/0,8 km	36 s/36 s
 T-korsning Norra Mellby
- Mellby
+ Nävlinge, Rickarum, N Mellby
  Hembygdsmuseum
 					1,6 km/1,7 km	1 min 12 s/1 min 17 s
 Rastplats Norra Mellby
 					1,5 km/1,4 km	1 min 8 s/1 min 3 s
-T-korsning
- Tormestorp
+T-korsning Lunnahöja S (enskild väg)
+ Lunnahöja, Camping, Vandrarhem
+
+Korsning Lunnahöja N (enskild väg)
+ Motorbana
+
+T-korsning Sandåkra S
+ Hässleholm S, Tormestorp
+ Hovdala slott (sevärdhet/restaurang)
+(Bulk Johansson Tormestorp)
 					0,6 km/0,6 km	27 s/27 s
-T-korsning
+(ZoLunden Keramik och B&B)
+
+T-korsning Sandåkra N
  Vinslöv
 					1,3 km/1,4 km	0 min 59 s/1 min 3 s
-Parkeringsplats
+Parkeringsplats (västra sidan)
+
+Parkeringsplats (västra sidan)
 					3,6 km/3,7 km	2 min 42 s/2 min 47 s
-Parkeringsplats
+T-korsning (lokal väg)
+ Djurminneslund
+
+(T-korsning (enskild väg))
+
+Parkeringsplats (västra sidan)
 					1,4 km/1,3 km	1 min 3 s/1 min 3 s
-Infoplats (nordgående)
+(T-korsning (enskild väg))
+ Tormestorp
+
+Infoplats (främst för nordgående)
 					1,4 km/1,5 km	1 min 3 s/1 min 8 s
+T-korsning Gulastorp
+ Ignaberga
+
 Trafikplats Röinge
  [21 ö]: Kristianstad
- Hässleholm Centrum
+ Ignaberga, Tyskarpsgrottan (sevärdhet)
+ Hässleholm Ö, Centrum, Sjukhus
 					1,1 km/0,9 km	57 s/46 s
-Korsning 21/Röingegatan
+T-korsning (lokal väg)
+ Röingegården
+
+Korsning Rv 21/Röingegatan
+ Attarp
+ Östervärn
 					0,6 km/0,6 km	31 s/31 s
 Järnvägsviadukt
  Skånebanan
 					0,4 km/0,4 km	21 s/21 s
-T-korsning 21/Industrigatan
+Korsning Rv 21/Industrigatan
+ Industri: Läreda
 					0,7 km/0,9 km	36 s/46 s
-Trafikplats Läreda
+T-korsning (lokal väg)
+ Plantskola, Salico
+ Snapphane Chark, Bondens Bästa
+ Grönsakshallen Sorunda
+
+Trafikplats Läreda-syd
  21 ö: Kristianstad
- 21 v: Helsingborg, Perstorp
+
+Trafikplats Läreda-nord
+ 21 v: Helsingborg
+ [117]: Markaryd
+ Stoby, Rastplats
 
 Etapp 4: Hässleholm - Östanå (18,8 km/19,1 km)
 					1,3 km/1,1 km	59 s/50 s
-Rondell
- Stoby
+(T-korsning Furumossen)
+ Gårdsmejeri, Enskild väg
+
+Rondell Ljunghuset
+ Grantinge
+ 119 v: Hässleholm, Stoby
+ Rastplats
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
 T-korsning
+ 119 ö: Tingsryd, Broby
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
-T-korsning
+T-korsning Näsmossen
+ Ballingslöv, Ballingslöv AB
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
-Almaån
+T-korsning (lokal väg)
+ Gårdsbutik (ej förskyltad)
+
+T-korsning (enskild väg)
+ Laxbro, Aska (ej förskyltad)
+(Bro över Almaån)
 					0,6 km/0,7 km	24 s/28 s
 Dubbel T-korsning
+ Ballingslöv (max 3,7 m)
+ N. Sandby
 					0,9 km/0,8 km	36 s/32 s
 Korsning
+(endast skyltad sydgående)
+ N. Sandby
 					0,7 km/0,7 km	28 s/28 s
 T-korsning
+ Tockarp
 					2,2 km/2,4 km	1 min 28 s/1 min 36 s
+T-korsning Ottarp (enskild väg)
+ Ottarp, Ottarps Torp Gårdsbutik
+
 Parkeringsplats
 (sydgående riktning)
 					1,1 km/0,9 km	44 s/36 s
-T-korsning
+Korsning (enskild väg)
+ Veterinär
+
+Korsning Rävinge
+ N. Sandby
 					3,0 km/3,0 km	2 min 0 s/2 min 0 s
-T-korsning
+T-korsning Hästveda Rv 23
+ Hästveda, station
+ Lursjöns Camping, Vandrarhem
 					1,2 km/1,2 km	48 s/48 s
+T-korsning (enskild väg)
+ Askustorp, Gerastorp (ej förskyltad)
+
 T-korsning
+ Glimminge
 					1,0 km/1,0 km	40 s/40 s
 Hässleholm / Östra Göinge
 					1,5 km/2,0 km	1 min 0 s/1 min 20 s
+Korsning (enskild väg)
+ Eskilstorp
+ Svartarp
+
 Trafikplats Östanå
  19: Ystad, Kristianstad
 
