@@ -303,40 +303,63 @@ Trafikplats Östanå
 
 Etapp 5: Östanå - Osby (11,8 km/11,3 km)
 					2,0 km/1,4 km	1 min 20 s/0 min 56 s
-T-korsning Östanå Ö
- Östanå
+Korsning Östanå Ö
+ Östanå, Bruksvillan (Hotell)
+ Främmenaryd, Gårdsbutik (enskild väg)
 					2,3 km/2,3 km	1 min 32 s/1 min 32 s
-T-korsning 23/Osbyvägen
- Östanå
+T-korsning (lokal väg)
+ Avfallsanläggning
+
+T-korsning Flackarp
+ Kattarp, Denningarums Gård
 					0,6 km/0,7 km	24 s/28 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
+ V Genastorp (endast förskyltad nordgående)
 Östra Göinge / Osby
 					1,4 km/1,3 km	56 s/52 s
-T-korsning
- Enskild väg, Strömsborg
+Dubbel T-korsning (enskild väg)
+ Bil- och Däckverkstad
+ Skogsväg (ej skyltad)
+
+Korsning (enskild väg)
+ Handelsträdgård
+
+T-korsning (enskild väg)
+ Strömsborg, Ö Genastorp
+ Spinneriet (sevärdhet)
 					0,4 km/0,5 km	16 s/20 s
-Helge å
+Bro över Helge å
+Korsning (enskild väg)
+ Ej skyltad
 					0,9 km/0,9 km	36 s/36 s
-T-korsning
- Enskild väg, Strömsborg
+Korsning (enskild väg)
+ Strömsborg, Sjöaskog, Ö Genastorp
+ Ebbarp
+ Spinneriet (sevärdhet)
 					1,1 km/1,2 km	44 s/48 s
-Korsning
- Enskild väg
+Parkeringsplats (grus, nordgående)
+
+Korsning (enskild väg)
+ Hönjarum (endast förskyltad sydgående)
 					0,5 km/0,5 km	20 s/20 s
-Rondell 23/Kristianstadsg.
+Rondell Dubbarp
 					0,8 km/0,7 km	36 s/32 s
 Korsning
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
-Rondell Rv 15/Rv 23
+(Korsning (enskild väg))
+ Olastorp
+
+Rondell Marklunda
  15 ö: Karlshamn, Olofström
  15 v: Halmstad, Markaryd
 
 Etapp 6: Osby - Älmhult (20,2 km/20,2 km)
 					0,5 km/0,5 km	23 s/20 s
-Rastplats Lars Dufwa
- Bensinstation: Statoil
- Restaurang:
+Korsning Lars Dufwa (enskild väg)
+ Segutslycke, Ridhus
+ Rastplats Lars Dufwa
+ Bensinstation: Circle-K
+ Restaurang: Värdshuset Lars Dufwa
 					2,7 km/2,7 km	1 min 48 s/1 min 48 s
 T-korsning
 					7,3 km/7,3 km	4 min 52 s/4 min 52 s
