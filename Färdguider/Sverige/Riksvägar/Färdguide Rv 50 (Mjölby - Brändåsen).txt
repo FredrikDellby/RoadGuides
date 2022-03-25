@@ -32,37 +32,92 @@ Trp Södra Freberga
 Trp Motala Södra
  Motala S, C
 
-Motalabron-syd
- Motala Ström, Göta Kanal, 620 m
+Motalabron-syd (620 m)
+ Motala Ström, Göta Kanal
 
 Motalabron-nord
 
 Trp Motala Centrum
- Motala Centrum
+ Varamobaden
+ Motala Centrum, Sjukhus
+ Restaurang: McDonald's
 
 Trp Motala Norra
- 34: Linköping
- Motala N
+ 34: Linköping, (Borensberg)
+ Ring: Motala N, Handelsomr: Bråstorp
+ Industri: Varamon, Varamobaden
 
-T-korsning 50/Smedsbyvägen
+T-korsning 50/Smedsbyvägen (lokal väg)
+ Smedsby
+ Räddningstjänst, Övningsfält
+ Bildemontering, Wagnfabriken
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
+ Bromma Gård (endast förskyltad nordgående)
 
 Korsning Illersjö södra
+ Smedsby
+ Lemunda, Kärsby gård (e.v.)
 
-Korsning Illersjö norra
+Korsning Illersjö norra (enskild väg)
+ Illersjö, Potatis
 
 Korsning Ängesby
+ [34]: Linköping, Kolmetorp
 
-(Korsning Säter)
- Enskild väg
+(Korsning Säter (enskild väg))
+ Ej skyltad
+
+Parkeringsplats (sydgående): (58.6012513,14.9862234)
 
 Korsning Modal
+ Blommedal (enskild väg)
+ Nykyrka, Övralid (V. von Heidenstam)
 
 T-korsning
+ Godegård, Bona
 
 Korsning Nykyrka N
+ Nykyrka, Övralid (V. von Heidenstam)
 
-2+1-väg / vanlig väg
+2+1-väg upphör / börjar: (58.6321193,14.9652117)
+
+T-korsning Kavelbäcks vägkors
+ Lemunda
+
+Korsning Kalvsjö (enskild väg)
+ Hembygdsgård, Nubbekullen
+ Kalvsjö
+
+T-korsning Åsandbys vägkors
+ Åsandby, Swerock bergtäkt
+
+T-korsning Stenstorp
+ Medevi
+ Medevi Brunn (sevärdhet, hotell, m.m.)
+
+T-korsning Medevi N
+ Tjällmo
+ Medevi, Medevi säteri
+ Medevi Brunn (sevärdhet, hotell, m.m.)
+
+T-korsning (enskild väg)
+ Västanvik
+
+Östergötland / Örebro: (58.6880345,14.965053)
+Motala / Askersund
+
+T-korsning Stordalen
+ Tjällmo
+
+T-korsning (enskild väg)
+ Nydalen
+
+Korsning Råå (enskild väg)
+ Råå gård, Hulta
+
+Sörbygdsgården
+
+T-korsning Forsaviken norra
+ St Forsa, Enskild väg
 
