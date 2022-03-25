@@ -1,128 +1,164 @@
-F‰rdguide Rv 50 (÷rebro - Borl‰nge)
+F√§rdguide Rv 50 (√ñrebro - Borl√§nge)
 ====================================
 
-Etapp 9: ÷rebro - Lilla Mon (21,3 km/)
+Etapp 9: √ñrebro - Lilla Mon (21,3 km/)
 
 Trp Norrplan (115)
- E18-E20 ˆ: Stockholm
+ E18-E20 √∂: Stockholm
  E18 v: Oslo
- E20 v: Gˆteborg
+ E20 v: G√∂teborg
 					2,7 km/2,1 km	3 min 14 s/2 min 31 s
-Korsning Rv 50/Kyrkv‰gen
+Korsning Rv 50/Kyrkv√§gen (lokal v√§g)
+ Bettorp
+ Industri: Lill√•n, N Kyrkog√•rden
 
-Korsning Rv 50/KÂviv‰gen
- LÂngbyn
+Bensinstation: Preem
+Korsning Rv 50/K√•viv√§gen
+ K√•vi, Lill√•n C
+ Konditori, Hovsta kyrka
+ Restaurang: Lill√•ns Grill & Pizzeria
 					1,0 km/1,3 km	1 min 12 s/1 min 34 s
-Trp Fˆrlunda
- Kˆpcentrum
+Trp F√∂rlunda
+ K√•rsta, Bygghandel
+ K√•rsta Golfklubb
+ Bensinstation: OKQ8
+ Restaurang: MAX
 					2,5 km/2,3 km	2 min 9 s/1 min 58 s
-Rondell Rv 50/KÂrstav‰gen
+Rondell Rv 50/K√•rstav√§gen
+ H√§ssleby, S√§tra (enskild v√§g)
  Hovsta
+ K√•rsta GK, Camping
 					0,7 km/0,7 km	36 s/36 s
 Rondell Kvinnersta Rv 50
- ÷lmbrotorp, Dyltabruk
+ Dyltabruk, Kvinnersta
+ H√∂galid (enskild v√§g)
 					1,0 km/1,5 km	0 min 45 s/1 min 8 s
-Dubbel J‰rnv‰gsviadukt
- M‰larbanan och GodsstrÂket
+Dubbel J√§rnv√§gsviadukt
+ M√§larbanan och Godsstr√•ket
 					
-Trp ≈by
+Trafikplats √Öby
+ √Öby, Enbacken, Rum (enskild v√§g)
 					1,2 km/0,6 km	54 s/27 s
 Korsning Erstorp S
- Axberg
+ Kvinnerstatorp (enskild v√§g)
+ Axbergs K:a, Gotts√§tter
 					1,5 km/1,5 km	1 min 8 s/1 min 8 s
-Korsning Katrinelundsv‰gen
- N‰rkes Kil
+Korsning Katrinelundsv√§gen
+ H√∂gs√§ter (enskild v√§g)
+ N√§rkes Kil, Kursg√•rden Solliden
 					1,0 km/1,3 km	45 s/58 s
 Trp Seltorp
- ÷lmbrotorp, Dyltabruk
+ Seltorp (enskild v√§g)
 					1,9 km/1,7 km	1 min 25 s/1 min 17 s
 Korsning Stenbo
- LÂngbyn
+ √ñn, Enmyran (enskild v√§g)
+ K√•vi, L√∂v√•sen
 					2,1 km/2,2 km	1 min 34 s/1 min 39 s
 Rondell Axbergshammar
+ Arboga, Fr√∂vi, Ervalla
  Lockenkil
- Frˆvi, Fellingsbro
 					3,0 km/3,3 km	2 min 15 s/2 min 28 s
-Korsning Norseb‰ck
- Enskild v‰g
+Korsning Norseb√§ck (enskild v√§g)
+ Norseb√§ck
 
 Trp Mogetorp
- Pr‰sttorp, HÂlahult
- Restaurang: Mogentorp
+ Torpa, J√§rle (station)
+ Pr√§sttorp, H√•lahult
+ Restaurang: Mogetorps W√§rdshus
  
-÷rebro / Nora (nordgÂende)
+√ñrebro / Nora (nordg√•ende)
 					0,7 km/0,4 km	31 s/18 s
-T-korsning FlÂten N
-(nordgÂende riktning)
- Torpa, J‰rle
+T-korsning Fl√•ten N
+(nordg√•ende riktning)
+ Torpa, J√§rle
+ J√§rle station, Torvfabrik
 					0,6 km/0,7 km	27 s/31 s
 Rastplats Bergslagsporten
-Korsning Sk‰rmarboda (lokal v‰g)
+Korsning Sk√§rmarboda (lokal v√§g)
+ Fornborg
+ Naturreservat Sk√§rmarbodabergen
 					1,4 km/1,8 km	1 min 3 s/1 min 21 s
-Korsning Sandbacken
- Enskild v‰g
-
-Trp Lilla Mon
- 244: H‰llefors, Nora
-(J‰rnv‰gsviadukt)
- Nora-Bergslags j‰rnv‰g
+Korsning Sandbacken (enskild v√§g)
+ √Öliden
+					(/
+(Trp Lilla Mon
+ 244: H√§llefors, Grythyttan, Nora
+ [243]: Karlskoga
+ Tre Sj√∂ars V√§g (sev√§rdhet)
+(J√§rnv√§gsviadukt)
+ Nora-Bergslags j√§rnv√§g
 
 Etapp 10: Lilla Mon - Lindesberg NV ()
 
-Korsning Sˆdra Fingerboda
- J‰rle
+Korsning S√∂dra Fingerboda
+ J√§rle, J√§rle station
+ Lilla Mon (enskild v√§g)
 
 T-korsning Norra Fingerboda
+ Yxe, J√§rle√•n (sev√§rdhet)
+ Caf√©: Svalbo
 
-Nora / ÷rebro
-Bro ˆver J‰rleÂn
+(Nora / √ñrebro: (59.4943177,15.1487128)
+Bro √∂ver J√§rle√•n
+
+Korsning Hult
+ Klysna, Hults S√§teri
+ Ringholmen (enskild v√§g)
+
+Korsning (enskild v√§g)
+ K√§pphagen
+√ñrebro / Lindesberg): (59.520138,15.1851143)
+
+Dubbel T-korsning Anneberg
+ Grustag, Industri√•tervinning
+ S M√•le, Avfallsanl√§ggning
 
 T-korsning
-
-Korsning
-
-Korsning
- Enskild v‰g
-(÷rebro / Lindesberg)
-
-Dubbel T-korsning
- Grustag
- S MÂle
-
-T-korsning
- Yxe
+ Yxe, V√§ndplats
 
 Dubbel T-korsning Rya
+ M√•lerud (enskild v√§g)
  Lindesberg S, Centrum
- 249: Arboga, Frˆvi
+ 249: Arboga, Fr√∂vi
+ Industri: Dalkarlshyttan
+ Stadsk√§rna (sev√§rdhet)
 
-Korsning Rv 50/Pr‰sttorpsv‰gen
- Enskild v‰g
+Korsning Rv 50/Pr√§sttorpsv√§gen
+Tr√§skotillverkning, Enskild v√§g
 
 T-korsning Stackerud Rv 50
- Enskild v‰g
+ Rum & Frukost, Enskild v√§g
 
-Dubbel T-korsning
- Lindesberg
+Dubbel T-korsning Lindesberg V
+ Lindesberg V, Sjukhus
+ Siggebohyttan, Hidingen
+ Industri: Lindeshyttan
  Rastplats Lindesberg
 
-(T-korsning)
+T-korsning (enskild v√§g)
  Motorbana
 
 T-korsning Lindesberg NV
- 68: G‰vle, Fagersta
+ 68: G√§vle, Fagersta
  Lindesberg N, Centrum
+ Stadsk√§rna (sev√§rdhet)
 
-Etapp 11: Lindesberg NV - StorÂ ()
+Etapp 11: Lindesberg NV - Stor√• ()
+
+T-korsning (enskild v√§g)
+ Fornbohyttan, Musteri, Rum
+
+T-korsning Vabron (enskild v√§g)
+ Fornbohyttan, Travbana
 
 T-korsning Fanthyttan
- Nora, Tre sjˆars v‰g
+ Nora, Tre sj√∂ars v√§g, Infoplats
 Restaurang: Kopparpannan
 
-T-korsning Piparb‰cken
+T-korsning Piparb√§cken
 
-T-korsning Rv 50/Nyhttev‰gen
- Enskild v‰g, Auktionsverk
+T-korsning Rv 50/Nyhttev√§gen
+ Enskild v√§g, Auktionsverk
 
 Korsning Stensta (e.v.)
 
@@ -130,269 +166,269 @@ Rondell Guldsmedshyttan
  Bensinstation: INGO
  Restaurang: Gulds Pizzeria
 
-T-korsning Rv 50/Malmv‰gen
- ChokladcafÈ, Gruvpensionat
+T-korsning Rv 50/Malmv√§gen
+ Chokladcaf√©, Gruvpensionat
 
 T-korsning Guldsmedshyttans kyrka
  Guldsmedshyttans kyrka, Badplats
 
-T-korsning Sj‰rnsforsv‰gen
- Stj‰rnfors, Stripa Gruvmiljˆ
+T-korsning Sj√§rnsforsv√§gen
+ Stj√§rnfors, Stripa Gruvmilj√∂
 
-Trp StorÂ
- StorÂ, StrÂssa
+Trp Stor√•
+ Stor√•, Str√•ssa
 
-Etapp 12: StorÂ - Kopparberg ()
+Etapp 12: Stor√• - Kopparberg ()
 
-Korsning Rv 50/Kopparbergsv‰gen
- Lokal v‰g, Bilhandel
+Korsning Rv 50/Kopparbergsv√§gen
+ Lokal v√§g, Bilhandel
 
 Korsning Ingelsdal
- Enskild v‰g, B‰r och grˆnsaker
+ Enskild v√§g, B√§r och gr√∂nsaker
 
-J‰rnv‰gsviadukt
+J√§rnv√§gsviadukt
  Bergslagsbanan
 
-T-korsning StrÂssav‰gen
- StrÂssa, ÷. Vasselhyttan
+T-korsning Str√•ssav√§gen
+ Str√•ssa, √ñ. Vasselhyttan
 
-Dubbel T-korsning Lˆa
- Stj‰rnfors, Stjernfors bruk
- ÷. Lˆa
-(Bro ˆver StorÂn)
+Dubbel T-korsning L√∂a
+ Stj√§rnfors, Stjernfors bruk
+ √ñ. L√∂a
+(Bro √∂ver Stor√•n)
 
 Lindesberg / Ljusnarsberg
 
-Rastplats Norrsjˆn
-(nordgÂende riktning)
+Rastplats Norrsj√∂n
+(nordg√•ende riktning)
 
-T-korsning K‰llbacken
- Enskild v‰g
- Restaurang: V‰rdshuset ƒlgen
+T-korsning K√§llbacken
+ Enskild v√§g
+ Restaurang: V√§rdshuset √Ñlgen
 
 Korsning Gruvberget
- BÂngbro, BÂngbro HerrgÂrd
+ B√•ngbro, B√•ngbro Herrg√•rd
 
 Korsning Rv 50/Lv 233
- 233 ˆ: Fagersta
+ 233 √∂: Fagersta
  233 v: Kopparberg
 
 T-korsning Rv 50/Rv 63
  63 v: Karlstad, Kopparberg
 
-Etapp 13: Kopparberg - Gr‰ngesberg ()
+Etapp 13: Kopparberg - Gr√§ngesberg ()
 
-Parkeringsplats (nordgÂende)
-Rastplats Laxb‰cken (sydgÂende)
+Parkeringsplats (nordg√•ende)
+Rastplats Laxb√§cken (sydg√•ende)
 
-T-korsning Nytorpsv‰gen
- Enskild v‰g, Gillesklack
+T-korsning Nytorpsv√§gen
+ Enskild v√§g, Gillesklack
 
-T-korsning Hˆgfors S
- Lokal v‰g
+T-korsning H√∂gfors S
+ Lokal v√§g
 
-Korsning Hˆgfors N
- Lokal v‰g
+Korsning H√∂gfors N
+ Lokal v√§g
 
-T-korsning Silverhˆjden S
- Yxsjˆberg, St‰lldalen, Hˆrken
+T-korsning Silverh√∂jden S
+ Yxsj√∂berg, St√§lldalen, H√∂rken
 
-Korsning Silverhˆjdens sÂg (lokal v‰g)
- Silverhˆjdens Camping
+Korsning Silverh√∂jdens s√•g (lokal v√§g)
+ Silverh√∂jdens Camping
 
-÷rebro / Dalarna
+√ñrebro / Dalarna
 Ljusnarsberg / Ludvika
 
 T-korsning Lomberget
- Lokal v‰g, Konsthjul
+ Lokal v√§g, Konsthjul
 
 T-korsning Dalporten
- Lokal v‰g, Motormuseum
-(J‰rnv‰gskulvert)
+ Lokal v√§g, Motormuseum
+(J√§rnv√§gskulvert)
  Bergslagsbanan
 
 Korsning Bergsmansplan
  Malmen Industri, Casseis
- Gr‰ngesbergsbanornas J‰rnv‰gsmuseum
+ Gr√§ngesbergsbanornas J√§rnv√§gsmuseum
  Gruvcentrum
  Restaurang: Dalportens Pizzeria
 
-J‰rnv‰gsviadukt
+J√§rnv√§gsviadukt
  Bergslagsbanan
 T-korsning Dynamiten
- Lokal v‰g, Motormuseum
+ Lokal v√§g, Motormuseum
 
-T-korsning Rv 50/Rˆnnliden
- Hˆrkshage
+T-korsning Rv 50/R√∂nnliden
+ H√∂rkshage
 
 Bensinstation: Gulf
-(T-korsning Gr‰ngesbergs station S)
+(T-korsning Gr√§ngesbergs station S)
 
-Korsning Gr‰ngesbergs station
+Korsning Gr√§ngesbergs station
 
-T-korsning Spendrups (Gr‰ngesbadet)
+T-korsning Spendrups (Gr√§ngesbadet)
 
-Etapp 14: Gr‰ngesberg - Ludvika ()
+Etapp 14: Gr√§ngesberg - Ludvika ()
 
 T-korsning Folkets Park
- Lokal v‰g
+ Lokal v√§g
 
 T-korsning Kyrkbacken
- Gr‰ngesbergs kyrka
+ Gr√§ngesbergs kyrka
 
-T-korsning Gr‰ngesberg ÷
- H‰llsjˆn
+T-korsning Gr√§ngesberg √ñ
+ H√§llsj√∂n
 
 Korsning Klenshyttan
- SnˆÂn, Hyttruin, Flygplats
- Blˆtberget
+ Sn√∂√•n, Hyttruin, Flygplats
+ Bl√∂tberget
 
 T-korsning Skeppmora
- Enskild v‰g
+ Enskild v√§g
 
 T-korsning
- Enskild v‰g
+ Enskild v√§g
 
 T-korsning Lyviksberget Rv 50
  Bensinstation: Q-star
 
-Korsning Rv 50/Gon‰sv‰gen
+Korsning Rv 50/Gon√§sv√§gen
  Bensinstation: OKQ8
 
-T-korsning Rv 50/L‰rkv‰gen
- Lokal v‰g, HandelsomrÂde
+T-korsning Rv 50/L√§rkv√§gen
+ Lokal v√§g, Handelsomr√•de
 
 T-korsning Rv 50/Magnetbacken
  Restaurang: Pizzeria Milano
 
 T-korsning Rv 50/Mossgatan
- Lokal v‰g, ABB
+ Lokal v√§g, ABB
 
 Korsning ABB Rv 50
- Lokal v‰g, ABB
+ Lokal v√§g, ABB
 
-J‰rnv‰gsviadukt
- Kolb‰ck-Ludvika
+J√§rnv√§gsviadukt
+ Kolb√§ck-Ludvika
 
 T-korsning Rv 50/Vasagatan
- Parkering Centrum, Hˆgskolan
+ Parkering Centrum, H√∂gskolan
 
 T-korsning Ludvika station
  Turistinfo
 
 (Korsning Rv 50/Eriksgatan)
-T-korsning Rv 50/Kajv‰gen
- SmÂbÂtshamn
+T-korsning Rv 50/Kajv√§gen
+ Sm√•b√•tshamn
 (T-korsning Dan Anderssons gata)
 
 Rondell Karlberg
- 66 ˆ: V‰sterÂs, Smedjebacken
+ 66 √∂: V√§ster√•s, Smedjebacken
 
-Etapp 15: Ludvika - Grang‰rdev‰gen
+Etapp 15: Ludvika - Grang√§rdev√§gen
 
 Bensinstation: Circle-K
 
 T-korsning Hammarbacken
- 66 v: S‰len, Vansbro
+ 66 v: S√§len, Vansbro
 
-T-korsning HÂksberg
- HÂksberg
+T-korsning H√•ksberg
+ H√•ksberg
 
-T-korsning K‰llbotten v‰gsk‰l
- Enskild v‰g, Persbo gÂrd B&B
+T-korsning K√§llbotten v√§gsk√§l
+ Enskild v√§g, Persbo g√•rd B&B
 
-Gr‰sbergs Folkets Hus
+Gr√§sbergs Folkets Hus
 
-Korsning Gr‰sberg v‰gsk‰l
+Korsning Gr√§sberg v√§gsk√§l
  Gubbo, Schisshyttan
- Gr‰sberg V
+ Gr√§sberg V
 
-T-korsning Nedre Malsjˆ
-(endast skyltad sydgÂende)
- Gr‰sberg V
+T-korsning Nedre Malsj√∂
+(endast skyltad sydg√•ende)
+ Gr√§sberg V
 
-2+1-v‰g bˆrjar/slutar
+2+1-v√§g b√∂rjar/slutar
 
 Korsning Svarthyttekrysset
- Tuna H‰stberg, Morberget
+ Tuna H√§stberg, Morberget
 
-V‰ndplats
+V√§ndplats
 
-Korsning Grang‰rdev‰gen Rv 50
- Grang‰rde, R‰mshyttan, Idkerberget
+Korsning Grang√§rdev√§gen Rv 50
+ Grang√§rde, R√§mshyttan, Idkerberget
 
-Etapp 16: Grang‰rdev‰gen - Selln‰sv‰gen
+Etapp 16: Grang√§rdev√§gen - Selln√§sv√§gen
 
-T-korsning LÂngsjˆn
+T-korsning L√•ngsj√∂n
  Ulvshyttan
- Rastplats LÂngsjˆn
- CafÈ: LÂngsjˆns kaffestuga
-(Ludvika / Borl‰nge)
+ Rastplats L√•ngsj√∂n
+ Caf√©: L√•ngsj√∂ns kaffestuga
+(Ludvika / Borl√§nge)
 
-J‰rnv‰gsviadukt
+J√§rnv√§gsviadukt
  Bergslagsbanan
 
-V‰ndplats
+V√§ndplats
 
-Korsning Myggsjˆn
- Enskild v‰g
-
-T-korsning
-(ej skyltad nordgÂende)
- Enskild v‰g
-
-V‰ndplats
-
-V‰ndplats
-
-Korsning
- Enskild v‰g
-
-V‰ndplats (sydgÂende)
-
-V‰ndplats
+Korsning Myggsj√∂n
+ Enskild v√§g
 
 T-korsning
- Enskild v‰g
+(ej skyltad nordg√•ende)
+ Enskild v√§g
+
+V√§ndplats
+
+V√§ndplats
 
 Korsning
- Enskild v‰g, Murboannas ost
+ Enskild v√§g
 
-Korsning Selln‰sv‰gen
- Selln‰s
- Tuna H‰stberg, Idkerberget
+V√§ndplats (sydg√•ende)
 
-Etapp 17: Selln‰sv‰gen - Borl‰nge ()
+V√§ndplats
+
+T-korsning
+ Enskild v√§g
+
+Korsning
+ Enskild v√§g, Murboannas ost
+
+Korsning Selln√§sv√§gen
+ Selln√§s
+ Tuna H√§stberg, Idkerberget
+
+Etapp 17: Selln√§sv√§gen - Borl√§nge ()
 
 T-korsning Preem
 
 Korsning Trollebo
- Enskild v‰g, Ridcentrum
+ Enskild v√§g, Ridcentrum
 
-T-korsning Lerb‰cken
- Enskild v‰g
-
-Korsning
- Enskild v‰g, Lindan
+T-korsning Lerb√§cken
+ Enskild v√§g
 
 Korsning
- Enskild v‰g
+ Enskild v√§g, Lindan
 
-Infoplats (nordgÂende)
-Parkeringsplats (sydgÂende)
+Korsning
+ Enskild v√§g
 
-Trp Paradisv‰gen
- Skr‰ddarbacken, Hj‰rpbo
+Infoplats (nordg√•ende)
+Parkeringsplats (sydg√•ende)
 
-Korsning B‰ckelund
- Lokal v‰g
+Trp Paradisv√§gen
+ Skr√§ddarbacken, Hj√§rpbo
+
+Korsning B√§ckelund
+ Lokal v√§g
  Bensinstation: Shell, INGO
 
 Rondell
  Bensinstation: OKQ8
  Restaurang: Sibylla
 
-Rondell Kupolen sˆdra
+Rondell Kupolen s√∂dra
  Bensinstation: St1
 
 Backarondellen
