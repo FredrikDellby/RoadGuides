@@ -1,7 +1,7 @@
 Färdguide Rv 27 (Växjö - Ronneby)
 ==================================
 
-Etapp 12: Växjö - Rävåsen (18,5 km/18,3 km)
+Etapp 13: Växjö - Rävåsen (18,5 km/18,3 km)
 
 Fagrabäcksrondellen
  25 v: Halmstad, Ljungby
@@ -73,7 +73,7 @@ Infoplats (nordgående)
 T-korsning Rävåsen
  122: Rävemåla, Linneryd
 
-Etapp 13: Rävåsen - Tingsryd (22,9 km/22,9 km)
+Etapp 14: Rävåsen - Tingsryd (22,9 km/22,9 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
 Korsning+T-korsning Säljeryd
 (Brändekvarnsvägen)
@@ -150,26 +150,39 @@ T-korsning Rv 27/Södra vägen
  Tingsryd Resort
  Restaurang: Mårdslycke krog
 
-Etapp 14: Tingsryd - Rv 29 ()
+Etapp 15: Tingsryd - Rv 29 ()
 
-T-korsning 27/Hoogenskildsg.
+T-korsning Rv 27/Hoogenskildsg.
  Centrum
 
-T-korsning 27/S. Storgatan
+T-korsning Rv 27/S. Storgatan
+ Centrum, Turistbyrå
+ Hotel Tingsryd, Äventyrsbad
  Bensinstation: Preem
 
-T-korsning 27/Strömgatan
- Bensinstation: Din-X
+T-korsning Rv 27/Strömgatan
+ Linneryd
+ Industri: Östra, Bilprovning
+ Bensinstation: Tanka/OKQ8
 
-T-korsning
- 120 ö: Emmaboda
+T-korsning Tingsryd S
+ 120 ö: Kalmar, Emmaboda, Konga
+ Rastplats Kungastenarna, Travbana
+
+T-korsning (lokal väg)
+ Reningsverk
+
+Dubbel T-korsning (enskild väg)
+ Naturreservat Älganäs, Stenfors
+ Avfallsanläggning
 
 T-korsning Elserås
+ Elserås
 
 T-korsning Rv 27/Rv 29
  29: Karlshamn, Asarum
 
-Etapp 15: Rv 29 - Ronneby ()
+Etapp 16: Rv 29 - Backaryd ()
 
 Dubbel T-korsning Djuramåla
  Enskild väg
@@ -229,6 +242,8 @@ Korsning Backaryd C
  Tving
 T-korsning Backaryds kyrka
  Parkering, Lokal väg
+
+Etapp 17: Backaryd - Ronneby ()
 
 (T-korsning Rv 27/Kapellvägen)
  Servicehus, Lokal väg
