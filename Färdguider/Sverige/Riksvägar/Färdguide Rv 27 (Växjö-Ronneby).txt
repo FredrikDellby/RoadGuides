@@ -36,10 +36,10 @@ Korsning Lidhem (enskilda vägar)
 T-korsning Skogslund Växjö
  Krokvik
 					0,5 km/0,4 km	23 s/18 s
-T-korsning
+T-korsning Tegnaby V
  Tegnaby, Åryd
 					3,7 km/3,8 km	2 min 47 s/2 min 51 s
-(Bro över ..)
+(Bro över Tegnabysjön/Torsjön): (56.7829338,14.9019236)
 
 T-korsning Torsjö
  Tegnaby
@@ -47,10 +47,10 @@ T-korsning Torsjö
 Infopunkt Ingelstad: (56.7565986,14.9194733)
 (sydgående riktning)
 
-T-korsning Rv 27/Finnamyrsv.
+T-korsning Rv 27/Finnamyrsv. (lokal väg)
  Industri: Norra, Lokal väg
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Rv 27/Albreckts v.
+T-korsning Rv 27/Albreckts v. (lokal väg)
  Bensinstation: Ingelstadshuset
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
 Rondell Ingelstad kyrkan
@@ -60,7 +60,7 @@ Rondell Ingelstad kyrkan
  Inglinge Hög (sevärdhet)
  Camping, Badplats
 					0,4 km/0,3 km	24 s/18 s
-T-korsning
+T-korsning Karlsborg
  Väderlanda
 					0,8 km/0,9 km	41 s/46 s
 Korsning Rv 27/Dalängsvägen (lokal väg)
@@ -75,41 +75,85 @@ T-korsning Rävåsen
 
 Etapp 13: Rävåsen - Tingsryd (22,9 km/22,9 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-Korsning+T-korsning Brändekvarnsvägen
- Brändekvarn
- Säljeryd
+Korsning+T-korsning Säljeryd
+(Brändekvarnsvägen)
+ Brändekvarn (enskild väg)
+ Säljeryd (enskild väg)
  Kalvsvik, Uråsa
 (2+1-väg börjar/upphör)
 					4,8 km/4,9 km	3 min 36 s/3 min 41 s
-Växjö / Tingsryd
-T-korsning
+T-korsning (enskild väg))
+(endast skyltad sydgående)
+
+Korsning Uråsa Rv 27 (enskild väg)
+ Värebol
+
+Korsning (enskild väg)
+ Uråsa terminal, Trafikövningsplats
+
+(T-korsning (enskild väg)
+(endast skyltad nordgående)
+
+Växjö / Tingsryd: (56.6730069,14.9168601)
+T-korsning Ryd södra
+ Kalvsvik, Uråsa
 					1,6 km/1,5 km	1 min 12 s/1 min 8 s
+T-korsning (enskild väg))
+(endast skyltad sydgående riktning)
+
+T-korsning (enskild väg))
+(endast skyltad sydgående riktning)
 T-korsning Jätvägen
+ Jät
+ Styragårdens Trädgård AB
 					0,6 km/0,6 km	27 s/27 s
-T-korsning
+Korsning Östadvägen
+ Östad
 					0,8 km/0,8 km	36 s/36 s
+(2+1-väg upphör/börjar)
+Korsning Väckelsång N (lokal väg)
+ V-Plast
 T-korsning Väckelsång kyrka
+ Behandlingshem, Kyrka, Hembygdsgård
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
 Korsning Väckelsång centrum
+ Centrum, Industri
+ Boaryd
 					0,7 km/0,8 km	42 s/48 s
+(T-korsning Rv 27/Dackegatan)
+ Ej skyltad, Lokal väg
+
 Dubbel T-korsning Väckelsång S
- Bensinstation
+ NCC Vägunderhåll
+ Bensinstation: Runes Bensin
+ Restaurang: Smålandsporten
+ Centrum (ej skyltat)
 					4,6 km/4,6 km	3 min 27 s/3 min 27 s
-T-korsning
+T-korsning Kåranäs (enskild väg)
+ Kåranäs Semesterby
+
+T-korsning Kvarnamåla N
+ Grimsvik
 					0,7 km/0,7 km	32 s/32 s
-T-korsning Kvarnamåla Ö
+(Dubbel) T-korsning Kvarnamåla Ö
+ Hyllebol (enskild väg)
+ Söftestorp, Kvarnamåla
 					6,1 km/6,1 km	4 min 35 s/4 min 35 s
 T-korsning Rv 27/Ledningsg.
+ Rössmåla, Industri: Västra
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Rv 27/Växjövägen
+T-korsning Rv 27/Växjövägen (lokal väg)
+ Ej skyltad
 					0,3 km/0,3 km	18 s/18 s
-T-korsning
- 120 v: Markaryd, Älmhult
+T-korsning Rv 27/Södra vägen
+ 120 v: Traryd, Hässleholm, Ryd, Älmhult
+ Tingsryd Resort
  Restaurang: Mårdslycke krog
 
 Etapp 14: Tingsryd - Rv 29 ()
 
 T-korsning 27/Hoogenskildsg.
+ Centrum
 
 T-korsning 27/S. Storgatan
  Bensinstation: Preem
