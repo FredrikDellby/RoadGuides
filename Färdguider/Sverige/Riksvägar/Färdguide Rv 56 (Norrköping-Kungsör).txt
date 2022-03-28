@@ -1,0 +1,124 @@
+Färdguide Rv 55 (Norrköping - Enköping)
+========================================
+
+Etapp 1: Norrköping - Katrineholm (42,1 km/41,8 km)
+
+Trafikplats Loddby (123)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ E4 s: Helsingborg, Norrköping C
+					1.9 km/1.4 km	1 min 16 s/0 min 56 s
+(Busshpl Loddby vägskäl)
+
+Trafikplats Kvillinge
+(avfart sydgående riktning
+påfart nordgående riktning)
+ [E4 n]: Stockholm
+ Industri: Händelö, Jursla
+ Braviken, Pampushamnen
+					0.3 km/0.6 km	12 s/24 s
+Trafikplats Jursla
+ Åby, Jursla
+					2.2 km/1.8 km	1 min 28 s/1 min 12 s
+Korsning (enskild väg)
+ Dvardala
+ Hultsbruk
+ Ågelsjöns naturreservat, Yxbacken
+					1.5 km/1.6 km	1 min 0 s/1 min 4 s
+T-korsning Nedre Skriketorp
+(sydgående riktning)
+ Nedre Skriketorp, Enskild väg
+
+Trp Skriketorp
+(nordgående riktning)
+ (Övre) Skriketorp, Graversfors
+ Sveprol
+
+Järnvägsbro
+ Södra Stambanan
+					1.0 km/0.9 km	40 s/36 s
+Korsning Graversfors
+ Torshag, Åby
+ Näkna, Sörsjöns friluftsområde
+					5.4 km/5.4 km	3 min 36 s/3 min 36 s
+T-korsning (enskild väg)
+ Äventyrsbana, Glotternskogen
+
+(T-korsning (enskild väg))
+ Ej skyltad
+
+T-korsning Dammstugan
+ Näkna, Sörsjöns friluftsområde
+					4.6 km/4.6 km	3 min 4 s/3 min 4 s
+Rastplats vid Svängbågen
+(nordgående riktning)
+
+Korsning (enskild väg)
+ Ej skyltad?
+
+T-korsning (enskild väg)
+
+Dubbel T-korsning Simonstorp K:a
+ Simonstorp K:a
+					1.9 km/1.9 km	1 min 54 s/1 min 54 s
+Korsning Simonstorp (enskild väg)
+ Sikargården, Skogsvallen
+ Bensinstation: Q-star
+
+T-korsning Tranmossen
+ Hävla, Rejmyre
+ Hävla Bruksmiljö, Rejmyre Glasbruk
+					5.9 km/5.9 km	3 min 56 s/3 min 56 s
+T-korsning (enskild väg)
+ Nystugan (endast förskyltad nordgående)
+
+(T-korsning (enskild väg))
+ Ej skyltad
+
+Korsning (enskild väg)
+ Jakobslund (ej förskyltad)
+
+Östergötland / Södermanland: (58.8390227,16.1957452)
+Norrköping / Katrineholm
+					1.7 km/1.7 km	1 min 8 s/1 min 8 s
+Korsning Ändebol vsk
+ Björkvik
+ Ändebol
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+Korsning Ändebol norra
+ Sjöboda
+					4.4 km/4.4 km	3 min 18 s/3 min 18 s
+Korsning Strångsjö
+ Björkvik, Glindran
+ Ö. Vingåker
+					7.1 km/7.1 km	5 min 20 s/5 min 20 s
+Korsning Trolldal
+ Forsa
+					0.6 km/0.6 km	31 s/31 s
+T-korsning Dufweholm
+ Dufweholms herrgård
+					0.7 km/0.7 km	36 s/36 s
+Korsning 55/Vasagatan
+ Nävertorp
+					1.1 km/1.4 km	0 min 57 s/1 min 12 s
+Korsning Rv 52/Rv 55
+ 52 v: Örebro, Vingåker
+ 52 ö: Nyköping, Bettna
+
+Etapp 2: Genom Katrineholm (2,7 km/2,6 km)
+					0.6 km/0.6 km	43 s/43 s
+Korsning 55/Linnévägen
+Korsning 55/Djulögatan
+					0.5 km/0.5 km	36 s/36 s
+T-korsning 55/Fabriksgatan
+Bensinstation: Statoil, Shell
+T-korsning 55/Storgatan
+					0.4 km/0.4 km	29 s/29 s
+T-korsning 55/Vallavägen
+Bensinstation: Preem
+T-korsning 55/Vassmogatan
+Bensinstation: OKQ8
+					0.6 km/0.5 km	43 s/36 s
+Rondell 55/Videvägen
+					0.6 km/0.6 km	43 s/43 s
+Rondell Rv 55/Rv 56
