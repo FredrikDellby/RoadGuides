@@ -3,11 +3,11 @@ Färdguide Rv 55 (Katrineholm - Enköping)
 
 Etapp 3: Katrineholm - Flen (24,4 km/24,6 km)
 
-Rondell
+Rondell Rv 52/55/56/57
 					6.8 km/6.7 km	5 min 6 s/5 min 2 s
 T-korsning (enskild väg)
  Stenatorp, Brukshundklubb
-(Infoplats (sydgående))
+Infopunkt (sydgående)
 
 Korsning Sågmon (enskild väg)
  Sågstugan
@@ -49,29 +49,57 @@ Korsning Sköldinge väst
 Korsning Sköldinge öst
  Sköldinge
 					2.3 km/2.4 km	1 min 43 s/1 min 48 s
-Rastplats Gnallen
-(sydgående riktning)
+Dubbel T-korsning Gnallen (enskild väg)
+ Gnallen
+ Oxhagsstugan
+
+Rastplats Gnallen (sydgående)
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
-Varbron
-(Katrineholm / Flen)
+T-korsning Holbonäs (enskild väg)
+ Holbonäs
+
+T-korsning (enskild väg)
+ Ulvnäset
+
+Järnvägsviadukt
+ Västra Stambanan
+
+Katrineholm / Flen
+(Varbron)
 					0.5 km/0.5 km	23 s/23 s
 Rastplats Stenhammars Skans
 (nordgående riktning)
 					2.2 km/2.0 km	1 min 39 s/1 min 30 s
-T-korsning Lidastugan
+Dubbel T-korsning Lidastugan
  Årsta
+(2+1-väg upphör/börjar)
 					0.6 km/0.6 km	27 s/27 s
+(Järnvägsviadukt)
+ TJOG-banan
 T-korsning Margreteberg
  221: Nyköping, Bettna
+ Flens Golfklubb
 					1.8 km/1.7 km	1 min 33 s/1 min 27 s
+T-korsning Öja (lokal väg)
+ Öja Industri
+(Sinbad pizzeria & kolgrill)
+
+Dubbel T-korsning Flens kyrka
+ Brukshundklubb (enskild väg)
+ Flens kyrka
+
 Rondell Flensby
  Flen Centrum
-Bensinstation: Statoil, Preem
+ Bensinstation: Circle-K, OKQ8, Preem
 					1.5 km/1.7 km	1 min 48 s/2 min 2 s
+T-korsning Rv 55/Sollidsvägen
+ Lokal väg (ej skyltad)
+ Restaurang: Kungsvägskiosken
+
 Korsning
  Forssa
 T-korsning
- 57: Stockholm, Gnesta
+ 57: Södertälje, Gnesta
 
 Etapp 4: Flen - Strängnäs ()
 
