@@ -3,12 +3,15 @@ Färdguide E18 (Kristiansand - Oslo)
 Etapp 1: Gjennom Kristiansand ()
 
 Serviceplass Vesterveien
+ Bensinstasjon: Circle-K
 (Vesterveien bomstasjon (østgående))
  16 kr/26-33 kr, 24 kr/40-50 kr (rushtid)
 					/)
 Kryss Vesterbrua
 (avrampe østgående retning
 pårampe vestgående retning)
+ E39-Ferge: Danmark
+ [9]: Evje
 				(/
 (Vesterbrua-syd
  over E39 og Kristiansand stasjon, 679 m
@@ -17,53 +20,69 @@ pårampe vestgående retning)
 Gartnerløkkakrysset (99)
 (avrampe vestgående retning
 pårampe østgående retning)
+ E39-Ferge: Danmark
+ 9: Evje
 (Baneheitunnelen-vest)
  760 m/
 
 Kvadraturkrysset (98)
+ Sentrum
 
 Egkrysset (97)
+ Sykehus
 (Baneheitunnelen-øst)
  /785 m
 (Oddernesbrua)
  Otra, 228 m
 
 Kryss Nedre Lund (96)
+ Vennesla, Lund
 (Oddernestunnelen-vest)
  1 047 m/
 
 (Oddernestunnelen-øst)
  /1 049 m
 Bjørndalsslettakrysset (95)
+ Lund Ø, Camping
+ Gimle, Universitetet
 (Bjørndalssletta bomstasjon (vestgående))
  16 kr/26-33 kr, 24 kr/40-50 kr (rushtid)
 
 Vollevannkrysset (94)
+ 452: Ålefjær
+ Friluftsmuseum
 
 Narvikakrysset (93)
+ Godshavn, Industri: Vige
+ Bensinstasjon: Shell
 
 Varoddbrua-vest (618 m/)
  Topdalsfjorden
 
-(Varoddbrua-øs)
+(Varoddbrua-øst)
  Topdalsfjorden, /663 m
 Sømkrysset (92)
 (avrampe østgående retning
 pårampe vestgående retning)
+ 496: Søm
 					(/
 (Haumyrheitunnelen (377 m/361 m)
 
 Strømmekrysset (91)
 (avrampe østgående retning
 pårampe vestgående retning)
+ 496: Høvåg V, Hånes
 
 Nottangen bro (221 m)
  Rona
 
 Håneskrysset (91)
 (ikke pårampe vestgående)
+ 496: Høvåg V, Hånes
 
 Timeneskrysset (90)
+ 41: Birkeland, Kjevik Flyplass
+ Sørlandsparken V
 (motorvei begynder/ender)
 
 Etapp 2: Kristiansand - Lillesand ()
@@ -71,10 +90,15 @@ Etapp 2: Kristiansand - Lillesand ()
 Lauvåsenkrysset (89)
 (avrampe østgående retning
 pårampe vestgående retning)
+ Lauvåsen, Sørlandsparken N
 
 Barstølkrysset (88)
+ Barstøl, Sørlandsparken
+ Dyreparken, Hotell (Scandic, Dyreparken)
 
 Langåsenkrysset (Dyreparkkrysset, 87)
+ 420: Høvåg Ö, Sørlandsparken Ö
+ Dyreparken, Hotell (Scandic, Dyreparken)
 
 (90 km/h / 100 km/h
 
