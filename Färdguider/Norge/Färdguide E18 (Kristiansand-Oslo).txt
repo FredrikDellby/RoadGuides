@@ -1,8 +1,72 @@
 Färdguide E18 (Kristiansand - Oslo)
 ====================================
+Etapp 1: Gjennom Kristiansand ()
+
+Serviceplass Vesterveien
+(Vesterveien bomstasjon (østgående))
+ 16 kr/26-33 kr, 24 kr/40-50 kr (rushtid)
+					/)
+Kryss Vesterbrua
+(avrampe østgående retning
+pårampe vestgående retning)
+				(/
+(Vesterbrua-syd
+ over E39 og Kristiansand stasjon, 679 m
+
+(Vesterbrua-nord)
+Gartnerløkkakrysset (99)
+(avrampe vestgående retning
+pårampe østgående retning)
+(Baneheitunnelen-vest)
+ 760 m/
+
+Kvadraturkrysset (98)
+
+Egkrysset (97)
+(Baneheitunnelen-øst)
+ /785 m
+(Oddernesbrua)
+ Otra, 228 m
+
+Kryss Nedre Lund (96)
+(Oddernestunnelen-vest)
+ 1 047 m/
+
+(Oddernestunnelen-øst)
+ /1 049 m
+Bjørndalsslettakrysset (95)
+(Bjørndalssletta bomstasjon (vestgående))
+ 16 kr/26-33 kr, 24 kr/40-50 kr (rushtid)
+
+Vollevannkrysset (94)
+
+Narvikakrysset (93)
+
+Varoddbrua-vest (618 m/)
+ Topdalsfjorden
+
+(Varoddbrua-øs)
+ Topdalsfjorden, /663 m
+Sømkrysset (92)
+(avrampe østgående retning
+pårampe vestgående retning)
+					(/
+(Haumyrheitunnelen (377 m/361 m)
+
+Strømmekrysset (91)
+(avrampe østgående retning
+pårampe vestgående retning)
+
+Nottangen bro (221 m)
+ Rona
+
+Håneskrysset (91)
+(ikke pårampe vestgående)
 
 Timeneskrysset (90)
 (motorvei begynder/ender)
+
+Etapp 2: Kristiansand - Lillesand ()
 
 Lauvåsenkrysset (89)
 (avrampe østgående retning
@@ -45,7 +109,7 @@ Brønningsmyrkrysset (86)
  Bensinstasjon: Circle-K, YX
  Elbilslading: IONITY, Grønn Kontakt, LadeiNorge, E.ON, Bellona
 
-Etapp: Lillesand - Grimstad ()
+Etapp 3: Lillesand - Grimstad ()
 
 Songefjelltunnelen ()
  365 m/374 m
@@ -98,7 +162,7 @@ Morholtkrysset (82)
  Elbilslading: Mer, Grønn Kontakt
  Restaurant: McDonald's
 
-Etapp: Grimstad - Arendal ()
+Etapp 4: Grimstad - Arendal ()
 
 Kryss Frivoll (80)
  404: Herefoss, Dømmesmoen
@@ -159,7 +223,7 @@ Kryss Stoa (72)
  Elbilslading: Recharge
  Restaurant: Burger King
 
-Etapp: Arendal - Tvedestrand ()
+Etapp 5: Arendal - Tvedestrand ()
 
 (Solberg bru (177 m))
  Arendalsbanen og Fv 42
@@ -209,7 +273,7 @@ Grenstølkrysset (67)
  [411]: Tvedestrand
  421: Åmli
 
-Etapp: Tvedestrand - Vinterkjær ()
+Etapp 6: Tvedestrand - Vinterkjær ()
 
 Fløyheia tunnel-syd
  509,6 m/
@@ -245,7 +309,7 @@ Bruråstunnelen (176 m)
 Kryss Vinterkjerr (64)
  416: Risør
 
-Etapp: Vinterkjær - Gjerdemyra ()
+Etapp 7: Vinterkjær - Gjerdemyra ()
 
 Sørlandsporten (115 m)
 
@@ -290,7 +354,7 @@ Kryss Gjerde (54)
  38 s: Kragerø
  38 n: Kviteseid, Drangedal
 
-Etapp : Gjerdemyra - Rugtvedt ()
+Etapp 8: Gjerdemyra - Rugtvedt ()
 
 Farsjøbrua (238 m)
  Farsjø
@@ -339,7 +403,7 @@ Hegnabrua
 
 Kryss Rugtvedt (52)
 
-Etapp: Rugtvedt - Skjelsvik ()
+Etapp 9: Rugtvedt - Skjelsvik ()
 
 Bambletunnelen-vest
  765 m/751 m
@@ -370,7 +434,7 @@ påfart västgående riktning)
 (Hovettunnelen-vest)
  539 m
 
-Etapp 11: Skjelsvik - Langangen ()
+Etapp 10: Skjelsvik - Langangen ()
 
 (Hovettunnelen-øst)
 Kryss Skjelsvik-øst (50)
@@ -393,7 +457,7 @@ Vestre Langangen bru
 
 Langangenkrysset (48)
 
-Etapp 12: Langangen - Larvik (16,8 km/16,6 km)
+Etapp 11: Langangen - Larvik (16,8 km/16,6 km)
 
 Porsgrunn / Larvik
 
@@ -438,7 +502,7 @@ Bommestad bomstasjon
 
 Bommestadkrysset (45)
 
-Etapp 13: Larvik - Tønsberg (29,5 km/29,6 km)
+Etapp 12: Larvik - Tønsberg (29,5 km/29,6 km)
 
 Bommestadbrua (152 m)
  Numedalslågen
@@ -495,7 +559,7 @@ Aulerødkrysset (37)
  Aulielva
 Åskrysset (36)
 
-Etapp 14: Tønsberg - Undrumsdalskrysset (9,4 km/9,5 km)
+Etapp 13: Tønsberg - Undrumsdalskrysset (9,4 km/9,5 km)
 
 Gulli bomstasjon
 
@@ -513,7 +577,7 @@ Svartedal tunnel
 
 Undrumsdalskrysset (34)
 
-Etapp 15: Undrumsdalskrysset - Islandkrysset (20,0 km/19,7 km)
+Etapp 14: Undrumsdalskrysset - Islandkrysset (20,0 km/19,7 km)
 					1,1 km/0,7 km	33 s/20 s
 Stenbjørnrødtunnelen-syd
  621 m/536 m
@@ -560,7 +624,7 @@ Islandtunnelen (388 m)
 					0,6 km/0,4 km	18 s/14 s
 Islandkrysset (30)
 
-Etapp 16: Islandkrysset - Drammen ()
+Etapp 15: Islandkrysset - Drammen ()
 					0,4 km/0,7 km	14 s/25 s
 Rasteplass Grelland
  Bensinstasjon: Circle-K/Shell
@@ -621,7 +685,7 @@ Bangeløkkakrysset (25)
 (Drammensbrua-syd)
  1892 m/
 
-Etapp 17: Drammen - Bærum (27,7 km/27,9 km)
+Etapp 16: Drammen - Bærum (27,7 km/27,9 km)
 					2,1 km/2,1 km	1 min 16 s/1 min 16 s
 (Drammensbrua-nord)
  /1841 m
@@ -683,7 +747,7 @@ Kjørbokrysset (16)
 (Sandvika bru-vest)
  458 m
 
-Etapp 18: Bærum - Lysaker (6,3 km/6,3 km)
+Etapp 17: Bærum - Lysaker (6,3 km/6,3 km)
 (Sandvika bru-øst)
 					1,8 km/1,4 km	1 min 21 s/1 min 3 s
 Blommenholmkrysset (15)
@@ -706,7 +770,7 @@ Lysakerkrysset (12)
  150-Ring 3: Smestad
  Hotell: Fornebuområdet
 
-Etapp 19: Lysaker - Sørenga (9,0 km/8,3 km)
+Etapp 18: Lysaker - Sørenga (9,0 km/8,3 km)
 					0,8 km/0,8 km	36 s/36 s
 (Lysakerlokket (264 m))
 Kryss Lysaker torg (11)
@@ -778,7 +842,7 @@ påfart västgående riktning)
  [E6 n]: Trondheim, Gardemoen
  [E6 s]: Gøteborg, Moss
 
-Etapp 20: Sørenga - Nøstvet (18,1 km/18,6 km)
+Etapp 19: Sørenga - Nøstvet (18,1 km/18,6 km)
 					0,5 km/0,7 km	23 s/32 s
 Kryss Grønlikaia (2)
 (avfart sydgående riktning
