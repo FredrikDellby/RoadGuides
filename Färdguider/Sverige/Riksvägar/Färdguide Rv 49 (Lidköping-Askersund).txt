@@ -1,237 +1,287 @@
-Färdguide Rv 49 (Skara - Askersund)
+FÃ¤rdguide Rv 49 (Skara - Askersund)
 ====================================
 
 Rondell Rv 44/Rv 49
- 44 v: Uddevalla, Lidköping
- 44 ö: Mariestad, Götene
+ 44 v: Uddevalla, LidkÃ¶ping
+ 44 Ã¶: Mariestad, GÃ¶tene
 					3.1 km/3.0 km	2 min 20 s/2 min 15 s
-Korsning Alebäck (enskild väg)
- Alebäck
+Korsning AlebÃ¤ck (enskild vÃ¤g)
+ AlebÃ¤ck
 
-Korsning Jutegården
- N Härene, Hovby
- Sävarne
+Korsning JutegÃ¥rden
+ N HÃ¤rene, Hovby
+ SÃ¤varne
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
-(T-korsning Fogdängen)
- Enskild väg, Handelsträdgård
+(T-korsning FogdÃ¤ngen)
+ Enskild vÃ¤g, HandelstrÃ¤dgÃ¥rd
 
-Dubbel T-korsning Vinninga väst
+Dubbel T-korsning Vinninga vÃ¤st
  Saleby
  Vinninga, Lanthandel
  Bensinstation: Q-star
 					1.8 km/1.7 km	1 min 21 s/1 min 17 s
-Korsning Bärnagården
- Hasslösa, Gravfält
+Korsning BÃ¤rnagÃ¥rden
+ HasslÃ¶sa, GravfÃ¤lt
  Vinninga
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
-Korsning Ardalavägen
+Korsning ArdalavÃ¤gen
  Ardala
 					3.4 km/3.5 km	2 min 33 s/2 min 38 s
-Lidköping / Skara: (58.4213103,13.3448804)
-T-korsning Skäggatorp
- Hangelösa, Pendelparkering
+LidkÃ¶ping / Skara: (58.4213103,13.3448804)
+T-korsning SkÃ¤ggatorp
+ HangelÃ¶sa, Pendelparkering
 					2.3 km/2.1 km	1 min 43 s/1 min 35 s
-Infoplats (främst för östgående)
+Infoplats (frÃ¤mst fÃ¶r Ã¶stgÃ¥ende)
 
-Korsning Hökaslätten
- Händene
- Åkedal (enskild väg)
+Korsning HÃ¶kaslÃ¤tten
+ HÃ¤ndene
+ Ã…kedal (enskild vÃ¤g)
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Passagården
- Synnerby, Händene K:a
+T-korsning PassagÃ¥rden
+ Synnerby, HÃ¤ndene K:a
 					0.5 km/0.5 km	23 s/23 s
 T-korsning Skara NV
- 184: Falköping
- [E20 v]: Göteborg
+ 184: FalkÃ¶ping
+ [E20 v]: GÃ¶teborg
  Skara Centrum
 
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
  Sund & Rund
 
 Korsning Skara N (Rv 49/Malmgatan)
  Centrum
  Uddetorp
 
-Korsning Rv 49/Gråbrödragatan
+Korsning Rv 49/GrÃ¥brÃ¶dragatan
  Sveriges Lantbruksuniv., Djursjukhus
  Tveta
 
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Skara-Lundsbrunn
 
 Rondell
  Centrum
  Skaraberg
 
-Trafikplats Vilan-väst
- E20 v: Göteborg, Alingsås
+Trafikplats Vilan-vÃ¤st
+ E20 v: GÃ¶teborg, AlingsÃ¥s
  Centrum, Jula
  Bensinstation: OKQ8
  Restaurang: McDonald's
 
-Trafikplats Vilan-öst
- E20 ö: Stockholm, Mariestad
+Trafikplats Vilan-Ã¶st
+ E20 Ã¶: Stockholm, Mariestad
 					2.0 km/2.0 km	1 min 20 s/1 min 20 s
 Trp Finnatorp
-(avfart östgående riktning
-påfart västgående riktning)
- Örnsro, Götala,
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ Ã–rnsro, GÃ¶tala,
  Skara sommarland
 					1.7 km/2.0 km	1 min 8 s/1 min 20 s
 Trp Axevalla
  Axvall, Axvalla Travbana
  Skara sommarland
 					1.4 km/1.1 km	56 s/44 s
-T-korsning Skålltorp
+T-korsning SkÃ¥lltorp
  Axvall
  Bensinstation: Q-star
 					0.6 km/0.6 km	27 s/27 s
-T-korsning Postgården
- Lerdala, Flämslätt
+T-korsning PostgÃ¥rden
+ Lerdala, FlÃ¤mslÃ¤tt
  Golfbana, Vandrarhem
 					3.7 km/3.7 km	2 min 47 s/2 min 47 s
-T-korsning Valle Camping (lokal väg)
+T-korsning Valle Camping (lokal vÃ¤g)
  Valle Campingstugor
 
-(T-korsning (enskild väg))
+(T-korsning (enskild vÃ¤g))
  Ej skyltad
 
 Korsning Varnhem N
  Varnhem, Klosterkyrka
- Hornborgarsjön
- (Lerdala), Öglunda
+ HornborgarsjÃ¶n
+ (Lerdala), Ã–glunda
  Info: Valle
 					0.8 km/0.8 km	41 s/41 s
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-Korsning Ljungstorp väg 49
- Ljungstorp, Galleri Sagé
+Korsning Ljungstorp vÃ¤g 49
+ Ljungstorp, Galleri SagÃ©
 					3.3 km/3.3 km	2 min 50 s/2 min 50 s
-Tankställe Rosenlund
+TankstÃ¤lle Rosenlund
  Bensinstation: Q-star
 
-Skara / Skövde: (58.384956,13.7373275)
+Skara / SkÃ¶vde: (58.384956,13.7373275)
 					1.9 km/2.0 km	1 min 38 s/1 min 43 s
 T-korsning Stenberget
  Svarvarebacken
 					1.4 km/1.2 km	1 min 12 s/1 min 2 s
-T-korsning Våmbskleven
- Våmbskleven, Enskild väg
+T-korsning VÃ¥mbskleven
+ VÃ¥mbskleven, Enskild vÃ¤g
 					1.7 km/1.8 km	1 min 27 s/1 min 33 s
-T-korsning Eklunds (lokal väg)
+T-korsning Eklunds (lokal vÃ¤g)
  Bildemontering
 
-T-korsning Eklunds Ö (lokal väg)
- Lokal väg (ej skyltad)
+T-korsning Eklunds Ã– (lokal vÃ¤g)
+ Lokal vÃ¤g (ej skyltad)
 
-Rastplats Våmb (östgående)
+Rastplats VÃ¥mb (Ã¶stgÃ¥ende)
 					0.5 km/0.4 km	26 s/21 s
-T-korsning Våmb K:a
- Våmb, Våmb K:a
+T-korsning VÃ¥mb K:a
+ VÃ¥mb, VÃ¥mb K:a
 					0.3 km/0.3 km	22 s/22 s
-Korsning Våmb Ö
- Våmb (sevärdhet)
- Simsjön (badplats, café, golfbana)
+Korsning VÃ¥mb Ã–
+ VÃ¥mb (sevÃ¤rdhet)
+ SimsjÃ¶n (badplats, cafÃ©, golfbana)
 					0.5 km/0.5 km	36 s/36 s
-Korsning Rv 49/Gruvgatan (lokal väg)
+Korsning Rv 49/Gruvgatan (lokal vÃ¤g)
  Stena, Paroc
  Cementa
 					0.4 km/0.5 km	29 s/36 s
-(Järnvägsbro)
- Industrispår
+(JÃ¤rnvÃ¤gsbro)
+ IndustrispÃ¥r
 Hallenbergsrondellen
- Skövde Centrum, Järnvägsstn
+ SkÃ¶vde Centrum, JÃ¤rnvÃ¤gsstn
  [26 n]: Mariestad
  Skaraborgs Sjukhus
  Billingehov, Billingehus, Billingen
  (Skidbacke, Badplats, Vandring, Camping)
  Bensinstation: Circle-K
  Restaurang: Pizzeria Maxim
-(T-korsning Rv 49/Gesällgatan)
- Lokal väg, ej skyltad
+(T-korsning Rv 49/GesÃ¤llgatan)
+ Lokal vÃ¤g, ej skyltad
 					0.9 km/1.1 km	1 min 5 s/1 min 19 s
-(Järnvägsbro)
- Industrispår till Cementa
-T-korsning Rv 49/Carlsrovägen
- Lokal väg, ej skyltad
+(JÃ¤rnvÃ¤gsbro)
+ IndustrispÃ¥r till Cementa
+T-korsning Rv 49/CarlsrovÃ¤gen
+ Lokal vÃ¤g, ej skyltad
 
-T-korsning 49/Diabasvägen
+T-korsning 49/DiabasvÃ¤gen
  IndustrI: Karlsro, Paroc (lastbil)
 
-Korsning Hentorp (lokal väg)
+Korsning Hentorp (lokal vÃ¤g)
  Hentorp
- Södermalms IP
+ SÃ¶dermalms IP
  Bensinstation: Shell
 					1.1 km/0.9 km	1 min 19 s/1 min 5 s
-(Järnvägsbro)
- Västra Stambanan
+(JÃ¤rnvÃ¤gsbro)
+ VÃ¤stra Stambanan
 Fabiansrondellen
  Skultorp
- Tovatorp (enskild väg)
+ Tovatorp (enskild vÃ¤g)
 					0.9 km/1.2 km	0 min 46 s/1 min 2 s
-Trp Skövde Södra
- 26 s: Jönköping, Tidaholm
- 46 s: Ulricehamn, Falköping
+Trp SkÃ¶vde SÃ¶dra
+ 26 s: JÃ¶nkÃ¶ping, Tidaholm
+ 46 s: Ulricehamn, FalkÃ¶ping
 
-Etapp 3: Skövde Södra - Mariesjö ()
-
-
-
-Trp Mariesjö
- 26 s: Jönköping, Tidaholm
+Etapp 3: SkÃ¶vde SÃ¶dra - MariesjÃ¶ ()
+					1.1 km/0.5 km	57 s/26 s
+Rondell (lokal vÃ¤g)
+ ParadissjÃ¶n (enskild vÃ¤g)
+ Volvo Powertrain, FÃ¶rsvarsmakten
+					1.2 km/1.2 km	1 min 2 s/1 min 2 s
+Timsboholmsrondellen
+ Varola, Industri: Timboholm
+ MiljÃ¶station, Volvo Personvagnar
+ (Centrum), Ã–stermalm
+					1.5 km/1.4 km	1 min 17 s/1 min 12 s
+Trp MariesjÃ¶)
  26 n: Mariestad
- 49 v: Skara
- 46: Ulricehamn, Falköping
+ [200]: TÃ¶reboda
+					/)
+(Trp MariesjÃ¶-vÃ¤st
+ Centrum
+ Industri: MariesjÃ¶
+					(/
+Trp MariesjÃ¶-Ã¶st
+ 26 n: Mariestad, Sjukhus
+ [200]: TÃ¶reboda
+ Centrum
+ Industri: Aspelund
 					0.6 km/0.3 km	43 s/22 s
-T-korsning Hasslum
- Hasslum ind. omr.
+T-korsning Hasslum (lokal vÃ¤g)
+ Industri: Hasslum
 					0.6 km/0.6 km	43 s/43 s
-T-korsning Aspelund Ö
- Aspelund ind. omr.
+T-korsning Aspelund Ã–
+ Industri: Aspelund
 					2.0 km/2.1 km	1 min 43 s/1 min 48 s
-Korsning Huseby
- 194: Hjo
- Hasslums flygplats
- Knistad (enskild väg)
+Bro Ã¶ver Ã–san
 
-(Järnvägsbro)
+(T-korsning Asketorp (enskild vÃ¤g))
+ Locketorp, Asketorp
+ Asketorps Ã„gg
+
+T-korsning (vÃ¤stgÃ¥ende)
+ Svenska Foder, enskild vÃ¤g
+
+Rondell Huseby
+ 194: Hjo, VÃ¤rsÃ¥s
+ Nyborg (enskild vÃ¤g)
+
+(JÃ¤rnvÃ¤gsbro)
+ Karlsborgsbanan
 					3.0 km/3.0 km	2 min 34 s/2 min 34 s
 Korsning Igelstorp Rv 49
- Värsås, Igelstorp
- Knistad
+ (VÃ¤rsÃ¥s), Igelstorp
+ Suntetorp
+ Knistads HerrgÃ¥rd, Golfklubb
+T-korsning Igelstorp Rv 49
+ Sventorp Kyrka
 					0.4 km/0.4 km	29 s/29 s
-Korsning Igelstorp Ö
+Dubbel T-korsning Igelstorp Ã–
+ Kaggelstorp
+ Daltorp (enskild vÃ¤g)
+ KusÃ¥sens hyrkart, Fribergs
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
-Tankställe Svenstorp
-Bensinstation: Uno-X
-T-korsning Hallebacka
+Bensinstation: Sol Bensin
+Dubbel T-korsning Hallebacka
+ Lunden, Bilverkstad (enskild vÃ¤g)
+ UlvÃ¥ker, BygdegÃ¥rd
  Suntorps kapell
 					3.3 km/3.2 km	2 min 28 s/2 min 24 s
 Korsning Piggatorp
- Värsås
- Ulvåker
+ VÃ¤rsÃ¥s, Nybo
+ UlvÃ¥ker
 					0.8 km/0.8 km	36 s/36 s
-Skövde / Tibro
+SkÃ¶vde / Tibro: (58.416282,14.0823277)
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
-T-korsning Tidåkra
+(Infopunkt (Ã¶stgÃ¥ende))
+Rondell TidÃ¥kra
  201 s: Hjo, Tibro S
+ Industri: Baggebo, Balteryd
+ Lastbilsterminal
+ BrÃ¤nningen (enskild vÃ¤g)
 					0.8 km/0.7 km	41 s/36 s
-T-korsning
- Grönhult
+T-korsning VÃ¤stanÃ¥ Rv 49 (lokal vÃ¤g)
+ GrÃ¶nhult (enskild vÃ¤g)
+ Industri: VÃ¤stanÃ¥
 					0.3 km/0.4 km	15 s/21 s
 T-korsning Tibro V
  Centrum
- Värdshuset Tideberg
+ VÃ¤rdshuset Tideberg
 Bensinstation: OKQ8
 					0.4 km/0.5 km	21 s/26 s
-Infoplats Tidan
-Tidan
+T-korsning Tideberg (lokal vÃ¤g)
+ Ã…reberg (enskild vÃ¤g)
+ Industri: VÃ¤stanÃ¥, Tideberg Handelsomr.
+ Bensinstation: OKQ8
+ Restaurang: Sibylla
+Infoplats Tideberg
+(Bro Ã¶ver Tidan)
+
+T-korsning (lokal vÃ¤g)
+ Reningsverk
 					0.9 km/0.7 km	46 s/36 s
 Korsning Tibro N
  Centrum
-Bensinstation: Preem, Tanka
+ GÃ¤re (enskild vÃ¤g)
+ Bensinstation: Preem
 					2.1 km/2.1 km	1 min 35 s/1 min 35 s
+Infopunkt (vÃ¤stgÃ¥ende): (58.4342379,14.1699068)
+
+Korsning KaterydsvÃ¤gen (enskild vÃ¤g)
+ Karlshaga, Kateryd, Ridklubb
+
 T-korsning Ottostorp
- 201 n: Mariestad, Moholm
+ 201 n: Mariestad, (Moholm)
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 T-korsning Blombacka
  Kroppetorp
@@ -239,7 +289,7 @@ T-korsning Blombacka
 T-korsning
  Fagersanna, Ransberg
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
 Korsning Fagersanna Rv 49
  Fagersanna
@@ -250,39 +300,39 @@ T-korsning Stenbacken
 					4.8 km/4.8 km	3 min 36 s/3 min 36 s
 Tibro / Karlsborg
 					1.4 km/1.5 km	1 min 3 s/1 min 8 s
-Dubbel T-korsning Mölltorp södra
- 195: Jönköping, Hjo
- Mölltorp
+Dubbel T-korsning MÃ¶lltorp sÃ¶dra
+ 195: JÃ¶nkÃ¶ping, Hjo
+ MÃ¶lltorp
 					4.0 km/3.6 km	3 min 26 s/3 min 5 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
 					0.4 km/0.4 km	21 s/21 s
-T-korsning Arnekärr
- Mölltorp
+T-korsning ArnekÃ¤rr
+ MÃ¶lltorp
 					2.9 km/3.0 km	2 min 29 s/2 min 34 s
-Rondell Karlsborg södra
- Flottiljens industriområde
+Rondell Karlsborg sÃ¶dra
+ Flottiljens industriomrÃ¥de
 					0.7 km/0.7 km	50 s/50 s
-Tankställe Karlsborg södra
+TankstÃ¤lle Karlsborg sÃ¶dra
 Bensinstation: Preem
 					0.3 km/0.3 km	27 s/27 s
-Järnvägskorsning
-T-korsning 49/Kärleksstigen
- Karlsborgs fästning
+JÃ¤rnvÃ¤gskorsning
+T-korsning 49/KÃ¤rleksstigen
+ Karlsborgs fÃ¤stning
 					1.2 km/1.1 km	1 min 48 s/1 min 39 s
 Korsning 49/Torggatan
- Karlsborgs fästning
+ Karlsborgs fÃ¤stning
 					0.8 km/1.1 km	1 min 12 s/1 min 39 s
-(Göta Kanal, 2 gånger)
+(GÃ¶ta Kanal, 2 gÃ¥nger)
 
-Rastplats Öltappen
+Rastplats Ã–ltappen
 Bensinstation: OKQ8
-T-korsning 49/Parkvägen
+T-korsning 49/ParkvÃ¤gen
  Carlsborgsparken
 					1.0 km/0.7 km	1 min 12 s/0 min 50 s
-T-korsning 49/Svartfjällsv.
+T-korsning 49/SvartfjÃ¤llsv.
  Carlsborgsparken
 					1.1 km/1.1 km	1 min 19 s/1 min 19 s
 T-korsning
 					1.0 km/1.0 km	1 min 12 s/1 min 12 s
 T-korsning Hultet
- 202: Mariestad, Töreboda
+ 202: Mariestad, TÃ¶reboda
