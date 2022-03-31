@@ -2,6 +2,8 @@ Färdguide Lv 311 (Älvros - Tännäs)
 ===================================
 
 T-korsning Älvros
+ 70 s: Mora, Särna
+ 70 n: Röros, Idre
 
 T-korsning (enskild väg)
  Städjan Fjällby, Idre fjäll
@@ -48,15 +50,15 @@ T-korsning Sörvattnet S
 T-korsning Sörvattnet
  Linsell, Lofsdalen
 
-Bro över 
+Bro över ?: (62.1598182, 12.9452631)
 
-Parkeringsplats (västra sidan)
+Parkeringsplats (västra sidan): (62.181011489465405, 12.93812264175022)
 
-Parkeringsplats (östra sidan)
+Parkeringsplats (östra sidan): (62.24570382204373, 12.950464674876192)
 (grus, direkt invid vägen)
  Pilgrimsleden
 
-Bro över ...
+Bro över Kölån: (62.2502529564162, 12.945077894088477)
 
 T-korsning Högvålens kapell
  Fjällkapell, Enskild väg
@@ -68,5 +70,37 @@ Högvålen Info/Rastplats
 (Brändåsen)
 Ruvhten Sijte
 
-(parkeringsplats, grus)
+(Parkeringsplats, grus): (62.3606918, 12.7934790)
+(östra sidan)
 
+(Parkeringsplats Fröstsjön): 62.37428592084257, 12.76295228203461
+(grus, västra sidan)
+
+(Korsning Östest Kröket vägskäl)
+ Enskild väg
+
+T-korsning Tännäskröket (lokal väg)
+ Restaurang: Restaurang Árran
+
+(T-korsning Lv 311/Krökvägen)
+ Enskild väg
+
+(T-korsning Lv 311/Myskelåsvägen)
+ Enskild väg
+
+(Bro över Tännån)
+Korsning Tännäs Stenbrottet
+ Tännfallet, Enskild väg
+
+Tännäs kyrka
+T-korsning Tännäs Centrum
+ Lv Z511
+Bensinstation: Tännäs Bensin
+
+Myskoxcentrum i Härjedalen
+
+Bion i Tännäs
+
+T-korsning Tjärnbräcka
+ 84 ö: Sveg, Hede
+ 84 v: Röros, Funäsdalen
