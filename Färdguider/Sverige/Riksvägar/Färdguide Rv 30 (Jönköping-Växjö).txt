@@ -1,7 +1,7 @@
 Färdguide Rv 30 (Jönköping - Växjö)
 ====================================
 
-Etapp 1: Stigamo - Vrigstad (38,0 km/37,1 km)
+Etapp 1: Stigamo - Hok (38,0 km/37,1 km)
 
 Trafikplats Stigamo (30)
  E4 s: Helsingborg, Värnamo
@@ -35,6 +35,8 @@ T-korsning Hooks Herrgård (lokal väg)
 Dubbel T-korsning Hok N
  (Nässjö), Malmbäck, Camping/stugor
  Vaggeryd
+
+Etapp 2: Hok - Boda ()
 					0,7 km/0,7 km	42 s/42 s
 Järnvägsviadukt
  Halmstad-Nässjö
@@ -71,6 +73,8 @@ Vaggeryd / Sävsjö: (57.4016652,14.3672279)
 T-korsning Boda
  127 v: Värnamo
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
+Etapp 3: Boda - Vrigstad ()
+
 T-korsning (enskild väg)
  Naturreservat, Parkerings/Infoplats
 
@@ -102,7 +106,7 @@ T-korsning Rv 30/Mejerigatan
 
 Etapp 4: Vrigstad - Bredhult (34,2 km/34,2 km)
 					0,9 km/0,8 km	1 min 5 s/0 min 58 s
-Rondell Vrigstad S Lokalt mål
+Rondell Vrigstad S (lokalt mål)
  Södra vägen
 Bensinstation: Q-star
 					5,8 km/6,0 km	4 min 58 s/5 min 9 s
@@ -122,7 +126,7 @@ Dubbel T-korsning G:a Hjälmseryd
  Söndra, Hjälmseryd G:a kyrka
  Vandrarhem
 					7,4 km/7,2 km	6 min 21 s/6 min 10 s
-(Bro över )
+(Bro över ?)
 
 Nya Hjälmseryds kyrka
 T-korsning Hjälmseryds Hembygdsgård
@@ -164,6 +168,8 @@ Korsning Lammhult NV
  Bensinstation: Preem
  Restaurang: Pizzeria Lammhult
 
+Etapp 5: Lammhult - Bredhult ()
+
 T-korsning Rv 30/Centrumgatan Lokal väg
  Centrum, (ej skyltad)
 					0,4 km/0,4 km	29 s/29 s
@@ -183,7 +189,7 @@ Dubbel T-korsning Bredhult
  126: Alvesta, Karlshamn
  Åby, Berg
 
-Etapp 3: Bredhult - Växjö (23,1 km/23,4 km)
+Etapp 6: Bredhult - Växjö (23,1 km/23,4 km)
 					7,1 km/7,1 km	5 min 20 s/5 min 20 s
 T-korsning Hylte
 					3,6 km/3,8 km	2 min 42 s/2 min 51 s
