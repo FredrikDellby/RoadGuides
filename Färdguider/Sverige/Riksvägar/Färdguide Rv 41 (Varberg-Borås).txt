@@ -1,109 +1,144 @@
-Reseguide Rv 41 (Borås - Varberg)
+Reseguide Rv 41 (Varberg - BorÃ¥s)
 ==================================
 
 Etapp 1: Varberg - Varberg-Nord (5,2 km/5,4 km)
 
 Rondell Lassebacka
- Varberg Centrum
- 153: Värnamo, Ullared
- Bensinstation:Statoil
- Restaurang: McDonald's
+ 153: VÃ¤rnamo, Ullared
+ [E6 s]: MalmÃ¶
+ GetterÃ¶n, Hamnar, (P) Centrum V
+ Industri: Lassebacka V
+ Apelviken, (P) Centrum Ã–
+ Sjukhus, Resecentrum
+ Bensinstation: Circle-K, INGO
+ Restaurang: McDonald's, Lol Lunch
 					0,6 km/0,5 km	31 s/26 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Viskadalsbanan
 					2,0 km/2,1 km	1 min 20 s/1 min 24 s
-Rondell Krogen
- Åskloster, Getterön
+Lindhovsrondellen
+ Ã…skloster, TÃ¥ngaberg, Camping
+ TrÃ¶nninge, Klosterruin (sevÃ¤rdhet)
 					2,4 km/2,4 km	1 min 36 s/1 min 36 s
 Rondell Rasta Varberg
  Bensinstation: Circle-K
  Restaurang: McDonald's, Burger King, Roadstar
  Elbilsladdning: E.ON, IONITY, Mer, Tesla, Virta
-Trp Varberg Nord-väst
- E6-E20 s: Malmö, Falkenberg
+
+Trp Varberg Nord-vÃ¤st
+ E6-E20 s: MalmÃ¶, Falkenberg
 					0,2 km/0,5 km	14 s/36 s
-Trp Varberg Nord-öst
- E6-E20 n: Göteborg, Kungsbacka
+Trp Varberg Nord-Ã¶st
+ E6-E20 n: GÃ¶teborg, Kungsbacka
 
 Etapp 2: Varberg-Nord - Horred (25,0 km/24,7 km)
 					4,9 km/4,8 km	3 min 16 s/3 min 12 s
-Dubbel T-korsning V Derome
+Dubbel T-korsning V. Derome
+ Valinge
+ Torpa
 					2,5 km/2,3 km	1 min 53 s/1 min 44 s
 Dubbel T-korsning Derome station
- Lokala vägar
+ Lokala vÃ¤gar
  Bensinstation: Din-X
 					0,7 km/0,7 km	36 s/36 s
 Korsning Derome N
- Kungsäter, Kyrka
- Åskloster
- Trä- och Nostalgimuseum, Deromegruppen
+ KungsÃ¤ter, Kyrka
+ Ã…skloster
+ TrÃ¤- och Nostalgimuseum, Deromegruppen
  Bensinstation: Paroy
  Restaurang: Derome Pizzeria
 					0,6 km/0,7 km	27 s/32 s
-Viskan
+T-korsning Derome TrÃ¤dgÃ¥rd (enskild vÃ¤g)
+ Vallby, Derome TrÃ¤dgÃ¥rd
+					(/
+(Bro Ã¶ver Viskan
 					2,0 km/1,9 km	1 min 30 s/1 min 26 s
+(T-korsning Ã…sbrovÃ¤gen (enskild vÃ¤g))
+ Ã…sbro, (Utsiktpunkt ovan Viskan)
+
 Rondell Veddige S
- Bua, Veddige C
+ Bua, Veddige, [E6-E20 n]
+ Industri: Disseflat VÃ¤stra, Sim- och idrottshall
 					0,7 km/0,6 km	32 s/27 s
-(Järnvägsbro)
+(JÃ¤rnvÃ¤gsbro)
  Viskadalsbanan
 T-korsning
- Sällstorp
+ KullagÃ¥rd
 					0,4 km/0,4 km	18 s/18 s
-Rondell Veddige Ö
- Veddige C
+Rondell Veddige Ã– (lokal vÃ¤g)
+ Idrottsplats, Ishall
 					1,3 km/1,2 km	52 s/48 s
-T-korsning Veddige NÖ
+T-korsning Veddige NÃ–
+ Veddige
 					1,3 km/1,3 km	52 s/52 s
-Rondell Järlöv
+Rondell JÃ¤rlÃ¶v
+ Ã„lgaslÃ¤tt
+ JÃ¤rlÃ¶v, StrÃ¤ngbetong (enskild vÃ¤g)
 					5,8 km/5,8 km	4 min 21 s/4 min 21 s
-Halland / Västra Götaland
+T-korsning (enskild vÃ¤g)
+ Viskadalens Djurklinik
+
+Halland / VÃ¤stra GÃ¶taland: (57.3191919,12.4289661)
 Varberg / Mark
 					0,6 km/0,6 km	31 s/31 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Viskadalsbanan
 					4,2 km/4,2 km	3 min 36 s/3 min 36 s
-T-korsning Horred stn
+Restaurang: Horreds grill och pizzeria)
+T-korsning Horreds MÃ¶bel AB)
+ (lokal vÃ¤g)
+					/)
+Korsning Horred stn
+ (Horred fd station)
+ LinnevÃ¤veriet Godsmot. (lokal vÃ¤g)
+					(/
+(Ekelund kontor
+(T-korsning Eklund (lokal vÃ¤g)
+ Ekelund Butik
 					0,2 km/0,2 km	14 s/14 s
 Korsning Horred C
+ Idala, HelsjÃ¶n, Horreds k:a
+Bensinstation: Horredstrafiken
 
 Etapp 3: Horred - Skene (19,8 km/19,9 km)
 					0,7 km/0,7 km	50 s/50 s
 Korsning Horred brandstn
-Statoil Horred
+ KungsÃ¤ter, Istorp
+ Rum, Jvg-stn
+Bensinstation: INGO
 					2,4 km/2,4 km	2 min 3 s/2 min 3 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Viskadalsbanan
 					0,5 km/0,5 km	26 s/26 s
 T-korsning Sundholmen
 					5,8 km/5,8 km	4 min 58 s/4 min 58 s
-T-korsning Björketorp S
+T-korsning BjÃ¶rketorp S
 					0,2 km/2,4 km	14 s/29 s
-T-korsning Björketorp C
-Björketorpskiosken
+T-korsning BjÃ¶rketorp C
+BjÃ¶rketorpskiosken
 					0,4 km/0,3 km	29 s/22 s
-OKQ8 Björketorp
+OKQ8 BjÃ¶rketorp
 					4,1 km/4,1 km	3 min 31 s/3 min 31 s
 Korsning Kila
- Enskild väg
+ Enskild vÃ¤g
 					0,9 km/0,9 km	41 s/41 s
 T-korsning Berghem S
 					0,7 km/0,7 km	32 s/32 s
-T-korsning Berghem Ö
+T-korsning Berghem Ã–
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
 Viskan
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
 Trp Skene
- 156 ö: Tranemo, Svenljunga
- 156 v: Göteborg, Hyssna,
+ 156 Ã¶: Tranemo, Svenljunga
+ 156 v: GÃ¶teborg, Hyssna,
         Skene
 
-Etapp 4: Skene - Kråkered (30,9 km/30,8 km)
+Etapp 4: Skene - KrÃ¥kered (30,9 km/30,8 km)
 					2,2 km/2,3 km	1 min 28 s/1 min 32 s
-Rastplats Häggån
+Rastplats HÃ¤ggÃ¥n
 					0,7 km/0,7 km	28 s/28 s
 Trp Hede
- Örby
+ Ã–rby
  Skene
 					1,2 km/1,2 km	48 s/48 s
 Trp Kinna
@@ -111,9 +146,9 @@ Trp Kinna
  Bensinstation: OKQ8
  Restaurang: McDonald's
 					1,7 km/1,5 km	1 min 8 s/1 min 0 s
-Häggån
+HÃ¤ggÃ¥n
 
-T-korsning Kinna NÖ
+T-korsning Kinna NÃ–
  Kinna C
 					6,2 km/6,1 km	4 min 8 s/4 min 4 s
 Trafikplats
@@ -123,9 +158,9 @@ Korsning Skephultsv.
  Skephult
  Fritsla
 					4,3 km/4,5 km	2 min 52 s/3 min 0 s
-T-korsning Ramslätt
+T-korsning RamslÃ¤tt
  Fritsla
-Mark / Borås
+Mark / BorÃ¥s
 					1,2 km/1,0 km	48 s/40 s
 T-korsning Flenstorp
  Skephult
@@ -133,7 +168,7 @@ T-korsning Flenstorp
 T-korsning Stenastorp
  Kinnarumma
 					2,8 km/3,2 km	1 min 52 s/2 min 8 s
-Trp Hyltenäs
+Trp HyltenÃ¤s
  Kinnarumma
  Viskafors
 					2,2 km/1,8 km	1 min 28 s/1 min 12 s
@@ -141,41 +176,41 @@ T-korsning
  Viskafors
 					3,1 km/3,2 km	2 min 4 s/2 min 8 s
 T-korsning Sobacken
- Lokalt mål
+ Lokalt mÃ¥l
 					4,0 km/3,9 km	2 min 40 s/2 min 36 s
-Trp Kråkered
+Trp KrÃ¥kered
  27 s: Karlskrona, Tranemo
- 27 n-[40 v]: Göteborg, Viared
+ 27 n-[40 v]: GÃ¶teborg, Viared
 
-Etapp 5: Kråkered - Borås ()
+Etapp 5: KrÃ¥kered - BorÃ¥s ()
 					0.8 km/0.6 km	41 s/31 s
-Rastplats Tranåssjön
+Rastplats TranÃ¥ssjÃ¶n
 					1.0 km/1.2 km	0 min 51 s/1 min 2 s
-T-korsning 41/Kråkeredsv.
+T-korsning 41/KrÃ¥keredsv.
 Rondell 41/Svedjeg.
- Lokala mål
+ Lokala mÃ¥l
 					0.7 km/0.7 km	42 s/42 s
 Rondell Hedvigsborg
  Bensinstation: Circle-K, Preem
 					0.3 km/0.5 km	18 s/30 s
-(Järnvägskorsning)
+(JÃ¤rnvÃ¤gskorsning)
  Kust-till-Kustbanan
-T-korsning 41/Gånghesterv.
- Dalsjöfors, Gånghester,
- Målsryd
+T-korsning 41/GÃ¥nghesterv.
+ DalsjÃ¶fors, GÃ¥nghester,
+ MÃ¥lsryd
 T-korsning 41/Trandaredsg.
- Lokala mål
+ Lokala mÃ¥l
 					0.5 km/0.7 km	30 s/42 s
-Rondell 41/Trandög.
- Lokala mål
+Rondell 41/TrandÃ¶g.
+ Lokala mÃ¥l
 Trafikplats
-(ej påfart nordgående)
+(ej pÃ¥fart nordgÃ¥ende)
  Textilmuseet
  Bensinstation: Preem, Shell
 					0.5 km/0.4 km	30 s/24 s
 Annelundsmotet (86)
- 40 ö: Jönköping, Ulricehamn
- 40 v: Göteborg
- 42: Trollhättan
- [180]: Alingsås
+ 40 Ã¶: JÃ¶nkÃ¶ping, Ulricehamn
+ 40 v: GÃ¶teborg
+ 42: TrollhÃ¤ttan
+ [180]: AlingsÃ¥s
  Centrum
