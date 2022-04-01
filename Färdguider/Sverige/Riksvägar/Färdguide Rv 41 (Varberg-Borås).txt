@@ -107,26 +107,54 @@ Korsning Horred brandstn
  Rum, Jvg-stn
 Bensinstation: INGO
 					2,4 km/2,4 km	2 min 3 s/2 min 3 s
+T-korsning (enskild väg)
+ Kilagården
+
 Järnvägskorsning
  Viskadalsbanan
 					0,5 km/0,5 km	26 s/26 s
 T-korsning Sundholmen
+ Torestorp, Öxnevalla
+ Hyltenäs kulle (sevärdhet), B&B
 					5,8 km/5,8 km	4 min 58 s/4 min 58 s
+(T-korsning Rv 41/Per Anders v.)
+ Skola, Förskola, Lokal väg
 T-korsning Björketorp S
+ Torestorp
 					0,2 km/2,4 km	14 s/29 s
 T-korsning Björketorp C
+ Östragärde, Kyrkoruin
 Björketorpskiosken
 					0,4 km/0,3 km	29 s/22 s
-OKQ8 Björketorp
+T-korsning Rv 41/Lundavägen (lokal väg)
+ Björketorps Resturang & Pizzeria
+Bensinstation: OKQ8
 					4,1 km/4,1 km	3 min 31 s/3 min 31 s
-Korsning Kila
- Enskild väg
+T-korsning Rv 41/Marknadsv. (enskild väg)
+ Swed Handling, Jacks Entreprenad
+
+T-korsning Heden (enskild väg)
+ Tiddly River Ranch
+
+Korsning Kila (enskild väg)
+ Kila
+ Hurtigsberg
 					0,9 km/0,9 km	41 s/41 s
 T-korsning Berghem S
+ Desarehult
+ Öresten, Lekvadd (sevärdhet)
+					(/
+(Infoplats (främst för nordgående)
 					0,7 km/0,7 km	32 s/32 s
 T-korsning Berghem Ö
+ [156 v]: Göteborg
+ Hajom, Berghem
+ Industri: Skene Väst
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
-Viskan
+(Korsning (enskild väg))
+ Ej skyltad
+
+Bro över Viskan
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
 Trp Skene
  156 ö: Tranemo, Svenljunga
@@ -141,12 +169,14 @@ Trp Hede
  Örby
  Skene
 					1,2 km/1,2 km	48 s/48 s
+(Bro över Häggån)
+
 Trp Kinna
  Rydal, Kinna C
  Bensinstation: OKQ8
  Restaurang: McDonald's
 					1,7 km/1,5 km	1 min 8 s/1 min 0 s
-Häggån
+Bro över Häggån
 
 T-korsning Kinna NÖ
  Kinna C
