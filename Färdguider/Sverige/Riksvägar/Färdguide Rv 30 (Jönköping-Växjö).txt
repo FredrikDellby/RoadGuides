@@ -170,8 +170,8 @@ Korsning Lammhult NV
 
 Etapp 5: Lammhult - Bredhult ()
 
-T-korsning Rv 30/Centrumgatan Lokal väg
- Centrum, (ej skyltad)
+T-korsning Rv 30/Centrumgatan
+ Centrum, (lokal väg, ej skyltad)
 					0,4 km/0,4 km	29 s/29 s
 (Järnvägsviadukt)
  Södra Stambanan
@@ -180,32 +180,79 @@ T-korsning Lammhults skola
  Asa, Vandrarhem
  Vårdcentral, Abstracta
 					3,8 km/3,9 km	3 min 48 s/3 min 54 s
+T-korsning Lammhultsbadet (lokal väg)
+T-korsning Norrgavel (lokal väg)
+ Parkering Norrgavel
+
+T-korsning Lammhults Möbel (lokal väg)
+ Lammhults Möbel syd
+					(/
+(Dubbel T-korsning Grevaryd (lokal väg)
+
+T-korsning Nyholmsvägen (lokal väg)
+ Oklart vart
+
+(T-korsning Fräjen (enskild väg))
+ Ugglehult
 Rastplats Fräjen
 					0,3 km/0,3 km	14 s/14 s
 T-korsning Håkanhult
  Aneboda
 					5,3 km/5,4 km	3 min 59 s/4 min 3 s
-Dubbel T-korsning Bredhult
- 126: Alvesta, Karlshamn
- Åby, Berg
+(T-korsning Bjursjö (enskild väg))
+ Bråt, Bjursjö
+
+T-korsning Slätthult (enskild väg)
+ Ridskola (endast skyltad sydgående)
+
+T-korsning+Korsning Bredhult
+ 126: Alvesta, Moheda
+ Rottne, Berg, Lädja
 
 Etapp 6: Bredhult - Växjö (23,1 km/23,4 km)
 					7,1 km/7,1 km	5 min 20 s/5 min 20 s
+T-korsning Silvatorp (enskild väg)
+ Svanås, Bergtäkt
+
 T-korsning Hylte
+ Musteryd
 					3,6 km/3,8 km	2 min 42 s/2 min 51 s
-Skogströms Lantcafé
-Bensinstation: Johansson
-Korsning Ör skola
+T-korsning Klockaregården (enskild väg)
+ Skogströms Lantcafé
+ Trädgård och Vackra ting
+(Bensinstation: Johnsson)
+
+Korsning Örs kyrka
+ Örs k:a
+ Åby
 					0,5 km/0,3 km	23 s/14 s
 T-korsning Ör södra
+ Moheda
 					9,0 km/9,0 km	6 min 45 s/6 min 45 s
+(T-korsning Sjögård Ör)
+ Sånnestorp, Enskild väg
+
+T-korsning Hågeryd (enskild väg)
+ Hågeryd, Naturreservat Hågeryd
+
+Korsning Tunatorp södra (enskild väg)
+ Återvinning jord och grus
+
+Korsning (lokal väg)
+ Motorbana
+
 T-korsning Härlövsvägen
+ Härlöv
 					1,3 km/1,3 km	59 s/59 s
-T-korsning Nylandavägen
- Växjö Flygplats
+Rondell Nylandavägen
+ Industri: Nylanda Ö
+ Småland Airport (Växjö Flygplats)
+ Hotell/Restaurang: Öjaby Herrgård
 					1,5 km/1,8 km	1 min 8 s/1 min 21 s
 Trafikplats Öjaby
  25 v: Halmstad, Ljungby
  27 v: Göteborg, Värnamo
- 25 ö: Kalmar, Växjö
+ 25 ö: Kalmar, Växjö Centrum
  27 ö: Karlskrona
+ [23 n]: Linköping, Vimmerby
+ [37]: Oskarshamn, Högsby

@@ -319,8 +319,8 @@ Kryss Ridabu (68)
 
 Etapp 9: Hamar - Sandvoll ()
 					1.8 km/1.5 km	1 min 21 s/1 min 8 s
-Sælid bru
- Flagstadelva, 41 m
+Sælid bru, 41 m
+ Flagstadelva
 
 Kryss Vien (69)
 (ej avfart sydgående)
@@ -336,7 +336,9 @@ Kryss Arnkvern (70)
 					2.1 km/1.9 km	1 min 35 s/1 min 26 s
 Kryss Nydal (71)
  Nydal
- Bensinstation: Statoil
+ IKEA Ringsaker
+ Bensinstation: Circle-K
+ Restaurang: 
 					6.4 km/6.3 km	4 min 48 s/4 min 44 s
 Kryss
 
@@ -367,8 +369,8 @@ Kryss Moelv (76)
  213 s: Stavsberg, Ringsaker
  Bensinstation: Shell
 					1.0 km/0.8 km	45 s/36 s
-(Brennerivika bru)
- Moelva, 41,5 m
+Brennerivika bru, 41,5 m
+ Moelva
 Moelvtunnelen (197 m)
 					0.5 km/0.3 km	23 s/14 s
 Mjøsbrua-øst
