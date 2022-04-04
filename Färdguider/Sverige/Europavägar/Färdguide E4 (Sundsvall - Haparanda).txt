@@ -6,7 +6,7 @@ Trp Skönsmon (225))
  E14: Trondheim, (Östersund)
  Centrum S, Resecentrum
  Industri: Kubikenborg
-
+					(/
 (Vägavgift Sundsvallsbron: (62.3819109,17.3523939 / 62.3819248,17.3519975)
 
 Sundsvallsbron-syd): 62.3819604,17.3522626
@@ -73,7 +73,7 @@ Trp Sörberge (233)
  (Bensinstation: Gulf)
  (Restaurang: Inez Gatukök, Sörbergegrillen, Pizzeria Cosmos)
 
-Etapp 29: Timrå - Härnösand ()
+Etapp 29: Timrå - Högsnäs ()
 
 Bro över Indalsälven (400 m)
 
@@ -152,6 +152,8 @@ Korsning Högsnäs
  Häggdånger K:a, Åvike
  Häggsjö (enskild väg)
 
+Etapp 30: Högsnäs - Härnösand ()
+
 T-korsning (enskild väg)
  Kammartjärn
 
@@ -171,15 +173,83 @@ Parkeringsplats (sydgående)
 
 Korsning Kittjärn (enskild väg)
  Vändplats, Kittjärn
+ Parkeringsplats (nordgående)
 
 Vändplats Lägdom (sydgående)
 
-Etapp 30: Härnösand - Mörtsal ()
+T-korsning (enskild väg)
+ Vändplats, Längom södra
 
-Etapp 31: Mörtsal - Gallsäter ()
+Dubbel T-korsning Fröland E4
+ Fälleberget, Värptjärn (enskild väg)
+ Säbrå k:a, Spishuset
+(2+1-väg upphör / börjar)
 
-Etapp 32: Gallsäter - Docksta ()
+T-korsning Gådeåbro E4 (enskild väg)
+ Svartvik, Ytterfälle
 
-Etapp 33: Docksta - Bjästa ()
+Bro över ...
 
-Etapp 34: Bjästa - Örnsköldsvik ()
+Korsning Lövudden (lokal väg)
+
+T-korsning Vårsta E4 (lokal väg)
+ Vårsta diakonigård
+
+(T-korsning E4/Fiskekroken)
+ Lokal väg, ej skyltad
+Korsning Härnösand Gulf E4
+ Närvård, Primärvårdsjour
+
+T-korsning Tullportsparken
+ Sida, Lokal väg
+
+Korsning Tullportsbacken
+ Industri: Kattastrand, Technichus
+ Näs, Industri: Baldeshage
+
+Trp Järnvägsgatan (238)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Parkering Centrum
+ Länsmuseum, Folkets Park
+
+Järnvägsviadukt)
+ Ådalsbanan
+					/)
+Trp Rosenhill (239)
+ Centrum (Parkering)
+ Länsmuseum
+
+Etapp 31: Härnösand - Mörtsal ()
+
+Trp Godstjärn (240)
+ Viksjö, Industri: Godstjärn
+ Bondsjö (Vandring)
+ Bensinstation: Circle-K
+ Hotell: Highway
+
+Avfart (nordgående)
+ Saltvik, Industri, Halkbana
+Påfart (sydgående)
+
+Trp Saltvik (241)
+ Industri: Djuphamnen, Saltvik
+ Bondsjöhöjden
+ Halkbana, Bilprovning, Länsmuseum
+
+T-korsning Saltvik E4
+ Saltvik
+
+T-korsning Norrstig E4
+ Säbrå K:a, Hembygdsgård
+
+T-korsning (enskild väg)
+ Norrstigsstrand
+
+Etapp 32: Mörtsal - Gallsäter ()
+
+Etapp 33: Gallsäter - Docksta ()
+
+Etapp 34: Docksta - Bjästa ()
+
+Etapp 35: Bjästa - Örnsköldsvik ()
