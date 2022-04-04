@@ -40,7 +40,8 @@ Trp Sörentorp (170)
 (avfart nordgående riktning
 påfart sydgående riktning)
 					0,6 km/2,1 km	0 min 27 s/1 min 35 s			
-Solna / Sollentuna
+(Solna / Sollentuna
+					(/
 Trafikplats Kista (171)
  E18 v: Oslo, Enköping
  279: Kista, Sundbyberg
@@ -187,7 +188,7 @@ Trp Gävle södra (197)
 Rastplats Gävle Bro (198)
  Bensinstation: Preem
 					2,6 km/2,9 km	1 min 34 s/1 min 44 s
-Trp Gävle västra (199)
+Trp Johanneslöt (Gävle västra) (199)
  Gävle V
  80: Falun, Sandviken
  56: Västerås
@@ -202,7 +203,7 @@ Parkeringsplats
 					6,8 km/6,6 km	4 min 5 s/3 min 58 s
 Bro över Testeboån
 					5,0 km/4,1 km	3 min 0 s/2 min 28 s
-Rastplats Skarvberget
+Parkering Skarvberget
 					12,7 km/14,1 km	7 min 37 s/8 min 28 s
 Trafikplats Hagsta (201)
  Hamrångefjärden, Bergby
@@ -213,15 +214,16 @@ Trafikplats Hagsta (201)
 Korsning Axmartavlan
  Bergby, Ljusne
 					5,5 km/6,1 km	3 min 40 s/4 min 4 s
-(Vändplats): 60.963792,17.0313868
+(Vändplats (nordgående)): 60.963792,17.0313868
 
 T-korsning (skyltad sydgående)
- Vändplats
+ Vändplats, Enskild väg
 
 Parkering Högbacka (nordgående)
 Rastplats Högbacka (sydgående)
 					0,8 km/0,3 km	32 s/12 s
 T-korsning Högbacka (enskild väg)
+(endast skyltad sydgående)
  Blåkulla
 					1,5 km/1,5 km	1 min 0 s/1 min 0 s
 T-korsning (enskild väg)
@@ -233,7 +235,7 @@ T-korsning (enskild väg)
 Gävle / Söderhamn: (61.0433036,16.9627531)
 (Bro över Björkångsån)
 					2,7 km/3,5 km	1 min 48 s/2 min 20 s
-(Vändplats): 61.0628524,16.9634729
+(Vändplats (sydgående)): 61.0628524,16.9634729
 
 Trp Tönnebro (203)
  83: Ljusdal, Järvsö, Bollnäs
@@ -242,7 +244,7 @@ Trp Tönnebro (203)
  Restaurang: Tönnebro Värdshus (Rasta)
 
 Etapp 23: Tönnebro - Söderhamn södra (26,7 km/26,2 km)
-(Vändplats): 61.0859341,16.9738173
+(Vändplats (nordgående)): 61.0859341,16.9738173
 					3.2 km/2.4 km	2 min 8 s/1 min 36 s
 Korsning (enskild väg)
  Vändplats
@@ -281,6 +283,7 @@ Korsning (enskild väg)
 
 Bro över Ljusnan (200 m)
 					1.1 km/0.8 km	44 s/32 s
+Infoplats (nordgående)Info
 (Väghållningsplats (sydgående))
 
 Trp Höljebro (205)
