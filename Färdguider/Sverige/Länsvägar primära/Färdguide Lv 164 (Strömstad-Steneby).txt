@@ -3,57 +3,89 @@
 
 Etapp 1: Strömstad - Skee (5,5 km/6,0 km)
 
-Färjeterminal
- Färja: [E18], Sandefjord
+T-korsning Färjeterminal
+ Färja: Sandefjord, [E18 v]
 					0,7 km/0,6 km	42 s/36 s
-Korsning 164/Trädgårdsg.
+Korsning Lv 164/Trädgårdsg. (lokal väg)
+ Myrens varv
+ Myrens ind. omr.
 					0,5 km/0,5 km	30 s/30 s
 Strömstads Camping
 					0,3 km/0,4 km	18 s/24 s
 Rondell Hålkedalen
+ Seläter
+ Saltö, Tjärnö
+ Camping, Badplats, Golfbana
+ Strömstad spa, Återvinningscentral
 					1,5 km/1,5 km	1 min 17 s/1 min 17 s
-T-korsning 164/Drivnäsvägen
+T-korsning Lv 164/Drivnäsvägen (lokal väg)
+ Industri: Prästängen
 					1,8 km/1,8 km	1 min 33 s/1 min 33 s
 Järnvägsbro
  Bohusbanan
 					0,7 km/1,3 km	0 min 36 s/1 min 7 s
-Strömstadsmotet
+Strömstadsmotet-väst
  E6 s: Göteborg, Uddevalla
+
+Strömstadsmotet-öst
  E6 n: Oslo, Svinesund
 
 Etapp 2: Skee - Holkekärr (28,4 km/27,7 km)
 					1,8 km/1,2 km	2 min 10 s/1 min 26 s
 Rondell Skee station
-Bensinstation: Statoil
+ Båleröd, [E6 s]: Göteborg
+Restaurang: Trepca Pizzeria, kiosk
 					0,5 km/0,4 km	36 s/29 s
 Korsning Skee östra
+ Krokstrand, Skee k:a
+ Industri, Elbilsladdning
 					5,6 km/5,6 km	4 min 48 s/4 min 48 s
 Korsning Skärje
+ Håvedalen
 					0,9 km/0,9 km	46 s/46 s
+T-korsning (enskild väg)
+ MC-delar, Trångkas
+
 T-korsning Norra Valex
+ Varp
 					4,8 km/4,8 km	4 min 7 s/4 min 7 s
 T-korsning Lytorp
+ Björke
 					2,4 km/2,7 km	2 min 3 s/2 min 19 s
+T-korsning Rämne
+ Lur
+
 T-korsning
-Strömstad / Tanum
-T-korsning
+ Taumshede
+Strömstad / Tanum: (58.8441303,11.3969919)
 					6,6 km/6,3 km	5 min 39 s/5 min 24 s
+T-korsning (enskild väg)
+ Fågelås
+
 T-korsning Lille Län
+ Vassbotten
 					5,8 km/5,8 km	4 min 58 s/4 min 58 s
+T-korsning (enskild väg)
+ Djurpark, Konstcafé, Fiskevatten
+
 T-korsning Holkekärr
  165 n: Halden
 
 Etapp 3: Holkekärr - Mon (23,2 km/23,2 km)
 					4,0 km/4,0 km	3 min 26 s/3 min 26 s
+(Bro över )
 Dubbel T-korsning Backa
- Sk
- 165 s: Munkedal, Hällevadsholm
+ Bullareby, Skola, Bibliotek
+ 165 s: Hällevadsholm, Tanumshede
 					0,6 km/0,5 km	27 s/23 s
-Långevallsälven
+Bro över Långevallsälven
 					0,7 km/0,7 km	32 s/32 s
 Korsning Klageröd
+ Sundshult
 					4,4 km/4,4 km	3 min 18 s/3 min 18 s
-Korsning
+Korsning Fagerhult
+ Fagerhults kapell
+ Älelien
 					6,8 km/6,9 km	5 min 6 s/5 min 11 s
 Tanum / Dals-Ed
 T-korsning Loviseholm
