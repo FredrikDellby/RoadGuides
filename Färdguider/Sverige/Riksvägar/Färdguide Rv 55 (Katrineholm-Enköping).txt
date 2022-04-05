@@ -1,155 +1,256 @@
-Färdguide Rv 55 (Katrineholm - Enköping)
+FÃ¤rdguide Rv 55 (Katrineholm - EnkÃ¶ping)
 =========================================
 
-Etapp 3: Katrineholm - Flen (24,4 km/24,6 km)
+Etapp 3: Katrineholm - SkÃ¶ldinge (24,4 km/24,6 km)
 
 Rondell Rv 52/55/56/57
 					6.8 km/6.7 km	5 min 6 s/5 min 2 s
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Stenatorp, Brukshundklubb
-Infopunkt (sydgående)
+Infopunkt (sydgÃ¥ende)
 
-Korsning Sågmon (enskild väg)
- Sågstugan
- Sågmon
+Korsning SÃ¥gmon (enskild vÃ¤g)
+ SÃ¥gstugan
+ SÃ¥gmon
 
-T-korsning Högbergsstugan (enskild väg)
-(ej förskyltad sydgående)
+T-korsning HÃ¶gbergsstugan (enskild vÃ¤g)
+(ej fÃ¶rskyltad sydgÃ¥ende)
  Solstugan
 
-Dubbel T-korsning Högberga (enskild väg)
- Kärrsätter
- Högberga
+Dubbel T-korsning HÃ¶gberga (enskild vÃ¤g)
+ KÃ¤rrsÃ¤tter
+ HÃ¶gberga
 
-Korsning Sjögetorp (enskild väg)
- Sjögetorp
+Korsning SjÃ¶getorp (enskild vÃ¤g)
+ SjÃ¶getorp
  Grindstugan, Vallavagnen
  Snickeri, Smide
 
-T-korsning Åsen (enskild väg)
+T-korsning Ã…sen (enskild vÃ¤g)
  Bildemontering
 
-Korsning Gunnarsdal (enskild väg)
+Korsning Gunnarsdal (enskild vÃ¤g)
  Gunnarsdal
  Bensinstation: Q-star
  Restaurang: Ny valla Restaurang
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-Korsning Valla väst
+Korsning Valla vÃ¤st
  Valla
- Hägerbo (enskild väg)
+ HÃ¤gerbo (enskild vÃ¤g)
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
-Korsning Fyrökorset
+Korsning FyrÃ¶korset
  Valla
- (Hälleforsnäs), Flodafors, Floda kyrka
+ (HÃ¤lleforsnÃ¤s), Flodafors, Floda kyrka
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
-Korsning Sköldinge väst
- Sköldinge, Vadsbro
+Korsning SkÃ¶ldinge vÃ¤st
+ SkÃ¶ldinge, Vadsbro
  Floda
+
+Etapp 4: SkÃ¶ldinge - Flen ()
 					1.0 km/1.0 km	45 s/45 s
-Korsning Sköldinge öst
- Sköldinge
+Korsning SkÃ¶ldinge Ã¶st
+ SkÃ¶ldinge
 					2.3 km/2.4 km	1 min 43 s/1 min 48 s
-Dubbel T-korsning Gnallen (enskild väg)
+Dubbel T-korsning Gnallen (enskild vÃ¤g)
  Gnallen
  Oxhagsstugan
 
-Rastplats Gnallen (sydgående)
+Rastplats Gnallen (sydgÃ¥ende)
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
-T-korsning Holbonäs (enskild väg)
- Holbonäs
+T-korsning HolbonÃ¤s (enskild vÃ¤g)
+ HolbonÃ¤s
 
-T-korsning (enskild väg)
- Ulvnäset
+T-korsning (enskild vÃ¤g)
+ UlvnÃ¤set
 
-Järnvägsviadukt
- Västra Stambanan
+JÃ¤rnvÃ¤gsviadukt
+ VÃ¤stra Stambanan
 
 Katrineholm / Flen
 (Varbron)
 					0.5 km/0.5 km	23 s/23 s
 Rastplats Stenhammars Skans
-(nordgående riktning)
+(nordgÃ¥ende riktning)
 					2.2 km/2.0 km	1 min 39 s/1 min 30 s
 Dubbel T-korsning Lidastugan
- Årsta
-(2+1-väg upphör/börjar)
+ Ã…rsta
+(2+1-vÃ¤g upphÃ¶r/bÃ¶rjar)
 					0.6 km/0.6 km	27 s/27 s
-(Järnvägsviadukt)
+(JÃ¤rnvÃ¤gsviadukt)
  TJOG-banan
 T-korsning Margreteberg
- 221: Nyköping, Bettna
+ 221: NykÃ¶ping, Bettna
  Flens Golfklubb
 					1.8 km/1.7 km	1 min 33 s/1 min 27 s
-T-korsning Öja (lokal väg)
- Öja Industri
+T-korsning Ã–ja (lokal vÃ¤g)
+ Ã–ja Industri
 (Sinbad pizzeria & kolgrill)
 
 Dubbel T-korsning Flens kyrka
- Brukshundklubb (enskild väg)
+ Brukshundklubb (enskild vÃ¤g)
  Flens kyrka
 
 Rondell Flensby
  Flen Centrum
  Bensinstation: Circle-K, OKQ8, Preem
 					1.5 km/1.7 km	1 min 48 s/2 min 2 s
-T-korsning Rv 55/Sollidsvägen
- Lokal väg (ej skyltad)
- Restaurang: Kungsvägskiosken
+T-korsning Rv 55/SollidsvÃ¤gen
+ Lokal vÃ¤g (ej skyltad)
+ Restaurang: KungsvÃ¤gskiosken
+
+AB Momento
 
 Korsning
  Forssa
 T-korsning
- 57: Södertälje, Gnesta
+ 57: SÃ¶dertÃ¤lje, Gnesta
 
-Etapp 4: Flen - Strängnäs ()
+Etapp 5: Flen - MalmkÃ¶ping ()
 
+(JÃ¤rnvÃ¤gsviadukt)
+ VÃ¤stra Stambanan
+T-korsning (enskild vÃ¤g)
+ BronÃ¤s, Skylt & Reklam
+
+T-korsning (lokal vÃ¤g)
+ Ã…tervinningscentral
+
+T-korsning Rv 55/TaljavÃ¤gen (lokal vÃ¤g)
+ Industri: Talja S, Ekborgen IP
+
+T-korsning Rv 55/BlockvÃ¤gen (lokal vÃ¤g)
+ Industri: Talja N
+
+T-korsning Finntorp
+ HÃ¤lleforsnÃ¤s, Flen
+ Parkering Farligt Gods
+
+T-korsning Finntorp (enskild vÃ¤g)
+ Finntorp, Ridskola, AnsgarsgÃ¥rden
+
+T-korsning Yxtaholm (enskild vÃ¤g)
+ Yxtaholms Slott
+
+Korsning Sveaborg
+ BarrÃ¶ (enskild vÃ¤g)
+ Stav
+
+Korsning Solberga (enskild vÃ¤g)
+ Oklar skyltning
+
+Korsning KvarnÃ¤ng
+ Fornbo, S RÃ¤mna (enskild vÃ¤g)
+ RÃ¶kÃ¤rr (enskild vÃ¤g)
+
+(Bro Ã¶ver RÃ¶kÃ¤rrsÃ¥n)
+
+Korsning (enskild vÃ¤g)
+ HÃ¶kÃ¤rr
+
+Korsning HÃ¶rnstugan
+ Fornbo
+ HÃ¶rnstugan (enskild vÃ¤g)
+
+Korsning Grinda (enskild vÃ¤g)
+(endast fÃ¶rskyltad nordgÃ¥ende)
+ Grinda, GlasscafÃ©
+ BergtÃ¤kt
+
+Korsning Smedstorp (enskild vÃ¤g)
+ Grinda, GlasscafÃ©
+ Smedstorp
+
+Rondell MalmkÃ¶ping N
+ 53 s: NykÃ¶ping
+ MalmkÃ¶ping
+ Bensinstation: INGO
+ MalmkÃ¶pings Bad & Camping
+					(/
+(Trafikkontrollplats
+
+Rondell Lilla Picket
+ 53 n: Eskilstuna
+ MalmkÃ¶ping
+ MalmkÃ¶pings Bad & Camping
+
+Etapp 6: MalmkÃ¶ping - StrÃ¤ngnÃ¤s ()
+
+Korsning HosjÃ¶ (enskild vÃ¤g)
+ MuseispÃ¥rvÃ¤g Parkering
+ Smedsta, Rum och fru
+
+T-korsning (enskild vÃ¤g)
+ Hagalund (ej fÃ¶rskyltad)
+
+T-korsning RÃ¶l
+ Ekeby, RÃ¶l
+
+T-korsning StjÃ¤rnhovsvÃ¤gen
+ StjÃ¤rnhov
+
+T-korsning Sandbacken (enskild vÃ¤g)
+ Sandbacken
+
+Korsning Dunker vÃ¤gskÃ¤l
+ Ã…nhammar, Dunker k:a, Idr. plats
+ Dunker, Grustag
+
+T-korsning HÃ¶gsten
+ Ã„rla, EklÃ¥ngen, StÃ¥lboga
+
+T-korsning BjÃ¶rndammen
+ Masugn (sevÃ¤rdhet)
+					(/
+(Infoplats
 Trp Biskopskvarn (137)
- E20 ö: Stockholm, Södertälje
- Strängnäs Centrum
+ E20 Ã¶: Stockholm, SÃ¶dertÃ¤lje
+ StrÃ¤ngnÃ¤s Centrum
 
-Etapp 5: Strängnäs - Länsgränsen (25,3 km/24,9 km)
+Flen / StrÃ¤ngnÃ¤s: (59.2174526,16.8784661)
+
+Etapp 7: StrÃ¤ngnÃ¤s - AspÃ¶ (25,3 km/24,9 km)
 					6.2 km/6.7 km	3 min 43 s/4 min 1 s
 Trafikplats Lunda (136)
- E20 ö: Göteborg, Eskilstuna
+ E20 Ã¶: GÃ¶teborg, Eskilstuna
 					1.5 km/1.2 km	1 min 0 s/0 min 48 s
 T-korsning
- Härad
+ HÃ¤rad
 					0.9 km/0.8 km	36 s/32 s
-Trp Sankt Eskils källa
- Strängnäs
+Trp Sankt Eskils kÃ¤lla
+ StrÃ¤ngnÃ¤s
 					1.6 km/0.9 km	1 min 4 s/0 min 36 s
 Trp Eldsund
- Strängnäs
- Fogdö
+ StrÃ¤ngnÃ¤s
+ FogdÃ¶
 					0.9 km/1.0 km	36 s/40 s
-Strängnäsbron-syd
+StrÃ¤ngnÃ¤sbron-syd
  1164 m
 					1.2 km/1.3 km	48 s/52 s
-(Strängnäsbron-nord)
-Rastplats Strängnäsbron
+(StrÃ¤ngnÃ¤sbron-nord)
+Rastplats StrÃ¤ngnÃ¤sbron
 					0.9 km/0.4 km	36 s/16 s
 Trafikplats
  Aborrberget
 					5.3 km/5.7 km	3 min 32 s/3 min 48 s
-T-korsning Morranövägen
- Morrarö
+T-korsning MorranÃ¶vÃ¤gen
+ MorrarÃ¶
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
 T-korsning
- Aspö, Arnö
+ AspÃ¶, ArnÃ¶
 					3.9 km/4.1 km	2 min 56 s/3 min 5 s
-Vall till Märsön
-(Södermanland / Uppsala)
-(Strängnäs / Enköping)
+Etapp 8: AspÃ¶ - EnkÃ¶ping (15,3 km/15,3 km)
 
-Etapp 6: Länsgränsen - Enköping (15,3 km/15,3 km)
+Vall till MÃ¤rsÃ¶n
+(SÃ¶dermanland / Uppsala)
+(StrÃ¤ngnÃ¤s / EnkÃ¶ping)
 					1.6 km/1.4 km	1 min 22 s/1 min 12 s
 Hjulstabron-nord
  1000 m
 					1.1 km/1.0 km	57 s/51 s
 Hjulstabron-syd
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
-Korsning Enköpings-Näs
- Enköpings-Näs kyrka
+Korsning EnkÃ¶pings-NÃ¤s
+ EnkÃ¶pings-NÃ¤s kyrka
 					3.0 km/3.0 km	2 min 34 s/2 min 34 s
 T-korsning Huseby
  Teda
@@ -157,19 +258,19 @@ T-korsning Huseby
 T-korsning Svinnegarn
  Hummelsta
 					3.8 km/3.8 km	3 min 15 s/3 min 15 s
-T-korsning Haga vägskäl
+T-korsning Haga vÃ¤gskÃ¤l
  Haga
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
 Korsning Rv55/Kungsgatan
- Enköping Centrum
+ EnkÃ¶ping Centrum
 					0.5 km/0.6 km	26 s/31 s
-T-korsning Storängen
+T-korsning StorÃ¤ngen
  Hummelsta
 
 Rondell
- Enköping Centrum
+ EnkÃ¶ping Centrum
 
-Trp Enögla (141)
- E18 ö: Stockholm
+Trp EnÃ¶gla (141)
+ E18 Ã¶: Stockholm
  55 n: Uppsala
- E18 v: Oslo, Västerås
+ E18 v: Oslo, VÃ¤sterÃ¥s
