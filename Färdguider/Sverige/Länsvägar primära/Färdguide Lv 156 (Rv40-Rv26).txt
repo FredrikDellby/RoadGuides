@@ -1,52 +1,74 @@
-F‰rdguide Lv 156 (Rv 40 - Rv 26)
-=================================
+F√§rdguide Lv 156 (Hind√•s/Rv 40 - Rv 26/Norra Unnaryd
+=====================================================
 
-Etapp 1: Rv 40 - Skene v‰st (29,1 km/28,6 km)
+Etapp 1: Rv 40 - Skene v√§st (29,1 km/28,6 km)
 
-Ryamotet (78)
- 40 v: Gˆteborg
- 40 ˆ: Jˆnkˆping, BorÂs
-T-korsning
- H‰rryda, Eskilsby
-				7,8 km/7,4 km
-T-korsning Eriksmyst
- Lindome, H‰llesÂer
+Ryamotet-nord
+ 40 v: G√∂teborg
+
+Ryamotet-syd
+ 40 √∂: J√∂nk√∂ping, Bor√•s
+T-korsning Stora √ñvattnet
+ H√§rryda, Eskilsby
+					7,8 km/7,4 km
+Korsning Huvdaby (enskild v√§g)
+ H Karlssons byggvaruhus
+T-korsning (enskild v√§g)
+ S√∂rtorpag√•rden, Lines Hundskola
+
+T-korsning Buasj√∂n (enskild v√§g)
+ Bua S√∂dra, Du & Din Hund
+
+T-korsning Bug√§rde (enskild v√§g)
+ Stora Bug√§rde
+Korsning Bug√§rde (enskild v√§g)
+ Katrinefors, Wirator
+
+Korsning K√•hult (enskild v√§g)
+ H√§llingsj√∂ hus produktion
+
+T-korsning Lerviksv√§gen (enskild v√§g)
+ Lervik, Kattpensionat
+
+(Dubbel) T-korsning Eriksmyst
+ Lindome, H√§lles√•er
+ Eriksmyst (enskild v√§g)
 				0,8 km/0,9 km
-T-korsning H‰llingsjˆ
+T-korsning H√§llingsj√∂
  Kungsbacka
-T-korsning K‰llarbacken
- R‰vlanda, Bollebygd
+T-korsning K√§llarbacken
+ R√§vlanda, Bollebygd
 				1,1 km/1,0 km
-H‰rryda / Mark
+H√§rryda / Mark
 				1,6 km/1,6 km
-T-korsning K‰rra
- S‰tila, Fj‰rÂs
+T-korsning K√§rra
+ S√§tila, Fj√§r√•s
 				1,4 km/1,4 km
-Korsning Bjˆrlanda Kinna
- S‰tila
- R‰vlanda
+Korsning Bj√∂rlanda Kinna
+ S√§tila
+ R√§vlanda
 				2,3 km/2,3 km
-T-korsning H‰rsjˆn
- BosgÂrden
+T-korsning H√§rsj√∂n
+ Bosg√•rden
 				3,6 km/3,6 km
 Korsning Sandvad
- S‰tila
+ S√§tila
  Hyssna, Bollebygd
 				4,3 km/4,3 km
 T-korsning Hjorttorps Hede
  Friared
 				0,9 km/0,9 km
 Korsning Hjorttorp
- Hajom, Fotsk‰l, Berghem
+ Hajom, Fotsk√§l, Berghem
 				5,3 km/5,3 km
-T-korsning Skene v‰st
+T-korsning Skene v√§st
  [41]: Varberg, Berghem
 
 Etapp 2: Skene - Trp Skene ()
 
 T-korsning Skene centrum
 
-J‰rnv‰gskorsning
+J√§rnv√§gskorsning
 
 Trafikplats
 T-korsning
