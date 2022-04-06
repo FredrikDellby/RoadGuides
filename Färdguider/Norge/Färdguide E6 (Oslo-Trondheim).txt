@@ -300,14 +300,16 @@ Rasteplass Kolomoen
 (sydgående riktning)
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
 Uthuskrysset (66)
- 24: Skarnes, Gata
- Stange
+ 24 s: Skarnes, Gata
+ Romedal
+ 24 n: Stange
 
 Jønsberg bomstasjon
+ 24/48 kr.
 					9.2 km/9.5 km	6 min 54 s/7 min 8 s
 Kåterudkrysset (67)
- 222: Ottestad, Bekkelaget
- Ilseng
+ Hjellum
+ Ottestad
 					0.8 km/0.4 km	36 s/18 s
 (Stange / Hamar: (60.7915917,11.1241122)
 					(/
@@ -316,10 +318,11 @@ Kåterudkrysset (67)
 Stange / Hamar): (60.795243,11.1221291)
 					0.8 km/1.2 km	36 s/54 s
 Kryss Ridabu (68)
- 25: Elverum, Løten
- Hamar-Sentrum
+ 25 ø: Elverum, Løten
+ 25 v: Hamar-Sentrum
+ Olympiahallen
 
-Etapp 9: Hamar - Sandvoll ()
+Etapp 9: Hamar - Brumunddal ()
 					1.8 km/1.5 km	1 min 21 s/1 min 8 s
 Sælid bru (41 m)
  Flagstadelva
@@ -329,6 +332,7 @@ Kryss Vien (69)
  224: Hamar-Sentrum
 					1.6 km/1.5 km	1 min 12 s/1 min 8 s
 Vien bomstasjon
+ 19/38 kr.
 
 (Avfart (69) (sydgående)
  224: Hamar-Sentrum
@@ -347,13 +351,23 @@ Kryss Nydal (71)
 					6.4 km/6.3 km	4 min 48 s/4 min 44 s
 Kryss Bergshøgda (72)
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
-Kryss Brumunddal (73)
+(Bergshøgda bomstasjon)
+ 19/38 kr.
+
+(Nederkvern bru (41 m)
+ Brumunda
+					(/
+Brumunddalkrysset (73)
  Brumunddal
  Bensinstation: Esso
-					1.2 km/1.0 km	54 s/45 s
-					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+					5.0 km/4.8 km	2 min 51 s/2 min 51 s
+Etapp 10: Brumunddal - Sandvoll ()
+
 Kryss Økelsrud (74)
 					2.5 km/2.8 km	1 min 53 s/2 min 6 s
+(Økelsrud bomstasjon)
+ 19/38 kr.
+
 Kryss Rudshøgda (75)
  Prøysenhuset
  Bensinstation: YX
@@ -381,7 +395,7 @@ Mjøsbrua-øst
 Rondell Sandvoll
  4: Gjøvik
 
-Etapp 10: Sandvoll - Lillehammer ()
+Etapp 11: Sandvoll - Lillehammer ()
 
 Rasteplass Biri
 
@@ -392,7 +406,8 @@ Kryss Biri (78)
 
 Strandengen bru (Kalverudelva, 56 m)
 
-Rasteplass (nordgående))
+Rasteplass Strandengen)
+(nordgående retning)
 
 Gjøvik / Lillehammer
 
