@@ -309,9 +309,11 @@ Kåterudkrysset (67)
  222: Ottestad, Bekkelaget
  Ilseng
 					0.8 km/0.4 km	36 s/18 s
-(Svartelva bru)
+(Stange / Hamar: (60.7915917,11.1241122)
+					(/
+(Svartelva bru
  Svartelva, 49 m
-Stange / Hamar
+Stange / Hamar): (60.795243,11.1221291)
 					0.8 km/1.2 km	36 s/54 s
 Kryss Ridabu (68)
  25: Elverum, Løten
@@ -319,17 +321,20 @@ Kryss Ridabu (68)
 
 Etapp 9: Hamar - Sandvoll ()
 					1.8 km/1.5 km	1 min 21 s/1 min 8 s
-Sælid bru, 41 m
+Sælid bru (41 m)
  Flagstadelva
 
 Kryss Vien (69)
 (ej avfart sydgående)
  224: Hamar-Sentrum
 					1.6 km/1.5 km	1 min 12 s/1 min 8 s
-Avfart (69) (sydgående)
+Vien bomstasjon
+
+(Avfart (69) (sydgående)
  224: Hamar-Sentrum
 					0.7 km/1.4 km	0 min 31 s/1 min 3 s
-Hamar / Ringsaker
+Hamar / Ringsaker: (60.8296224,11.0870902)
+
 Kryss Arnkvern (70)
  Kårtorp, Hamar Flyplass
  Bensinstation: YX
@@ -340,16 +345,12 @@ Kryss Nydal (71)
  Bensinstation: Circle-K
  Restaurang: 
 					6.4 km/6.3 km	4 min 48 s/4 min 44 s
-Kryss
-
-Rasteplass Brumunddal
+Kryss Bergshøgda (72)
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
-Kryss Brumunddal (72)
+Kryss Brumunddal (73)
  Brumunddal
  Bensinstation: Esso
 					1.2 km/1.0 km	54 s/45 s
-Kryss Pellervika (73)
- 212: Stavsberg
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
 Kryss Økelsrud (74)
 					2.5 km/2.8 km	1 min 53 s/2 min 6 s
@@ -357,11 +358,9 @@ Kryss Rudshøgda (75)
  Prøysenhuset
  Bensinstation: YX
 					1.0 km/0.7 km	45 s/31 s
-Rasteplass (nordgående)
 					1.3 km/1.3 km	59 s/59 s
-Rasteplass (sydgående)
 					3.1 km/3.3 km	2 min 20 s/2 min 28 s
-80 km/h / 70 km/h
+(80 km/h / 70 km/h)
 Skarpsnotunnelen (310 m)
 					1.2 km/1.2 km	54 s/54 s
 Kryss Moelv (76)
@@ -371,7 +370,8 @@ Kryss Moelv (76)
 					1.0 km/0.8 km	45 s/36 s
 Brennerivika bru, 41,5 m
  Moelva
-Moelvtunnelen (197 m)
+					(/
+(Moelvtunnelen (197 m)
 					0.5 km/0.3 km	23 s/14 s
 Mjøsbrua-øst
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
@@ -392,10 +392,7 @@ Kryss Biri (77)
 
 Strandengen bru (Kalverudelva, 56 m)
 
-Rasteplass Strandengen
-(nordgående riktning)
-
-Parkering (nordgående)
+Rasteplass (nordgående))
 
 Gjøvik / Lillehammer
 
@@ -404,19 +401,25 @@ Vingrom bru (Rinda, 36 m)
 Kryss Vingrom (78)
  250: Dokka
 
-Rasteplass Vingrom kirke
-(nordgående riktning)
+(Trafikkontrollplass
+(sydgående retning)
 
-(80 km/h / 70 km/h)
+Rasteplass Vingrom kirke)
+(nordgående retning)
+
+(80 km/h / 70 km/h
+					(/
 Kryss Vingnes (79)
  253: Jørstadmoen
  [255]: Gausdal
  Bensinstasjon: HydroTexaco
  Restaurang: Bjørn's Kro
-(Lillehammer bru-syd)
+					/)
+Lillehammer bru-syd)
  Mjøsa, 544 m
 
-(Lillehamer bru-nord)
+(Lillehamer bru-nord
+					(/
 Kryss Strandtorget (80)
  [213]: Vårsætergrenda
  [216]: Moelv
@@ -429,6 +432,8 @@ Kryss Lillehammer N (81)
  Bensinstasjon: Esso
  Restaurang: By-the-way
 
+70 km/h / 80 km/h
+
 Kryss Storhove (82)
  255: Skåbu, Gausdal
 
@@ -436,28 +441,31 @@ Lillehammer / Øyer
 
 Kryss Einsby (84)
 
+(80 km/h / 90 km/h)
+
 Kryss Grandrudmoen (85)
  Bensinstasjon: Esso, Uno-X
 
 Kryss Tingberg (86)
-(Tingberg bomstasjon)
 
-Avfart+Påfart
-(avfart nordgående riktning
-påfart sydgående riktning)
+Tingberg bomstasjon
+
+(T-korsning (nordgående))
 
 Kryss Skarsmoen
-(ej avfart nordgående)
+(bom/ej avrampe nordgående)
  Øyer kontrollstasjon
-(Øyertunnelen-syd)
+					/)
+Øyertunnelen-syd)
  3873 m
 
-(Øyertunnelen-nord)
+(Øyertunnelen-nord
+					(/
 Kryss Holmen (87)
  Tretten
  254: Gausdal
  Bensinstasjon: Circle-K, Shell
 
-T-korsning E6/Kongsvegen
+T-korsning Bådstø
  Tretten
  Restaurang: Tretten Kro
