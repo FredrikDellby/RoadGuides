@@ -318,7 +318,7 @@ Kåterudkrysset (67)
 Stange / Hamar): (60.795243,11.1221291)
 					0.8 km/1.2 km	36 s/54 s
 Kryss Ridabu (68)
- 25 ø: Elverum, Løten
+ 25 ø: Elverum, (Løten)
  25 v: Hamar-Sentrum
  Olympiahallen
 
@@ -371,9 +371,7 @@ Kryss Økelsrud (74)
 Kryss Rudshøgda (75)
  Prøysenhuset
  Bensinstation: YX
-					1.0 km/0.7 km	45 s/31 s
-					1.3 km/1.3 km	59 s/59 s
-					3.1 km/3.3 km	2 min 20 s/2 min 28 s
+					5.4 km/5.3 km	4 min 4 s/3 min 58 s
 Skarpsnotunnelen (310 m)
 (110 km/h / 70 km/h)
 					1.2 km/1.2 km	54 s/54 s
