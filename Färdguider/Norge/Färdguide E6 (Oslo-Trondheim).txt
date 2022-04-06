@@ -360,8 +360,8 @@ Kryss Rudshøgda (75)
 					1.0 km/0.7 km	45 s/31 s
 					1.3 km/1.3 km	59 s/59 s
 					3.1 km/3.3 km	2 min 20 s/2 min 28 s
-(80 km/h / 70 km/h)
 Skarpsnotunnelen (310 m)
+(110 km/h / 70 km/h)
 					1.2 km/1.2 km	54 s/54 s
 Kryss Moelv (76)
  213 n: Moelv
@@ -385,9 +385,9 @@ Etapp 10: Sandvoll - Lillehammer ()
 
 Rasteplass Biri
 
-70 km/h / 80 km/h
+70 km/h / 80 km/h: (60.9367601,10.6482233)
 
-Kryss Biri (77)
+Kryss Biri (78)
  Bensinstasjon: Shell
 
 Strandengen bru (Kalverudelva, 56 m)
@@ -398,7 +398,7 @@ Gjøvik / Lillehammer
 
 Vingrom bru (Rinda, 36 m)
 
-Kryss Vingrom (78)
+Kryss Vingrom (79)
  250: Dokka
 
 (Trafikkontrollplass
@@ -407,9 +407,9 @@ Kryss Vingrom (78)
 Rasteplass Vingrom kirke)
 (nordgående retning)
 
-(80 km/h / 70 km/h
+(80 km/h / 70 km/h: (61.1036487,10.4407697)
 					(/
-Kryss Vingnes (79)
+Kryss Vingnes (80)
  253: Jørstadmoen
  [255]: Gausdal
  Bensinstasjon: HydroTexaco
@@ -420,21 +420,21 @@ Lillehammer bru-syd)
 
 (Lillehamer bru-nord
 					(/
-Kryss Strandtorget (80)
+Kryss Strandtorget (81)
  [213]: Vårsætergrenda
  [216]: Moelv
  Bensinstasjon: Statoil
 
 Mosoddentunnelen (212 m)
 
-Kryss Lillehammer N (81)
+Kryss Lillehammer N (82)
  213: Lillehammer-Sentrum
  Bensinstasjon: Esso
  Restaurang: By-the-way
 
-70 km/h / 80 km/h
+70 km/h / 80 km/h: (61.1348518,10.4252732)
 
-Kryss Storhove (82)
+Kryss Storhove (83)
  255: Skåbu, Gausdal
 
 Lillehammer / Øyer
@@ -452,6 +452,8 @@ Tingberg bomstasjon
 
 (T-korsning (nordgående))
 
+(90 km/h / 80 km/h: (61.278449,10.3551129)
+					(/
 Kryss Skarsmoen
 (bom/ej avrampe nordgående)
  Øyer kontrollstasjon
@@ -469,3 +471,60 @@ Kryss Holmen (87)
 T-korsning Bådstø
  Tretten
  Restaurang: Tretten Kro
+
+T-korsning Ledumsgrinda E6
+(Bru over Vedemselva)
+
+Mageli Camping og Hytter
+
+(Bru over Rolla)
+
+Øyer / Ringebu: (61.3755605,10.2778508)
+
+Rasteplass Krekke (skiltet sydgående)
+T-korsning Krekkevika
+ Fv2566: Goppollen, Fjøssystemer
+
+T-korsning Odden
+ Fv2566: Goppollen
+
+(Dubbel T-korsning Smidesang)
+(ikke skiltet)
+
+T-korsning E6/Tromsnesvegen
+ Fåvang kirke
+
+Kryss Fåvang
+ Fv2532:
+ Fv2532:
+					/)
+Tromsa bru)
+ Tromsa, 45 m
+
+(80 km/h / 70 km/h): (61.4603243,10.1834643)
+
+T-korsning Fåvang N
+ Fv2532:
+ Bensinstasjon: Shell
+
+(70 km/h / 80 km/h): (61.4657612,10.1866391)
+
+(80 km/h / 70 km/h): (61.4971226,10.1739967)
+Rasteplass Ringebu sør
+(skiltet nordgående retning)
+
+Korsning Elstad Camping
+ Elstad Camping
+
+Korsning Grovbakken
+ Fv2570: Vekkom
+ Ringebu Stavkyrkje, Prestegård
+
+70 km/h / 50 km/h: (61.5207139,10.1598143)
+
+Skjeggestad  Gjestehus og Motell
+
+(Hagen Caravan AS)
+Dubbel T-korsning Ringebu ?
+ Fv2532: 
+ Fv2576: 
