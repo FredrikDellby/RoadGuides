@@ -56,7 +56,7 @@ T-korsning Rämne
  Lur
 
 T-korsning
- Taumshede
+ Tanumshede
 Strömstad / Tanum: (58.8441303,11.3969919)
 					6,6 km/6,3 km	5 min 39 s/5 min 24 s
 T-korsning (enskild väg)
@@ -73,7 +73,6 @@ T-korsning Holkekärr
 
 Etapp 3: Holkekärr - Mon (23,2 km/23,2 km)
 					4,0 km/4,0 km	3 min 26 s/3 min 26 s
-(Bro över )
 Dubbel T-korsning Backa
  Bullareby, Skola, Bibliotek
  165 s: Hällevadsholm, Tanumshede
@@ -87,12 +86,17 @@ Korsning Fagerhult
  Fagerhults kapell
  Älelien
 					6,8 km/6,9 km	5 min 6 s/5 min 11 s
+(Bro över Bergskilen)
 Tanum / Dals-Ed
+Infoplats (västgående)
 T-korsning Loviseholm
+ Bästorp
 					1,8 km/1,7 km	1 min 21 s/1 min 17 s
 T-korsning Björnlidmon
+ Flötemarken
 					2,7 km/2,9 km	2 min 2 s/2 min 11 s
 T-korsning Lundby
+ Munkedal, Töftedal
 Parkeringsplats
 					2,2 km/2,1 km	1 min 39 s/1 min 35 s
 T-korsning

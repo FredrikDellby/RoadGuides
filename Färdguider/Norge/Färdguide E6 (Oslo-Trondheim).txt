@@ -365,29 +365,37 @@ Kryss Bergshøgda (72)
  Brumunda
 					(/
 Brumunddalkrysset (73)
- Brumunddal
+ Brumunddal, industri
  Bensinstation: Esso
+ Restaurang: McDonald's
+ Hotell: Wood
 					5.0 km/4.8 km	2 min 51 s/2 min 51 s
 Etapp 10: Brumunddal - Sandvoll ()
 
 Økelsrudkrysset (74)
- Veldre
- Gaupen
+ Fv1688: Veldre
+ Fv1786: Gaupen
 					2.5 km/2.8 km	1 min 53 s/2 min 6 s
 (Økelsrud bomstasjon)
  takst 19/38 kr.
 
 Rudshøgdakrysset (75)
- Prøysenhuset
- Bensinstation: YX
+ Fv1680: Rudshøgda
+ Prøysenhuset (sevärdighet)
+ Bensinstasjon: YX
+ Hotell/Restaurant: Frich's Motell og Spiseri
+ Kvarstad Sjokoladefabrikk
 					5.4 km/5.3 km	4 min 4 s/3 min 58 s
 Skarpsnotunnelen (310 m)
 (110 km/h / 70 km/h)
 					1.2 km/1.2 km	54 s/54 s
 Kryss Moelv (76)
  213 n: Moelv
- 213 s: Stavsberg, Ringsaker
+ [216]: Sjusjøen
+ 213 s: Stavsjø, Ringsaker kirke
+ Mjøsen Golfklubb, Steinvik Camping
  Bensinstation: Shell
+ Restaurant: Mjøsa Pizzeria og Restaurant
 					1.0 km/0.8 km	45 s/36 s
 Brennerivika bru, 41,5 m
  Moelva
@@ -401,6 +409,7 @@ Mjøsbrua-øst
 (Mjøsbrua-vest)
 Rondell Sandvoll
  4: Gjøvik
+ Busstasjon
 
 Etapp 11: Sandvoll - Lillehammer ()
 
@@ -409,7 +418,11 @@ Rasteplass Biri
 70 km/h / 80 km/h: (60.9367601,10.6482233)
 
 Kryss Biri (78)
- Bensinstasjon: Shell
+ Fv2538: Biri
+ Bensinstasjon: YX
+ Restaurant: Vertshuset V-E6
+ Hotell: Biri Arena Overnatting
+ Lastebilstopp
 
 Strandengen bru (Kalverudelva, 56 m)
 
@@ -421,7 +434,9 @@ Gjøvik / Lillehammer
 Vingrom bru (Rinda, 36 m)
 
 Kryss Vingrom (79)
- 250: Dokka
+ 250: Dokka, Vingrom
+ [Fv2538]: Biristrand
+ Campingar
 
 (Trafikkontrollplass
 (sydgående retning)
@@ -433,9 +448,9 @@ Rasteplass Vingrom kirke)
 					(/
 Kryss Vingnes (80)
  253: Jørstadmoen
- [255]: Gausdal
- Bensinstasjon: HydroTexaco
- Restaurang: Bjørn's Kro
+ [255]: 
+ Vingnes
+ Bensinstasjon: Uno-X
 					/)
 Lillehammer bru-syd)
  Mjøsa, 544 m
@@ -443,32 +458,49 @@ Lillehammer bru-syd)
 (Lillehamer bru-nord
 					(/
 Kryss Strandtorget (81)
- [213]: Vårsætergrenda
- [216]: Moelv
- Bensinstasjon: Statoil
+ [213]: Lillehammer, Vårsætergrenda
+ [216]: (Moelv), Sjusjøen
+ Marihaugen (seværdighet)
+ Bensinstasjon: Circle-K
+ Restaurant: McDonald's
 
 Mosoddentunnelen (212 m)
 
 Kryss Lillehammer N (82)
- 213: Lillehammer-Sentrum
+ 213: Lillehammer N
+ Olympiaparken, Camping
  Bensinstasjon: Esso
- Restaurang: By-the-way
+ Restaurang: Burger King
 
 70 km/h / 80 km/h: (61.1348518,10.4252732)
 
 Kryss Storhove (83)
- 255: Skåbu, Gausdal
+ 255: (Skåbu), Gausdal
+ (Jørstadmoen), Fåberg
+ Storhove Campus
 
 Lillehammer / Øyer
 
 Kryss Einsby (84)
+ 312 n: Hafjelltoppen
+ 312 s: Fåberg
+ Hafjell Alpin
 
 (80 km/h / 90 km/h)
 
 Kryss Grandrudmoen (85)
- Bensinstasjon: Esso, Uno-X
+ Fv2532: Øyer Sentrum
+ Fv2532: Hunderfossen
+ Hafjell Alpin, Lilleputthammer
+ Bensinstasjon: Uno-X, Circle-K
+ Restaurant: Øyer Pizza, Pizzabakeren Øyer
+			Café Toscana, Fjøset Restaurant & Bar,
+			Hafjell Pizza Drive Og Restaurant
+ Hotell: Scandic Hafjell, Hafjell Hotell
 
 Kryss Tingberg (86)
+ Fv2522/F2560: Hornsjøen, Tingberg
+ Bensinstasjon: Circle-K
 
 Tingberg bomstasjon
 
@@ -486,8 +518,9 @@ Kryss Skarsmoen
 (Øyertunnelen-nord
 					(/
 Kryss Holmen (87)
- Tretten
+ Fv2522 n: Tretten
  254: Gausdal
+ Fv2522 s: Skarsmoen
  Bensinstasjon: Circle-K, Shell
 
 T-korsning Bådstø

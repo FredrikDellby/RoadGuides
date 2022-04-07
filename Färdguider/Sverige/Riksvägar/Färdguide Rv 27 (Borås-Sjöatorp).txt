@@ -114,12 +114,12 @@ Trp Björsdamm (2x T-korsning)
 
 Etapp 6: Tranemo - Gislaved (22,3 km/22,8 km)
 					2.1 km/2.3 km	1 min 35 s/1 min 43 s
-(T-korsning)
+T-korsning (enskild väg)
  Enskild väg, Bergtäkt
 
 Rastplats Kroksjön
 					5.9 km/6.0 km	4 min 26 s/4 min 30 s
-(T-korsning Kroksjölund)
+T-korsning Kroksjölund
  Enskild väg, Valhyltan
 
 Korsning (enskild väg)
@@ -135,7 +135,7 @@ Korsning (enskild väg)
  Enskild väg
 Parkeringsplats
 
-T-korsning
+T-korsning Agnabo
  (Hestra), Bösshult
 
 T-korsning
@@ -148,13 +148,13 @@ Tranemo / Gislaved
  Enskild väg, Örnaholm
 
 (T-korsning)
- Islandshästar
+ Islandshästar, Enskild väg
 
 Dubbel T-korsning Ebbebo
  Båraryd, Handelsträdgård
  Våthult
 					2.5 km/2.6 km	1 min 53 s/1 min 57 s
-(T-korsning)
+T-korsning (enskild väg)
  Enskild väg, Bergtäkt
 
 Trp Gislaved Norra
