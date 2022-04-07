@@ -320,7 +320,9 @@ Stange / Hamar): (60.795243,11.1221291)
 Kryss Ridabu (68)
  25 ø: Elverum, (Løten)
  25 v: Hamar-Sentrum
- Olympiahallen
+ Olympiahallen, Domkirkeodden
+ Norsk Jernbanemuseum, Kirsten Flagstadmuseet
+ Åker Kongsgård
 
 Etapp 9: Hamar - Brumunddal ()
 					1.8 km/1.5 km	1 min 21 s/1 min 8 s
@@ -329,30 +331,35 @@ Sælid bru (41 m)
 
 Kryss Vien (69)
 (ej avfart sydgående)
- 224: Hamar-Sentrum
+ Gåsbu
+ 222: Hamar, Sykehus
 					1.6 km/1.5 km	1 min 12 s/1 min 8 s
 Vien bomstasjon
- 19/38 kr.
+ takst 19/38 kr.
 
 (Avfart (69) (sydgående)
- 224: Hamar-Sentrum
+ Gåsbu
+ [222]: Hamar, Sykehus
 					0.7 km/1.4 km	0 min 31 s/1 min 3 s
 Hamar / Ringsaker: (60.8296224,11.0870902)
 
 Kryss Arnkvern (70)
- Kårtorp, Hamar Flyplass
- Bensinstation: YX
+ Industri: Trehørningen
+ Hamar vest, Lufthavn
+ Hotell: Scandic Ringsaker
+ Bensinstation: Uno-X
 					2.1 km/1.9 km	1 min 35 s/1 min 26 s
 Kryss Nydal (71)
- Nydal
+ Nydal, Industri
  IKEA Ringsaker
  Bensinstation: Circle-K
- Restaurang: 
+ Restaurang: Burger King, MAX
 					6.4 km/6.3 km	4 min 48 s/4 min 44 s
 Kryss Bergshøgda (72)
+ Brumunddal sør
 					1.8 km/1.8 km	1 min 21 s/1 min 21 s
 (Bergshøgda bomstasjon)
- 19/38 kr.
+ takst 19/38 kr.
 
 (Nederkvern bru (41 m)
  Brumunda
