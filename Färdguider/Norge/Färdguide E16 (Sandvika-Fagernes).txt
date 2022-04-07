@@ -1,53 +1,58 @@
 Reseguide E16 (Bærum - Fagernes)
 ================================
 
-Etapp: Sandvika - Skui ()
+Etapp: Sandvika - Skui N ()
 
 Kjørbokrysset (16)
  E18 ø: Oslo, Lysaker
  E18 v: Kristiansand, Drammen
 (Bjørnegårdtunnelen-syd)
  2 247 m/
-
+					2,5 km/2,3 km	1 min 40 s/1 min 32 s
 (Bjørnegårdtunnelen-nord
  /2 355 m
-					(/
+					(/0,5 km	(/20 s
 Kryss Vebekk (2)
- Fv1642
-
+ Fv1642: Sandvika
+ [160]: Bekkestua, (Kolsås)
+ Sykehusene
+					0,6 km/0,6 km	24 s/24 s
 Kryss Rud (3)
- 168: Bærums Verk, Kolsås
+ 168: Bærums Verk, Lommedalen
+ Vøyenenga
  Bensinstasjon: YX
-					/)
+					0,4 km/)	16 s/)
 Bru over Sandvikselva)
-					0,6 km/0,6 km	31 s/31 s
+					0,5 km/0,5 km	20 s/20 s
 Bru over Isielva
-					0,5 km/0,5 km	23 s/23 s
+					0,3 km/0,3 km	12 s/12 s
 Brennetunnelen-syd
  1 076 m/
-					1,2 km/1,5 km	0 min 48 s/1 min 0 s
+					1,3 km/1,1 km	52 s/44 s
 (Brennetunnelen-nord
  /1 093 m
-					(/
+					(/0,5 km	(/20 s
 Krys Skui (4)
- 160: Kolsås, Rykinn
-
-Etapp: Skui - Skaret/Lauvkastet ()
-	 				/)
+ 160: (Kolsås), Rykinn
+ Skui
+	 				0,5 km/)	20 s/)
 Skuitunnelen-syd)
  1 421 m
-					1,9 km/1,6 km	1 min 16 s/1 min 4 s
+					1,4 km/1,6 km	0 min 56 s/1 min 4 s
 Skuitunnelen-nord
 					0,4 km/0,5 km	16 s/20 s
+(90 km/h / 80 km/h)
 Kryss Isiveien (5)
 (avfart nordgående riktning
 påfart sydgående riktning)
-					0,8 km/0,7 km	36 s/32 s
+					0,5 km/0,5 km	23 s/23 s
 Bjørum sag bru (129 m)
  Isielva
-
+					0,4 km/0,3 km	18 s/14 s
 T-korsning E16/Ringeriksveien
  Skui
+
+Etapp: Skui N - Skaret/Lauvkastet ()
 
 Parkeringsplass (nordgående)
 					1,0 km/1,0 km	45 s/45 s
@@ -57,7 +62,7 @@ Parkeringsplass (nordgående)
 
 (T-korsning Brenna)
 					0,9 km/0,9 km	41 s/41 s
-Mitträcke ender/begynner
+Mittrekk ender/begynner
 					2,3 km/2,4 km	2 min 18 s/2 min 24 s
 Bærum / Hole
 					0,5 km/0,4 km	30 s/24 s
@@ -66,7 +71,7 @@ Bærum / Hole
  Sollihøgda kapell
  Sollihøgda næringspark
 					0,4 km/0,4 km	24 s/24 s
-Mitträcke
+Mittrekk
  begynner (nordgående)
  ender (sydgående)
 					1,8 km/1,8 km	1 min 21 s/1 min 21 s
@@ -92,6 +97,8 @@ Kryss Sønsterud
 (avfart nordgående riktning
 påfart sydgående riktning)
  Fv2848: Nes i Hole
+ Tyrifjorden kunstnervilla
+ Utvika, Utøya, Næs Camping
 					(/
 (Nestunnelen-syd
  1 290 m
@@ -101,15 +108,21 @@ Nestunnelen-nord
 Rasteplass Rørvik
 					3.3 km/3.0 km	2 min 12 s/2 min 0 s
 Kryss Rørvik
- Fv2848: Nes i Hole, Tyrifjord
+ Fv2848: Nes i Hole
+ Tyrifjord Golfklubb, Storøen gård
+ Utvika Camping, Næs Camping
 					0.7 km/0.8 km	42 s/48 s
 T-korsning Rørvik Camping
 					1.2 km/1.2 km	1 min 12 s/1 min 12 s
 T-korsning Sundvollen
- Åsa, Sundvollen
+ Fv2850: Åsa, Sundvollen
+ Industri: Sundvollen
+ Krokkleiva (privat vei)
  Bensinstasjon: Esso
  Restaurant: Kleivstua
  Hotel: Sundvolden
+
+Etapp: Sundvollen - E16/Rv 7 ()
 
 Kroksund bru (105 m)
  Tyrifjorden, også molo
