@@ -174,60 +174,99 @@ Trp Skövde Södra
 
 Etapp 17: Genom Skövde (8,0 km/7,3 km)
 					1.1 km/0.5 km	57 s/26 s
-Rondell
+Rondell (lokal väg)
+ Paradissjön (enskild väg)
+ Volvo Powertrain, Försvarsmakten
 					1.2 km/1.2 km	1 min 2 s/1 min 2 s
 Timsboholmsrondellen
- Centrum, Östermalm
+ Varola, Industri: Timboholm
+ Miljöstation, Volvo Personvagnar
+ (Centrum), Östermalm
 					1.5 km/1.4 km	1 min 17 s/1 min 12 s
 Trp Mariesjö
- 49 ö: Karlsborg, Tibro
- 194: Hjo
- Bensinstation: Preem
+ 49 ö: Askersund, Tibro
+ [194]: Hjo, Industri: Aspelund
+ Centrum, Industri: Mariesjö
+ Bensinstation: INGO
 
-Järnvägskorsning
+(fd Järnvägskorsning)
  Karlsborgsbanan
-Trafikplats
+Trafikplats Hasslum
+ Hasslum
 					0.7 km/0.8 km	36 s/41 s
 Stallsikenrondellen
+ Trädgårdsstaden, Handel: Stallsiken Ö
+ Lassagården (Keramik & Café)
+ Handel: Norrmalm, Stallsiken V
 					0.9 km/1.0 km	46 s/51 s
-Trafikplats
+Trp Kultomten
+ Handel: Stallsiken
 					1.5 km/1.4 km	1 min 17 s/1 min 12 s
 Horsåsrondellen
- 200: Töreboda, Tidan
+ 200: Töreboda, (Tidan)
+ Skövde Flygplats
 (Järnvägsviadukt)
  Västra Stambanan
 					0.6 km/0.6 km	31 s/31 s
-Trp Södra Ryd
+Trp Mellomkvarn
  Södra Ryd
-Bensinstation: Tanka
+ Industri: Mellomkvarn
+ Räddningsskolan
+ Bensinstation: Tanka
 					0.5 km/0.5 km	26 s/26 s
 Karstorpsrondellen
- Centrum
- [49 v]: Skara
- Bensinstation: Statoil
+ Rånna, Karstorp, Sjukhuset
+ Centrum, [49 v]: Lidköping
+ Bensinstation: Circle-K
 
 Etapp 18: Skövde - Mariestad (29,3 km/29,8 km)
 
-Trafikplats
- Södra Ryd
+Trp Södra Ryd
+ Industri: V Ryd
+ Södra Ryd, Räddningsskolan
 					3.5 km/3.7 km	2 min 38 s/2 min 47 s
-Mölltorpskorset
- Stöpen, Mölltorp
+Trp Norra Ryd
+ Industri: N Ryd
+
+(T-korsning (lokal väg))
+ Ej skyltad
+
+Dubbel T-korsning Mölltorpskorset
+ Stöpen, (Mölltorp)
  Säter
 					2.9 km/2.7 km	2 min 11 s/2 min 2 s
+T-korsning (enskild väg)
+(endast skyltad sydgående)
+
+T-korsning Rosenlunds Trädgård
+ Rosenlunds Trädgård, Lokal väg
+
 Korsning Stöpen väg 26
  Stöpen
  Säter
 					3.7 km/3.8 km	2 min 47 s/2 min 51 s
-Korsning Kärrtorp
- Enskild väg
+(Korsning (enskild väg))
+ Ej skyltad
+
+Korsning Garparör (enskild väg)
+ Smedstorp
+ Garparörs natur
+
+Korsning Kärrtorp (enskild väg)
+ Kärrtorp, Plåtslageri
 					0.8 km/0.7 km	36 s/31 s
 Korsning Mobacka
  Binneberg
+ Kulturväg Skaraborg (info)
+ Tingshus, Bergtäkt
+ Övertorp (enskild väg)
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
+(T-korsning (enskild väg))
+ Ej skyltad
 Korsning Lövåsen väg 26
- Timmersdala
-Skövde / Mariestad
+ Götene, Timmersdala, Lerdala
+ Billingens Golfklubb
+Skövde / Mariestad: (58.529741,13.8177038)
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
 T-korsning Rambotorp
  Tidavad, Ödensåker
