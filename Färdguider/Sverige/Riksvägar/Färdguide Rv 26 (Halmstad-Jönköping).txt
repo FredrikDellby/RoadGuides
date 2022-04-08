@@ -245,20 +245,27 @@ Trp Gislaved Norra
  Restaurang: Burger King, Rosegarden
  Bensinstation: Q-star
 
-Etapp 8: Gislaved - Lv 156 ()
+Etapp 8: Gislaved - N Unnaryd ()
 
 Dubbel T-korsning Bårarydsby
  Båraryd
- Enskild väg
+ Enskild väg (ej skyltad)
 
 2+1-väg upphör/börjar: (57.3513921,13.5570576)
 
-T-korsning Slätteryd
+Infoplats)
+					/)
+T-korsning Slätteryd (enskild väg)
+ Stenhesta, Hedenstorp, Slätteryd
 
-T-korsning Norlida
+T-korsning
+ Bäckshult
 
-T-korsning Hestra Vägporten
- Enskild väg
+Korsning Norlida
+ Flahult
+
+(T-korsning Hestra Vägporten)
+ Vik, Enskild väg
 (Järnvägsbro)
  Kust-till-Kustbanan
 
@@ -274,40 +281,70 @@ T-korsning Ettö Rv 26 (enskild väg)
 Parkeringsplats (västra sidan)
 
 Korsning Poststugan
+ Nissafors Bruk
+ Isabergs Golfklubb, Restaurang
 
 T-korsning Trollavik
+ Grimsås, Hestra N
+ Industri: Flodala
 
 T-korsning (enskild väg)
  Gussjöns badplats
 
 T-korsning Öreryd södra
+ Öreryd
+ Bensinstation: Q-star
 
 T-korsning Öreryd norra
+ Öreryd
 
 T-korsning
+ Skillingaryd, Stengårdshult, Valdshult
+
+Parkeringsplats (grus/gräs)
+(västra sidan)
 
 Parkeringsplats (västra sidan)
 
 (T-korsning (enskild väg))
 
 Dubbel T-korsning N Unnaryd Rv 26
- 156: Kinna, Tranemo
+ Stengårdshult
+ 156: (Kinna), Tranemo, N Unnaryd
+ Infoplats, Fiske, Maja Camping
 
-Etapp 9: Lv 156 - Rv 40 ()
+Etapp 9: N Unnaryd - Rv 40 ()
 
-T-korsning Unnefors väg 26
+Dubbel T-korsning Unnefors södra
+ Unnefors, Sågverk (enskild väg)
+ Bondstorp
+
+Korsning Unnefors norra (enskild väg)
+ Långarum, Karsbo
+
+Parkeringsplats (grus)
+(östra sidan)
 
 Korsning Röksberg
+ Angerdshestra
 
-Korsning Mulseryd
+Korsning Stigaryds Mo
+ Angerdshestra
+ Mulseryd
 
 Rondell Ryd södra
- Bottnaryd
+ Ryd S
+ Mulseryd
 
-Rondell Ryd centrum
- Lokalt mål
+Rondell Ryd centrum (lokal väg)
+ Ryd N
+
+(T-korsning Ryd N (lokal väg))
+ Lanthandel
 
 T-korsning
+ V Jära
+(Bro över Nissan)
 
 T-korsning Rv 26/Rv 40
  40 ö: Jönköping
