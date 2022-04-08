@@ -304,6 +304,8 @@ T-korsning
 Parkeringsplats (grus/gräs)
 (västra sidan)
 
+Gislaved / Jönköping: (57.5584343,13.6950685)
+
 Parkeringsplats (västra sidan)
 
 (T-korsning (enskild väg))
