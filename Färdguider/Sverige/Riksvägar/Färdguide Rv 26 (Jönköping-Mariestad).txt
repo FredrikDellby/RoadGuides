@@ -1,4 +1,4 @@
-Etapp 11: Hedenstorp - Lv 195 (7,5 km/7,3 km)
+Etapp 12: Hedenstorp - Månseryd (7,5 km/7,3 km)
 
 Trp Hedenstorp
  40 ö: Jönköping, Västervik
@@ -20,7 +20,7 @@ Parkeringsplats (nordgående)
 Trp Månseryd
  195: Hjo, Habo, Bankeryd
 
-Etapp 12: Månseryd - Mullsjö (17,7 km/17,4 km)
+Etapp 13: Månseryd - Mullsjö (17,7 km/17,4 km)
 					3.9 km/3.5 km
 Trp Risbro
  Habo, Habo kyrka (sevärdhet)
@@ -43,7 +43,7 @@ Rondell Mullsjö SV
  Mullsjö C
  185: Bottnaryd
 
-Etapp 13: Mullsjö - Slättäng (15,0 km/15,0 km)
+Etapp 14: Mullsjö - Slättäng (15,0 km/15,0 km)
 					1.2 km/1.1 km	54 s/50 s
 Järnvägsviadukt
  Jönköpingsbanan
@@ -80,82 +80,97 @@ Parkeringsplats (nordgående)
 T-korsning Slättäng
  47 v: Trollhättan, Falköping
 
-Etapp 14: Slättäng - Suntakstan (12,5 km/12,5 km)
+Etapp 15: Slättäng - Suntakstan (12,5 km/12,5 km)
 					0.5 km/0.5 km	23 s/23 s
 Korsning
  Utvängstorp
 					0.7 km/0.9 km	31 s/41 s
 Korsning
-Jönköping / Västra Götaland
+ Skarpemo
+Jönköping / Västra Götaland: (58.044268,13.8484503)
 Mullsjö / Tidaholm
 					2.1 km/1.9 km	1 min 35 s/1 min 26 s
-Korsning
+Korsning Norkan
+ Skarpemo
+ Kymbo
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
 Korsning Vättak V
  Härja
- Hångsdala, Vättak
+ (Hångsdala), Vättak
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
 T-korsning
- Ettak
+ Velinga
 					0.3 km/0.3 km	14 s/14 s
-T-korsning
+(Dubbel) T-korsning
  Suntak
+ Suntakstan (enskild väg), (Däckhotellet)
 					1.4 km/1.5 km	1 min 3 s/1 min 8 s
+Infopunkt (nordgående): (58.1364002,13.89576179)
+
 Rondell Suntakstan
- 193 ö: Hjo, Tidaholm
+ 193 ö: (Hjo), Tidaholm S
  193 v: Falköping
 
 Etapp 15: Suntakstan - Munkabo (19,8 km/19,9 km)
 					2.7 km/2.6 km	2 min 2 s/1 min 57 s
 Korsning Ängatorp
- Tidaholm, Baltak
- Dimbo
+ (Tidaholm), Baltak
+ Dimbo, Ottravad
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
 Korsning Acklinga
- Tidaholm
- Ekedalen
+ Tidaholm N, C
+ Ekedalen, Acklinga k:a
 					3.3 km/3.5 km	2 min 28 s/2 min 38 s
 Dubbel T-korsning Kavlåsbruket
  Ekedalen
- Kavlås, Hömb
+ Fröjered, Hömb
+ Kavlås slott
 					2.2 km/2.0 km	1 min 39 s/1 min 30 s
 Korsning Kungslena Mad
  Kavlås, Hömb
- Falköping, Kungslena
+ (Falköping), Kungslena
+ Kungslena by (sevärdhet)
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-Tidaholm / Falköping
+Tidaholm / Falköping: (58.2430844,13.8196418)
 					1.3 km/1.3 km	59 s/59 s
 Korsning Åsebacken
- Blikstorp, Fröjered
+ Korsberga, Vreten
  Stenstorp, Dala
 					4.3 km/4.3 km	3 min 14 s/3 min 14 s
 Korsning Borgunda Ö
+ Värsås, Brobacken
  Borgunda
+ Borgunda Såg
 					0.9 km/1.0 km	41 s/45 s
-Korsning Munkabro
+Korsning Munkabo
  Borgunda
-Rondell Munkabro
+ Munkabo (enskild väg)
+Rondell Munkabo
  46 s: Ulricehamn, Falköping
+ Klockaregården (enskild väg)
 
 Etapp 16: Munkabo - Skövde (8,9 km/9,5 km)
 					0.9 km/1.1 km	41 s/50 s
-(Falköping / Skövde)
+					(/
 Trp Grevagården
- Skultorp, Sjögerstad
-Rastplats: Grevagården
+ Skultorp S, Sjogerstad
+ Rastplats Grevagården
+ Industri: Ranstadsv, Ridanläggningar
+(Falköping / Skövde
 					2.5 km/2.2 km	1 min 40 s/1 min 28 s
 Trp Loringa
- Skultorp
+ Loringa
 					2.5 km/2.7 km	1 min 40 s/1 min 48 s
 Trp Skultorp
- Hagelberg, Värsås
+ Klagstorp
  Skultorp
+ Skyttecentrum
 					1.5 km/1.7 km	1 min 0 s/1 min 8 s
 Skultorpstunneln
 					1.6 km/1.8 km	1 min 4 s/1 min 12 s
 Trp Skövde Södra
  49 v: Skara
- Skövde S
+ Skövde S, Centrum
 
 Etapp 17: Genom Skövde (8,0 km/7,3 km)
 					1.1 km/0.5 km	57 s/26 s
