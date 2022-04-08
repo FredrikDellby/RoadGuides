@@ -268,25 +268,54 @@ Korsning Lövåsen väg 26
  Billingens Golfklubb
 Skövde / Mariestad: (58.529741,13.8177038)
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
+Korsning Lövåsens gård (enskild väg)
+ Starrkärr
+ Habbegården
+
 T-korsning Rambotorp
- Tidavad, Ödensåker
+ Väring, Odensåker, sevärdhet
+ Sjön Östen
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning
- Timmersdala, Låstad
+Korsning Lillegården
+ Låstad
 					3.3 km/3.3 km	2 min 28 s/2 min 28 s
+Parkeringsplats
+
 Korsning Kröken
  Böja
 					0.4 km/0.4 km	18 s/18 s
 Korsning Boterstena
  Tidavad
+ Pendelparkering
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
 Korsning Ek
+ Ek, Ek K:a
+ St. Ek herrgård (sevärdhet)
  Lugnås, Lugnås K:a
+ Kvarnstensgruva (sevärdhet)
 					5.8 km/5.8 km	4 min 21 s/4 min 21 s
+Korsning Karlslund (enskild väg)
+ Kjeckestad
+ Karlslund
+
 Korsning Karleby väg 26
- Ullervad
+ Ullervad, Pendelparkering
+ Karleby, Hembygdsgård (enskild väg)
 					0.7 km/1.2 km	0 min 31 s/0 min 54 s
-Trp Haggården
+Trp Haggården-syd
  E20 ö: Stockholm, Örebro
  26 n: Filipstad, Kristinehamn
+ E20 v: Göteborg, Skara
+ Mariestad Centrum
+ Handel: Haggården
+ Bensinstation:
+ Restaurang:
+					(/
+(Trp-Haggården-nord
+ Mariestad Centrum
+ Handel: Haggården
+ Bensinstation:
+ Restaurang:
+					(/
+(Trp Haggården
  E20 v: Göteborg, Skara
