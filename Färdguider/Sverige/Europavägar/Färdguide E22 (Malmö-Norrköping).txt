@@ -389,7 +389,7 @@ Korsning Öljersjö (enskild väg)
 Rondell Torstäva vägskäl
  Tjurkö, Sturkö
  Trummenäs Golfklubb
-Rastplats Torstäva-öst
+(Rastplats Torstäva-öst)
 
 T-korsning Torstäva (enskild väg)
  Tornby
@@ -426,7 +426,7 @@ T-korsning E22/Kråkerumsv. (enskild väg)
 T-korsning E22/Klakebäcksv.
  Björkenäs, Konugnshamn, Klakebäck
 
-T-korsning E22/Sydkraftsvägen
+T-korsning E22/Sydkraftsvägen (lokal väg)
  Jämjö Industriområde
 Restaurang: Sammy's Pizza
 
@@ -442,9 +442,8 @@ Korsning N Binga (enskild väg)
  Bosava
  Brända ene
 
-Parkeringsplats
-(Korsning)
- Enskild väg
+Parkeringsplats (sydgående)
+(Korsning (enskild väg))
 
 Korsning Käxelåkra (enskild väg)
  Horsaryd
@@ -479,8 +478,10 @@ Korsning Fågelmara N
 Etapp 12: Fågelmara - Bröms ()
 
 (T-korsning Fågelmara skola)
+ Lokal väg, ej skyltad
 
-(T-korsning E22/G:a landsvägen)
+T-korsning E22/G:a landsvägen
+ Lokal väg, ej skyltad
 
 T-korsning (enskild väg)
  Skäggeryd
@@ -519,9 +520,8 @@ T-korsning Björkelycke
 Korsning (enskild väg)
 (endast skyltad nordgående)
 
-(Korsning)
+(Korsning (enskild väg))
 (ej skyltad knappt)
- Enskild väg
 
 Dubbel T-korsning Bröms
  Bröms
