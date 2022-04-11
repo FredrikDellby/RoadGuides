@@ -1,101 +1,207 @@
-F�rdguide Lv 111 (Helsingborg - M�lle)
+Färdguide Lv 111 (Helsingborg - Mölle)
 =======================================
 
-Trp �ttekulla
+Etapp 1: Österleden ()
+
+Trp Ättekulla
  E4 n: Stockholm, [E6-E20]
  E4 s: Helsingborgs hamn
- Raml�sa Brunn
+ Ramlösa Brunn
 					1.3 km/1.0 km	1 min 7 s/0 min 51 s
 Trp Clausgatan
- Raml�sa
+ Ramlösa
 					0.3 km/0.3 km	15 s/15 s
 					1.0 km/1.0 km	51 s/51 s
-Trp F�ltarpsv�gen
- L�ngberga industriomr.
+Trp Fältarpsvägen
+ Långberga industriomr.
  Centrum
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
-Trp Filbornav�gen
+Trp Filbornavägen
  Fredriksdal, Olympia
 					0.8 km/0.8 km	41 s/41 s
-Trp Vasatorpsv�gen
- V�la
+Trp Vasatorpsvägen
+ Väla
  Centrum
 					0.8 km/1.4 km	0 min 41 s/1 min 12 s
-Trp Grusv�gen
- V�lsa S�dra
+Trp Grusvägen
+ Välsa Södra
 					0.7 km/0.3 km	36 s/15 s
 Trp Brohult
  [E4 n]: Stockholm
- [E6-E20 n]: G�teborg
+ [E6-E20 n]: Göteborg
  Helsingborg Centrum
 					0.5 km/0.4 km	23 s/18 s
-Avfart+P�fart Kanongatan
-(nordg�ende riktning)
-Avfart+P�fart Bajonettgatan
-(sydg�ende riktning)
- Berga industriomr�de
+Etapp 2: Helsingborg - Viken S ()
+
+Avfart+Påfart Kanongatan
+(nordgående riktning)
+Avfart+Påfart Bajonettgatan
+(sydgående riktning)
+ Berga industriområde
 					0.9 km/1.2 km	41 s/54 s
-Trp Kullav�gen
- P�lsj�
+Trp Kullavägen
+ Mariastaden
 					1.4 km/1.1 km	56 s/44 s
 Trp Allerum
  Jonstorp, Allerum
 					1.4 km/1.3 km	56 s/52 s
-T-korsning 111/Lar�dsv�gen
- Hittarp, Sofiero slott
+T-korsning Lv 111/Larödsvägen
+ Laröd, Sofiero slott
 
-Trafikkontrollplats
-(sydg�ende riktning)
-T-korsning Lar�d �stra
- Enskild v�g
+(Trafikkontrollplats (sydgående)
+T-korsning Laröd Östra (enskild väg)
+ Alleröds mosse, Driving Range
+Trafikkontrollplats (nordgående))
 					3.5 km/3.5 km	2 min 20 s/2 min 20 s
-T-korsning Kulla Gunnarstorp
- Hittarp, Domsten
+Korsning Kulla Gunnarstorp
+ Kulla Silo (enskild väg)
+ Domsten, Kulla Gunnarstorp
+ KA Roos
 					2.8 km/2.8 km	1 min 52 s/1 min 52 s
-T-korsning 111/Djuramossav.
+T-korsning 111/Djuramossav. (enskild väg)
+ Djuramossa, Vändplats
+ Beredskapsmuseet (Café)
 
 T-korsning Domsten N
  Domsten
 					0.4 km/0.4 km	18 s/18 s
-T-korsning Gr� L�ge
- Gr� L�ge
+T-korsning Grå Läge
+ Grå Läge
 
-T-korsning 111/D�shultsv.
- D�shult
+T-korsning Lv 111/Döshultsv.
+ Döshult, Stenbutik
 					1.1 km/1.1 km	50 s/50 s
-Rondell Viken SO
- Viken
+Rondell Viken SO (Kullaporten)
+ Viken, Turistinfo
+
+Etapp 3: Viken S - Höganäs ()
 					1.1 km/1.1 km	44 s/44 s
-Dubbel T-korsning Viken �
+Dubbel T-korsning Viken Ö
  Viken
- Allerum
+ Karlsfält
 					1.9 km/2.1 km	1 min 16 s/1 min 24 s
-Trafikplats
- Jonstorp, Ingelst�de
- Viken
+Trp Stubbarp
+ Jonstorp
+ Viken, Turistinfo
 					1.9 km/1.7 km	1 min 16 s/1 min 8 s
-Rondell Lerberget S
- Viken
+Rondell Lerberget S (Lerbergsrondellen)
+ Ö. Lerberget, Kyrka
+ Viken, G:a Lerberget
+ Lerbergets Camping
 					1.1 km/1.0 km	1 min 6 s/1 min 0 s
-T-korsning 111/Lag�rdsv.
+T-korsning Lv 111/Lagårdsv. (lokal väg)
+ Höganäs Sportcenter, Höganäs GK
  Bensinstation: Preem
+Infopunkt (nordgående)
+(2+1-väg upphör / börjar)
 
-(T-korsning)
- Finax bageri
+T-korsning (lokal väg)
+ Lerbergsskogen, Finax bageri
 
-Rondell 111/Ljungv�gen
+Ljunghagarondellen (lokal väg)
+ Industri: Pålstorp, Höganäs Sportcenter
+ G:a Lerberget, Lerbergets Camping
 					1.6 km/1.6 km	1 min 36 s/1 min 36 s
 Korsning Kullagymnasiet
+ Äsperöd, Flygplats
+ Folkpark, Kvickbadet (P)
+ Bensinstation: St1
 					0.4 km/0.5 km	29 s/36 s
-Rondell L�ngar�d
+Rondell Triangelplatsen
+ Höganäs Museum
+ Centrum, Turistinfo
+ Parkering, Badstrand
 					0.3 km/0.3 km	22 s/22 s
 Rondell Lv 111/Lv 112
- 112: �ngelholm, �storp
+ 112: Ängelholm, Jonstorp
+ Höganäs Design Outlet
+(Jourpizza och Aquarius Pub Restaurang)
 
-Korsning 111/Bruksgatan
+Etapp 4: Höganäs - Nyhamnsläge - Möllehässle ?
+
+Korsning Lv 111/Bruksgatan
+ Höganäs Keramikverkstäder (industri / sevärdhet)
+ Centrum, Parkering, Hamnen
+ Industri: Tjörröd, Höganäs Design Outlet
 
 Rondell Sandflyget
+ Höganäs Design Outlet
 
-(Korsning Margreteberg)
- Margreteberg strand
+Korsning Margreteberg (lokal väg)
+ Margretebergs strand
+ Avfallsanläggning, Återvinningsgård
 
+Dubbel T-korsning (lokala vägar)
+ Ej skyltad
+ Almsberg, Ellagårdens bär, Höganäs Handelsträdgård
+
+Korsning (lokal väg)
+ Örestrand
+ Hotell: Destination Strandbaden
+
+T-korsning Tallbacken (lokal väg)
+ Tallbacken, Tennisbanor, Strandbaden
+
+(T-korsning Lv 111/Storaskärsv.)
+ Lokal väg, ej skyltad
+
+(Korsning (lokal väg))
+ ICA Nära Skeppet
+
+Korsning Nyhamnsläge Centrum
+ Brunnby, Arild
+ Hamnen
+ Restaurang: Läget Byakrog
+
+T-korsning Bräckevägen (enskild väg)
+ Bräcke, Kullabergs Vingård
+
+T-korsning Lerhamnsvägen
+ Lerhamn
+
+(T-korsning Krapperups slott)
+ Lokal väg, ej skyltad
+Krapperps Slott (sevärdhet)
+ Konsthall & Museum
+ Café & Slottsbod
+
+T-korsning Möllehässle
+ Jonstorp, Brunnby
+ Himmelstorp Hembygdsgård
+
+Etapp 5: Möllehässle - Mölle: ()
+
+(Bubblerian i Möllehässle)
+First Camp Möllehässle
+
+(T-korsning Lv 111/Kockehus allé)
+ Kullabergs Strövområde, Enskild väg
+
+T-korsning Lv 111/Håven (lokal väg)
+ Gylleröd
+
+Dubbel T-korsning Kullaberg (lokal väg)
+ Parkering, Info, Café
+ Hotel Kullaberg, Krukmakeri & Café
+
+T-korsning LV 111/Postvägen (lokal väg)
+ Krukmakeri & Café
+
+(T-korsning Lv 111/Bökebolsv.)
+ Lokal väg, mot Grand Hotel, ej skyltad
+
+T-korsning/Vändplats Grindstugan
+ Skogsväg (privat)
+
+(T-korsning Ransviksvägen)
+ Lokal väg
+
+Mötesseparering börjar / upphör
+
+(Kullagårdens Wärdshus)
+(Mötesseparering upphör / börjar)
+Parkering Kullagårdens Wärdshus
+
+Parkeringsplats Kullaberg
+
+Vändplats Kullens Fyr
