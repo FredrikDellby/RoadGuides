@@ -234,3 +234,35 @@ Homstvedtkrysset (88)
 Laugsletkrysset (89)
  E18 v: Oslo, Askim
  129: Mysen
+
+T-korsning
+ Velväreloftet
+
+T-korsning Rv 22/Slituveien
+ Fv1246: Slitu
+
+T-korsning Rv 22/Riiserveien
+ Riser, Vom og Hundemat
+
+T-korsning Rv 22/Øiestadveien
+ Fv1270: Mörkvad
+
+T-korsning Rv 22/Langsrudåsen
+ Fv1300: Langseter
+
+Bensinstasjon: Esso
+
+Trøgstad Bygdemuseum
+T-korsning Rv 22/Festningsveien
+ Trøgstad fort
+
+T-korsning Trøgstad kirke
+ 115 s: Askim, Trøgstad kirke
+
+(Parkeringsplass)
+T-korsning Trøgstad sentrum
+ 115 n: Bjørkelangen
+    (/
+((Dubbel) T-korsning Skjønhaug Torv)
+ Gjenvinning
+
