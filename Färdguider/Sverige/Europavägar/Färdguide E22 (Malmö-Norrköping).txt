@@ -369,12 +369,16 @@ Trp Karlskrona Öst (64)
  Bensinstation: Shell, Circle-K
  Restaurang: McDonald's
 
+Etapp 10: Karlskrona - Jämjö ()
+
 Bro över Lyckebyån
 
 Rondell Lösen E22
+ Fäjö, Lyckeby
+ Augerum, Griftegård
 
-Korsning Barnens Gård
- Viet
+Korsning Barnens Gård (enskild väg)
+ Viet, Barnens Gård
 
 T-korsning (enskild väg)
  Stubbetorp
@@ -401,20 +405,22 @@ Korsning Vallby E22
  Missionskyrka
  Sälleryd, Vallby Gård
 
-Ekedalsvägen Jämjö
+T-korsning Ekedalsvägen (enskild väg)
  Kråkerum
  Karlströms Gård, Orionstugan
 
-T-korsning
+T-korsning Jämjö V
  Torhamn
+
+Etapp 11: Jämjö - Fågelmara ()
 
 Rondell Jämjö Centrum
  Jämjö kyrka
  Restaurang: Jämjö Pizzahus, Jämjö Gatukök
 
 Bensinstation: OKQ8
-T-korsning E22/Kråkerumsv.
- Kråkerum
+T-korsning E22/Kråkerumsv. (enskild väg)
+ Kettilsboda
  Sjöstens Hjorthägn
 
 T-korsning E22/Klakebäcksv.
@@ -470,6 +476,8 @@ Korsning Fågelmara N
  Turistområde Kristianopel
  Rastplats, stugor, camping, bad, restaurang
 
+Etapp 12: Fågelmara - Bröms ()
+
 (T-korsning Fågelmara skola)
 
 (T-korsning E22/G:a landsvägen)
@@ -494,7 +502,7 @@ Blekinge / Kalmar
 Karlskrona / Torsås
 
 Korsning Brömsebro Råsens vsk E22
- Råsen
+ Råsen, Enskild väg
  Restaurang: Blomlöfs Rökeri
 
 Korsning Korpavik
@@ -520,6 +528,8 @@ Dubbel T-korsning Bröms
  Fredsstenen, Brömsehus
  Rastplats Bröms
  Skubbebo
+
+Etapp 13: Bröms - Söderåkra ()
 
 (Dubbel T-korsning)
  Enskild väg, Massör
@@ -573,9 +583,12 @@ T-korsning
 Trp Söderåkra
  Hagby, Stufvenäs Gästgiveri
  Möre Golfklubb
+ 130: Torsås
  Söderåkra, Infoplats
  Bensinstation: Preem
  Hotel: Möre Hotell/Green Door
+
+Etapp 14: Söderåkra - Rinkabyholm ()
 
 Torsås / Kalmar: (56.469218,16.0793693)
 
@@ -609,6 +622,8 @@ Trafikplats Dörby
  25 v: Halmstad, Växjö, Nybro
  31 n: Vetlanda
 
+Etapp 14: Rinkabyholm - Kalmar ()
+
 Trp Karlsro
  Rinkabyholm
  Smedby
@@ -635,6 +650,8 @@ Trp Ölandsleden
  Hotell/Restaurang: Rasta
  Bensinstation: OKQ8
  Köpcenter HANSA CITY
+
+Etapp 15: Kalmar - 
 
 Trafikplats Berga
  Berga
@@ -1238,3 +1255,113 @@ Korsning Skälboö
 T-korsning Hökbäcken
  Hälla
 T-korsning (enskild väg))
+
+Parkering/Sidoväg (grus)
+(nordgående riktning)
+
+T-korsning Tomtaholmsvägen
+ Tomtaholm, Enskild väg
+
+(T-korsning Braberg (enskild väg))
+
+Korsning Gata (enskild väg)
+(endast förskyltad sydgående)
+(2+1-väg upphör / börjar)
+
+T-korsning Söderköping S
+ 210 ö: S. Finnö, S:t Anna
+ Stegeborg, Slottsruin (sevärdhet)
+
+Etapp : Genom Söderköping ()
+
+Korsning Harsby (lokal väg)
+ Ej skyltad
+Infopunkt (nordgående))
+
+T-korsning E22/Hamragatan (lokal väg)
+(endast förskyltad nordgående)
+ Industri: Hamra
+
+Korsning E22/Ringvägen (lokal väg)
+ Söderköpings Brunn (Hotell/Restaurang)
+ Söderköpings Camping & Vandrarhem
+ Sporthallen Vikingen (Parkering)
+
+Korsning E22/Nybrogatan (lokal väg)
+ Kanal öst (P), Glassrestaurang
+ Centrum syd (P), Turistbyrå
+Restaurang: Kockens Pizza & Grill)
+(endast nordgående riktning)
+
+Korsning E22/Östra Rydsvägen
+ Centrum
+ Östra Ryd
+ Centrum väst (P), Nyströmska skolan
+
+(Bro över Storån)
+T-korsning E22/Brobyvägen (lokal väg)
+ Waldorfskola, Brobyskolan
+
+Korsning E22/Ågatan
+ Kanalhamnen (P), Slussen
+ 210 v: Linköping
+
+Etapp : Söderköping - Norrköping ()
+
+Bro över Göta  Kanal
+(2+1-väg börjar / upphör)
+
+Trp Klevbrinken
+ Ö. Husby, Mem
+ Industri: Slussporten
+ Ramunderbergets naturreservat
+ Vandring, Camping
+
+Infoplats (sydgående)
+
+Korsning Korsbrinken
+ Bjärka
+ Mariehov
+ Vänneberga Gård (Butik / B&B)
+ Brukshundklubb
+
+Söderköping / Norrköping: (58.5148065,16.288659)
+
+Dubbel(Trippel) T-korsning Fransberg (enskild väg)
+ Fransberg (endast förskyltad sydgående)
+
+Korsning Tingstad
+
+Korsning Hållstadvägen (enskild väg)
+
+Dubbel T-korsning Bjärby (enskild väg)
+ Bjärby
+ Sten
+
+Infoplats (nordgående)
+
+T-korsning Ringdansen (lokal väg)
+
+Trp Brånnestad
+
+Trp Hageby
+
+Trafikplats Ljura
+
+Etapp: Genom Södra Norrköping ()
+
+Trp Vilbergen
+
+Trp Skarphagen
+
+Trp Kneippen
+
+Trp Klockaretorpet
+
+Infoplats (sydgående)
+
+Trafikplats Borg
+(avfart nordgående riktning
+påfart sydgående riktning)
+
+Trp Norrköping Södra (119)
