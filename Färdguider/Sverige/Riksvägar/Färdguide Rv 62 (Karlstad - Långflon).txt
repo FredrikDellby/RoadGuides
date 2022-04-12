@@ -99,26 +99,35 @@ Dubbel T-korsning Olsäter V
 					3.8 km/3.6 km	3 min 15 s/3 min 5 s
 Etapp 3: Olsäter - Munkfors ()
 
-Forshaga / Munkfors
+Forshaga / Munkfors: (59.7480665,13.438612)
 					1.7 km/1.8 km	1 min 27 s/1 min 33 s
 T-korsning Ransäter södra
- Ransäter
+ Geijersgården, Erlandergården
+ Storängens Camping och Stugor
 					1.3 km/1.2 km	1 min 7 s/1 min 2 s
 T-korsning Rv 62/Geijersvägen
  Geijerskolan, Lokal väg
 
 T-korsning
- Ransberg, Ransbergs herrgård
+ Ransberg
+ Ransbergs herrgård (B&B/Vandrarhem)
+ Prästmyren vandrarhem
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
 T-korsning Ransäter norra
- Ransäter
+ Ransäter, Ransäters Hembygdsgård
+ Rastplats
 					0.3 km/0.3 km	15 s/15 s
 T-korsning Rv 62/Prästvägen
  Ransberg
+ Ransbergs herrgård (B&B/Vandrarhem)
+ Prästmyren vandrarhem
 					0.9 km/0.9 km	46 s/46 s
-T-korsning Jonsbol Enskild väg
+T-korsning Jonsbol (enskild väg)
+ Högsby, Hemslöjd
 					5.1 km/5.1 km	4 min 22 s/4 min 22 s
-Kopp och fat, B&B & Antik
+(Kopp och fat, B&B & Antik: (59.7955339, 13.5034371))
+
+T-korsning Södra Gersby (enskild väg)
 
 T-korsning Norra Gersby
  Flygfält, Enskild väg
