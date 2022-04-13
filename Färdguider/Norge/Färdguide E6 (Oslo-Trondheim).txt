@@ -550,8 +550,12 @@ T-korsning E6/Tromsnesvegen
  Fåvang kirke
 
 Kryss Fåvang
- Fv2532:
- Fv2532:
+ Fv2532: Fåvang
+ Fv2532: Kvitfjell
+ Serviceplass Kvitfjelltunet/Mammuten
+ Kvitfjell Alpianlegg
+ Bensinstasjon: YX
+ Restaurant: Tunet Kro
 					/)
 Tromsa bru)
  Tromsa, 45 m
@@ -559,7 +563,7 @@ Tromsa bru)
 (80 km/h / 70 km/h): (61.4603243,10.1834643)
 
 T-korsning Fåvang N
- Fv2532:
+ Fv2532: (ikke skiltet?)
  Bensinstasjon: Shell
 
 (70 km/h / 80 km/h): (61.4657612,10.1866391)
@@ -581,5 +585,127 @@ Skjeggestad  Gjestehus og Motell
 
 (Hagen Caravan AS)
 Dubbel T-korsning Ringebu ?
- Fv2532: 
- Fv2576: 
+ Fv2532: Vestsida (3,7 m höyde)
+ Ringebuhallen, Kvitfjell mellomstasjon
+ Fv2576: Atna, Friisvegen
+ Måsåplassen
+
+(Bensinstasjon: Circke-K
+
+(Våla bru)
+ Våla, 46 m
+Dubbel T-korsning Ringebu stasjon
+ Skysstasjon, Parkering, Info
+ Parkering Sentrum
+
+Korsning E6/Tomtegata
+ Skysstasjon, Parkering, Info
+(tidligre bensinstasjon)
+Korsning E6/Brugata
+ Fv2578: (ikke skiltet)
+
+60 km/h / 70 km/h: (61.5314302,10.1257803)
+
+70 km/h / 80 km/h: (61.5337378,10.1154499)
+
+Rasteplass Ringebu nord
+(skiltet sydgående retning)
+
+Dubbel T-korsning Foråbrua
+ Industri: Frya, Camping. Flyplass
+ 27: Folldal, Venabygd
+ Rondane
+
+(Ringebu / Sør-Fron
+(Bru over 
+Ringebu / Sør-Fron)
+
+T-korsning Frya E6
+ Heimtun Camping, Enden Camping
+
+(Mittrekk begynder / ender)
+Motortrafikkvei bygynder / ender: (61.5481017,10.0266462)
+
+Kryss Hundorp (91)
+(avrampe nordgående retning
+pårampe sydgående retning)
+ Fv2522: Hundorp, Fagerhøy
+
+Hundorptunnelen-øst (4 164 m)
+
+Hundorptunnelen-vest
+(80 km/h / 90 km/h)
+(Odenrud bomstasjon)
+ takst 36/72 kr.
+
+Harpe bru (330 m)
+ Gudbrandsdalslågen
+
+Kryss Harpefoss (92)
+ Fv2584: Gålå
+ Fv2584: Harpefoss, Hundorp
+
+Hardvollsmorka bomstasjon: (61.5764889,9.8228336)
+ takst 24,- / 48,-
+
+Sør-Fron / Nord-Fron: (61.5775244,9.8109282)
+
+Rasteplass Mellomsdokka (nordgående)
+
+Vinstersletta bru (126 m)
+ Vinstra
+
+Kryss Vinstra (93)
+ Fv2532 Vinstra
+ 255: Skåbu
+ Fv2532 Fefor
+ Rastplass Vinstra
+ Bensinstasjon: Circle-K
+ Hotel/Restaurant: Peer Gynt
+ 
+(90 km/h / 80 km/h
+Øla bru (85 m): (61.6194680 9.7096598)
+ Øla
+
+Teigkampen bomstasjon: (61.6245493,9.7089195)
+ takst 33/66 kr.
+
+Teigkamptunnelen-syd (3 747 m)
+
+Teigkamptunnelen-nord
+					(/
+(Lågen bru (273,5 m)
+ Lågen og Fv2598
+
+Kryss Kvam (94)
+ Fv2522: Kvam, Kvamsfjellet
+ Hotel: Rondablikk m.fl.
+
+(80 km/h / 90 km/h
+
+(Kjørem bru)
+ Dovrebanen og Fv2522, 193 m
+
+(90 km/h / 60 km/h
+Nord-Fron / Sel: (61.6738372,9.5599256)
+(Motortrafikkvei ender/)
+80 km/h / 60 km/h)
+
+(/Motortrafikkvei begynder)
+Dubbel T-korsning Sjoa
+ Fv2522: Kjørem
+ 257: Randsverk, Heidal
+ Sjoa Camping, Valdresflye
+ Sjoa mat og bensin
+
+Korsning Varphaugen
+ Sjoa Raftingsenter (Camping mm)
+
+Korsning Sæta
+ Industri: Sandbumoen
+ Sæta Camping
+(Vangen Camping)
+
+T-korsning Bredebygden
+ Sykehuset Innlandet, DPS Dögnenhet
+ Sel sjukeheim
