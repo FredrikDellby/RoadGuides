@@ -4,74 +4,97 @@ Färdguide Rv 11 (Malmö - Simrishamn)
 Etapp 1: Malmö - Dalby (18,5 km/18,3 km)
 
 Trp Bulltofta
- Inre Ringvägen, Malmö C
+ [E6-E22 s], [E20 v]
+ Limhamn, Malmö C
+ [E6-E20 n], [E22 n]
+ Bulltofta, Hamnen
 					1,5 km/1,3 km	54 s/47 s
 (Malmö / Burlöv)
 Trp Flansbjer
- Toftanäs
+ Tullstorp
+ Industri, Handel: Toftanäs
+ Handel: St Bernstorp
 					1,2 km/0,9 km	43 s/32 s
 Trp Sunnanå-väst
 (avfart östgående riktning
 påfart västgående riktning)
  E6-E22 s: Trelleborg
- E20 v: Köpenhamn, Kastrup
- [E65 ö]: Ystad, Sturup
+ E20 v: Köpenhamn, Kastrup Lufthavn
+ Sunnanå
  E6-E20 n: Göteborg, Helsingborg
  E22 ö: Kalmar, Lund
+ Nordanå
 					1,7 km/1,8 km	1 min 1 s/1 min 5 s
 Trp Sunnanå-öst
 (avfart västgående riktning
 påfart östgående riktning)
- E6-E22 s, E20 v, [E65 ö], E6-E20 n, E22 ö
+ E6-E22 s: Trelleborg
+ E20 v: Köpenhamn, Kastrup Lufthavn
+ Sunnanå
+ E6-E20 n: Göteborg, Helsingborg
+ E22 ö: Kalmar, Lund
  Nordanå
 Burlöv / Staffanstorp
 					1,9 km/1,8 km	1 min 16 s/1 min 12 s
 Korsning Särslöv
- Särslöv K:a
  S. Sallerup
+ Särslöv K:a, Butik & Deli
 					1,0 km/1,0 km	40 s/40 s
-Segeå
+Bro över Segeå
 					1,0 km/1,1 km	40 s/44 s
 Rondell Staffanstorp SV
+ Önsvala
  Staffanstorp
- Bara
+ Industri: Kronoslätt
+ Bensinstation: Preem
+ Restaurang: Önsvala Grill & Gatukök 
 					3,4 km/4,2 km	2 min 16 s/2 min 48 s
 Trp Staffanstorp Ö
- 108 s: Trelleborg, Svedala
+ 108 s: Trelleborg, Sturups Flygplats
  108 n: Lund, Staffanstorp
+ Industri: Östra, Plantskola
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, Subway
 					2,5 km/1,8 km	1 min 40 s/1 min 12 s
 Trp Kyrkheddinge
  Genarp
  Kyrkheddinge
+ Glassfabrik
 					2,2 km/2,1 km	1 min 28 s/1 min 24 s
+(Påfart (västgående))
+
 Korsning
- Bonderup
+ Lunnarp
+ Vallby (enskild väg)
+ Kanik, Reklambyrå (enskild väg)
 					0,3 km/0,3 km	12 s/12 s
-Korsning
- Lokalt mål
 (Staffanstorp / Lund)
+Korsning (lokal väg)
+ Örestads Blästring
 					2,0 km/2,2 km	1 min 20 s/1 min 28 s
 Rondell Dalby V
- Dalby
- 102: Lund
+ Torna Hällestad, Dalby
+ 102: Lund, S. Sandby
+ Restaurang: Dalbygrillen
 
 Etapp 2: Dalby - Veberöd (9,4 km/9,3 km)
 					1,2 km/1,5 km	0 min 48 s/1 min 0 s
 Trp Dalby S
+ Dalby
  Genarp
 					0,9 km/0,7 km	36 s/28 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
+ Lantbruksprodukter
 					0,5 km/0,6 km	20 s/24 s
-T-korsning
- Restaurang
+T-korsning (lokal väg)
+ Stenbrott
 					0,7 km/0,5 km	28 s/20 s
-T-korsning Önneslöv
-(enskild väg)
+T-korsning Önneslöv (enskild väg)
  Önneslöv
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
 T-korsning Knivåsen
- Björnstorp, Genarp
+ Björnstorp
+ Dressincykling, Visenda
 					0,4 km/0,5 km	16 s/20 s
 Korsning Knivås
  Dalby
