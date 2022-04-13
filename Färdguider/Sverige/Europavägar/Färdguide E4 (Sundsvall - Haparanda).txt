@@ -245,8 +245,112 @@ T-korsning Norrstig E4
 
 T-korsning (enskild väg)
  Norrstigsstrand
+(Mittseparering börjar / upphör)
+
+Korsning Älandsbro skola E4
+ Älandsbro skola (lokal väg)
+ Restaurang: Pizzeria Blå Ängeln
+(Bro över Mjösjöbäcken)
+
+Korsning Älandsbro
+ Aspnäs, Ramsås
+ Folkets Hus, Maskinuthyrning
+ Blå Porten Antik & Loppis
+ Bensinstation: OKQ8
+ Restaurang: Sibylla
+
+T-korsning E4/Hammarvägen
+ Lokal väg (ej skyltad)
+ Bensinstation: Preem
+
+T-korsning E4 Nässland
+ Färja: Hemsön
+ Hemsö Fästning (sevärdhet)
+ Industri: Älandsbro
+ Härnösands Golfklubb
+(Mittseparering upphör / börjar)
+
+T-korsning
+ Gryttjom
+
+T-korsning Östersjäland
+ Gryttjom
+ Östersjäland (enskild väg)
+ Restaurang: Mats & Karin Musik & Möten
+
+Korsning Berge
+ Gryttjom, Berge
+(Mittseparering börjar / upphör)
+
+Dubbel T-korsning Överdal
+ Överdal (enskild väg)
+ Vålånger, Överskog
+
+Infoplats (sydgående)
+
+Infoplats (nordgående)
+
+Trp Utansjö (244)
+ Vålånger
+ Utansjö
+
+Infoplats (nordgående)
+
+Trp Mörtsal (245)
+ 90: Sollefteå, Kramfors, Lunde
+ Höga Kusten Airport
+ Snibbens Camping Stugby & STF Vandrarhem Snibben
 
 Etapp 32: Mörtsal - Gallsäter ()
+
+(Järnvägsviadukt)
+ Ådalsbanan
+Högakustenbron-syd (1 867 m): (62.7914204,17.9278083)
+ Ångermanälven
+
+(Härnösand / Kramfors)
+
+Högakustenbron-nord: (62.8044281,17.9487263)
+
+Rastplats Hornöberget
+ Hotell/Restaurang: Höga Kusten
+ Höga Kusten (info och världsarv)
+
+Trp Nyadal (246)
+ Klockestrand, Nyadal, [332]: Lunde
+ Lövvik
+ Björkuddens Hotell & Restaurang
+ Höga Kusten södra (turistväg)
+ 
+Hornöbron-syd: (62.8165077,17.9683006)
+
+Hornöbron-nord: (62.8207219,17.9700262)
+
+Parkeringsplats
+
+Trp Skullersta (247)
+ Nora k:a, Nordvik
+ Klockestrand
+
+Trafikplats Gräta (248)
+
+Trafikplats (enskild väg)
+
+Bro-syd: (62.906298,18.0929753)
+
+Bro-nord: (62.9107459,18.0929813)
+
+Trp Gallsäter Södra (249)
+
+Trp Gallsäter Norra (250)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 332: Kramfors, Lunde, Herrskog
+ Gallsäter, Höga Kusten Airport
+ Storsjö Camping & Trädgård, Storsjöbadet
+ Restaurang: Högakusten Catering
+(T-korsning (enskild väg))
+ Ej skyltad
 
 Etapp 33: Gallsäter - Docksta ()
 
