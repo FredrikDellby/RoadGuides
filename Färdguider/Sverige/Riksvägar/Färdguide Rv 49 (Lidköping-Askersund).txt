@@ -350,21 +350,52 @@ T-korsning Rv 49/Kärleksstigen
  Karlsborgs fästning, Vandrarhem
  Industri: Flottiljen
 					1.2 km/1.1 km	1 min 48 s/1 min 39 s
+Karlsborgs Busstation (fd jvgstn)
+ Restaurang: San Remo Pizzeria
+T-korsning Rv 49/Kungsgatan
+ Ej skyltad
 
+T-korsning Rv 49/Näckstigen (lokal väg)
+ Restaurang: Evans
 Korsning Rv 49/Torggatan
  Karlsborgs fästning
+(T-korsning Rv 49/Hamngatan)
+ Lokal väg
 					0.8 km/1.1 km	1 min 12 s/1 min 39 s
-(Göta Kanal, 2 gånger)
+(Bro över Göta Kanal)
+					(/
+T-korsning Rv 49/Vätternvägen (lokal väg)
+Korsning Rv 49/Skeppareg. (lokal väg)
+
+(Bro över Göta Kanal)
+Korsning Rv 49/N. Kanalgatan (lokal väg)
 
 Rastplats Öltappen
 Bensinstation: OKQ8
-T-korsning 49/Parkvägen
- Carlsborgsparken
+
+Rondell Rv 49/Parkvägen
+ Äspenäset
+ Norra Skogen, Haganäset
+ Camping, Bad
 					1.0 km/0.7 km	1 min 12 s/0 min 50 s
-T-korsning 49/Svartfjällsv.
- Carlsborgsparken
+T-korsning Rv 49/Svartfjällsv. (lokal väg)
+ Industri: Norra Skogen
+ Återvinningscentral, Tacksägelsekyrkan
+(T-korsning Rv 49/Gamla vägen)
+ Hanken (endast nordgående), Lokal väg
 					1.1 km/1.1 km	1 min 19 s/1 min 19 s
-T-korsning
+Korsning Hanken Rv 49 (lokal väg)
+ Hanken (endast skyltad sydgående)
+T-korsning Rv 49/Svanviksv. (lokal väg)
+ SBK
+
+T-korsning (lokal väg)
+ Hammarnäset, FMV Provplats
 					1.0 km/1.0 km	1 min 12 s/1 min 12 s
+(T-korsning (enskild väg))
+
 T-korsning Hultet
- 202: Mariestad, Töreboda
+ 202: Mariestad, Undenäs
+ Forsvik (sevärdhet)
+
+Korsning (enskild väg)

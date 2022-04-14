@@ -47,7 +47,9 @@ Trp Motala Norra
  Ring: Motala N, Handelsomr: Bråstorp
  Industri: Varamon, Varamobaden
 
-T-korsning 50/Smedsbyvägen (lokal väg)
+Etapp 3: Motala - Medevi ()
+
+T-korsning Rv 50/Smedsbyvägen (lokal väg)
  Smedsby
  Räddningstjänst, Övningsfält
  Bildemontering, Wagnfabriken
@@ -101,6 +103,8 @@ T-korsning Medevi N
  Medevi, Medevi säteri
  Medevi Brunn (sevärdhet, hotell, m.m.)
 
+Etapp 4: Medevi - Gärdshyttan ()
+
 T-korsning (enskild väg)
  Västanvik
 
@@ -110,7 +114,7 @@ Motala / Askersund
 T-korsning Stordalen
  Tjällmo
 
-T-korsning (enskild väg)
+T-korsning Dalkullen (enskild väg)
  Nydalen
 
 Korsning Råå (enskild väg)
@@ -118,6 +122,91 @@ Korsning Råå (enskild väg)
 
 Sörbygdsgården
 
-T-korsning Forsaviken norra
+(T-korsning Forsaviken södra)
+ Mon, Enskild väg
+
+(T-korsning Forsaviken norra)
  St Forsa, Enskild väg
 
+Parkeringsplats (västra sidan)
+(2+1-väg börjar / upphör)
+
+T-korsning Gärdshyttan
+ Åmmeberg, Zinkgruvan
+ Golfklubb
+
+Etapp 5: Gärdshyttan - 
+
+Korsning Sänna Rv 50
+ Sänna
+ Harge, Hargebaden
+ Bensinstation: Q-star
+ Restaurang: Hargegrillen
+
+Korsning Lunna (enskild väg)
+ Rudorna
+ Lunna by
+
+T-korsning Hammar S
+ Hammar
+ Industri: Hammar
+
+Trafikplats (enskild väg)
+ Skyrsta, Bastedalen
+ Harge uddar Naturreservat
+ Hotell/Restaurang: Vätternterrassen
+
+Rastplats Stora Hammarsundet
+                    /)
+Bro över Stora Hammarsundet-syd)
+
+Bro över Stora Hammarsundet-nord
+
+T-korsning Öna (enskild väg)
+(endast förskyltad sydgående)
+ Prinskullen (sevärdhet)
+ Öna
+
+Bro över Lilla Hammarsundet
+58.8362915,14.929314
+58.8387911,14.927765
+
+(T-korsning (sydgående))
+ Gamla Rv 49, Enskild väg
+
+T-korsning Stjärnsund Rv 50
+ Stjärnsund, Slott
+ Äggboden
+
+Trp Skoporten
+ 49: Skövde, Karlsborg
+
+Etapp 6: Stjärnsund - Askersund ()
+
+T-korsning Rude (enskild väg)
+ Grönlid
+
+Korsning Stockshammar (enskild väg)
+ Husabergsudde Camping
+ Stockshammar Gårdsbutik & Café
+ Nordhammar
+
+Bro över ?
+
+Rondell Södra infarten
+ Centrum, Hamn, Turistbyrå
+ 205: Karlskoga, Laxå
+
+Bro över Bronaån
+(58.8814291,14.8971688 / 58.8820216,14.8975283)
+
+T-korsning Askersundsby
+ Vretstorp, Snavlunda
+ Handeslträdgård
+ Bensinstation: Tanka
+
+Korsning Askersund NO
+ Åmmeberg, Askersund N
+ Järnvägsstation
+ Kärret (enskild väg)
+ Bensinstation: OKQ8
