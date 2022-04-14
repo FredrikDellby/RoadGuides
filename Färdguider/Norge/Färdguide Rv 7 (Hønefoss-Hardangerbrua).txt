@@ -1,5 +1,5 @@
-Reseguide Rv 7 Hønefoss -  Hardangerbrua
-=========================================
+Reseguide Rv 7 (Hønefoss -  Hardangerbrua)
+===========================================
 
 Rondell E16/Rv 7
  E16 n: Bergen, Fagernes
@@ -786,3 +786,43 @@ Dubbel T-korsning Eidfjord sentrum
  Eidfjord Fjell og Fjord Hotell
  Camping, Hytter
 Restaurang: Sjel og Gane Bar og Restaurant
+
+Ingrid’s Apartments: (60.4653831,7.0654021)
+
+T-korsning Rv 7/Gamlenaustvegen
+ Industri: Lägreid
+
+Eidsfjord Marina
+
+Kyskredotunnelen (67 m), rasoverbygg
+
+T-korsning Erdal
+ Erdal
+
+Furlotunnelen (115 m), rasoverbygg
+
+Fossånatunnelen (367 m)
+
+Avfart (vestgående)
+ Brimnes f.d. ferjekai
+T-korsning (östgående)
+ Brimnes f.d. ferjekai
+
+Buss-/Parkeringsplass (norde side)
+
+Storagjelet bru (60 m): (60.4683038,6.8955709)
+ Teigelvi
+Navragjelet bru (25 m): (60.4677148,6.8926369)
+ Novragjelselvi
+
+Eidsfjord / Ullensvang: (60.4697587,6.8507088)
+
+T-korsning Bu terminal
+ Rasteplass Bu, Blikkpunkt
+
+(Butunnelen-arm (253 m)
+
+Rondell Butunnelen
+ 13 s: Odda
+ [E16 v]: Bergen
+ 13 n: Voss
