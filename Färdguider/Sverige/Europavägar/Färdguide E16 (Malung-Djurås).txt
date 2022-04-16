@@ -9,26 +9,61 @@ Rondell Malung Ö
  E45 n: Mora
  66 v: Trysil, Sälen
 
-T-korsning E16/Ö. Bangatan
+T-korsning E16/Ö. Bangatan (lokal väg)
+ Industriområde, Ej skyltat
 
 Korsning E16/Lisagatan
+ Centrum
  Bensinstation: OKQ8
+ Restaurang: Pizzeria Venezia, Dogan Pizzeria
 
+T-korsning E16/Piltvägen (enskild väg)
+ Kvarnstensbrott (sevärdhet)
+
+Korsning Folkhögskolan (lokal väg)
+ Folkhögskola, Hembygdsgård
+
+T-korsning Turistgården (lokal väg)
+ Turistgården Vandrarhem
 Korsning Malungs kyrka
+ Malungs kyrka
+ Hotell: Myckelbyns Gästgiveri & Hotell
 
 Järnvägsviadukt
  Västerdalbanan
 
-T-korsning Lugnet
+T-korsning Grimsåker E16 (enskild väg)
+ Jome Skog
+ S. Grimsåker
+
+(Korsning (enskild väg))
+ Ej skyltad
+
+Dubbel T-korsning (enskild väg)
+ Frisör
+
+T-korsning Malungs GK (lokal väg)
  Malungs GK
+
+T-korsning Lugnet (lokal väg)
  Restaurang: Värdshuset Lugnet
+
+Korsning Vemforsen (enskild väg)
+ Parkering Vemforsen
 
 Järnvägsbro
  Västerdalbanan
 
-T-korsning Yttermalung
+Korsning Yttermalung
+ Hagfors, Tyngsjö, Sillerö
+ Yttermalungs Camping, Stugby & Malungs Äventyr
+
+Yttermalungs (fd?) Handel
+
+(Bilreparationer & Däck Marcus Halvars)
 
 Infoplats Almasjön
+(främst för västgående)
 
 Malung / Vansbro
 
@@ -36,27 +71,53 @@ Järnvägsviadukt
  Västerdalbanan
 
 Korsning Äppelbo kyrka
+ Hagfors, Tyngsjö, Äppelbo
 
 Etapp 5: Äppelbo - Vansbro (15,0 km/15,0 km)
 
-Korsning
+Bro över Noret
+
+(Korsning (enskild väg))
+
+(T-korsning (lokal väg))
+ Sågverk, ej skyltad
+
+Korsning (lokal väg)
+ Kotor, Stugby
  Sågverk
 
-Servicecenter
- Bensin
- Restaurang
+Korsning (enskild väg)
+ Hunflon (alpin och fiske)
+                    (/
+(Servicecenter Äppelbo
+ Bensinstation: Din-X
+ Restaurang: Äppelbo Värdshus
 
-Korsning Rågsveden E16
+Korsning Rågsveden
+ Äppelbo
 
 Järnvägsbro
  Västerdalbanan
 
+Bro över Gryckån
+
+T-korsning (lokal väg)
+ Återvinningsstation
+
 Korsning E16/Industrigatan
- Bensinstation: OKQ8
+ Westlings Gods, Lokal väg
 
-Korsning E16/Skolgatan
+(T-korsning E16/Panntjärnsv.)
+ Rum, Lokal väg
+(AD Bildelar Vansbro)
 
-T-korsning E16/Folketshusv.
+Korsning E16/Skolgatan (lokal väg)
+ Utbildningscenter, Gymnasieskola
+
+T-korsning E16/Folketshusv. (lokal väg)
+ Vansbro Kulturskola, Skidstuga
+T-korsning E16/Vasagatan (lokal väg)
+ Gymnasieskola
 
 Rondell
  Centrum
