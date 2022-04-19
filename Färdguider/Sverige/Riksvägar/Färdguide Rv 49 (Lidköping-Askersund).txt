@@ -1,5 +1,5 @@
-Färdguide Rv 49 (Skara - Askersund)
-====================================
+Färdguide Rv 49 (Lidköping - Askersund)
+========================================
 
 Rondell Rv 44/Rv 49
  44 v: Uddevalla, Lidköping
@@ -398,4 +398,86 @@ T-korsning Hultet
  202: Mariestad, Undenäs
  Forsvik (sevärdhet)
 
+Trafikkontrollplats
+
 Korsning (enskild väg)
+ Perstorps skjutbanor, Nytorps skjutfält
+
+Korsning (enskild väg)
+ Höghult, Bölskullen (sevärdhet)
+
+Korsning (enskild väg)
+ Klangahamns Fiskehamn, Fiskrökeri
+ Bölets ängar (naturreservat)
+T-korsning (enskild väg)
+ Infoplats Tiveden
+
+T-korsning Granvik Rv 49
+ Tived, Granvik
+ Granviks Herrågrd, Camping, Stugor
+
+T-korsning (enskild väg)
+ Djäknasundet, Badplats
+
+Korsning (enskild väg)
+ Sörhamn
+ Tivedens Nationalpark (sevärdheT)
+ Stenkällegården (Camping, Vandrarhem, Stugor)
+ Skidbacke
+
+Infoplats (östra sidan)
+(endast skyltad sydgående)
+(T-korsning (enskild väg))
+
+T-korsning (enskild väg)
+ Tjuråsen, Utenäset Naturreservat
+ Igelbäckens masugn
+Västra Götaland / Örebro: (58.6975146,14.6983204)
+Karlsborg / Askersund
+
+T-korsning (enskild väg)
+ Jaktskyttebana
+
+Rastplats Koviken (östra sidan)
+
+T-korsning Olshammar S
+ Munksjö Aspa Bruk
+ Olshammarsgården (sevärdhet)
+ Bensinstation: Q-star
+
+T-korsning Olshammar N
+ Ahlstrom-Munksjö Aspa Bruk
+ Olshammarsgården (sevärdhet)
+ Bensinstation: Q-star
+
+Korsning Aspa bruk (enskild väg)
+ Aspa
+ Fagertjärn Naturreservat
+(Bro över Aspaån)
+
+T-korsning (enskild väg)
+ Aspagård
+
+Dubbel T-korsning (enskild väg)
+ St Björstorp, Håkantorp
+ Nynäs
+(2+1-väg börjar / upphör)
+
+Korsning (enskild väg)
+ Bodaborg
+ Boda
+
+Korsning (enskild väg)
+ Tikanäs
+ Grönlid
+
+T-korsning (enskild väg)
+(endast förskyltad sydgående)
+ Fatburen (gamla 49:an)
+
+Trp Skoporten(-väst)
+ 50 s: Jönköping, Motala
+ 50 n: Örebro, Askersund
+
+(Trp Skoporten-öst)
+ 50 n: Örebro, Askersund
