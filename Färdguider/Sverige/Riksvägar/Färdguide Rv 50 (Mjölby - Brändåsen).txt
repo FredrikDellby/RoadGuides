@@ -135,7 +135,7 @@ T-korsning Gärdshyttan
  Åmmeberg, Zinkgruvan
  Golfklubb
 
-Etapp 5: Gärdshyttan - 
+Etapp 5: Gärdshyttan - Stjärnsund
 
 Korsning Sänna Rv 50
  Sänna
@@ -197,6 +197,8 @@ Rondell Södra infarten
  Centrum, Hamn, Turistbyrå
  205: Karlskoga, Laxå
 
+Etapp 7: Askersund - ()
+
 Bro över Bronaån
 (58.8814291,14.8971688 / 58.8820216,14.8975283)
 
@@ -210,3 +212,85 @@ Korsning Askersund NO
  Järnvägsstation
  Kärret (enskild väg)
  Bensinstation: OKQ8
+
+Dubbel T-korsning Högalund (enskild väg)
+ Skogsboda
+ Sjöfallet, Vändplats
+
+Korsning Ingelsby
+ Zinkgruvan, Åmmeberg, Ingelsby
+ Östansjötorp (enskild väg)
+ Askersunds Golfklubb
+
+(Bro över å)
+Dubbel T-korsning Kilsborg
+ Ladäng
+ Kilsborg (enskild väg)
+
+T-korsning Skyllberg S
+ Kårberg, Skyllberg
+
+Korsning Skyllberg Ö
+ Närkesberg, Mariedamm
+ Rönneshytta, Varuhus
+ Idrottsplats
+(Viltstängsel upphör / börjar)
+
+Bro över Rönnesån
+
+Korsning Äsperud
+ Lerbäck
+ Äsperud
+ Hotell: Per Olof Gården
+
+T-korsning (enskild väg)
+(endast skyltad nordgående)
+
+Korsning (enskild väg)
+
+Korsning (enskild väg)
+ Luckebo
+
+T-korsning (enskild väg)
+(endast skyltad nordgående)
+
+(Bro över bäck)
+
+Korsning Åsbro N/Rv 50
+ Åsbro
+ Karintorp, Västra å
+ Dovra sjöar, Åsbrohallen
+ Englagård Herrgård, Rosendals festgård
+
+Korsning Kassmyra
+ Blåberga, Knottebo (enskild väg)
+ Åsbro kursgård
+ Kassmyra (enskild väg)
+
+Askersund / Hallsberg: (59.0224715,15.0320524)
+
+Trafikplats Tälle
+ Hallsberg C
+ Östansjö
+ Logistikcentrum S, Postterminal
+
+Järnvägsviadukt
+ Västra Stambanan
+
+Korsning Äspsätter
+ Hallsberg V, Logistikcentrum N
+ Ahlsell, Hallsbergsterminalen
+ Kärr (enskild väg)
+
+Korsning Rasta Brändåsen
+ Åstorp (enskild väg)
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, RASTA
+
+Trp Brändåsen-syd
+ E20 v: Göteborg
+(Trp Brändåsen-nord
+ Hardemo
+
+(Trp Brändåsen
+ E20 v: Göteborg
