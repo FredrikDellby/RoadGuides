@@ -1,94 +1,148 @@
-Färdguide Rv 25 (Halmstad - Kalmar)
+FÃ¤rdguide Rv 25 (Halmstad - Kalmar)
 ====================================
 
-Etapp 1: Halmstad - Länsgränsen (27,6 km/27,3 km)
+Etapp 1: Halmstad - LÃ¤nsgrÃ¤nsen (27,6 km/27,3 km)
 
-Trp Halmstad Öst (44)
- E6-E20 s: Malmö
- E6-E20 n: Göteborg
-Bensinstation: OKQ8
+Korsning Cirkusplatsen
+ Bensinstation: OKQ8, Circle-K
+
+Trp Halmstad Ã–stra-vÃ¤st
+ E6-E20 s: MalmÃ¶
+
+Trp Halmstad Ã–stra-Ã¶st
+ E6-E20 n: GÃ¶teborg
 					0,8 km/0,5 km	58 s/36 s
-Rondell Byvägen/25
- Fyllinge
- Vallås
- Bensinstation: Preem, OKQ8
+Rondell VallÃ¥s Rv 25
+ SnÃ¶storp
+ Handel: Stenalyckan, Hallarna
+ VallÃ¥s
+ Bensinstation: Preem, PS Olje
+ Restaurang: Mac Inn, VallÃ¥s Pizzeria
+ Hotell: Halmstad Hotel Apartments
 					1,3 km/1,3 km	1 min 34 s/1 min 34 s
-Dubbel T-korsning
- Lokalväg
+Dubbel T-korsning (lokala vÃ¤gar)
+ VallÃ¥s Ã–, Travbana, HembygdsgÃ¥rd
+ SnÃ¶storp Ã–
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
 Korsning Skedalahed
- Åled, Oskarsström
+ BrogÃ¥rd
+ OskarsstrÃ¶m, Ã…led
+ Skedalaheds idrottspark
 					1,8 km/1,8 km	1 min 33 s/1 min 33 s
-T-korsning Skedala
- Tolarp
+(T-korsning MariehemsvÃ¤gen)
+ Lokal vÃ¤g
+
+T-korsning Skedala S
+ MÃ¤stocka, Ã…rnarp
 					2,9 km/2,9 km	2 min 29 s/2 min 29 s
+Korsning Skedala Ã– (enskild vÃ¤g)
+ Skedala
+ Halmstad Hundarena, BygdegÃ¥rd
+
+(T-korsning (enskild vÃ¤g))
+ ToftasjÃ¶n
+Parkeringsplats (norra sidan)
+
 T-korsning Ugnberga
- Marbäck
+ MarbÃ¤ck
 					3,1 km/3,4 km	2 min 39 s/2 min 55 s
-Dubbel T-korsning Skärkered
- Marbäck
- Hertered
+T-korsning (enskild vÃ¤g)
+ Skedalaskog Ã–, Ã–n (vandring)
+
+T-korsning SkÃ¤rkered (1)
+ MarbÃ¤ck (endast skyltad vÃ¤stgÃ¥ende)
+
+T-korsning SkÃ¤rkered (2)
+ Hertered, Motocross
 					3,8 km/3,8 km	3 min 15 s/3 min 15 s
-Korsning Simlångsdalen V
- Torared
-T-korsning Simlångsdalen V
- Simlångsdalen K:a
+(Parkeringsplats (norra sidan)
+					(/
+Parkeringsplats (sÃ¶dra sidan)
+
+T-korsning SimlÃ¥ngsdalens industri
+ Keramik, CafÃ©, Lokal vÃ¤g
+
+Bensinstation: Q-star
+Korsning SimlÃ¥ngsdalen V
+ TÃ¶nnersjÃ¶, Naturreservat Danska fall
+ Hotell/Restaurang: TallhÃ¶jden
+					(/
+MatÃ¶ppet SimlÃ¥ngsdalen)
+(T-korsning SimlÃ¥ngsdalen V)
+ SimlÃ¥ngsdalen K:a (ej skyltad)
 					0,6 km/0,5 km	37 s/36 s
-Dubbel T-korsning Simlångsdalen C
- Oskarsström
- Mahult
+Restaurang: SimlÃ¥ngsdalens Pizzeria & Pub
+
+Dubbel T-korsning SimlÃ¥ngsdalen C
+ OskarsstrÃ¶m, Bredareds K:a
+ Naturreservat Lillared/KlÃ¶vaberget
+ FemsjÃ¶, Mahult
+ SimlÃ¥ngsgÃ¥rden (Camping & Vandrarhem)
+ Idrottsplats
 					2,1 km/2,1 km	1 min 44 s/1 min 44 s
-T-korsning
- Attavara
+T-korsning (enskild vÃ¤g)
+ Badplats, PaulssonPaleo B&B
+(Bro Ã¶ver
+
+(T-korsning (enskild vÃ¤g))
+ Infoplats BrÃ¶da Naturreservat
+
+T-korsning (enskild vÃ¤g)
+ FÃ¤grilt, SimlÃ¥ngsstugan
 					2,2 km/2,2 km	1 min 53 s/1 min 53 s
-T-korsning Alledal
- Attavara
+(T-korsning Alledal (enskild vÃ¤g))
+ FÃ¤grilt
+
+T-korsning (enskild vÃ¤g)
+ LÃ¥nghultebackarna
 					1,9 km/2,1 km	1 min 38 s/1 min 48 s
 Rastplats Esmared
+(endast skyltad vÃ¤stgÃ¥ende)
 					0,6 km/0,3 km	31 s/15 s
 T-korsning Esmared V
- Torared
+ Torared, GÃ¥rdshult (sevÃ¤rdheT)
 					0,4 km/0,4 km	21 s/21 s
-T-korsning Esmared Ö
- Bäckalt
+T-korsning Esmared Ã–
+ Klerekull
+ Naturrservat PorsbjÃ¤r, Kapell
 					4,6 km/4,6 km	3 min 57 s/3 min 57 s
 Halland / Kronoberg
 Halmstad / Ljungby
 
-Etapp 2: Länsgränsen - Ljungby (38,8 km/39,4 km)
+Etapp 2: LÃ¤nsgrÃ¤nsen - Ljungby (38,8 km/39,4 km)
 					3,2 km/3,2 km	2 min 24 s/2 min 24 s
 Korsning Glamshult
  Hyhult
  Lidshult
 					5,8 km/6,0 km	4 min 21 s/4 min 30 s
-Dubbel T-korsning Vrå
- Vrå
+Dubbel T-korsning VrÃ¥
+ VrÃ¥
  Lidshult
 					8,5 km/8,3 km	6 min 23 s/6 min 14 s
-Dubbel T-korsning Boasjön
+Dubbel T-korsning BoasjÃ¶n
  Torpa
  Lidshult
 					0,3 km/0,4 km	14 s/18 s
-Rastplats Boasjön
+Rastplats BoasjÃ¶n
 					5,0 km/4,9 km	3 min 45 s/3 min 41 s
 T-korsning Skeen S
  Angelstad, Bolmen
 					0,8 km/1,1 km	36 s/50 s
-Dubbel T-korsning Skeen Ö
+Dubbel T-korsning Skeen Ã–
  Torpa
  Skeen
 					1,3 km/0,9 m	59 s/41 s
 T-korsning Annerstad V
  Annerstad
 					1,0 km/1,0 km	45 s/45 s
-T-korsning Annerstad Ö
+T-korsning Annerstad Ã–
  Annerstad
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
 T-korsning
- Nöttja
+ NÃ¶ttja
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
-T-korsning Fårtorp V
- Kånna, Fårtorp
+T-korsning FÃ¥rtorp V
+ KÃ¥nna, FÃ¥rtorp
 					1,8 km/1,8 km	1 min 21 s/1 min 21 s
 T-korsning
  Angelstad, Romborna
@@ -96,15 +150,15 @@ T-korsning
 Korsning
  Angelstad, Dragaryd
 					1,8 km/2,2 km	1 min 21 s/1 min 39 s
-Trp Ljungby Södra (79)
+Trp Ljungby SÃ¶dra (79)
  E4 s: Helsingborg, Markaryd
  Bensinstation: Statoil (b)
  Restaurang: McDonald's, MAX
 
-Etapp 3: Ljungby - Sjöatorp (37,8 km/37,7 km)
+Etapp 3: Ljungby - SjÃ¶atorp (37,8 km/37,7 km)
 					6,1 km/6,3 km	4 min 4 s/4 min 12 s
 Trp Ljungby Norra (80)
- E4 n: Stockholm, Värnamo
+ E4 n: Stockholm, VÃ¤rnamo
 					1,1 km/0,9 km	50 s/41 s
 Rondell Myrebo
  Ljunby Centrum
@@ -117,20 +171,20 @@ Korsning Sickinge
  Lagan
 					1,8 km/1,8 km	1 min 12 s/1 min 12 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,8 km/0,9 km	32 s/36 s
 T-korsning Gnustorp
- Enskild väg
+ Enskild vÃ¤g
 					1,8 km/1,7 km	1 min 12 s/1 min 8 s
-Korsning Tutaryd väg 25
+Korsning Tutaryd vÃ¤g 25
  Tutaryd
  Lagan, Rydboholm
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
-Korsning Förarp
- Enskild väg
+Korsning FÃ¶rarp
+ Enskild vÃ¤g
 					2,3 km/2,3 km	1 min 32 s/1 min 32 s
 Korsning Ekliden Ryssby
- Enskild väg
+ Enskild vÃ¤g
 					2,3 km/2,3 km	1 min 32 s/1 min 32 s
 T-korsning Ryssby V
  Ryssby
@@ -139,56 +193,56 @@ Korsning Ryssby N
  Ryssby
  Ljunga
 					0,7 km/0,7 km	28 s/28 s
-Korsning Östraby
+Korsning Ã–straby
  Ryssby
  Rydboholm
 					1,8 km/1,9 km	1 min 12 s/1 min 16 s
 Korsning Staffansboda
- Enskild väg
+ Enskild vÃ¤g
 					3,3 km/3,4 km	2 min 12 s/2 min 16 s
-Kronoberg / Jönköping
-Ljungby / Värnamo
-(endast skyldad västgående)
+Kronoberg / JÃ¶nkÃ¶ping
+Ljungby / VÃ¤rnamo
+(endast skyldad vÃ¤stgÃ¥ende)
 Korsning Malaberg
- Målaskog
+ MÃ¥laskog
  Rydboholm
 					0,7 km/0,5 km	28 s/20 s
 Rastplats Fegen
 					4,6 km/4,6 km	3 min 4 s/3 min 4 s
-Jönköping / Kronoberg
-Värnamo / Alvesta
-(endast skyltad östgående)
+JÃ¶nkÃ¶ping / Kronoberg
+VÃ¤rnamo / Alvesta
+(endast skyltad Ã¶stgÃ¥ende)
 					1,3 km/1,3 km	52 s/52 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
 Korsning Brunnshult
- Enskild väg
+ Enskild vÃ¤g
 					3,4 km/3,5 km	2 min 16 s/2 min 20 s
-Sjöatorpsrondellen
- 27 n: Göteborg, Värnamo
+SjÃ¶atorpsrondellen
+ 27 n: GÃ¶teborg, VÃ¤rnamo
 
-Etapp 4: Sjöatorp - Växjö (20,3 km/20,9 km)
+Etapp 4: SjÃ¶atorp - VÃ¤xjÃ¶ (20,3 km/20,9 km)
 					1.1 km/1.1 km	50 s/50 s
 Trafikkontrollplats
 
 T-korsning Hjortsberga S
  Hjortsberga
 					0.5 km/0.5 km	23 s/23 s
-T-korsning Norra Råsen
+T-korsning Norra RÃ¥sen
  Vislanda
 					0.6 km/0.6 km	27 s/27 s
-T-korsning Forsa vägskäl
+T-korsning Forsa vÃ¤gskÃ¤l
  Forsa
 					0.4 km/0.4 km	18 s/18 s
-Järnvägsviadukt
- Södra Stambanan
+JÃ¤rnvÃ¤gsviadukt
+ SÃ¶dra Stambanan
 					0.4 km/0.5 km	18 s/23 s
-Korsning Hälleberg
+Korsning HÃ¤lleberg
  Hjortsberga Kyrka
 					1.1 km/1.1 km	50 s/50 s
-T-korsning Forsa östra
- Café 25:an
+T-korsning Forsa Ã¶stra
+ CafÃ© 25:an
 
 T-korsning Alvesta V
  Alvesta
@@ -199,24 +253,24 @@ Trafikplats
 					0.6 km/0.8 km	24 s/32 s
 Trafikplats
  Alvesta
- Härlöv
+ HÃ¤rlÃ¶v
 					1.1 km/1.1 km	44 s/44 s
-Rastplats Spånen
+Rastplats SpÃ¥nen
 					0.4 km/0.5 km	16 s/20 s
 Trafikplats
 					2.8 km/2.7 km	1 min 52 s/1 min 48 s
-Alvesta / Växjö
+Alvesta / VÃ¤xjÃ¶
 					6.2 km/6.6 km	4 min 8 s/4 min 24 s
-Infoplats (östgående)
+Infoplats (Ã¶stgÃ¥ende)
 
-Trafikplats Öjaby
- 30: Jönköping, Lammhult
+Trafikplats Ã–jaby
+ 30: JÃ¶nkÃ¶ping, Lammhult
 					1.5 km/1.6 km	54 s/58 s
-Trp Helgevärma
- 23 s: Hässleholm, Älmhult
- Växjö Centrum
+Trp HelgevÃ¤rma
+ 23 s: HÃ¤ssleholm, Ã„lmhult
+ VÃ¤xjÃ¶ Centrum
 
-Etapp 5: Förbi Växjö (7,7 km/6,8 km)
+Etapp 5: FÃ¶rbi VÃ¤xjÃ¶ (7,7 km/6,8 km)
 					2,0 km/1,4 km	1 min 30 s/1 min 3 s
 Trafikplats Araby
 					1,3 km/1,1 km	52 s/44 s
@@ -224,79 +278,79 @@ Trp Hovshaga
  Kronoberg
 					1,5 km/1,8 km	1 min 0 s/1 min 12 s
 Trp Norremark
- 23: Linköping, Hultsfred
- 37: Oskarshamn, Högsby
+ 23: LinkÃ¶ping, Hultsfred
+ 37: Oskarshamn, HÃ¶gsby
 					2,0 km/1,6 km	1 min 30 s/1 min 12 s
 T-korsning
 					0,5 km/0,5 km	23 s/23 s
 T-korsning
 					0,3 km/0,4 km	15 s/21 s
-Rondell Högstorp
+Rondell HÃ¶gstorp
  27 s: Karlskrona, Tingsryd
 
-Etapp 6: Växjö - Hovmantorp (21,8 km/21,7 km)
+Etapp 6: VÃ¤xjÃ¶ - Hovmantorp (21,8 km/21,7 km)
 					0,8 km/0,6 km	36 s/27 s
 T-korsning
  Glasrikets GK
 					0,7 km/0,7 km	32 s/32 s
-T-korsning 25/Vildgåsvägen
- Lokalt mål
+T-korsning 25/VildgÃ¥svÃ¤gen
+ Lokalt mÃ¥l
 					0,6 km/0,6 km	24 s/24 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					2,2 km/2,3 km	1 min 28 s/1 min 32 s
-Korsning Källehult
- Enskild väg
+Korsning KÃ¤llehult
+ Enskild vÃ¤g
 					1,0 km/1,0 km	40 s/40 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,6 km/0,6 km	24 s/24 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					1,4 km/1,4 km	56 s/56 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,5 km/0,6 km	20 s/24 s
-Infoplats Källedal
+Infoplats KÃ¤lledal
 					1,5 km/1,4 km	1 min 0 s/0 min 56 s
 Korsning Risinge
 					1,9 km/2,0 km	1 min 16 s/1 min 20 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,9 km/0,8 km	36 s/32 s
-Korsning Kårestadvägen
+Korsning KÃ¥restadvÃ¤gen
 					1,3 km/1,3 km	52 s/52 s
-Korsning Furuby väg 25
+Korsning Furuby vÃ¤g 25
 					1,4 km/1,4 km	56 s/56 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					4,4 km/4,4 km	2 min 56 s/2 min 56 s
-Dubbel T-korsning Västorp
- Enskild väg
+Dubbel T-korsning VÃ¤storp
+ Enskild vÃ¤g
 					1,3 km/1,3 km	52 s/52 s
-Växjö / Lessebo
+VÃ¤xjÃ¶ / Lessebo
 					1,6 km/1,8 km	1 min 4 s/1 min 12 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 T-korsning Hovmantorp V
  Hovmantorp
 
-Etapp 7: Hovmantorp - Eriksmåla (26,6 km/26,5 km)
+Etapp 7: Hovmantorp - EriksmÃ¥la (26,6 km/26,5 km)
 					2,4 km/2,2 km	1 min 48 s/1 min 39 s
-T-korsning Hovmantorp Ö
+T-korsning Hovmantorp Ã–
 					1,8 km/1,8 km	1 min 21 s/1 min 21 s
 T-korsning
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
-Korsning Strömbergshyttan
+Korsning StrÃ¶mbergshyttan
  Bergdala glasbruk
 					0,6 km/0,6 km	27 s/27 s
-Rastplats Hyllsjön
+Rastplats HyllsjÃ¶n
 					1,0 km/1,0 km	45 s/45 s
 T-korsning Linneskruv.
 					2,3 km/2,3 km	1 min 58 s/1 min 58 s
 Korsning 25/Industrigatan
 					0,5 km/0,6 km	36 s/43 s
-T-korsning 25/Åkerhultsv.
+T-korsning 25/Ã…kerhultsv.
 T-korsning 25/Kronobergsg.
 Bensinstation: Preem
 					0,7 km/0,6 km	50 s/43 s
@@ -306,47 +360,47 @@ Rondell Lessebo
 					0,8 km/0,7 km	58 s/50 s
 T-korsning Lessebo S
 					5,3 km/5,3 km	3 min 59 s/3 min 59 s
-Korsning Slätthult
+Korsning SlÃ¤tthult
 					2,8 km/2,7 km	2 min 6 s/2 min 2 s
 Kronoberg / Kalmar
 Lessebo / Emmaboda
 					5,3 km/5,3 km	3 min 59 s/3 min 59 s
-Korsning Eriksmåla V
+Korsning EriksmÃ¥la V
 					0,2 km/0,4 km	14 s/29 s
-Dubbel T-korsning Eriksmåla C
+Dubbel T-korsning EriksmÃ¥la C
  Restaurang: Tiroler stuga
-Infoplats Eriksmåla
+Infoplats EriksmÃ¥la
 					0,3 km/0,2 km	22 s/14 s
-Rondell Eriksmåla Ö
+Rondell EriksmÃ¥la Ã–
  28 s: Karlskrona
- 28-[31] n: Jönköping, Vetlanda
+ 28-[31] n: JÃ¶nkÃ¶ping, Vetlanda
 
-Etapp 8: Eriksmåla - T-korsning
+Etapp 8: EriksmÃ¥la - T-korsning
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning Greveshult
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning Algutsboda V
 
 Korsning Algutsboda N
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Östra Hällasjö
- Enskild väg
+Korsning Ã–stra HÃ¤llasjÃ¶
+ Enskild vÃ¤g
 
-T-korsning Hällasjö Malm
- Enskild väg
+T-korsning HÃ¤llasjÃ¶ Malm
+ Enskild vÃ¤g
 
-T-korsning Selemåla
- Enskild väg
+T-korsning SelemÃ¥la
+ Enskild vÃ¤g
 
 Emmaboda / Nybro
 
@@ -354,94 +408,94 @@ Korsning Kopparfly
  Boda Glasbruk
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning
  120: Tingsryd, Emmaboda
 
 Etapp 9: T-korsning - Nybro
 
-T-korsning Örsjö N
+T-korsning Ã–rsjÃ¶ N
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 (Korsning)
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning
- Enskild väg, Älgpark
+ Enskild vÃ¤g, Ã„lgpark
 
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 
 (T-korsning)
- Enskild väg
+ Enskild vÃ¤g
 
-Järnvägsviadukt
+JÃ¤rnvÃ¤gsviadukt
  Kust-till-Kustbanan
 
 Trp Nybro V
- Alsjöholm
+ AlsjÃ¶holm
  Nybro Centrum
 
 Korsning 25/S. Bondetorpsv.
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
-Rondell Nybro Ö
- 31: Jönköping, Vetlanda
+Rondell Nybro Ã–
+ 31: JÃ¶nkÃ¶ping, Vetlanda
  Restaurang: McDonald's
 
 Etapp 10: Nybro - Karlsro ()
 
-Korsning Hanemåla
+Korsning HanemÃ¥la
 
-Korsning Mineralvägen
+Korsning MineralvÃ¤gen
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 Bensinstation: Statoil
 Rastplats Nybro
-(västgående riktning)
+(vÃ¤stgÃ¥ende riktning)
 
-Korsning Blåsås
- Enskild väg
+Korsning BlÃ¥sÃ¥s
+ Enskild vÃ¤g
 
 (T-korsning)
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Västrakulla
+Korsning VÃ¤strakulla
 
-Korsning Kimramåla
- Enskild väg
+Korsning KimramÃ¥la
+ Enskild vÃ¤g
 
 Nybro / Kalmar
 
-Rastplats (östgående)
+Rastplats (Ã¶stgÃ¥ende)
 
-Dubbel T-korsning Gräsmo
+Dubbel T-korsning GrÃ¤smo
 
 Trp Trekanten
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning Tomtebyholm
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning Tingby
 
 Rondell Karlsro
- E22 s: Malmö, Karlskrona
- E22 n: Norrköping, Kalmar
+ E22 s: MalmÃ¶, Karlskrona
+ E22 n: NorrkÃ¶ping, Kalmar
