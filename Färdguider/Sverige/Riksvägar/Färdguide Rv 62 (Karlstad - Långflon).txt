@@ -135,22 +135,31 @@ T-korsning Norra Gersby
 Infoplats (bäst för nordgående)
 
 Korsning Munkfors Hallarna
+ Lokal väg (ej skyltad)
 					0.9 km/0.9 km	46 s/46 s
 Korsning Munkfors Näset
  241: Sunne
+ Munkerud, Industri: Näset
+ Bensinstation: INGO
+ (Restaurang: Pizzeria 37:an=
 
 Etapp 4: Munkfors - Myra (25,6 km/25,6 km)
 					0.6 km/0.5 km	31 s/26 s
-Klarälven
+Bro över Klarälven
 					1.2 km/1.1 km	1 min 2 s/0 min 57 s
 Rondell Munkfors Centrum
+ Centrum, Turistbyrå
 					1.7 km/1.6 km	1 min 27 s/1 min 22 s
 Korsning Munkfors Hagalund
  Sunnemo
- Industriområde
- Restaurang: Majas Gatukök
+ Blia
+ Stålindustri, Bruksmiljö (sevärdhet)
+ F. Rhudinmuséet, Laxholmen
+ Bensinstation: Preem
+ Restaurang: Majas Gatukök?
 					0.8 km/0.8 km	41 s/41 s
-Munkfors / Hagfors
+(Infopunkt (sydgående)
+Munkfors / Hagfors: (59.8599939,13.5612982)
 Korsning Södra Bogerud
  Bogerud
 
@@ -158,23 +167,26 @@ T-korsning Norra Bogerud
  Bogerud
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
 Korsning Mjönäs S
+ Mjönäs
+ Djurklinik, Handelsträdgård
  Restaurang: Mjönös Pannkakshus
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
 T-korsning Mjönäs N
 (endast skyltat sydgående)
  Mjönäs
 
-T-korsning Höje affären
- Vedugnsbageri
+T-korsning Höje affären (enskild väg)
+ Vafallet, Vedugnsbageri
 					2.3 km/2.3 km	1 min 58 s/1 min 58 s
 T-korsning Höje
- V. Skymnäs
+ V. Skymnäs, Musteri
+(Rastpunkt (främst sydgående))
 					1.2 km/1.2 km	1 min 2 s/1 min 2 s
 T-korsning
- Ö. Skymnäs
+ Ö. Skymnäs, Torfolk Gård
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
-T-korsning By
- Enskild väg, Loppis-Kafé
+(T-korsning By (enskild väg))
+ Prästbol, By, Loppis-Kafé
 
 T-korsning Nybacka
  Ö. Skymnäs
