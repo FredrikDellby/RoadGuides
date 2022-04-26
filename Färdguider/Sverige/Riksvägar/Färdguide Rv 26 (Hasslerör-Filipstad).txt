@@ -1,198 +1,198 @@
-Reseguide Rv 26 Hasslerör - Filipstad
+Reseguide Rv 26 HasslerÃ¶r - Filipstad
 ======================================
 
-Etapp 20: Hasslerör - Otterbäcken (26,0 km/25,4 km)
+Etapp 20: HasslerÃ¶r - OtterbÃ¤cken (26,0 km/25,4 km)
 
-T-korsning Hasslerör Ö
- E20 ö: Stockholm, Örebro
- E20 v: Göteborg, Mariestad
- 26 s: Jönköping, Skövde
+T-korsning HasslerÃ¶r Ã–
+ E20 Ã¶: Stockholm, Ã–rebro
+ E20 v: GÃ¶teborg, Mariestad
+ 26 s: JÃ¶nkÃ¶ping, SkÃ¶vde
 					0.7 km/0.8 km	31 s/36 s
-Dubbel T-korsning Hasslerör N
- Hasslerör, Café
+Dubbel T-korsning HasslerÃ¶r N
+ HasslerÃ¶r, CafÃ©
 					/)
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Kinnekullebanan
 					(/
 Dubbel T-korsning Hassle kyrkan
  Hassle kyrka
  Kyrkans hus
 					2.4 km/2.3 km	1 min 48 s/1 min 43 s
-T-korsning Fåleberg
- Torsö
+T-korsning FÃ¥leberg
+ TorsÃ¶
 					6.8 km/6.9 km	5 min 6 s/5 min 11 s
-Dubbel T-korsning Sjötorp S
- Sjötorp
+Dubbel T-korsning SjÃ¶torp S
+ SjÃ¶torp
  Lyrestad
- Slussområde (sevärdhet)
+ SlussomrÃ¥de (sevÃ¤rdhet)
  Rastplats/Turistinfo
 					0.6 km/0.5 km	27 s/23 s
-Bro över Göta Kanal
+Bro Ã¶ver GÃ¶ta Kanal
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Sjötorp N
- Sjötorp
- Slussområde (sevärdhet)
+T-korsning SjÃ¶torp N
+ SjÃ¶torp
+ SlussomrÃ¥de (sevÃ¤rdhet)
  Rastplats/Turistinfo
 					0.4 km/0.4 km	18 s/18 s
 T-korsning Kullerud
  Lyrestad
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-Korsning Sannerudskär
- Moviken, Enskild väg
+Korsning SannerudskÃ¤r
+ Moviken, Enskild vÃ¤g
 					3.3 km/3.3 km	2 min 28 s/2 min 28 s
-Korsning Askeviken södra (enskild väg)
- (Askeviks Café & Restaurang), ej skyltat
+Korsning Askeviken sÃ¶dra (enskild vÃ¤g)
+ (Askeviks CafÃ© & Restaurang), ej skyltat
 
-Dubbel T-korsning Askeviken (enskild väg)
- Rudet, Blomsterhult, Ekenäs
+Dubbel T-korsning Askeviken (enskild vÃ¤g)
+ Rudet, Blomsterhult, EkenÃ¤s
  Askevikens Camping, Askeviksbadet
- Askeviks Café & Restaurang
+ Askeviks CafÃ© & Restaurang
 					0.4 km/0.3 km	41 s/9 s
-Mariestad / Gullspång: (58.8920189,14.0159701)
+Mariestad / GullspÃ¥ng: (58.8920189,14.0159701)
 					1.2 km/1.3 km	31 s/31 s
-T-korsning Ekenäs (enskild väg)
- Askeviksbadet, Villa Ekenäs (ej skyltat)
+T-korsning EkenÃ¤s (enskild vÃ¤g)
+ Askeviksbadet, Villa EkenÃ¤s (ej skyltat)
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
-T-korsning Otterbäcken S
- Otterbäcken
+T-korsning OtterbÃ¤cken S
+ OtterbÃ¤cken
  Barfotens Camping, Badplats
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
-(Korsning Otterbäcken Ö)
+(Korsning OtterbÃ¤cken Ã–)
  Gunnarstorp (enskild)
- (Otterbäcken)
+ (OtterbÃ¤cken)
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
-T-korsning Otterbäcken N
+T-korsning OtterbÃ¤cken N
  200: Hova
  Ribbingsfors Golfklubb
 
-Etapp 21: Otterbäcken - Bjurvik (11,5 km/11,5 km)
+Etapp 21: OtterbÃ¤cken - Bjurvik (11,5 km/11,5 km)
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
-T-korsning Otterbäcken Ind.
- Otterbäcken, Industiområde
+T-korsning OtterbÃ¤cken Ind.
+ OtterbÃ¤cken, IndustiomrÃ¥de
 
-Korsning Älvstorp (enskild väg)
- Åråshult, Råglanda, Älvstorp
- Åråshult Camping, Fiske
+Korsning Ã„lvstorp (enskild vÃ¤g)
+ Ã…rÃ¥shult, RÃ¥glanda, Ã„lvstorp
+ Ã…rÃ¥shult Camping, Fiske
 
 Prisoasen
 
-Korsning Gullspång SV
- Vårdcentral, Lokal väg
+Korsning GullspÃ¥ng SV
+ VÃ¥rdcentral, Lokal vÃ¤g
 					0.7 km/0.7 km	36 s/36 s
-Dubbel T-korsning Gullspång V
- Amnehärad kyrka, Naturreservat
- Gullspång Centrum, Infoplats
- Södra Råda G:a kyrkplats
+Dubbel T-korsning GullspÃ¥ng V
+ AmnehÃ¤rad kyrka, Naturreservat
+ GullspÃ¥ng Centrum, Infoplats
+ SÃ¶dra RÃ¥da G:a kyrkplats
  Bensinstation: INGO
  Restaurang: Pizzeria Restaurang Glada Laxen
 					0.9 km/0.9 km	46 s/46 s
-Bro över Gullspångsälven
+Bro Ã¶ver GullspÃ¥ngsÃ¤lven
 
 T-korsning
- Södra Råda
+ SÃ¶dra RÃ¥da
 					7.3 km/7.3 km	5 min 29 s/5 min 29 s
-Ställplats Älven
+StÃ¤llplats Ã„lven
 
-(Parkeringsplats (gräs/grus))
-(främst för nordgående)
+(Parkeringsplats (grÃ¤s/grus))
+(frÃ¤mst fÃ¶r nordgÃ¥ende)
 
-Korsning Stranden (enskild väg)
- Våffel
+Korsning Stranden (enskild vÃ¤g)
+ VÃ¥ffel
 
-Västra Götaland / Värmland: (59.0508793,14.1410238)
-Gullspång / Kristinehamn
+VÃ¤stra GÃ¶taland / VÃ¤rmland: (59.0508793,14.1410238)
+GullspÃ¥ng / Kristinehamn
 T-korsning Bjurvik
- 204: Örebro, Fjugesta, Svartå
+ 204: Ã–rebro, Fjugesta, SvartÃ¥
  [243]: Karlskoga, Degerfors
 
 Etapp 22: Bjurvik - Kristinehamn (33,6 km/34,2 km)
 					4.0 km/4.0 km	3 min 0 s/3 min 0 s
-Korsning Värmlands Säby (enskild väg)
- Värmlands Säby herrgård (sevärdhet)
+Korsning VÃ¤rmlands SÃ¤by (enskild vÃ¤g)
+ VÃ¤rmlands SÃ¤by herrgÃ¥rd (sevÃ¤rdhet)
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning Nybble
  Medhamn, Visnums-Kil kyrka
  Rastplats Nybble
- Vårdcentral, Lanthandel, Camping
+ VÃ¥rdcentral, Lanthandel, Camping
  Restaurang: Diner 26/Nybblebaren
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
 Korsning Visnum Vall
  Skottlanda, Dressinbana
- Gravfält (enskild väg)
+ GravfÃ¤lt (enskild vÃ¤g)
 					1.1 km/1.1 km	50 s/50 s
-Parkeringsplats (främst för sydgående)
+Parkeringsplats (frÃ¤mst fÃ¶r sydgÃ¥ende)
 
-Korsning Visnum S (prästgården)
- Prästgård (enskild väg)
+Korsning Visnum S (prÃ¤stgÃ¥rden)
+ PrÃ¤stgÃ¥rd (enskild vÃ¤g)
  Visnums kyrka
 					0.5 km/0.5 km	23 s/23 s
 Korsning Visnum N (kyrkan)
- Långerud, Gårdsslakteri (enskild väg)
+ LÃ¥ngerud, GÃ¥rdsslakteri (enskild vÃ¤g)
  Visnums kyrka
 					0.4 km/0.4 km	18 s/18 s
-T-korsning Långerud
- Långerud
+T-korsning LÃ¥ngerud
+ LÃ¥ngerud
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-T-korsning Bäckhammar väg 26
- Bäckhammar
- Lanthandel, Gatukök
+T-korsning BÃ¤ckhammar vÃ¤g 26
+ BÃ¤ckhammar
+ Lanthandel, GatukÃ¶k
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
  Husbilslandet
 
-T-korsning Hultsvägen
+T-korsning HultsvÃ¤gen
  Hult
 					0.8 km/0.8 km	36 s/36 s
 T-korsning
- Skogagården, (Björneborg)
+ SkogagÃ¥rden, (BjÃ¶rneborg)
 					7.8 km/7.8 km	5 min 51 s/5 min 51 s
-(T-korsning Uppsjön)
- Enskild väg
+(T-korsning UppsjÃ¶n)
+ Enskild vÃ¤g
 
 T-korsning Agetorp
- Degerfors, Björneborg
+ Degerfors, BjÃ¶rneborg
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
-Infopunkt (nordgående): (59.2589376,14.1722294)
+Infopunkt (nordgÃ¥ende): (59.2589376,14.1722294)
 
-T-korsning (enskild väg)
- Udden, Västanås, Bygdegård
+T-korsning (enskild vÃ¤g)
+ Udden, VÃ¤stanÃ¥s, BygdegÃ¥rd
 
-T-korsning Norra Stenåsen
- Motorklubb, Enskild väg
+T-korsning Norra StenÃ¥sen
+ Motorklubb, Enskild vÃ¤g
 
-T-korsning Järsberg
+T-korsning JÃ¤rsberg
  Visnums-Kil, Hult
 					1.5 km/1.6 km	1 min 8 s/1 min 12 s
-Korsning Karaby gård
- Karaby gård, Enskild väg
+Korsning Karaby gÃ¥rd
+ Karaby gÃ¥rd, Enskild vÃ¤g
 
-T-korsning KaMeWa (lokal väg)
- Runsten (sevärdhet), Järsbergs såg
+T-korsning KaMeWa (lokal vÃ¤g)
+ Runsten (sevÃ¤rdhet), JÃ¤rsbergs sÃ¥g
 
 Rondell Kristinehamn SO
  Centrum
 					0.8 km/0.8 km	41 s/41 s
 T-korsning Rv 26/Vegagatan
  Industri: Drevsta, Bilprovning
-(Järnvägsbro)
- Värmlandsbanan
+(JÃ¤rnvÃ¤gsbro)
+ VÃ¤rmlandsbanan
 					1.2 km/1.3 km	1 min 2 s/1 min 7 s
-T-korsning Rv 26/Närkevägen
+T-korsning Rv 26/NÃ¤rkevÃ¤gen
  Centrum
 					0.5 km/1.0 km	26 s/51 s
-Korsning Kvarndammen (lokal väg)
+Korsning Kvarndammen (lokal vÃ¤g)
  Rastplats Kvarndammen
- Industri: Övre Kvarn
+ Industri: Ã–vre Kvarn
  Bensinstation: Q-star
  Restaurang: Burger King, McDonald's
-Övre Kvarnmotet-syd
- E18 ö: Stockholm, Karlskoga
+Ã–vre Kvarnmotet-syd
+ E18 Ã¶: Stockholm, Karlskoga
 
-Övre Kvarnmotet-nord
- Bjurtjärn
- Vägstation, Hultet (vandring)
-Övre Kvarnmotet
- E18 ö: Stockholm, Karlskoga
+Ã–vre Kvarnmotet-nord
+ BjurtjÃ¤rn
+ VÃ¤gstation, Hultet (vandring)
+Ã–vre Kvarnmotet
+ E18 Ã¶: Stockholm, Karlskoga
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
 Solbackensmotet
  E18 v: Oslo, Karlstad
@@ -202,54 +202,97 @@ Solbackensmotet-syd
 Solbackensmotet-nord
  E18 v: Oslo, Karlstad
  Centrum, Industri: Marielund
+T-korsning Sandfallet (lokal vÃ¤g)
+ Sandfallet
 
-Etapp 23: Kristinehamn - Storfors (26,8 km/26,6 km)
+Etapp 25: Kristinehamn - Storfors (26,8 km/26,6 km)
 					2.1 km/1.7 km	1 min 35 s/1 min 17 s
-T-korsning Kristinehamn GK
+(Infopunkt (sydgÃ¥ende): (59.3389788,14.12532)
+
+Dubbel T-korsning Kristinehamn GK
+ Industri: Marielund
+ Kristinehamns GK, Vandrarhem
+ Ã„lvbron (enskild vÃ¤g, gamla 64:an)
 					5.0 km/5.0 km	3 min 45 s/3 min 45 s
-Korsning Niklasdamm
- Skanum
+T-korsning (enskild vÃ¤g)
+ BergtÃ¤kt
+
+Korsning Hedbotten
+ Niklasdamm, HandelstrÃ¤dgÃ¥rd
 					6.4 km/6.4 km	4 min 48 s/4 min 48 s
-Kristinehamn / Storfors
+T-korsning SjÃ¶Ã¤ndan (enskild vÃ¤g)
+ BergsjÃ¶torp, Arvidstorp, JÃ¤rnleden
+
+(T-korsning (enskild vÃ¤g))
+ SjÃ¶Ã¤ndan hpl (ej i bruk)
+
+(Korsning Norra SjÃ¶Ã¤ndan)
+ Enskild vÃ¤g, ej skyltad
+
+T-korsning BergsjÃ¶ S (enskild vÃ¤g)
+ BygdegÃ¥rd
+(Korsning BergsjÃ¶)
+ LÃ¶vbodaÃ¥sarna, Enskild vÃ¤g
+
+(Kristinehamn / Storfors: (59.4236206,14.2230454)
+(Bro Ã¶ver NorsbÃ¤cks kanal)
+Kristinehamn / Storfors): (59.4258025, 14.2226301)
 					0.8 km/0.8 km	0 min 36 s/0 min 36 s
-T-korsning Bergsjö N
- Ljungstrand, Lundsberg
+T-korsning SÃ¶dra NÃ¤ssundet
+ Lungsund, Lundsberg
+ Lundsbergs Golfklubb, JÃ¤rnleden
+(Bro Ã¶ver NorsbÃ¤cks kanal)
 					8.2 km/8.2 km	6 min 9 s/6 min 9 s
-Järnvägsviadukt
+NÃ¤ssundets station
+ Rastplats, StÃ¤llplats
+
+Bro Ã¶ver Bergslagskanalen
+(Korsning NÃ¤svÃ¤gen (enskild vÃ¤g))
+ Kuriosa, Antikt (ev. stÃ¤ngt)
+
+(Korsning Stockviken)
+ Enskild vÃ¤g
+
+JÃ¤rnvÃ¤gsviadukt
  Inlandsbanan
 					3.1 km/3.1 km	2 min 20 s/2 min 20 s
-T-korsning Storfors S
+T-korsning Storfors S (lokal vÃ¤g)
  Centrum
 					0.5 km/0.5 km	36 s/36 s
-Korsning Storfors K:a
+Korsning Rv 26/IdrottsvÃ¤gen (lokal vÃ¤g)
  Bensinstation: OKQ8
 					0.7 km/0.9 km	0 min 50 s/1 min 5 s
-(Järnvägsviadukt)
- Inlandsbanan
-Korsning Storfors Ö
+Korsning Storfors Ã–
  237: Karlskoga
-Korsning 26/Tallbacksgatan
- Hotel Storfors
+ Centrum, Industri: Ã–stra
+ Infoplats, Hotell
+ Restaurang: Taverna Steakhouse
+(JÃ¤rnvÃ¤gsviadukt)
+ Inlandsbanan
 
-Etapp 24: Storfors - Filipstad (21,6 km/21,5 km)
+Etapp 26: Storfors - Filipstad (21,6 km/21,5 km)
 					0.5 km/0.3 km	36 s/22 s
-Rondell
+Rondell Rv 26/LillforsvÃ¤gen (lokal vÃ¤g)
+ Koltorp, Badsta Camping
+ Industri: SÃ¶dra Lillfors
 					0.6 km/0.6 km	43 s/43 s
-T-korsning Storfors N
- Asphyttan
+Rondell Storfors N
+ Koltorp skola, HembygdsgÃ¥rd
+ Lundsberg, Lungsund, BjurbÃ¤cken
+ Industri: Norra, Lundsbergs Golfklubb
 					5.2 km/5.2 km	3 min 54 s/3 min 54 s
 Storfors / Filipstad
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
 Korsning Nykroppa V
  Nykroppa
- Rastplats Prästbacken
+ Rastplats PrÃ¤stbacken
 					0.5 km/0.5 km	26 s/26 s
-Järnvägsviadukt
- Kil-Ställdalen
+JÃ¤rnvÃ¤gsviadukt
+ Kil-StÃ¤lldalen
 					11.1 km/11.2 km	9 min 31 s/9 min 36 s
 Rondell
  Centrum
-Korsning Filipstad Ö
- 26 n: Mora, Lesjöfors
- 63 ö: Ludvika, Hällefors
+Korsning Filipstad Ã–
+ 26 n: Mora, LesjÃ¶fors
+ 63 Ã¶: Ludvika, HÃ¤llefors
  63 v: Karlstad
