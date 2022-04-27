@@ -193,24 +193,37 @@ T-korsning Nybacka
 					5.1 km/5.1 km	4 min 22 s/4 min 22 s
 T-korsning Myra
  Lysvik, Sörby
+ Kärnåsens Hembygdsgård
+ Lakene Gårdsbutik och Vandrarhem
+ Lovisebergs Herrgård
+(Loppis)
 					3.6 km/3.6 km	3 min 5 s/3 min 5 s
 Etapp 5: Myra - Backåsarna ()
 
+(Ställplats Härlig Heden)
+
+(T-korsning Rv 62/Årosvägen)
+ Lokal väg, ej skyltad
+
 Korsning Råda södra
- Lidsbron
- Råda
+ Lidsbron, Uddeholms GK
+ Åros
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
 Bro över Årosälven
 
 Rastplats Rådasjön
+ Restaurang: Råda Pizzeria och information
 
 T-korsning Råda norra
- Råda
+ N Råda
+ Bensinstation: Din-X
+ Restaurang: Björns Wärdshus/Råda Hotell
 
-T-korsning Rådastrand
- Rådastrands Camping, Björnbyn
+T-korsning Rådastrand (lokal väg)
+ Rådastrands Camping, Björnbyn stugor
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
 T-korsning Hagfors flygplats
+ Hagfors flygplats, Inter-Data
 					0.9 km/0.9 km	46 s/46 s
 Korsning Backåsarna
  [245]: Ludvika
@@ -222,58 +235,89 @@ Etapp 6: Backåsarna - Ekshärad (16,9 km/16,9 km)
 T-korsning (enskild väg)
  Plantskola, Klarälvstravet
 
-Korsning Edebäck
- Bergsäng
-(Klarälven)
+T-korsning Edebäck Högheden (enskild väg)
+ Bygdegård, Bilverkstad
+
+Korsning Edebäck Bron
+ Bergsäng, Edebäck
+(Bro över Klarälven)
 					0.4 km/0.4 km	18 s/18 s
 T-korsning Gunnerud
- N. Skoga
+ N. Skoga, Idrottsplats
 					10.5 km/10.5 km	7 min 53 s/7 min 53 s
-T-korsning
- Öjenäs
+(Dubbel) T-korsning Gunnerudsgården
+ Vildmark i Värmland, Enskild väg
+
+Korsning Överberga (enskild väg)
+ Mellantjärn (fiske)
+
+T-korsning Fuggesheden
+ Basterud
 					2.4 km/2.4 km	2 min 24 s/2 min 24 s
 T-korsning (lokal väg)
  Flygfält
 
 Korsning Ekshärad Nygård (lokal väg)
- Ekshärads stavkyrka
+ Ekshärads stavkyrka, Nygård
 
 Korsning S:t Olovs kapell (lokal väg)
- Ekshärad industri
+ Industri: Ekshärad Ö, S:t Olovs kapell
+ Industri: Ekshärad V, Värmeverk
 
 Korsning Ekshärads kyrka
- Byn
+ Byn, Byns Camping, Badplats
  239: Torsby
+ Ekesberget Skidanläggning och Stugby
 
-Etapp 7: Ekshärad - Stöllet (32,6 km/32,6 km)
+Etapp 7: Ekshärad - Åstrand (32,6 km/32,6 km)
 
 Bensinstation: OKQ8
-Restaurang: Klarälvsgrillen
+Restaurang: Klarälvsgrillen/Pizza House
 
-Korsning Rv 62/Hembygdsvägen
+Korsning Rv 62/Hembygdsvägen (lokal väg)
  Ekshärads Hembygdsgård
 
+(T-korsning Rv 62/Kjelléns väg (l.v.))
+ Klarälvskyrkan, Skogsmäklarna
+
 Restaurang: Wärdshuset Pilgrimen
+
+T-korsning Bellmansgården (lokal väg)
+ Ambulansintag
 
 Parkeringsplats (bäst för nordgående)
 					3.4 km/3.4 km	3 min 24 s/3 min 24 s
 T-korsning Hedegårds pensionat
+ Kulturhuset, Hara
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning Hara norra
+ Hara (endast skyltat sydgående)
 					8.3 km/8.3 km	6 min 14 s/6 min 14 s
-T-korsning Loffstrand (enskild väg)
- Loppis
+(T-korsning (enskild väg))
+ Ej skyltad, belyst
 
-Hagfors / Torsby
+T-korsning Loffstrand (enskild väg)
+ S. Loffstrand, (Loppis)
+
+(Parkeringsplats (västra sidan))
+ Gräs
+
+Hagfors / Torsby: (60.2802571,13.4084156)
 					1.2 km/1.2 km	54 s/54 s
-T-korsning Alevi Camping
+T-korsning Alevi Camping (lokal väg)
+ Alevi Camping (Café, fiske)
+(Hantverk)
 
 Korsning Fastnäs
  Torp
  Fastnäs Byalags Rastplats
-(Bro över Klarälven)
+					(/
+(Bro över Klarälven
 					0.7 km/0.7 km	36 s/36 s
 T-korsnings Åstrand
+ Brattfallet (sevärdhet och vandring)
+
+Etapp : Åstrand - Stöllet ()
 					15.2 km/15.2 km	13 min 2 s/13 min 2 s
 T-korsning Björkebo Camping
 
