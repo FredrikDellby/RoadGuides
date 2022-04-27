@@ -1,63 +1,61 @@
-Reseguide Rv 27 (Borås - Alvesta)
+Reseguide Rv 27 (BorÃ¥s - Alvesta)
 ==================================
 
-Etapp 3: Viared - Kråkered (6,0 km/6,1 km)
+Etapp 3: Viared - KrÃ¥kered (6,0 km/6,1 km)
 
 Viaredsmotet (83)
- 40 v: Göteborg, Landvetter
- 40 ö: Jönköping, Borås
+ 40 v: GÃ¶teborg, Landvetter
+ 40 Ã¶: JÃ¶nkÃ¶ping, BorÃ¥s
 
 Rondell
 
 Korsning
 
 Trp Osdal
-(Viskan)
+(Bro Ã¶ver Viskan)
 
 T-korsning
 
-Trp Kråkered
+Trp KrÃ¥kered
  41 s: Varberg, Kinna
- 41 n: Borås
+ 41 n: BorÃ¥s
 
-Etapp 4: Kråkered - Kilabro (15,4 km/15,4 km)
+Etapp 4: KrÃ¥kered - Kilabro (15,4 km/15,4 km)
 					0.7 km/0.7 km	42 s/42 s
-Rondell Skrämbo
- Ljushult, Öd
+Rondell SkrÃ¤mbo
+ Ljushult, Ã–d
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
-Dubbel T-korsning (lokalt mål)
+Dubbel T-korsning (lokal vÃ¤g)
 
-T-korsning
- Enskild väg
+T-korsning Enskild vÃ¤g
 
-Korsning
- Enskild väg
+Korsning Enskild vÃ¤g
 					1.0 km/1.5 km	0 min 45 s/1 min 8 s
-Trp Stuvered (enskild väg)
+Trp Stuvered (enskild vÃ¤g)
  Stuvered
 					1.3 km/0.7 km	59 s/31 s
-Korsning Bråten
- Dalsjöfors, Målsryd
+Korsning BrÃ¥ten
+ DalsjÃ¶fors, MÃ¥lsryd
 					2.0 km/2.0 km	1 min 20 s/1 min 20 s
-Trp Skansasjön (enskild väg)
- Sävshult
+Trp SkansasjÃ¶n (enskild vÃ¤g)
+ SÃ¤vshult
 					1.5 km/1.6 km	1 min 0 s/1 min 4 s
 Trp Aplared
  Ljushult
- Målsryd, Aplared
+ MÃ¥lsryd, Aplared
  Bensinstation: St1
 					1.3 km/1.2 km	52 s/48 s
 Trp Aplared S
  Aplared
 					0.4 km/0.8 km	16 s/32 s
 Poliskontrollplats Sov
-T-korsning Grändvägen
+T-korsning GrÃ¤ndvÃ¤gen
  Ljushult
 					1.3 km/1.0 km	59 s/45 s
-Borås / Svenljunga
+BorÃ¥s / Svenljunga
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
 Trippel T-korsning Lockryd
- Lockryd sommarmöbler
+ Lockryd sommarmÃ¶bler
  Hillared
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 Rondell Kilabro
@@ -66,256 +64,259 @@ Rondell Kilabro
 
 Etapp 5: Kilabro - Tranemo (20,6 km/20,4 km)
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
-Infoplats Kärraholm
+Infoplats KÃ¤rraholm
 
 Svenljunga / Tranemo: (57.5983367,13.1796656)
 					2.1 km/2.1 km	1 min 35 s/1 min 35 s
-T-korsning Västergärdet
+T-korsning VÃ¤stergÃ¤rdet
  Ingestorp, Stugor
 					0.8 km/0.8 km	36 s/36 s
-Korsning Tingarör
+Korsning TingarÃ¶r
  Svenljunga
- Länghem, Torpa stenhus
- Hofsnäs (Restaurang), Rådde Gård
+ LÃ¤nghem, Torpa stenhus
+ HofsnÃ¤s (Restaurang), RÃ¥dde GÃ¥rd
  Bensinstation: Q-star
 					5.2 km/5.2 km	3 min 54 s/3 min 54 s
-Korsning Platö (enskild väg)
- Broaslätt
-Parkeringsplats (bäst lämpad nordgående)
+Korsning PlatÃ¶ (enskild vÃ¤g)
+ BroaslÃ¤tt
+Parkeringsplats (bÃ¤st lÃ¤mpad nordgÃ¥ende)
 
 (Korsning Holm)
- Enskild väg
+ Enskild vÃ¤g
 
 Korsning Kindsboda
- Svenljunga, Skidanläggning
- Månstad
+ Svenljunga, SkidanlÃ¤ggning
+ MÃ¥nstad
 					4.1 km/4.1 km	3 min 5 s/3 min 5 s
 (Korsning Bystad)
- Enskild väg, Slättes Foder
+ Enskild vÃ¤g, SlÃ¤ttes Foder
 
-T-korsning Limmared västra
+T-korsning Limmared vÃ¤stra
  157: Ulricehamn, Limmared
- Glasets Hus med Café
+ Glasets Hus med CafÃ©
  Bensinsation: Preem
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
 Korsning Rosenlund
  Rosenlund
- Limmareds säteri, Köttbutik
+ Limmareds sÃ¤teri, KÃ¶ttbutik
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
 Dubbel T-korsning Tranemo N
- Industri: Hyltegärde
+ Industri: HyltegÃ¤rde
  Industri: Tranemo V
  Bensinsation: Q-star
  Restaurang: 27:ans Grill
 					2.2 km/1.8 km	1 min 39 s/1 min 21 s
-Trp Björsdamm (2x T-korsning)
+Trp BjÃ¶rsdamm (2x T-korsning)
  156 v: Svenljunga, Tranemo
- 156 ö: Jönköping
+ 156 Ã¶: JÃ¶nkÃ¶ping
 
 Etapp 6: Tranemo - Gislaved (22,3 km/22,8 km)
 					2.1 km/2.3 km	1 min 35 s/1 min 43 s
-T-korsning (enskild väg)
- Enskild väg, Bergtäkt
+T-korsning (enskild vÃ¤g)
+ Enskild vÃ¤g, BergtÃ¤kt
 
-Rastplats Kroksjön
+Rastplats KroksjÃ¶n
 					5.9 km/6.0 km	4 min 26 s/4 min 30 s
-T-korsning Kroksjölund
- Enskild väg, Valhyltan
+T-korsning KroksjÃ¶lund
+ Enskild vÃ¤g, Valhyltan
 
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
  Stuga, Motocrossbana
 
-Korsning Mossebo vägskäl
- Hestra, Grimsås, Mossebo kyrka
+Korsning Mossebo vÃ¤gskÃ¤l
+ Hestra, GrimsÃ¥s, Mossebo kyrka
 					3.8 km/4.0 km	2 min 51 s/3 min 0 s
-Korsning (enskild väg)
- Bollebo, Bygdegård
+Korsning (enskild vÃ¤g)
+ Bollebo, BygdegÃ¥rd
 
-(T-korsning)
- Enskild väg
+(T-korsning Enskild vÃ¤g)
 Parkeringsplats
 
 T-korsning Agnabo
- (Hestra), Bösshult
+ (Hestra), BÃ¶sshult
 
 T-korsning
- Ambjörnarp, Bo på Lantgård
+ AmbjÃ¶rnarp, Bo pÃ¥ LantgÃ¥rd
 					2.5 km/2.3 km	1 min 53 s/1 min 43 s
-Västra Götaland / Jönköping: (57.3821037,13.4724865)
+VÃ¤stra GÃ¶taland / JÃ¶nkÃ¶ping: (57.3821037,13.4724865)
 Tranemo / Gislaved
 					5.5 km/5.6 km	4 min 8 s/4 min 12 s
-(T-korsning)
- Enskild väg, Örnaholm
+(T-korsning Enskild vÃ¤g, )
+Ã–rnaholm
 
-(T-korsning)
- Islandshästar, Enskild väg
+(T-korsning, Enskild vÃ¤g)
+ IslandshÃ¤star
 
 Dubbel T-korsning Ebbebo
- Båraryd, Handelsträdgård
- Våthult
+ BÃ¥raryd, HandelstrÃ¤dgÃ¥rd
+ VÃ¥thult
 					2.5 km/2.6 km	1 min 53 s/1 min 57 s
-T-korsning (enskild väg)
- Enskild väg, Bergtäkt
+T-korsning (enskild vÃ¤g)
+ Enskild vÃ¤g, BergtÃ¤kt
 
-Trp Gislaved Norra
- 26 n: Jönköping, Isaberg
- 26 s: Halmstad, Smålandsstenar
- Gislaved C, Handelsområde
+Trp Gislaved Norra-vÃ¤st
+ 26 s: Halmstad, SmÃ¥landsstenar
+
+Trp Gislaved Norra-Ã¶st
+ 26 n: JÃ¶nkÃ¶ping, Isaberg
+ Gislaved C, HandelsomrÃ¥de
  Restaurang: Burger King, Rosegarden
+(2+1-vÃ¤g bÃ¶rjar / upphÃ¶r)
 
 Etapp 7: Gislaved - Bredaryd (23,6 km/23,4 km)
 
-Bro över Nissan
+Bro Ã¶ver Nissan
 
-Trp Gislaved Östra
+Trp Gislaved Ã–stra
 
 Trp Anderstorp
- Anderstorp, Gnosjö
+ Anderstorp, GnosjÃ¶
 					0.8 km/0.8 km	41 s/41 s
-T-korsning Stötabo
- Reftele, Stötabo industri
+T-korsning StÃ¶tabo
+ Reftele, StÃ¶tabo industri
 					0.8 km/0.9 km	41 s/46 s
 T-korsning Anderstorp S
  Anderstorp
 					3.1 km/3.1 km	2 min 20 s/2 min 20 s
-Dubbel T-korsning (enskild väg)
+Dubbel T-korsning (enskild vÃ¤g)
 
-(T-korsning (nordgående))
- Enskild väg (Ryd)
+(T-korsning (nordgÃ¥ende))
+ Enskild vÃ¤g (Ryd)
 
-T-korsning Södra Tånghult
+T-korsning SÃ¶dra TÃ¥nghult
  Reftele, Golfbana
+(2+1-vÃ¤g upphÃ¶r / bÃ¶rjar)
 					1.2 km/1.2 km	54 s/54 s
-Gislaved / Värnamo: (57.2371852,13.6615015)
+Gislaved / VÃ¤rnamo: (57.2371852,13.6615015)
 					5.8 km/5.8 km	4 min 21 s/4 min 21 s
-Parkeringsplats (bäst lämpad nordgående)
+Parkeringsplats (bÃ¤st lÃ¤mpad nordgÃ¥ende)
 
-T-korsning Baståsen
- Enskild väg, Norra Skolan
+T-korsning BastÃ¥sen
+ Enskild vÃ¤g, Norra Skolan
 
-(T-korsning (enskild väg))
+(T-korsning (enskild vÃ¤g))
  Eskilstorpskvarn
 
 T-korsning Tovaryd
- Gnosjö, Eskilstorp
+ GnosjÃ¶, Eskilstorp
 					2.4 km/2.6 km	1 min 48 s/1 min 57 s
 Trp Bredaryd
  152 s: Bredaryd
  152 n: Skillingaryd, Hillerstorp, Lanna
  High Caparral
 					1.6 km/1.4 km	1 min 12 s/1 min 3 s
-Korsning Rv 27/Solbergavägen
- BVB Substrates, Lokal väg
-Järnvägsbro
- Halmstad-Nässjö
+Korsning Rv 27/SolbergavÃ¤gen
+ BVB Substrates, Lokal vÃ¤g
+(JÃ¤rnvÃ¤gsbro)
+ Halmstad-NÃ¤ssjÃ¶
 					0.3 km/0.3 km	14 s/14 s
-Rondell Bredaryd Ö
- 153: Varberg, Smålandsstenar
+Rondell Bredaryd Ã–
+ 153: Varberg, SmÃ¥landsstenar
 
-Etapp 8: Bredaryd - Värnamo (19,9 km/20,4 km)
+Etapp 8: Bredaryd - VÃ¤rnamo (19,9 km/20,4 km)
 					2.3 km/2.5 km	1 min 43 s/1 min 53 s
-T-korsning Forshedaverken
- Forshedaverken
-Parkeringsplats (nordgående)
-Infoplats Forsheda (sydgående)
+T-korsning Forshedaverken (enskild vÃ¤g)
+ Forshedaverken, Paintball
+Parkeringsplats (nordgÃ¥ende)
+Infoplats Forsheda (sydgÃ¥ende)
 					1.3 km/1.0 km	59 s/45 s
-Järnvägsbro
- Halmstad-Nässjö
+JÃ¤rnvÃ¤gsbro
+ Halmstad-NÃ¤ssjÃ¶
 					0.5 km/0.5 km	23 s/23 s
 T-korsning Rv 27/Forsgatan
- Forsheda, Ås
+ Forsheda, Ã…s
 					0.4 km/0.4 km	24 s/24 s
 Korsning Forsheda N
  High Chaparal
 					0.7 km/0.7 km	42 s/42 s
-T-korsning Forsheda Ö
+T-korsning Forsheda Ã–
  Forsheda
  Bensinsation: Q-star
 					4.9 km/5.0 km	3 min 41 s/3 min 45 s
-Infopunkt (nordgående)
-Parkeringsplats (sydgående)
+Infopunkt (nordgÃ¥ende)
+Parkeringsplats (sydgÃ¥ende)
 
-2+1-väg börjar/slutar
+2+1-vÃ¤g bÃ¶rjar/slutar
 
-Dubbel T-korsning Kärda Rv 27
+Dubbel T-korsning KÃ¤rda Rv 27
  Herrestad, High Chaparal
- Kärda
+ KÃ¤rda
 					2.9 km/2.8 km	1 min 56 s/1 min 52 s
-T-korsning (enskild väg)
- Nästa
+T-korsning (enskild vÃ¤g)
+ NÃ¤sta
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
 (ej skyltad )
 					0.4 km/0.6 km	16 s/24 s
-Infoplats (östgående)
+Infoplats (Ã¶stgÃ¥ende)
 					1.9 km/1.7 km	1 min 16 s/1 min 8 s
-Trp Sörsjö
- [151]: Hestra, Gnosjö
+Trp SÃ¶rsjÃ¶
+ [151]: Hestra, GnosjÃ¶
 					2.2 km/2.3 km	1 min 28 s/1 min 32 s
 Trp Mossele
- Åminne, Hånger
- Värnamo C, Sjukhus
+ Ã…minne, HÃ¥nger
+ VÃ¤rnamo C, Sjukhus
 					2.1 km/2.0 km	1 min 24 s/1 min 20 s
-Järnvägsbro
- Halmstad-Nässjö
+JÃ¤rnvÃ¤gsbro
+ Halmstad-NÃ¤ssjÃ¶
 
-Bro över Lagan
+Bro Ã¶ver Lagan
 
-Trp Nöbbele
- Tånnö
- Värnamo C
+Trp NÃ¶bbele
+ TÃ¥nnÃ¶
+ VÃ¤rnamo C
 					0.4 km/0.9 km	24 s/54 s
-Trp Värnamo Södra-väst
+Trp VÃ¤rnamo SÃ¶dra-vÃ¤st
  E4 s: Helsingborg, Ljungby
- Smålands konstkollektiv Vandalorum
+ SmÃ¥lands konstkollektiv Vandalorum
  Vandrarhen
 
-Trp Värnamo Södra-öst
- E4 n: Stockholm, Jönköping
+Trp VÃ¤rnamo SÃ¶dra-Ã¶st
+ E4 n: Stockholm, JÃ¶nkÃ¶ping
  Bensinsation: OKQ8, Circle-K
  Elbilsladdning: Vattenfall, Ionity, Mer, Recharge, E.ON
  Restaurang: McDonald's, Burger King, MAX, Jureskogs
-	Rasta Värnamo, Rosegarden, Bredasten Pizzeria, Espresso House
+	Rasta VÃ¤rnamo, Rosegarden, Bredasten Pizzeria, Espresso House
 
-Etapp 9: Värnamo - Sjöatorp (38,9 km/38,3 km)
+Etapp 9: VÃ¤rnamo - Rydaholm (38,9 km/38,3 km)
 					5.5 km/5.0 km	4 min 8 s/3 min 45 s
-T-korsning Ulås S (enskild väg)
+T-korsning UlÃ¥s S (enskild vÃ¤g)
  Johanssons Pulverlackering
 
 Dubbel T-korsning Voxtorp
- (Drönninge)
- Tånnö, Voxtorps kyrka
+ (DrÃ¶nninge)
+ TÃ¥nnÃ¶, Voxtorps kyrka
 					3.1 km/3.1 km	3 min 6 s/3 min 6 s
-T-korsning Drömmingevägen (enskild väg)
+T-korsning DrÃ¶mmingevÃ¤gen (enskild vÃ¤g)
  Bors Automation & Tool
- Drömboden Trähantverk
-(Voxtorpsgården)
+ DrÃ¶mboden TrÃ¤hantverk
+(VoxtorpsgÃ¥rden)
 
-Korsning (enskild väg)
- Rusarebo (sevärdhet)
+Korsning (enskild vÃ¤g)
+ Rusarebo (sevÃ¤rdhet)
 
-T-korsning Rv 27/Kvadervägen (lokal väg)
+T-korsning Rv 27/KvadervÃ¤gen (lokal vÃ¤g)
  Bors Press, NorDan, HordaGruppen, m.fl.
 
-T-korsning Rv 27/Stationsvägen (lokal väg)
+T-korsning Rv 27/StationsvÃ¤gen (lokal vÃ¤g)
  Bensinsation
 
-T-korsning Rv 27/Centrumvägen (l.v.)
+T-korsning Rv 27/CentrumvÃ¤gen (l.v.)
  Centrum
  Restaurang: Bors Pizzeria
 
 T-korsning Bor
- Ohs, Gällaryd
- Museijärnväg
+ Ohs, GÃ¤llaryd
+ MuseijÃ¤rnvÃ¤g
 					4.0 km/4.0 km	4 min 0 s/4 min 0 s
-T-korsning Fållen
+T-korsning FÃ¥llen
  Hyggestorp, Plantskola
 					4.3 km/4.3 km	3 min 14 s/3 min 14 s
 (Korsning Rydstorp)
- Plantskola, Enskild väg (ej skyltad)
+ Plantskola, Enskild vÃ¤g (ej skyltad)
 
 T-korsning Lindeberg
- Sölaryd
+ SÃ¶laryd
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
 Korsning Horda Rv 27
  Hyggestorp
@@ -325,43 +326,43 @@ T-korsning Bomsholm
  Hyggestorp
 					0.7 km/0.8 km	31 s/36 s
 Dubbel T-korsning Upplid S
- Gällaryd
+ GÃ¤llaryd
  Nederled
 					2.6 km/2.3 km	1 min 57 s/1 min 43 s
 Trp Rydaholm
  Moheda, Rydaholm
  Ljungby, Lagan
- Hotell/Restaurang: Rydaholms Värdshus
+ Hotell/Restaurang: Rydaholms VÃ¤rdshus
 					1.6 km/1.7 km	1 min 12 s/1 min 17 s
 Korsning Rydaholm S
- Hjortsjö (enskild väg)
- Rydaholm S (lokal väg)
+ HjortsjÃ¶ (enskild vÃ¤g)
+ Rydaholm S (lokal vÃ¤g)
  Bensinsation: Oljeshejkerna Johnsson
 					5.6 km/5.6 km	4 min 12 s/4 min 12 s
-(Trippel) Dubbel T-korsning Sjöholmen
- Smålands bil- musik- och leksaksmuseum
- Sjöholmen sommarhem (lokal väg)
- (Lindstad (enskild väg))
+(Trippel) Dubbel T-korsning SjÃ¶holmen
+ SmÃ¥lands bil- musik- och leksaksmuseum
+ SjÃ¶holmen sommarhem (lokal vÃ¤g)
+ (Lindstad (enskild vÃ¤g))
 
-Korsning Hjortsjöbadet
- Lokal väg, Hjortsjöbadet
+Korsning HjortsjÃ¶badet
+ Lokal vÃ¤g, HjortsjÃ¶badet
 
-Jönköping / Kronoberg: (56.9382512,14.3766346)
-Värnamo / Alvesta
+JÃ¶nkÃ¶ping / Kronoberg: (56.9382512,14.3766346)
+VÃ¤rnamo / Alvesta
 
-(Vändplats
+(VÃ¤ndplats
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
-T-korsning (enskild väg)
- Lövholmen, Granstalida
+T-korsning (enskild vÃ¤g)
+ LÃ¶vholmen, Granstalida
 
-(Korsning Mellanbäck)
- Hult (enskild väg)
+(Korsning MellanbÃ¤ck)
+ Hult (enskild vÃ¤g)
 
-T-korsning Sjöatorp S (enskild väg)
- Sjöatorp N, Camping
+T-korsning SjÃ¶atorp S (enskild vÃ¤g)
+ SjÃ¶atorp N, Camping
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-Sjöatorpsrondellen
- 25 ö: Kalmar, Växjö, Alvesta
+SjÃ¶atorpsrondellen
+ 25 Ã¶: Kalmar, VÃ¤xjÃ¶, Alvesta
  27 s: Karlskrona
  25 v: Halmstad, Ljungby
- Rastplats Moasjön
+ Rastplats MoasjÃ¶n
