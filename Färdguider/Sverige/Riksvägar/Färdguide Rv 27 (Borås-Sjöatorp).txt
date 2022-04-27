@@ -301,7 +301,7 @@ T-korsning Rv 27/Kvadervägen (lokal väg)
 T-korsning Rv 27/Stationsvägen (lokal väg)
  Bensinsation
 
-T-korsning Rv 27/Centrumvägen (l.v.)
+T-korsning Rv 27/Centrumvägen (lokal väg)
  Centrum
  Restaurang: Bors Pizzeria
 
@@ -334,6 +334,8 @@ Trp Rydaholm
  Ljungby, Lagan
  Hotell/Restaurang: Rydaholms Värdshus
 					1.6 km/1.7 km	1 min 12 s/1 min 17 s
+Etapp 10: Rydaholm - Sjöatorpsrondellen ()
+
 Korsning Rydaholm S
  Hjortsjö (enskild väg)
  Rydaholm S (lokal väg)
@@ -349,9 +351,8 @@ Korsning Hjortsjöbadet
 
 Jönköping / Kronoberg: (56.9382512,14.3766346)
 Värnamo / Alvesta
-
-(Vändplats
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
+(Vändplats
 T-korsning (enskild väg)
  Lövholmen, Granstalida
 
