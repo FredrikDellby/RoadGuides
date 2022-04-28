@@ -1,7 +1,7 @@
-﻿Färdguide E16 (Malung - Djurås)
+Färdguide E16 (Malung - Djurås)
 ================================
 
-Etapp 4: Malung - Äppelbo (29,4 km/29,4 km)
+Etapp 5: Malung - Yttermalung (29,4 km/29,4 km)
 
 Rondell Malung Ö
  E16 v: Oslo, Kongsvinger
@@ -58,12 +58,14 @@ Korsning Yttermalung
  Hagfors, Tyngsjö, Sillerö
  Yttermalungs Camping, Stugby & Malungs Äventyr
 
+Etapp 6: Yttermalung - Äppelbo ()
+
 Yttermalungs (fd?) Handel
+ Rast och Info
 
 (Bilreparationer & Däck Marcus Halvars)
 
-Infoplats Almasjön
-(främst för västgående)
+Infoplats Almasjön (norra sidan)
 
 Malung / Vansbro
 
@@ -73,7 +75,7 @@ Järnvägsviadukt
 Korsning Äppelbo kyrka
  Hagfors, Tyngsjö, Äppelbo
 
-Etapp 5: Äppelbo - Vansbro (15,0 km/15,0 km)
+Etapp 7: Äppelbo - Vansbro (15,0 km/15,0 km)
 
 Bro över Noret
 
@@ -119,58 +121,118 @@ T-korsning E16/Folketshusv. (lokal väg)
 T-korsning E16/Vasagatan (lokal väg)
  Gymnasieskola
 
-Rondell
- Centrum
-
-Järnvägskorsning
+(Vansbro Konditori & Bageri)
+					(/
+Rondell E16/Allégatan (lokal väg))
+ Parkering Centrum, Idrottsplats
+					/)
+T-korsning E16/Järnvägsgatan (lokal väg)
+					(/
+(Järnvägskorsning)
  Västerdalbanan
-(Korsning E16/Älvgatan)
+(Korsning E16/Älvgatan (lokal väg)
  Bensinstation: OKQ8, St1
-T-korsning E16/Älvgatan
- Bensinstation: 1-2-3
+
+Trippel T-korsning Herrgården
+ Lokala vägar (ej skyltade)
+ Bensinstation: INGO
+ Restaurang: Brogrillen/Pizza
+ Hotell/Restaurang: Värdshuset Flottaren
 
 Trafikplats
- 26 s: Filipstad
+ 26 s: Mariestad, Lesjöfors
+ Industri: Grönalid
 
-Etapp 6: Vansbro - Dala-Järna (11,3 km/11,2 km)
+Etapp 8: Vansbro - Dala-Järna (11,3 km/11,2 km)
 
-(Vanån)
-T-korsning Brostugan
+(Bro över Vanån)
+Rondell Brostugan
+ Skamhed
  26 n: Mora
+ Vårdcentral, Kyrka
+(2+1-väg börjar / upphör)
 
-T-korsning Skamhed
+Väg-/Järnvägsviadukt
+ Gamla E16/Västerdalbanan
 
-Järnvägskorsning
- Västerdalbanan
+Bro över Hulån
 
-(Hulån)
-T-korsning Hulån
+Korsning Hulån E16
+ Idrottsplats (lokal väg)
+ Hulån
+ Granngården, Pyramidbageriet
+
+1+1-väg upphör / börjar
 
 T-korsning Nordanåker E16
+ Skålö, Nordanåker
 
-Korsning E16/Storbyvägen
+Korsning E16/Storbyvägen (lokal väg)
+ Nimatopaal
 
 Korsning Dala-Järna centrum
+ Centrum
+ Nordanåker, Flygfält
+ Restaurang: Gärna Cafe & PreCent, Restaurant Pizzeria Rojda
+ Hotell/Restaurang: Dala-Järna Hotel
 
-Etapp 7: Dala-Järna - Björbo (29,2 km/29,2 km)
+Korsning E16/Skyttevägen (lokal väg)
+ Däckteam, Skidstuga
 
-Korsning Ålheda E16
+Korsning (lokal väg)
+ D-J Konstgård
 
-Snöå herrgård
- Golfbana
+Korsning Noret/Emaus E16
+ Dala-Järna
+ Leksand
+
+Etapp 9: Dala-Järna - Björbo (29,2 km/29,2 km)
+
+Bro över Noret
+
+T-korsning (enskild väg)
+ Kämpudden, Kvarnåker
+
+T-korsning Snöå herrgård (enskild väg)
+ Ryggåsstugan, Motionsanläggning
+ Snöåbruk (sevärdhet), Golfbana
+ Skogsarbetarbyn
+
+T-korsning E16/Storsjöv. (enskild väg)
+ Snöå Skidstadion
+
+(Bro över Snöån)
 
 Järnvägskorsning
  Västerdalbanan
 
-T-korsning Nederberg
+Rastplats (västra sidan)
 
-T-korsning Nås
-Bensinstation: Shell
+(Korsning Överborg)
+ Enskild väg, ej skyltad
+
+(Dubbel) T-korsning Nederberg
+ Enskild väg, ej skyltad
+
+Nås Däcktjänst
+
+(Dubbel) T-korsning Nås Centrum
+ Fredriksberg
+ Lindesnäs (Camping och fiske)
+ Restaurang: Nederborgs Bistro
+ Nickusboá - Nås Hemslöjdsbutik
+
+Servicecenter Nås
+ Bensinstation: Gulf
+ Butik: Tempo
+
+T-korsning Sveden (enskild väg)
+ Nås Camping
 
 Järnvägskorsning
  Västerdalbanan
 
-Vansbro / Gagnef
+Vansbro / Gagnef: (60.4711217,14.6158359)
 
 T-korsning Björbo V
 
@@ -183,7 +245,7 @@ T-korsning
 T-korsning Björbo Ö
  66 ö: Västerås, Ludvika
 
-Etapp 8: Björbo - Djurås (28,5 km/28,8 km)
+Etapp 10: Björbo - Djurås (28,5 km/28,8 km)
 
 T-korsning Forsgärdet
 
@@ -200,10 +262,18 @@ Korsning Lindan
 
 Rondell Näset
 
-Österdalälven
+Bro över Österdalälven
 
 Rondell Djurås centrum
 
 Rondell E16/Rv 70 Djurås
  70 n: Mora, Leksand
 
+===========
+T-korsning Skamhed
+
+Järnvägskorsning
+ Västerdalbanan
+
+(Hulån)
+T-korsning Hulån
