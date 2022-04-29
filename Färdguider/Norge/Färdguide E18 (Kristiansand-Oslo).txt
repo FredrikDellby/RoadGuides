@@ -7,7 +7,7 @@ Serviceplass Vesterveien
 (Vesterveien bomstasjon (østgående))
  16 kr/26-33 kr, 24 kr/40-50 kr (rushtid)
 					/)
-Kryss Vesterbrua
+Kryss Vesterbrua)
 (avrampe østgående retning
 pårampe vestgående retning)
  E39-Ferge: Danmark
@@ -135,12 +135,11 @@ Brønningsmyrkrysset (86)
 
 Etapp 3: Lillesand - Grimstad ()
 
-Songefjelltunnelen ()
- 365 m/374 m
+Songefjelltunnelen (365 m/374 m)
 
-Skifjelltunnelen-vest (1 088 m)
+Skifjelltunnelen-vest (1 088 m/)
 
-Skifjelltunnelen-øst (1 076 m) 
+Skifjelltunnelen-øst (/1 076 m)
 
 Storemyrkrysset (85)
  402: Birkeland, Møgelstu
@@ -160,17 +159,17 @@ Engelsheitunnelen miljøtunnel (253 m)
 Kaldvell bru (129 m)
  Kaldvellelva
 
-Lillesand/: (58.2966949,8.4415008)
+(Lillesand /: (58.2966949,8.4415008)
 
 Verven bru (263 m)
  Kilen
 
-/Grimstad: (58.2967494,8.4498558)
+/ Grimstad): (58.2967494,8.4498558)
 
 Omrekrysset (83)
  Rasteplass Kroktjenn
 
-Rasteplass Trolldalen
+(Rasteplass Trolldalen
 (vestgående retning)
 
 Reddalskanalen bru (128 m)
