@@ -1,126 +1,158 @@
-F‰rdguide Rv 42 (BorÂs - Trollh‰ttan)
+F√§rdguide Rv 42 (Bor√•s - Trollh√§ttan)
 ======================================
 
-Etapp 1: Genom Centrala BorÂs (1,6 km/1,6 km)
+Etapp 1: Genom Centrala Bor√•s (1,6 km/1,6 km)
 
 Annelundsmotet
- 40 ˆ: Jˆnkˆping, Ulricehamn
- 40 v: Gˆteborg
+ 40 √∂: J√∂nk√∂ping, Ulricehamn
+ 40 v: G√∂teborg
  27 s: Karlskrona
  41: Varberg, Kinna
 					0,3 km/0,2 km	22 s/14 s
-T-korsning 42/Fabriksgatan
+T-korsning Rv 42/Fabriksgatan (lokal v√§g)
+ All√©gatan, Badhus, Cityringen (motsols)
 					0,4 km/0,3 km	29 s/22 s
-Korsning 42/≈sbogatan
+Korsning Rv 42/√Ösbogatan (lokal v√§g)
+ Villastaden, Sjukhus, Kulturhus
+T-korsning Rv 42/L. Brogatan (lokal v√§g))
+ Parkeringshus Valhall
 					0,3 km/0,3 km	22 s/22 s
-Korsning 42/S. Kyrkogatan
+Korsning Rv 42/S. Kyrkogatan (lokal v√§g)
+ Lugnet, Parkering Nornan
+ Polishus, Parkering Hugin
 					0,2 km/0,3 km	14 s/22 s
-Korsning 42/Yxhammarsgatan
-Korsning 42/J‰rnv‰gsgatan
+Korsning Rv 42/Yxhammarsgatan (lokal v√§g)
+ Bergdalen, Servicehus Duvan
+ Cityringen (medsols), J√§rnv√§gsstation
+Korsning Rv 42/J√§rnv√§gsgatan (lokal v√§g)
+ Norrmalm, Kypeg√•rden (vandring)
+ H√∂gskola, Navet, Textilmuseet
 					0,4 km/0,2 km	29 s/14 s
-J‰rnv‰gsviadukt
- ƒlvsborgsbanan
-(Viskan)
+J√§rnv√§gsviadukt
+ √Ñlvsborgsbanan
+Bro √∂ver Viskan
 					0,2 km/0,3 km	14 s/22 s
 Rondell
- [180]: AlingsÂs
+ 180: Alings√•s, Industri: Landala
+ [27], [40], G√∂teborg, Norrby
 
-Etapp 2: BorÂs - Fristad (12,4 km/12,5 km)
+Etapp 2: Bor√•s - Fristad (12,4 km/12,5 km)
 					0,5 km/0,6 km	36 s/43 s
-(Viskan)
+(T-korsning Rv 42/Evedalsgatan)
+ Lokal v√§g, ej skyltad
+(Bro √∂ver Viskan)
 Knallelandrondellen
- Knalleland
+ Centrum, Akademiplatsen, Industri: Simonsland
+ Industri: Ryda (sev√§rdhet), Armb√•ga
+ Parkering: Knalleringen
  Bensinstation: St1, Ingo
  Restaurang: McDonald's, MAX
-Avfart (nordgÂende)
+Avfart (nordg√•ende)
+ Parkering Knalleland (lokal v√§g)
 					0,6 km/0,5 km	36 s/30 s
-Korsning Alideberg
+Korsning Alideberg (lokal v√§g)
+ Alideberg, Parkering: Knalleringen
+ Parkering: Bor√•s Arena, Knalleringen
 					0,2 km/0,2 km	14 s/14 s
-Rondell BorÂsparken
- Djurpark
+Rondell Bor√•sparken (lokal v√§g)
+ Djurpark, Bor√•s Simarena
+ Camping/vandrarhem Saltemad
  Bensinstation: OKQ8
 					0,4 km/0,4 km	24 s/24 s
-Rondell Sjˆbo S
- Sjˆbo
+Rondell Sj√∂bo S (lokal v√§g)
+ Sj√∂bo S
 					0,6 km/0,5 km	31 s/26 s
-J‰rnv‰gsbro
- ƒlvsborgsbanan
+J√§rnv√§gsbro
+ √Ñlvsborgsbanan
 					1,9 km/2,0 km	1 min 38 s/1 min 43 s
-Rondell Nordskogen S
+Rondell Nordskogen S (lokal v√§g)
+ Industri: Nordskogen S
 
 Rondell Nordskogen N
- Sjˆbo
+ Sj√∂bo N
+ Industri: Nordskogen N
 					0,5 km/0,5 km	26 s/26 s
-T-korsning Tosseryd V
- Tosseryd
+T-korsning Tosseryd V (lokal v√§g)
+ Tosseryd, GIF-stugan
 					1,4 km/1,4 km	1 min 12 s/1 min 12 s
-T-korsning Rv 42/Peter Gyltas v‰g
+T-korsning Rv 42/Peter Gyltas v√§g
+ Lokal v√§g, ej skyltad
 					0,6 km/0,6 km	31 s/31 s
-Korsning Fruf‰llan
+Korsning Fruf√§llan
+ Fruf√§llan
 					0,9 km/0,9 km	46 s/46 s
-T-korsning Skogen
+T-korsning Skogen (lokal v√§g)
+ Klinten
 					1,4 km/1,4 km	1 min 12 s/1 min 12 s
-T-korsning Paradiset
- Br‰mhult
+Dubbel T-korsning Paradiset
+ Spars√∂r
+ Hyberg
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
 Korsning Intet
- Sparsˆr
+ Idrottsplats, Skola
+ Spars√∂r
+
+T-korsning Rv 42/Hagenv√§gen (lokal v√§g)
+ Naturreservat
+(Bro √∂ver Viskan)
 					1,1 km/1,0 km	57 s/51 s
 Korsning Skalle
- Nitta, Varnum
+ Varnum, Gingri
+ M√∂larps kvarn
+ Skalle badplats
 					0,6 km/0,6 km	31 s/31 s
 T-korsing Fristad skola
- Sjˆmarken, Sandhult,
  Bredared
+ Fristad Parkstad, Byggvaruhus
 					0,7 km/0,8 km	50 s/58 s
 Bensinstation: OKQ8
 Rondell Fristad N
  183: Herrljunga, Borgstena
-(J‰rnv‰gssbro)
- ƒlvsborgsbanan
+(J√§rnv√§gssbro)
+ √Ñlvsborgsbanan
 
-Etapp 3: Fristad - VÂrgÂrda (29,3 km/29,7 km)
+Etapp 3: Fristad - V√•rg√•rda (29,3 km/29,7 km)
 					0.8 km/0.8 km	58 s/58 s
 T-korsning Fristad NV
  Bredared
 					5.0 km/5.0 km	3 min 45 s/3 min 45 s
-T-korsing Rv 42/Artav‰gen
- Arta, PÂtorp, Kullasand
+T-korsing Rv 42/Artav√§gen
+ Arta, P√•torp, Kullasand
 
 Korsning Arta
- Enskild v‰g, LjungagÂrdens Allehanda
+ Enskild v√§g, Ljungag√•rdens Allehanda
 
-T-korsing Rv 42/Skotteksv‰gen
- Enskild v‰g, Solviken badplats
+T-korsing Rv 42/Skotteksv√§gen
+ Enskild v√§g, Solviken badplats
 
-Korsning V‰nga sˆdra
- Bredared, V‰nga K:a
+Korsning V√§nga s√∂dra
+ Bredared, V√§nga K:a
 					0.4 km/0.4 km	18 s/18 s
-Rastplats V‰nga
+Rastplats V√§nga
 					0.7 km/0.8 km	31 s/36 s
-T-korsning V‰nga norra
- V‰nga K:a
+T-korsning V√§nga norra
+ V√§nga K:a
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
-T-korsning T‰mta sˆdra
+T-korsning T√§mta s√∂dra
  Borgstena
 
-T‰mta kyrkoruin
+T√§mta kyrkoruin
 
-Dubbel T-korsing T‰mta kyrka
- T‰mta beach
- T‰mta kyrka
+Dubbel T-korsing T√§mta kyrka
+ T√§mta beach
+ T√§mta kyrka
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
-T-korsning T‰mta norra
+T-korsning T√§mta norra
  Annelund, Vesene
 					2.3 km/2.3 km	1 min 43 s/1 min 43 s
-BorÂs / VÂrgÂrda
+Bor√•s / V√•rg√•rda
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
-ICA N‰ra Gabrielssons
+ICA N√§ra Gabrielssons
  Bensinstation: MyFB
 
-Korsning Ljurhalla v‰gsk‰l
+Korsning Ljurhalla v√§gsk√§l
  Ljur
- NÂrunga
+ N√•runga
 					5.5 km/5.5 km	4 min 8 s/4 min 8 s
 Korsning Stenatorp
  182: Ulricehamn, Ljung
@@ -130,65 +162,65 @@ Korsning Algutstorp
  Landa, Algutstorp
 
 T-korsing Algutstorp kyrka
- TÂnga hed
+ T√•nga hed
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
-Korsning VÂrgÂrda S
- VÂrgÂrda C
+Korsning V√•rg√•rda S
+ V√•rg√•rda C
 					0.6 km/0.6 km	31 s/31 s
-T-korsing Rv 42/≈leden
+T-korsing Rv 42/√Öleden
  Hjultorp industriomr
 Bensinstation: Preem
-(S‰veÂn)
+(S√§ve√•n)
 (Korsnin Kvarnen)
  Doggy
 					0.4 km/0.8 km	21 s/41 s
 Trafikplats Hjultorp
- E20 ˆ: Stockholm, Skara
- E20 v: Gˆteborg, AlingsÂs
- 42 n: Trollh‰ttan
+ E20 √∂: Stockholm, Skara
+ E20 v: G√∂teborg, Alings√•s
+ 42 n: Trollh√§ttan
 
-Etapp 4: VÂrgÂrda - Sollebrunn (21,3 km/20,9 km)
+Etapp 4: V√•rg√•rda - Sollebrunn (21,3 km/20,9 km)
 
-J‰rnv‰gsviadukt
- V‰stra Stambanan
+J√§rnv√§gsviadukt
+ V√§stra Stambanan
 
-Trafikplats VÂrgÂrda
- E20 ˆ: Stockholm, Skara
- E20 v: Gˆteborg, AlingsÂs
- 42 s: BorÂs
+Trafikplats V√•rg√•rda
+ E20 √∂: Stockholm, Skara
+ E20 v: G√∂teborg, Alings√•s
+ 42 s: Bor√•s
 					5.2 km/4.7 km	3 min 54 s/3 min 32 s
-T-korsing VÂrgÂrda Flygf‰lt
+T-korsing V√•rg√•rda Flygf√§lt
 
-T-korsning Starabov‰gen
+T-korsning Starabov√§gen
  Fullestad
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
-T-korsning Kolb‰ck Lurut
- AlingsÂs, ÷stadkulle
+T-korsning Kolb√§ck Lurut
+ Alings√•s, √ñstadkulle
 					2.8 km/2.8 km	2 min 24 s/2 min 24 s
-VÂrgÂrda / AlingsÂs
+V√•rg√•rda / Alings√•s
 					1.0 km/1.0 km	51 s/51 s
 T-korsning Hallavadet
- LÂngared, Lo
+ L√•ngared, Lo
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
 Korsning Upplo
- KyrkÂs
+ Kyrk√•s
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
-T-korsning Magra korsv‰g
- FÂglum
+T-korsning Magra korsv√§g
+ F√•glum
 					0.7 km/0.7 km	36 s/36 s
 T-korsning Magra kyrka
- Bj‰rlanda, Magra kyrka
+ Bj√§rlanda, Magra kyrka
 					5.6 km/5.8 km	4 min 48 s/4 min 58 s
-(T-korsing Rv 42/Hˆgg‰rdetv‰gen)
- GÂrsmejeri
+(T-korsing Rv 42/H√∂gg√§rdetv√§gen)
+ G√•rsmejeri
 
-(Korsning Rv 42/Torpv‰gen)
+(Korsning Rv 42/Torpv√§gen)
  Brandstation
 
 Korsning Sollebrunn
  190 n: Nossebro, Stora Mellby
- 190 s: Gˆteborg, Gr‰fsn‰s
- Restaurang: Pizzastugan, Sollebrunns G‰stgifveri
+ 190 s: G√∂teborg, Gr√§fsn√§s
+ Restaurang: Pizzastugan, Sollebrunns G√§stgifveri
 
 Etapp 5: Sollebrunn - Multorp (25,2 km/25,1 km)
 
@@ -196,49 +228,49 @@ T-korsing Rv 42/Centrumgatan
 T-korsing Rv 42/Pilgatan
  Shell Retrostation
 
-Tankst‰lle Sollebrunn
+Tankst√§lle Sollebrunn
  Bensinstation: Din-X
- Restaurang: 42:ans Kiosk & Gatukˆk
+ Restaurang: 42:ans Kiosk & Gatuk√∂k
 					3.4 km/3.2 km	2 min 55 s/2 min 45 s
-AlingsÂs / Trollh‰ttan
+Alings√•s / Trollh√§ttan
 					3.5 km/3.5 km	3 min 0 s/3 min 0 s
 Dubbel T-korsning Lagmansered
  Lagmansereds kyrka
- Skepplanda, HÂlanda
+ Skepplanda, H√•landa
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
 Korsning Koberg S
  Stora Mellby
  Kobergs slott
 					1.0 km/1.0 km	51 s/51 s
 T-korsning Koberg N
- Upph‰rad
+ Upph√§rad
  Golfbana
 					8.4 km/8.4 km	7 min 12 s/7 min 12 s
 T-korsing Idrottsplatsen
- Lokal v‰g, ≈saka IP
+ Lokal v√§g, √Ösaka IP
 
-T-korsning V‰ne-≈saka S
- Fr‰mmestad
+T-korsning V√§ne-√Ösaka S
+ Fr√§mmestad
 					0.3 km/0.3 km	22 s/22 s
-T-korsning V‰ne-≈saka ÷
- Upph‰rad
+T-korsning V√§ne-√Ösaka √ñ
+ Upph√§rad
 					0.8 km/0.8 km	58 s/58 s
-Korsning Rv 42/Stationsv‰gen
- HembygdsgÂrd
+Korsning Rv 42/Stationsv√§gen
+ Hembygdsg√•rd
  
-T-korsning ≈saka BygdegÂrd
- Lokal v‰g
+T-korsning √Ösaka Bygdeg√•rd
+ Lokal v√§g
 					1.7 km/2.0 km	1 min 27 s/1 min 43 s
 Bensinstation: Q-star
 Rondell Brunnered
  [44], [47]
- Trollh‰ttan S, G‰rdhem
+ Trollh√§ttan S, G√§rdhem
 					3.1 km/2.8 km	2 min 39 s/2 min 24 s
 (T-korsing Multorps skola)
- Lokal v‰g
+ Lokal v√§g
 Multorpsrondellen
- 44 ˆ: Mariestad, Lidkˆping
- 47 ˆ: Jˆnkˆping, Gr‰storp
- 44 v: Uddevalla, Trollh‰ttan
-       V‰nersborg
+ 44 √∂: Mariestad, Lidk√∂ping
+ 47 √∂: J√∂nk√∂ping, Gr√§storp
+ 44 v: Uddevalla, Trollh√§ttan
+       V√§nersborg
  [E45 n]: Karlstad
