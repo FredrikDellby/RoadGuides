@@ -1,7 +1,7 @@
 Färdguide Rv 23 (Rolsberga - Växjö)
 ====================================
 
-Etapp 1: Rolsberga - Höör (16,6 km/16,2 km)
+Etapp 1: Rolsberga - Snogeröd (16,6 km/16,2 km)
 
 Trp Rolsberga (26))
  E22 n: Kalmar, Kristianstad
@@ -30,6 +30,8 @@ Rondell Snogeröd
  17 ö: Hörby
  17 v: (Landskrona), Eslöv
 					2,8 km/2,9 km	2 min 6 s/2 min 11 s
+Etapp 2: Snogeröd - Höör ()
+
 T-korsning Klinta gård (enskild väg)
  Klinta, Behandlingshem
 
@@ -82,6 +84,7 @@ T-korsning
 Infopunkt: (55.920024,13.5394383)
 					1,4 km/1,5 km	1 min 24 s/1 min 30 s
 (Dubbel T-korsning (lokal väg))
+(2+1-väg upphör / börjar)
 
 Rondell Höör södra
 					0,6 km/0,6 km	43 s/43 s
@@ -93,7 +96,7 @@ Rondell Rv 13/Rv 23
  Centrum, Skånes djurpark
  Restaurang: Hardy's
 
-Etapp 2: Höör - Sösdala (13,6 km/13,6 km)
+Etapp 3: Höör - Sösdala (13,6 km/13,6 km)
 					0,5 km/0,5 km	36 s/36 s
 T-korsning Rv 23/S. Rörumsv.
  S. Rörum
@@ -154,7 +157,7 @@ Trp Sösdala
  Häglinge
  Sösdala
 
-Etapp 3: Sösdala - Hässleholm (17,4 km/17,6 km)
+Etapp 4: Sösdala - Hässleholm (17,4 km/17,6 km)
 					1,9 km/1,8 km	1 min 26 s/1 min 21 s
 T-korsning Skea S
  N Sösdala (endast skyltad sydgående)
@@ -210,6 +213,7 @@ Trafikplats Röinge
  Ignaberga, Tyskarpsgrottan (sevärdhet)
  Hässleholm Ö, Centrum, Sjukhus
 					1,1 km/0,9 km	57 s/46 s
+Etapp 5: Förbi Hässleholm ()
 T-korsning (lokal väg)
  Röingegården
 
@@ -228,15 +232,16 @@ T-korsning (lokal väg)
  Snapphane Chark, Bondens Bästa
  Grönsakshallen Sorunda
 
+(2+1-väg börjar / upphör)
 Trafikplats Läreda-syd
  21 ö: Kristianstad
+
+Etapp 6: Hässleholm - Östanå (18,8 km/19,1 km)
 
 Trafikplats Läreda-nord
  21 v: Helsingborg
  [117]: Markaryd
  Stoby, Rastplats
-
-Etapp 4: Hässleholm - Östanå (18,8 km/19,1 km)
 					1,3 km/1,1 km	59 s/50 s
 (T-korsning Furumossen)
  Gårdsmejeri, Enskild väg
@@ -301,7 +306,7 @@ Korsning (enskild väg)
 Trafikplats Östanå
  19: Ystad, Kristianstad
 
-Etapp 5: Östanå - Osby (11,8 km/11,3 km)
+Etapp 7: Östanå - Osby (11,8 km/11,3 km)
 					2,0 km/1,4 km	1 min 20 s/0 min 56 s
 Korsning Östanå Ö
  Östanå, Bruksvillan (Hotell)
@@ -320,16 +325,19 @@ Korsning (enskild väg)
 Dubbel T-korsning (enskild väg)
  Bil- och Däckverkstad
  Skogsväg (ej skyltad)
-
+					/)
 Korsning (enskild väg)
  Handelsträdgård
-
+					(/
 T-korsning (enskild väg)
  Strömsborg, Ö Genastorp
  Spinneriet (sevärdhet)
 					0,4 km/0,5 km	16 s/20 s
-Bro över Helge å
-Korsning (enskild väg)
+(Dubbel T-korsning (infarter))
+ Ej skyltade
+
+(Bro över Helge å)
+(Korsning (enskild väg))
  Ej skyltad
 					0,9 km/0,9 km	36 s/36 s
 Korsning (enskild väg)
@@ -343,17 +351,28 @@ Korsning (enskild väg)
  Hönjarum (endast förskyltad sydgående)
 					0,5 km/0,5 km	20 s/20 s
 Rondell Dubbarp
+ Sibbhult, Glimåkra
+ Osby S, Centrum
+ Industri: Sydöstra
+ Osby Camping, Osbysjöns badplats
+ Bergakungen Stug & konferensanläggning
+ BRIO Lekoseum (sevärdhet)
 					0,8 km/0,7 km	36 s/32 s
 Korsning
+ Kalhult
+ Marklunda
 					1,9 km/1,9 km	1 min 16 s/1 min 16 s
 (Korsning (enskild väg))
  Olastorp
 
 Rondell Marklunda
- 15 ö: Karlshamn, Olofström
+ 15 ö: Karlshamn, Lönsboda
  15 v: Halmstad, Markaryd
+ Osby N, Centrum
+ Industri: Västra, Nordöstra
+ Turistinfo, BRIO Lekoseum
 
-Etapp 6: Osby - Älmhult (20,2 km/20,2 km)
+Etapp 8: Osby - Älmhult (20,2 km/20,2 km)
 					0,5 km/0,5 km	23 s/20 s
 Korsning Lars Dufwa (enskild väg)
  Segutslycke, Ridhus
@@ -361,35 +380,108 @@ Korsning Lars Dufwa (enskild väg)
  Bensinstation: Circle-K
  Restaurang: Värdshuset Lars Dufwa
 					2,7 km/2,7 km	1 min 48 s/1 min 48 s
-T-korsning
+T-korsning Kälsved (enskild väg)
+ Kälsved, Kälsvedstenarna
+
+Korsning (Bröderna Johansson) (enskild väg)
+ Slähult, Bökeberga (endast skyltat nordgående)
+
+Trafikkontrollplats (sydgående)
+
+Dubbel T-korsning Bökeberga N
+ Slähult, Bökeberga (enskild väg, ej skyltat nordgående)
+ Gråshult, Fiske
+ Swerock, Vigenstorp (enskild väg)
 					7,3 km/7,3 km	4 min 52 s/4 min 52 s
+T-korsning (enskild väg)
+(endast förskyltad sydgående)
+ Slähult
+
+Korsning (enskild väg, ej förskyltad)
+ Östanböke
+ Tunneby
+
+Korsning Höghult (enskild väg)
+(endast förskyltad sydgående)
+ Höghult
+
 Korsning Killeberg Ö
+ Parkering Samåkning
+ Killeberg
 					0,3 km/0,3 km	12 s/12 s
 T-korsning
+ Marestorp
 					2,6 km/2,8 km	1 min 44 s/1 min 52 s
+T-korsning (enskild väg)
+(endast förskyltad sydgående)
+ Gnubbarp
+
 Dubbel T-korsning Loshult Rv 23
+ Loshult
+ 121: Olofström, Lönsboda, Hökön
 					0,7 km/0,7 km	28 s/28 s
-Korsning
- Enskild väg
-Skåne / Kronoberg
+Korsning (enskild väg)
+ Blackatorp
+Skåne / Kronoberg: (56.5054097,14.1257308)
 Osby / Älmhult
 					0,3 km/0,2 km	12 s/8 s
 Infoplats (nordgående)
 					2,0 km/1,9 km	1 min 20 s/1 min 16 s
+T-korsning (enskild väg)
+ Almås (ej förskyltad)
+
 Korsning
+ Fälhult
 					1,1 km/1,1 km	44 s/44 s
 T-korsning Älmhult SO
- Centrum
+ Älmhult S, Turistinfo
+ IKEA DC Kombiterminal
  Bensinstation: OKQ8
+(2+1-väg upphör / börjar)
 					0,4 km/0,4 km	18 s/18 s
 Järnvägskorsning
  Älmhult-Olofström
 					2,4 km/2,5 km	1 min 48 s/1 min 53 s
-T-korsning Älmhult NO
- 120 v: Markaryd, Traryd
- Centrum, IKEA
+Trp Älmhult
+ 120 v: (Markaryd), Traryd
+ Älmhult Centrum, Industri: Stena
+ Handel: IKEA Älmhult
+ Sjöstugans Camping & Vandrarhem
+ Bensinstation: Din-X
+ Restaurang: Sibylla, IKEA, Subway
+(2+1-väg upphör / börjar)
 
-Etapp 7: Älmhult -
+Etapp 9: Älmhult - Liatorp ()
+
+T-korsning Älmhult NO (lokal väg)
+ Älmhult N
+ Älmhults Golfklubb, Restaurang
 
 T-korsning
  120 ö: Tingsryd
+
+(Korsning (enskild väg))
+ Nyatorp
+
+Dubbel T-korsning Brännhult
+ Diö, Möckeln
+ Linnés Råshult (sevärdhet)
+ Lidshult (enskild väg)
+
+Rastplats Såganäs
+
+(Dubbel T-korsning Såganäs S (enskild väg))
+ Bohult
+ Såganäs Camping
+
+Korsning Såganäs N (enskild väg)
+ Steningeboda, Husbilsparkering
+ Såganäs
+
+((Dubbel) T-korsning (enskild väg))
+ Duvelycke, Röshult
+======================================
+
+Korsning Liatorp Rv 23
+
+Etapp 10: Liatorp - Gottåsa ()
