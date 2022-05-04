@@ -1,4 +1,5 @@
-﻿
+Färd
+
 Etapp 28: Sundsvall - Timrå (20,2 km/20,3 km)
 
 Trp Skönsmon (225))
@@ -333,14 +334,21 @@ Trp Skullersta (247)
  Klockestrand
 
 Trafikplats Gräta (248)
+ Nora K:a
+ Herrskog
 
-Trafikplats (enskild väg)
+Trp Tjärned (enskild väg)
+ Tjärned
 
 Bro-syd: (62.906298,18.0929753)
 
 Bro-nord: (62.9107459,18.0929813)
 
 Trp Gallsäter Södra (249)
+ Nordingrå K:a
+ Gallsäter
+ Storsjö Camping & Trädgård, Storsjöbadet
+ Restaurang: Högakusten Catering
 
 Trp Gallsäter Norra (250)
 (avfart sydgående riktning
@@ -352,7 +360,7 @@ påfart nordgående riktning)
 (T-korsning (enskild väg))
  Ej skyltad
 
-Etapp 33: Gallsäter - Docksta ()
+Etapp 33: Gallsäter - Ullånger ()
 
 T-korsning Träsk E4
  Bjärtrå, Träsk
@@ -369,6 +377,84 @@ Korsning Håll
 
 Korsning (enskild väg)
  Vändplats, Roted, Skarped
+
+T-korsning Kålsta E4 (enskild väg)
+ Kålsta (ej sydgående), Vändplats
+
+Korsning Ullånger kyrka
+ Svedje, Ullångers K:a
+ Viksäter
+ Nordbo Gård (sevärdhet, mat)
+
+Korsning E4/Industriv. (lokal väg)
+ Mjälloms Tunnbröd
+(Bro över Törnaån)
+
+Korsning Ullånger S
+ Ullånger, Hembygdsgård
+
+Dubbel T-korsning Ullånger Ö
+ Ullånger
+ Norrfällsviken, Mjällom, Nordingrå K:a
+ Infoplats, Pendelpark
+ Bensinstation: OKQ8
+ Ullångers Hotell & Restaurang
+ Slakteri, Högakustenbåtarna
+
+Etapp 34: Ullånger - Docksta ()
+
+Bro över Inviksån
+
+T-korsning Äskja E4
+ Almsjönäs, Hembygdsgård
+ Infoplats, Vändplats
+
+Dubbel T-korsning Mäja
+ Skidstahus (lokal väg)
+ Mäja, Vändplats
+
+T-korsning Stensland
+ Mäja
+
+T-korsning Knäppa (enskild väg)
+ Knäppa, Vändplats
+
+Rastplats Knäppa (nordgående)
+
+T-korsning (enskild väg)
+ Nyåker, Vändplats
+
+T-korsning Sjöland Norra E4 (sydgående)
+ Ås (enskild väg)
+
+Korsning Skoved E4 (enskild väg)
+ Edånger, Jang
+ Docksta Vandrarhem & Camping Kustladan
+
+(T-korsning (enskild väg))
+ Otydligt (för)skyltad
+
+Parkerings-/Rastplats (nordgående)
+
+Dubbel T-korsning Byberg & Nordin (lokal väg)
+ Bensinstation: Colabitoil
+
+T-korsning Dockstavarvet (lokal väg)
+ Dockstavarvet (ej skyltad)
+T-korsning Docksta S
+ Östmarkum, Docksta, Stugor
+ Vibyggerå gamla kyrka (sevärdhet)
+
+T-korsning Docksta E4 Marina (lokal väg)
+ Ej skyltad
+
+T-korsning Docksta NO
+ Östmarkum, Docksta, Stugor
+ Vibyggerå gamla kyrka (sevärdhet)
+ Bensinstation: Preem
+ Restaurang: Dockstabaren, Kustgrillen
+
+Korsning Näs
 
 Etapp 34: Docksta - Bjästa ()
 
