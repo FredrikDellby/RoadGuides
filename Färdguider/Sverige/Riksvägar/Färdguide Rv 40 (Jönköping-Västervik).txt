@@ -51,7 +51,7 @@ Trp Öggestorp
  Jönköpingsbanan
 					5.0 km/5.0 km	3 min 20 s/3 min 20 s
 (Korsning (enskild väg))
-(ej skyltad)
+ ej skyltad
 
 Parkeringsplats
 
@@ -61,19 +61,16 @@ Trp Forserum
  Malmbäck
  Forserum
 					1.1 km/0.9 km	44 s/36 s
-Korsning Hornshaga
- Enskild väg
+Korsning Hornshaga (enskild väg)
 					0.9 km/0.9 km	36 s/36 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 					0.8 km/0.9 km	32 s/36 s
 T-korsning
  Fredriksdal
 					2.8 km/2.8 km	1 min 52 s/1 min 52 s
 Parkeringsplats (östgående)
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 
 Dubbel T-korsning (enskild väg)
  Rödja
@@ -81,11 +78,9 @@ Dubbel T-korsning (enskild väg)
 Järnvägsbro
  Jönköpingsbanan
 					0.7 km/0.8 km	28 s/32 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
 					1.4 km/1.3 km	56 s/52 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 					0.3 km/0.3 km	12 s/12 s
 					1.6 km/1.6 km	1 min 4 s/1 min 4 s
 Trp Nässjö by
