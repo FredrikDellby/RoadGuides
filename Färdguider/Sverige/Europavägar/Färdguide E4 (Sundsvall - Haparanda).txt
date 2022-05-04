@@ -1,4 +1,5 @@
-Färd
+Färdguide E4 (Sundsvall - Haparanda)
+=====================================
 
 Etapp 28: Sundsvall - Timrå (20,2 km/20,3 km)
 
@@ -189,7 +190,7 @@ Dubbel T-korsning Fröland E4
 T-korsning Gådeåbro E4 (enskild väg)
  Svartvik, Ytterfälle
 
-Bro över ...
+Bro över Gådeån
 
 Korsning Lövudden (lokal väg)
 
@@ -198,7 +199,7 @@ T-korsning Vårsta E4 (lokal väg)
 
 (T-korsning E4/Fiskekroken)
  Lokal väg, ej skyltad
-Korsning Härnösand Gulf E4
+Korsning Härnösand Gulf E4 (lokal väg)
  Närvård, Primärvårdsjour
 
 T-korsning Tullportsparken
