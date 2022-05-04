@@ -136,7 +136,8 @@ T-korsing Vänga Mosse (enskild väg): (57.854187,12.9450856)
  Naturreservat Vänga Mosse
 
 Korsning Vänga södra
- Bredared, Vänga K:a
+ Bredared, Vänga
+ Vänga Kvarn (Café), Stärkelsefabrik
 					0.4 km/0.4 km	18 s/18 s
 Rastplats Vänga
 					0.7 km/0.8 km	31 s/36 s
