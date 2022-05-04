@@ -105,25 +105,35 @@ T-korsing Fristad skola
  Bredared
  Fristad Parkstad, Byggvaruhus
 					0,7 km/0,8 km	50 s/58 s
+Restaurang: Fristads Pizzeria
 Bensinstation: OKQ8
-Rondell Fristad N
+Rondell Fristad Centrum
  183: Herrljunga, Borgstena
+ Rångedala, Skogslids servicecenter
+ Restaurang: Pizzeria Cirkel
 (Järnvägssbro)
  Älvsborgsbanan
 
 Etapp 3: Fristad - Vårgårda (29,3 km/29,7 km)
 					0.8 km/0.8 km	58 s/58 s
-T-korsning Fristad NV
- Bredared
+T-korsning Rv 42/Industrivägen (lokal väg)
+ Industri: Heden, Folkhögskola
+
+T-korsning Fristad V
+ Fristad Parkstad, Byggvaruhus
 					5.0 km/5.0 km	3 min 45 s/3 min 45 s
-T-korsing Rv 42/Artavägen
- Arta, Påtorp, Kullasand
+T-korsing Rv 42/Artavägen (lokal väg)
+ Industri: Arta
+ Påtorp, Kullasand
 
-Korsning Arta
- Enskild väg, Ljungagårdens Allehanda
+(Korsning Arta (enskild väg))
+ Ljungagårdens Allehanda Antikt & Kuriosa
 
-T-korsing Rv 42/Skotteksvägen
- Enskild väg, Solviken badplats
+T-korsing Rv 42/Skotteksvägen (enskild väg)
+ Solviken badplats, Äspenäs Strand
+
+T-korsing Vänga Mosse (enskild väg): (57.854187,12.9450856)
+ Naturreservat Vänga Mosse
 
 Korsning Vänga södra
  Bredared, Vänga K:a
