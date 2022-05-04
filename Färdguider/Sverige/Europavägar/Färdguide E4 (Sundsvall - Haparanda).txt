@@ -456,7 +456,48 @@ T-korsning Docksta NO
  Restaurang: Dockstabaren, Kustgrillen
 
 Korsning Näs
+ Värns
+ Sörgällsta, Skuleberget (turistväg)
+ Villa Orrbacken, Docksta invest
+ Friluftsbyn Camping och star
+ Höga Kusten Liften skidanläggning
 
 Etapp 34: Docksta - Bjästa ()
+
+Korsning Naturum Höga Kusten E4
+ Rastplats Skuleberget
+ Naturum Höga Kusten, Världsarv info
+ Sund
+ Skuleskogens Nationalpark Entré syd
+ Skuleberget Havscamping
+ Restaurang: Hillside Kitchen
+
+T-korsning (enskild väg)
+ Vändplats
+
+Korsning Skuleskogen Entré V)
+ Skuleskogens Nationalpark (enskild väg)
+ Vändplats
+					/)
+Kramfors / Örnsköldsvik: (63.1157872,18.3889605)
+
+Vändplats (båda riktningar)
+
+Parkeringsplats (grus)
+(sydgående riktning)
+
+Korsning Skule E4/Vändplats
+ Nyland (enskild väg)
+ Skule
+
+Bro över ...
+
+T-korsning EW-stugan (lokal väg)
+(sydgående riktning)
+ Bygdegård 
+
+T-korsning Skulnäs E4
+ Fjällåkern, Skulnäs, Bölen
+ Vändplats, Bygdegård
 
 Etapp 35: Bjästa - Örnsköldsvik ()
