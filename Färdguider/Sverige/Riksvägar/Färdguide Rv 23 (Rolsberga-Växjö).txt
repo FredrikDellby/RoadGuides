@@ -483,5 +483,23 @@ Korsning Såganäs N (enskild väg)
 ======================================
 
 Korsning Liatorp Rv 23
+ Virestad
+ 124: Ljungby, Liatorp
 
 Etapp 10: Liatorp - Gottåsa ()
+
+(Korsning (enskild väg))
+ Ej skyltade?
+
+Dubbel T-korsning
+ Diö
+ Hyltan (enskild väg)
+
+Korsning Eneryda vägskäl
+ Vare
+ Eneryda, Info Älmhult
+
+Korsning (enskild väg)
+ Lindås
+ Kulla, Sågverk
+
