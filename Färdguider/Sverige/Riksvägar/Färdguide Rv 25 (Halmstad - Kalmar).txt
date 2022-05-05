@@ -79,7 +79,7 @@ Dubbel T-korsning Simlångsdalen C
  Simlångsgården (Camping & Vandrarhem)
  Idrottsplats
 
-Etapp 2: Simlångsdalen - Boasjön ()
+Etapp 2: Simlångsdalen - Vrå ()
 					2,1 km/2,1 km	1 min 44 s/1 min 44 s
 T-korsning (enskild väg)
  Badplats, PaulssonPaleo B&B
@@ -128,6 +128,8 @@ Dubbel T-korsning Bjärseryds vägskäl
  Knäred, Vrå, Vrå k:a
  Bjerseryd (enskild väg)
 					8,5 km/8,3 km	6 min 23 s/6 min 14 s
+Etapp 3: Vrå - Skeen ()
+
 (Korsning (enskild väg))
  Bjerseryd
 
@@ -147,8 +149,6 @@ Dubbel T-korsning Boasjön
  Lidhult, Byholma, Camping
  Torpa
 					0,3 km/0,4 km	14 s/18 s
-Etapp 3: Boasjön - Ljungby ()
-
 Rastplats Boasjön
 					5,0 km/4,9 km	3 min 45 s/3 min 41 s
 (T-korsning (enskild väg)
@@ -167,6 +167,8 @@ T-korsning Skeen S
  Camping, stugor
  Restaurang: Steakhouse i Skeen
 					0,8 km/1,1 km	36 s/50 s
+Etapp 4: Skeen - Ljungby ()
+
 (Bro över Torpaån)
 T-korsning
  Skäckarp
@@ -209,7 +211,7 @@ T-korsning Grytåsa (enskild väg)
 Korsning Dragaryds vägskäl
  Angelstad
 					1,8 km/2,2 km	1 min 21 s/1 min 39 s
-T-korsning (lokal väg)
+T-korsning Rv 25/Bergvägen (lokal väg)
  Industri: Karlsro, Bergtäkt
 Trp Ljungby Södra-väst
  E4 s: Helsingborg, Markaryd
@@ -223,12 +225,18 @@ Trp Ljungby Södra-öst)
  Bensinstation: OKQ8, INGO
  Restaurang: McDonald's, MAX, Old Mike's Diner, Sibylla
 
+Etapp 5: Ljungby - Sjöatorp (37,8 km/37,7 km)
+
 (Trp Ljungby Södra (79)
  E4 s: Helsingborg, Markaryd
-
-Etapp 4: Ljungby - Sjöatorp (37,8 km/37,7 km)
 					6,1 km/6,3 km	4 min 4 s/4 min 12 s
-Trp Ljungby Norra (80)
+Trp Ljungby Norra (80))
+ E4 n: Stockholm, Värnamo
+
+(Trp Ljungby Norra-väst
+ Industri: EKA, Trafikövningsbana
+
+(Trp Ljungby Norra-öst
  E4 n: Stockholm, Värnamo
 					1,1 km/0,9 km	50 s/41 s
 Rondell Myrebo
