@@ -1,7 +1,7 @@
 Färdguide E6 (Oslo - Trondheim)
 ===============================
 
-Etapp 5: Oslo - Karihaugen: ()
+Etapp 6: Hovinkrysset - Karihaugen: ()
 
 Hovinkrysset (37)
  E6 s: Gøteborg
@@ -22,7 +22,7 @@ påfart nordgående riktning)
  [E18 v]: Kristianstad, Sentrum
 					0,5 km/0,9 km	20 s/36 s
 Alnabru bomstasjon: (59.9238943,10.8441807)
- takst 22-26/49-88 (rushtid 28-31/66-104 kr)
+ takst 22-26/49-88 kr. (rushtid 28-31/66-104 kr.)
 
 Serviceplass Alnabru
 (sydgående riktning)
@@ -55,7 +55,7 @@ påfart sydgående riktning)
  159: Lillestrøm, Karihaugen
  Sykehus: Ahus
 
-Etapp 6: Karihaugen - Gardemoen (37,6 km/37,2 km)
+Etapp 7: Karihaugen - Gardemoen (37,6 km/37,2 km)
 					1,1 km/1,5 km	0 min 44 s/1 min 0 s
 Skogskrysset (42)
 (avfart sydgående riktning
@@ -121,7 +121,7 @@ Kverndalenkrysset (50)
  Gardemoen Lufthavn
  E16 v: Hønefoss, Nannestad
 
-Etapp 7: Gardemoen - Minnesund (29,6 km/30,6 km)
+Etapp 8: Gardemoen - Minnesund (29,6 km/30,6 km)
 					1,1 km/1,7 km	0 min 40 s/1 min 1 s
 Grønvollkrysset (51)
  174: Jessheim N
@@ -195,7 +195,7 @@ Eidsvolltunnelen-nord
 					2,8 km/3,5 km	1 min 41 s/2 min 6 s
 Tømte bomstasjon: (60.3715301,11.205633)
 					(/
-Julsrudbrua (314,5 m)
+(Julsrudbrua (314,5 m)
 					1,9 km/1,7 km	1 min 8 s/1 min 1 s
 Trafikkontrollplass (nordgående)
 
@@ -206,7 +206,7 @@ Minnesundkrysset (58)
  Bensinstasjon: Circle-K
  Elbilsladdning: Circle-K
 
-Etapp 8: Minnesund - Kolomoen (37,0 km/36,6 km)
+Etapp 9: Minnesund - Espa (37,0 km/36,6 km)
 					1,4 km/1,0 km	50 s/36 s
 Nye Minnesundbrua-sør
  565 m/
@@ -252,6 +252,8 @@ Espa bomstasjon: (60.5544349,11.2506057)
 Espakrysset (61)
  Tangen, Skaberud
 					1,0 km/1,6 km	36 s/58 s
+Etapp 10: Espa - Kolomoen ()
+
 Espatunnelen-syd
  762 m/
 
@@ -294,7 +296,7 @@ Kolomoen vegkryss (65)
  [25 v]: Trysil
  [24 s]: Kongsvinger
 
-Etapp 8: Kolomoen - Hamar ()
+Etapp 11: Kolomoen - Hamar ()
 					0.9 km/1.0 km	41 s/45 s
 Rasteplass Kolomoen
 (sydgående riktning)
@@ -324,7 +326,7 @@ Kryss Ridabu (68)
  Norsk Jernbanemuseum, Kirsten Flagstadmuseet
  Åker Kongsgård
 
-Etapp 9: Hamar - Brumunddal ()
+Etapp 12: Hamar - Brumunddal ()
 					1.8 km/1.5 km	1 min 21 s/1 min 8 s
 Sælid bru (41 m)
  Flagstadelva
@@ -337,7 +339,7 @@ Kryss Vien (69)
 Vien bomstasjon
  takst 19/38 kr.
 
-(Avfart (69) (sydgående)
+(Avfart 69 (sydgående)
  Gåsbu
  [222]: Hamar, Sykehus
 					0.7 km/1.4 km	0 min 31 s/1 min 3 s
@@ -370,7 +372,7 @@ Brumunddalkrysset (73)
  Restaurang: McDonald's
  Hotell: Wood
 					5.0 km/4.8 km	2 min 51 s/2 min 51 s
-Etapp 10: Brumunddal - Sandvoll ()
+Etapp 13: Brumunddal - Sandvoll ()
 
 Økelsrudkrysset (74)
  Fv1688: Veldre
@@ -411,7 +413,7 @@ Rondell Sandvoll
  4: Gjøvik
  Busstasjon
 
-Etapp 11: Sandvoll - Lillehammer ()
+Etapp 14: Sandvoll - Lillehammer ()
 
 Rasteplass Biri
 
@@ -472,6 +474,8 @@ Kryss Lillehammer N (82)
  Bensinstasjon: Esso
  Restaurang: Burger King
 
+Etapp 15: Lillehammer - Tretten ()
+
 70 km/h / 80 km/h: (61.1348518,10.4252732)
 
 Kryss Storhove (83)
@@ -523,6 +527,8 @@ Kryss Holmen (87)
  Fv2522 s: Skarsmoen
  Bensinstasjon: Circle-K, Shell
 
+Etapp 16: Tretten - Fåvang ()
+
 T-korsning Bådstø
  Tretten
  Restaurang: Tretten Kro
@@ -556,6 +562,8 @@ Kryss Fåvang
  Kvitfjell Alpianlegg
  Bensinstasjon: YX
  Restaurant: Tunet Kro
+
+Etapp 17: Fåvang - Frya ()
 					/)
 Tromsa bru)
  Tromsa, 45 m
@@ -584,12 +592,12 @@ Korsning Grovbakken
 Skjeggestad  Gjestehus og Motell
 
 (Hagen Caravan AS)
-Dubbel T-korsning Ringebu ?
+Dubbel T-korsning Ringebu
  Fv2532: Vestsida (3,7 m höyde)
  Ringebuhallen, Kvitfjell mellomstasjon
  Fv2576: Atna, Friisvegen
  Måsåplassen
-
+					(/
 (Bensinstasjon: Circke-K
 
 (Våla bru)
@@ -615,6 +623,8 @@ Dubbel T-korsning Foråbrua
  Industri: Frya, Camping. Flyplass
  27: Folldal, Venabygd
  Rondane
+
+Etapp 18: Frya - Vinstra ()
 
 (Ringebu / Sør-Fron
 (Bru over 
@@ -662,7 +672,9 @@ Kryss Vinstra (93)
  Rastplass Vinstra
  Bensinstasjon: Circle-K
  Hotel/Restaurant: Peer Gynt
- 
+
+Etapp 19: Vinstra - Sjoa ()
+
 (90 km/h / 80 km/h
 Øla bru (85 m): (61.6194680 9.7096598)
  Øla
@@ -698,6 +710,8 @@ Dubbel T-korsning Sjoa
  Sjoa Camping, Valdresflye
  Sjoa mat og bensin
 
+Etapp 20: Sjoa - Otta ()
+
 Korsning Varphaugen
  Sjoa Raftingsenter (Camping mm)
 
@@ -706,6 +720,23 @@ Korsning Sæta
  Sæta Camping
 (Vangen Camping)
 
+(Parkeringsplass (gress), vestre side)
 T-korsning Bredebygden
- Sykehuset Innlandet, DPS Dögnenhet
+ Sykehuset Innlandet, DPS Døgnenhet
  Sel sjukeheim
+
+(Bru over Solhjemsåe
+					(/
+T-korsning Solhjem
+ Statens Vegvesen Trafikkstasjon
+
+T-korsning Otta S
+ Fv2628: Mysuseter, Rondane (turistvei)
+ Rondane Høyfjellshotell, Rondane Fjellstue, mm
+
+Bensinstasjon: Uno-X
+
+T-korsning E6/Rv 15
+ 15: Stryn, Lom, Sentrum
+ Hotell: Otta Camping og Motell, Thon Hotel Otta
+ Infosenter
