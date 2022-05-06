@@ -169,3 +169,84 @@ T-korsning Äsplund
 T-korsning Orrmossen
  Nygård, Hissjö
 
+T-korsning Bie N
+ Flodafors, Bie
+
+Rastplats Aspen (östra sidan)
+(endast skyltad nordgående)
+
+70 km/h / 50 km/h: (59.1491752,16.1159573)
+
+T-korsning Äs vägskäl (enskild väg)
+ Fogelstad, Bilverkstad
+
+Korsning Äs Säteri
+ 214 ö: Hållsta
+ 214 v: Kumla, Julita
+ Julita Gård (sevärdhet)
+
+T-korsning (enskild väg)
+ Segerhult, Trä o Byggmtrl
+
+Korsning Kvisterhult
+ Pålstorp (enskild väg)
+ Daviken, Lövåker
+
+Katrineholm / Eskilstuna: (59.2139261,16.0998753)
+
+(T-korsning (enskild väg))
+ Roxmo, Udden (fritidsområde)
+
+Bro över Hjälmaresund
+
+Parkeringsplats (östra sidan)
+(endast skyltad nordgående)
+T-korsning Hjälmaresunds Camping (lokal väg)
+ Hjälmaresunds Camping, Turinstinfo, Café
+
+Parkeringsplats (västra sidan)
+(endast skyltad sydgående)
+
+Bro över Hjälmaresund)
+					/)
+Rastplats Hjälmaresund
+
+T-korsning Stora Sundby (lokal väg)
+ Stora Sundby slott (sevärdhet)
+
+Dubbel T-korsning Alberga
+ Bärsta, Alberga
+ 230: Eskilstuna
+ Bensinstation: Q-star
+ Restaurang: Stora Sundby Gatukök
+
+T-korsning Lilla Udden
+ Västermo, Herrfallet
+ Herrfallets Camping och stugor
+
+Korsning Västerdal
+ Hägran
+
+Södermanland / Västmanland: (59.3503422,16.112831)
+Eskilstuna / Kungsör
+
+T-korsning Stengärdet
+ Hägran
+
+(T-korsning (enskild väg))
+ Ljungås, Lenmora
+
+T-korsning (enskild väg)
+ Kungsörs Grus, Bergtäkt
+
+(Soptunnor (östra sidan))
+
+(Dubbel) T-korsning Hogsta
+ Råsta, Hogsta (enskild väg)
+ Kungsör, Camping, Vandrarhem
+
+T-korsning Kungsör S
+ E20 ö: Stockholm, Eskilstuna
+ 56 n: Västerås
+ E20 v: Göteborg, Arboga
+ [250]: Fagersta, Kungsör
