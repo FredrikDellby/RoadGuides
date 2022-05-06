@@ -736,7 +736,99 @@ T-korsning Otta S
 
 Bensinstasjon: Uno-X
 
-T-korsning E6/Rv 15
+T-korsning E6/Rv 15 (Otta-øst)
  15: Stryn, Lom, Sentrum
  Hotell: Otta Camping og Motell, Thon Hotel Otta
  Infosenter
+
+Etapp 21: Otta - Sel ()
+
+T-korsning E6/Kongsvegen S
+(ikke skiltet sydgående)
+ Kongsvegen
+
+T-korsning E6/Kongsvegen N
+(ikke skiltet nordgående)
+ Kongsvegen
+
+T-korsning Ulvolden
+ Tredreiingsverksted
+
+(Infoplass, østre side)
+(Ula bru)
+ Ula, 36 m
+Dubbel T-korsning Sel kyrkje
+ Reiret, Kvitskriuprestein (seværdigheter)
+ Fv2614: Nortura, Sel kyrkje
+
+(T-korsning E6/Kyrkjevegen)
+ Ottaterminalen
+
+Rasteplass Selsverket (østre side)
+(ikke skiltet sydgående)
+
+Bru over Skjærungåe: (61.8393482,9.4788901)
+
+T-korsning Sel E6
+ Fv2614: Vågå, Sel, Nord-Sel kyrkje
+
+Etapp 22: Sel - Drovre ()
+
+T-korsning Rosten
+ Sandbakken camping og hytter
+
+Rasteplass Rosten (vestre side)
+(endast for sydgående)
+
+Parkeringsplass (vestre side)
+
+T-korsning Høvringsvegen E6
+ Fv2618: Høvringen, Rondane (turistvei)
+ Hotell: Høvringen Høgfjellshotell, m.fl.
+Infoplass (vestre side)
+
+Rostbrui (81 m)
+ Lågen
+
+T-korsning Rostbakken
+ Rosten
+
+Sel / Dovre: (61.8969716,9.3902943)
+
+Rasteplass Dovreskogen
+ Bensinstasjon: Circle-K
+ Hotell/Restaurant: Dovreskogen Gjestegård
+
+T-korsning Brusletten
+ Fv2656: Skogsætrin
+ Vollheim Camping og Hytter
+
+T-korsning Dovreskogen E6
+ Dovreskogen
+
+T-korsning Skogabrua
+ Dovreskogen Camping/Hytter
+ Bygningspark (seværdighet)
+
+Rasteplass Bekkemoen (vestre side)
+(ikke skiltet nordgående)
+
+Rasteplass Tallerås (østre side)
+(ikke skiltet)
+(Jernbanebru)
+ Dovrebanen
+
+T-korsning Ilka
+ Ilka
+(Tallerås bru)
+ Lågen, 84 m
+
+T-korsning Tårud
+ Industri: Dovre
+
+Dubbel T-korsning Dovre E6
+ Fv2658: Jøndalen, Hjerleid
+ Fv2656: Grimsdalen (bompeng), Dovre
+ Infoplass, Jetta Kafeteria
+
+Etapp 23: 
