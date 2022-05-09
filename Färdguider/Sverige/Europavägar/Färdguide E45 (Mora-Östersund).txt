@@ -152,8 +152,8 @@ T-korsning Lillhamra E45
 T-korsning (enskild väg)
  Svartåvallen
 
-(T-korsning)
- Lokal väg, Infotavla
+(T-korsning (lokal väg))
+ Infotavla
 Järnvägskorsning
  Inlandsbanan
 
@@ -167,15 +167,15 @@ Parkeringsplats
  fd godsmagasin/affär
 Tandsjö Camping
 
-T-korsning Tandsjöborg
- Gäddtjärn, Enskild väg
+T-korsning Tandsjöborg (enskild väg)
+ Gäddtjärn
  Stora Korpmäkis naturreservat
  Flarksjöbergets naturreservat
 
 Tandsjöborgs Kapell
 
-Korsning Tandsjöborg N
- Kolonatvägen (enskild väg)
+Korsning Tandsjöborg N (enskild väg)
+ Kolonatvägen
 
 (Bro över Kölsjöån)
 
@@ -195,8 +195,8 @@ Korsning Fågelsjö vägskäl
 
 Infoplats Björnån
 Bro över Björnån
-(T-korsning)
- Stensjövägen (enskild väg)
+(T-korsning (enskild väg))
+ Stensjövägen
 
 Vänd/Parkeringsplats (grus): (61.8428643, 14.6595165)
 
@@ -262,15 +262,102 @@ Korsning Sålnen
 T-korsning Älvros V (enskild väg)
  Högåsens naturreservat
 
-(T-korsning)
- Lokal väg, ej skyltad
+(T-korsning (lokal väg))
+ Ej skyltad
 Älvros gamla kyrka
-Gammal gård
+Gammal gård (sevärdhet)
 
 (Dubbel) T-korsning Älvros
- Lokal väg, ej skyltad
+ Älvros affär (Lokal väg, ej skyltad)
  84 ö: Hudiksvall, Ljusdal
+(Bensintation: alltank)
 
-Korsning Älvros nya
+Korsning Älvros nya kyrka
  Älvros nya kyrka
  Lokal väg (ej skyltad)
+
+Korsning Krokströmmen (enskild väg)
+ Krokströmmen, Vildmarkscamp (hotell/vandrarhem)
+
+(T-korsning Aspan)
+ Finnollesvallen, Enskild väg
+
+T-korsning (enskild väg)
+ Sångsjön
+
+Parkeringsplats (västra sidan)
+T-korsning Sänna norra
+ 296: Ljusdal, Kårböle
+
+Ytterhogdals hembygdsgård
+
+Bensinstation: INGO
+(Korsning Östansjö)
+ Lokal väg, ej skyltad
+
+T-korsning E45/Industrivägen
+ Industriområde, Lokal väg (ej skyltad)
+Restaurang: 45:ans Restaurang & Pizzeria
+
+(Bro över Hoan)
+Rastplats Ytterhogdal
+T-korsning E45/Trumstedtsv. (lokal väg)
+ Petterssons kiosk och bar
+Restaurang: Hoakrogen Vägkrog?
+
+Restaurang: Wärdshuset Knoppergården
+Busstation, Hogdal Café
+T-korsning Ytterhogdal
+ 314: Ånge, Östavall
+ Backlunds energisystem
+
+T-korsning E45/Kyrkvägen (lokal väg)
+ Yttehogdals kyrka
+
+(Parkerings-/Vändplats)
+(västra sidan)
+
+(T-korsning (enskild väg))
+ Skjutbana (ej skyltad)
+
+T-korsning Södra Överhogdal vsk (enskild väg)
+(endast skyltad sydgående)
+ Ytterhogdal S
+
+T-korsning Hoan (enskild väg)
+ Oppigården, Hembygdsgård
+(Bro över Hoan)
+
+(Dubbel) T-korsning Överhogdal k:a
+ Östmon, Enskild väg
+ Överhogdal k:a (enskild väg)
+
+Infoplats Överhogdal
+ Busshållplats
+
+T-korsning Överhogdal N (enskild väg)
+ Bygdegård
+
+Överhogdals Forngård
+
+T-korsning Oppigården E45
+ Oppigården, Enskild väg
+
+Härjedalen / Berg: (62.3509406,14.7127776)
+
+Infoplats (östra sidan)
+
+T-korsning Vitvattnet vägskäl
+ Sörtjärn, Vitvattnet
+
+T-korsning (enskild väg)
+ Mullbergs Vindpark
+
+(T-korsning Rätansbyn S)
+ Lokal väg, ej skyltad
+
+Korsning Rätan E45
+ 315 ö: Ånge, Rätansbyn
+ 315 v: Hede, Vemdalen
+ Rätans Camping, Lanthandel
+ Hotell/Restaurang: Rätans Wärdshus På Stället
