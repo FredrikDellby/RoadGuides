@@ -376,3 +376,36 @@ Bro över Röjan: (62.5064538,14.4506395)
 
 Bro över Kvarnån: (62.5147449,14.4498971)
 
+T-korsning (enskild väg)
+ Kvarnsjö, Kvarnsjö Camp
+
+T-korsning Stornäset vägskäl E45
+ Nästeln (badplats), Nästelströmmen
+
+T-korsning Lillsved S (enskild väg)
+ Lillsved
+
+T-korsning (enskild väg)
+ Lillsved, Stenkvarn AB
+
+Järnvägsviadukt
+ Inlandsbanan
+
+T-korsning
+ [84 v]: Funäsdalen
+ [315 v]: Hede, Vemdalen
+ 316: Klövsjö
+
+Korsning (enskild väg)
+ Jaktskytteklubb
+ Stenvalvbro
+
+T-korsning Åsarna S
+ Ljungdalen, Ljungdalsfjällen
+ Storsjö, Börtnan, Åsanforsen
+
+T-korsning Åsarna skicenter
+ Åsarna K:a
+
+Åsarna skicenter
+Ole.se
