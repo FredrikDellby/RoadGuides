@@ -285,7 +285,8 @@ Korsning Krokströmmen (enskild väg)
 T-korsning (enskild väg)
  Sångsjön
 
-Parkeringsplats (västra sidan)
+Parkeringsplats (västra sidan))
+					/)
 T-korsning Sänna norra
  296: Ljusdal, Kårböle
 
@@ -306,7 +307,7 @@ T-korsning E45/Trumstedtsv. (lokal väg)
 Restaurang: Hoakrogen Vägkrog?
 
 Restaurang: Wärdshuset Knoppergården
-Busstation, Hogdal Café
+(Busstation, Hogdal Café)
 T-korsning Ytterhogdal
  314: Ånge, Östavall
  Backlunds energisystem
@@ -361,3 +362,17 @@ Korsning Rätan E45
  315 v: Hede, Vemdalen
  Rätans Camping, Lanthandel
  Hotell/Restaurang: Rätans Wärdshus På Stället
+
+T-korsning Rätansbyn N
+ Hembygdsgård
+
+T-korsning (enskild väg)
+ Hembygdsgård (knappt skyltad)
+
+T-korsning Timmerflottaren (enskild väg)
+ Kojbyn Camp
+
+Bro över Röjan: (62.5064538,14.4506395)
+
+Bro över Kvarnån: (62.5147449,14.4498971)
+
