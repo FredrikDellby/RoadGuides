@@ -1,7 +1,7 @@
 Reseguide E18 Arboga - Norrtälje
 =================================
 
-Etapp 14: Gräsnäs - Västjädra (36,7 km/35,6 km)
+Etapp 15: Gräsnäs - Västjädra (36,7 km/35,6 km)
 
 Trafikplats Gräsnäs (121))
 (avfart östgående riktning
@@ -58,14 +58,14 @@ Trp Eriksberg (126)
 					4.0 km/4.3 km	2 min 40 s/2 min 52 s
 Hallstahammar / Västerås: (59.5788227,16.3138565)
 					1.8 km/2.0 km	1 min 12 s/1 min 20 s
-Rastplats Svedvi)
+(Rastplats Svedvi
 (västgående riktning)
 					(/
 Trp Västjädra (127)
  56: Norrköping, Eskilstuna
 (Motortrafikled / Motorväg)
 
-Etapp 15: Västjädra - Västerås (12,4 km/12,2 km)
+Etapp 16: Västjädra - Västerås (12,4 km/12,2 km)
 					3.1 km/)	1 min 52 s/)
 Rastplats Råby (östgående))
 					2.4 km/5.2 km	1 min 26 s/3 min 7 s
@@ -103,7 +103,7 @@ Skallbergsmotet (133)
  Kristiansborg
  56: Gävle, Sala, (Gideonsberg)
 
-Etapp 16: Västerås - Enköping (32,3 km/32,4 km)
+Etapp 17: Västerås - Enköping (32,3 km/32,4 km)
 					0,9 km/0,7 km	36 s/28 s
 Emausmotet (134)
  Centrum, Aros Congress Center
@@ -138,6 +138,8 @@ Anundshögsmotet (139.2)
  Gäddeholm
  Anundshög (sevärdhet)
 					9,1 km/9,9 km	5 min 28 s/4 min 59 s
+Trafikkontrollplats (östgående))
+					/)
 Trp Nykvarn (140)
  Orresta
  Hummelsta, Ängsö slott
@@ -162,7 +164,7 @@ Trp Romberga (142)
  Bensinstation: Circle-K, INGO
  Restaurang: McDonald's, MAX, Brödernas, Sibylla, Dinners
 
-Etapp 17: Enköping - Stäket (48,0 km/47,8 km)
+Etapp 18: Enköping - Stäket (48,0 km/47,8 km)
 					4,0 km/3,6 km	2 min 11 s/1 min 58 s
 Trp Annelund (143)
  Enköping Ö
@@ -174,8 +176,12 @@ Trp Grillby (144)
  Grönsöövägen (turistväg)
 					6,5 km/6,3 km	3 min 33 s/3 min 26 s
 Enköping / Håbo
+(Ekolsundsbron-väst (västgående))
 					(/
-(Ekolsundsbron (430 m/510 m)
+(Ekolsundsbron (östgående))
+ 430 m
+(Ekolsundsbron-öst (västgående)
+ 510 m
 					0,8 km/1,0 km	26 s/33 s
 Rastplats Ekolskrog
  Bensinstation: Preem
@@ -220,7 +226,7 @@ Trafikplats Stäket (152)
  [E4], 267: Rotebro, Arlanda
  Restaurang: McDonald's
 
-Etapp 18: Stäket - Kista (15,0 km/15,9 km)
+Etapp 19: Stäket - Järva Krog (15,0 km/15,9 km)
 					2,8 km/2,9 km	1 min 41 s/1 min 44 s
 Trp Kallhäll (153)
  Kallhäll S
@@ -261,9 +267,21 @@ Trp Ärvinge (159)
  Kista, Helenelund, Silverdal
  Kista Galleria, Kistamässan
 					1,0 km/1,8 km	0 min 40 s/1 min 12 s
-Trafikplats Kista (160)
- E4 s: Stockholm C
- E18 ö: Kapellskär, Norrtälje
+Trafikplats Kista (160/171)
  E4 n: Sundsvall, Uppsala
  Helenelund, Silverdal
  Kista Science Center, Kistamässan
+					/)
+Sollentuna / Solna): (59.3951241,17.9845474)
+
+Trp Sörenstorp (170)
+(avfart västgående riktning
+påfart östgående riktning)
+ Silverdal
+ Helenelund
+
+Trp Järva Krog (169)
+ E4 s: Stockholm C
+ Solna Centrum
+ E18 ö: Kapellskär, Norrtälje
+ Danderyds sjukhus, Frösunda
