@@ -1,29 +1,32 @@
-Färdguide E18-E20 (Örebro - Arboga)
+FÃ¤rdguide E18-E20 (Ã–rebro - Arboga)
 ====================================
 
-Etapp 1: Adolfsberg - Norrplan (7,3 km/7,8 km)
+Etapp 13/26: Adolfsberg - Norrplan (7,3 km/7,8 km)
 
 Trp Adolfsberg-nord (110 b)
-(västgående riktning)
- E20: Stockholm, Örebro C
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ E20: Stockholm, Ã–rebro C
 					1,6 km/1,3 km	1 min 4 s/52 s
 Trp Aspholmen/Bista-syd (111)
-(östgående riktning)
- Centrum, Mässan, Sjukhus
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ Centrum, MÃ¤ssan, Sjukhus
 					0,8 km/1,6 km	32 s/1 min 4 s
-(Svartån)
+(Bro Ã¶ver SvartÃ¥n)
 Trp Aspholmen/Bista-nord (111)
-(västående riktning)
- Ånsta
+(avfart vÃ¤stÃ¥ende riktning riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ Ã…nsta
  Bensinstation: OKQ8, St1
 					0,9 km/1,1 km	36 s/44 s
 Trp Karlslundsgatan (112)
- Garphyttan, Ånnaboda,
- Väster
+ Garphyttan, Ã…nnaboda,
+ VÃ¤ster
  Bensinstation: Statoil
 					1,1 km/1,0 km	44 s/40 s
-Trp Ekersvägen (113)
- Närkes Kil, Tysslingen
+Trp EkersvÃ¤gen (113)
+ NÃ¤rkes Kil, Tysslingen
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
 Trp Hedgatan (114)
  Vivalla, Eurostop
@@ -32,41 +35,43 @@ Trp Hedgatan (114)
 					1,3 km/1,1 km	52 s/44 s
 Trp Norrplan (115)
  50: Falun
- 68: Gävle
+ 68: GÃ¤vle
  Bensinstation: St1
 
-Etapp 2: Norrplan - Gräsnäs (41,9 km/43,4 km)
+Etapp 14/27: Norrplan - GrÃ¤snÃ¤s (41,9 km/43,4 km)
 					2,3 km/2,0 km	1 min 32 s/1 min 20 s
 Trp Munkatorp (116)
- Grenadjärsstaden
+ GrenadjÃ¤rsstaden
 					9,1 km/9,2 km	4 min 58 s/5 min 1 s
-Trp Skölv (117)
+Trp SkÃ¶lv (117)
  Glanshammar
 					1,1 km/1,6 km	36 s/52 s
-Rastplats Björnfallet
-(västgående riktning)
+Rastplats BjÃ¶rnfallet
+(vÃ¤stgÃ¥ende riktning)
 					6,7 km/6,2 km	3 min 39 s/3 min 23 s
 Trp Slyte (118)
- Götlunda, Arboga V
+ GÃ¶tlunda, Arboga V
 					5,2 km/5,0 km	2 min 50 s/2 min 44 s
-Örebro / Västmanland
+Ã–rebro / Lindesberg: (59.369688,15.5832808)
+
+Ã–rebro / VÃ¤stmanland: (59.3748056,15.599714)
 Lindesberg / Arboga
 					7,2 km/8,2 km	3 min 56 s/4 min 28 s
-Rastplats Högsjön
-(östgående riktning)
+Rastplats HÃ¶gsjÃ¶n
+(Ã¶stgÃ¥ende riktning)
 					4,0 km/3,6 km	2 min 11 s/1 min 58 s
-Arbogaån
+Bro Ã¶ver ArbogaÃ¥n
 
-Trp Jäder (119)
+Trp JÃ¤der (119)
  Arboga V
- 249: Lindesberg, Frövi
+ 249: Lindesberg, FrÃ¶vi
 					3,5 km/3,9 km	1 min 55 s/2 min 8 s
-Trp Sätra (120)
+Trp SÃ¤tra (120)
  Arboga N
  Restaurang: McDonald's
 			(E18)		3,1 km/4,2 km	1 min 41 s/2 min 17 s
 			(E20)		3,1 km/3,7 km	1 min 41 s/
-Trp Gräsnäs (121)
- E18: Stockholm, Västerås
+Trp GrÃ¤snÃ¤s (121)
+ E18: Stockholm, VÃ¤sterÃ¥s
  E20: Stockholm, Eskilstuna
-Arboga / Kungsör
+Arboga / KungsÃ¶r
