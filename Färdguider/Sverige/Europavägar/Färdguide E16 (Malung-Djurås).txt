@@ -186,7 +186,7 @@ Korsning Noret/Emaus E16
  Dala-Järna
  Leksand
 
-Etapp 9: Dala-Järna - Björbo (29,2 km/29,2 km)
+Etapp 9: Dala-Järna - Nås (29,2 km/29,2 km)
 
 Bro över Noret
 
@@ -222,6 +222,8 @@ Nås Däcktjänst
  Restaurang: Nederborgs Bistro
  Nickusboá - Nås Hemslöjdsbutik
 
+Etapp 10: Nås - Björbo ()
+
 Servicecenter Nås
  Bensinstation: Gulf
  Butik: Tempo
@@ -234,31 +236,108 @@ Järnvägskorsning
 
 Vansbro / Gagnef: (60.4711217,14.6158359)
 
+Bro över Fänforsen
+
 T-korsning Björbo V
+ Björbo
+ Rastplats Fänforsen
+ Bensinstation: Din-X
+ Restaurang: Fänforsens Restaurang
+ Hotell: Länsmansgården
+ sevärdhet, fiske
 
-Korsning E16/Holgattu
- Lokalt mål
+Korsning E16/Täcksbergsv. (enskild väg)
+ Täcksberget, Ädelfiske (ej förskyltat)
 
-T-korsning
- Lokalt mål
+Korsning E16/Holgattu (enskild väg)
+ Holarna
 
-T-korsning Björbo Ö
- 66 ö: Västerås, Ludvika
+T-korsning (enskild väg)
+ Grimsholarna, Elljusspår
 
-Etapp 10: Björbo - Djurås (28,5 km/28,8 km)
+T-korsning Gybäckskolan
+ 66 ö: Västerås, Ludvika, Grangärde
+ Björbo
+ Hotell/Restaurang: Länsmansgården
 
-T-korsning Forsgärdet
+Etapp 11: Björbo - Djurås (28,5 km/28,8 km)
+
+Parkeringsplats (södra sidan)
+
+T-korsning Forsgärdet E16
+ Textilverkstad, EB Hedlund Profil-List
+
+(Dala-Floda ÅVC)
 
 Korsning Dala-Floda V
+ Älgberget, Mossel
+ Kvarna (sevärdhet), Folkpark
 
-Korsning Dala-Floda K:a
-Tankställe Dala-Floda
+Korsning Dala-Floda kyrka
+ Kyrka
+ Idrottsplats
+Servicecenter Dala-Floda
+ Bensinstation: INGO
+ Restaurang: Flokullornas Kök & Restaurang
+ Butik: ICA, Mössverksta'n i Dalarna
 
-Rondell Mockfjärd Rv 70
+Korsning Syrholns skola E16 (lokal väg)
+ Dala-Floda Värdshus, Herrgården i Dala-Floda
+ Badplats
 
-T-korsning Gagnefs GK
+(Enmalms Interiör-Produktion)
+T-korsning (enskild väg)
+ Kajaktiv
+
+(T-korsning Svedjebyn (enskild väg))
+ Svedje
+
+Rastplats Långsjön (södra sidan)
+(grus, direkt invid vägen)
+
+Korsning Lillstupet (enskild väg)
+ Lillstupet, Mockfjärds kraftstation
+ Högberget
+
+T-korsning Högberget (enskild väg)
+ Högberget, Högbergsdammen
+
+(Korsning E16/Holgattu (lokal väg))
+
+Rondell Mockfjärd Rv 71
+ Centrum, Vandrarhem
+ Moelven Dalaträ
+ Nordanholen (enskild väg)
+
+Rhodos Restaurang & Pizzeria
+
+T-korsning Mockfjärdsskolan E16
+ Lokal väg, ej skyltad
+
+T-korsning (lokal väg)
+ Industri: Högsveden
+
+(T-korsning Färmsnäs (enskild väg))
+ Färmsnäs
+
+(Korsning Rista E16 (enskild väg))
+ Ej skyltad, belysning
+(T-korsning Rista E16 (enskild väg))
+ Ej skyltad, belysning
+
+T-korsning Gagnefs GK (lokal väg)
+ Gagnefs Golfklubb, Golfrestaurang
+
+Korsning Mon (enskild väg)
+ Hovänget, Ratt och Roder Camping
+ Mon
+
+(T-korsning Mon N (enskild väg))
+ Mon
 
 Korsning Lindan
+ Lindan (enskild väg)
+ Östtjärna, Shamsen assistans
 
 Rondell Näset
 
