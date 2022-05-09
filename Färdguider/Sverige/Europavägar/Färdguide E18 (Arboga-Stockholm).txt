@@ -1,202 +1,269 @@
-Reseguide E18 Arboga - Norrtälje
+Reseguide E18 Arboga - NorrtÃ¤lje
 =================================
 
-Etapp 14: Gräsnäs - Västjädra (36,7 km/35,6 km)
+Etapp 14: GrÃ¤snÃ¤s - VÃ¤stjÃ¤dra (36,7 km/35,6 km)
 
-Trafikplats Gräsnäs (121)
- E18-E20: Oslo, Göteborg, Örebro
- E20 ö: Stockholm, Eskilstuna
-(Arboga / Kungsör)
+Trafikplats GrÃ¤snÃ¤s (121))
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ E20 Ã¶: Stockholm, Eskilstuna, Arboga Ã–
+(Arboga / KungsÃ¶r: (59.4265267,15.8742901)
+
+(Bro Ã¶ver LillÃ¥n
+Arboga / KungsÃ¶r): (59.4288948,15.8865431)
+
+(Trafikplats GrÃ¤snÃ¤s (121)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ E18-E20: Oslo, GÃ¶teborg, Ã–rebro
+ E20 Ã¶: Stockholm, Eskilstuna, Arboga Ã–
 					5.1 km/3.1 km	2 min 47 s/1 min 41 s
-Kungsör / Köping
+KungsÃ¶r / KÃ¶ping: (59.4652148,15.8994554)
 					4.1 km/4.8 km	2 min 14 s/2 min 37 s
-Trp Hedströmmen (122)
- Köping S, C
- Malmön
+(Bro Ã¶ver KÃ¶pingsÃ¥n
+					(/
+Trp HedstrÃ¶mmen (122)
+ KÃ¶ping S, Industri, Hamnen
+ MalmÃ¶ns Camping
 					1.4 km/1.5 km	46 s/49 s
 Rastplats Skoftesta Skans	
 					2.1 km/1.7 km	1 min 9 s/0 min 56 s
-Trp Strö (123)
- Köping C
- 56: Norrköping, Kungsör
- 250: Fagersta, Kolsva
-Bensinstation: OKQ8
+Trafikplats StrÃ¶ (123)
+ KÃ¶ping C, Sjukhus, Handelsomr.
+ 250 s: KungsÃ¶r
+ 250 n: Fagersta, Kolsva
+ Restaurang: McDonald's, MAX, Restaurang Xuan
+ Bensinstation: OKQ8/Tanka
 					9.0 km/8.9 km	6 min 0 s/5 min 56 s
+MotorvÃ¤g / Motortrafikled: (59.5294047,15.9805913)
+
 Trp Morgendal (124)
  Munktorp
- Rocklunda
 					2.5 km/2.2 km	1 min 40 s/1 min 28 s
-Köping / Hallstahammar
+KÃ¶ping / Hallstahammar: (59.5771506,16.1340058)
 					4.3 km/5.2 km	2 min 52 s/3 min 28 s
-Trp Söstafors (125)
+Trp SÃ¶stafors (125)
  Hallstahammar V, C
- 252 s: Strömsholm, Kolbäck
- 252 n: Surahammar
+ 252 s: StrÃ¶msholm (sevÃ¤rdhet), KolbÃ¤ck V
+ 252 n: RamnÃ¤s
+ Ã…sby-Skantzen (bad camping)
 
-Strömsholms Kanal
+Bro Ã¶ver StrÃ¶msholms Kanal/KolbÃ¤cksÃ¥n
 					2.4 km/1.8 km	1 min 36 s/1 min 12 s
 Trp Eriksberg (126)
- Hallstahammar Ö, C
- Strömsholm, Kolbäck
+ Hallstahammar Ã–, C
+ StrÃ¶msholm, KolbÃ¤ck Ã–
+ Bensinstation: Circle-K
+ Restaurang: Hallstakrog
 					4.0 km/4.3 km	2 min 40 s/2 min 52 s
-Hallstahammar / Västerås
-Rastplats Svedvi
-(västgående riktning)
+Hallstahammar / VÃ¤sterÃ¥s: (59.5788227,16.3138565)
 					1.8 km/2.0 km	1 min 12 s/1 min 20 s
-Trp Västjädra (127)
- Dingtuna
- 56: Norrköping, Eskilstuna
+Rastplats Svedvi)
+(vÃ¤stgÃ¥ende riktning)
+					(/
+Trp VÃ¤stjÃ¤dra (127)
+ 56: NorrkÃ¶ping, Eskilstuna
+(Motortrafikled / MotorvÃ¤g)
 
-Etapp 15: Västjädra - Västerås (12,4 km/12,2 km)
-					3.1 km/2.5 km	1 min 52 s/1 min 30 s
-Rastplats Råby
-(östgående riktning)
-					2.4 km/2.7 km	1 min 26 s/1 min 37 s
-Västerledsmotet (128)
-(avfart västgående riktning
-påfart östgående riktning)
+Etapp 15: VÃ¤stjÃ¤dra - VÃ¤sterÃ¥s (12,4 km/12,2 km)
+					3.1 km/)	1 min 52 s/)
+Rastplats RÃ¥by (Ã¶stgÃ¥ende))
+					2.4 km/5.2 km	1 min 26 s/3 min 7 s
+VÃ¤sterledsmotet (128)
+ Industri: Hacksta
+ Trailerparkering, lastbilscenter
+ Restaurang: Bistro Box VÃ¤sterÃ¥s
 					1.5 km/0.7 km	54 s/25 s
-Skälbymotet (129)
- Skälby
+SkÃ¤lbymotet (129)
+ SkÃ¤lby, BÃ¤ckby V
+ Handel: Erikslund V
 					0.9 km/1.7 km	0 min 32 s/1 min 1 s
-Bäckbymotet (130)
- 66: Ludvika, Surahammar
-Bensinstation: OKQ8
-Restaurang: McDonald's
+BÃ¤ckbymotet (130)
+ BÃ¤ckby Ã–, Hamnen
+ 66: SÃ¤len, Fagersta
+ Handel: Erikslund Ã–
+ Bensinstation: OKQ8, St1
+ Restaurang: McDonald's, MAX, Burger King
+ First Camp VÃ¤sterÃ¥s-MÃ¤laren, LÃ¶vudden
 					2.9 km/2.5 km	1 min 56 s/1 min 40 s
 Vallbymotet (131)
  Centrum
  Vallby
  Friluftsmuseum
-(Svartån)
+
+Bro Ã¶ver SvartÃ¥n
 					0.9 km/1.1 km	36 s/44 s
 Rocklundamotet (132)
  Centrum
- Rocklunda
-Bensinstation: Shell
+ Skultuna, Rocklunda, Arenor
+ [56 n]: (Tung trafik)
+ Bensinstation: Shell
 					0.8 km/1.0 km	32 s/40 s
 Skallbergsmotet (133)
- Centrum, Kristiansborg
- 56: Gävle, Sala
- Bensinstation: OKQ8
+ Kristiansborg
+ 56: GÃ¤vle, Sala, (Gideonsberg)
 
-Etapp 16: Västerås - Enköping (32,3 km/32,4 km)
+Etapp 16: VÃ¤sterÃ¥s - EnkÃ¶ping (32,3 km/32,4 km)
 					0,9 km/0,7 km	36 s/28 s
 Emausmotet (134)
- Centrum
- Gideonsberg
+ Centrum, Aros Congress Center
+ (Emaus, Gideonsberg)
  Bensinstation: OKQ8
 					0,9 km/0,3 km	36 s/12 s
-Korsängsmotet (135)
- Kungsängen
- Bensinstation: St1
+KorsÃ¤ngsmotet (135)
+ Malmaberg
+ Hotell: Valsaren, Best Western Ta Inn, Scandic VÃ¤sterÃ¥s
 					0,5 km/0,9 km	20 s/36 s
 Folkparksmotet (136)
- Centrallassarettet
- Bensinstation: Statoil
+ Centrum, SmÃ¥bÃ¥tshamnar
+ VÃ¤stmanlands Sjukhus VÃ¤sterÃ¥s
+ Bensinstation: Circle-K
+ Restaurang: Hemdals Restaurang & Pizzeria, MAX
 					1,4 km/1,6 km	0 min 56 s/1 min 4 s
 Talltorpsmotet (137)
- Östra Stadsdelarna
-(Påfart Kranbyggargatan (138))
-(västgående riktning)
+ BjÃ¶rnÃ¶ (vandring)
+ Tillberga, Industri: FinnslÃ¤tten
+ Bensinstation: Preem
+(PÃ¥fart Kranbyggargatan (138))
+(vÃ¤stgÃ¥ende riktning)
 					1,7 km/1,9 km	1 min 8 s/1 min 16 s
-Hällamotet (139)
- Västerås Flygplats
- Irsta
- Hälla
- Bensinstation: St1
- Restaurang: McDonald's
+HÃ¤llamotet (139)
+ Irsta, Ã„ngsÃ¶ slott (sevÃ¤rdhet)
+ VÃ¤sterÃ¥s Flygplats
+ Handel: HÃ¤lla
+ Bensinstation: OKQ8
+ Restaurang: McDonald's, Pizza Hut, Spicy Hot, Efendys Food Court
 					3,1 km/2,5 km	1 min 52 s/1 min 30 s
-Infoplats (västgående)
+AnundshÃ¶gsmotet (139.2)
+ GÃ¤ddeholm
+ AnundshÃ¶g (sevÃ¤rdhet)
 					9,1 km/9,9 km	5 min 28 s/4 min 59 s
 Trp Nykvarn (140)
- Irsta
+ Orresta
+ Hummelsta, Ã„ngsÃ¶ slott
 					2,7 km/1,7 km	1 min 28 s/0 min 56 s
-(Norra Brobytunneln)
-Västmanland / Uppsala
-Västerås / Enköping
+VÃ¤stmanland / Uppsala: (59.6370477,16.8712006)
+VÃ¤sterÃ¥s / EnkÃ¶ping
+					(/
+(Norra Brobytunneln (260 m)
 					0,5 km/1,0 km	16 s/33 s
-Rastplats Frösvi
+Rastplats FrÃ¶svi
 					8,3 km/7,9 km	4 min 32 s/4 min 59 s
-Ullbrotunneln
+Ullbrotunneln (235 m)
 					1,6 km/2,1 km	0 min 52 s/1 min 9 s
-Trp Enögla (141)
- 55 s: Norrköping, Strängnäs
+Trp EnÃ¶gla (141)
+ 55 s: NorrkÃ¶ping, StrÃ¤ngnÃ¤s
+ EnkÃ¶ping V, Centrum
+ Sjukhus, GrÃ¶nsÃ¶Ã¶vÃ¤gen (turistvÃ¤g)
 					1,9 km/2,0 km	1 min 2 s/1 min 5 s
 Trp Romberga (142)
- Enköping N, C
+ EnkÃ¶ping Centrum
  70: Mora, Sala
- Bensinstation: Statoil
- Restaurang: McDonald's
+ Bensinstation: Circle-K, INGO
+ Restaurang: McDonald's, MAX, BrÃ¶dernas, Sibylla, Dinners
 
-Etapp 17: Enköping - Stäket (48,0 km/47,8 km)
+Etapp 17: EnkÃ¶ping - StÃ¤ket (48,0 km/47,8 km)
 					4,0 km/3,6 km	2 min 11 s/1 min 58 s
 Trp Annelund (143)
- Enköping Ö, C
+ EnkÃ¶ping Ã–
  55: Uppsala
 					7,3 km/7,4 km	3 min 59 s/4 min 2 s		
 Trp Grillby (144)
- Grillby, Lillkyrka
+ Grillby, HÃ¤rjarÃ¶ (vandring)
+ [55 n]: Uppsala
+ GrÃ¶nsÃ¶Ã¶vÃ¤gen (turistvÃ¤g)
 					6,5 km/6,3 km	3 min 33 s/3 min 26 s
-Ekolsund
-(Enköping / Håbo)
+EnkÃ¶ping / HÃ¥bo
+					(/
+(Ekolsundsbron (430 m/510 m)
 					0,8 km/1,0 km	26 s/33 s
-Rastplats Ekolskog
+Rastplats Ekolskrog
+ Bensinstation: Preem
 					7,4 km/7,6 km	4 min 2 s/4 min 9 s
-Trp Åsen (146)
- Bålsta
- Hjälsta, Skokloster
+Trafikplats Ã…sen (146)
+ BÃ¥lsta V
+ Skokloster (slott)
+ Bensinstation: Shell
 					4,1 km/3,9 km	2 min 14 s/2 min 8 s
-Trp Draget (147)
- Bålsta
+Trafikplats Draget (147)
+ BÃ¥lsta Centrum, HandelsomrÃ¥de
+ Bensinstation: St1
 					1,3 km/1,0 km	43 s/33 s
-Uppsala / Stockholm
-Håbo / Upplands Bro
+Uppsala / Stockholm: (59.5578734,17.5781307)
+HÃ¥bo / Upplands Bro
 					4,3 km/4,1 km	2 min 21 s/2 min 14 s
-Trp Bro (148)
+Trafikplats Bro (148)
+ Bro V, Centrum
+ 269: Skokloster, Sigtuna
 					7,8 km/8,0 km	4 min 15 s/4 min 22 s
-Trp Brunna (150)
-					1,3 km/1,4 km	43 s/46 s
-Trp Kungsängen (151)
-(avfart västgående riktning
-påfart östgående riktning)
-					2,0 km/1,7 km	1 min 5 s/0 min 56 s
-Upplands Bro / Järfälla
-					1,3 km/1,8 km	43 s/59 s
-Trp Stäket (152)
+Trp Kockbacka (149)
+ Bro Ã–, Centrum
 
-Etapp 18: Stäket - Kista (15,0 km/15,9 km)
+Trafikplats Brunna (150)
+ KungsÃ¤gen, Tibble
+ Brunna, Livgardet
+ Restaurang: McDonald's
+					1,3 km/1,4 km	43 s/46 s
+Trp KungsÃ¤ngen (151)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ KungsÃ¤ngen
+					/)
+Bro Ã¶ver Ryssviken): (59.4839571,17.7647713)
+					2,0 km/1,7 km	1 min 5 s/0 min 56 s
+Upplands Bro / JÃ¤rfÃ¤lla: (59.4784838,17.7899799)
+					(/
+(Bro Ã¶ver StÃ¤ketsundet
+					1,3 km/1,8 km	43 s/59 s
+Trafikplats StÃ¤ket (152)
+ StÃ¤ket
+ [E4], 267: Rotebro, Arlanda
+ Restaurang: McDonald's
+
+Etapp 18: StÃ¤ket - Kista (15,0 km/15,9 km)
 					2,8 km/2,9 km	1 min 41 s/1 min 44 s
-Trp Kallhäll (153)
+Trp KallhÃ¤ll (153)
+ KallhÃ¤ll S
+ Bensinstation: OKQ8
 					3,3 km/3,4 km	119 s/122 s
 Trp Jakobsberg (154)
- Restaurang: Max, IKEA
+ ViksjÃ¶ N, Jakobsberg
+ Barkarby handelsplats N
+ Bensinstation: Tanka
+ Restaurang: MAX, IKEA, McDonald's
 					1,3 km/1,0 km	52 s/40 s
 Trp Barkarby (155)
+ ViksjÃ¶ S, Barkarby, Veddesta
+ Barkarby handelsplats S
+ Restaurang: Burger King, Subway, Sushi Yama, m.fl.
 					1,4 km/1,1 km	56 s/40 s
-Järfälla / Stockholm
+JÃ¤rfÃ¤lla / Stockholm: (59.4036421,17.8709071)
 					0,3 km/1,0 km	12 s/40 s
 Trp Hjulsta (156)
- 275 s: Hässelby
- 275 n: Sollentuna
+ Tensta
+ 275 s: VÃ¤llingbyIndustri: Lunda
+ 275 n: Sollentuna, Akalla
 					1,0 km/0,6 km	40 s/24 s
-Tenstatunneln
+Tenstatunneln (300 m)
 					1,0 km/1,0 km	40 s/40 s
 Trp Tensta (157)
-(avfart västgående riktning
-påfart östgående riktning)
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  Tensta
 					1,0 km/1,0 km	40 s/40 s
-Rinkebytunneln
+Rinkebytunneln (300 m)
 					0,8 km/1,1 km	32 s/44 s
 Trp Rinkeby (158)
- 279: Stockholm C, Bromma Flygplats
- Sollentuna, Kista
+ 279: Sundbyberg, Bromma Flygplats
+ Solna, Rinkeby
 					1,2 km/1,0 km	48 s/40 s
-Trp Ärvinge (159)
- Kista, Akalla
+Trp Ã„rvinge (159)
+ Kista, Helenelund, Silverdal
+ Kista Galleria, KistamÃ¤ssan
 					1,0 km/1,8 km	0 min 40 s/1 min 12 s
-Trp Kista (160)
+Trafikplats Kista (160)
  E4 s: Stockholm C
- E18 ö: Kapellskär, Norrtälje
+ E18 Ã¶: KapellskÃ¤r, NorrtÃ¤lje
  E4 n: Sundsvall, Uppsala
+ Helenelund, Silverdal
+ Kista Science Center, KistamÃ¤ssan
