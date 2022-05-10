@@ -194,6 +194,7 @@ T-korsning Sandbacken (enskild väg)
 Korsning Dunker vägskäl
  Ånhammar, Dunker k:a, Idr. plats
  Dunker, Grustag
+(2+1-väg upphör / börjar)
 
 T-korsning Högsten
  Ärla, Eklången, Stålboga
@@ -202,11 +203,58 @@ T-korsning Björndammen
  Masugn (sevärdhet)
 					(/
 (Infoplats
-Trp Biskopskvarn (137)
- E20 ö: Stockholm, Södertälje
- Strängnäs Centrum
 
 Flen / Strängnäs: (59.2174526,16.8784661)
+
+T-korsning Ånhammarsvägen
+ Ånhammar
+
+T-korsning Byringe S
+ Solvik, Kalkbro
+ Kalkbro naturreservat
+
+(f.d. Järnvägsviadukt)
+ Gamla Eskilstunabanan
+(T-korsning Byringe (enskild väg))
+ Byringe stn (nedlagd)
+
+T-korsning Länna bruk (enskild väg)
+ Conexa
+
+(Bro över Lännaån)
+T-korsning (enskild väg)
+ Länna bruk
+
+Korsning Ärlavägen
+ Ärla, Länna bruk
+
+Dubbel T-korsning Söderlänna
+ Prostökna
+ Åkers Styckebruk
+ Restaurang: Emma Grön
+
+Korsning Merlänna Rv 55
+ Merlänna, Länna k:a
+
+Korsning Öråsen
+ Merlänna
+
+Korsning Vinterled (enskild väg)
+ Jaktskytteklubb
+
+Trp Biskopskvarn-syd 
+ E20 ö: Stockholm, Södertälje
+ Strängnäs S
+ Industriområde, Infoplats
+ Bensinstation: Circle-K, Tanka
+ Restaurang: McDonald's, MAX, ChopChop Asian Express
+
+Trp Biskopskvarn-nord)
+ Strängnäs S, Centrum
+ Industriområde, Infoplats
+
+(Trp Biskopskvarn (137)
+ E20 ö: Stockholm, Södertälje
 
 Etapp 7: Strängnäs - Aspö (25,3 km/24,9 km)
 					6.2 km/6.7 km	3 min 43 s/4 min 1 s
