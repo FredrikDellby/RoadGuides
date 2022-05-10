@@ -1,4 +1,5 @@
-Färdguide Lv 154 (Falkenberg - 
+Färdguide Lv 154 (Falkenberg - Kilabro (-Borås)
+================================================
 
 Rondell
  Järnvägsstation
@@ -16,8 +17,10 @@ Rondell
  Långås, Stafsinge
 
 Trp Falkenberg Centrum-syd
+ E6-E20 s: Malmö, Halmstad
 
 Trp Falkenberg Centrum-nord
+ E6-E20 n: Göteborg, Varberg
 
 Rondell (lokal väg)
  Industri: Falkenbergsmotet
@@ -78,27 +81,26 @@ T-korsning Ulvsbo
  Ekomuseum (konst)
  Ställplats husbilar
 
-Infoplats/Parkering
-(östra sidan)
+Infoplats/Parkering (östra sidan)
 
-T-korsning Boarp
+T-korsning Kvarnbacken
  Skinnarlyngen
  Sumpafallen Naturreservat
 
 Rondell Lv 154/Ulla Smides v.
- Gekås Parkering
+ Gekås Parkering, Lokal väg
 
 Reception (Camping/stugor)
-T-korsning Ullareds idrottsplats
+T-korsning Ullareds idrottsplats (lokal väg)
  Industri: Hedens, Idrottsplats
  Bensinstation: EON
 
-T-korsning Lv 154/Hedemovägen
+T-korsning Lv 154/Hedemovägen (lokal väg)
  Extra Parkering, Återvinningscentral
 
 Bro över Högvadsån
 
-Korsning Ullareds kyrka
+Korsning Ullareds kyrka (lokal väg)
  Ullareds kyrka
  Vårdcentral
  Bensinstation: Din-X
@@ -113,24 +115,111 @@ Scandica Båtar
 (Vid Gekås Ullared boende)
 
 (T-korsning Lv 154/Kullevägen)
+ Lokal väg
 (T-korsning Lv 154/Skolvägen)
+ Lokal väg
 
-(Dubbel) T-korsning
+(Dubbel) T-korsning (lokal väg)
  Örnatorpets gästranch
 
 (T-korsning Ullared Furet)
  Lokal väg (ej skyltad)
 
-Parkeringsplats
-(främst för nordgående)
+Parkeringsplats (främst nordgående)
 
 (Korsning (lokal väg))
- Fridhemsberg Industrier
+ Fridhemsberg Industrier (ej skyltad)
 
 Ekomuseum Blomsterfrid
 T-korsning Fridhemsberg
  Fagered
 
 (Korsning Lv 154/Skrockåvägen)
- Industrier
+ Sutarebo (lokal väg)
+ Industrier (enskild väg)
 
+Kerstins Stugor & Café
+
+T-korsning Sv. Horsared
+ Kärnebygd
+
+Horsared Bed & Breakfast
+
+T-korsning Obbhult (enskild väg)
+ Hotell/Restaurang: Lia Hof
+
+Dubbel T-korsning Lia (enskild väg)
+ Höghult
+ FRIAB Ollestad
+
+T-korsning Lv 154/Liavägen
+ Fagered
+
+Rastplats Hackarpssjön (östra sidan): (57.21089460114112, 12.837020704043773)
+
+(T-korsning Ålarp (enskild väg))
+ Ej skyltad, bro
+
+T-korsning Lv 154/Ringvägen (lokal väg)
+ Älvsereds Avloppsverk
+
+Dubbel T-korsning Älvsereds Center
+ Varuhus, Infoplats
+ Älvsereds K:a, Badplats
+ Bygdegård, Ställplats
+ Bensinstation: Din-X
+
+Korsning Lv 154/Skolvägen (enskild väg)
+ Älvseredsskolan (ej skyltad)
+ Skattered, Nordsvenska hästar
+
+Korsning Älvsered N
+ Mårdaklev, Bageri, Lin's B&B
+ Kungsäter, Torestorp
+Restaurang: Mandy's Diner
+
+Stigma Hyvleri (östra sidan)
+
+Halland / Västra Götaland: (57.2688567,12.8773042)
+Falkenberg / Svenljunga
+
+Korsning Mjöbäck Industri
+ Claesson Engineering, Lokal väg
+
+T-korsning Mjöbäcks kyrka
+ Mjöbäck, Husfabrik
+(Mjöbäcks kyrka N)
+
+Korsning Mjöbäck Ö
+ Mjöbäck, Husfabrik
+
+T-korsning Torshög
+ Ej skyltad
+
+Korsning Hallåsen
+ Mårdaklev
+ Getås
+
+T-korsning Överlidaljus
+ Överlidaljus, Lokal väg
+ Bensinstation: Smart
+
+T-korsning Lv 154/Lidavägen
+ Lokal väg (ej skyltad)
+ Handvävnadsgarner
+
+T-korsning Överlida
+ Skene, Öxabäck
+ Hotell/Restaurang, Turistinfo
+
+T-korsning Överlida kyrka
+ Överlida K:a
+
+T-korsning Överlida Ö
+ Ö. Frölunda
+
+(T-korsning Lv 154/Hallavägen)
+ Museum, Lokal väg
+
+Korsning Överlida Camping
+ Överlida Camping, Lokal väg
