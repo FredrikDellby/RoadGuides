@@ -84,7 +84,7 @@ T-korsning Margreteberg
 					1.8 km/1.7 km	1 min 33 s/1 min 27 s
 T-korsning Öja (lokal väg)
  Öja Industri
-(Sinbad pizzeria & kolgrill)
+Sinbad pizzeria & kolgrill
 
 Dubbel T-korsning Flens kyrka
  Brukshundklubb (enskild väg)
@@ -121,7 +121,7 @@ T-korsning Rv 55/Taljavägen (lokal väg)
 T-korsning Rv 55/Blockvägen (lokal väg)
  Industri: Talja N
 
-T-korsning Finntorp
+T-korsning Finntorp V
  Hälleforsnäs, Flen
  Parkering Farligt Gods
 
@@ -173,7 +173,7 @@ Rondell Lilla Picket
  Malmköping
  Malmköpings Bad & Camping
 
-Etapp 6: Malmköping - Strängnäs ()
+Etapp 6: Malmköping - ()
 
 Korsning Hosjö (enskild väg)
  Museispårväg Parkering
@@ -199,7 +199,7 @@ Korsning Dunker vägskäl
 T-korsning Högsten
  Ärla, Eklången, Stålboga
 
-T-korsning Björndammen
+T-korsning Björndammen (enskild väg)
  Masugn (sevärdhet)
 					(/
 (Infoplats
@@ -259,17 +259,17 @@ Trp Biskopskvarn-nord)
 Etapp 7: Strängnäs - Aspö (25,3 km/24,9 km)
 					6.2 km/6.7 km	3 min 43 s/4 min 1 s
 Trafikplats Lunda (136)
- E20 ö: Göteborg, Eskilstuna
+ E20 v: Göteborg, Eskilstuna
 					1.5 km/1.2 km	1 min 0 s/0 min 48 s
-T-korsning
- Härad
+T-korsning Strömsnäs
+ Eskilstuna, Fordonsmuseum
 					0.9 km/0.8 km	36 s/32 s
-Trp Sankt Eskils källa
- Strängnäs
+Trp S:t Eskils källa
+ [55 s], Strängnäs C
 					1.6 km/0.9 km	1 min 4 s/0 min 36 s
 Trp Eldsund
- Strängnäs
- Fogdö
+ Strängnäs V, Eldsundsviken
+ Vansö
 					0.9 km/1.0 km	36 s/40 s
 Strängnäsbron-syd
  1164 m
@@ -277,45 +277,69 @@ Strängnäsbron-syd
 (Strängnäsbron-nord)
 Rastplats Strängnäsbron
 					0.9 km/0.4 km	36 s/16 s
-Trafikplats
- Aborrberget
+Trp Knäppinge
+ Strängnäs N, Sundby park
+ Sanda
 					5.3 km/5.7 km	3 min 32 s/3 min 48 s
-T-korsning Morranövägen
- Morrarö
+T-korsning Svedäng (enskild väg)
+ Svedäng, Rum och Frukost
+
+T-korsning Morrarövägen (enskild väg)
+ Morrarö, Hornudden
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
-T-korsning
- Aspö, Arnö
+(T-korsning Andalavägen nskild väg))
+ Andala, Logarns Västervik, Långhult
+
+(Dubbel) T-korsning Aspö handel
+ Kråkvilan, Logarn (enskild väg)
+ Arnö, Aspö k:a
+ Bensinstation: Gulf
+ Livs/Café
 					3.9 km/4.1 km	2 min 56 s/3 min 5 s
 Etapp 8: Aspö - Enköping (15,3 km/15,3 km)
 
-Vall till Märsön
-(Södermanland / Uppsala)
-(Strängnäs / Enköping)
+Korsning Säbygård (enskild väg)
+ Säby, Handelsträdgård
+
+Södermanland / Uppsala: (59.512491,16.9980996)
+Strängnäs / Enköping
 					1.6 km/1.4 km	1 min 22 s/1 min 12 s
-Hjulstabron-nord
- 1000 m
+Café Brofästet
+
+Hjulstabron-syd: (59.5285854,17.0063261)
+ 500 m
 					1.1 km/1.0 km	57 s/51 s
-Hjulstabron-syd
+Hjulstabron-nord: (59.533045,17.0082687)
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
+T-korsning (enskild väg)
+
 Korsning Enköpings-Näs
  Enköpings-Näs kyrka
 					3.0 km/3.0 km	2 min 34 s/2 min 34 s
+T-korsning Lundby vägskäl (enskild väg)
+
 T-korsning Huseby
  Teda
 					0.4 km/0.4 km	21 s/21 s
-T-korsning Svinnegarn
+T-korsning Svinnegarn kyrka
  Hummelsta
 					3.8 km/3.8 km	3 min 15 s/3 min 15 s
+T-korsning (lokal väg)
+
+T-korsning Hållingsbo vägskäl
+
 T-korsning Haga vägskäl
  Haga
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
-Korsning Rv55/Kungsgatan
+T-korsning Vappa säteri
+
+Korsning Rv 55/Kungsgatan
  Enköping Centrum
 					0.5 km/0.6 km	26 s/31 s
 T-korsning Storängen
  Hummelsta
 
-Rondell
+Rondell Enköping V
  Enköping Centrum
 
 Trp Enögla (141)
