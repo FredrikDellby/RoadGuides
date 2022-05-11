@@ -464,6 +464,7 @@ Korsning Västergärde
  Skogstibble
 
 T-korsning Bragby (enskild väg)
+ Bragby, Äventyrscenter
 
 T-korsning Ramsta kyrka
  Skogstibble, Ramsta k:a
@@ -493,5 +494,55 @@ Bro över Hågaån
 Korsning Kvarnbolund
  72: Sala, Heby
  Bensinstation: Shell
- 
- Etapp 13: B
+
+Etapp 13: Bärbyleden ()
+
+Korsning Kvarnbo Rv 55
+ Kvarnbo, Hågadalen-Nåsten
+ Fyrispark
+
+T-korsning Rv 55/Starbovägen
+ Starbo, Antik
+
+T-korsning Stenhagen Rv 55
+ Stenhagen
+
+T-korsning Flogsta Rv 55
+ Flogsta
+
+Trp Berthåga
+ Centrum, Luthagen, Sjukhus
+ Berthåga
+
+Trp Husbyborg
+ Luthagen, Fyrishov
+ 272: Gysinge, Librobäck
+ Bensinstation: OKQ8
+ Restaurang: Sibylla
+
+Bro över Fyrisån
+
+Trafikplats Röbo
+ Svartbäcken, Fyrishov
+ Björklinge
+(Faunabro)
+
+Trafikplats Löten
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Kvarngärdet
+ Gamla Uppsala
+ Bensinstation: Circle-K
+ Hotell: Scandic Uppsala Nord
+
+Nybyrondellen
+ Gränbystaden, Gränby sportfält
+ Centrum, Sjukhus
+ Nyby, Gamla Uppsala (sevärdhet)
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, MAX, Jureskogs, ChopChop Asian Express
+
+Trp Bärbyleden
+ E4 s: Stockholm, Uppsala S
+ E4 n: Sundsvall, Gävle
+ 288: Östhammar
