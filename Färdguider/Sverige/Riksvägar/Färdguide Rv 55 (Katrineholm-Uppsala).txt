@@ -1,5 +1,5 @@
-Färdguide Rv 55 (Katrineholm - Enköping)
-=========================================
+Färdguide Rv 55 (Katrineholm - Uppsala)
+========================================
 
 Etapp 3: Katrineholm - Sköldinge (24,4 km/24,6 km)
 
@@ -256,7 +256,7 @@ Trp Biskopskvarn-nord)
 (Trp Biskopskvarn (137)
  E20 ö: Stockholm, Södertälje
 
-Etapp 7: Strängnäs - Aspö (25,3 km/24,9 km)
+Etapp 8: Strängnäs - Aspö (25,3 km/24,9 km)
 					6.2 km/6.7 km	3 min 43 s/4 min 1 s
 Trafikplats Lunda (136)
  E20 v: Göteborg, Eskilstuna
@@ -296,7 +296,7 @@ T-korsning Morrarövägen (enskild väg)
  Bensinstation: Gulf
  Livs/Café
 					3.9 km/4.1 km	2 min 56 s/3 min 5 s
-Etapp 8: Aspö - Enköping (15,3 km/15,3 km)
+Etapp 9: Aspö - Enköping (15,3 km/15,3 km)
 
 Korsning Säbygård (enskild väg)
  Säby, Handelsträdgård
@@ -323,6 +323,7 @@ T-korsning Lundby vägskäl (enskild väg)
 
 T-korsning Huseby
  Uddala, Teda k:a
+(Bro över en å)
 					0.4 km/0.4 km	21 s/21 s
 Dubbel T-korsning Svinnegarn kyrka
  Svinnegarn kyrka
@@ -349,6 +350,7 @@ Korsning Storängen
  Hotell: Pensionat Närheten
 (Infoplats (nordgående))
 
+(Bro över Enköpingsån)
 Rondell Enköping V
  Enköping C, Sjukhus
  Ullunda (enskild väg)
@@ -360,3 +362,136 @@ Trp Enögla (141)
  55 n: Uppsala
  [70]: Mora, Sala
  E18 v: Oslo, Västerås
+
+Etapp 10: Enköping - Litslena ()
+
+Trp Romberga (142)
+ Enköping Centrum
+ 70: Mora, Sala
+ Bensinstation: Circle-K, INGO
+ Restaurang: McDonald's, MAX, Brödernas, Sibylla, Dinners
+					/)
+Trp Annelund (143))
+ E18 ö: Stockholm
+					/)
+Trp Annelund-syd)
+ Enköping Ö, Centrum
+
+Trp Annelund-nord)
+ E18 v: Oslo, Västerås
+ E18 ö: Stockholm
+ 55 s: Strängnäs
+ Enköping Ö, Centrum
+					/)
+T-korsning Enköpings företagspark
+ Enköpings företagspark, Lokal väg
+
+T-korsning (lokal väg)
+ Däckverkstad
+
+T-korsning (lokal väg)
+ Industri: Sneby, Bergtäkt
+
+T-korsning Östertorp (lokal väg)
+ MERA Petfood
+ [70]: Mora, Sala
+
+Korsning Skolsta
+ Veckholm
+ Härkeberga, Medeltidskyrka
+ Kromsta lantbod
+
+Rondell Litslena
+ Grillby, Härjarö (vandring)
+ 263: Sigtuna
+(Dubbel) T-korsning Litslena kyrka
+ Litslena kyrka (sevärdhet)
+ Tyresta (enskild väg)
+(2+1-väg börjar / upphör)
+
+Etapp 11: Litslena - Örsundsbro ()
+
+T-korsning Graneberg (enskild väg)
+ Graneberg
+
+Korsning Djurby
+ Husby-Sjutolft
+
+Korsning Hallarby vägskäl
+ Hallarby
+
+T-korsning Härvesta (enskild väg)
+ Härvesta (endast förskyltad nordgående)
+
+Dubbel T-korsning Korskrogen
+ Hjälstaby, Handelsträdgård
+ Långtora, Biskopskulla
+
+T-korsning Nopsgärde (enskild väg)
+ Nopsgärde (endast förskyltad nordgående)
+
+T-korsning Varsta (enskild väg)
+ Varsta (endast förskyltad sydgående)
+
+Korsning Örsundsbro södra
+ Örsundsbro, Friibergh
+ Nysätra
+ Kvekgården (sevärdhet), Fröslunda k:a
+ Bensinstation: Q-star
+ Restaurang: Pizzeria Amore
+
+Bro över Örsundaån
+
+(2+1-väg upphör / börjar)
+Trp Örsundsbro norra
+ Örsundsbro, Gryta k:a
+
+Etapp 12: Örsundsbro - Kvarnbolund ()
+
+Korsning Säva
+ Ölsta
+ Hagby
+
+Enköping / Uppsala
+(Bro över Sävaån)
+T-korsning
+ Balingsta, Folkhögskola
+ Wiks slott/Konferens (sevärdhet)
+
+Korsning Västergärde
+ Balingsta, Folkhögskola
+ Wiks slott/Konferens (sevärdhet)
+ Skogstibble
+
+T-korsning Bragby (enskild väg)
+
+T-korsning Ramsta kyrka
+ Skogstibble, Ramsta k:a
+
+Korsning Ramstalund
+ Dalby
+ Bygdegård
+ Bensinstation: Preem
+ Restaurang: Ramsta Pizzeria
+
+(T-korsning Lund (enskild väg))
+ Loppiskungen, Ej skyltad
+
+Korsning Skärfälten
+ Uppsala-Näs, Hammarskog (vandring)
+ Kanikebo (enskild väg)
+ Söderby Golfklubb, Tempel Brygghus
+
+T-korsning Kristinelund
+ Läby, Upsala Golfklubb
+
+T-korsning (lokal väg)
+ Bergtäkt
+
+Bro över Hågaån
+
+Korsning Kvarnbolund
+ 72: Sala, Heby
+ Bensinstation: Shell
+ 
+ Etapp 13: B
