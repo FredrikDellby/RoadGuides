@@ -312,37 +312,51 @@ Hjulstabron-syd: (59.5285854,17.0063261)
 Hjulstabron-nord: (59.533045,17.0082687)
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
 T-korsning (enskild väg)
+ Hjulsta Säteri
 
 Korsning Enköpings-Näs
- Enköpings-Näs kyrka
+ Hacksta (enskild väg)
+ Enköpings-Näs kyrka, Bygdegård
 					3.0 km/3.0 km	2 min 34 s/2 min 34 s
 T-korsning Lundby vägskäl (enskild väg)
+ Ridhus
 
 T-korsning Huseby
- Teda
+ Uddala, Teda k:a
 					0.4 km/0.4 km	21 s/21 s
-T-korsning Svinnegarn kyrka
- Hummelsta
+Dubbel T-korsning Svinnegarn kyrka
+ Svinnegarn kyrka
+ Vela
 					3.8 km/3.8 km	3 min 15 s/3 min 15 s
 T-korsning (lokal väg)
+ Parkering Naturreservat
 
-T-korsning Hållingsbo vägskäl
+(T-korsning Hållingsbo vägskäl)
+ Hållingsbo, Enskild väg
 
 T-korsning Haga vägskäl
  Haga
+ Konferensslott, Tegelbruk
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
-T-korsning Vappa säteri
+(T-korsning Vappa säteri)
+ Vappa, Enskild väg
 
 Korsning Rv 55/Kungsgatan
- Enköping Centrum
+ Enköping C, Idrottsplats
 					0.5 km/0.6 km	26 s/31 s
-T-korsning Storängen
- Hummelsta
+Korsning Storängen
+ Västerås, Hummelsta
+ Hotell: Pensionat Närheten
+(Infoplats (nordgående))
 
 Rondell Enköping V
- Enköping Centrum
+ Enköping C, Sjukhus
+ Ullunda (enskild väg)
+ Grönsöövägen (turistväg)
+ Bensinstation: Circle-K
 
 Trp Enögla (141)
  E18 ö: Stockholm
  55 n: Uppsala
+ [70]: Mora, Sala
  E18 v: Oslo, Västerås
