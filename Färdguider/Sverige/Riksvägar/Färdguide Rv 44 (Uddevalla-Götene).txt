@@ -1,246 +1,247 @@
-Reseguide Rv 44 (Uddevalla - Götene)
-====================================
+Reseguide Rv 44 (Uddevalla - GÃ¶tene)
+=====================================
 
 Etapp 1: Genom Uddevalla ()
 
-Södra Torpmotet-väst
- E6 s: Göteborg
+SÃ¶dra Torpmotet-vÃ¤st
+ E6 s: GÃ¶teborg
  161: Lysekil
- [160]: Orust, Tjörn
-
-Södra Torpmotet-öst
+ [160]: Orust, TjÃ¶rn
+					0,4 km/0,4 km	29 s/29 s
+SÃ¶dra Torpmotet-Ã¶st
  E6 n: Oslo
-					0.8 km/0.4 km	58 s/29 s
+					0,4 km/0,4 km	24 s/24 s
 Korsning Herrestad V
  Herrestad
  Hogstorp
-					1.2 km/1.3 km	1 min 2 s/1 min 7 s
+					1,2 km/1,3 km	1 min 2 s/1 min 7 s
 Korsning Kissleberg
  Herrestad
-					1.2 km/1.2 km	1 min 2 s/1 min 2 s
-Rondell Kärra
- Industri: Fröland, Hamn
- Kurveröd, Stadshuset
+					1,2 km/1,2 km	1 min 2 s/1 min 2 s
+Rondell KÃ¤rra
+ Industri: FrÃ¶land, Hamn
+ KurverÃ¶d, Stadshuset
  Bensinstation: OKQ8, Tanka
-
-Kärratunneln
-					1.4 km/1.7 km	0 min 56 s/1 min 8 s
-Sörvikstunneln
-					0.9 km/1.4 km	36 s/56 s
-Brattåsmotet
+					0,4 km/0,8 km	18 s/36 s
+KÃ¤rratunneln
+					1,1 km/0,9 km	44 s/36 s
+SÃ¶rvikstunneln
+					0,9 km/1,5 km	0 min 36 s/1 min 0 s
+BrattÃ¥smotet
  Norra Uddevalla, H Hamnen
  Industri: Kasen, Stadshuset
  Bensinstation: INGO
-					1.1 km/0.9 km	44 s/36 s
-Fjällvägsmotet
- Centrum, Södra Uddevalla
+					1,2 km/0,9 km	48 s/36 s
+FjÃ¤llvÃ¤gsmotet
+ Centrum, SÃ¶dra Uddevalla
  Norra Uddevalla, Sjukhus
-					2.0 km/1.9 km	1 min 20 s/1 min 16 s
-Kurödsmotet
- 172: Bengtsfors, Färgelanda
- Östra Uddevalla
- Industri: Kuröd, Lillesjö
+					1,9 km/1,9 km	1 min 16 s/1 min 16 s
+KurÃ¶dsmotet
+ 172: Bengtsfors, FÃ¤rgelanda
+ Ã–stra Uddevalla
+ Industri: KurÃ¶d, LillesjÃ¶
  Bensinstation: Shell
-					1.3 km/1.3 km	52 s/52 s
-Ramserödsmotet
- Ängebacken
- Industri: Grodröd, Björbäck
-					1.7 km/1.5 km	1 min 8 s/1 min 0 s
-Råsserödsmotet
- [E6 s]: Göteborg
+					1,3 km/1,3 km	52 s/52 s
+RamserÃ¶dsmotet
+ Ã„ngebacken
+ Industri: GrodrÃ¶d, BjÃ¶rbÃ¤ck
+					1,7 km/1,5 km	1 min 8 s/1 min 0 s
+RÃ¥sserÃ¶dsmotet
+ [E6 s]: GÃ¶teborg
 
-Etapp 2: Uddevalla - Vänersborg ()
-					5.6 km/5.3 km	3 min 22 s/3 min 11 s
-Infoplats (västgående)
-					1.9 km/2.1 km	1 min 2 s/1 min 9 s
-					0.9 km/0.9 km	29 s/29 s
-Trp Väne-Ryr nordväst
-(avfart östgående riktning
-påfart västgående riktning)
- Väne-Ryr
-					2.4 km/2.2 km	1 min 19 s/1 min 12 s
-Trp Väne-Ryr sydöst
-(avfart västgående riktning
-påfart östgående riktning)
- Väne-Ryr
-					1.6 km/2.0 km	0 min 52 s/1 min 5 s
-Infoplats (östgående)
-					2.6 km/2.6 km	1 min 25 s/1 min 25 s
+Etapp 2: Uddevalla - VÃ¤nersborg ()
+					8,9 km/5,3 km	4 min 51 s/3 min 11 s
+Infoplats (vÃ¤stgÃ¥ende)
+					(/3,0 km	(/1 min 38 s
+Trp VÃ¤ne-Ryr nordvÃ¤st
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ VÃ¤ne-Ryr
+					2,4 km/2,2 km	1 min 19 s/1 min 12 s
+Trp VÃ¤ne-Ryr sydÃ¶st
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
+ VÃ¤ne-Ryr
+					1,6 km/)	52 s/)
+Infoplats (Ã¶stgÃ¥ende)
+					2,6 km/4,7 km	1 min 25 s/2 min 34 s
 Trp Grunnebo
  Trestad Center
-					1.4 km/1.9 km	0 min 50 s/1 min 8 s
-Trp Båberg
- Trollhättan S, NÄL
+					1,4 km/1,9 km	0 min 50 s/1 min 8 s
+Trp BÃ¥berg
+ TrollhÃ¤ttan S, NÃ„L
  E45 n: Karlstad, Mellerud
-					1.8 km/1.0 km	1 min 12 s/0 min 40 s
-Etapp 3: Vänersborg - Trollhättan ()
 
-(Vänersborg / Trollhättan
-					(/1.3 km	(/52 s
+Etapp 3: VÃ¤nersborg - TrollhÃ¤ttan ()
+					2,2 km/1,1 km	1 min 28 s/0 min 44 s
+(VÃ¤nersborg / TrollhÃ¤ttan
+					(/1,3 km	(/52 s
 Trp Skogsbo
- Vänersborg
-					2.1 km/1.6 km	1 min 24 s/1 min 4 s
-Trp Överby
- Överby Köpcentrum
-
-Stallbackabron-väst)
- Göta älv
-					1.7 km/1.5 km	1 min 8 s/1 min 0 s
-Stallbackabron-öst
-					0.7 km/1.3 km	28 s/52 s
-Trafikplats Stallbacka
- E45 s: Göteborg, Trollhättan C
- Vargön
+ VÃ¤nersborg
+					2,0 km/1,7 km	1 min 20 s/1 min 8 s
+Trp Ã–verby
+ Ã–verby KÃ¶pcentrum
+					0,6 km/)	24 s/)
+Stallbackabron-vÃ¤st)
+ GÃ¶ta Ã¤lv
+					1,4 km/1,6 km	0 min 56 s/1 min 4 s
+Stallbackabron-Ã¶st
+					0,4 km/1,2 km	16 s/48 s
+Trp Stallbacka
+ E45 s: GÃ¶teborg, TrollhÃ¤ttan C
+ VargÃ¶n
 					2.0 km/1.4 km	1 min 20 s/0 min 56 s
-Etapp 4: Vänersborg - Tre Älgar ()
-(Trollhättan / Vänersborg)
+Etapp 4: VÃ¤nersborg - Tre Ã„lgar ()
+(TrollhÃ¤ttan / VÃ¤nersborg)
 					0.5 km/0.7 km	20 s/28 s
-Trp Hullsjön
- Trollhättan Ö
- Vargön
+Trp HullsjÃ¶n
+ TrollhÃ¤ttan Ã–
+ VargÃ¶n
 					1.7 km/1.5 km	1 min 8 s/1 min 0 s
 Mulltorpsrondellen
- 42: Borås, Vårgårda
+ 42: BorÃ¥s, VÃ¥rgÃ¥rda
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
-T-korsning (östgående)
- RLM Mekaniska (lokal väg)
+T-korsning (Ã¶stgÃ¥ende)
+ RLM Mekaniska (lokal vÃ¤g)
 
-Korsning Fristorp (enskild väg)
- Börsle
+Korsning Fristorp (enskild vÃ¤g)
+ BÃ¶rsle
 
-Vänersborg / Trollhättan)
+VÃ¤nersborg / TrollhÃ¤ttan)
 					0.7 km/0.7 km	31 s/31 s
-Dubbel T-korsning Östergården
- Väne-Åsaka
+Dubbel T-korsning Ã–stergÃ¥rden
+ VÃ¤ne-Ã…saka
 					3.7 km/3.7 km	2 min 47 s/2 min 47 s
 Korsning Johannesberg
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Norra Björke vägskäl
- Norra Björke, Vittene kulturled
+Korsning Norra BjÃ¶rke vÃ¤gskÃ¤l
+ Norra BjÃ¶rke, Vittene kulturled
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
 T-korsning Vittene
-(endast förskyltad västgående)
- Enskild väg
+(endast fÃ¶rskyltad vÃ¤stgÃ¥ende)
+ Enskild vÃ¤g
 
-Rastplats Vittene (västgående)
+Rastplats Vittene (vÃ¤stgÃ¥ende)
 
-T-korsning Vägen
-(endast förskyltad västgående)
- Enskild väg
+T-korsning VÃ¤gen
+(endast fÃ¶rskyltad vÃ¤stgÃ¥ende)
+ Enskild vÃ¤g
 
-Trollhättan / Grästorp: (58.3031331,12.5404019)
+TrollhÃ¤ttan / GrÃ¤storp: (58.3031331,12.5404019)
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
 T-korsning Kollebo
-(endast förskyltad västgående)
- Enskild väg
+(endast fÃ¶rskyltad vÃ¤stgÃ¥ende)
+ Enskild vÃ¤g
 
-T-korsning Herrängsdreven väg 44
-(endast förskyltad västgående)
- Enskild väg
+T-korsning HerrÃ¤ngsdreven vÃ¤g 44
+(endast fÃ¶rskyltad vÃ¤stgÃ¥ende)
+ Enskild vÃ¤g
 
-Rondell Håberg
+Rondell HÃ¥berg
  Lilleskog, Hunneberg
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 (Korsning)
- Enskild väg, Bergtäkt
+ Enskild vÃ¤g, BergtÃ¤kt
 
-(T-korsning (västgående))
- Enskild väg
+(T-korsning (vÃ¤stgÃ¥ende))
+ Enskild vÃ¤g
 
-Rondell Tre Älgar
- 47: Jönköping, Falköping (ej lastbil)
-     Grästorp
+Rondell Tre Ã„lgar
+ 47: JÃ¶nkÃ¶ping, FalkÃ¶ping (ej lastbil)
+     GrÃ¤storp
  Bensinstation: OKQ8
- Restaurang: Tre Älgar
+ Restaurang: Tre Ã„lgar
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-Etapp 5: Tre Älgar - Häljestena ()
+Etapp 5: Tre Ã„lgar - HÃ¤ljestena ()
 
-Järnvägsviadukt
- Älvsborgsbanan
+JÃ¤rnvÃ¤gsviadukt
+ Ã„lvsborgsbanan
 					2.3 km/2.3 km	1 min 43 s/1 min 43 s
-Bro över Nossan
+Bro Ã¶ver Nossan
 
-Korsning Ågården
+Korsning Ã…gÃ¥rden
  Forshall
- Ås
+ Ã…s
 					1.0 km/1.0 km	45 s/45 s
-Korsning Skattegården
+Korsning SkattegÃ¥rden
  Tun
- Rastplats Viggen, Vänerslingan
+ Rastplats Viggen, VÃ¤nerslingan
 					1.2 km/1.2 km	54 s/54 s
+(Bro Ã¶ver LannaÃ¥n)
+
 Korsning
- [47]: Jönköping, Falköping (lastbil)
- Grästorp
+ [47]: JÃ¶nkÃ¶ping, FalkÃ¶ping (lastbil)
+ GrÃ¤storp
 					2.1 km/2.1 km	1 min 35 s/1 min 35 s
 T-korsning Rudberga
- Rudberga, Ås
+ Rudberga, Ã…s
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Särestad
- Tun, Särestad
+T-korsning SÃ¤restad
+ Tun, SÃ¤restad
 					1.1 km/1.1 km	50 s/50 s
-T-korsning Hålevägen
+T-korsning HÃ¥levÃ¤gen
  Boberg
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
 T-korsning Sjuberga
- Håle kyrka
+ HÃ¥le kyrka
 					0.4 km/0.4 km	18 s/18 s
 T-korsning
  Gammelstorp
 					0.5 km/0.5 km	23 s/23 s
-T-korsning Täng
+T-korsning TÃ¤ng
  St. Levene
 					0.7 km/0.7 km	31 s/31 s
-T-korsning Häljestena
- Tun, Såtenäs
+T-korsning HÃ¤ljestena
+ Tun, SÃ¥tenÃ¤s
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-Etapp 6: Häljestena - Risa ()
-Grästorp / Lidköping: (58.4093099,12.8388309)
+Etapp 6: HÃ¤ljestena - Risa ()
+GrÃ¤storp / LidkÃ¶ping: (58.4093099,12.8388309)
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Hulan
 
 T-korsning Lavad skola
- Häggesled
+ HÃ¤ggesled
 					1.2 km/1.2 km	54 s/54 s
 T-korsning Lavad kyrka
  Lavad K:a, Stuga/B&B
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning Nyhagen
- Tådene, Tranum
+ TÃ¥dene, Tranum
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
-T-korsning (lokal väg)
- Bergtäkt
+T-korsning (lokal vÃ¤g)
+ BergtÃ¤kt
 
-T-korsning Västergården
- Örslösa, Väla
+T-korsning VÃ¤stergÃ¥rden
+ Ã–rslÃ¶sa, VÃ¤la
 					0.9 km/0.9 km	54 s/54 s
 T-korsning Gillstad kyrka
  Gillstad kyrka 
 
 T-korsning Gillstad V
-(endast skyltad östgående)
- Järpås, Gillstad
+(endast skyltad Ã¶stgÃ¥ende)
+ JÃ¤rpÃ¥s, Gillstad
 					0.8 km/0.8 km	48 s/48 s
-T-korsning Gillstad Ö
-(endast skyltad västgående)
- Järpås, Gillstad
- Nya Gillstad Café
+T-korsning Gillstad Ã–
+(endast skyltad vÃ¤stgÃ¥ende)
+ JÃ¤rpÃ¥s, Gillstad
+ Nya Gillstad CafÃ©
 					0.9 km/0.9 km	41 s/41 s
 T-korsning
  Mellby
 					4.1 km/4.2 km	3 min 5 s/3 min 9 s
-T-korsning (lokal väg)
+T-korsning (lokal vÃ¤g)
  Kullens B&B
 
 Dubbel T-korsning Mellby Fyrkanten
- Örslösa
+ Ã–rslÃ¶sa
  Lovene, Mellby
 					3.5 km/3.5 km	2 min 38 s/2 min 38 s
-Korsning Björksäter
- Råda
+Korsning BjÃ¶rksÃ¤ter
+ RÃ¥da
 					0.9 km/0.9 km	41 s/41 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Kinnekullebanan
 T-korsning Risa
  187: Vara
@@ -248,115 +249,115 @@ T-korsning Risa
 Etapp 7: Risa - Rondell 44/49 ()
 					2.2 km/2.3 km	1 min 53 s/1 min 58 s
 Rastplats Lidan
-T-korsning (lokal väg)
- Lidköpings Kanot
+T-korsning (lokal vÃ¤g)
+ LidkÃ¶pings Kanot
 					0.4 km/0.5 km	21 s/26 s
-Rondell Ågårdsskogen
+Rondell Ã…gÃ¥rdsskogen
  Centrum
- Stenhammar, Läckö Slott
+ Stenhammar, LÃ¤ckÃ¶ Slott
 Rondell Heliga Korset
  Centrum
 					1.7 km/1.5 km	2 min 2 s/1 min 48 s
 Dubbel T-korsning Margaretelund
- Lidköpings flygplats
+ LidkÃ¶pings flygplats
 					1.0 km/0.9 km	1 min 12 s/1 min 5 s
-Rondell Kartåsen
- 184: Falköping, Skara
+Rondell KartÃ¥sen
+ 184: FalkÃ¶ping, Skara
 					0.5 km/0.6 km	30 s/36 s
-Rastplats Kartåsen
-(nordgående riktning)
+Rastplats KartÃ¥sen
+(nordgÃ¥ende riktning)
 
 Rondell Rv 44/Rv 49
- 49: Skövde, Skara
+ 49: SkÃ¶vde, Skara
 
 Etapp 8: Rondell 44/49 -
 
-(Filsbäck väg 44 busshållplats)
+(FilsbÃ¤ck vÃ¤g 44 busshÃ¥llplats)
 
-Källbyrondellen
- Lundsbrunn, Filsbäck, Skeby
- Källby V, Dafgårds
- Lidköpings Golfbana
+KÃ¤llbyrondellen
+ Lundsbrunn, FilsbÃ¤ck, Skeby
+ KÃ¤llby V, DafgÃ¥rds
+ LidkÃ¶pings Golfbana
 					1.1 km/1.1 km	50 s/50 s
-Korsning Källby S
- Hällekis, Källby, Kinnekulle
- Hangelösa, Skeby
+Korsning KÃ¤llby S
+ HÃ¤llekis, KÃ¤llby, Kinnekulle
+ HangelÃ¶sa, Skeby
  Bensinstation: 
- Dafgårds Fabriksbutik
+ DafgÃ¥rds Fabriksbutik
 					0.9 km/0.9 km	41 s/41 s
-T-korsning Källby kyrka
- Broby, Källby K:a
+T-korsning KÃ¤llby kyrka
+ Broby, KÃ¤llby K:a
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-(Dubbel T-korsning Källbytorp)
- Enskild väg
+(Dubbel T-korsning KÃ¤llbytorp)
+ Enskild vÃ¤g
 
-T-korsning Husaby väg
+T-korsning Husaby vÃ¤g
  Kinne-Kleva, Husaby
- Husaby kyrka (sevärdhet)
+ Husaby kyrka (sevÃ¤rdhet)
 					1.3 km/1.3 km	59 s/59 s
 T-korsning
- Broby, Kollängen Vandrarhem
+ Broby, KollÃ¤ngen Vandrarhem
 					0.4 km/0.4 km	18 s/18 s
-T-korsning Kollängen
- Västerplana, Husaby
- Hästklinik
+T-korsning KollÃ¤ngen
+ VÃ¤sterplana, Husaby
+ HÃ¤stklinik
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
-Korsning Skälvum
+Korsning SkÃ¤lvum
  Lundsbrunn, Golfbana
  Husaby
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-(Korsning Göttorp väg 44)
- Göttorp, Enskild väg
+(Korsning GÃ¶ttorp vÃ¤g 44)
+ GÃ¶ttorp, Enskild vÃ¤g
 
-T-korsning (enskild väg)
- (Götene V), Bölaholm
+T-korsning (enskild vÃ¤g)
+ (GÃ¶tene V), BÃ¶laholm
 					1.7 km/1.7 km	1 min 27 s/1 min 27 s
-Rondell Götene V
- Götene S
+Rondell GÃ¶tene V
+ GÃ¶tene S
  Kinne-Kleva, Kinnekulle
  Kinnekulle Ring
 					2.0 km/1.9 km	1 min 43 s/1 min 38 s
-T-korsning Götene N
- Götene N, Centrum
- Industri: Västerby, Arla
+T-korsning GÃ¶tene N
+ GÃ¶tene N, Centrum
+ Industri: VÃ¤sterby, Arla
  Hotell:
 					0.9 km/1.0 km	46 s/51 s
-Dubbel T-korsning Götene NÖ
- Götene N, Industri: Helde
- Hällekis, Kinnekulle (info)
+Dubbel T-korsning GÃ¶tene NÃ–
+ GÃ¶tene N, Industri: Helde
+ HÃ¤llekis, Kinnekulle (info)
 					0.4 km/0.3 km	21 s/15 s
-T-korsning Lundängen
+T-korsning LundÃ¤ngen
  
  Bensinstation: St1
 					0.4 km/0.5 km	21 s/26 s
-T-korsning Götene Rasta
+T-korsning GÃ¶tene Rasta
  Rastplats Kinnekulle
-Rondell Götene Rasta
+Rondell GÃ¶tene Rasta
  Lundsbrunn
- Lugnås
+ LugnÃ¥s
 
 Trafikplats Kinnekulle
- E20 s: Göteborg, Skara
+ E20 s: GÃ¶teborg, Skara
  E20 n: Stockholm, Mariestad
 
 
 
 
-=== Gammal sträckning ====
+=== Gammal strÃ¤ckning ====
 					0.4 km/0.4 km	29 s/29 s
 Dubbel T-korsning
- Industriområde
+ IndustriomrÃ¥de
 					0.9 km/0.8 km	1 min 5 s/0 min 58 s
-T-korsning Lidköping Ö
+T-korsning LidkÃ¶ping Ã–
  Centrum
 					1.7 km/1.8 km	1 min 27 s/1 min 33 s
-Rastplats Filsbäck
-T-korsning Filsbäck väst
+Rastplats FilsbÃ¤ck
+T-korsning FilsbÃ¤ck vÃ¤st
  Vinninga
 					1.9 km/1.9 km	2 min 17 s/2 min 17 s
-Lidköping / Götene
-T-korsning Filsbäck öst
- Vinninga, Sävare
+LidkÃ¶ping / GÃ¶tene
+T-korsning FilsbÃ¤ck Ã¶st
+ Vinninga, SÃ¤vare
 					2.2 km/2.1 km	1 min 39 s/1 min 35 s
-T-korsning Skeby väg
+T-korsning Skeby vÃ¤g
  Lundsbrunn, Skeby
