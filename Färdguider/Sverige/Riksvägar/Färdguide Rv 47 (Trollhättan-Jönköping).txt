@@ -40,40 +40,69 @@ T-korsning Grästorp C
 (Korsning Rv 47/Kyrkogatan)
  Grästorps kyrka, ej skyltad
 T-korsning Rv 47/Velandagatan (lokal väg)
- Resecentrum, Museum
+ Resecentrum, Museu
+T-korsning (lokal väg)
+ Centralskolan, Nya Centralskolan
 					0.4 km/0.4 km	36 s/36 s
 Dubbel T-korsning Grästorp Ö
- Lanna, Rudberga
+ [44]: Trollhättan, Lidköping (lastbil)
+ Industri: Västerölet
  186: Nossebro, Tengene
+ Grästorps camping och Lunnevibadet
 
-Dubbel T-korsning Flakeberg
- Helås, Flakebergs k:a
- Hålekyrka, Göttorp
+(T-korsning Töfta (enskild väg))
+ Töfta, St. Torpa
+
+Stig Johansson Maskin
+
+T-korsning Flakeberg
+ Helås
+Korsning Flakeberg
+ Flakebergs k:a
+ Håle Täng, Industri: Flakeberg
+
+Parkeringsplats (norra sidan)
+(endast skyltad västgående)
+					/)
+(T-korsning Gunnarstorp)
+ Gunnarstorp, Enskild väg
 
 Grästorp / Vara
+T-korsning)
+ Nossebro
 
-Korsning Ulvstorp
- Främmestad, Fridhemskyrka
- Sparlösa, St. Levene
+T-korsning Ulvstorp Rv 47
+ Sparlösa, Ulvstorp
+ Sparlösastenen (sevärdhet)
 
 Korsning Rylanda
- Helås, Ryda
- St. Levene, Håkantorp
+ Helås
+ Håkantorp
 
 Järnvägsbro
  Älvsborgsbanan
 
+(Håkantorps Ägg västra)
+
+T-korsning (enskild väg)
+ Håkantorps Ägg
+
+(Korsning Rydaholm (enskild väg))
+ Rydaholm
+ Kåsentorp
+(Bro över Afsån)
+
 T-korsning
  187 n: Lidköping, St. Levene
 
-Korsning
+Korsning Long S
  187 s: Vara
 
 Dubbel T-korsning Skatofta
  Skarstad
- vara
+ Vara
 
-Trp Åsen
+Trafikplats Åsen
  E20 s: Göteborg, Alingsås
  E20 n: Stockholm, Skara
 					2.8 km/2.6 km	2 min 6 s/1 min 57 s
