@@ -1,7 +1,7 @@
 ﻿Färdguide Rv 66 (Björbo - Finnsviken)
 =====================================
 
-Etapp 9: Björbo - Nyhammar ()
+Etapp 14: Björbo - Nyhammar ()
 
 T-korsning Gybäckskolan
  E16 v: Oslo, Vansbro
@@ -53,7 +53,7 @@ Korsning Nyhammar Rv 66
  Västansjö
  Saxhyttan
 
-Etapp 10: Nyhammar - Finnsviken ()
+Etapp 15: Nyhammar - Finnsviken ()
 
 Korsning 66/G:a Bruksvägen
  Bruk/Inredning, Café
@@ -84,7 +84,7 @@ T-korsning Finnsviken
  245: Hagfors, Fredriksberg, Sunnansjö
  Morhagen
 
-Etapp 11: Finnsviken - Ludvika ()
+Etapp 16: Finnsviken - Ludvika ()
 
 Dubbel T-korsning Brunnsvik
  Brunnsvikshallen
@@ -100,10 +100,10 @@ T-korsning Sörvik (enskild väg)
 Korsning Rv 66/Nynäsvägen
  Laggarudden, Lokal väg
 
-Korsning 66/Hammarbacksv.
+Korsning Rv 66/Hammarbacksv.
  Parkeringsplats
 
-Korsning 66/Domarevägen
+Korsning Rv 66/Domarevägen
  Badplats
 
 Loppis Hammarbacken
@@ -113,9 +113,12 @@ Järnvägskorsning
 T-korsning Rv 50/Rv 66
 
 Korsning Rv 50/66/Ö. Storgatan
+ Lokal väg
 Bensinstation: Circle-K
 
 Rondell Karlberg
+
+Etapp 17: Ludvika - Smedjebacken ()
 
 Rondell
  ICA Kvantum
@@ -148,7 +151,7 @@ Dubbel T-korsning Lernbo Rv 66
 
 Bro
 
-T-korsning 66/Haggevägen
+T-korsning Rv 66/Haggevägen
 
 Järnvägsviadukt
  Bergslagspendeln

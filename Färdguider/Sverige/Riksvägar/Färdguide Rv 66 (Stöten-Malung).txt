@@ -4,7 +4,7 @@
 Etapp 1: Stöten - Tandådalen ()
 
 Norge / Sverige
-Hedmark / Dalarna
+Innlandet / Dalarna
 Trysil / Malung-Sälen
 
 Dubbel T-korsning Stöten Camping
@@ -62,6 +62,7 @@ Korsning Ö Gusjösätern (enskild väg)
 (2 T-korsningar mot Gruven/Ö Färdkällan)
 
 (T-korsning Gruvens fäbod)
+ Enskild väg
 
 T-korsning Sälen Högfjällscenter
  HC/Högfjällsbyarna
@@ -103,7 +104,7 @@ Rondell Sälen södra
  311: Särna, Centrum
 (Rum i Sälen)
 
-Etapp 3: Sälen - Fiskarheden ()
+Etapp 4: Sälen - Fiskarheden ()
 
 T-korsning Östholsvägen (lokal väg)
  Dalskidan i Sälen

@@ -317,9 +317,12 @@ Korsning Fastnäs
 T-korsnings Åstrand
  Brattfallet (sevärdhet och vandring)
 
-Etapp : Åstrand - Stöllet ()
+Etapp 8: Åstrand - Stöllet ()
 					15.2 km/15.2 km	13 min 2 s/13 min 2 s
+(Parkeringsplats/parallellväg, två infarter, grusväg)
+
 T-korsning Björkebo Camping
+ Björkebo Camping, Lokal väg
 
 Korsning Gravol (lokal väg)
  Bygdegård, Antikt & Annat
@@ -328,35 +331,46 @@ Korsning Gravol (lokal väg)
 
 Parkeringsplats (ej skyltad)
 
+(T-korsning Rv 62/Gästisvägen)
+ Klarälvstrand, Lokal väg
 T-korsning Norra Ny kyrka
+ Norra Ny k:a
 					0.6 km/0.6 km	31 s/31 s
 T-korsning Stöllet S
 					0.5 km/0.5 km	26 s/26 s
 T-korsning Stöllet N (ej skyltad)
 					1.1 km/1.1 km	57 s/57 s
-T-korsning Värmlandsporten
+(Parkeringsplats, två infarter, grusväg)
+
+T-korsning Värmlandsporten (lokal väg)
  Bensinstation: Din-X/Mac 45
  Hotell/Restaurang: Värmlandsporten
 Korsning Värnäs
  E45 n: Mora, Malung
+ E16 ö: Gävle, (Borlänge)
  E45 s: (Göteborg), Torsby
+ E16 v: Oslo, (Kongsvinger)
 
-Etapp 6: Stöllet - Långflon (95,2 km/95,2 km)
+Etapp 9: Stöllet -  (95,2 km/95,2 km)
 					11.7 km/11.6 km	11 min 42 s/11 min 36 s
-(T-korsning)
+(T-korsning (lokal väg))
  RentSki
 
-(Korsning)
- Lokal väg, ej skyltad
+(Korsning (enskild väg))
+ Värnäs
 
 Korsning Värnäs Campingen
- Värnäs Camping
+ Värnäs Camping, Lokal väg
+
+Korsning Norra Värnäs (enskild väg)
+ Värnäs
 
 Parkeringsplats (östra sidan)
 
 Parkeringsplats (östra sidan)
 
-T-korsning Ljusnäs
+T-korsning Ljusnäs (lokal väg)
+ BR Nordqvist Trävaru AB
 
 Korsning (lokal väg)
  Jaktskyttebana
