@@ -37,7 +37,7 @@ Rondell Tandådalen köpcentrum
  Bensinstation: Preem
  Restaurang: Ubbes Hämtpizza
 
-Etapp 2: Tandådalen - Sälen ()
+Etapp 2: Tandådalen - Lindvallen ()
 
 Korsning Tandåliden
  Lokala mål, Caravan Club
@@ -66,13 +66,13 @@ Korsning Ö Gusjösätern (enskild väg)
 T-korsning Sälen Högfjällscenter
  HC/Högfjällsbyarna
 
-T-korsning Högfjället V (enskild väg)
+(T-korsning Högfjället V (enskild väg))
  Parkering Högfjällshotellet
 
 T-korsning Högfjället Ö (enskild väg)
  Högfjällshotellet
 
-T-korsning Sälens Fjällkyrka
+Sälens Fjällkyrka
 
 Dubbel T-korsning Gammelgården (enskild väg)
  Högfjällsgården
@@ -86,35 +86,48 @@ Korsning Lindvallen V
 Rondell Lindvallen Ö
  Bensinstation: Statoil
 
+Etapp 3: Lindvallen - Sälen ()
+
 T-korsning
  Gamla Fjällvägen
 
-T-korsning 66/Expressvägen
+T-korsning Rv 66/Expressvägen
  Lindvallen
 
 Trafikplats
  Sälen centrum
  Gamla Fjällvägen
 
-(Västerdalälven)
+(Bro över Västerdalälven)
 Rondell Sälen södra
  311: Särna, Centrum
-Sälen Ski Lodge
+(Rum i Sälen)
 
-Etapp 3: Sälen - Torgås ()
+Etapp 3: Sälen - Fiskarheden ()
 
-Dalskidan i Sälen
+T-korsning Östholsvägen (lokal väg)
+ Dalskidan i Sälen
 
-Statium Outlet
-Gu-Mo Stugor
+Statium/Intersport Outlet
+T-korsning (lokal väg)
+ Gu-Mo Stugor
 
-Mannflogården
+Mannflogården (Hotell / B&B)
 
-Britas stugor
+T-korsning Tjärnheden (lokal väg)
+ Idrottsplats, Elljusspår
+
+Dubbel T-korsning Vasaloppsstarten (lokal väg)
+ Britas stugor
+ Vasaloppsstarten (sevärdhet)
+
+T-korsning Rv 66/Bergsbacken
+ Britas stugor, Lokal väg
 
 Bensinstation: INGO
+Bilverkstad/Däckverkstad
 
-Sälengården
+Sälengården (Pensionat/B&B)
 
 Vasacenter
  Butik & Boende
@@ -122,62 +135,123 @@ Vasacenter
 Stinas Kiosk och Pizzeria
 
 T-korsning Transtrand
- Transtrand
+ Transtrands k:a, Bompabackens servicehus, Byggvaruhus
+ SP Aktivitetcenter (hotell/rest./camping), Försgården (B&B)
 
 (Tjällets fjällgård)
 
-T-korsning Fiskarhedens Trävaru
+T-korsning Glasmästeriet Fiskarheden
+ Glasmästeri, Lokal väg
+
+T-korsning (lokal väg)
+ Endast behörig trafik
+(Återvinningsstation)
+
+Circle-K Truck Fiskarheden
+T-korsning Fiskarhedens Trävaru (lokal väg)
 
 T-korsning Fiskarheden södra
- Evertsberg
+ Mora, Älvdalen, Vasaloppsvägen (turistväg)
 Anders Skishop
 
-T-korsning Fiskarheden Energifabriken
+Etapp 5: Fiskarheden - Torgås ()
 
-Parkering/Vändslinga
+T-korsning Energifabriken (lokal väg)
+ Betongfabrik, Utlastning Timmermottagning
 
-T-korsning Kläppen norra
- Kläppen, lokalt mål
+Parkering/Vändslinga (grus, östra sidan)
 
-T-korsning Kläppen Camping
+(T-korsning Gusjöbyn (lokal väg)
+(endast skyltad nordgående)
+ Kläppen Camping check-in
+T-korsning Kläppen Camping (lokal väg)
+ Kläppen Reception, Kläppen camping/stugor, Badplats
 
-T-korsning Kläppen södra
- Kläppen, lokalt mål
+T-korsning Kläppen södra (lokal väg)
+ Kläppen Ski Resort
 
-Korsning Torgås affären
+(Korsning Gråhedsdammen (enskild väg))
+ Parkering (grus), ej skyltad
+
+T-korsning Torgås N (enskild väg)
+ Mattsåsen fäbod, Folkets Hus, Motorstadion
+
+Korsning Torgåsbron
  Rörbäcksnäs
 
-Etapp 4: Torgås - Malung ()
+Etapp 6: Torgås - Bu ()
+
+(Nalles Skidbod/Skidtorget)
 
 Hotell Bondasgården
 
-Torgåsgården
+Skidhuset Sälenfjällen
 
-(T-korsning Ungärde skola)
+Torgåsgården (Vandrarhem)
 
-Korsning Lima C
+(T-korsning Mojanisbacken (enskild väg))
+ Ö. Husom, Ej skyltad
+
+(T-korsning (enskild väg))
+ Ö. Husom
+
+T-korsning Skålmo (lokal väg)
+ Förskolan Skålmo
+
+(Korsning (enskild väg))
+ Ånäset
+
+(Karelius Chark Gårdsbutik)
+
+Korsning (lokal väg)
+ ServiceHus
+
+T-korsning Ungärde skola (lokal väg)
+ Återvinningscentral, Reningsverk
+
+Korsning Lima C (lokal väg, ej skyltad)
  Alla tiders affär
  Bensinstation: Q-star
  
 Korsning Bygärdet
- Lima kyrka
+ Åkra, Lima kyrka
 
 T-korsning Limedsforsen N
+ N. Löten, Limedsforsen
+ Industri: Ärnäsheden, Äråbadet
+ Bilmekaniker, Lanthandel
 
-Korsning Bu norra
+(T-korsning Knutsbovägen (enskild väg))
+ Knutsbogården (butik), Ej skyltad
+
+T-korsning Knutsbovägen (enskild väg)
+ Rastplats Limedsforsen
+ Sixten Jernbergs museum, Restaurang
+
+Korsning Bu norra (enskild väg)
+ Limedsforsen, Idrottsplats, Missionskyrka
+ Hotell: Skiers Inn
+T-korsning Hantverkshuset Bu
+ Industri: Bu
 
 T-korsning Bu södra
+ Venjan, Venjans Camping/stugor
 
-T-korsning Risätra
+Etapp 7: Bu - Malungsfors ()
 
-T-korsning
+Circle-K Truck Lima (östra sidan)
 
-Infoplats (östgående): (60.7623769,13.5019068)
+T-korsning Ö. Tandö/Rv 66
+ Heden, V. Tandö, Skidstadion
+
+T-korsning (enskild väg)
+ Lima kraftstation, Avrättningsplats (sevärdhet)
+
+Infopunkt (östgående): (60.7623769,13.5019068)
 
 T-korsning Rv 66/Jommovägen (enskild väg)
  Jommoholen, Monas ateljé
-
-T-korsning (enskild väg)
+T-korsning Rv 66/Råbergsv. (enskild väg)
  Råbergets fäbod
  Brukshundklubb, Virkesterminal
 
@@ -186,6 +260,8 @@ Korsning Malungsfors
  Konsthantverk, Idrottsplats
  Parkeringsplats med toalett
  Bensinstation: Bymacken
+
+Etapp 8: Malungsfors - Malung ()
 
 Korsning Östra Fors (enskild väg)
  Lissmans Skinn- & Viltprodukter (ej skyltning)
