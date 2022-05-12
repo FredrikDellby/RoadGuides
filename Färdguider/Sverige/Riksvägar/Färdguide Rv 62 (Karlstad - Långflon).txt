@@ -329,7 +329,8 @@ Korsning Gravol (lokal väg)
 
 (Parkeringsplats, två infarter, grusväg)
 
-Parkeringsplats (ej skyltad)
+Parkeringsplats (östra sidan)
+ grus, ej skyltad
 
 (T-korsning Rv 62/Gästisvägen)
  Klarälvstrand, Lokal väg
@@ -337,6 +338,7 @@ T-korsning Norra Ny kyrka
  Norra Ny k:a
 					0.6 km/0.6 km	31 s/31 s
 T-korsning Stöllet S
+ Centrum, Folkhögskola
 					0.5 km/0.5 km	26 s/26 s
 T-korsning Stöllet N (ej skyltad)
 					1.1 km/1.1 km	57 s/57 s
@@ -362,8 +364,8 @@ Etapp 9: Stöllet -  (95,2 km/95,2 km)
 Korsning Värnäs Campingen
  Värnäs Camping, Lokal väg
 
-Korsning Norra Värnäs (enskild väg)
- Värnäs
+(Korsning Norra Värnäs)
+ Värnäs, Enskild väg
 
 Parkeringsplats (östra sidan)
 
@@ -372,69 +374,93 @@ Parkeringsplats (östra sidan)
 T-korsning Ljusnäs (lokal väg)
  BR Nordqvist Trävaru AB
 
-Korsning (lokal väg)
+Korsning Ljusnästorp (lokal väg)
  Jaktskyttebana
 
-T-korsning
- Munkebolsängen
+Korsning Krusmon (lokal väg)
+ Industri: Norra Ny
 
-T-korsning
- Idrottsplats Nyvallen
+(T-korsning (enskild väg))
+ Storheden
 
-Återvinningsstation
-Nordvärmlands Livs & Restaurang
-(Korsning Rv 62/Nyvallsvägen)
- Skidspår
+Rast-/Infoplats Loftet
+ Infopunkt (västra sidan)
+ Parkeringsplats, grus (östra sidan)
+
+T-korsning Ambjörby Kiosken (lokal väg)
+ Munkebolsängen (nästan ej skyltad)
+
+T-korsning Nyvallen (lokal väg)
+ Idrottsplats
+
+The Swap Shop
+ Café & Gatukök
+					/)
+(Återvinningsstation (östra sidan))
+(Nordvärmlands Livs & Restaurang (västra sidan))
+					(/
+Korsning Rv 62/Nyvallsvägen
+ Skidspår, Lokal väg
 
 Ambjörby Folkets Hus
 T-korsning Ambjörby N
  Hjällstad, Sundbergsheden
 					13.5 km/13.5 km	11 min 34 s/11 min 34 s
-T-korsning (lokal väg)
+Korsning (lokal väg)
  Likenäs MK Motorbana
 
 (T-korsning Rv 62/Österängsv.)
+ Lokal väg, ej skyltad, belyst
 
 Infoplats (västra sidan)
 
 Korsning (lokal väg)
  Fämtfallet, Vandringsled
 
-T-korsning (lokal väg)
+Mörbacka Gård Bed & Breakfast
+ Loppis & Kuriosa
+
+T-korsning (lokal väg): (60.55780198352718, 13.103139066116897)
  Flygplats
 
 (T-korsning Södra Amnerud)
-(ej skyltad)
+ Amnerudsheden, Enskild väg
 
-Branäs Turistservice
+Branäs Turistservice: (60.59091,13.0753252)
 
-(f.d. Affär)
-(T-korsning)
- Fångstgropar
+T-korsning Transtrandsheden
+ Transtrandsheden, Enskild väg
+f.d. Affär
 
-T-korsning
- Skola
+(T-korsning (enskild väg))
+ Fångstgropar (dåligt skyltade)
 
-T-korsning Rv 62/Tallmovägen
+T-korsning (lokal väg)
+ Likenäs Skola (ej skyltad)
+
+T-korsning Rv 62/Tallmovägen (lokal väg)
  Vårdcentral, Apotek
 
 (Likenäs Allköp)
-Korsning Likenäs
- Malungsfors
- Hjällstad, Branäsberget
+Dubbel T-korsning Likenäs
+ Malungsfors, Liksjöarna (enskild väg)
+ Hjällstad, Branäsberget skicenter
 Bensinstation: GA Macken
 					4.6 km/4.6 km	3 min 57 s/3 min 57 s
-Bilcenter
+Gunnar Arnessons Åkeri
 
-(Korsning Uggenäs)
+(Korsning Uggenäs (lokal väg))
+ Plastförråd (otydligt skyltad)
 
 T-korsning (lokal väg)
  Blomsterhandel, Bilverkstad
-Dalby kyrka
-T-korsning Dalby kyrka
- Stuga
+
+Dalby kyrka)
+
+(T-korsning Dalby kyrka (enskild väg)
+ Långav-Persbyheden, Stugor
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
-Korsning Persby
+Korsning Norra Persby
  Branäs skidanläggning
  Hotell, Restaurang, Stugor, Camping
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
@@ -445,7 +471,7 @@ Korsning Ransby
 					7.8 km/7.8 km	7 min 48 s/7 min 48 s
 (Dalby Hembygdsgård gammal entré)
 
-T-korsning Ransby N
+T-korsning Ransby N (lokal väg)
  Utmarksmuseet, Pilgrimstapeten
  Hembygdsgård, Café
 
