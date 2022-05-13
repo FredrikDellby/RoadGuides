@@ -58,6 +58,8 @@ Dubbel Korsning N. Ringen/Kävlingevägen
 Korsning N. Ringen/Svenshögsvägen
  Centrum, Lasarett (lokal väg)
  N. Fäladen, Industri
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, Burger King, ChopChop Asian Express
 
 Rondell N. Ringen/Getingevägen (lokal väg)
  Centrum, Lasarett, Ideon, Pålsjö
@@ -67,6 +69,8 @@ Trp Lund N (Rondell)
  S. Sandby, Ö. Odarslöv
  Brunnshög, Ideon, Pendelparkering
  E22 n: Kalmar, Kristianstad
+ Restaurang: Eatery, Bricks Eatery
+ Hotell: Motel L Lund
 
 (Trp Lund N (22)
  E22 n: Kalmar, Kristianstad
@@ -74,8 +78,14 @@ Trp Lund N (Rondell)
 Trp Gastelyckan (21)
  E22 s: Malmö
  Centrum, Lasarett
+ Hotell: Hotel Planetstaden/Best Western, Hotel Finn
 
 Korsning Lv 102/Porfyrvägen
+ Industri: Gastelyckan
+ Återvinningsstn, Brandstation
+ Bilprovning, Komvux, Djursjukhus
+ Bensinstation: Tanka, Preem
+ Hotell/Restaurang: Scandic Star
 
 Rondell Gastelyckan Ö
 
