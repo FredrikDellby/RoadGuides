@@ -1,136 +1,164 @@
-Färdguie Rv 15 (Halmstad - Pukavik)
+Fï¿½rdguie Rv 15 (Halmstad - Pukavik)
 ====================================
 
-Etapp 1: Halmstad - Tjärby (15,6 km/15,4 km)
+Etapp 1: Halmstad - Tjï¿½rby (15,6 km/15,4 km)
 
-Trp Halmstad Södra
- E6-E20 s: Malmö, Helsingborg
- E6-E20 n: Göteborg, Falkenberg
+Trp Halmstad SÃ¶dra-vÃ¤st
+ E6-E20 s: MalmÃ¶, Helsingborg
+ Industri: VilhelmsfÃ¤lt, Ã–stra stranden
+ First Camp HagÃ¶n
+ Bensinstation: OKQ8
+
+Trp Halmstad SÃ¶dra-Ã¶st
+ E6-E20 n: GÃ¶teborg, Falkenberg
 					0,5 km/0,2 km	45 s/18 s
-T-korsning Fyllebro
- Eurostop
- Restaurang: McDonald's
- Bensinstation: Statoil
-(Fylleån)
+T-korsning Fyllebro (lokal vÃ¤g)
+ SnÃ¶storp
+ Handel: Hallarna, Stenalyckan
+ Restaurang: McDonald's, MAX
+ Bensinstation: Circle-K
+(Bro Ã¶ver FylleÃ¥n)
 					0,5 km/0,5 km	36 s/36 s
-Rondell 15/Fyllingev.
+Rondell 15/Fyllingev. (lokal vÃ¤g)
+ Fyllebro
+ Fyllinge N, StadsbondgÃ¥rd
+ Bensinstation: Q-star
 					1,1 km/1,1 km	1 min 19 s/1 min 19 s
-Rondell Kistinge
+Rondell Kistinge (lokal vÃ¤g)
+ Industri: Vilmanstrand, [E6], [E20]
+ Fyllinge S, Industri: Kistinge N	
 					0,5 km/0,5 km	26 s/26 s
-Järnvägsbro
- Industrispår
+(JÃ¤rnvÃ¤gsbro)
+ IndustrispÃ¥r
+T-korsning (lokal vÃ¤g)
+ ModellflygfÃ¤lt
 					0,5 km/0,5 km	26 s/26 s
-T-korsning Pilkington
- Pilkington industrier
+T-korsning Kistinge SÃ¶dra
+Veinge K:a, TÃ¶nnersjÃ¶
+ Idustri: Kistinge (Pilkington industrier)
 					1,0 km/1,0 km	45 s/45 s
-Korsning 15/Trönningevägen
+Korsning Rv 15/TrÃ¶nningevÃ¤gen
+ TrÃ¶nninge
+ Restaurang: Div. GatukÃ¶k
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
-(T-korsning 15/Krontorpsvägen)
+T-korsning Rv 15/KrontorpsvÃ¤gen (lokal vÃ¤g)
+ Industri: TrÃ¶nninge, National
 
 T-korsning
+ Krontorp, BioCenter
 					0,3 km/0,3 km	14 s/14 s
-Järnvägsbro
- Västkustbanan
+JÃ¤rnvÃ¤gsbro
+ VÃ¤stkustbanan
 					0,5 km/0,6 km	23 s/27 s
-T-korsning Trönninge södra
+T-korsning TrÃ¶nninge sÃ¶dra
+ Laxvik, PÃ¥arp, TrÃ¶nninge
 					1,9 km/2,1 km	1 min 26 s/1 min 35 s
-Korsning Eldsberga västra
-T-korsning
+(Korsning Stora BÃ¶slid)
+ Lilla BÃ¶slid, St. BÃ¶slid, Enskild vÃ¤g
+
+Korsning Eldsberga vÃ¤stra
+ TÃ¶nnersjÃ¶, Eldsberga
+T-korsning Rv 15/Gullbrannav.
+ Laxvik, Gullbranna
+ HushÃ¥llningssÃ¤llskapet, GullbrannagÃ¥rden
 					1,3 km/1,1 km	59 s/50 s
 Korsning Stora Fladje
+ Snapparp, TÃ¶nnersa
+ Eldsberga skola, Fladje fÃ¥ralÃ¤nga
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-(Järnvägsbro)
- Västkustbanan
-T-korsning Grönfodertorken
- Enskild väg
+(JÃ¤rnvÃ¤gsbro)
+ VÃ¤stkustbanan
+T-korsning GrÃ¶nfodertorken (enskild vÃ¤g)
+ Ã…gÃ¥rd, Ã–ringe Ã¤ngar
+ Genevads GrÃ¶nfodertork
 					0,3 km/0,5 km	14 s/23 s
-Halmstad / Laholm
+(Bro Ã¶ver GenevadÃ¥n)
+Halmstad / Laholm: (56.5733283,13.0183607
 Korsning Genevad NV
 					1,3 km/1,1 km	59 s/50 s
 T-korsning Genevad SV
 					1,0 km/1,2 km	54 s/54 s
-Dubbel T-korsning
+Dubbel T-korsning Daggarp
 					1,4 km/1,3 km	1 min 3 s/0 min 59 s
-Rondell Tjärby Rv 15
- Laholm, Tjärby kyrka
+Rondell TjÃ¤rby Rv 15
+ Laholm, TjÃ¤rby kyrka
 
-Etapp 2: Tjärby - Knäred (17,8 km/17,8 km)
+Etapp 2: TjÃ¤rby - KnÃ¤red (17,8 km/17,8 km)
 					1,2 km/1,3 km	54 s/59 s
 Dubbel T-korsning Veinge S
 					1,4 km/1,2 km	1 min 3 s/0 min 54 s
 T-korsning
 					3,5 km/3,5 km	2 min 38 s/2 min 38 s
-T-korsning Furudal
- Enskild väg
+T-korsning Furudal Enskild vÃ¤g
 					1,8 km/1,9 km	1 min 21 s/1 min 26 s
 Dubbel T-korsning Kasteberg
  Skogaby
 					1,1 km/1,1 km	50 s/50 s
-Dubbel T-korsning Kapellsjön
+Dubbel T-korsning KapellsjÃ¶n
  Skogaby
 					4,0 km/3,9 km	3 min 0 s/2 min 56 s
 T-korsning Uddared
- Knäred
+ KnÃ¤red
 					1,4 km/1,5 km	1 min 3 s/1 min 8 s
 (Lagan)
-Rastplats Knäred
+Rastplats KnÃ¤red
 					2,7 km/2,6 km	2 min 2 s/1 min 57 s
-T-korsning Västralt
- Enskild väg
+T-korsning VÃ¤stralt
+ Enskild vÃ¤g
 					0,8 km/0,8 km	36 s/36 s
-T-korsning 15/Hishultsvägen
- Knäred, Hishult
+T-korsning 15/HishultsvÃ¤gen
+ KnÃ¤red, Hishult
 
-Etapp 3: Knäred - Markaryd (21,0 km/21,4 km)
+Etapp 3: KnÃ¤red - Markaryd (21,0 km/21,4 km)
 					0,4 km/0,6 km	18 s/27 s
 Bensinstation: Din-X
 T-korsning
- Industriområde
+ IndustriomrÃ¥de
 					8,6 km/8,4 km	6 min 27 s/6 min 18 s
 Halland / Kronoberg
 Laholm / Markaryd
 					5,2 km/5,3 km	3 min 54 s/3 min 59 s
 Korsning
- Råstorp
+ Rï¿½storp
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-T-korsning Åmot
+T-korsning ï¿½mot
 					0,6 km/0,6 km	27 s/27 s
 T-korsning
- Råstorp
+ Rï¿½storp
 					0,5 km/0,5 km	23 s/23 s
 T-korsning Markaryd NV
  Markaryd
-(Järnvägsviadukt)
- Halmstad-Hässleholm
+(Jï¿½rnvï¿½gsviadukt)
+ Halmstad-Hï¿½ssleholm
 					0,9 km/0,9 km	41 s/41 s
 T-korsning
 					1,0 km/1,1 km	45 s/50 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
  Markaryd-Traryd
 Rondell Markaryd N
  Markaryd
 					1,7 km/2,0 km	1 min 17 s/1 min 43 s
 Rondell
 Trp Markaryd Norra
- E4 s: Helsingborg, Örkelljunga
+ E4 s: Helsingborg, ï¿½rkelljunga
  E4 n: Stockholm, Ljungby
- [117]: Hässleholm, Vittsjö
+ [117]: Hï¿½ssleholm, Vittsjï¿½
 
 Etapp 4: Markaryd - Osby (27,9 km/27,8 km)
 					2,0 km/1,6 km	1 min 30 s/1 min 12 s
 T-korsning
 
-Markaryd / Älmhult
+Markaryd / ï¿½lmhult
 
 Dubbel T-korsning
  Hallaryd
 
-Kronoberg / Skåne
-Älmhult / Osby
+Kronoberg / Skï¿½ne
+ï¿½lmhult / Osby
 
 Dubbel T-korsning
 
-Helge å
+Helge ï¿½
 
 T-korsning
 
@@ -138,92 +166,92 @@ T-korsning
 
 T-korsning
 
-T-korsning Rv 15/Mossvägen
+T-korsning Rv 15/Mossvï¿½gen
 
 T-korsning Rv 15/Hallarydsv.
 
 Rondell Rv 15/V. Storgatan
 
-(Järnvägsbro)
- Södra Stambanan
+(Jï¿½rnvï¿½gsbro)
+ Sï¿½dra Stambanan
 T-korsning Rv 15/Kyrkogatan
 T-korsning Rv 15/Teodor Kvants v.
 
-Korsning Rv 15/Källvedsvägen
+Korsning Rv 15/Kï¿½llvedsvï¿½gen
 
-T-korsning Rv 15/Vintervägen
+T-korsning Rv 15/Vintervï¿½gen
 
 Korsning Rv 15/Karl Johans v.
 Rondell Rv 15/Rv 23
- 23 s: Malmö, Hässleholm
- 23 n: Växjö, Älmhult
+ 23 s: Malmï¿½, Hï¿½ssleholm
+ 23 n: Vï¿½xjï¿½, ï¿½lmhult
 
-Etapp 5: Osby - Lönsboda ()
+Etapp 5: Osby - Lï¿½nsboda ()
 
 T-korsning V Svenstorp
 
-Osby / Östra Göinge
+Osby / ï¿½stra Gï¿½inge
 
 Korsning Boalt
 
-T-korsning Rv 15/Martin Nilssons väg
+T-korsning Rv 15/Martin Nilssons vï¿½g
 
-Rönnebodaån
-Östra Göinge / Bromölla
+Rï¿½nnebodaï¿½n
+ï¿½stra Gï¿½inge / Bromï¿½lla
 
 T-korsning Stenhagen N
- 119 s: Broby, Glimåkra
+ 119 s: Broby, Glimï¿½kra
 
-Rondell Lönsboda
- 121: Älmhult
+Rondell Lï¿½nsboda
+ 121: ï¿½lmhult
 
-Etapp 6: Lönsboda - Olofström ()
+Etapp 6: Lï¿½nsboda - Olofstrï¿½m ()
 
-T-korsning Örkeneds kyrka
+T-korsning ï¿½rkeneds kyrka
  119 n: Tingsryd, Ryd
 
-T-korsning Lönsboda Nyteboda
+T-korsning Lï¿½nsboda Nyteboda
 
-Skåne / Blekinge
-Bromölla / Olofström
+Skï¿½ne / Blekinge
+Bromï¿½lla / Olofstrï¿½m
 
-T-korsning Skälmershult
+T-korsning Skï¿½lmershult
 
-Korsning Vilshult södra
+Korsning Vilshult sï¿½dra
 
-T-korsning Rv 15/Norra Ringvägen
+T-korsning Rv 15/Norra Ringvï¿½gen
  116 n:
 
-Etapp 7: Olofström - Jämshög ()
+Etapp 7: Olofstrï¿½m - Jï¿½mshï¿½g ()
 
-T-korsning Rv 15/Rydvägen
+T-korsning Rv 15/Rydvï¿½gen
 
-Korsning Olofström station
+Korsning Olofstrï¿½m station
 
-Rondell Rv 15/Idrottsvägen
+Rondell Rv 15/Idrottsvï¿½gen
 
-T-korsning Jämshög nord
+T-korsning Jï¿½mshï¿½g nord
 
-Rondell Jämshög
+Rondell Jï¿½mshï¿½g
 
-T-korsning Jämshög sydöst
- 116 s: Bromölla
+T-korsning Jï¿½mshï¿½g sydï¿½st
+ 116 s: Bromï¿½lla
 
-Etapp 8: Jämshög - Pukavik ()
+Etapp 8: Jï¿½mshï¿½g - Pukavik ()
 
-Korsning Gränum Rv 15
+Korsning Grï¿½num Rv 15
 
 T-korsning Boa
 
 Korsning Kylinge Rv 15
 
-T-korsning V Sandbäck
+T-korsning V Sandbï¿½ck
 
-Järnvägsviadukt
+Jï¿½rnvï¿½gsviadukt
  Blekinge Kustbana
 
-T-korsning Ö Sandbäck
+T-korsning ï¿½ Sandbï¿½ck
 
 Trp Pukavik (48)
- E22 s: Malmö, Sölvesborg
+ E22 s: Malmï¿½, Sï¿½lvesborg
  E22 n: Kalmar, Karlshamn
