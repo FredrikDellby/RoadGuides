@@ -87,39 +87,67 @@ Etapp 2: Tjärby - Knäred (17,8 km/17,8 km)
 					1,2 km/1,3 km	54 s/59 s
 Dubbel T-korsning Veinge S
 					1,4 km/1,2 km	1 min 3 s/0 min 54 s
-T-korsning
+Dubbel T-korsning
+ Mästocka
+ Betongfabrik, Motorbana
+ Årnaberga, Säbyholm B&B (enskild väg)
 					3,5 km/3,5 km	2 min 38 s/2 min 38 s
-T-korsning Furudal Enskild väg
+T-korsning (Skogaby) Furudal (enskild väg)
+ Blåalt, Skogaby Golfklubb
 					1,8 km/1,9 km	1 min 21 s/1 min 26 s
 Dubbel T-korsning Kasteberg
- Skogaby
+ Skogaby, Skogaby Golfklubb
+ Laholm
 					1,1 km/1,1 km	50 s/50 s
 Dubbel T-korsning Kapellsjön
  Skogaby
+ Ysby
+ Vippentorpet (sevärdhet), Hjörnered (vandring)
 					4,0 km/3,9 km	3 min 0 s/2 min 56 s
 T-korsning Uddared
- Knäred
+ Uddared
 					1,4 km/1,5 km	1 min 3 s/1 min 8 s
-(Lagan)
+Bro över Lagan): (56.5219813,13.2631811 56.5217207,13.266242)
+					/)
 Rastplats Knäred
+ Björkhult (enskild väg)
 					2,7 km/2,6 km	2 min 2 s/1 min 57 s
-T-korsning Västralt
- Enskild väg
+T-korsning (enskild vög)
+ Vippentorpet (sevärdhet), Timmershult (vandring), Viltbutik
+
+T-korsning Västralt (enskild väg)
+ Västralt, Hembygdsgård
 					0,8 km/0,8 km	36 s/36 s
-T-korsning 15/Hishultsvägen
+T-korsning Rv 15/Hishultsvägen (Knäred Rv 15/Knäred S)
  Knäred, Hishult
+ Flammabadets Camping
 
 Etapp 3: Knäred - Markaryd (21,0 km/21,4 km)
 					0,4 km/0,6 km	18 s/27 s
 Bensinstation: Din-X
-T-korsning
- Industriområde
+T-korsning (lokal väg)
+ Industri: Östra
 					8,6 km/8,4 km	6 min 27 s/6 min 18 s
+(Dubbel T-korsning (enskild väg))
+ Ämtön
+ Bassalt, Gunnarsbygget
+
+(T-korsning Putsered (enskild väg))
+
+(Korsning (enskild väg))
+ Högaholma
+ Putsered
+
 Halland / Kronoberg
 Laholm / Markaryd
 					5,2 km/5,3 km	3 min 54 s/3 min 59 s
-Korsning
- R�storp
+T-korsning (enskild väg)
+ Majenfors, Solhaga camping
+
+Korsning Koddeböke
+ Hishult
+ Vivljunga, Råstorp
+ Gränsbygdens Köpcentrum
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
 T-korsning �mot
 					0,6 km/0,6 km	27 s/27 s
