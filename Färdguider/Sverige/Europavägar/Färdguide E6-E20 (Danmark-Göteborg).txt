@@ -171,13 +171,14 @@ Trp Laholm (41)
  Bensinstation: OKQ8, Shell (b)
  Restaurang: McDonald's
 					3,5 km/2,7 km	1 min 55 s/1 min 28 s
-Lagan
+Bro över Lagan
 					0,7 km/1,2 km	23 s/39 s
 Rastplats Snapparp
- Bensinstation: Statoil (b)
-Laholm / Halmstad
+ Bensinstation: Circle-K
+
+Laholm / Halmstad: (56.5509409,12.9640717)
 					12,0 km/11,4 km	6 min 33 s/6 min 13 s
-Fylleån
+Bro över Fylleån
 					1,9 km/1,9 km	1 min 2 s/1 min 2 s
 Trp Halmstad Södra (43)
  15 ö: Karlshamn, Markaryd
@@ -192,7 +193,7 @@ Trp Halmstad Östra (44)
  
 Etapp 7: Halmstad - Varberg (69,7 km/69,5 km)
 					2,2 km/1,4 km	1 min 12 s/0 min 46 s
-Nissan
+Bro över Nissan
 					1,9 km/2,8 km	1 min 2 s/1 min 32 s
 Trp Halmstad Norra (45)
  26: Jönköping
@@ -205,13 +206,20 @@ Trp Getinge (47)
  Steninge
 					3,9 km/4,5 km	2 min 8 s/2 min 27 s
 Falkenberg / Halmstad
+
 Rastplats Susedalen
  Café
 					2,5 km/2,3 km	1 min 22 s/1 min 15 s
+(Bro över Suseån
+					(/
 Trp Slöinge (48)
  Slöinge
 					4,6 km/3,9 km	2 min 31 s/2 min 8 s
-Suseån
+(Bro över Suseån)
+
+Trafikkontrollplats (nordgående)
+
+Bro över Suseån
 					1,5 km/1,9 km	0 min 49 s/1 min 2 s
 Trp Heberg (49)
  Skrea strand, Heberg
@@ -223,7 +231,7 @@ Trp Falkenberg Södra (50)
  Bensinstation: Shell (b)
  Rastplats Skrea Backe
 					1,1 km/0,9 km	36 s/29 s
-Ätran
+Bro över Ätran
 					4,3 km/4,6 km	2 min 21 s/2 min 31 s
 Vinbergsmotet (51)
  154: Svenljunga
