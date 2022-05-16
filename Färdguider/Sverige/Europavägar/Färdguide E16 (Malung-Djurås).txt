@@ -299,8 +299,9 @@ Korsning Lillstupet (enskild väg)
  Lillstupet, Mockfjärds kraftstation
  Högberget
 
-T-korsning Högberget (enskild väg)
+(Dubbel) T-korsning Högberget (enskild väg)
  Högberget, Högbergsdammen
+ Nordanholen
 
 (Korsning E16/Holgattu (lokal väg))
 
@@ -339,20 +340,24 @@ Korsning Lindan
  Lindan (enskild väg)
  Östtjärna, Shamsen assistans
 
-Rondell Näset
+(T-korsning Mjälgen (enskild väg))
+ Svedjan, Djur
 
-Bro över Österdalälven
+Rondell Näset
+ Bäsna
+ Vårdcentral, Älvmötet (sevärdhet)
+ Östtjärna
+T-korsning E16/Älvuddsvägen (östgående))
+ Vårdcentral, Älvmötet (sevärdhet)
+
+Bro över Österdalälven: (60.5579267,15.1237003)
 
 Rondell Djurås centrum
+ Kommunkontor
+ Torget, Boudle, Växthus
+ Restaurang: Pizzastugan
 
 Rondell E16/Rv 70 Djurås
  70 n: Mora, Leksand
-
-===========
-T-korsning Skamhed
-
-Järnvägskorsning
- Västerdalbanan
-
-(Hulån)
-T-korsning Hulån
+ Bensinstation: OKQ8
+ Restaurang: Djurås Restaurang & pizzeria
