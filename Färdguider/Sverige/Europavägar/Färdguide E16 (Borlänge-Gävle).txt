@@ -5,47 +5,87 @@ Etapp 12: Borlänge - Falun (21,2 km/21,1 km)
 
 Grådarondellen
  70 s: Enköping, Säter
+ Dala Airport
+ Centrum
 					0,5 km/0,7 km	23 s/32 s
-Dalälven (250 m)
+Bro över Dalälven (250 m)
 					0,5 km/0,7 km	18 s/25 s
 Trp Islingby
+ Torsång, Dalsjö
+ Dalsjö Golfklubb
+ Islingby, SSAB Gods
 					3,9 km/3,9 km	2 min 20 s/2 min 20 s
-(Järnvägsviadukt)
+(Järnvägsviadukt
  Bergslagsbanan
-Trp Ornäs
+					(/
+Trafikplats Ornäs
+ Aspeboda, Ornäs
+ Hönsarvet
+ Falun-Borlänge Golfklubb, STF Vandrarhem Vassbo
 					2,2 km/1,6 km	1 min 19 s/0 min 58 s
-Trafikplats
+Trp Ornäs N
 (avfart västgående riktning
 påfart östgående riktning)
+ Aspeboda
+ Torsång, Ornäs
+ Falun-Borlänge Golfklubb, STF Vandrarhem Vassbo
+ Restaurang: Ornäs Pizzeria
 					1,2 km/1,1 km	43 s/40 s
 Infoplats
 					1,5 km/1,6 km	54 s/58 s
-Borlänge / Falun
+Borlänge / Falun: (60.5394734,15.5601622)
 					1,4 km/1,5 km	50 s/54 s
-Trp Karlsvik
+Trp Karlsvik (ej påfart östgående)
+ Aspeboda, Olsbacka, Falukrossen
+ Hinsnoret
 					2,9 km/3,6 km	1 min 44 s/2 min 10 s
+(Påfart (östgående))
+
 Trp Tallen
+ Främby, Camping Falun/Falun Strandby
+ Källviksbacken
+ Tallen köpcentrum, Rastplats
+ Samuelsdals Golfklubb, Pensionat
+ Övre Gruvriset
 					2,9 km/2,2 km	1 min 56 s/1 min 28 s
-Galgbergsrondellen
+(Busshpl Samuelsdal E16)
+
+Galgbergsrondellen (lokal väg)
+ Galgberget, Industri: Elsborg
+ Pilbo, Krondiket, Gruvriset
+ Samuelsdals Golfklubb, Pensionat
+
 					0,8 km/0,9 km	41 s/46 s
 Gruvrondellen
+ Centrum
+ Gruvan (Världsarv)
 
 T-korsning E16/Stigaregatan
- 293: Leksand
+ 293: Leksand, Industri: Ingarvet
 					0,8 km/0,5 km	41 s/26 s
 T-korsning Syrafabriken
+ Parkering Centrum
 					0,5 km/0,5 km	26 s/26 s
 T-korsning E16/S. Mariegatan
+ Östanfors
 					0,7 km/0,7 km	36 s/36 s
+(T-korsning E16/Kvarntorget)
+ Lokal väg, ej skyltad (ev. avstängd)
 T-korsning E16/Stångtjärnsv.
+ Slätta, Stångtjärn (vandring, bad)
+ Bensinstation: Circle-K
 					0,6 km/0,7 km	31 s/36 s
 Järnvägskorsning
  Grycksbobanan
-T-korsning E16/N. Järnvägsg.
+Rondell E16/N. Järnvägsg. (lokal väg)
+ Britsarvet, Bojsenburg
+ Bensinstation: INGO
+ Restaurang: Varpan Pizzeria
+
 					0,5 km/0,6 km	26 s/31 s
 Jungfrubergsrondellen
  69 n: Rättvik, Grycksbo
-T-korsning Branstationen
+T-korsning Branstationen (lokal väg)
  Bojsenburg
 					0,6 km/0,5 km	31 s/26 s
 T-korsning E16/Rv 50
@@ -53,7 +93,7 @@ T-korsning E16/Rv 50
 
 Etapp 13: Falun - Lönnemossa ()
 
-T-korsning
+T-korsning (lokal väg)
  Bojsenburg
 					1.9 km/1.9 km	1 min 38 s/1 min 38 s
 Rondell
@@ -65,7 +105,7 @@ Rondell Högskolan
 
 T-korsning E16/Regementsvägen
 					0.8 km/0.7 km	41 s/36 s
-Rondell E16/Plutonsvägen
+Plutonsrondellen (lokal väg)
 					1.2 km/1.7 km	0 min 54 s/1 min 17 s
 Trp Norslund
  Centrum
@@ -93,11 +133,9 @@ Trp Lönnemossa
 
 Etapp 14: Lönnemossa - Ängelsfors ()
 
-Korsning
- Enskild väg
+Korsning (enskild väg)
 
-(Korsning)
- Enskild väg
+(Korsning (enskild väg))
 
 T-korsning
 
@@ -106,8 +144,7 @@ Korsning
 
 Falun / Säter
 
-Korsning
- Enskild väg
+Korsning (enskild väg)
 
 Korsning
  Arkhyttan
