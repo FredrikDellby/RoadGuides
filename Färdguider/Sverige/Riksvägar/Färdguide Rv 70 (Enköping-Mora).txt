@@ -1,48 +1,48 @@
-F‰rdguide Rv 70 (Enkˆping - Mora)
+F√§rdguide Rv 70 (Enk√∂ping - Mora)
 ==================================
 
-Etapp 1: Enkˆping - Fj‰rdhundra (16,9 km/16,1 km)
+Etapp 1: Enk√∂ping - Fj√§rdhundra (16,9 km/16,1 km)
 
 Trp Romberga (142)
- E18 ˆ: Stockholm
- E18 v: Oslo, V‰sterÂs
- Enkˆping Centrum
+ E18 √∂: Stockholm
+ E18 v: Oslo, V√§ster√•s
+ Enk√∂ping Centrum
 Bensinstation: Statoil
 Restaurang: McDonald's
-Korsning Torstuna v‰gsk‰l
- H‰rkeberga, Vittinge
+Korsning Torstuna v√§gsk√§l
+ H√§rkeberga, Vittinge
 					2.3 km/1.6 km	1 min 43 s/1 min 12 s
 T-korsning Rekesta
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
-T-korsning VÂrfru v‰gsk‰l
+T-korsning V√•rfru v√§gsk√§l
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
-Korsning LÂdˆ
- LÂngtora
- Tortuna, Sparrs‰tra
+Korsning L√•d√∂
+ L√•ngtora
+ Tortuna, Sparrs√§tra
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
-T-korsning H‰rnevi v‰gsk‰l
- H‰rnevi
+T-korsning H√§rnevi v√§gsk√§l
+ H√§rnevi
 					0.7 km/0.7 km	31 s/31 s
-T-korsning Frˆsthult kyrka
- H‰rvsta
+T-korsning Fr√∂sthult kyrka
+ H√§rvsta
 					0.7 km/0.7 km	31 s/31 s
-T-korsning Siggesta v‰gsk‰l
+T-korsning Siggesta v√§gsk√§l
 					0.5 km/0.5 km	23 s/23 s
 T-korsning
 					0.5 km/0.5 km	23 s/23 s
-T-korsning G‰stre Rv 70
- H‰rnevi
+T-korsning G√§stre Rv 70
+ H√§rnevi
 					2.1 km/2.1 km	1 min 35 s/1 min 35 s
-T-korsning Karleby v‰gsk‰l
+T-korsning Karleby v√§gsk√§l
  Simtuna
 					0.5 km/0.5 km	23 s/23 s
 T-korsning Rv 70/Lv 256
- 254: Heby, Fj‰rdhundra
+ 254: Heby, Fj√§rdhundra
 
-Etapp 2: Fj‰rdhundra - Sala (22,6 km/22,6 km)
+Etapp 2: Fj√§rdhundra - Sala (22,6 km/22,6 km)
 					0.3 km/0.5 km	14 s/23 s
 T-korsing Simtuna K:a
- Fj‰rdhundra
+ Fj√§rdhundra
 Bensinstation: Shell
 					1.4 km/1.2 km	1 min 3 s/0 min 54 s
 T-korsning
@@ -50,32 +50,32 @@ T-korsning
 Korsning Karleby
  Tibble
 					4.9 km/4.9 km	3 min 41 s/3 min 41 s
-T-korsning Gˆlja
+T-korsning G√∂lja
  Brunnsbo
 					0.9 km/0.9 km	41 s/41 s
-(Uppsala / V‰stmanland)
-(Enkˆping / Sala)
-T-korsning B‰nnebo
+(Uppsala / V√§stmanland)
+(Enk√∂ping / Sala)
+T-korsning B√§nnebo
  Heby, Fastbo
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
-T-korsning T‰rna K:a
+T-korsning T√§rna K:a
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
-T-korsning T‰rnaby
- Varms‰tra
+T-korsning T√§rnaby
+ Varms√§tra
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
 Korsning
  Kumla Kyrkby
 					0.3 km/0.5 km	15 s/26 s
-J‰rnv‰gskorsning
- V‰sterÂs-Sala
+J√§rnv√§gskorsning
+ V√§ster√•s-Sala
 T-korsning
  Ransta, Kumla Kyrkby
 					0.6 km/0.5 km	31 s/26 s
 T-korsning Liljansberg
  Kila
 					3.2 km/3.2 km	2 min 45 s/2 min 45 s
-Rondell H‰ttsk‰r
- 56 n: G‰vle
+Rondell H√§ttsk√§r
+ 56 n: G√§vle
  72: Uppsala, Heby
  Sala Centrum
 
@@ -83,10 +83,10 @@ Etapp 3: Sala - Avesta (41,2 km/41,5 km)
 					3.5 km/3.5 km	2 min 20 s/2 min 20 s
 Rondell Evelund
  Sala Centrum, Silvergruvan
- 56 s: V‰sterÂs
+ 56 s: V√§ster√•s
 					2.7 km/2.9 km	1 min 48 s/1 min 56 s
 Trp Sala V
- 256 ˆ: Sala
+ 256 √∂: Sala
  256 v: Norberg, Salbohed
 					7.5 km/7.2 km	5 min 0 s/4 min 48 s
 T-korsning
@@ -96,42 +96,42 @@ T-korsning Broddbo Rv 70
  Broddbo
 					6.7 km/6.7 km	5 min 2 s/5 min 2 s
 T-korsning Jordbron
- V‰sterf‰rnebo
+ V√§sterf√§rnebo
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
 T-korsning
- Salbohed, V‰sterf‰rnebo
+ Salbohed, V√§sterf√§rnebo
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
 Korsning
  Rosshyttan
 					1.5 km/2.1 km	1 min 8 s/1 min 35 s
 Parkeringsplats
-(V‰stmanland / Dalarna)
+(V√§stmanland / Dalarna)
 (Sala / Avesta)
 					1.0 km/0.4 km	45 s/18 s
 Korsning Brovallen S
  Brovallen
 					0.7 km/0.6 km	31 s/27 s
-J‰rnv‰gsbro
+J√§rnv√§gsbro
  Dalabanan
 					2.3 km/2.3 km	1 min 43 s/1 min 43 s
 Korsning Brovallen N
- N‰s Bruk
+ N√§s Bruk
  Krylbo, Brovallen
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
 T-korsning
  Krylbo, Karlbo
 					0.9 km/1.6 km	0 min 41 s/1 min 12 s
-Rastplats Brunnb‰ck
-(Dal‰lven)
+Rastplats Brunnb√§ck
+(Dal√§lven)
 					2.3 km/1.7 km	1 min 43 s/1 min 17 s
-Trp M‰sterbo
- 68 n: G‰vle, Horndal
+Trp M√§sterbo
+ 68 n: G√§vle, Horndal
  Krylbo
 					1.6 km/1.9 km	1 min 12 s/1 min 26 s
-Trafikplats ≈sbo
- 68 s: ÷rebro, Norberg
+Trafikplats √Ösbo
+ 68 s: √ñrebro, Norberg
  Avesta Centrum
-Rastplats Dalah‰sten
+Rastplats Dalah√§sten
 Bensinstation: Shell
 
 Etapp 4: Avesta - Hedemora (21,5 km/21,1 km)
@@ -140,25 +140,25 @@ Trp Skogsbo
  Avesta C
 Bensinstation: OKQ8
 					6.3 km/6.0 km	4 min 44 s/4 min 30 s
-T-korsning Saxbov‰gen
+T-korsning Saxbov√§gen
  Garpenberg, Stusshyttan
 					1.3 km/1.4 km	0 min 59 s/1 min 3 s
 Parkeringsplats
-(b‰st l‰mpad fˆr nordgÂende)
+(b√§st l√§mpad f√∂r nordg√•ende)
 					0.9 km/0.7 km	41 s/31 s
 Avesta / Hedemora
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-Korsning GrÂdˆ sÂg
- GrÂdˆ
+Korsning Gr√•d√∂ s√•g
+ Gr√•d√∂
 					1.0 km/1.2 km	45 s/54 s
-Dal‰lven
+Dal√§lven
 					2.5 km/2.1 km	1 min 53 s/1 min 35 s
 Trafikplats Brunna
  270 s: Norberg
  Hedemora
 					2.9 km/3.2 km	2 min 11 s/2 min 24 s
-Rondell Hedemora ˆstra
- 270 n: Hofors, LÂngshyttan
+Rondell Hedemora √∂stra
+ 270 n: Hofors, L√•ngshyttan
  Hedemora Centrum
 Bensinstation: OKQ8, Bilisten
 					1.6 km/1.7 km	1 min 22 s/1 min 27 s
@@ -167,173 +167,230 @@ Rondell Hedemora norra
  Hedemora Centrum
 Bensinstation: Shell, Statoil
 
-Etapp 4: Hedemora - S‰ter (14,5 km/14,4 km)
+Etapp 4: Hedemora - S√§ter (14,5 km/14,4 km)
 					3.8 km/3.9 km	2 min 32 s/2 min 36 s
-Dubbel T-korsning K‰rringtj‰rn
- V‰sterby
+Dubbel T-korsning K√§rringtj√§rn
+ V√§sterby
  Norshyttan
 					0.9 km/0.7 km	36 s/28 s
-Korsning Hjulbackatj‰rnen
- V‰sterby
+Korsning Hjulbackatj√§rnen
+ V√§sterby
 					3.8 km/3.8 km	2 min 32 s/2 min 32 s
-Korsning Tj‰rnan Rv 70
+Korsning Tj√§rnan Rv 70
  Vikmanshyttan
-Hedemora / S‰ter
+Hedemora / S√§ter
 					1.8 km/1.8 km	1 min 12 s/1 min 12 s
-J‰rnv‰gsbro
+J√§rnv√§gsbro
  Dalabanan
 					1.6 km/1.7 km	1 min 4 s/1 min 8 s
-Infoplats S‰ter (nordgÂende)
+Infoplats S√§ter (nordg√•ende)
 					0.4 km/0.3 km	16 s/12 s
 Rondell Rutbo
  Bispbergshyttan
  Nisshyttan
 					1.1 km/1.1 km	44 s/44 s
-Rondell Rv 70/Industrig.
+Rondell Rv 70/Industrig. (lokal v√§g)
  Bensinstation: Din-X
 					0.8 km/0.8 km	58 s/58 s
-Korsning S‰ter OKQ8
- S‰ter Centrum
-Bensinstation: OKQ8
+Korsning S√§ter Torget (lokal v√§g)
+ S√§ter Centrum
+ S√§terdalen (sev√§rdhet), Info-/Rastplats
+ Restaurang: S√§tergrillen, Dalarasten, m.fl.
 					0.4 km/0.4 km	29 s/29 s
-T-korsning S‰ter Statoil
- Gr‰ngshammar
-Bensinstation: Statoil
+T-korsning S√§ter
+ Smedjebacken, (Gr√§ngshammar)
+ Centrum, Sjukhus, Sk√∂nvik
+ Mentalv√•rdsmuseet, S√§ters Golfklubb
+ Bensinstation: INGO
+ Hotell: Dalkullans Motell
+(Motortrafikled b√∂rjar / upph√∂r)
 
-Etapp 5: S‰ter - Borl‰nge (23,0 km/23,1 km)
+Etapp 5: S√§ter - Borl√§nge (23,0 km/23,1 km)
 					5.2 km/6.1 km	3 min 28 s/4 min 4 s
 Trp Solvarbo
  Solvarbo
 					6.0 km/5.8 km	3 min 36 s/3 min 29 s
+Bro √∂ver Hyttb√§cken: (60.384008,15.6609745)
+
+(J√§rnv√§gsbro)
+ Dalabanan
+
 Trp Storhaga
- St Skedvi, Gustaf
- Mora
+ St Skedvi, Enbacka
 					2.0 km/2.1 km	1 min 12 s/1 min 16 s
 Trp Naglarby
- Naglarby, TorsÂng
+ Naglarby, Tors√•ng
+ Y. Sv√§rdsj√∂ (enskild v√§g)
+ Gr√§ngshammar, √ñv. Sv√§rdsj√∂
+					/)
+S√§ter / Borl√§nge): (60.4195303,15.5530934)
 					1.8 km/1.1 km	1 min 5 s/0 min 40 s
-Trp Yttre Sv‰rdsjˆ
-(avfart sydgÂende riktning
-pÂfart nordgÂende riktning)
- Sv‰rdsjˆ, Gr‰ngshammar
+Trp Yttre Sv√§rdsj√∂
+(avfart sydg√•ende riktning
+p√•fart nordg√•ende riktning)
+ Y. Sv√§rdsj√∂ (enskild v√§g)
+ Gr√§ngshammar, √ñv. Sv√§rdsj√∂
 					1.7 km/2.3 km	1 min 1 s/1 min 23 s
 Trafikplats Romme
- Romme, Borl‰nge flygplats
+ Romme, Dala Airport
+ Travbana
+ Rommehedsl√§gret och Dalregementets museer
+ Restaurang: Officerssalongen, Romme Grillen m.m.
 					2.1 km/1.5 km	1 min 16 s/0 min 54 s
-T-korsning Romme norra
- HalvarsgÂrdarna, Romme
-					0.3 km/0.3 km	14 s/14 s
-T-korsning
- TorsÂng
- Stora Tuna
+Trafikplats Hede
+ Tors√•ng, Stora Tuna
+ Smedjebacken, Romme
+ Romme Alpin, Travbana
 					0.5 km/0.6 km	23 s/27 s
-ƒlv
+Bro √∂ver Tuna√•n: (60.4555295,15.4783088)
 					1.0 km/1.0 km	45 s/45 s
-Korsning Gruvkarlby Rv 70
+(Motortrafikled upph√∂r / b√∂rjar)
+
+Korsning Gruvkarlby Rv 70 (lokal v√§g)
+ √Örby, Tyllsn√§s vandrarhem & camping
+ √Öselby
+ Industri: S. Backa, R√•g√•ker
  Bensinstation: Shell
 					1.4 km/1.5 km	1 min 3 s/1 min 8 s
-Gyllerondellen
-Bensinstation: OKQ8
-Restaurang: Borl‰nge V‰rldshus
+Infoplats (nordg√•ende)
+
+Gyllerondellen (lokal v√§g)
+ √Örby
+ Gylle, V√•rdcentral
+ Hotell/Restaurang: Gylle Hotell
 					1.1 km/1.0 km	57 s/51 s
-GrÂdarondellen
- E16 ˆ: G‰vle, Falun
+Gr√•darondellen
+ E16 √∂: G√§vle
+ 50 n: (S√∂derhamn), Falun
+ Centrum
 
-Etapp 7: Borl‰nge - Amsberg ()
+Etapp 7: Borl√§nge - Amsberg ()
 
-Rondell Tunav‰gen
+Rondell Tunav√§gen (lokal v√§g)
+ Centrum
+ √Öselby, Industri: S. Backa
 
-Trp Borl‰nge Centrum
+Trp Borl√§nge Centrum
+ Centrum, J√§rnv√§gsstation
 
+(J√§rnv√§gsviadukt
+					(/
 Backarondellen
+ Centrum
+ 50 s: √ñrebro, (Ludvika)
+ Handel: N. Backa, IKEA, S. Kupolen
 
-T-korsning Kupolen E16
+T-korsning Kupolen E16 (lokal v√§g)
+ Handel: Kupolen norra
 
-Rondell Hagaskolan E16
- Hˆgskolan Dalarna
+Rondell Hagaskolan E16 (lokal v√§g)
+ Hagalund, Sjukhus
+ H√∂gskolan Dalarna, Science Park, Kupolen norra
 
-T-korsning E16/Masergatan
+Rondell Maserhallen E16 (lokal v√§g)
  Maserhallen
 
-Rondell Tj‰rna
+Rondell Tj√§rna/Sportf√§ltet (lokal v√§g)
+ Lerg√§rdet
 
-Rondell E16/MÂrdgatan
+Rondell E16/M√•rdgatan (lokal v√§g)
+ Sportf√§ltet
+ Tj√§rna √Ñngar
+ Borl√§nge Vandrarhem & Turistl√§genheter
 
-T-korsning Tallmon (v‰stgÂende)
- Tallmon
-T-korsning Tj‰rna Discgolf (ˆstgÂende)
+T-korsning Tallmon (nordg√•ende)
+ Tallmon, Lokal v√§g
+T-korsning Tj√§rna Discgolf (sydg√•ende)
+ Lokal v√§g, Ej skyltad
 
 Rondell Mellsta
+ Kvarnsveden, camping, mat
+ Arvslindan, B√§sna
 
-Bro ˆver Dal‰lven
-(Korsning F‰rjen‰s sˆdra)
- Enskild v‰g
+Bro √∂ver Dal√§lven
+					/)
+(Korsning F√§rjen√§s s√∂dra)
+ Solbacka, Enskild v√§g
 
 Korsning Norr Amsberg
  Amsbergs kapell, Badplats
 
+(Korsning (enskild v√§g))
+ V√§l utbyggd, ej skyltad
+
 Dubbel T-korsning Amsberg Bilskroten
+ Bildeponering, Idrottsplats
  293: Falun
+ Motorstadion, Testplats ITS
 
-Etapp 8 : Amsberg - DjurÂs ()
+Etapp 8 : Amsberg - Djur√•s ()
 
-Rastplats Dalstugan
-(b‰st l‰mpad ˆstgÂende)
+Rastplats Dalstugan (√∂stg√•ende)
+(T-korsning (enskild v√§g))
+ Solbacka, asfalterad v√§g
 
-(T-korsning Gagnbro)
- Enskild v‰g
+T-korsning Gagnbro s√∂dra
+ Bilservice, Enskild v√§g
 
-J‰rnv‰gsbro
+J√§rnv√§gsbro
  Siljansbanan
 
 Ingemar Bergmans brygga
 
-Dubbel T-korsning Gimsb‰rke
+(Gimsb√§rke ind. omr.)
+T-korsning Gimsb√§rke (lokal v√§g)
  Restaurang: Rastastugan, Rasta & Fynda
- Lokal v‰g
-Infoplats (b‰st l‰mpad v‰stgÂende)
+Infoplats (b√§st l√§mpad nordg√•ende)
 
-Parkeringsplats
-(b‰st l‰mpad ˆstgÂende)
-Borl‰nge / Gagnef
+Parkeringsplats (b√§st l√§mpad √∂stg√•ende)
+Borl√§nge / Gagnef
 
 Korsning Sifferbo E16
+ Sifferbo
 
 T-korsning Sifferbo Camping
- Lokal v‰g
+ Sifferbo Camping, Lokal v√§g
 
-T-korsning E16/Gamla landsv‰gen
- Enskild v‰g, Sifferbo Stugby och B&B
+T-korsning E16/Gamla landsv√§gen
+ Sifferbo Stugby och B&B, Enskild v√§g
 
 T-korsning Djurmoskolan
+ Lokal v√§g (ej skyltad)
 
-Korsning Djurmov‰gen
+Korsning Djurmov√§gen
+ Djurmo (ej skyltad)
 
-T-korsning Djurmoo norra
-(ej skyltad ˆstgÂende)
- DjurÂs by
+T-korsning Djurmo norra
+(ej skyltad sydg√•ende)
+ Djur√•s by
 
-T-korsning DjurÂs industriomr
- Lokal v‰g
+T-korsning Djur√•s industriomr
+ Djur√•s industriomr, Lokal v√§g
 
-T-korsning T‰ktberget
- Lokal v‰g
+T-korsning T√§ktberget
+ Djur√•s by
 
-T-korsning Circle-K DjurÂs
- Lokal v‰g
+T-korsning Vestli's fiske (lokal v√§g)
+ √Ötervinningscentral, Infoplats
+ Bensinstation: OKQ8
+ Restaurang: Djur√•s Restaurang & pizzeria
 
-Rondell E16/Rv 70 DjurÂs
+Rondell E16/Rv 70 Djur√•s
  E16 v: Oslo, Vansbro
+ Djur√•s Centrum
+ Infoplats
+ Bensinstation: OKQ8
+ Restaurang: Djur√•s Restaurang & pizzeria
 
-Etapp 9: DjurÂs - Leksand ()
+Etapp 9: Djur√•s - Leksand ()
 
-(Korsning ProstgÂrdarna)
+(Korsning Prostg√•rdarna)
 
 T-korsing Korsbacken
- Grˆntuv
+ Gr√∂ntuv
 
 Korsning Gagnef V
- Grˆntuv
+ Gr√∂ntuv
  Gagnefs kyrkby
  Restaurang: Gagnefs Pizzeria/Restaurang
 
@@ -342,198 +399,198 @@ T-korsing Gagnef ICA
  Bensinstation: Preem
 
 Korsning Gagnef Nordbo
- Hˆrnells industri
+ H√∂rnells industri
 
-Korsning Djura v‰gsk‰l
+Korsning Djura v√§gsk√§l
  Djura, Gagnefs kyrkby
 
-T-korsing Gr‰v sˆdra (enskild v‰g)
- Gr‰v
+T-korsing Gr√§v s√∂dra (enskild v√§g)
+ Gr√§v
 
-T-korsing Fix (enskild v‰g)
- Gr‰v
+T-korsing Fix (enskild v√§g)
+ Gr√§v
 
 T-korsing Trollkrogen
  Restaurang: Trollkrogen
 Gagnef / Leksand
 
-(Korsning ≈l-kilen Rv 70)
+(Korsning √Öl-kilen Rv 70)
 
-T-korsing Insjˆn sˆdra
- Sˆdra Industri
+T-korsing Insj√∂n s√∂dra
+ S√∂dra Industri
  Bensinstation: Bilisten/Q-star
- Restaurang: Brˆdmasen, Insjˆns Restaurang/Pizzeria
+ Restaurang: Br√∂dmasen, Insj√∂ns Restaurang/Pizzeria
 
-Trp Insjˆn
+Trp Insj√∂n
  Rexbo
  Norra Industri
- Kˆpcentrum
+ K√∂pcentrum
 
-÷sterdal‰lven
+√ñsterdal√§lven
 
-T-korsing Rv 70/Strˆjav‰gen
+T-korsing Rv 70/Str√∂jav√§gen
 
-T-korsing Rv 70/H‰radsv‰gen
- H‰radsbygden
-(J‰rnv‰gsviadukt)
+T-korsing Rv 70/H√§radsv√§gen
+ H√§radsbygden
+(J√§rnv√§gsviadukt)
  Siljansbanan
 
-Korsning Rv 70/Jon Ollas v‰g
- Leksands kn‰ckebrˆd
+Korsning Rv 70/Jon Ollas v√§g
+ Leksands kn√§ckebr√∂d
 
 Rastplats Leksand
 
-Korsning Leksand sˆdra
- Sollerˆn, Siljansn‰s, Dala-J‰rna
+Korsning Leksand s√∂dra
+ Soller√∂n, Siljansn√§s, Dala-J√§rna
 
-÷sterdal‰lven
+√ñsterdal√§lven
 
 T-korsing Leksand norra
- SÂgmyra, T‰llberg
+ S√•gmyra, T√§llberg
  Sommarland
  Bensinstation: Circle-K, Tanka
 
-Etapp 10: Leksand - R‰ttvik ()
+Etapp 10: Leksand - R√§ttvik ()
 
 Infoplats
-(b‰st l‰mpad sydgÂende)
+(b√§st l√§mpad sydg√•ende)
 
-Korsning Krˆkbacken
+Korsning Kr√∂kbacken
  Torrberg, Leksands GK
  Lima
 
-(Dubbel) T-korsing Leksboda v‰g 70
- Hjortn‰s, -gÂrden
+(Dubbel) T-korsing Leksboda v√§g 70
+ Hjortn√§s, -g√•rden
 
 Korsning
- ÷verboda (enskild v‰g)
+ √ñverboda (enskild v√§g)
  Plintsberg
 
-(T-korsing S‰tra)
- Enskild v‰g
+(T-korsing S√§tra)
+ Enskild v√§g
 
-T-korsing Bodlindor v‰g 70
- Enskild v‰g, -gÂrden
+T-korsing Bodlindor v√§g 70
+ Enskild v√§g, -g√•rden
 
 Korsning Opplimen
  N Lindberg, Sjugare
- KarlfeldtsgÂrden
+ Karlfeldtsg√•rden
 
-Korsning T‰llbergsporten
- T‰llberg
- Rastplats T‰llbergsporten
+Korsning T√§llbergsporten
+ T√§llberg
+ Rastplats T√§llbergsporten
 
 T-korsing
- Sjugare, N Bergs‰ng
+ Sjugare, N Bergs√§ng
 
-Korsning Kullsbjˆrken Rv 70
+Korsning Kullsbj√∂rken Rv 70
  Mat och Logi
 
-T-korsing Kullsbjˆrken Norra
- T‰llberg
+T-korsing Kullsbj√∂rken Norra
+ T√§llberg
 
-Leksand / R‰ttvik
+Leksand / R√§ttvik
 
-Korsing V‰stg‰rde Rv 70
- Enskild v‰g
+Korsing V√§stg√§rde Rv 70
+ Enskild v√§g
 
 (Korsning Utby Rv 70)
 
 (Korsning Utby norra)
 
-T-korsing G‰rdebyn Sˆdra
- [E16 ˆ]: G‰vle
+T-korsing G√§rdebyn S√∂dra
+ [E16 √∂]: G√§vle
  69: Falun
  Bensinstation: OKQ8
- Restaurang/Hotel: Dala W‰rdshus
-Rastplats R‰ttvik SˆderÂs
-(nordgÂende riktning)
+ Restaurang/Hotel: Dala W√§rdshus
+Rastplats R√§ttvik S√∂der√•s
+(nordg√•ende riktning)
 
-Etapp 11: Genom R‰ttvik ()
+Etapp 11: Genom R√§ttvik ()
 
-T-korsing Rv 70/BÂthamnsv‰gen
- BÂthamn
+T-korsing Rv 70/B√•thamnsv√§gen
+ B√•thamn
 
 Rondell Karlsvik
- R‰ttvik S
- Restaurang: Karlsviks herrgÂrd
-(R‰ttviksÂn)
+ R√§ttvik S
+ Restaurang: Karlsviks herrg√•rd
+(R√§ttviks√•n)
 
-Rondell R‰ttvik centrum
+Rondell R√§ttvik centrum
 
-Rondell R‰ttvik station
+Rondell R√§ttvik station
 
-Rondell VÂrdcentralen
+Rondell V√•rdcentralen
  301: Edsbyn, Furudal
 
-Etapp 12: R‰ttvik - Mora ()
+Etapp 12: R√§ttvik - Mora ()
 
 Rondell
 
-Korsning StiftsgÂrden
- Nittsjˆ, Dalhalla
+Korsning Stiftsg√•rden
+ Nittsj√∂, Dalhalla
  Sjurberg, Kyrkudden
 
-(T-korsing Rv 70/Tempelv‰gen)
- S:t DavidsgÂrden, MeditationsgÂrden
+(T-korsing Rv 70/Tempelv√§gen)
+ S:t Davidsg√•rden, Meditationsg√•rden
 
-(Korsning Rv 70/Siljansborgsv‰gen)
- Enskild v‰g, Siljansborg
+(Korsning Rv 70/Siljansborgsv√§gen)
+ Enskild v√§g, Siljansborg
 
-Rastplats Sjurberg (sydgÂende)
-Infoplats (nordgÂende)
+Rastplats Sjurberg (sydg√•ende)
+Infoplats (nordg√•ende)
 
 (Dalbro)
-T-korsing Rv 70/Nittsjˆv‰gen
- Nittsjˆ
+T-korsing Rv 70/Nittsj√∂v√§gen
+ Nittsj√∂
 
-Korsning Rv 70/HjortgÂrdsv‰gen
- Karl TˆfÂsens f‰bod
+Korsning Rv 70/Hjortg√•rdsv√§gen
+ Karl T√∂f√•sens f√§bod
  Sjurberg, Vikarbyn C
 
-Korsning Rv 70/÷. RˆjerÂsv‰gen
- S‰tergÂrden
+Korsning Rv 70/√ñ. R√∂jer√•sv√§gen
+ S√§terg√•rden
  Lanthandel
  Restaurang: Vikarby Pizzeria
 
-Korsning ÷ja v‰gsk‰l
- TammerÂsen, RˆjerÂsen
- ÷ja, Vikarbyn C
+Korsning √ñja v√§gsk√§l
+ Tammer√•sen, R√∂jer√•sen
+ √ñja, Vikarbyn C
 
-Infoplats (b‰st l‰mpad sydgÂende)
+Infoplats (b√§st l√§mpad sydg√•ende)
 
 Korsning Ickholmen
- Stumsn‰s, Skr‰ddargÂrden
+ Stumsn√§s, Skr√§ddarg√•rden
 
-R‰ttvik /
-(sydgÂende riktning)
+R√§ttvik /
+(sydg√•ende riktning)
 
 / Mora
-(nordgÂende riktning)
+(nordg√•ende riktning)
 
-Korsning GarsÂs Rv 70
+Korsning Gars√•s Rv 70
  Vandrarhem
 
 Korsning Fu Rv 70
- Nusn‰s
- Dalah‰stfabriken
+ Nusn√§s
+ Dalah√§stfabriken
 
-Korsning F‰rn‰s ÷
- F‰rn‰s
- Hotel/Restaurang: V‰rdshuset Moraklockan
+Korsning F√§rn√§s √ñ
+ F√§rn√§s
+ Hotel/Restaurang: V√§rdshuset Moraklockan
  Bensinstation
 
-Rondell F‰rn‰s V (Kvarn)
+Rondell F√§rn√§s V (Kvarn)
 
 Rondell Mora-Noret
- E45 n: ÷stersund, Orsa
+ E45 n: √ñstersund, Orsa
 
 Etapp 13: Genom Mora ()
 
-J‰rnv‰gsviadukt
+J√§rnv√§gsviadukt
  Inlandsbanan
 
-Siljan-Orsasjˆn
+Siljan-Orsasj√∂n
 
 T-korsning E45/Stationsv.
  Bensinstation: OKQ8
@@ -543,7 +600,7 @@ T-korsning E45/Kristineberg
 T-korsning E45/Stationsv.
  Bensinstation: Shell
 
-Rondell E45/ƒlvgatan
+Rondell E45/√Ñlvgatan
  E45 s: Torsby, Malung
-(T-korsning Rv 70/ƒlvgatan)
+(T-korsning Rv 70/√Ñlvgatan)
 
