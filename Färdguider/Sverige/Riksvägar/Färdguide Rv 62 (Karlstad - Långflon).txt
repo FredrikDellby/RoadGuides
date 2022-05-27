@@ -475,14 +475,64 @@ T-korsning Ransby N (lokal väg)
  Utmarksmuseet, Pilgrimstapeten
  Hembygdsgård, Café
 
-T-korsning Sysslebäck
- Sundhult, skidanläggning
+(T-korsning (lokal väg))
+ Bageri Bäckerei
+
+T-korsning (enskild väg)
+ Ransbysätern
+
+(Restaurang / Pizza)
+
+Korsning Rv 62/Badhusvägen (lokal väg)
+ Simhall, Sporthall, Infoplats
+ Vildmarkscenter, Sysslebäcks Stugby & Fiskecamping
+
+Naturpralinen Chockladfabrik
+T-korsning (lokal väg)
+ Återvinningscentral
+
+Bensinstation: Q-star
+Dalbygården Servicehus
+
+Restaurang: Vänner's Pub & Café
+Sysslebäck Centrum (infart S)
+Restaurang: Sysslebäcks Pizzeria
+Sysslebäck Centrum (infart N)
+
+T-korsning Sysslebäck (enskild väg)
+ Sundhultmon
+ Skidstadion, Bilprovning
+ Industri, Bråtens Camping
 					0.3 km/0.4 km	22 s/29 s
-OKQ8 Sysslebäck
+Wärdshuset Klarälvdalen
+
+(Bensinstation: Gulf)
 					4.3 km/4.2 km	3 min 41 s/3 min 36 s
+Coop Sysslebäck
+
+(Bro över Näckån)
+T-korsning Näckån (enskild väg)
+ Långberget
+ Ridanläggning, Ädelfiske
+
 Korsning Klarabro
- S Finnskoga
+ Flisa, Bograngen, Camping
 					18.3 km/18.5 km	15 min 41 s/15 min 51 s
+Korsning Brattmon (enskild väg)
+ Fageråsdammen, Utsiktstorn Granberget
+
+(Korsning Kärrbackstrand)
+ Båtstadberg, Stugor, Enskild väg
+
+T-korsning Kärrbackstrand N (enskild väg)
+ Kärrbackstrand, Folkets Hus
+
+Parkeringsplats (västra sidan)
+(endast skyltad sydgående)
+
+(Korsning Båtstad (enskild väg))
+ Båtstadberg
+
 Klarälven
 					3.0 km/2.8 km	2 min 34 s/2 min 24 s
 T-korsning Höljes
