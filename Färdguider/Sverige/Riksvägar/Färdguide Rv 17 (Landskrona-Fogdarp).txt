@@ -1,117 +1,163 @@
-F�rdguide Rv 17 (Landskrona - Fogdarp)
+Färdguide Rv 17 (Landskrona - Fogdarp)
 =======================================
 
 Etapp 1: Genom Landskrona ()
 
 Etapp 2: Landskrona - Marieholm (18,9 km/18,5 km)
 
-Trp Landskrona S�dra (25)
- E6-E20 s: Malm�
- E6-E20 n: G�teborg, Helsingborg
+Trp Landskrona Södra-väst
+ E6-E20 s: Malmö
+
+Trp Landskrona Södra-öst
+ E6-E20 n: Göteborg, Helsingborg
 					0.8 km/0.4 km	41 s/21 s
-T-korsning 17/Vardensj�v.
- Vadensj�
-T-korsning 17/�rjaleden
- Industiomr.
+Avfart (östgående)
+ Bensinstation: Preem
+ Restaurang: MAX
+Rondell Rv 17/Vardensjövägen
+ Kronan
+ Vadensjö
+ Bensinstation: Preem
+ Restaurang: MAX
 					1.6 km/1.7 km	1 min 12 s/1 min 17 s
-Dubbel T-korsning R�ga H�rstad
- Asmundtorp
- Tullstorp
+Dubbel T-korsning Råga Hörstad
+ Råga Hörstad
+ Vadensjö
 					2.4 km/2.1 km	1 min 48 s/1 min 35 s
 Korsning Asmundtorp N
  Asmundtorp
- Vilhelmsberg
+ Vadensjö
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
 Rondell Asmundtorp NO
- 110 s: Saxtorpsskogen
- 110 n: Bjuv, T�garp
+ 110 s: Malmö, (Saxtorpsskogen)
+ 110 n: Bjuv, (Tågarp)
 					1.2 km/1.1 km	54 s/50 s
-J�rnv�gsbro
- R��banan
+Landskrona / Svalöv: (55.8907258,12.9813593)
+(Järnvägsbro)
+ Rååbanan
 					0.6 km/0.6 km	27 s/27 s
-Korsning 17/Hedv�gen
- Industriomr.
-(Landskrona / Sval�v)
+Korsning Rv 17/Hedvägen (enskild väg)
+ Hedenborg, Sevärdhet?
+ Wiklund Trading, Onninen
 					0.8 km/0.8 km	36 s/36 s
 T-korsning Billeberga N
- Billeberga
+ Billeberga, Järnvägsstn
  Bensinstation: Billemack
 					0.3 km/0.3 km	14 s/14 s
 T-korsning
- Sval�v
+ Svalöv
 					4.2 km/4.3 km	3 min 9 s/3 min 14 s
-T-korsning Korsv�gen
- 106: K�ger�d, Sval�v
-					0.3 km/0.3 km	14 s/14 s�
-J�rnv�gsbro
- Godsstr�ket genom Sk�ne
+(Korsning (enskild väg))
+ Värmö
+ Värmö N, Hällstorp
+
+T-korsning (enskild väg)
+ Värmö, Hundpensionat
+ Agrigas, BSCC
+
+T-korsning Korsvägen
+ 106: (Kågeröd), Svalöv
+ Ring Knutstorp
+					0.3 km/0.3 km	14 s/14 s¨
+Järnvägsbro
+ Godsstråket genom Skåne
 					0.5 km/0.5 km	23 s/23 s
 T-korsning Teckomatorp N
- Teckomatorp
+ Kävlinge, Teckomatorp
+ Restaurang: Gatukök & Pizzeria Vikingen, Teckomatorps Stationscafé
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
-Korsning Norra Skr�vlinge
- Teckomatorp
- Torrl�sa
+Korsning Norra Skrävlinge
+ Norra Skrävlinge Kyrka
+ Torrlösav
+ Hanksville Farm, Rum & Frukost
 					0.9 km/0.9 km	41 s/41 s
-Sval�v / Esl�v
+Svalöv / Eslöv: (55.8714221,13.1324775)
 					0.3 km/0.4 km	14 s/18 s
-Korsning Marieholm NV
- 108 s: Lund, K�vlinge,	
- 	Marieholm
+Korsning Åkarp
+ 108 s: Kävlinge, Marieholm
+ Åkarp (enskild väg)
 					1.5 km/1.6 km	1 min 8 s/1 min 12 s
 Rondell Marieholm N
  Marieholm
- 108 n: Perstorp, R�st�nga
+ 108 n: Perstorp, Röstånga
+ Söderåsens Nationalpark
 
-Etapp 3: Marieholm - Esl�v (11,7 km/11,7 km)
+Etapp 3: Marieholm - Eslöv (11,7 km/11,7 km)
 					1,9 km/1,8 km	1 min 26 s/1 min 21 s
 Korsning
- �. Karaby kyrka
+ Reslöv kyrka
+ Ö. Karaby
 					3,4 km/3,6 km	2 min 33 s/2 min 42 s
-Korsning
-T-korsning Trollen�s K:a
+Korsning Trollenäs
+ Remmarlöv, Djur & Natur Butik
+ Trolleholm, Trollenäs, V. Strö
+T-korsning Trollenäs K:a
+ Trollenäs kyrka
 					2,3 km/2,1 km	1 min 44 s/1 min 35 s
-Korsning �. Asmundtorp
+Korsning Ö. Asmundtorp
+ Eslöv V
+ Ö. Asmundtorp, Selarp
 					2,0 km/2,0 km	1 min 30 s/1 min 30 s
-Rondell Esl�v N
- 113 n: Stockam�llan
- Esl�v Centrum
+Rondell Eslöv N
+ Eslöv Centrum
+ 113 n: Höör, Röstånga
+ Söderåsens nationalpark
 					0,6 km/0,5 km	31 s/26 s
-J�rnv�gsbro
- S�dra Stambanan
+Järnvägsbro
+ Södra Stambanan
 					0,6 km/0,6 km	31 s/31 s
 Korsning 17/Harjagersv.
+ Eslöv, Infopunkt, Industri
+ Eslövs flygfält (lokal väg)
 					1,0 km/1,0 km	51 s/51 s
-Rondell Esl�v �
- 113 s: Malm�, Lund
- Esl�v Centrum
- Bensinstation: Statoil
+Rondell Eslöv Ö
+ 113 s: Malmö, (Lund)
+ Eslöv Centrum
+ Bensinstation: Circle-K
+ Restaurang: McDonald's
 
-Etapp 4: Esl�v - Fogdarp (13,8 km/14,1 km)
+Etapp 4: Eslöv - Fogdarp (13,8 km/14,1 km)
 					0,4 km/0,3 km	29 s/22 s
-Rondell Flygstaden
+Rondell Flygstaden (lokal väg)
+ Handel: Flygstaden
+ Bensinstation: OKQ8
+ Restaurang: Burger King
 					0,9 km/0,8 km	41 s/36 s
-T-korsning Sn�rjehusv�gen
+T-korsning Snärjehusvägen
+ Snärjehus (ej skyltad?)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
+(T-korsning Kastberga (enskild väg))
+ Lilla Kastberga, Kastberga slott
+
 Korsning Kastberga skola
+ Gryby
+ Kastberga (enskild väg)
 					0,3 km/0,3 km	14 s/14 s
 T-korsning
+ Stehag
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
 Korsning Kungshult V
+ Skarhult
 					0,4 km/0,4 km	21 s/21 s
-Korsning Kungshult �
+Korsning Kungshult Ö
+ Ö. Strö, Hund & Kattpensionat
+ Stehag
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
-Esl�v / H��r
+Eslöv / Höör: (55.8476006,13.4361182)
 					0,8 km/0,8 km	36 s/36 s
-Dubbel T-korsning V�nnberga
+Dubbel T-korsning Vännberga
+ S. Munkarp, Gårdsbutik
+ Pugerup
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-Rondell Snoger�d
- 23 s: Malm�, Lund
- 23 n: H�ssleholm, H��r
+Rondell Snogeröd
+ 23 s: Malmö, Lund
+ 23 n: Växjö, Höör
 					2,4 km/2,8 km	1 min 48 s/2 min 6 s
-Korsning
- Gamla E22
+Korsning Fogdarp
+ Kyrkhult
+ Fogdarp, Bastarp (enskild väg)
+ Elisefarm, Pendelparkering
 					(/
-(Trp Fogdarp (27)
- E22 s: Malm�, Lund
- E22 n: Karlskrona, Kristianstad, H�rby
+Trp Fogdarp (27)
+ E22 s: Malmö, Lund
+ E22 n: Karlskrona, Kristianstad, Hörby

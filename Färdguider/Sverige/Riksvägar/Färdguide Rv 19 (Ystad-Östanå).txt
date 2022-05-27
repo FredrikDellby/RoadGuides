@@ -1,24 +1,24 @@
-Färdguide Rv 19 (Ystad - Vä)
+FÃ¤rdguide Rv 19 (Ystad - VÃ¤)
 =============================
 
 Etapp 1: Ystad - Tomelilla (14,6 km/14,4 km)
 
 Rondell E65/Rv 19
- E65 ö: Färja
- [9 ö]: Simrishamn
- E65 v: Malmö, Skurup
+ E65 Ã¶: FÃ¤rja
+ [9 Ã¶]: Simrishamn
+ E65 v: MalmÃ¶, Skurup
  [9 v]: Trelleborg
- [13]: Höör, Sjöbo
-T-korsning 19/Bussjövägen
- Bussjö
+ [13]: HÃ¶Ã¶r, SjÃ¶bo
+T-korsning 19/BussjÃ¶vÃ¤gen
+ BussjÃ¶
 					0,9 km/0,7 km	46 s/36 s
-T-korsning Öjahill
- Öja industri
+T-korsning Ã–jahill
+ Ã–ja industri
 					0,5 km/0,5 km	23 s/23 s
-T-korsning Öja
- Öja
+T-korsning Ã–ja
+ Ã–ja
 					3,2 km/3,4 km	2 min 45 s/2 min 55 s
-St Herrestad Gästgivaregård
+St Herrestad GÃ¤stgivaregÃ¥rd
 T-korsning St Herrestad
 					0,5 km/0,3 km	36 s/22 s
 T-korsning St Herrestad N
@@ -36,15 +36,15 @@ T-korsning Benestad K:a
 T-korsning
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
 T-korsning Tosselilla
- Nöjespark
+ NÃ¶jespark
 					0,4 km/0,4 km	21 s/21 s
 Rondell Svampakorset
  11 v: Simrishamn, Tomelilla
- 11 ö: Malmö, Sjöbo
+ 11 Ã¶: MalmÃ¶, SjÃ¶bo
 
-Etapp 2: Tomelilla - Brösarp (23,8 km/23,7 km)
+Etapp 2: Tomelilla - BrÃ¶sarp (23,8 km/23,7 km)
 					1,4 km/1,3 km	1 min 3 s/0 min 59 s
-Korsning Tryde Ö
+Korsning Tryde Ã–
 					0,4 km/0,4 km	18 s/18 s
 Korsning Tryde N
 					2,5 km/2,5 km	1 min 53 s/1 min 53 s
@@ -52,45 +52,45 @@ T-korsning
 					1,0 km/1,0 km	45 s/45 s
 T-korsning
 					0,5 km/0,5 km	23 s/23 s
-Logi Gamlegård
+Logi GamlegÃ¥rd
 					0,9 km/0,9 km	41 s/41 s
-T-korsning Spjutstorpsvägen
+T-korsning SpjutstorpsvÃ¤gen
 					1,1 km/1,1 km	50 s/50 s
-T-korsning Skåne-Tranås S
+T-korsning SkÃ¥ne-TranÃ¥s S
 					0,8 km/0,8 km	58 s/58 s
 Bensinstation: Q-star
-Korsning Skåne-Tranås
+Korsning SkÃ¥ne-TranÃ¥s
 					0,2 km/0,2 km	14 s/14 s
-T-korsning Skåne-Tranås N
+T-korsning SkÃ¥ne-TranÃ¥s N
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-T-korsning 19/Bäretoftav.
+T-korsning 19/BÃ¤retoftav.
 					1,7 km/2,0 km	1 min 17 s/1 min 30 s
-Trippel T-korsning Fågeltofta väg 19
- Sankt Olof, Fågeltofta K:a
- Månslunda
+Trippel T-korsning FÃ¥geltofta vÃ¤g 19
+ Sankt Olof, FÃ¥geltofta K:a
+ MÃ¥nslunda
  Bondrum
 					0,8 km/0,6 km	58 s/27 s
 T-korsning Bondrum N
-(skyltad sydgående riktning)
+(skyltad sydgÃ¥ende riktning)
  Bondrum
 					3,2 km/3,2 km	2 min 24 s/2 min 24 s
-T-korsning Eljaröd S
+T-korsning EljarÃ¶d S
 					1,3 km/1,3 km	1 min 18 s/1 min 18 s
-T-korsning Eljaröd Ö
+T-korsning EljarÃ¶d Ã–
 					5,1 km/5,1 km	3 min 50 s/3 min 50 s
-Korsning Brösarp V
+Korsning BrÃ¶sarp V
  9: Simrishamn, Kivik
  Centrum
- Rastplats Vägstationen
+ Rastplats VÃ¤gstationen
 
-Etapp 3: Brösarp - Lv 118 (9,9 km/10,1 km)
+Etapp 3: BrÃ¶sarp - OlserÃ¶d (9,9 km/10,1 km)
 					1,3 km/1,5 km	0 min 59 s/1 min 8 s
 T-korsning Torpabron
 (Tomelilla / Simrishamn)
 Parkeringsplats
-(sydgående riktning)
+(sydgÃ¥ende riktning)
 					0,6 km/0,4 km	27 s/18 s
-T-korsning 19/Brösarps stationsv.
+T-korsning 19/BrÃ¶sarps stationsv.
 					2,8 km/2,9 km	2 min 6 s/2 min 11 s
 Dubbel T-korsning Maglehem S
 					0,5 km/0,4 km	23 s/18 s
@@ -98,219 +98,230 @@ Simrishamn / Kristianstad
 					1,0 km/0,9 km	45 s/41 s
 Trp Maglehem
  Maglehem
- S. Lökaröd
+ S. LÃ¶karÃ¶d
 					3,8 km/4,0 km	2 min 51 s/3 min 0 s
 Dubbel T-korsning
- Olseröd
- 118: Åhus
+ OlserÃ¶d
+ 118: Ã…hus
 
-Etapp 4: Lv 118 - Vä (19,0 km/18,9 km)
+Etapp 4: Ã–lserÃ¶d - NÃ¶bbelÃ¶v (19,0 km/18,9 km)
 					1,5 km/1,3 km	1 min 8 s/0 min 59 s
 T-korsning
- Vittskövle
+ VittskÃ¶vle
 					2,7 km/2,7 km	2 min 2 s/2 min 2 s
-T-korsning 19/Lökarödsv.
+T-korsning 19/LÃ¶karÃ¶dsv.
 					0,5 km/0,5 km	36 s/36 s
 T-korsning 19/Forsakarsv.
 					0,9 km/0,9 km	1 min 5 s/1 min 5 s
-Korsning 19/Skaddevägen
+Korsning 19/SkaddevÃ¤gen
 					0,4 km/0,4 km	29 s/29 s
 T-korsning 19/Domarringsv.
 					2,4 km/2,4 km	1 min 48 s/1 min 48 s
-T-korsning (lokal väg)
- ATA Timber Widtsköfle
+T-korsning (lokal vÃ¤g)
+ ATA Timber WidtskÃ¶fle
 Korsning Eskilstorp
- Vittskövle
- Ö Sönnarslöv
+ VittskÃ¶vle
+ Ã– SÃ¶nnarslÃ¶v
 					5,0 km/5,0 km	3 min 45 s/3 min 45 s
 Parkeringsplats (ej skyltad)
 (Bussinfart)
-T-korsning (lokal väg)
- Axeltorps Vårdhem
+T-korsning (lokal vÃ¤g)
+ Axeltorps VÃ¥rdhem
 
-Dubbel T-korsning Everöd V
- Ö Sönnarslöv
- Everöd, Toalett
+Dubbel T-korsning EverÃ¶d V
+ Ã– SÃ¶nnarslÃ¶v
+ EverÃ¶d, Toalett
  Bensinstation: Q-star
 					0,9 km/1,0 km	41 s/45 s
 Trafikkontrollplats
 					1,6 km/1,4 km	1 min 12 s/1 min 3 s
 T-korsning Kristianstad Flygpl.
- Kristianstad Österlen Airport
+ Kristianstad Ã–sterlen Airport
 					0,8 km/0,8 km	36 s/36 s
-T-korsning Lyngsjö S
+T-korsning LyngsjÃ¶ S
  Hommentorp
 					0,6 km/0,6 km	27 s/27 s
-Korsning Lyngsjö
- Köpinge, Lyngsjö
- Lyngsjö kyrka
+Korsning LyngsjÃ¶
+ KÃ¶pinge, LyngsjÃ¶
+ LyngsjÃ¶ kyrka
 					1,3 km/1,3 km	59 s/59 s
-(Bro över Vramsån)
+(Bro Ã¶ver VramsÃ¥n)
 
-T-korsning Nöbbelöv Stärkan
+T-korsning NÃ¶bbelÃ¶v StÃ¤rkan
  Lyckeby Starch AB
 					0,6 km/0,6 km	27 s/27 s
-T-korsning Nöbbelöv S
- Tollarp, Ö Vram
+T-korsning NÃ¶bbelÃ¶v S
+ Tollarp, Ã– Vram
  Gasolkungen, Timber Trading
 					0.7 km/0.7 km	28 s/28 s
-Korsning Tings Nöbbelöv
- Åhus, Gärds Köpinge
- Träne, (Nöbbelöv)
- Samåkningsparkering
+Korsning Tings NÃ¶bbelÃ¶v
+ Ã…hus, GÃ¤rds KÃ¶pinge
+ TrÃ¤ne, (NÃ¶bbelÃ¶v)
+ SamÃ¥kningsparkering
 					0.6 km/0.7 km	24 s/28 s
 Korsning Rv 19/Adamsbergsv.
- Enskild väg
+ Enskild vÃ¤g
 					0.5 km/0.4 km	20 s/16 s
 Korsning Rambro
  Mosslunda
 					4.0 km/4.7 km	2 min 40 s/3 min 8 s
-Trp Nöbbelöv (35)
- E22 s: Malmö, Hörby
+Trp NÃ¶bbelÃ¶v (35)
+ E22 s: MalmÃ¶, HÃ¶rby
 
-Trafikplats Vä (36)
- Norra Åsum
- Vä
+Etapp 5: NÃ¶bbelÃ¶v - HÃ¤rlÃ¶v ()
+
+Trafikplats VÃ¤ (36)
+ Norra Ã…sum
+ VÃ¤
 					2.2 km/2.3 km	1 min 28 s/1 min 32 s
-Trp Härlöv-syd (37)
+Trp HÃ¤rlÃ¶v-syd (37)
  E22 n: Kalmar, Kristianstad C
 
-Trp Härlöv-nord
- 21: Helsingborg, Hässleholm
+Etapp 6: HÃ¤rlÃ¶v - BjÃ¤rlÃ¶v ()
 
-Rondell Härlöv Köpcenter V
-Dubbel T-korsning (lokal väg)
+Trp HÃ¤rlÃ¶v-nord
+ 21: Helsingborg, HÃ¤ssleholm
 
-(T-korsning Rv 19/Sidoväg)
- Lokal väg
+Rondell HÃ¤rlÃ¶v KÃ¶pcenter V
+
+Dubbel T-korsning (lokal vÃ¤g)
+ HÃ¤rlÃ¶v KÃ¶pcenter V, Ej skyltad
+
+(T-korsning Rv 19/SidovÃ¤g)
+ Lokal vÃ¤g, ej skyltad
 
 T-korsning Karpalund S
- Isgrannatorp (endast skyltad nordgående)
+ Isgrannatorp (endast skyltad nordgÃ¥ende)
 
-T-korsning Karpalund N
- Isgrannatorp (endast skyltad sydgående)
-Korsning Lagerhusföreningen
- Kristianstad Företagsförening, Lokal väg
+(T-korsning Karpalund N
+ Isgrannatorp (endast skyltad sydgÃ¥ende)
+Korsning LagerhusfÃ¶reningen
+ Kristianstad FÃ¶retagsfÃ¶rening, Lokal vÃ¤g
 					/)
-Järnvägsviadukt)
- Skånebanan
+JÃ¤rnvÃ¤gsviadukt)
+ SkÃ¥nebanan
 
-(Bro över
-(Dubbel) T-korsning Lelles Återvinning
- Lokal(a) väg(ar)
+(Bro Ã¶ver)
+T-korsning Kristianstads Biogas
+ BiogasanlÃ¤ggning, Lokal vÃ¤g
+
+(Lelles Ã…tervinning)
 
 (Damshopen i Karpalund)
-T-korsning Rv 19/Gyllingvägen
- Karpalundsdammarna, Lokal väg
+T-korsning Rv 19/GyllingvÃ¤gen
+ Karpalundsdammarna, Lokal vÃ¤g
 
-(T-korsning Rv 19/Vaktelvägen)
- Lokal väg
+(T-korsning Rv 19/VaktelvÃ¤gen)
+ Lokal vÃ¤g
 
-Korsning Rv 19/Araslövsvägen
- Aralövs gård, Lokal väg
+Korsning Rv 19/AraslÃ¶vsvÃ¤gen
+ AralÃ¶vs gÃ¥rd, Lokal vÃ¤g
 
-(Dubbel) T-korsning Vinnö N
- Lokal väg, (Enskild väg)
+(Dubbel) T-korsning VinnÃ¶ N (lokal vÃ¤g/(enskild vÃ¤g))
+ AraslÃ¶v Golf & Resort
+ Wrangelsdal
 
-Korsning Färlöv Ö/kyrka
+Korsning FÃ¤rlÃ¶v Ã–/kyrka
  Torsebo
- Önnestad, Färlövs kyrka
+ Ã–nnestad, FÃ¤rlÃ¶vs kyrka
 Bensinstation: Din-X
 
-(T-korsning Färlövs skola)
- Färlövs skola, Lokal väg
+(T-korsning FÃ¤rlÃ¶vs skola (lokal vÃ¤g))
+ FÃ¤rlÃ¶vs skola, Ej skyltad
 
-(T-korsning (lokal väg)): (56.0770192, 14.0830335)
+T-korsning Alde International (lokal vÃ¤g): (56.0770192, 14.0830335)
  Alde International
 
-T-korsning Färlöv N
- N Strö
+T-korsning FÃ¤rlÃ¶v N
+ N StrÃ¶
 
-T-korsning
+T-korsning BjÃ¤rlÃ¶v S
 					(/
-Rondell Bjärlöv S
- 118: Åhus, Kristianstad
- Bjärlöv
+(Rondell BjÃ¤rlÃ¶v S
+ 118: Ã…hus, Kristianstad
+ BjÃ¤rlÃ¶v
 
-Korsning Bjärlöv N
- Fridarp, Idrottsplats (enskild väg)
- Övarp, Bjärlöv
+Korsning BjÃ¤rlÃ¶v N
+ Fridarp, Idrottsplats (enskild vÃ¤g)
+ Ã–varp, BjÃ¤rlÃ¶v
 
-(f.d. Järnvägsviadukt)
+(f.d. JÃ¤rnvÃ¤gsviadukt)
 
-T-korsning Rv 19/Ballingstorpsv. (enskild väg)
- Ballingstorp (sevärdhet)
- Br Björklunds Grus
- Byggnadsvårdsbutik, Naturstenskompaniet
+T-korsning Rv 19/Ballingstorpsv. (enskild vÃ¤g)
+ Ballingstorp (sevÃ¤rdhet)
+ Br BjÃ¶rklunds Grus
+ ByggnadsvÃ¥rdsbutik, Naturstenskompaniet
 
-(Korsning Bössebacken)
- Lokal väg, ej skyltad
+(Korsning BÃ¶ssebacken)
+ Lokal vÃ¤g, ej skyltad
 
-T-korsning (enskild väg)
- Hanaskogs Slott, Gård
+T-korsning (enskild vÃ¤g)
+ Hanaskogs Slott, GÃ¥rd
 
-T-korsning Rv 19/Radhusvägen
- Brukshundklubb, Lokal väg
+T-korsning Rv 19/RadhusvÃ¤gen
+ Brukshundklubb, Lokal vÃ¤g
 
 T-korsning Hanaskog S
- Gumlösa, Centrum
+ GumlÃ¶sa, Centrum
  Tarkett
 
 T-korsning Hanaskog N
  Kviinge kyrka, Tarkett
 
-Bro över Almaån
+Bro Ã¶ver AlmaÃ¥n
 
 Korsning Knislinge S
- Näsum, Sibbhult, Knislinge C
- Hässleholm, Wanås slott
- Industri: Södra
+ NÃ¤sum, Sibbhult, Knislinge C
+ HÃ¤ssleholm, WanÃ¥s slott
+ Industri: SÃ¶dra
 
-T-korsning Rv 19/Brobyvägen
- Näsum, Hjärsås, Centrum
- Hässleholm, Wanås slott
- Café, Rum & Frukost
-(T-korsning Rv 19/Stationsvägen)
- Lokal väg, ej skyltad
+T-korsning Rv 19/BrobyvÃ¤gen
+ NÃ¤sum, HjÃ¤rsÃ¥s, Centrum
+ HÃ¤ssleholm, WanÃ¥s slott
+ CafÃ©, Rum & Frukost
+T-korsning Rv 19/StationsvÃ¤gen
+ Industri: Norra, Lokal vÃ¤g
 
-Korsning Ö. Göinge Golfklubb (lokal väg)
- Ö. Göinge Golfklubb, Cafe Haack
+Korsning Ã–. GÃ¶inge Golfklubb (lokal vÃ¤g)
+ Ã–. GÃ¶inge Golfklubb, Cafe Haack
 
-T-korsning
+T-korsning Olinge
  Gryt
 
 Rastplats Anilla
 
-Parkeringsplats
-(främst för nordgående)
+Parkeringsplats (Ã¶stra sidan)
+(endast skyltad nordgÃ¥ende)
 
-Korsning Kraftstationen (enskild väg)
- Lerkärlet Krukmakeri
+Korsning Kraftstationen (enskild vÃ¤g)
+ LerkÃ¤rlet Krukmakeri
 
-T-korsning Nöbbelöv
- Glimåkra, Broby S
+T-korsning NÃ¶bbelÃ¶v
+ GlimÃ¥kra, Broby S
 
-T-korsning (lokal väg): 56.2389852,14.0725166
- Plåtslageri
-(Mitträcke börjar/upphör)
+T-korsning (lokal vÃ¤g): 56.2389852,14.0725166
+ PlÃ¥tslageri
+(MittrÃ¤cke bÃ¶rjar/upphÃ¶r)
 
 Rondell Broby SV
- 119 : Tingsryd, Lönsboda, Glimåkra
- 119 : Hässleholm
+ 119 : Tingsryd, LÃ¶nsboda, GlimÃ¥kra
+ 119 : HÃ¤ssleholm
  Industri: Broby, Bastholmen
 
 Korsning Broby NV
  Broby N
- Tydinge, Tydingesjön (Badplats mm)
+ Tydinge, TydingesjÃ¶n (Badplats mm)
 
-(T-korsning
+(T-korsning (enskild vÃ¤g))
+ Tydligast nordgÃ¥ende
 
-(T-korsning
+(T-korsning (enskild vÃ¤g))
+ Ej skyltad
 
 Korsning Glimminge Rv 19
  Njura, Glimminge
- Hästveda
+ HÃ¤stveda
 
-Trafikplats Östanå
- 23 n: Växjö, Älmhult, Osby
- 23 s: Malmö, Hässleholm
+Trafikplats Ã–stanÃ¥
+ 23 n: VÃ¤xjÃ¶, Ã„lmhult, Osby
+ 23 s: MalmÃ¶, HÃ¤ssleholm

@@ -1,109 +1,155 @@
-Etapp 1: VÂrgÂrda - Bergag‰rde (16,8 km/16,7 km)
+Etapp 1: V√•rg√•rda - Herrljunga (16,8 km/16,7 km)
 
-T-korsning VÂrgÂrda N
- E20 s: Gˆteborg, AlingsÂs
+(Trp V√•rg√•rda N)
+
+(Dubbel T-korsning V√•rg√•rda Rasta)
+ V√•rg√•rda Centrum
+ Rensvist (enskild v√§g)
+ Bensinstation: OKQ8
+ Restaurang: RASTA
+
+T-korsning V√•rg√•rda N
+ E20 s: G√∂teborg, Alings√•s
  E20 n: Stockolm, Skara
-Korsning VÂrgÂrda Rasta
- VÂrgÂrda Centrum
+Korsning V√•rg√•rda Rasta
+ V√•rg√•rda Centrum
+ Rensvist (enskild v√§g)
  Bensinstation: OKQ8
  Restaurang: RASTA
 					1.1 km/1.0 km	57 s/51 s
-Korsning Tumbergsv‰gen
- Eggvena
+Korsning Tumbergsv√§gen
+ Tumberg
 					2.3 km/2.3 km	1 min 58 s/1 min 58 s
-T-korsning ≈tervinningscentral
+T-korsning √Ötervinningscentral (lokal v√§g)
+ √Ötervinningscentral
 
-Korsning (enskild v‰g)
- Bergt‰kt
+Korsning (enskild v√§g)
+(endast f√∂rskyltad v√§stg√•ende)
+ Bergt√§kt
 
-VÂrgÂrda / Herrljunga
+V√•rg√•rda / Herrljunga: (58.0467457,12.8691688)
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
-T-korsning BrÂttensby S
+T-korsning Br√•ttensby S
  Landa
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-T-korsning BrÂttensby kyrka
+T-korsning Br√•ttensby kyrka
+ Br√•ttensby k:a
 
-T-korsning BrÂttensby skola
+T-korsning Br√•ttensby skola
  Eggvena
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
-T-korsning Remmene
- Remmene kyrka
+(T-korsning Remmenedal (enskild v√§g))
+ K√•rag√•rden, Stenhuggeri
 
-T-korsning Larstorp
- Fˆlene
+T-korsning Remmene
+ Tokatorp (enskild v√§g)
+ Remmene k:a, Remmene sportf√§lt
+
+T-korsning (enskild v√§g)
+ Idrottsplats
+
+Korsning Larstorp
+ F√∂lene
+ Gravf√§lt, Bygdeg√•rd
 					3.6 km/3.8 km	3 min 5 s/3 min 15 s
-Infoplats (ˆstgÂende)
+Infopunkt (√∂stg√•ende): (58.0750369,13.0010304)
+
+(Herrljunga Vandrarhem)
 
 T-korsning Herrljunga viadukt
- Bitterna
-T-korsning 181/G:a AlingsÂsv‰gen
+ S. H√§rene, Industri: Kartholmen, √ñlltorp
+ Str√§ngbetong, Reningsverk, Pendelparkering
+T-korsning Rv 181/G:a Alings√•sv√§gen (lokal v√§g)
  Bensinstation: Preem
-(J‰rnv‰gsviadukt)
- V‰stra Stambanan
+(J√§rnv√§gsviadukt)
+ V√§stra Stambanan
 
-T-korsning 181/Storgatan
- Centrum, Vedum
- Herrljunga station
+Etapp 2: Herrljunga - Bergag√§rde ()
+
+T-korsning Lv 181/Storgatan
+ Centrum, Herrljunga station
+ Restaurang: J√§rnv√§gens Grill Herrljunga, Pars Caf√© m.fl.
+ Hotell: Herrljunga hotell och konferens (Gyllene K√§rven)
 Bensinstation: Paroy
+T-korsning Lv 181/Horsbyv. (lokal v√§g)
+ Industri: Altorp, V√•rdcentral, Apotek
 					1.4 km/1.2 km	1 min 41 s/1 min 26 s
-Rondell Sportcenter
- Herrljunga idrotts- och simhall
+Rondell Sportcenter (lokal v√§g)
+ Herrljunga sim- och idrottshall
 
-J‰rnv‰gsviadukt
- ƒlvsborgsbanan
+(T-korsning Lv 181/Horsbyv√§gen)
+ Lokal v√§g
+
+J√§rnv√§gsviadukt
+ √Ñlvsborgsbanan
 					0.6 km/0.6 km	43 s/43 s
+T-korsning Lv 181/Skogh√§llag. (lokal v√§g)
+ Folkets Park, Idrottsplats, Tennisklubb
+
 T-korsning Herrljunga S
- Centrum
+ Vedum, Centrum
 					1.9 km/1.9 km	1 min 38 s/1 min 38 s
-Infoplats (v‰stgÂende)
+Infopunkt (v√§stg√•ende): (58.0711559,13.0417168)
 
-T-korsning Bergag‰rde
- 183: BorÂs, Ljung
+T-korsning (enskild v√§g)
+ Orraholmen
 
-Etapp 2: Bergag‰rde - Gˆkhem ()
+T-korsning Bergag√§rde
+ 183: Bor√•s, (Ljung)
+
+Etapp 3: Bergag√§rde - G√∂khem ()
 					2.5 km/2.6 km	1 min 53 s/1 min 57 s
-T-korsning Ljungholmen
+Bro √∂ver Nossan)
+					/)
+Dubbel T-korsning Stenunga
  Annelund, Hudene
-T-korsning Stenunga
- Herrljunga
+ Herrljunga GK, Trollabo Kvarn Mat & M√∂ten
+ Vedum
 					2.6 km/2.5 km	1 min 57 s/1 min 53 s
-Korsning 181/Glasbruksv‰gen
- FÂglavik
+Korsning Lv 181/Glasbruksv√§gen (H√∂k√•sen)
+ F√•glavik
 					4.5 km/4.5 km	3 min 23 s/3 min 23 s
-T-korsning (lokalt mÂl)
- LillPuttLand
+T-korsning (enskild v√§g)
+ Nol√•sen, LillPuttLand
 
-Korsning
- K‰llunga K:a, Kulelida
- K‰llunga, Missionskyrka
+Korsning F√§ders√•sen
+ K√§llunga K:a, Kulelida
+ K√§lleryd, Missionskyrka (enskild v√§g)
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-Korsning K‰lleryd ÷
- Enskild v‰g
+Korsning K√§lleryd √ñ (enskild v√§g)
+ K√§lleryd
 
-Herrljunga / Falkˆping
+Herrljunga / Falk√∂ping: (58.1160516,13.2148289)
 					4.1 km/4.1 km	3 min 5 s/3 min 5 s
-T-korsning Brandstorp
- H‰llestad
+Korsning Snipebo
+ Bor√•s, Annelund, (H√§llestad)
+ V√§la (enskild v√§g)
+(Bro √∂ver Lidan)
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
 Dubbel T-korsning Floby S
- Floby
- Floby kyrka
+ Floby, Arboretum (sev√§rdhet)
+ J√§la, Floby kyrka, Antikvariat
+ Bensinstation: Q-star
+ Restaurang: NamChai ThaiFood
 					0.9 km/0.9 km	0 min 41 s/0 min 41 s
-T-korsning V‰stmesstorp
- Kinnarp, Gˆteve
+T-korsning V√§stmestorp
+ Slutarp, G√∂teve
 					0.5 km/0.5 km	0 min 23 s/0 min 23 s
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Sˆrby S
- Floby, Sˆrby
+T-korsning S√∂rby S
+ Floby √ñ, S√∂rby k:a
 					1.3 km/1.3 km	0 min 59 s/0 min 59 s
-J‰rnv‰gsviadukt
- V‰stra Stambanan
+J√§rnv√§gsviadukt
+ V√§stra Stambanan
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
+(Parkeringsplats (grus, norra sidan))
+
 T-korsning Lexberg
- Remmen
+ Torpa
 					0.9 km/1.1 km	0 min 41 s/0 min 50 s
-T-korsning Gˆkhem korsv‰g
+T-korsning G√∂khem korsv√§g
  Odensberg
-Korsning Gˆkhem korsv‰g
- 47 ˆ: Jˆnkˆping, Falkˆping
- 47 v: Trollh‰ttan, Vara
+Korsning G√∂khem korsv√§g
+ 47 √∂: J√∂nk√∂ping, Falk√∂ping
+ 47 v: Trollh√§ttan, Vara
+ Vilske-Kleva, Lyckans Loppis

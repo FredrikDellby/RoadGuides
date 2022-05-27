@@ -1,7 +1,7 @@
 Färdguide Rv 34 (Ålem - Motala)
 ================================
 
-Etapp 1: Ålem - 
+Etapp 1: Ålem - Mönsterås ()
 
 Korsning Ålem S
  E22 n: Norrköping, Oskarshamn
@@ -43,12 +43,14 @@ T-korsning Rv 34/Mönsteråsvägen
  Mönsterås
  Restaurang: Folkes Hus Pizzeria
 
-T-korsning Rv 34/Norbavägen
+Etapp 2: Mönsterås - Ruda ()
+
+T-korsning Rv 34/Norbavägen (lokal väg)
  Rastplats
 
 Indian Cook Art Blomstermåla
 
-Dubbel T-korsning Salthäll
+Dubbel T-korsning Salthäll (lokal väg)
  Företagarpark
  Långehäll vandringsled
 
@@ -63,9 +65,9 @@ Korsning Värlebo väg 34
  Fliseryd, Sibbetorp
  Hornsö, Värlebo
 
-Infopunkt: (57.0693189,16.1905666)
+Infopunkt (nordgående): (57.0693189,16.1905666)
 
-(T-korsning)
+T-korsning Rv 34/Sörbygatan (lokal väg)
  Idrottsplats
 
 T-korsning Långemåla väg 34
@@ -80,18 +82,21 @@ Korsning Ruda idrottsplats
 T-korsning Rv 34/Oskarshamnsv.
  Oskarshamn, Mönsterås, Fliseryd
 
+Etapp 3: Ruda - Högsby ()
+
 T-korsning Rv 34/Fader Uddes väg
- Industri
+ Industri, Lokal väg
 Järnvägskorsning
  Stångådalsbanan
-T-korsning Rv 34/Järnvägsgatan
+T-korsning Rv 34/Järnvägsgatan (lokal väg)
  Folkets Hus, Hantverk
 (T-korsning Rv 34/Andrées väg)
- Almasri group
+ Almasri group, Lokal väg
 
 Matbutik: Handlarn
 Bensinstation: Q-star
 (T-korsning Rv 34/Smedvägen)
+ Lokal väg
 
 T-korsning Rv 34/Sinnerbov.
  Allgunnen, Aboda klint
@@ -100,12 +105,12 @@ T-korsning Rv 34/Sinnerbov.
 T-korsning Gatubäck (enskild väg)
  Gillberga, Infotavla
 
-T-korsning Staby gårdshotell
+T-korsning Staby gårdshotell (lokal väg)
  Hotell: Staby gårdshotell
 Dubbel T-korsning Staby
  Allgunnen, Aboda klint
 
-T-korsning Rv 34/Skansvägen
+T-korsning Rv 34/Skansvägen (lokal väg)
  Deponeringsanläggning
 (Bro över Emån)
 
@@ -113,31 +118,30 @@ Rondell Tingebro
  Köpcentrum
  Centrum
 
-T-korsning Coop Högsby
+T-korsning Coop Högsby (lokal väg)
 	
 (Högsby biltvätt)
-T-korsning Rv 34/Karlavägen
+T-korsning Rv 34/Karlavägen (lokal väg)
  Högsby station
 
-(T-korsning Rv 34/Torggatan)
+(T-korsning Rv 34/Torggatan (lokal väg))
  ICA Nära, Systembolaget
-T-korsning Rv 34/Storgatan
+T-korsning Rv 34/Storgatan (lokal väg)
  Centrum (endast skyltad sydgående)
 Järnvägskorsning
  Stångådalsbanan
 
-T-korsning Rv 34/Dr. Mobergers väg
+T-korsning Rv 34/Dr. Mobergers väg (lokal väg)
  Vårdcentral, Folktandvård
-
-T-korsning Rv 34/Dr. Mobergers väg
- Vårdcentral
 
 Rondell Fröviskolan
  37 v: Växjö, Åseda
  Industri: Hanåsa Ö
  Bensinstation: Q-star
 
-T-korsning Rv 34/Maskingatan
+Etapp 4: Högsby - Glahytt ()
+
+T-korsning Rv 34/Maskingatan (lokal väg)
  Industri: Hanåsa V
 
 Korsning St. Hanåsa
@@ -150,6 +154,7 @@ T-korsning (enskild väg)
  Blankan, Drageryd, Valåkra
 
 Parkeringspunkt/Rastpunkt: (57.1982297,16.0141689)
+(östra sidan, främst för nordgående)
  Sevärdhet: Kyrkestenarna
 
 Järnvägsviadukt
@@ -171,7 +176,7 @@ Rondell Glahytt
  37-47 ö: Oskarshamn, Bockara
  Parkeringsplats: Samåkning
 
-Etapp: Glahytt - Målilla ()
+Etapp 5: Glahytt - Mosshult ()
 
 T-korsning (enskild väg)
 (endast skyltad nordgående)
@@ -203,6 +208,8 @@ Korsning (enskild väg)
 T-korsning Mosshult
  Kristdala
  Mörlunda
+
+Etapp 6: Mosshult - Målilla ()
 
 Järnvägsviadukt
  Industrispår
@@ -256,7 +263,7 @@ Rondell Målilla Rv 34
  Bensinstation: INGO, Preem
  Elbilsladdning: Virta
 
-Etapp: Målilla - Hultsfred ()
+Etapp 7: Målilla - Hultsfred ()
 
 T-korsning Hesjön (lokal väg)
  Hesjöns naturcamping
@@ -294,6 +301,8 @@ Rondell Hultsfred N
  Industri: Norra
  Hultsfred Strandcamping, Badplats
  129: Mariannelund
+
+Etapp 8: Hultsfred - Vimmerby ()
 
 Bro över Silverån
 
@@ -351,6 +360,8 @@ Rondell Vimmerby SV
  Astrid Lindgrens Värld
  Rastplats Åkebo
 
+Etapp 9: Vimmerby - Bränntorp ()
+
 Trp Vimmerby V
  Vimmerby N, Centrum, Rumskulla
  Astrid Lindgrens Värld
@@ -402,6 +413,8 @@ Korsning Bränntorp
  135: Gamleby, Horn
  Björkhult
 
+Etapp 10: Bränntorp - Kisa ()
+
 T-korsning Vadstugan
  Blomsfors
 
@@ -428,6 +441,8 @@ Rondell Kisa C (stn)
  Skidanläggning, station
  Hotel/Restaurang: Kisa Wärdshus & Hotell
 (Café Columbia)
+
+Etapp 11: Kisa - Rimforsa ()
 
 T-korsning Rv 34/Grönedegatan
  Ulrika
@@ -495,6 +510,8 @@ Rondell Rimforsa Rv 34
  Bensinstation: INGO
  Hotell/Restaurang: Kinda Motell
 
+Etapp 12: Rimforsa - Brokind ()
+
 Korsning (enskild väg)
 
 (T-korsning (enskild väg))
@@ -528,6 +545,8 @@ T-korsning Brokinds vägkors
  Bestorp, Brokind
  Stiftsgården Vårdnäs, Golf
 
+Etapp 13: Brokind - Skeda Udde ()
+
 Parkeringsplats/Rastplats
 (främst för nordgående)
 (Bro över Kinda Kanal)
@@ -559,8 +578,6 @@ Korsning Rosenborg
  Västerby, Arnebo
  Västerby Golfbana
 
-Etapp: Rosenborg - Trp Ryd
-
 T-korsning (enskild väg)
  Endast skyltad nordgående
 
@@ -573,6 +590,8 @@ T-korsning Karlsberg
 T-korsning Skeda Udde Rv 34
  Haraldsbo, Skeda Udde
  Lanthandel
+
+Etapp 14: Skeda Udde - Trp Ryd ()
 
 T-korsning Mutebo norrgård
  Haraldsbo, Skeda Udde
@@ -630,7 +649,7 @@ Trp Ryd (Rondell)
  Bensinstation: Circle-K
  Hotell/Restaurang: Scandic Linköping Väst
 
-Etapp: Trp Ryd - Trp Linköping Västra
+Etapp 15: Trp Ryd - Trp Linköping Västra
 
 Trafikplats Ryd
 (sydgående riktning)
@@ -656,6 +675,8 @@ Trp Linköping Västra-syd
 Trp Linköping Västra-nord
  E4 s: Helsingborg, Mjölby
 
+Etapp 16: Linköping Västra - Stora Sjögestad ()
+
 Bro över Svartån
 
 Trp Ljungsbro
@@ -667,6 +688,8 @@ påfart sydgående riktning)
 Trp Stora Sjögestad
  Ljungsbro
  Fornåsa
+
+Etapp 17: Stora Sjögestad - Borensberg ()
 
 Parkeringsplats (nordgående)
 Korsning (ej skyltad)
@@ -717,6 +740,8 @@ Trp Borensberg
  Borensberg N, Centrum
  Göta Kanal (sevärdhet)
  Camping, Badplats, Vandrarhem
+
+Etapp 18: Borensberg - Motala ()
 
 T-korsning Borensberg NV
  Vänneberga
@@ -772,3 +797,24 @@ Korsning Motala NÖ
  Centrum, Y-Ring
  Borenshult, Motala Verkstad
  Göta Kanal, Slussar (sevärdhet)
+T-korsning Rv 34/Turbinvägen (enskild väg)
+ Industri: Bergsätter
+ Bilprovning, Granngården
+
+Etapp 19: Genom Norra Motala ()
+
+Rondell
+
+Rondell
+
+Rondell Bråstorp västra
+
+Korsning Rv 34/Medevivägen (lokal väg)
+ Industri: Torvsätter, Ridhus
+ Industri: Dysätter V, Luxor omr.
+ Carlslund Utbildningscentrum
+				(/
+(Trp Motala Norra
+ 50 n: Örebro, Askersund
+ 50 s: Jönköping, Mjölby, Y-Ring
+ Industri: Varamon, Varamobadet
