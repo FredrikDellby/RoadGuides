@@ -102,49 +102,87 @@ Dubbel T-korsning Skatofta
  Skarstad
  Vara
 
-Trafikplats Åsen
+Trp Åsen-väst
  E20 s: Göteborg, Alingsås
+
+Trp Åsen-öst
  E20 n: Stockholm, Skara
+ Åsen Sommarmöbler & Fritid
+ Bensinstation: Q-star
 					2.8 km/2.6 km	2 min 6 s/1 min 57 s
+(Ströms Bil i Vara)
+
 Korsning St. Algutstorp
- Tråvad
+ Gammal-Tråvad
 					0.6 km/0.6 km	27 s/27 s
 T-korsning
  Larv
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+Bro över Lidan
+
+T-korsning Tråvad östra (Rv 47/Ågatan)
+ Lanthandel, Lokal väg
+
 Korsning Tråvad södra
- Larv, Rangeltorp
- Kvänum, Tråvad
+ Larv, Tråvad kyrka
+ Tråvad, Bjertorp
+ Bilkompaniet, B&B
+ Tråvad industri, info
+ Bjertorp Slott (Hotell & Restaurang)
+ Vara-Bjertorp Golfklubb
 					5.6 km/5.6 km	4 min 12 s/4 min 12 s
-Korsning Borga västra
- Larv
- Kvänum, Edsvära
+Korsning Knutskvarn
+ Vedum, Larv
+ Kvänum, Edsvära, Benders
 					1.2 km/1.2 km	54 s/54 s
-T-korsning Borga östra
- Skara, Ardala
+Dubbel T-korsning Algutstorp
+ Lidaforsgården, Café McDragan's (enskild väg)
+ Skara, N. Vånga
 					7.0 km/7.0 km	5 min 15 s/5 min 15 s
-T-korsning
- N Vånga, Ardala
+(Edsvärabanan)
+
+Parkeringsplats (östgående)
+Infoplats Femöringen (norra sidan)
+(endast skyltad västgående)
+
+T-korsning Brunnebergshed
+ Vånga, (Ardala)
 					0.4 km/0.4 km	18 s/18 s
-Vara / Falköping
+Vara / Falköping: (58.2021222,13.311387)
 					2.6 km/2.8 km	1 min 57 s/2 min 6 s
 Dubbel T-korsning Ullene Rv 47
  Bjurum
  Floby
 					3.7 km/3.6 km	2 min 47 s/2 min 42 s
+T-korsning (lokal väg)
+ Bergtäkt
+
 T-korsning Gökhem K:a
- Floby, Sörby
- Gökhem K:a
+ Torpa
+ Gökhem, Gökhems k:a (sevärdhet)
 					1.1 km/1.1 km	50 s/50 s
 Korsning Gökhem korsväg
- 181: Vårgårda, Herrljunga
+ 181: Vårgårda, Herrljunga, Floby
  Vilske-Kleva
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
+(Korsning (enskild väg))
+ Ej skyltad, asfalterad
+
+T-korsning (enskild väg)
+ Bergsjön, IKW Bergstugan
+
 T-korsning
  Odensberg
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
-T-korsning Marka
- Falköping V, Marka
+(Korsning Marka kyrka (enskild väg))
+ Knektegården
+ Marka
+
+T-korsning Marka Ö
+ Falköping V
+ Mösseberg Camping & Stugby, Falköping Alpin
+ Sjukhus, Falbygdens ost
+ Kurorten Mösseberg
 					0.5 km/0.5 km	26 s/26 s
 Järnvägsviadukt
  Västra Stambanan

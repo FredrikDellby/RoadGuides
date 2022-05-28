@@ -4,41 +4,60 @@ Färdguide Rv 9 (Trelleborg -
 Etapp 1: Trelleborg - Smygehuk (15,0 km/15,1 km)
 
 T-korsning Hamnen V
- Färja: (E22) Sassnitz, Rostock,
- 	Travemünde, Swinoujscie
- E6-E22: Malmö, Vellinge
+ Färja-(E22 s): Travemünde, Sassnitz,
+ 		Rostock, Swinoujscie
+ E6-E22 n: Malmö, Vellinge
+ Industri: S. Ind. omr.
 					0.7 km/0.6 km	50 s/43 s
+T-korsning Rv 9/Östersjögatan (lokal väg)
+ Ej skyltad
+
 T-korsning Rv 9/Lv 108
- 108: Svedala
+ 108: Lund, Svedala
+ Centrum, Sjukhus, Sjöfartsmuseum
 					0.3 km/0.4 km	22 s/29 s
-Korsning 9/Hansagatan
- Centrum
+Korsning Rv 9/Klostergränden (lokal väg)
+Bensinstation: Shell
+
+Korsning Rv 9/Hansagatan (lokal väg)
+ Centrum, Sjukhus, Idrottsplats
 					0.4 km/0.4 km	29 s/29 s
-Korsning 9/Kontinentgatan
- Centrum
-					0.8 km/1.0 km	0 min 58 s/1 min 12 s
-T-korsning 9/Glasbruksv.
+Korsning Rv 9/Fyrmästareg. (lokal väg)
+ Passagerarterminal (endast östgående)
+(Parkering Rådhuset)
+
+Korsning Rv 9/Kontinentgatan
+ Parkering Järnvägsstationen
+ Centrum, Info
+					0.8 km/1.0 km	0 min 58 s/1 min 12 s'
+T-korsning Rv 9/Johan Kocksg.
+ Lokal väg, ej skyltad
+
+T-korsning Rv 9/Glasbruksv.
+ Industri: Trelleborg Ind. AB
+ Flint Group, Sjukhus
 					0.8 km/0.8 km	58 s/58 s
-Rondell 9/Ö. Ringvägen
- Beddinge, Gislöv
+Rondell Rv 9/Ö. Ringvägen
+ Anderslöv
 					0.4 km/0.3 km	21 s/15 s
 Järnvägsbro
  Kontinentalbanan
 					1.1 km/1.1 km	57 s/57 s
-Korsning
- Östra Industriområdet
- Gislövs Läge
+Korsning Ö. Industriområdet
+ Industri: Östra
+ Trelleborg Strand Camping, Dalabadet
 					2.2 km/2.2 km	1 min 53 s/1 min 53 s
 Korsning Gislövs Läge V
- Gislövs Läge
+ Gislövs Läge, Nybostrand
  Gislöv
+ Idala Gård 
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
 T-korsning Gislövs Läge Ö
  Gislövs Läge
 					0.4 km/0.4 km	24 s/24 s
 T-korsning
  Gislöv
-					0.5 km/0.5 km	30 s/30 s
+			s		0.5 km/0.5 km	30 s/30 s
 Korsning Simremarken V
  Anderslöv, Simlinge
 					0.8 km/0.8 km	48 s/48 s
