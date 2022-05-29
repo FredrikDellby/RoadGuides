@@ -171,14 +171,14 @@ Korsning Gökhem korsväg
 T-korsning (enskild väg)
  Bergsjön, IKW Bergstugan
 
-T-korsning
+T-korsning Marka V
  Odensberg
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
 (Korsning Marka kyrka (enskild väg))
  Knektegården
  Marka
 
-T-korsning Marka Ö
+T-korsning Skyberg
  Falköping V
  Mösseberg Camping & Stugby, Falköping Alpin
  Sjukhus, Falbygdens ost
@@ -187,63 +187,85 @@ T-korsning Marka Ö
 Järnvägsviadukt
  Västra Stambanan
 					2.8 km/3.0 km	2 min 24 s/2 min 34 s
-T-korsning Falköping S
- Grolanda
+T-korsning (enskild väg)
+ Redberga, Konstgården
+
+T-korsning Rv 47/Mossvägen (lokal väg)
+ Industri: Falevi, Avfallsanläggning
+
+T-korsning
+ Jäla
 (Järnvägsbro)
  Jönköpingsbanan
 					0.8 km/0.9 km	41 s/46 s
 Rondell Falköping SO
- 46 s: Ulricehamn, Kinnarp
- Falköping Centrum
+ 46 s: Ulricehamn, (Kinnarp)
+ Falköping S, Centrum
 					1.4 km/1.6 km	1 min 12 s/1 min 22 s
-Tankställe Falköping Ö
-Restaurang: McDonald's
-Bensinstation: Shell
-Rondell Falköping Ö
+Servicecenter Falköping Ö
+ Bensinstation: Preem
+ Restaurang: McDonald's
+ Hotell/Restaurang: RASTA
+					(/
+(Rondell Falköping Ö
  46 n: Skövde, Stenstorp
  Falköping Centrum
+ Mösseberg Camping & Stugby
 					4.4 km/4.2 km	3 min 18 s/3 min 9 s
+Korsning Agnestad (enskild väg)
+ Agnestad
+ Vikens Egendom, Nötcenter Viken
+
+T-korsning Ålleberg (enskild väg)
+ Synnerål, Ålleberg (sevärdhet)
+
 Korsning Leaby
  Vartofta
- Torbjörntorp, Karleby
+ Karleby
+ Uddagården, Motorstadion
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 Korsning Klövhålan
- Åsle
+ Åsle, Ekomuseum Åsle Tå (sevärdhet)
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
+Korsning Falekvarna (enskild väg)
+ Enåsen, Ekomuseum Kvarnmiljö
+
 T-korsning Nätered
  193: Hjo, Tidaholm
 					1.3 km/1.3 km	59 s/59 s
 Korsning
- Skörstorp
+ Skörstorp, Orreholmens Kungsgård
 					0.5 km/0.5 km	23 s/23 s
-T-korsning
- Vartofta gård
+T-korsning Stenbrottet
+ Björstorp
 					2.3 km/2.3 km	1 min 43 s/1 min 43 s
-Korsning Kälvene RV 47
- Åsarp, Vartofta
+Korsning Kälvene Rv 47
+ Vartofta
+ Skattegården (enskild väg)
 					0.8 km/0.8 km	36 s/36 s
-Korsning Sotagården
- Kättilstorp
+T-korsning Sotagården
+ Kättilstorp, Näs k:a
+ Gyllensvaans Möbler
 					0.9 km/0.9 km	41 s/41 s
-Falköping / Tidaholm
+Falköping / Tidaholm: (58.088212,13.7453502)
 					0.7 km/0.7 km	31 s/31 s
 Korsning
  Kättilstorp
 					0.8 km/0.8 km	36 s/36 s
 T-korsning Kymbo V
- Kymbo K:a
+ Ej skyltad
 					0.6 km/0.6 km	27 s/27 s
 T-korsning Kymbo K:a
- Kymbo K:a
+ Kymbo
 					1.1 km/1.1 km	50 s/50 s
-T-korsning Kymbo S
- Hångsdala
+T-korsning Svenstorp
+ Folkabo
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Eket N
- Utvängstorp
+T-korsning Spakegården
+ Skarpemon
 					1.2 km/1.2 km	54 s/54 s
 T-korsning Eket
- Kättilstorp
+ Badene
 					0.5 km/0.5 km	23 s/23 s
 Västra Götaland / Jönköping
 Tidaholm / Mullsjö
