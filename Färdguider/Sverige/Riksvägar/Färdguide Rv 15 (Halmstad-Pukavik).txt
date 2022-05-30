@@ -1,4 +1,4 @@
-F�rdguie Rv 15 (Halmstad - Pukavik)
+Färdguie Rv 15 (Halmstad - Pukavik)
 ====================================
 
 Etapp 1: Halmstad - Tj�rby (15,6 km/15,4 km)
@@ -138,7 +138,8 @@ T-korsning (lokal väg)
  Högaholma
  Putsered
 
-Halland / Kronoberg
+(Infopunkt (västgående))
+Halland / Kronoberg: (56.4940296,13.4544907)
 Laholm / Markaryd
 					5,2 km/5,3 km	3 min 54 s/3 min 59 s
 T-korsning (enskild väg)
@@ -149,103 +150,224 @@ Korsning Koddeböke
  Vivljunga, Råstorp
  Gränsbygdens Köpcentrum
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-T-korsning �mot
+T-korsning Åmot
+ Tuthult
 					0,6 km/0,6 km	27 s/27 s
-T-korsning
- R�storp
+T-korsning (lokal väg)
+ Furuviken
+					/)
+T-korsning (enskild väg)
+ Hannabad (sevärdhet), Kanotcentral
+					(/
+T-korsning Rv 15/Råstorpsv.
+ Örnafälla
+(Bro över Lillån)
 					0,5 km/0,5 km	23 s/23 s
-T-korsning Markaryd NV
- Markaryd
-(J�rnv�gsviadukt)
- Halmstad-H�ssleholm
+(Dubbel) T-korsning Markaryd NV
+ Lokal väg (ej skyltad)
+ Markaryds k:a
+(Järnvägsviadukt)
+ Halmstad-Hässleholm
 					0,9 km/0,9 km	41 s/41 s
-T-korsning
+Dubbel T-korsning (lokal väg)
+ Reningsverk
+ ScandiFront
+
+T-korsning Tunaberg
+ Tannsjö, Tånneryd
 					1,0 km/1,1 km	45 s/50 s
-J�rnv�gskorsning
+Dubbel T-korsning (lokal väg)
+ Timsfors Bil & Traktortjänst
+ Industri: Anderslöv
+
+(Järnvägskorsning)
  Markaryd-Traryd
 Rondell Markaryd N
- Markaryd
+ Markaryd Centrum
+ Timsfors
+ Sjötorpets Camping, Jetesjöns badplats
 					1,7 km/2,0 km	1 min 17 s/1 min 43 s
-Rondell
-Trp Markaryd Norra
+Rondell (lokal väg)
+ Fjärholma, Älgsafari
+					(/
+(Trp Markaryd Norra
  E4 s: Helsingborg, �rkelljunga
  E4 n: Stockholm, Ljungby
  [117]: H�ssleholm, Vittsj�
 
 Etapp 4: Markaryd - Osby (27,9 km/27,8 km)
 					2,0 km/1,6 km	1 min 30 s/1 min 12 s
-T-korsning
+Infoplats (västgående): (56.4647058,13.6427552)
 
-Markaryd / �lmhult
+T-korsning Fjärholma
+ Vesljunga, Älg-safari, Växtia
+
+T-korsning (enskild väg)
+ Ekhult, Vekaboda
+
+Markaryd / Älmhult: (56.4544923,13.7139825)
 
 Dubbel T-korsning
+ Kornberga Utj (enskild väg)
  Hallaryd
 
-Kronoberg / Sk�ne
-�lmhult / Osby
+T-korsning (enskild väg)
+ Fåglehult, Sännesholma
 
-Dubbel T-korsning
+Kronoberg / Skåne: (56.4408327,13.8368872)
+Älmhult / Osby
 
-Helge �
+Dubbel T-korsning Horsaryd
+ Visseltofta
+ Hallaryd, Ulvberga (fiskesjö)
+
+Bro över Helge å
+
+T-korsning Gräsljunga
+ Kylen
+ Bejstorp, Gårdsbutik (enskild väg)
+
+T-korsning Kulhult
+ Visseltofta
+
+(Korsning (enskild väg))
+ Ej skyltad
+
+(Korsning (enskild väg))
+ Ej skyltad
+
+T-korsning (lokal väg)
+ USA bildelar
 
 T-korsning
+ Vittsjö, Verum
 
-T-korsning
-
-T-korsning
-
-T-korsning Rv 15/Mossv�gen
+T-korsning Rv 15/Mossvägen
+ Industri: Västra
 
 T-korsning Rv 15/Hallarydsv.
+ Hallaryd, Lekolar
+
+(Korsning Rv 15/Leksaksgatan)
+ Lokal väg, ej skyltad
 
 Rondell Rv 15/V. Storgatan
+ Centrum, BRIO Lekoseum
+ Björkerås, Offroadbanan
+ Röena Sportfiske, Animalix zoo
 
-(J�rnv�gsbro)
- S�dra Stambanan
-T-korsning Rv 15/Kyrkogatan
+(Järnvägsbro)
+ Södra Stambanan
+Rondell Rv 15/Kyrkogatan
+ Hästveda, Centrum Ö
+ Camping, stugor
+ Bensinstation: Shell
 T-korsning Rv 15/Teodor Kvants v.
+ Golfrange, Lokal väg
 
-Korsning Rv 15/K�llvedsv�gen
+Korsning Rv 15/Källvedsvägen
+ Lokal väg, ej skyltad
 
-T-korsning Rv 15/Vinterv�gen
+T-korsning Rv 15/Vintervägen (lokal väg)
+ Industri: Nordöstra, Brukshundsklubben
 
 Korsning Rv 15/Karl Johans v.
-Rondell Rv 15/Rv 23
- 23 s: Malm�, H�ssleholm
- 23 n: V�xj�, �lmhult
+ Marklunda
+(Infopunkt (västgående))
 
-Etapp 5: Osby - L�nsboda ()
+Rondell Rv 15/Rv 23
+ [19]: Kristianstad
+ 23 s: Malmö, Hässleholm
+ 23 n: Växjö, Älmhult
+ Rastplats Lars Dufwa
+ Bensinstation: Circle-K
+
+Etapp 5: Osby - Lönsboda ()
 
 T-korsning V Svenstorp
+ Kräbbleboda
 
-Osby / �stra G�inge
+(Gussagården)
+
+(Osby / Östra Göinge)
+
+T-korsning Diabas (lokal väg)
+ Diabas Konst & Hantverk
+Infopunkt (västgående)
+Korsning Rv 15/Stationsvägen (lokal väg)
 
 Korsning Boalt
+ Glimåkra
+ Kräbbleboda, Göinge stenförädling
 
-T-korsning Rv 15/Martin Nilssons v�g
-
-R�nneboda�n
-�stra G�inge / Brom�lla
+Bro över Rönnebodaån
+(Östra Göinge / Osby)
 
 T-korsning Stenhagen N
- 119 s: Broby, Glim�kra
+ 119 s: Hässleholm, Glimåkra
 
-Rondell L�nsboda
- 121: �lmhult
+T-korsning (enskild väg)
+ Hägghult, Svarta bergen (sevärdhet)
 
-Etapp 6: L�nsboda - Olofstr�m ()
+Infopunkt (östgående): (56.3929979,14.2897501)
+T-korsning (enskild väg)
+ Hjärtasjöbadet
 
-T-korsning �rkeneds kyrka
+(Dubbel) T-korsning (lokal väg)
+ Triplan
+
+T-korsning Lönsboda SV (lokal väg)
+ Idrottsplats
+
+Bensinstation: ?
+Rondell Lönsboda
+ 121: Älmhult
+ Kristianstad, Vandrarhem
+ Vårdcentral, Apotek
+
+Etapp 6: Lönsboda - Olofström ()
+
+(Järnvägskorsning)
+ Olofström-Älmhult
+T-korsning Örkeneds kyrka
  119 n: Tingsryd, Ryd
+ Sim och sporthall
 
-T-korsning L�nsboda Nyteboda
+T-korsning Rv 15/Nytebodavägen	
+ Gylsboda, Nyteboda
 
-Sk�ne / Blekinge
-Brom�lla / Olofstr�m
+(T-korsning Lönsboda SO)
+ Lokal väg (Södra Gränsgatan)
 
-T-korsning Sk�lmershult
+T-korsning Ö Gisslaboda (lokal väg)
+ Åberg och söner
 
-Korsning Vilshult s�dra
+Mötesseparering börjar / upphör
+
+Mötesseparering upphör / börjar
+
+Skåne / Blekinge: (56.3895869,14.417732)
+Bromölla / Olofström
+
+T-korsning Skälmershult
+ Ulvshult
+
+T-korsning Skälmershult S (enskild väg)
+ NP Snapphanen naturistcamping
+
+(T-korsning Slätten (enskild väg))
+ La Maison Rouge de Slätten (ej skyltad)
+
+T-korsning N. Fröatorpsv. (enskild väg)
+ Fröatorp, Tre D Mekaniska AB, Solect Power
+
+Korsning Vilshult (lokal väg)
+ Stenmuseum
+
+Korsning Vilshult södra
+ Arkelstorp, Harasjömåla (fiske)
+ Kyrkhult
+ Gårdens Värme & Fritid, Stans & Press
 
 T-korsning Rv 15/Norra Ringv�gen
  116 n:
