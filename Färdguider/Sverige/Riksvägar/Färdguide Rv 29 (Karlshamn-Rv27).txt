@@ -1,75 +1,108 @@
-F�rdguide Rv 29 (Karlshamn - Rv 27)
+Färdguide Rv 29 (Karlshamn - Rv 27)
 ====================================
 
 Etapp 1: Genom Karlshamn (3,4 km/3,6 km)
 
-T-korsning Hinsleden/�gatan
-Korsning Hinsleden/Prinsgatan
+T-korsning Hinsleden/Ågatan (lokal väg)
+Korsning Hinsleden/Prinsgatan (lokal väg)
 (Tunnel)
 					0,7 km/0,7 km	50 s/50 s
 Bensinstation: St1
 T-korsning Hinsleden/Oljehamnsv.
+ Industri: Munkahus, Kraftverk
+ Oxhaga, Hamnar
+ Stärnö-Boön naturreservat (bad mm)
 					1,2 km/1,1 km	1 min 2 s/0 min 57 s
-Rondell 29/Verkerumsv.
-					1,6 km/1,8 km	1 min 12 s/1 min 33 s
-Trp Karlshamn V�st
- E22 n: Karlskrona, Ronneby
- E22 s: Malm�, S�lvesborg
+Beijer Byggmaterial
 
-Etapp 2: Karlshamn - R� (4,6 km/4,5 km)
+Rondell Rv 29/Verkerumsv.
+ Industri: Tubbaryd, Sjukhus
+ Industri: Stilleryd, Stilleryds Hamn
+(Järnvägsviadukter)
+ Blekinge Kustbana och industrispår
+					1,6 km/1,8 km	1 min 12 s/1 min 33 s
+Trp Karlshamn Väst
+ E22 n: Karlskrona, Ronneby
+ E22 s: Malmö, Sölvesborg
+
+Etapp 2: Karlshamn - Rå (4,6 km/4,5 km)
 					1,0 km/0,8 km	45 s/36 s
 T-korsning 29/Giselbergsv.
+ Vekerum, Industri: Duveryd
 					0,9 km/1,0 km	41 s/45 s
 Dubbel T-korsning Hannetorp
+ Asarum, Industri
+ Mörrum
+ Bensinstation: Circle-K
+ Hotell: Best Western
 					1,8 km/1,7 km	1 min 21 s/1 min 17 s
-(Korsning Rv 29/Kattkroksv�gen)
- Lokala v�gar, ingen skyltning
+(Korsning Rv 29/Kattkroksvägen)
+ Kattkroken, Enskild väg
 
-Korsning
+Korsning Tostarp
+ Torarp (enskild väg)
+ Furuboda, Gungvala
 					1,0 km/1,1 km	45 s/50 s
-Dubbel T-korsning R�
- 126: Alvesta, Fridafors
+Dubbel T-korsning Rå
+ Asarum
+ 126: Alvesta, Ryd, Svängsta
+ Långasjönäs Camping & Stugby, Badplats
 
-Etapp 3: R� - Rv 27 ()
+Etapp 3: Rå - Rv 27 ()
 
-Korsning 29/Emnebodav�gen
+Korsning Rv 29/Emnebodavägen
 
-(Korsning 29/Hokav�gen)
+(Korsning 29/Hokavägen (enskild väg))
+ S. Hoka, Stiftsgård
 
-T-korsning 29/G:a Tingsrydsv.
+(Bro över Brogylet
+					(/
+Dubbel T-korsning Hoka
+ S. Hoka, Stiftsgård, Info (enskild väg)
+ Ringamåla
 
-Dubbel T-korsning Elsebr�ne vsk
+T-korsning Elsebråne vsk
+ Elsebråne
 
-Parkeringsplats
+Parkeringsplats (östra sidan)
 
-(Dubbel) T-korsning S �lmta
- S �lmta, Fiske
+T-korsning S Älmta (enskild väg)
+ S. Älmta, Fiske
 
-(T-korsning N �lmta)
- N �lmta
+(T-korsning N Älmta)
+ N. Älmta, Enskild väg
 
-T-korsning Askarem�la
- Askarem�la, Fiske
+T-korsning Askaremåla (enskild väg)
+ Askaremåla, Fiske
 
 T-korsning Ihre vsk
+ Ire, Naturreservat
+ Ire natur- och kulturskola
 
-T-korsning
+T-korsning Ljungsjömåla S
+ Hallabro, Belganet
 
 Blekinge / Kronoberg
 Karlshamn / Tingsryd
 
-Dubbel T-korsning G�ddeviks�s vsk
+(Dubbel) T-korsning Gäddeviksås vsk
+ Gäddeviksås, Y. Källehult, Älgriket
+ (S. Grönadal (enskild väg))
 
-(Korsning Fridhem)
- Enskild v�garr
+(T-korsning Fridhem)
+ Långasjömåla, Enskild väg
 
-T-korsning Kn�llsberg
- Caf� Kvarnen
-(Br�kne�n)
-Rastplats Br�kne�n/Kn�llsberg
+(T-korsning (enskild väg))
+ Öjasjömåla
+
+T-korsning Knällsberg (enskild väg)
+ Hökamåla, Knällsberg, Café Kvarnen
+(Bro över Bräkneån)
+Rastplats Bräkneån/Knällsberg
 
 T-korsning Stenfors
+ Stenfors, Naturreservat
 
 T-korsning Rv 27/Rv 29
- 27 �: Karlskrona, Ronneby
- 27 v: G�teborg, V�xj�, Tingsryd
+ 27 ö: Karlskrona, Ronneby
+ 27 v: Göteborg, Växjö, Tingsryd
