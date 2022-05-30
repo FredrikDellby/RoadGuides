@@ -1,6 +1,8 @@
 Färdguide Rv 49 (Lidköping - Askersund)
 ========================================
 
+Etapp 1: Lidköping - Skara ()
+
 Rondell Rv 44/Rv 49
  44 v: Uddevalla, Lidköping
  44 ö: Mariestad, Götene
@@ -8,7 +10,7 @@ Rondell Rv 44/Rv 49
 Korsning Alebäck (enskild väg)
  Alebäck
 
-Korsning Jutegården
+Korsning Jutegården Rv 49
  N Härene, Hovby
  Sävarne
 					2.0 km/2.1 km	1 min 30 s/1 min 35 s
@@ -31,7 +33,7 @@ Lidköping / Skara: (58.4213103,13.3448804)
 T-korsning Skäggatorp
  Hangelösa, Pendelparkering
 					2.3 km/2.1 km	1 min 43 s/1 min 35 s
-Infoplats (främst för östgående)
+Infoplats (endast skyltad östgående)
 
 Korsning Hökaslätten
  Händene
@@ -45,8 +47,11 @@ T-korsning Skara NV
  [E20 v]: Göteborg
  Skara Centrum
 
+Etapp 2: Förbi Skara ()
+
 Korsning (enskild väg)
- Sund & Rund
+ Karstorp
+ Stubbe, Sund & Rund
 
 Korsning Skara N (Rv 49/Malmgatan)
  Centrum
@@ -68,6 +73,8 @@ Trafikplats Vilan-väst
  Centrum, Jula
  Bensinstation: OKQ8
  Restaurang: McDonald's
+
+Etapp 3: Skara - Skövde ()
 
 Trafikplats Vilan-öst
  E20 ö: Stockholm, Mariestad
@@ -139,7 +146,7 @@ Korsning Rv 49/Gruvgatan (lokal väg)
 (Järnvägsbro)
  Industrispår
 Hallenbergsrondellen
- Skövde Centrum, Järnvägsstn
+ Skövde Centrum, Järnvägsstn	
  [26 n]: Mariestad
  Skaraborgs Sjukhus
  Billingehov, Billingehus, Billingen
@@ -149,13 +156,15 @@ Hallenbergsrondellen
 (T-korsning Rv 49/Gesällgatan)
  Lokal väg, ej skyltad
 					0.9 km/1.1 km	1 min 5 s/1 min 19 s
+Etapp 4: Genom Södra Skövde ()
+
 (Järnvägsbro)
  Industrispår till Cementa
 T-korsning Rv 49/Carlsrovägen
  Lokal väg, ej skyltad
 
-T-korsning 49/Diabasvägen
- IndustrI: Karlsro, Paroc (lastbil)
+T-korsning Rv 49/Diabasvägen (lokal väg)
+ Industri: Karlsro, Paroc (lastbil)
 
 Korsning Hentorp (lokal väg)
  Hentorp
@@ -172,7 +181,7 @@ Trp Skövde Södra
  26 s: Jönköping, Tidaholm
  46 s: Ulricehamn, Falköping
 
-Etapp 3: Skövde Södra - Mariesjö ()
+Etapp 5: Skövde Södra - Mariesjö ()
 					1.1 km/0.5 km	57 s/26 s
 Rondell (lokal väg)
  Paradissjön (enskild väg)
@@ -197,6 +206,8 @@ Trp Mariesjö-öst
  Centrum
  Industri: Aspelund
 					0.6 km/0.3 km	43 s/22 s
+Etapp 6: Skövde - Tibro SV ()
+
 T-korsning Hasslum (lokal väg)
  Industri: Hasslum
 					0.6 km/0.6 km	43 s/43 s
@@ -250,6 +261,8 @@ Rondell Tidåkra
  Lastbilsterminal
  Bränningen (enskild väg)
 					0.8 km/0.7 km	41 s/36 s
+Etapp 7: Förbi Tibro ()
+
 T-korsning Västanå Rv 49 (lokal väg)
  Grönhult (enskild väg)
  Industri: Västanå
@@ -283,6 +296,8 @@ Korsning Katerydsvägen (enskild väg)
 T-korsning Ottostorp
  201 n: Mariestad, (Moholm)
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
+Etapp 8: Ottostorp - Mölltorp ()
+
 T-korsning Motorstadion (lokal väg)
 
 T-korsning Blombacka
@@ -325,6 +340,8 @@ Dubbel T-korsning Mölltorp södra
  Forsvik, Mölltorp
  Badplats, Handelsbod, Handelsträdgård
 					4.0 km/3.6 km	3 min 26 s/3 min 5 s
+Etapp 9: Mölltorp - Karlsborg S ()
+
 T-korsning Mölltorp väg 49
 (endast skyltad västgående)
  Mölltorp, Info-/Badplats
@@ -342,6 +359,8 @@ Rondell Karlsborg södra
  Industri: Flottiljområdet
  Södra Skogen, Industri: Åsen
 					0.7 km/0.7 km	50 s/50 s
+Etapp 10: Genom Karlsborg ()
+
 Tankställe Karlsborg södra
  Bensinstation: Preem
 					0.3 km/0.3 km	27 s/27 s
@@ -398,6 +417,8 @@ T-korsning Hultet
  202: Mariestad, Undenäs
  Forsvik (sevärdhet)
 
+Etapp 11: Hultet - Olshammar ()
+
 Trafikkontrollplats
 
 Korsning (enskild väg)
@@ -444,6 +465,8 @@ T-korsning Olshammar S
  Munksjö Aspa Bruk
  Olshammarsgården (sevärdhet)
  Bensinstation: Q-star
+
+Etapp 12: Olshammar - Skoporten ()
 
 T-korsning Olshammar N
  Ahlstrom-Munksjö Aspa Bruk

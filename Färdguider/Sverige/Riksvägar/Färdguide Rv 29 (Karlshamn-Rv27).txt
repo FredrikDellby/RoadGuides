@@ -13,7 +13,13 @@ T-korsning Hinsleden/Oljehamnsv.
  Oxhaga, Hamnar
  Stärnö-Boön naturreservat (bad mm)
 					1,2 km/1,1 km	1 min 2 s/0 min 57 s
+Beijer Byggmaterial
+
 Rondell Rv 29/Verkerumsv.
+ Industri: Tubbaryd, Sjukhus
+ Industri: Stilleryd, Stilleryds Hamn
+(Järnvägsviadukter)
+ Blekinge Kustbana och industrispår
 					1,6 km/1,8 km	1 min 12 s/1 min 33 s
 Trp Karlshamn Väst
  E22 n: Karlskrona, Ronneby
@@ -22,20 +28,29 @@ Trp Karlshamn Väst
 Etapp 2: Karlshamn - Rå (4,6 km/4,5 km)
 					1,0 km/0,8 km	45 s/36 s
 T-korsning 29/Giselbergsv.
+ Vekerum, Industri: Duveryd
 					0,9 km/1,0 km	41 s/45 s
 Dubbel T-korsning Hannetorp
+ Asarum, Industri
+ Mörrum
+ Bensinstation: Circle-K
+ Hotell: Best Western
 					1,8 km/1,7 km	1 min 21 s/1 min 17 s
 (Korsning Rv 29/Kattkroksvägen)
- Lokala vägar, ingen skyltning
+ Kattkroken, Enskild väg
 
 Korsning Tostarp
+ Torarp (enskild väg)
+ Furuboda, Gungvala
 					1,0 km/1,1 km	45 s/50 s
 Dubbel T-korsning Rå
- 126: Alvesta, Fridafors
+ Asarum
+ 126: Alvesta, Ryd, Svängsta
+ Långasjönäs Camping & Stugby, Badplats
 
 Etapp 3: Rå - Rv 27 ()
 
-Korsning 29/Emnebodavägen
+Korsning Rv 29/Emnebodavägen
 
 (Korsning 29/Hokavägen (enskild väg))
  S. Hoka, Stiftsgård
@@ -46,12 +61,12 @@ Dubbel T-korsning Hoka
  S. Hoka, Stiftsgård, Info (enskild väg)
  Ringamåla
 
-(Dubbel) T-korsning Elsebråne vsk
+T-korsning Elsebråne vsk
  Elsebråne
 
 Parkeringsplats (östra sidan)
 
-(Dubbel) T-korsning S Älmta (enskild väg)
+T-korsning S Älmta (enskild väg)
  S. Älmta, Fiske
 
 (T-korsning N Älmta)
@@ -70,7 +85,7 @@ T-korsning Ljungsjömåla S
 Blekinge / Kronoberg
 Karlshamn / Tingsryd
 
-Dubbel T-korsning Gäddeviksås vsk
+(Dubbel) T-korsning Gäddeviksås vsk
  Gäddeviksås, Y. Källehult, Älgriket
  (S. Grönadal (enskild väg))
 
