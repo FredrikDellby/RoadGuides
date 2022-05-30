@@ -1,7 +1,7 @@
 Färdguie Rv 15 (Halmstad - Pukavik)
 ====================================
 
-Etapp 1: Halmstad - Tj�rby (15,6 km/15,4 km)
+Etapp 1: Halmstad - Tjärby (15,6 km/15,4 km)
 
 Trp Halmstad Södra-väst
  E6-E20 s: Malmö, Helsingborg
@@ -122,7 +122,7 @@ T-korsning Rv 15/Hishultsvägen (Knäred Rv 15/Knäred S)
  Knäred, Hishult
  Flammabadets Camping
 
-Etapp 3: Knäred - Markaryd (21,0 km/21,4 km)
+Etapp 3: Knäred - Koddeböke (21,0 km/21,4 km)
 					0,4 km/0,6 km	18 s/27 s
 Bensinstation: Din-X
 T-korsning (lokal väg)
@@ -150,6 +150,8 @@ Korsning Koddeböke
  Vivljunga, Råstorp
  Gränsbygdens Köpcentrum
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
+Etapp 4: Koddeböke - Markaryd ()
+
 T-korsning Åmot
  Tuthult
 					0,6 km/0,6 km	27 s/27 s
@@ -191,11 +193,11 @@ Rondell (lokal väg)
  Fjärholma, Älgsafari
 					(/
 (Trp Markaryd Norra
- E4 s: Helsingborg, �rkelljunga
+ E4 s: Helsingborg, Örkelljunga
  E4 n: Stockholm, Ljungby
- [117]: H�ssleholm, Vittsj�
+ [117]: Hässleholm, Vittsjö
 
-Etapp 4: Markaryd - Osby (27,9 km/27,8 km)
+Etapp 5: Markaryd - Osby (västerom) (27,9 km/27,8 km)
 					2,0 km/1,6 km	1 min 30 s/1 min 12 s
 Infoplats (västgående): (56.4647058,13.6427552)
 
@@ -242,6 +244,8 @@ T-korsning (lokal väg)
 T-korsning
  Vittsjö, Verum
 
+Etapp 6: Genom Norra Osby ()
+
 T-korsning Rv 15/Mossvägen
  Industri: Västra
 
@@ -282,7 +286,7 @@ Rondell Rv 15/Rv 23
  Rastplats Lars Dufwa
  Bensinstation: Circle-K
 
-Etapp 5: Osby - Lönsboda ()
+Etapp 7: Osby - Lönsboda ()
 
 T-korsning V Svenstorp
  Kräbbleboda
@@ -325,7 +329,7 @@ Rondell Lönsboda
  Kristianstad, Vandrarhem
  Vårdcentral, Apotek
 
-Etapp 6: Lönsboda - Olofström ()
+Etapp 8: Lönsboda - Olofström ()
 
 (Järnvägskorsning)
  Olofström-Älmhult
@@ -369,39 +373,104 @@ Korsning Vilshult södra
  Kyrkhult
  Gårdens Värme & Fritid, Stans & Press
 
-T-korsning Rv 15/Norra Ringv�gen
- 116 n:
+(T-korsning Flyborgstorpet)
+ Enskild väg (över bro), ej skyltad
 
-Etapp 7: Olofstr�m - J�msh�g ()
+T-korsning Rv 15/Skrapsjövägen
+ SÅIFA, Enskild väg
 
-T-korsning Rv 15/Rydv�gen
+Korsning Rv 15/Odasjövägen (lokal väg)
+ Industri: Odasjöslätt
 
-Korsning Olofstr�m station
+T-korsning Rv 15/Norra Ringvägen
+ Nyteboda, Trafikövningsplats
+ VOLVO övre fabriksområde
+ Innovation Park
 
-Rondell Rv 15/Idrottsv�gen
+Korsning Preem (lokal väg)
+ Bensinstation: Preem
+T-korsning Rv 15/Rydvägen
+ 116 n: Ryd, Kyrkhult
+ Svängsta
+ Industri: Agrasjö, Bilprovning
 
-T-korsning J�msh�g nord
+Etapp 9: Olofström - Jämshög ()
 
-Rondell J�msh�g
+Korsning(Rondell) Olofström station
+ Centrum, Infoplats, Volvo kontor
+ Restaurang: 121:ans Grill
+ Hotell/Restaurang: First Hotel Olofström
 
-T-korsning J�msh�g syd�st
- 116 s: Brom�lla
+Korsning Rv 15/Bredgatan (lokal väg)
+ Halens Fritidsområde, Kanotcentral
 
-Etapp 8: J�msh�g - Pukavik ()
+Rondell Nebbebodagården
+ Centrum
+ Nordenbergsskolan, Nebbebodagården
+ Sim & idrottshall, Ishall
 
-Korsning Gr�num Rv 15
+T-korsning Rv 15/Motionshallsv. (lokal väg)
+ Ridskola, Vandrarhem, Restaurang
 
-T-korsning Boa
+Holje Bark Parkering
+
+T-korsning Jämshög nord
+ Jämshög, HBM Gods
+ Brocenter och museum
+ Bensinstation: Oljeshejkerna Johnsson
+
+Rondell Jämshög Rv 15
+ Jämshög, HBM Gods
+ Svängsta, Gränum
+ Hotell/Restaurang: Gästis
+ Industri: Agrasjö, Bilprovning
+
+T-korsning Jämshög sydost
+ 116 s: Bromölla, Näsum
+
+Etapp 10: Jämshög - Pukavik ()
+					(/
+(Parkeringsplats (östra sidan)
+(endast skyltad västgående)
+
+Korsning Skrivarehagen
+ Marieholm (enskild väg)
+ Axtorp
+
+Korsning Gränum Rv 15
+ Karstorp (enskild väg)
+ Gränum, CH-verken
+
+(Dubbel) T-korsning Boa
+ (Värhult (enskild väg))
+ Gränum, Olofströms Golfklubb
+					(/
+(Infoplats (östra sidan)
+(endast skyltad västgående)
+
+(Korsning Värhult (enskild väg))
+ Värhult
 
 Korsning Kylinge Rv 15
+ Gammalstorp
+ Kylinge östra (enskild väg)
 
-T-korsning V Sandb�ck
+T-korsning V Sandbäck
+ Sandbäck
 
-J�rnv�gsviadukt
+Järnvägsviadukt
  Blekinge Kustbana
 
-T-korsning � Sandb�ck
+T-korsning Ö Sandbäck
+ Sandbäck
 
-Trp Pukavik (48)
- E22 s: Malm�, S�lvesborg
+Trp Pulavik-nord
+ E22 s: Malmö, Sölvesborg
+ Norje, Pukavik
+
+Trp Pukavik-syd)
  E22 n: Kalmar, Karlshamn
+ Norje, Pukavik
+
+(Trp Pukavik (48)
+ E22 s: Malmö, Sölvesborg
