@@ -19,7 +19,7 @@ T-korsning Fyllebro (lokal väg)
  Bensinstation: Circle-K
 (Bro över Fylleån)
 					0,5 km/0,5 km	36 s/36 s
-Rondell 15/Fyllingev. (lokal väg)
+Rondell Rv 15/Fyllingev. (lokal väg)
  Fyllebro
  Fyllinge N, Stadsbondgård
  Bensinstation: Q-star
@@ -34,7 +34,7 @@ T-korsning (lokal väg)
  Modellflygfält
 					0,5 km/0,5 km	26 s/26 s
 T-korsning Kistinge Södra
-Veinge K:a, Tönnersjö
+ Veinge K:a, Tönnersjö
  Idustri: Kistinge (Pilkington industrier)
 					1,0 km/1,0 km	45 s/45 s
 Korsning Rv 15/Trönningevägen
@@ -323,11 +323,13 @@ T-korsning (enskild väg)
 T-korsning Lönsboda SV (lokal väg)
  Idrottsplats
 
-Bensinstation: ?
+Café Kronan
+Helgas Restaurang
 Rondell Lönsboda
  121: Älmhult
  Kristianstad, Vandrarhem
  Vårdcentral, Apotek
+ Bensinstation: INGO
 
 Etapp 8: Lönsboda - Olofström ()
 
