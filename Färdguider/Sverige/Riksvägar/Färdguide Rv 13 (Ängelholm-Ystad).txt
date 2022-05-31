@@ -8,37 +8,65 @@ Trp Rebbelberga (35)
  E6-E20 n: Göteborg, Halmstad
 					0.7 km/0.5 km	36 s/26 s
 Rondell Älvdalen
+ Tåstarp, Industri: Älvdalen
+ Återvinningsanläggning, Bilprovning
+ Industri: Åkerslund
 					3.4 km/3.4 km	2 min 55 s/2 min 55 s
 Rondell Munka-Ljungby SV
- Munka-Ljungby
- Höja, Skillinge
+ Höja, Skillinge, Industri: Tofta
+ Munka-Ljungby C, Infoplats, B&B
 					0.8 km/0.8 km	48 s/48 s
+Restaurang: Sibylla)
+Bensinstation: INGO)
+					/)
 Korsning Munka-Ljungby S
- Munka-Ljungby
+ (Munka-Ljungby C), Ridhus
 					0.7 km/0.7 km	42 s/42 s
 T-korsning Munka-Ljungby SO
  114: Örkelljunga
+ Ängelholms Golfklubb, Munka-Ljungby IF
 					1.0 km/1.0 km	51 s/51 s
-T-korsning Skälderhus N
+T-korsning Lugnet
+ Axtorp
 					0.6 km/0.9 km	31 s/46 s
-Trippel T-korsning Skälderhus V
- Höja, Skillinge
- Tåssjö
+Dubbel T-korsning Axtorp
+ Axtorp
+ Höja, Keramik Kakel
 					1.4 km/1.2 km	1 min 12 s/1 min 2 s
-T-korsning
- Össjö
+T-korsning Rv 13/Aggarpsvägen
+ Aggarp, Hundskola, Bilverkstad
+
+(Dubbel) T-korsning Rv 13/Ekebov. (enskild väg)
+ Ekebo Nöjescentrum
+ Tingberg
+
+Dubbel T-korsning
+ Trädgårdsmöbler (lokal väg)
+ Össjö, Lanthandel
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+Korsning Rv 13/Mossa Jordbov. (enskild väg)
+ Skanska Bergtäkt
+
 Korsning Össjö Ö
+ Össjö k:a
+ Lännhässle, Idrottsplats (enskild väg)
 					0.6 km/0.8 km	31 s/41 s
 Korsning Össjö S
- Boarps gravfält
-T-korsing Össjö S
+ Össjö
+ Boarp, Urmakare (enskild väg)
+T-korsing Ekebjär
+ Gångvad
 					1.3 km/1.1 km	1 min 7 s/0 min 57 s
+(Bro över Pinnån)
 Ängelholm / Klippan
 					0.6 km/0.7 km	31 s/36 s
 Korsning Källna
- Starby
+ Källna k:a
+ Gångvad, Stenbutik
 					1.9 km/2.1 km	1 min 38 s/1 min 48 s
+T-korsning (lokal väg)
+ Idrottsplats, Polargården
+
 Trp Östra Ljungby (68)
  E4 s: Helsingborg, Åstorp
  E4 n: Stockholm, Jönköping

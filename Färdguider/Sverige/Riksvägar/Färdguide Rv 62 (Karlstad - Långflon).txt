@@ -353,7 +353,7 @@ Korsning Värnäs
  E45 s: (Göteborg), Torsby
  E16 v: Oslo, (Kongsvinger)
 
-Etapp 9: Stöllet -  (95,2 km/95,2 km)
+Etapp 9: Stöllet - Ambjörby (95,2 km/95,2 km)
 					11.7 km/11.6 km	11 min 42 s/11 min 36 s
 (T-korsning (lokal väg))
  RentSki
@@ -368,8 +368,10 @@ Korsning Värnäs Campingen
  Värnäs, Enskild väg
 
 Parkeringsplats (östra sidan)
+(endast skyltad nordgående)
 
 Parkeringsplats (östra sidan)
+(endast skyltad nordgående)
 
 T-korsning Ljusnäs (lokal väg)
  BR Nordqvist Trävaru AB
@@ -406,6 +408,8 @@ Ambjörby Folkets Hus
 T-korsning Ambjörby N
  Hjällstad, Sundbergsheden
 					13.5 km/13.5 km	11 min 34 s/11 min 34 s
+Etapp 10: Ambjörby - Likenäs ()
+
 Korsning (lokal väg)
  Likenäs MK Motorbana
 
@@ -413,6 +417,7 @@ Korsning (lokal väg)
  Lokal väg, ej skyltad, belyst
 
 Infoplats (västra sidan)
+(endast skyltad sydgående)
 
 Korsning (lokal väg)
  Fämtfallet, Vandringsled
@@ -430,7 +435,7 @@ Branäs Turistservice: (60.59091,13.0753252)
 
 T-korsning Transtrandsheden
  Transtrandsheden, Enskild väg
-f.d. Affär
+(f.d. Affär)
 
 (T-korsning (enskild väg))
  Fångstgropar (dåligt skyltade)
@@ -447,6 +452,8 @@ Dubbel T-korsning Likenäs
  Hjällstad, Branäsberget skicenter
 Bensinstation: GA Macken
 					4.6 km/4.6 km	3 min 57 s/3 min 57 s
+Etapp 11: Likenäs - Ransby ()
+
 Gunnar Arnessons Åkeri
 
 (Korsning Uggenäs (lokal väg))
@@ -469,6 +476,8 @@ Hotell/Restaurang: Strandås Gästgiveri
 Korsning Ransby
  Branäs, Moelven
 					7.8 km/7.8 km	7 min 48 s/7 min 48 s
+Etapp 12: Ransby - Klarabro ()
+
 (Dalby Hembygdsgård gammal entré)
 
 T-korsning Ransby N (lokal väg)
@@ -518,6 +527,8 @@ T-korsning Näckån (enskild väg)
 Korsning Klarabro
  Flisa, Bograngen, Camping
 					18.3 km/18.5 km	15 min 41 s/15 min 51 s
+Etapp 13: Klarabro - Höljes ()
+
 Korsning Brattmon (enskild väg)
  Fageråsdammen, Utsiktstorn Granberget
 
@@ -533,20 +544,56 @@ Parkeringsplats (västra sidan)
 (Korsning Båtstad (enskild väg))
  Båtstadberg
 
-Klarälven
+Bro över Klarälven
 					3.0 km/2.8 km	2 min 34 s/2 min 24 s
-T-korsning Höljes
- Höljes kyrka
+(Korsning (enskild väg))
+ Strängselforsen (ej officiell skyltning)
+
+Höljes Camping
+
+T-korsning Höljes Rv 62
+ Höljes, N. Finnskoga kyrka
+ Kraftverk, Motorstadion, Lanthandel
+ Restaurang: Finnskoga Wärdshus
+(T-korsning Rv 62/Höljesvägen)
+ Lokal väg, ej skyltad
 					8.6 km/8.6 km	7 min 22 s/7 min 22 s
-T-korsning
+Etapp 14: Höljes - Långflon ()
+
+T-korsning (lokal väg)
+ Höljes Skans
+
+(Bro över Höljån)
+T-korsning (enskild väg)
+ Rastplats
+
+(Parkeringsplats (grus, östra sidan))
+ Ej skyltad
+
+T-korsning Uggleheden
  Bastuknappen
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
 T-korsning Klaråsen södra
  Aspberget
 					2.9 km/2.9 km	2 min 29 s/2 min 29 s
-T-korsning
+T-korsning Källmon
  Aspberget
 					14.3 km/14.3 km	12 min 15 s/12 min 15 s
+Bro över Varån (ej skyltad)
+
+((Dubbel) T-korsning Storbergsv.)
+ Storberget, mätstation, Enskild väg
+
+Liten Rastplats (grus, östra sidan)
+ Ej skyltad
+
+T-korsning Långflons Köpcentrum
+ Köpcentrum, Lokal väg
+					/)
+(Långflon Gränshandel)
+ Bensinstation, Gränskrog
+(Lavpris Klär, pynteting)
+					(/
 Gränsövergång Långflon
 Sverige / Norge
 Värmland / Hedmark
