@@ -67,104 +67,138 @@ T-korsning Eda Kyrka
 					1,0 km/1,1 km	45 s/50 s
 Dubbel T-korsning Mellbyn
  Eda K:a
- Hamma, �jen�s
+ Hamma, Öjenäs
  Eda hembygdsg�rd
 					0,7 km/0,6 km	32 s/27 s
 T-korsning Haga (enskild väg)
 (endast skyltad sydgående)
  Eda Skans
 					1,0 km/1,0 km	45 s/45 s
-Korsning Charlottenberg Camping
+Korsning Charlottenberg Camping (lokal väg)
  Charlottenberg Camping
 					0,9 km/0,9 km	41 s/41 s
 T-korsning Eda Skans S
-					3,3 km/3,3 km	2 min 29 s/2 min 29 s
-Korsning N. By
+										3,3 km/3,3 km	2 min 29 s/2 min 29 s
+(2+1-väg börjar / upphör)
+T-korsning (enskild väg)
+(endast skyltad västgående)
+
+Korsning Norra By (enskild väg)
+ Annelund
+
+T-korsning By Rv 61
  By
 					1,9 km/1,9 km	1 min 26 s/1 min 26 s
-T-korsning �motfors nord
- 177: �rj�ng, Koppom
- �motfors Centrum
-(J�rnv�gsbro)
- V�rmlandsbanan
+(T-korsning (enskild väg))
+(ev. skyltad östgående)
 
-Etapp 3: �motfors - Arvika (21,7 km/21,9 km)
+Korsning Sofielund (enskild väg)
+                    /)
+2+1-väg upphör / börjar)
+
+T-korsning Åmotfors nord
+ 177: Årjäng, Koppom
+ Åmotfors Centrum
+(Järnvägsbro)
+ Värmlandsbanan
+
+Etapp 3: Åmotfors - Kleven (21,7 km/21,9 km)
 					1,0 km/1,0 km	45 s/45 s
-Dubbel T-korsning �motfors �st
- Industriomr�den
- [177]: �rj�ng, Koppom
- �motfors Centrum
+Dubbel T-korsning Åmotfors öst
+ Industriområden
+ [177]: Årjäng, Koppom
+ Åmotfors Centrum
 					0,4 km/0,4 km	21 s/21 s
+(T-korsning (lokal väg))
+ Ej skyltad
 Eda / Arvika
 					1,0 km/1,0 km	45 s/45 s
-(2+1-v�g b�rjar/slutar)
-Korsning
- Enskild v�g
+(2+1-väg börjar / upphör)
+Korsning Strand S (enskild väg)
+ Ej skyltad
 					2,5 km/2,6 km	1 min 40 s/1 min 44 s
-Korsning
- Enskild v�g
+Korsning Dalen V (enskild väg)
+(2+1-väg upphör / börjar)
 					0,4 km/0,3 km	16 s/12 s
-Korsning Dalen
- Fj�ll
+Korsning Dalen Ö
+ Fjäll, Myre
+(2+1-väg börjar / upphör)
 					2,7 km/2,7 km	1 min 48 s/1 min 48 s
-T-korsning Kl�tten	
- S�lboda
+(2+1-väg upphör / börjar): (59.7563497,12.4766456)
+T-korsning Klätten	
+ Sälboda
 					1,3 km/1,3 km	59 s/59 s
 Fiskeviks Camping
 					2,7 km/2,8 km	2 min 2 s/2 min 6 s
-Vagge�lven
+T-korsning Vaggenäset (enskild väg)
+ Wagge gård, Idrottsplats
+
+Bro över Vaggeälven
 					1,1 km/1,0 km	50 s/45 s
-T-korsning
- Ottebol
-(Parkeringsplats)
+T-korsning Kleven
+ Jössefors, Ottebol
+(Parkeringsplats (västra sidan))
+ Ej skyltad
+
+Etapp 4: Kleven - Arvika ()
 					2,5 km/2,5 km	1 min 53 s/1 min 53 s
-Korsning �stra Speked
- Gunnarskog, S�lboda
+2+1-väg börjar / upphör
+
+Korsning (enskild väg)
+
+Korsning Östra Speked
+ Gunnarskog, Sälboda
  Bensinstation: Din-X
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-Korsning H�gvalta norra
- J�ssefors, H�gvalta
+Korsning (enskild väg)
+
+Korsning Högvalta norra
+ Högvalta, Handelsträdgård
 					1,5 km/1,6 km	1 min 8 s/1 min 12 s
-Korsning H�gvalta s�dra
- J�ssefors, H�gvalta
+T-korsning (enskild väg)
+(ev. ej skyltad västgående)
+
+Korsning (enskild väg)
+
+Korsning Högvalta södra
+ Högvalta, Handelsträdgård
+ Taserud
 					0,6 km/0,8 km	27 s/36 s
-Infoplats (�stg�ende)
-Dubbel T-korsning
- Graninge aff�rscentrum
- Industriomr�de
+Infoplats (östgående)
+Dubbel T-korsning Mosseberg (lokal väg)
+ Industri: Mosseberg, Avfallsanläggning
+ Graninge affärscentrum
 					0,6 km/0,4 km	31 s/21 s
-Avfart (v�stg�ende)
- Graninge aff�rscentrum
+Avfart (västgående)
+ Graninge affärscentrum, Lokal väg
 					0,3 km/0,3 km	15 s/15 s
 Graningerondellen
- 172: Bengtsfors, �rj�ng
+ 172: Bengtsfors, Årjäng
  Centrum
  Bensinstation: OKQ8
 					1,1 km/1,1 km	57 s/57 s
-T-korsning Rackstav./61
+T-korsning Rv 61/Rackstav. (lokal väg)
  Rackstadsmuseet
 					0,5 km/0,5 km	30 s/30 s
 Gaterondellen
- 175: S�ffle
+ 175: Säffle
  Centrum
  Bensinstation: Shell
  Restaurang: McDonald's
 
 Etapp 4: Arvika - Finneb�ck (20,7 km/20,6 km)
 					0,4 km/0,3 km	24 s/18 s
-Infoplats (v�stg�ende)
-T-korsning Gatedammen
- Restaurang: Gate G�stgiveri
+Infoplats (västgående)
+T-korsning Gatedammen (lokal väg)
+ Gate Gästgiveri
 					0,2 km/0,4 km	12 s/24 s
 Dubbel T-korsning Gate
  Gunnarskog, Flygplats
  Rackstadsmuseet
 					0,9 km/0,8 km	41 s/36 s
-T-korsning Fagerf�lla
- Lokalt m�l
+T-korsning Fagerfälla (lokal väg)
 					0,3 km/0,5 km	12 s/20 s
-Parkeringsplats
-(�stg�ende riktning)
+Parkeringsplats (östgående))
 					0,8 km/0,6 km	32 s/24 s
 Korsning
  Enskild v�g
@@ -173,19 +207,19 @@ Korsning B�lg�rd Rv 61
  Enskild v�g
 					0,9 km/0,8 km	36 s/32 s
 Korsning Myrom
- Enskild v�g
+ Enskild väg
 					0,8 km/0,9 km	32 s/36 s
-Korsning L�ngvakshultsv�gen
- Enskild v�g
+Korsning Långvakshultsvägen
+ Enskild väg
 					2,3 km/2,2 km	1 min 32 s/1 min 28 s
-Korsning V�stra Furtan
+Korsning Västra Furtan
  Edane, Flygplats
 					1,4 km/1,4 km	56 s/56 s
 T-korsning
  Byn
 					0,7 km/0,8 km	28 s/32 s
 Korsning Kingselviken
- Enskild v�g
+ Enskild väg
 					0,4 km/0,4 km	16 s/16 s
 T-korsning (enskild v�g)
 					0,4 km/0,4 km	16 s/16 s

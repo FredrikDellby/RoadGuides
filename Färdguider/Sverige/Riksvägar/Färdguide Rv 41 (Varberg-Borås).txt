@@ -84,8 +84,10 @@ Varberg / Mark
 Järnvägskorsning
  Viskadalsbanan
 					4,2 km/4,2 km	3 min 36 s/3 min 36 s
-Restaurang: Horreds grill och pizzeria)
-T-korsning Horreds Möbel AB)
+Bensinstation: Topp Tank)
+
+(Restaurang: Horreds grill och pizzeria
+(T-korsning Horreds Möbel AB)
  (lokal väg)
 					/)
 Korsning Horred stn
@@ -98,7 +100,7 @@ Korsning Horred stn
 					0,2 km/0,2 km	14 s/14 s
 Korsning Horred C
  Idala, Helsjön, Horreds k:a
-Bensinstation: Horredstrafiken
+Kiosk: Horredstrafiken
 
 Etapp 3: Horred - Skene (19,8 km/19,9 km)
 					0,7 km/0,7 km	50 s/50 s
