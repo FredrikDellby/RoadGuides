@@ -32,7 +32,7 @@ Järnvägsviadukt
  Älvsborgsbanan
 Bro över Viskan
 					0,2 km/0,3 km	14 s/22 s
-Rondell
+Rondell Rv 42/Lv 180
  180: Alingsås, Industri: Landala
  [27], [40], Göteborg, Norrby
 
@@ -114,7 +114,7 @@ Rondell Fristad Centrum
 (Järnvägssbro)
  Älvsborgsbanan
 
-Etapp 3: Fristad - Vårgårda (29,3 km/29,7 km)
+Etapp 3: Fristad - Stenatorp (29,3 km/29,7 km)
 					0.8 km/0.8 km	58 s/58 s
 T-korsning Rv 42/Industrivägen (lokal väg)
  Industri: Heden, Folkhögskola
@@ -149,7 +149,7 @@ T-korsning Tämta södra
 
 Tämta kyrkoruin
 
-Dubbel T-korsing Tämta kyrka
+Dubbel T-korsing Tämta kyrka (lokal väg)
  Tämta beach
  Tämta kyrka
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
@@ -169,46 +169,72 @@ Korsning Stenatorp
  182: Ulricehamn, Ljung
  Siene
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
+Etapp 4: Stenatorp - Vårgårda ()
+
 Korsning Algutstorp
  Landa, Algutstorp
 
-T-korsing Algutstorp kyrka
+T-korsning Algutstorp kyrka
  Tånga hed
 					1.4 km/1.4 km	1 min 12 s/1 min 12 s
 Korsning Vårgårda S
  Vårgårda C
 					0.6 km/0.6 km	31 s/31 s
-T-korsing Rv 42/Åleden
+T-korsing Rv 42/Åleden (lokal väg)
  Hjultorp industriomr
 Bensinstation: Preem
-(Säveån)
-(Korsnin Kvarnen)
+
+(Bro över Säveån)
+Korsning Kvarnen (lokal väg)
  Doggy
 					0.4 km/0.8 km	21 s/41 s
-Trafikplats Hjultorp
- E20 ö: Stockholm, Skara
+Trafikplats Hjultorp-öst
  E20 v: Göteborg, Alingsås
- 42 n: Trollhättan
 
-Etapp 4: Vårgårda - Sollebrunn (21,3 km/20,9 km)
+Etapp 5: Vårgårda - Sollebrunn (21,3 km/20,9 km)
 
-Järnvägsviadukt
+(Trp Hjultorp-väst
+ E20 v: Göteborg, Alingsås
+
+(Trafikplats Hjultorp
+ E20 v: Göteborg, Alingsås
+
+(Bro över Säveån)
+Korsning (enskild väg)
+(endast skyltad nordgående)
+
+Järnvägsviadukt	
  Västra Stambanan
 
-Trafikplats Vårgårda
+Trafikplats Vårgårda)
  E20 ö: Stockholm, Skara
- E20 v: Göteborg, Alingsås
- 42 s: Borås
+
+Trp Vårgårda-öst)
+ E20 ö: Stockholm, Skara
+ Vårgårda Centrum
+
+Trp Vårgårda-väst
+ E20 ö: Stockholm, Skara
+ Vårgårda Centrum
+(T-korsning (lokal väg))
 					5.2 km/4.7 km	3 min 54 s/3 min 32 s
+Korsning Rv 42/Lindbladsv. (lokal väg)
+ Industri: Flygaren
+
 T-korsing Vårgårda Flygfält
+ Vårgårda Flygklubb, Lokal väg
+
+(Korsning (enskild väg))
+ Sörgården, Hemslöjd
 
 T-korsning Starabovägen
  Fullestad
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
 T-korsning Kolbäck Lurut
  Alingsås, Östadkulle
+(Vändplats/Parkering (östra sidan))
 					2.8 km/2.8 km	2 min 24 s/2 min 24 s
-Vårgårda / Alingsås
+Vårgårda / Alingsås: (58.0838423,12.6702829)
 					1.0 km/1.0 km	51 s/51 s
 T-korsning Hallavadet
  Långared, Lo
@@ -217,26 +243,31 @@ Korsning Upplo
  Kyrkås
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
 T-korsning Magra korsväg
- Fåglum
+ Fåglum, Bygdegård, Snickeri
 					0.7 km/0.7 km	36 s/36 s
+(Sollebrunns Betongelement AB)
+
 T-korsning Magra kyrka
  Bjärlanda, Magra kyrka
 					5.6 km/5.8 km	4 min 48 s/4 min 58 s
 (T-korsing Rv 42/Höggärdetvägen)
- Gårsmejeri
+ Gårsmejeri, enskild väg
 
-(Korsning Rv 42/Torpvägen)
+Korsning Sollebrunn Torp (lokal väg)
  Brandstation
+
+Bro över Mellbyån
 
 Korsning Sollebrunn
  190 n: Nossebro, Stora Mellby
  190 s: Göteborg, Gräfsnäs
  Restaurang: Pizzastugan, Sollebrunns Gästgifveri
 
-Etapp 5: Sollebrunn - Multorp (25,2 km/25,1 km)
+Etapp 6: Sollebrunn - Multorp (25,2 km/25,1 km)
 
-T-korsing Rv 42/Centrumgatan
-T-korsing Rv 42/Pilgatan
+T-korsing Rv 42/Centrumgatan (lokal väg)
+ Vårdcentral
+T-korsing Rv 42/Pilgatan (lokal väg)
  Shell Retrostation
 
 Tankställe Sollebrunn
@@ -245,10 +276,15 @@ Tankställe Sollebrunn
 					3.4 km/3.2 km	2 min 55 s/2 min 45 s
 Alingsås / Trollhättan
 					3.5 km/3.5 km	3 min 0 s/3 min 0 s
+T-korsning Lagmansereds gamla kyrka
+Lagmansereds kyrkoruin, Enskild väg
+
 Dubbel T-korsning Lagmansered
  Lagmansereds kyrka
  Skepplanda, Hålanda
 					3.1 km/3.1 km	2 min 39 s/2 min 39 s
+(Kobergsgården)
+
 Korsning Koberg S
  Stora Mellby
  Kobergs slott
@@ -257,6 +293,12 @@ T-korsning Koberg N
  Upphärad
  Golfbana
 					8.4 km/8.4 km	7 min 12 s/7 min 12 s
+T-korsning Vissla (enskild väg)
+ Svalehult, Bergtäkt
+
+(Dubbel) T-korsning Velanda gård
+ Runsten, Enskild väg
+
 T-korsing Idrottsplatsen
  Lokal väg, Åsaka IP
 
@@ -266,9 +308,10 @@ T-korsning Väne-Åsaka S
 T-korsning Väne-Åsaka Ö
  Upphärad
 					0.8 km/0.8 km	58 s/58 s
-Korsning Rv 42/Stationsvägen
- Hembygdsgård
- 
+T-korsning Väne-Åsaka Stationsv.
+ Hembygdsgård, Enskild väg
+
+Åsaka Bygdegård
 T-korsning Åsaka Bygdegård
  Lokal väg
 					1.7 km/2.0 km	1 min 27 s/1 min 43 s
