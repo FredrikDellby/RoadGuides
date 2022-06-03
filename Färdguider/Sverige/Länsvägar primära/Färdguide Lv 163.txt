@@ -3,24 +3,46 @@ Reseguide Lv 163 (Grind - Tanum - Bullaren)
 
 Etapp 1: Grind - Fjällbacka (15,0 km/14,8 km)
 
-Grindmotet
+Grindmotet-öst
  E6 n: Oslo, Strömstad
+
+Grindmotet-väst
  E6 s: Göteborg, Uddevalla
 					0.7 km/0.5 km	36 s/26 s
 T-korsning Humlekärr
  Dingle
 					3.3 km/3.3 km	2 min 50 s/2 min 50 s
+T-korsning Branneby (enskild väg)
+ Branneby, Kville El
+ Pallen Ekogård - Ekogrönsaker och Trädgårdscafé
+
 T-korsning Sjöröd
  Bovallstrand, Bottna
 					4.0 km/4.0 km	3 min 26 s/3 min 26 s
+Korsning St Vrem (enskild väg)
+ Hede
+ St. Vrem, MP Marin
+
+Derome Bygg & Industri
+
+Fjällbackahallen i Kville
+
+Korsning Kville Prästgård (enskild väg)
+ Kville kyrka och kyrkogård Parkering
+
 T-korsning Kville kyrka
- Rabbalshede
+ Rabbalshede, Solhem Krukmakeri
 					0.4 km/0.4 km	21 s/21 s
 Korsning Kville
- Hamburgsund
+ Bygdegård
+ Hamburgsund, VSS & VA Butik
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
+Korsning Kamstorp (enskild väg)
+ Evenröd, Kamstorp, Linverksta'n
+
 T-korsning
- Tanum, Vidingen
+ Tanumshede, (Skistad)
+ Vitlycke Museum, Snökätting
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
 T-korsning Edsten
  Rabbalshede
@@ -28,23 +50,56 @@ T-korsning Edsten
 T-korsning Lille Edsten
  Hamburgsund
 					1.4 km/1.5 km	1 min 12 s/1 min 17 s
+T-korsning Lersten kvarn (lokal väg)
+ Kvarn
+
 Rondell Fjällbacka S
+ Sälvik
+ Fjällbacka Camping, Badplats
+ Veterinär, Vårdcentral
 					0.3 km/0.3 km	22 s/22 s
 Dubbel T-korsning Fjällbacka C
  Skistad
+ Centrum Parkering
+ Golfkusten (Norra backa GK), Åsleröds Camping
+ Stora Hotellet, Turistbyrå
 
 Etapp 2: Fjällbacka - Tanum (20,1 km/20,6 km)
 					2.2 km/2.1 km	1 min 53 s/1 min 48 s
-T-korsning Fjällbacka GK
+T-korsning Fjällbacka N (ej skyltad)
+ Fjällbacka Tennis & Äventyrsgolf
+
+T-korsning Lv 163/N. Hamng. (lokal väg)
+ Gullaboden
+
+Bro över Anråsälven
+
+T-korsning Fjällbacka GK (lokal väg)
+ Fjällbacka Golfklubb, Restaurang
 					4.8 km/4.9 km	4 min 7 s/4 min 12 s
+T-korsning Långedal (lokal väg)
+ Båtbyggeri
+
 Dubbel T-korsning Kämpeviks vgs
- St Anrås
+ Anrås
  Kämpersvik
 					0.9 km/0.8 km	46 s/41 s
-T-korsning
+T-korsning Hala
+ Orrekläpp
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
 T-korsning Nästegård
+ Tegneby
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
+(Korsning Ertseröd (enskild väg))
+
+T-korsning TanumStrand (lokal väg)
+ Hotell/Restaurang: TanumStrand
+ Camping/Ställplats, Badplats
+
+T-korsning Sportshopen (lokal väg)
+ Sportshopen
+ Restaurang: Farmor Ellen
+
 T-korsning Grebbestad S
 					1,8 km/1,9 km	2 min 10 s/2 min 17 s
 Dubbel T-korsning Grebbestad N

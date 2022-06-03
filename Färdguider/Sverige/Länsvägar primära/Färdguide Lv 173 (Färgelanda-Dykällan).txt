@@ -1,40 +1,70 @@
-Lv 173 Färgelanda - Dykällan
-=============================
+Lv 173 (Färgelanda - Dykällan)
+===============================
+
+Etapp 1: Färgelanda - Stigen ()
 
 Korsning Färgelanda östra
  Centrum, Hedekas
  172 s: Uddevalla
  172 n: Bengtsfors, Bäckefors
 					3.3 km/3.3 km	2 min 50 s/2 min 50 s
+T-korsning Lv 172/Volvovägen (lokal väg)
+ IAC Group, Assarebyhallen
+
+(T-korsning (lokal väg))
+
+(Parkeringsplats (norra sidan))
+ Ej skyltad, ev. uppriven
+
 T-korsning Stigen norra
- [172 n]: Bengtsfors
+ [172 n]: Bengtsfors, Bäckefors
 					1.3 km/1.3 km	1 min 34 s/1 min 34 s
+Korsning Stigens kyrka (lokal väg)
+ Skola, Idrottsplats
+
+(Bro över Lillån)
+T-korsning Stigen Centrum
+ Affär, Lokal väg (ej skyltad)
+
 T-korsning Stigen södra
- Brålanda, Sundals-Ryr
+ (Brålanda), Årbol
 					2.6 km/2.6 km	2 min 14 s/2 min 14 s
-T-korsning
+T-korsning Kuserud
  Ödeborg
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
 T-korsning Norra Rådane
- Hägnan
+ Häljebyn
 					0.6 km/0.6 km	31 s/31 s
 T-korsning Rådanefors
- Uddevalla
+ [172 s]: Uddevalla
+					(/
+(Infoplats (främst västgående)
+(ej skyltad östgående)
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
-Färgelanda / Vänersborg
+(Bro över Långhalmen): (58.527426,12.0968846))
+T-korsning Fröviksvägen (enskild väg)
+ Frövik, Rådanevallen
+
+(Bro över Bodaneälven)
+Färgelanda / Vänersborg: (58.5220378,12.1200687)
 					0.5 km/0.5 km	26 s/26 s
 T-korsning V. Bodane
- Kopperud
+ Rösebo
 					5.1 km/5.1 km	3 min 50 s/3 min 50 s
-T-korsning Ö. Stenshult
- Brålanda
+(Ställverk): (58.5240789,12.1638095)
+
+Korsning Ö. Stenshult
+ Brålanda, Sundals-Ryr
 					2.6 km/2.6 km	1 min 57 s/1 min 57 s
 T-korsning Kärsrud
- Uddevalla, Flicksäter
+ Uddevalla, (Flicksäter)
 					0.8 km/0.8 km	36 s/36 s
-T-korsning
+T-korsning Torp
  Frändefors
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
+T-korsning Forsane (enskild väg)
+ Kullarne, Forsane, Snickeri
+
 T-korsning Dykällan
  E45 s: Göteborg, Vänersborg
  E45 n: Karlstad, Mellerud
