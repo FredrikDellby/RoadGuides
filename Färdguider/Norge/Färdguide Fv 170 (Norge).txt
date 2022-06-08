@@ -14,7 +14,7 @@ T-korsning Heia
 Korsning Brattåsen
  Brattåsen (skytebane)
 					6.0 km/6.0 km	4 min 30 s/4 min 30 s
-T-korsning Krogstad Fv 170
+T-korsning Krogstad industri
  Korogstad industrifelt
 
 Rasteplass (søndre side)
@@ -39,14 +39,14 @@ Korsning Killingmo veikryss
  Fv1473 s: Korsmo, Killingmo industrifelt
  Fv1473 n: Killingmo
 					2.3 km/2.4 km	1 min 43 s/1 min 48 s
-Rondell Fv 170/Fv 171
+Rondell Finstadhagen
  Fv1469: Aursmoen, Aurskog sentrum
  171: Sørumsand, Aurskog Golfklubb
  Aurskoghallen, Finstadhagen industrifelt
  Bensinstasjon: HydroTexaco
  Restaurant: Grillkro´a Aurskog
 					1.6 km/1.6 km	1 min 36 s/1 min 36 s
-Dubbel T-korsning Aurskog-øst
+Dubbel T-korsning Øia
  Fv1469: Aursmoen, Aurskog Sentrum
  Aurskog kirke, Prestegård
  Fv1468: Svensjø bru
