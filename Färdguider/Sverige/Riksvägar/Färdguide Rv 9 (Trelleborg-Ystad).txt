@@ -1,90 +1,121 @@
-Färdguide Rv 9 (Trelleborg -
+FÃ¤rdguide Rv 9 (Trelleborg -
 =============================
 
 Etapp 1: Trelleborg - Smygehuk (15,0 km/15,1 km)
 
 T-korsning Hamnen V
- Färja-(E22 s): Travemünde, Sassnitz,
+ FÃ¤rja-(E22 s): TravemÃ¼nde, Sassnitz,
  		Rostock, Swinoujscie
- E6-E22 n: Malmö, Vellinge
+ E6-E22 n: MalmÃ¶, Vellinge
  Industri: S. Ind. omr.
 					0.7 km/0.6 km	50 s/43 s
-T-korsning Rv 9/Östersjögatan (lokal väg)
+T-korsning Rv 9/Ã–stersjÃ¶gatan (lokal vÃ¤g)
  Ej skyltad
 
 T-korsning Rv 9/Lv 108
  108: Lund, Svedala
- Centrum, Sjukhus, Sjöfartsmuseum
+ Centrum, Sjukhus, SjÃ¶fartsmuseum
 					0.3 km/0.4 km	22 s/29 s
-Korsning Rv 9/Klostergränden (lokal väg)
+Korsning Rv 9/KlostergrÃ¤nden (lokal vÃ¤g)
 Bensinstation: Shell
 
-Korsning Rv 9/Hansagatan (lokal väg)
+Korsning Rv 9/Hansagatan (lokal vÃ¤g)
  Centrum, Sjukhus, Idrottsplats
 					0.4 km/0.4 km	29 s/29 s
-Korsning Rv 9/Fyrmästareg. (lokal väg)
- Passagerarterminal (endast östgående)
-(Parkering Rådhuset)
+Korsning Rv 9/FyrmÃ¤stareg. (lokal vÃ¤g)
+ Passagerarterminal (endast Ã¶stgÃ¥ende)
+(Parkering RÃ¥dhuset)
 
 Korsning Rv 9/Kontinentgatan
- Parkering Järnvägsstationen
+ Parkering JÃ¤rnvÃ¤gsstationen
  Centrum, Info
 					0.8 km/1.0 km	0 min 58 s/1 min 12 s'
 T-korsning Rv 9/Johan Kocksg.
- Lokal väg, ej skyltad
+ Lokal vÃ¤g, ej skyltad
 
 T-korsning Rv 9/Glasbruksv.
  Industri: Trelleborg Ind. AB
  Flint Group, Sjukhus
 					0.8 km/0.8 km	58 s/58 s
-Rondell Rv 9/Ö. Ringvägen
- Anderslöv
+Rondell Rv 9/Ã–. RingvÃ¤gen
+ AnderslÃ¶v
 					0.4 km/0.3 km	21 s/15 s
-Järnvägsbro
+JÃ¤rnvÃ¤gsbro
  Kontinentalbanan
 					1.1 km/1.1 km	57 s/57 s
-Korsning Ö. Industriområdet
- Industri: Östra
+Korsning Ã–. IndustriomrÃ¥det
+ Industri: Ã–stra
  Trelleborg Strand Camping, Dalabadet
 					2.2 km/2.2 km	1 min 53 s/1 min 53 s
-Korsning Gislövs Läge V
- Gislövs Läge, Nybostrand
- Gislöv
- Idala Gård 
+T-korsning Alfred Pedersen & Son
+ Lokal vÃ¤g, ej skyltad
+
+Korsning GislÃ¶vs LÃ¤ge V
+ GislÃ¶vs LÃ¤ge, Nybostrand
+ GislÃ¶v
+ Idala GÃ¥rd 
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-T-korsning Gislövs Läge Ö
- Gislövs Läge
+T-korsning GislÃ¶vs LÃ¤ge Ã–
+ GislÃ¶vs LÃ¤ge
 					0.4 km/0.4 km	24 s/24 s
+Infopunkt (vÃ¤stgÃ¥ende)
 T-korsning
- Gislöv
+ GislÃ¶v
 			s		0.5 km/0.5 km	30 s/30 s
 Korsning Simremarken V
- Anderslöv, Simlinge
+ AnderslÃ¶v, Simlinge
 					0.8 km/0.8 km	48 s/48 s
 Korsning Simremarken
- S. Åby
+ Simrisdal
 					2.2 km/2.2 km	2 min 12 s/2 min 12 s
-Korsning Böste Läge
- S. Åby
+(Korsning Lantboden)
+ Lokal vÃ¤g, ej skyltad
+
+Korsning BÃ¶ste LÃ¤ge
+ S. Ã…by
+ Hotell/Restaurang: Hedmans Krog
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
-Korsning Smygehuk Fyr
+Korsning Smygehuk Fyr (lokal vÃ¤g)
+ Smygehuks Vandrarhem
+Infopunkt (Ã¶stgÃ¥ende)
 					0.5 km/0.7 km	26 s/36 s
-Dubbel T-korsning Smygehuk
- Sveriges sydspets
+T-korsning Smygehuk V (lokal vÃ¤g)
+ Parkering, Kiosk (ej skyltad)
+
+T-korsning Smygehuk Ã– (lokal vÃ¤g)
+ Udden, KÃ¶pmansmagasinet
+ Infoplats, CafÃ©, Parkering
 
 Etapp 2: Smygehuk - Mossbystrand (20,5 km/20,3 km)
 					0.7 km/0.5 km	50 s/36 s
 T-korsning Smygehamn V
- Ö. Torps K:a
+ Hemmesdynge, Ã–. Torp
+ DistriktsskÃ¶terska
 					1.2 km/1.3 km	1 min 26 s/1 min 34 s
-Korsning Smygehamn Ö
- Skuruo, Äspö
+Dubbel Korsning Smygehus
+ Hotell/Restaurang: Smygehus Havsbad
+ Ã„spÃ¶
+ Spettkaksbageri, Ã„spegÃ¥rden
 					2.4 km/2.3 km	2 min 24 s/2 min 18 s
+Smygehamns Ã…tervinningscentral
+
 Korsning Beddingestrand V
- Skurup, L. Beddinge
+ KÃ¤llstorp, L. Beddinge
 					1.1 km/1.1 km	1 min 19 s/1 min 19 s
-T-korsning Bedinge GK
+Pensionat Beddingestrand
+
+Strandblomman
+MatÃ¶ppet Beddingestrand
+
+Korsning Rv 9/Stensoppv. (lokal vÃ¤g)
+ FÃ¶rskolan SolÃ¶ga
+ New Wave Import
+
+Granhyddans Camping
+T-korsning Bedinge GK (lokal vÃ¤g)
+ Bedinge Golfklubb
 Bensinstation: Pump
+Restaurang: Beddinge Restaurang och Pizzeria, Pizzeria Amalfi
 					3.1 km/3.0 km	3 min 43 s/3 min 36 s
 Korsning Skateholm
  Skurup, St. Beddinge
@@ -92,38 +123,38 @@ Korsning Skateholm
 Trelleborg / Skurup
 					0.9 km/0.9 km	1 min 5 s/1 min 5 s
 T-korsning Bingsmarken
- Dybäck
+ DybÃ¤ck
 					6.6 km/6.6 km	7 min 55 s/7 min 55 s
-Korsning Abbekås
+Korsning AbbekÃ¥s
  Skurup, Skivarp
 					1.7 km/1.7 km	2 min 2 s/2 min 2 s
-T-korsning Abbekås GK
+T-korsning AbbekÃ¥s GK
 					2.2 km/2.2 km	1 min 53 s/1 min 53 s
 T-korsning Mossbystrand
- 101: Malmö, Skivarp
+ 101: MalmÃ¶, Skivarp
 
 Etapp 3: Mossbystrand - Ystad (10,6 km/11,0 km)
 					0.7 km/0.7 km	36 s/36 s
 T-korsning Brasakallt
- Sjörup
+ SjÃ¶rup
 					0.6 km/0.6 km	31 s/31 s
 Skurup / Ystad
 					0.7 km/0.8 km	36 s/41 s
 T-korsning
- Snårestad
+ SnÃ¥restad
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
-T-korsning 9/Charlottenlundsallén
- Marsvinsholm, Snårestad
+T-korsning 9/CharlottenlundsallÃ©n
+ Marsvinsholm, SnÃ¥restad
 					1.5 km/1.5 km	1 min 30 s/1 min 30 s
 T-korsning Svarte
  Marsvinsholm
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
 T-korsning Vilhelmsborg
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
-T-korsning 9/Västerleden
+T-korsning Rv 9/VÃ¤sterleden
 					0.7 km/0.7 km	36 s/36 s
-T-korsning 9/Edvinhemsv.
+T-korsning Rv 9/Edvinhemsv.
  Ystad Centrum
 					1.2 km/1.5 km	1 min 2 s/1 min 17 s
-Tankställe Granatvägen
+TankstÃ¤lle GranatvÃ¤gen
 Trafikplats Ystad (Rondell)
