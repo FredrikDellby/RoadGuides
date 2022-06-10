@@ -100,12 +100,12 @@ T-korsning Lv 154/Hedemovägen (lokal väg)
 
 Bro över Högvadsån
 
-Korsning Ullareds kyrka (lokal väg)
+Korsning Ullareds kyrka (lokal väg))
  Ullareds kyrka
  Vårdcentral
  Bensinstation: Din-X
 					(/
-Dubbel T-korsning Ullared
+(Dubbel T-korsning Ullared)
  153 ö: Värnamo, Ätran
  153 v: Varberg
  Gekås Parkering/Info
@@ -186,6 +186,7 @@ Falkenberg / Svenljunga
 Korsning Mjöbäck Industri
  Claesson Engineering, Lokal väg
 
+Mandys Inn Motel/B&B
 T-korsning Mjöbäcks kyrka
  Mjöbäck, Husfabrik
 (Mjöbäcks kyrka N)
