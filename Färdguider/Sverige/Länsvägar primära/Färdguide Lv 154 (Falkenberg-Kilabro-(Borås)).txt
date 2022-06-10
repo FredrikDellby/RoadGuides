@@ -223,3 +223,138 @@ T-korsning Överlida Ö
 
 Korsning Överlida Camping
  Överlida Camping, Lokal väg
+
+T-korsning (enskild väg)
+ Ekomuseum: Gräne Gruva
+
+(Korsning Fäxhult)
+ Enskild väg, knappt skyltad
+
+Rastplats Holsljunga
+
+(Större grusparkering (östra sidan))
+(direkt invid vägen)
+(T-korsning Lv 154/Sjövägen)
+ Lokal väg, ej skyltad
+
+Korsning Holsljunga
+ Hid
+ Torestorp, Öxabäck, Holsljunga kyrka
+ Holsljunga Camping & Café, Badplats
+
+Korsning Lv 154/Granvägen (lokal väg)
+ Snickeri special, Sahlins, OVEDA
+
+(T-korsning (enskild väg))
+ Tobo
+
+(T-korsning Linderyd (enskild väg))
+ Tobo
+
+(Korsning Tommared (enskild väg))
+ Danskabo, Tommared
+
+Korsning Karkashult
+ Fornebo (enskild väg)
+ Revesjö
+
+T-korsning Axelforshed
+ Ätran, Mårdaklev, Ö. Frölunda
+
+(f.d. Axelforshed affär)
+
+(T-korsning Axelfors)
+ Lokal väg, ej skyltad
+
+Basturökeri
+T-korsning Axelfors bro
+ Revesjö
+(Axelfors bro)
+ Ätran
+
+T-korsning S Örsåsvägen
+ Örsås (endast skyltad nordgående)
+
+T-korsning N Örsåsvägen
+ Örsås (endast skyltad sydgående)
+
+T-korsning Änglarp (lokal väg)
+ Återvinningscentral Änglarp
+
+T-korsning Moga
+ Revesjö, Industri: Bergsäter, Moga S
+
+T-korsning (lokal väg)
+ Badplats, Friluftsområde
+
+T-korsning Elmo Calf (lokal väg)
+ Industri: Moga N
+
+Korsning Mogaskolan (lokal väg)
+
+(Svenljunga Mopedservice)
+Restaurang: Dallas Pizzeria
+Rondell Svenljunga
+ 156 ö: Trandemo
+ 156 v: Kinna, Skene
+ Centrum, Turistbyrå
+(Bro över Ätran)
+
+Korsning Lv 154/Nylännesgatan (lokal väg)
+ Kommunkontor
+ Bensinstation: Preem, Tanka
+
+T-korsning Lv 154/Nylännesgatan
+ Lokal väg, ej skyltad
+
+Korsning Lv 154/Spinnaregatan (lokal väg)
+ Industri: Brokvarn, Naturbruksgymnasium
+
+(T-korsning Lv 154/Ljungaforsv.)
+ Lokal väg, ej skyltad, belyst
+
+(Bro över Ätran)
+T-korsning (enskild väg)
+ Broline Stall AB
+
+Korsning Ljungafors
+ Ljungaskog (enskild väg), Broline kontor hingstdepå
+ Ringestena
+
+T-korsning Ullasjövägen (enskild väg)
+ Brokvarn, Ullasjö
+ Veterinär, Broline Stall A B C
+
+Rastplats Kolarp
+T-korsning Kolarp N
+ Länghem
+
+(Blockerad Infart)
+
+T-korsning Broholm
+ Länghem, Bergkross
+Bensinstation: Paroy
+					/)
+Bro över Ätran)
+
+T-korsning Sexdrega Ö
+ Roasjö, Ljushult, Sexdrega
+
+T-korsning Svensson Wood (lokal väg)
+ Ej skyltad
+
+(T-korsning Svensson Wood N)
+ Lokal väg, ej skyltad
+
+T-korsning Sexdrega N
+ Ljushult, Sexdrega
+
+Van Werven: (57.5965805,13.1264896)
+
+(T-korsning (lokal väg))
+ Lockryd, ej skyltad
+
+Rondell Kilabro
+ 27 s: Karlskrona, Tranemo
+ 27 n: Göteborg, Borås
+ Dannike, Hillared
