@@ -1,40 +1,66 @@
 Etapp 5: Ystad - Simrishamn ()
 
-Rondell Ystad Ö
- E65 s-Färja: Polen
- E65 n: Malmö, Skurup
- Ystad Centrum
+Rondell Ystad Ã–
+ E65 v: MalmÃ¶, Sjukhus
+ 9 v: Trelleborg
+ E65 Ã¶-FÃ¤rja: Polen
+ Ystad Centrum, Idrottsplats
+ Bensinstation: Preem
+ Restaurang: Skogshyddan
 
-T-korsning 9/Sandsjöbadsv.
- Hotel: Ystads Saltsjöbad
+T-korsning Rv 9/SandsjÃ¶badsv. (lokal vÃ¤g)
+ Hotell: Ystads SaltsjÃ¶bad
 
-Järnvägskorsning
- Österlensbanan
+JÃ¤rnvÃ¤gskorsning
+ Ã–sterlensbanan
 
-T-korsning 9/Fritidsvägen
+T-korsning Rv 9/FritidsvÃ¤gen (lokal vÃ¤g)
+ Strandskogens stugomrÃ¥de
 
-Korsning Jaktpaviljongen
- Café: Jaktpaviljongen
+Korsning Jaktpaviljongen (lokal vÃ¤g)
+ Jaktpaviljongen, Jaktens Kiosk & Minigolf
+ Ystad Camping
 
-T-korsning Fredriksbergsvägen
+Parkering - Infart 1
+Korsning Rv 9/Skogsgrindsv. (lokal vÃ¤g)
+ Parkering - Infart 2
 
-Infoplats (västgående)
+Parkering - Infart 3
+
+Parkering - Infart 4
+
+Parkering - Infart 5
+Dubbel T-korsning Soltattorpet (lokal vÃ¤g)
+ Parkering - Infart 6
+ Soltattorpet, Skjutbanor
+
+Parkering - Infart 7
+
+T-korsning FredriksbergsvÃ¤gen
+ St. Herrestad, Fredriksberg
+ Ystad Ridcenter, Brukshundklubb
+
+T-korsning GamleÃ¥n (lokal vÃ¤g)
+ Parkering
+Infoplats (norra sidan)
+T-korsning (lokal vÃ¤g)
+ Marietorp
 
 T-korsning Ystad GK
 
 T-korsning Nybrostrandbadet
- Lokalt mål
+ Lokalt mï¿½l
 
 Korsning
- Kåseberga
+ Kï¿½seberga
 
-T-korsning Bärsärkakorset
- Löderup, Ingelstorp
+T-korsning Bï¿½rsï¿½rkakorset
+ Lï¿½derup, Ingelstorp
 
 T-korsning Glemmingebro V
 
 T-korsning
- Räfsans Bykrog
+ Rï¿½fsans Bykrog
 
 Korsning Glemminge
 
@@ -43,7 +69,7 @@ Ystad / Simrishamn
 T-korsning Hannas V
 
 T-korsning Hannas C
- Löderup
+ Lï¿½derup
 
 T-korsning Hannas N
  Smedstorp

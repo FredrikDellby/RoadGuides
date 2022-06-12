@@ -97,7 +97,8 @@ Dubbel Korsning Smygehus
  Äspö
  Spettkaksbageri, Äspegården
 					2.4 km/2.3 km	2 min 24 s/2 min 18 s
-Smygehamns Återvinningscentral
+(T-korsning) Smygehamns Återvinningscentral
+ Lokal väg
 
 Korsning Beddingestrand V
  Källstorp, L. Beddinge
@@ -117,44 +118,109 @@ T-korsning Bedinge GK (lokal väg)
 Bensinstation: Pump
 Restaurang: Beddinge Restaurang och Pizzeria, Pizzeria Amalfi
 					3.1 km/3.0 km	3 min 43 s/3 min 36 s
+Restaurang: 2:a Sandbank
+Strandköp
+
+T-korsning Skateholms Camping: (55.377872,13.4686447)
+ Skateholms Camping, Lokal väg
+
 Korsning Skateholm
  Skurup, St. Beddinge
+ Lilla Änggården Semesterlägenheter
 					0.7 km/0.7 km	50 s/50 s
-Trelleborg / Skurup
+Skateholms Pensionat B&B
+
+Korsning Rv 9/Ängarödsv.
+ Potatis, Lokal väg
+
+Trelleborg / Skurup: (55.3820333,13.4823198)
+(Bro över )
 					0.9 km/0.9 km	1 min 5 s/1 min 5 s
 T-korsning Bingsmarken
  Dybäck
 					6.6 km/6.6 km	7 min 55 s/7 min 55 s
+Bingsmarkens Camping
+
+((Dubbel) Bro över )
+(Dubbel) T-korsning Hörte hamn
+ Parkering, Lokal väg
+
+T-korsning Hörte
+ Skivarp, Gästgivaregård
+ Lillehem Gårdshotell
+
+(SeaBreeze Cottage)
+
 Korsning Abbekås
- Skurup, Skivarp
+ Skivarp, Lanthandel (Pizzeria)
+Restaurang: Dinah's place
 					1.7 km/1.7 km	2 min 2 s/2 min 2 s
-T-korsning Abbekås GK
+Korsning Rv 9/Kalmarvägen (lokal väg)
+ Hamnen, Sommarcafé
+ Restaurang: Bongska Huset
+ Hotell: Abbegås Logi, Strandhuset B&B
+(Abbe Gård)
+
+T-korsning Abbekås GK (lokal väg)
+ Abbekås Golfklubb, Abbekås Golfrestaurang & Hotell
 					2.2 km/2.2 km	1 min 53 s/1 min 53 s
+Korsning Mossby kaffestuga
+ Mossby
+
+T-korsning Mossbylund (lokal väg)
+ Hotell Mossbylund
+
+Mossbystrand Parkering och Kiosk)
+					/)
 T-korsning Mossbystrand
  101: Malmö, Skivarp
 
 Etapp 3: Mossbystrand - Ystad (10,6 km/11,0 km)
 					0.7 km/0.7 km	36 s/36 s
+Mossby Fiskeria
+
 T-korsning Brasakallt
  Sjörup
 					0.6 km/0.6 km	31 s/31 s
-Skurup / Ystad
+Skurup / Ystad: (55.4179008,13.656125)
 					0.7 km/0.8 km	36 s/41 s
-T-korsning
+T-korsning Högasten
  Snårestad
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
-T-korsning 9/Charlottenlundsallén
- Marsvinsholm, Snårestad
+T-korsning Rv 9/Charlottenlunds Allé
+ Charlottenlund
 					1.5 km/1.5 km	1 min 30 s/1 min 30 s
+(T-korsning Svarte V)
+ Lokal väg, ej skyltad
+
 T-korsning Svarte
- Marsvinsholm
+ Skårby, Parkering Bad
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+(Bro öveer )
+T-korsning Rv 9/Svartemöllav.
+ Lokal väg, restriktiv
+
 T-korsning Vilhelmsborg
+ Ruuthsbo
 					1.8 km/1.8 km	1 min 33 s/1 min 33 s
+Infopunkt: (55.4263581,13.7652696)
+Parkering Lilleskog
 T-korsning Rv 9/Västerleden
+ Ystad Centrum
 					0.7 km/0.7 km	36 s/36 s
 T-korsning Rv 9/Edvinhemsv.
- Ystad Centrum
+ Västra Sjöstaden, Industri: Västra
+ Blomsterhuset Europa
 					1.2 km/1.5 km	1 min 2 s/1 min 17 s
+T-korsning Rv 9/Dro. Margarethas väg
+ Lokal väg, ej skyltad
+
 Tankställe Granatvägen
-Trafikplats Ystad (Rondell)
+ Bensinstation: Circle-K
+ Restaurang: McDonald's
+
+Trp Ystad (Rondell)
+ E65 v: Malmö
+ Centrum
+ E65 ö: Ystad Hamn, Färja: Polen
+ 9 ö: Simrishamn
