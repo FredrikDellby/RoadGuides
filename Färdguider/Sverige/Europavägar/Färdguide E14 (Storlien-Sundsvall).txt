@@ -74,3 +74,130 @@ T-korsning Ånn östra (enskild väg)
  Ej skyltad, Enskild väg
 
 Bro över Tångböleströmmen
+
+(Korsning Rännbergsbacken)
+ Enskild väg, Åredalens Hundsport (ej skyltad?)
+
+Korsning Staa vägskäl
+ Sundsvallen, Hundsportsut (enskild väg)
+ 322: Sandvika, Skalstugan
+ Tännforsen (sevärdhet), Åre Golfklubb (Café)
+(Bensinstation: Alltank)
+T-korsning (lokal väg)
+ Återvinningscentral Staa
+
+Staabron
+ Indalsälven?
+
+T-korsning Staabron
+ Häggsjön, Nordhallen
+ Njarka sameläger
+
+Backs Semesterby
+Korsning Pålles stugby (lokal väg)
+T-korsning Duvedsbyn
+ Millestgården, Karolinermonument
+
+Korsning Duved E14
+ Centrum
+ Solhyllan, Duved Ski Lodge
+ Hotell: Fjällportens Pensionat, Pensionat Mullfjället
+
+T-korsning Duved ski (lokal väg)
+ Duved ski (ej skyltad)
+
+T-korsning E14/Lennart Brunnhages väg (lokal väg)
+ Duved ski (ej skyltad)
+
+Korsning E14/Paradisvägen (lokal väg)
+ Duveds Semesterby
+
+T-korsning Tegefjäll E14
+ Tegefjäll ski
+
+T-korsning (lokal väg)
+ Årekläppen
+
+Bro över Ullån: (63.4041655,13.0228101)
+
+Korsning Åre Bräcke
+ Ullådalen, Bustamon, Rödkullen
+ Skidområden, Buustamons Fjällgård
+
+T-korsning VM8:an E14 (lokal väg)
+ Åre station, Turistbyrå (endast skyltat östgående)
+ Hotell: Åre fjällby, mfl
+ VM8:an (stollift)
+					(/
+(Tunnel under VM8:an
+
+Dubbel T-korsning Kabinbanan (lokal väg)
+ Belwobyn, Kabinbanan Parkering
+ Parkering: Centrum (4 m fri höjd)
+ Åre station, Turistbyrå, Fjällbyn (endast skyltat västgående)
+ Bensinstation: OKQ8
+ Restaurang: Prima Pasta, Sibylla
+
+(Åre Brandstation)
+T-korsning E14/Tottvägen
+ Centrum (3,7 m fri höjd)
+
+T-korsning E14/Solbringsv. (enskild väg)
+ Tottens by, ÅreKompaniet, Polis
+ Hälsocentral, Folktandvård
+ Hotell Fjällgården, Tott Hotell & Spa
+
+T-korsning Vikböle, E14/Årevägen
+ Parkering: Åre Strand, Åre gamla k:a
+ Holiday Club (badpalats), Schibsted Arena
+
+(T-korsning Vikböle Ö)
+ Vikböle, Enskild väg
+
+T-korsning Vik E14
+ Björnänge
+
+(T-korsning E14/Björneborgsvägen)
+ Lokal väg, ej skyltad
+
+T-korsning Karolinen (lokal väg)
+ Hotell: Åre Karolinen
+
+Bensinstation: Preem
+Korsning Björnänge/Hårbörsta E14 (enskild väg)
+ Björnänge By (ej skyltad)
+ Huså, Svedje, Björnen
+ Fröå gruva (sevärdhet), Copperhill Mountain Lodge
+
+(T-korsning (enskild väg))
+Rastplats Åre Björnänge
+
+T-korsning Åre Continental Inn E14 (lokal väg)
+ Förskolan Regnbågen
+
+T-korsning Såböle E14 (enskild väg)
+ Bergtäkt
+
+Korsning Såå södra/Åre Camping
+ Björnänge, Så
+ Åre Camping
+
+T-korsning Såå industri (lokal väg)
+ Handelshuset i Såå, Åre Skidfabrik
+
+(Korsning (enskild väg))
+ Återvinningsstation, ej skyltad
+
+(T-korsning Brattlandsgården)
+ Brattlandsgården, Lokal väg
+
+(Korsning Brattland Åkeri)
+ Brattland Åkeri, Lokal väg
+
+Åre Produktion, Bössmakeri
+
+Korsning Undersåker västra vägskäl E14
+ Vålådalen, Undersåker
+ Vällistegården (ställplats), Lanthandel
+ Hotell Åre Fjällsätra, Betongfabrik
+ Trostebacken, Undersåker Semesterby (enskild väg)
