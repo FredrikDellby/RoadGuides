@@ -831,4 +831,75 @@ Dubbel T-korsning Dovre E6
  Fv2656: Grimsdalen (bompeng), Dovre
  Infoplass, Jetta Kafeteria
 
-Etapp 23: 
+Etapp 23: Dovre - Dombås ()
+
+(Klokkerhaugtunnelen (24 m)
+
+Bru over Einbugga: (61.9907244,9.2336819)
+
+T-korsning E6/Kongsvegen
+ Dovre (ikke skiltet)
+
+T-korsning Toftemo E6
+ Fv2662: Vestsidevegen
+ Toftemo turiststasjon
+
+Korsning Dovre Motell-syd
+(kun skiltet nordgående)
+ Bensinstasjon: YX
+ Hotell: Dovre Motell
+
+Dovre Motell-nord
+(kun skiltet sydgående)
+(Bru over Rådååe)
+
+Holum Camping
+
+Korsning Killi Bru
+ Killi Bru
+
+T-korsning Bjørkhol
+ Bjørkhol Camping
+
+Dubbel T-korsning Ulekleiv E6
+ Faksfall Camping
+ Ulekleiv (ikke skiltet)
+
+(Bru over Hjellai)
+
+T-korsning Li
+ Fv2656: Grimsdalen (bompeng)
+ Budsjord Pilegrimsgården
+
+T-korsning (lokal vei)
+ Dombås stasjon, Ikke skiltet
+
+T-korsning E6/Blæstervegen
+Bensinstasjon: Esso Express
+Butikk: Felleskjøpet
+(Bensinstasjon: Shell (S infart))
+
+Bensinstasjon: Shell (N infart)
+Dubbel T-korsning Dombås sentrum
+ Restaurant: Moskusgrillen, Rosa Napoli
+ Hotell: Dombås Hotell, Domaas Gård
+ Dombås stasjon, Skyssterminal, Parkering
+
+Bensinstasjon: Circle-K
+
+Rondell E6/E136
+ E136: Ålesund, Åndalsnes
+
+Mittrekk begynder / ender
+
+Mitrekk ender / begynder
+
+(T-korsning E6/Fjellvegen)
+ Ljos..
+
+T-korsning E6/Fjellvegen
+ Dombås Fjellskole, Dombås skiarena
+ Hotell: Trolltun, Dombås Vandrerhjem, Dombås Hyttepark
+
+(Parkeringsplass (vestre side)
+
