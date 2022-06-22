@@ -262,7 +262,74 @@ T-korsning Trøgstad kirke
 (Parkeringsplass)
 T-korsning Trøgstad sentrum
  115 n: Bjørkelangen
-    (/
+
 ((Dubbel) T-korsning Skjønhaug Torv)
  Gjenvinning
+
+(T-korsning Rv 22/Kirkeveien)
+ Teknisk etat, Branngarasjer
+
+Trøgstad Karosseriverksted
+
+Dubbel T-korsning Frøshaugdalen
+ Rasteplass, Minnelund
+ Totorp, Buster tilhengerfabrikk
+
+T-korsning Rv 22/Løkenveien
+ Fv1278: Raknerud
+
+T-korsning Berger
+ Fv1288: Ringstad
+ Rats, Rørhus Bil
+
+T-korsning Skovly
+ Fv1278: Raknerud
+
+T-korsning Olberg
+ Fv1280: Sandstangen, Badeplass
+
+T-korsning Rv 22/Vassbygda
+ Evenby, Olberg Camping, Baastad Mekaniske
+
+Dubbel T-korsning Båstad skole
+ Båstad barnehage, skole
+
+Dubbel T-korsning Båstad kirke
+ Båstad kirke
+ Gravlund
+
+(T-korsning Rv 22/Kirkebyåsen)
+ Ikke skiltet
+
+T-korsning Heiås
+ Fv1286: Sentvet
+ Baastad tre, Ravn's garage, Rats
+
+(Bensinstasjon: Best
+(Restaurang: Båstad kebab og pizza
+
+T-korsning Båstad handel
+ Bunnpris
+
+Korsning Venta
+ Torp, Tunvold Smie, Stikla pukkverk, Båstad Bil
+ Ekhaugen, Båstad kunst.
+
+(Folkvang Grendehus)
+
+T-korsning (lokal vei)
+ Tueåsen hyttefelt
+
+T-korsning Solvang
+ Fv1282: Sæther
+
+T-korsning Krokedal 	
+ Fv1284: Solum
+Indre Østfold / Lillestrøm
+
+Grendehuset på Enebakkneset
+
+Korsning Enebakkneset
+ Hunes, Gravlund
+ Bensinstasjon: YX
 
