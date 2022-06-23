@@ -106,30 +106,36 @@ Korsning Rv 66/Hammarbacksv.
 Korsning Rv 66/Domarevägen
  Badplats
 
-Loppis Hammarbacken
+T-korsning Hammarbacken (lokal väg)
+ Loppis, Parkeringsplats
 
 Järnvägskorsning
  Bergslagsbanan
 T-korsning Rv 50/Rv 66
+ 50 n: Falun, (Borlänge)
 
-Korsning Rv 50/66/Ö. Storgatan
- Lokal väg
-Bensinstation: Circle-K
-
+Korsning Rv 50/66/Ö. Storgatan)
+ Sjukhus, Lokal väg
+Bensinstation: Circle-K)
+                    /)
 Rondell Karlberg
+ 50 s: Örebro
+ 63: Karlstad, Kopparberg
+ Turistbyrå
+ Parkering: Centrum
 
 Etapp 17: Ludvika - Smedjebacken ()
 
-Rondell
+Rondell (lokal väg)
  ICA Kvantum
 
-Korsning Rv 66/Timmermansv.
- ABB Arena Ishall
+Korsning Rv 66/Timmermansv. (lokal väg)
+ ABB Arena Ishall, Sjukhus
 
-Sibylla Ludvika
-T-korsning 66/Nils Nils g.
+Hillängskiosken: Sibylla
+T-korsning Hillängskiosken (lokal väg)
  Bensinstation: OKQ8
- Ludvika Gammelgård
+ Ludvika Gammelgård, Gruvmuseum
 
 T-korsning Rv 66/Verkstadsvägen (lokal väg)
  Bilservice
@@ -137,7 +143,7 @@ T-korsning Rv 66/Grågåsvägen (lokal väg)
  ABB Arena
 
 Korsning Harnäs Rv 66
- Harnäs
+ Harnäs, Handelsomr. Målarbacken
 (Signshop)
 
 Ludvika / Smedjebacken: (60.1510684,15.224814)
@@ -177,6 +183,8 @@ Rondell Smedjebacken S
  Björsjö, Industri: Vilmoren
  Säter, Smedjebacken
 
+Etapp 18: Smedjebacken - Söderbärke ()
+
 Korsning Backbyn östra
  Flatenberg, Flatenbergs hytta
 
@@ -204,6 +212,8 @@ Korsning Söderbärke Rv 66
  Järnvägs-hpl
  Vad, Centrum
 
+Etapp 19: Söderbärke - Hedkärra ()
+
 (Korsning Brustorpet Söderbärke)
  Smällbo, Enskild väg
 
@@ -219,6 +229,37 @@ Järnvägsviadukt
 
 Infoplats (östra sidan)
 
+(Korsning Tunkarlsbo Rv 66)
+ Lexsjöbo, Enskild väg
+
 T-korsning Viksberg
  Baggbron
 
+Korsning Viksberg SO
+ Baggbron
+
+(T-korsning Björsbo norra)
+ Björsbo, Enskild väg, belyst
+
+T-korsning Björsbo södra
+ Hedkärra
+
+(T-korsning (lokal väg))
+ Björsbo Trädgård (diskret skyltad)
+Dalarna / Västmanland: (59.9710031,15.7164808)
+Smedjebacken / Fagersta
+
+Korsning Rv 66/Jönsbacksv. (enskild väg)
+ Högbyn (vandring)
+
+T-korsning Hedkärra S
+ Hedkärra, Fagersta Golfklubb
+ Fagersta Ryttarklubb (ridsportsbutik)
+(Järnvägsviadukt)
+ Godsstråket
+
+Korsning Hedkärra Oti
+ 68 s: Örebro
+ 66 ö: Västerås, Rastplats Eskiln
+ 68 n: Gävle, Fagersta
+ 250: Kungsör, Köping
