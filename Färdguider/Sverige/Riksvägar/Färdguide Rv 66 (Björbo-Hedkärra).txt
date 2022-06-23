@@ -131,43 +131,94 @@ T-korsning 66/Nils Nils g.
  Bensinstation: OKQ8
  Ludvika Gammelgård
 
-T-korsning 66/Verkstadsvägen
+T-korsning Rv 66/Verkstadsvägen (lokal väg)
  Bilservice
-T-korsning 66/Grågåsvägen
+T-korsning Rv 66/Grågåsvägen (lokal väg)
  ABB Arena
 
 Korsning Harnäs Rv 66
+ Harnäs
+(Signshop)
 
-(T-korsning)
- Harnäsgården
+Ludvika / Smedjebacken: (60.1510684,15.224814)
 
-Ludvika / Smedjebacken
+T-korsning Sjöbo (enskild väg)
+ Sjöbo, Harnäsgården
 
 Bro över Övre Hillen
 
 Dubbel T-korsning Norsbro
+ Norsbro
+ Gubbo
+ Ekomuseum Stollbergs gruvor
 
 Dubbel T-korsning Lernbo Rv 66
+ Gubbo, Flogbergets gruvor
+ Plantskola (lokal väg)
 
-Bro
-
+(Bro över )
 T-korsning Rv 66/Haggevägen
+ Snöån, Hagge
+ Sågverk, Hagge Golfklubb, Räfsnäs Camping
 
 Järnvägsviadukt
  Bergslagspendeln
 
+Korsning Källänget västra
+ Morgårdshammar, Byggmax
+
+(Korsning (lokal väg))
+ Ställverk
+
+(Korsning Östermoren)
+ Enskild väg, ej skyltad, belyst
+
 Rondell Smedjebacken S
+ Björsjö, Industri: Vilmoren
+ Säter, Smedjebacken
 
 Korsning Backbyn östra
- Flatenberg, Flatenbergs kyrka
+ Flatenberg, Flatenbergs hytta
 
 Infoplats (östgående)
 Rastplats Rastahyttan
 (västgående riktning)
 
-T-korsning Vanhäll
- Wanbo Herrgård
+T-korsning Vanhäll (enskild väg)
+ Wanbo Herrgård, Vanhälls såg
 
 Järnvägsviadukt
  Bergslagspendeln
+
+Ludvika Motocross Klubb
+(Korsning Ned Vanbo)
+ Enskild väg, ej skyltad
+
+(Korsning Larssveden vsk (enskild väg))
+ Perhindersbo, Larssveden
+
+Korsning Industriområdet Söderbärke
+ Industriområde, Lokal väg
+
+Korsning Söderbärke Rv 66
+ Järnvägs-hpl
+ Vad, Centrum
+
+(Korsning Brustorpet Söderbärke)
+ Smällbo, Enskild väg
+
+T-korsning Årängen/Västerbyhytta
+ Malingsbo, Tolvsbo
+ Västeråsgården, Tolvsbo Värdshus
+
+Järnvägsviadukt
+ Bergslagspendeln
+
+(Korsning Huggnora Rv 66)
+ Huggnora, Enskild väg
+
+Infoplats (östra sidan)
+
+T-korsning Viksberg
+ Baggbron
 
