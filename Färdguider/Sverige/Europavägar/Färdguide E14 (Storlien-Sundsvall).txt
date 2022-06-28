@@ -1,6 +1,8 @@
 Färdguide E14 (Storlien - Sundsvall)
 =====================================
 
+Etapp 1: Norge - Enafors ()
+
 Stor Parkeringsficka (södra sidan)
 Sverige / Norge
 Tröndelag / Jämtland
@@ -49,6 +51,8 @@ Korsning Enafors ö
 (Järnvägsviadukt)
  Mittbanan
 
+Etapp 2: Enafors - Staa ()
+
 (T-korsning (enskild väg))
  Ej skyltad, bom
 
@@ -85,6 +89,8 @@ Korsning Staa vägskäl
 (Bensinstation: Alltank)
 T-korsning (lokal väg)
  Återvinningscentral Staa
+
+Etapp 3: Staa - Åre ()
 
 Staabron
  Indalsälven?
@@ -123,6 +129,8 @@ Bro över Ullån: (63.4041655,13.0228101)
 Korsning Åre Bräcke
  Ullådalen, Bustamon, Rödkullen
  Skidområden, Buustamons Fjällgård
+
+Etapp 4: Åre - 
 
 T-korsning VM8:an E14 (lokal väg)
  Åre station, Turistbyrå (endast skyltat östgående)
