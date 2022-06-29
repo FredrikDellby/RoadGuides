@@ -1,83 +1,126 @@
-F�rdguide Lv 168 (Kung�lv - Marsstand)
+Färdguide Lv 168 (Kungälv - Marsstand)
 =======================================
 
-Etapp 1: Ko�n - Tjuvkil (10,1 km/10,1 km)
+Etapp 1: Koön - Tjuvkil (10,1 km/10,1 km)
 
-Ko�n f�rjel�ge
- F�rja: Marsstrands�n
+Koön färjeläge
+ Färja: Marsstrandsön
 					0,8 km/0,8 km	1 min 12 s/1 min 12 s
-T-korsning Ko�n �st
-					1,7 km/1,9 km	1 min 27 s/1 min 38 s
-Vall
-					1,7 km/1,5 km	1 min 27 s/1 min 17 s
-Inst�bron-v�st
-					0,8 km/0,9 km	41 s/46 s
-Inst�bron-�st
-					0,6 km/0,6 km	31 s/31 s
-Vall-v�st
-					0,4 km/0,4 km	21 s/21 s
-Vall-�st
-					0,9 km/1,1 km	46 s/57 s
-Vall
-					1,9 km/1,6 km	1 min 38 s/1 min 22 s
-T-korsning Tjuvkils v�gsk�l
- Tjuvkils brygga
-					1,2 km/1,1 km	1 min 2 s/0 min 57 s
-T-korsning Tjuvkilsboden
- Lycke, K�rna
+T-korsning Lv 168/Styrmansgatan (lokal väg)
+ Parkering: Muskeviken, Käglan, Brandstationn
+ MSS slip
+T-korsning Hamnplan (lokal väg)
+ Parkering Hamnplan
 
-Etapp 2: Tjuvkil - Kung�lv (15,8 km/15,9 km)
+T-korsning Danske Sten (lokal väg)
+ Koöns kapell, Marstrands Familjecamping
+
+Dubbel T-korsning Mjölkekilen (lokal väg)
+ Parkering: Badhålan
+ Parkering: Mjölkekilen, Husbil
+					1,7 km/1,9 km	1 min 27 s/1 min 38 s
+(Vall Koön / Instön)
+					1,7 km/1,5 km	1 min 27 s/1 min 17 s
+Instöbron-väst: (57.8917723,11.6591115)
+ 500 m
+					0,8 km/0,9 km	41 s/46 s
+(Instöbron-öst: (57.8896204,11.6665234))
+T-korsning Rökan (lokal väg)
+ Färja: Dyrön, Badplats, Parkering
+ Instö Café, Bar & Kök
+					0,6 km/0,6 km	31 s/31 s
+(Vall-väst (Vrångholmen / Nordön))
+					0,4 km/0,4 km	21 s/21 s
+(Vall-öst (Vrångholmen / Nordön))
+T-korsning Nordöhamnen (lokal väg)
+ Parkering, Småbåtshamn (ej skyltad?)
+					0,9 km/1,1 km	46 s/57 s
+(Bro/Vall Nordön / Fastlandet)
+Parkering Nordösundet
+					1,9 km/1,6 km	1 min 38 s/1 min 22 s
+T-korsning Tjuvkils vägskäl
+ Tjuvkils huvud
+					1,2 km/1,1 km	1 min 2 s/0 min 57 s
+Korsning Tjuvkilsboden
+ Färja: Kornhall
+ Kärna, Lycke
+ Truskärsvägen, Matskärsvägen (enskild väg)
+
+Etapp 2: Tjuvkil - Ytterby (15,8 km/15,9 km)
 					2,0 km/2,0 km	1 min 43 s/1 min 43 s
-T-korsning Gullbringa
- Gullbringa Golfbana
+T-korsning Gullbringa (enskild väg)
+ Kulperöd, Gullbringa Golfbana
 					0,8 km/0,8 km	41 s/41 s
-T-korsning L�keberg
- Konferenshotell
+T-korsning Lökeberg (enskild väg)
+ Lökeberg, Konferenshotell
 					1,2 km/1,2 km	1 min 2 s/1 min 2 s
-T-korsning V�vra korsv�g
- Stenungsund, Kode
+Butik Tjuvkil 939
+ Våffelcafé
+
+Korsning Vävra korsväg
+ Stenungsund, (Kode)
+ Hantverksbageri Skåra Gårdsbageri
 					2,4 km/2,4 km	2 min 3 s/2 min 3 s
-T-korsning R�vo
- Vener�d
+T-korsning Hålta skola (lokal väg)
+ Hålta skola, Ej skyltad
+
+Hålta kyrka
+
+T-korsning Rävo
+ Veneröd
 					0,3 km/0,3 km	15 s/15 s
-T-korsning Gateg�rden
+T-korsning Gategården
  Restad
 					1,8 km/1,8 km	1 min 33 s/1 min 33 s
-Korsning Sk�rbyv�gen
- Kareby, Diser�d
+Korsning Skårbyvägen
+ Skårby
 					0,5 km/0,5 km	26 s/26 s
-T-korsning Bollstad
- Golfklubb
+T-korsning Bollstad (enskild väg)
+ Bollstad, Golfklubb
 					2,4 km/2,4 km	2 min 3 s/2 min 3 s
-T-korsning 168/Sparr�sv�gen
- Lokala m�l
+T-korsning Guddehjälm västra (enskild väg)
+ Guddehjälm, Hembygdsgård, Naturreservat
+
+(Guddeby Gård)
+
+T-korsning Lv 168/Sparråsvägen
+ Färja: Kornhall, Kärna
+ Sparråsskolan
 					0,3 km/0,3 km	18 s/18 s
 T-korsning Tornhaga
- Lokala m�l
+ Tornhaga, Lokal väg
 					0,3 km/0,3 km	18 s/18 s
-Korsning Bj�rk�s
- Lokala m�l
+Korsning Björkås
+ Björkås, Lokal väg
 					0,2 km/0,2 km	12 s/12 s
-J�rnv�gsbro
+Järnvägsbro
  Bohusbanan
 					0,4 km/0,4 km	29 s/29 s
-Rondell Ytterby vsk
- K�rna, Kornhallsleden
+Rondell Ytterby vägskäl
+ Kärna, Färja: Kornhall, Centrum
+ Östra Tunge
 					1,5 km/1,4 km	1 min 30 s/1 min 24 s
-T-korsning Rollsbov�gen
- Rollsbo ind. omr.
+Etapp 3: Ytterby - Kungälv ()
+
+T-korsning Rollsbovägen
+ Rollsbo ind. omr., Ytterns IP
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Christian IV:s V�g
- Centrum
+T-korsning Christian IV:s väg (lokal väg)
+ Komarken, Utmarken
 					0,7 km/1,3 km	0 min 42 s/1 min 18 s
-Kung�lvsmotet
+Kungälvsmotet-väst
+ E6 s: Göteborg
+
+Kungälvsmotet-öst)
  E6 n: Oslo, Uddevalla
- E6 s: G�teborg
-T-korsning
+ Kongahälla Gallerian
+					/)
+T-korsning Lv 168/Hansagatan (lokal väg)
+ Kongahälla Gallerian Parkering
  Bensinstation: St1
  Restaurang: McDonald's
 					0,8 km/0,2 km	58 s/14 s
-Korsning Kung�lvs sjukhus
- Kareby, Sjukhus
+Korsning Kungälvs sjukhus
  Centrum
+ Kareby, Munkegärde, Sjukhus
  Rommelanda
