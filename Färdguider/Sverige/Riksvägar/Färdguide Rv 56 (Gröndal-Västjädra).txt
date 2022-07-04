@@ -1,18 +1,27 @@
 Färdguide Rv 56 (Gröndal - Västjädra)
 ======================================
 
-Etapp 1x: Gröndal - Västjädra ()
+Etapp 8: Gröndal - Stora Ekeby ()
 
 Trp Gröndal (129))
+ E20 ö: Stockholm, Eskilstuna
 
 Trp Gröndal-syd)
+ Hällbybrunn
 
 Trp Gröndal-nord
+ E20 ö: Stockholm, Eskilstuna
+ Tumbo
+ E20 v: Göteborg, Kungsör
+ 56 s: Norrköping, Katrineholm
 
 Järnvägsviadukt
  Svelandsbanan
 
 Trp Kvicksund
+ Kvicksund
+ Tumbo
+ Idrottsplats, Sundbyvik Golf
 
 (Södermanland / Västmanland
 (Eskilstuna / Västerås
@@ -47,3 +56,45 @@ Korsning Stora Ekeby
  252: Fagersta, Hallstahammar
  Strömsholms Slott
 
+Etapp 9: Stora Ekeby - Västjädra ()
+
+T-korsning Gruffet S
+ Rytterne, Rytterne k:a, Kyrkoruin
+
+T-korsning Gruffet N
+ L. Åsby, Kursgård DHR
+
+(Bro över Bodabäcken)
+
+Dubbel T-korsning Löpdal
+ Säby, kyrka, Strömsholms Slott
+ Tibble, Petterssons Matservice
+
+T-korsning Törunda
+ Köping, Kolbäck
+(Bro över Vretabäcken)
+
+Korsning Vendle nedre (enskild väg)
+ Vendle
+
+(Järnvägsviadukt
+ Mälarbanan
+
+Dubbel T-korsning Vändle
+ Västerås, Dingtuna
+ Bergtäkt
+
+Korsning Västjädra
+ Dingtuna
+
+Trp Västjädra-syd
+ E18 ö: Stockholm, Västerås
+ 56 n: Gävle, Sala
+ Hallstahammar
+ E18 v: Oslo, Köping
+
+(Trp Västjädra-nord
+ Hallstahammar
+
+(Trp Västjädra (127)
+ E18 v: Oslo, Köping
