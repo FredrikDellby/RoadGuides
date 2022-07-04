@@ -1,44 +1,90 @@
-F�rdguide Lv 187 Vara - Lidk�ping
+Färdguide Lv 187 Vara - Lidköping
 ==================================
 
-Trp Vara
- E20 �: Stockholm, Skara
- E20 v: G�teborg, Alings�s
+Trafikplats Vara-väst
  Centrum
+ E20 v: Göteborg, Alingsås
+
+Trafikplats Vara-nord
+ E20 ö: Stockholm, Skara
+ Vedum
 					2.1 km/1.8 km	2 min 31 s/2 min 10 s
-Korsning Vara �
+(T-korsning Lv 187/Smedjegatan)
+ Lokal väg, ej skyltad
+
+T-korsning Lv 187/Däckgatan
+ Veterinärstation, Lokal väg
+
+Dubbel T-korsning Torsgården (lokal väg)
+ Gmm Sweden, Bendersvallen
+ jem & fix Vara, Ptt Lagerhotell
+
+T-korsning Lv 187/Allégatan (lokal väg)
+ Idrottsplats, Vårdcentrum, Apotek
+ Vara Konserthus, Badhus
+
+Korsning Vara Ö
  Skarstad
  Centrum
 					0.8 km/0.8 km	41 s/41 s
+(Korsning Lassagården)
+ Anders Larsgården (enskild väg)
+ Lassagården (lokal väg)
+
 T-korsning Vara N
- Arentorp, Centrum
+ Centrum, Lagerhuset
 					2.5 km/2.5 km	2 min 9 s/2 min 9 s
-Korsning
- 47 �: J�nk�ping, Falk�ping
+(T-korsning (enskild väg))
+ Tjust, Longs Smågris
+
+Korsning Long S
+ 47 ö: Jönköping, Falköping
 					0.5 km/0.6 km	26 s/31 s
 T-korsning
- 47 v: Trollh�ttan, Gr�storp
+ 47 v: Trollhättan, Grästorp
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+T-korsning Long NV
+ Long
+
+Longs Bygdegård/Infoplats
+
+(Bro över Afsån)
+
 T-korsning St. Levene S
- H�kantorp
+ Håkantorp
 					0.8 km/0.8 km	36 s/36 s
-T-korsning St. Levene �
- Jung, Uvered
- Levene K:a
+Korsning St. Levene Ö
+ Jung
+ St. Levene, Levene k:a
+ Lanthandel, Bensinstation
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
-Vara / Lidk�ping
+T-korsning Adelsåsen (lokal väg)
+ Adelsåsen Gårdsbutik
+
+(Korsning Smedtofta (enskild väg))
+ Smedtofta gård
+ Smedtofta
+
+Vara / Lidköping: (58.3594535,12.9546316)
+Akronmaskiner
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-Korsning J�rp�s s�dra
- Jung, Uvered
+Korsning Järpås södra
+ Järpås k:a
+ Skogen (enskild väg), Badplats
 					0.7 km/0.7 km	50 s/50 s
-Korsning J�rp�s �stra
- Jung, Uvered
- Gillstad, J�rp�s K:a
+Korsning Järpås östra
+ (Jung), Uvered, (Järpås k:a)
+ Häggesled
+ Bergkross, Asfaltsverk, Djurklinik
 					8.2 km/8.2 km	6 min 9 s/6 min 9 s
-T-korsning Lovene Lv 187
+(T-korsning Domö (enskild väg))
+ Domö, Öntorp, Sköttorp
+ Öntorp Trädgårdscafé, Antik & Loppis
+
+Dubbel T-korsning Lovene Lv 187
  Saleby
- �rsl�sa, Mellby
+ �rsl�sa, Mellby
 					5.9 km/5.9 km	4 min 26 s/4 min 26 s
 T-korsning Risa
- 44 v: Mariestad, Lidk�ping
- 44 �: Uddevalla, Trollh�ttan
+ 44 v: Mariestad, Lidk�ping
+ 44 �: Uddevalla, Trollh�ttan
