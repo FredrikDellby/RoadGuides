@@ -490,7 +490,7 @@ Korsning Skule E4/Vändplats
  Nyland (enskild väg)
  Skule
 
-Bro över ...
+Bro över Bräckeån
 
 T-korsning EW-stugan (lokal väg)
 (sydgående riktning)
@@ -500,4 +500,51 @@ T-korsning Skulnäs E4
  Fjällåkern, Skulnäs, Bölen
  Vändplats, Bygdegård
 
+Korsning Näske E4
+ Näske, Näske Lax
+ Norum (enskild väg)
+ Hotell/Restaurang/Info: Hotell Skulesjön
+
+Korsning Spjute
+ Kornsjö, Kornsjögården Camping
+
+Trafikplats Bjästa
+ Skorped, Sidensjö
+ Köpmanholmen, Bjästa
+ Nätra Motell & Restaurang
+ (Camping, Vandrarhem)
+ Bjästa Alpina Klubb
+
 Etapp 35: Bjästa - Örnsköldsvik ()
+
+Bro över Nätraån
+
+Korsning Skrike
+ Bjästa, Vändplats
+ Hembygdsgård, Handelsträdgård
+
+(Botniabanan)
+
+Dubbel T-korsning Sörtjärn E4 (enskild väg)
+ Sörtjärn, Ö. Norrtjärn, Vändplats
+ (ej skyltad)
+
+T-korsning Norrtjärn E4
+ [335]: Sollefteå, Sidensjö, Vändplats
+
+(Korsning Sörböle östra E4)
+ Åte Sörböle, Enskild väg (möjl förskyltad sydgående)
+
+Dubbel T-korsning Främmerhörnäs/Överhörnäs E4
+ 348: Åsele, Bredbyn, Mellansel
+ 335: Sollefteå, Sidensjö
+ Överhörnäs Camping
+ Vägstation, Krossanläggning
+
+Etapp 36: Genom Örnsköldsvik
+
+Trafikplats Gålnäs
+ Domsjö, Indusri: Gålnäs
+ Själevad
+ Camping/Bad: Gullvik
+ Solänget, Sagavärden (info)
