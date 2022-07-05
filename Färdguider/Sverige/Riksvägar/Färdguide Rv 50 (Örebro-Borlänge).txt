@@ -66,7 +66,7 @@ Trp Mogetorp
  Prästtorp, Hålahult
  Restaurang: Mogetorps Wärdshus
  
-Örebro / Nora (nordgående)
+(Örebro / Nora
 					0,7 km/0,4 km	31 s/18 s
 T-korsning Flåten N
 (nordgående riktning)
@@ -110,7 +110,7 @@ Korsning (enskild väg)
 Örebro / Lindesberg): (59.520138,15.1851143)
 
 Dubbel T-korsning Anneberg
- Grustag, Industriåtervinning
+ Grustag, Industriåtervinning (lokal väg)
  S Måle, Avfallsanläggning
 
 T-korsning
@@ -155,18 +155,20 @@ T-korsning Fanthyttan
  Nora, Tre sjöars väg, Infoplats
 Restaurang: Kopparpannan
 
-T-korsning Piparbäcken
+T-korsning Piparbäcken (lokal väg)
+ Ej skyltad, belyst
 
 T-korsning Rv 50/Nyhttevägen
  Enskild väg, Auktionsverk
 
-Korsning Stensta (e.v.)
+(Korsning Stensta (e.v.))
+ Ej skyltad
 
 Rondell Guldsmedshyttan
  Bensinstation: INGO
  Restaurang: Gulds Pizzeria
 
-T-korsning Rv 50/Malmvägen
+T-korsning Rv 50/Malmvägen (lokal väg)
  Chokladcafé, Gruvpensionat
 
 T-korsning Guldsmedshyttans kyrka
@@ -209,7 +211,7 @@ T-korsning Källbacken
 Korsning Gruvberget
  Bångbro, Bångbro Herrgård
 
-Korsning Rv 50/Lv 233
+Korsning Kolheden
  233 ö: Fagersta
  233 v: Kopparberg
 
@@ -224,11 +226,11 @@ Rastplats Laxbäcken (sydgående)
 T-korsning Nytorpsvägen
  Enskild väg, Gillesklack
 
-T-korsning Högfors S
- Lokal väg
+T-korsning Högfors S (lokal väg)
+ Loppis (privat skyltad)
 
-Korsning Högfors N
- Lokal väg
+Korsning Högfors N (enskild väg)
+ Mossgruvan, Ljusnarsberg Bildemontering AB
 
 T-korsning Silverhöjden S
  Yxsjöberg, Ställdalen, Hörken
@@ -239,39 +241,47 @@ Korsning Silverhöjdens såg (lokal väg)
 Örebro / Dalarna
 Ljusnarsberg / Ludvika
 
-T-korsning Lomberget
- Lokal väg, Konsthjul
+T-korsning Lomberget (lokal väg)
+ Konsthjul (endast skyltat nordgående)
 
-T-korsning Dalporten
- Lokal väg, Motormuseum
+Dubbel T-korsning Dalporten (lokal väg)
+ Hyrcart, Motorbana, Motormuseum
+ (Konsthjul (endast skyltat sydgående)
+ 
 (Järnvägskulvert)
  Bergslagsbanan
 
 Korsning Bergsmansplan
- Malmen Industri, Casseis
+ Industri: Malmen, Cassels Konserthus
  Grängesbergsbanornas Järnvägsmuseum
- Gruvcentrum
- Restaurang: Dalportens Pizzeria
+ Mojsen Gruvcentrum
+Restaurang: Dalportens Pizzeria
 
-Järnvägsviadukt
+(Järnvägsbro)
  Bergslagsbanan
 T-korsning Dynamiten
- Lokal väg, Motormuseum
+ Hyrcart, Motorbana, Motormuseum
 
 T-korsning Rv 50/Rönnliden
  Hörkshage
 
 Bensinstation: Gulf
 (T-korsning Grängesbergs station S)
+ Lokal väg, ej skyltad
 
 Korsning Grängesbergs station
+ Järnvägsstation, Lokal väg
 
 T-korsning Spendrups (Grängesbadet)
+ Grangärde, Sunnansjö
+ N. Industriomr, Idrottsplats
+ Distriktssköterska, Spendrups lager
+Spendrups Bryggeri
 
 Etapp 14: Grängesberg - Ludvika ()
 
-T-korsning Folkets Park
- Lokal väg
+T-korsning Folkets Park (lokal väg)
+ Parkskolan, Folkets Park
 
 T-korsning Kyrkbacken
  Grängesbergs kyrka
@@ -283,11 +293,9 @@ Korsning Klenshyttan
  Snöån, Hyttruin, Flygplats
  Blötberget
 
-T-korsning Skeppmora
- Enskild väg
+T-korsning Skeppmora (enskild väg)
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
 
 T-korsning Lyviksberget Rv 50
  Bensinstation: Q-star
