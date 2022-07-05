@@ -128,8 +128,8 @@ Sörbygdsgården
 (T-korsning Forsaviken norra)
  St Forsa, Enskild väg
 
-Parkeringsplats (västra sidan)
-(2+1-väg börjar / upphör)
+(Parkeringsplats (västra sidan)
+2+1-väg börjar / upphör)
 
 T-korsning Gärdshyttan
  Åmmeberg, Zinkgruvan
@@ -168,8 +168,7 @@ T-korsning Öna (enskild väg)
  Öna
 
 Bro över Lilla Hammarsundet
-58.8362915,14.929314
-58.8387911,14.927765
+(58.8362915,14.929314 /58.8387911,14.927765)
 
 (T-korsning (sydgående))
  Gamla Rv 49, Enskild väg
@@ -292,5 +291,5 @@ Trp Brändåsen-syd
 (Trp Brändåsen-nord
  Hardemo
 
-(Trp Brändåsen
+(Trp Brändåsen (106)
  E20 v: Göteborg
