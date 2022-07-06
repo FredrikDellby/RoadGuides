@@ -1,3 +1,128 @@
 Färdguide Rv 66 (Fagersta - Västerås)
 ======================================
 
+Rondell Hembygdsgården
+ 66 v: Sälen, Ludvika
+ 68 s: Örebro
+ 250: Kungsör, (Köping)
+ 68 n: Gävle, Norberg
+ 69: Falun, Centrum
+
+T-korsning (lokal väg)
+ Bensinstation: OKQ8
+ Bilhandlare, Möbelhandlare
+
+Korsning (enskild väg)
+ Aspatorp, Brukshundklubb
+(2+1-väg börjar / upphör)
+
+Korsning (enskild väg)
+ Blinkbo
+ Sjöhagen
+
+T-korsning (västgående)
+ Köpmanhamn, Enskild väg
+
+Korsning Åvestbo (enskild väg)
+ Köpmanhamn, Backgården
+ Orsjö, Sågverk
+
+T-korsning Röstövallen
+ Risbovallen, Enskild väg
+
+Korsning (enskild väg)
+ Brandbo, Vändplats
+
+Korsning Djupnäs (enskild väg)
+ Landsberget
+ Djupnäs
+
+Parkeringsplats (västgående)
+
+(Soptunnor)
+
+Korsning (enskild väg)
+ Kvarnvreten, Folkhyttevägen
+ Folkhyttan
+
+Korsning (enskild väg)
+ Bodarne (endast skyltad östgående)
+
+T-korsning Tummelsberg (enskild väg)
+ Tummelsberg
+
+Korsning (enskild väg)
+ Vretarne, Snickeri
+ Västansjö, Sörgården
+
+T-korsning N Bricken (enskild väg)
+ N. Bricken
+
+Infopunkt (östgående): (59.8760864,16.0225472)
+
+Fagersta / Surahammar: (59.8740912,16.027391)
+
+Korsning Virsbo Rv 66
+ Virsbo, Ängelsberg
+ Engelsbergs Bruk (världsarv)
+ Bensinstation: Q-star
+ Hotell/Restaurang: Wirsbo Brukshotell
+
+Etapp: Virsbo - Sothällen ()
+
+Korsning Rv 66/Lövviksvägen
+ Vändplats, Enskild väg (ej förskyltad)
+
+T-korsning (enskild väg)
+(endast skyltad östgående)
+
+Korsning (enskild väg)
+(endast förskyltad östgående)
+
+Korsning Seglingbo (enskild väg)
+ Ulvsbomuren
+ Seglingsberg
+
+Korsning Bälgmakartorp
+ Enskild väg
+
+Dubbel T-korsning Sothällen
+ Ramnäs (max .. m höjd)
+ 233: (Kopparberg), Skinnskatteberg
+
+Trafikkontrollplats
+
+Korsning Säter/Småmyra
+ Elingbo
+ Ramnäs
+
+Bro över Kolbäcksån/Strömsholms Kanal
+
+Korsning Ramnäs S
+ Ståltorp
+ Ramnäs
+(Järnvägsbro)
+ Bergslagspendeln
+
+T-korsning (enskild väg)
+(endast skyltad östgående)
+
+Korsning (enskild väg)
+
+Dubbel T-korsning Surahammar N
+ Surahammars Golfklubb (Restaurang)
+ Surahammar, Ekängsbadet
+ Surahammars Herrgård, Bruksmuseum
+
+T-korsning (enskild väg)
+ Skjutbana, Brukshundklubb
+
+T-korsning Surahammar SO
+ Surahammar
+ Surahammars Herrgård, Bruksmuseum
+ Bensinstation: OKQ8, Preem
+ Restaurang: Emmas Streetfood
+
+T-korsning Långtallbofallet
+ 252: Eskilstuna, Hallstahammar
+
