@@ -98,16 +98,21 @@ T-korsning Broddbo Rv 70
 T-korsning Jordbron
  Västerfärnebo
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-T-korsning
+T-korsning Nykrogen
  Salbohed, Västerfärnebo
+
+Etapp 4: Nykrogen - Avesta ()
 					3.4 km/3.4 km	2 min 33 s/2 min 33 s
-Korsning
+Korsning Långheden
  Rosshyttan
 					1.5 km/2.1 km	1 min 8 s/1 min 35 s
-Parkeringsplats
-(Västmanland / Dalarna)
-(Sala / Avesta)
+Infoplats (nordgående))
+
+Västmanland / Dalarna: (60.0779492,16.3207353)
+Sala / Avesta
 					1.0 km/0.4 km	45 s/18 s
+(Infoplats (sydgående)
+
 Korsning Brovallen S
  Brovallen
 					0.7 km/0.6 km	31 s/27 s
@@ -118,63 +123,126 @@ Korsning Brovallen N
  Näs Bruk
  Krylbo, Brovallen
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
-T-korsning
- Krylbo, Karlbo
+Korsning Matts-Jons (enskild väg)
+ Digeräng
+ Mattsjonsgården (gårdsbutik)
+
+Korsning Torp
+ Sonnboviken, Viksberg (enskild väg)
+ Fågeltorp, Restaurang Torp
+ Karlbo, Bensinstation/Mek
+ Karlfältsgården (sevärdhet)
 					0.9 km/1.6 km	0 min 41 s/1 min 12 s
-Rastplats Brunnbäck
-(Dalälven)
+Rastplats Brunnbäck (nordgående))
+
+Bro över Dalälven
 					2.3 km/1.7 km	1 min 43 s/1 min 17 s
+(Rastplats Brunnbäck (sydgående))
+
 Trp Mästerbo
  68 n: Gävle, Horndal
  Krylbo
 					1.6 km/1.9 km	1 min 12 s/1 min 26 s
+Trafikkontrollplats
+
 Trafikplats Åsbo
  68 s: Örebro, Norberg
  Avesta Centrum
-Rastplats Dalahästen
-Bensinstation: Shell
+ Rastplats Dalahästen
+ Bensinstation: Shell
 
-Etapp 4: Avesta - Hedemora (21,5 km/21,1 km)
+Etapp 5: Avesta - Hedemora (21,5 km/21,1 km)
 					1.9 km/1.8 km	1 min 26 s/1 min 21 s
 Trp Skogsbo
  Avesta C
-Bensinstation: OKQ8
+ Bensinstation: OKQ8
 					6.3 km/6.0 km	4 min 44 s/4 min 30 s
-T-korsning Saxbovägen
+(Dubbel) T-korsning Fridhem
+ Fridhem, Enskild väg
+
+Större Parkeringsficka (sydgående): (60.1769479,16.1373091)
+
+Dubbel T-korsning Grönvallen S (enskild väg)
+ Germundsbo, Smedsbo
+ Cementvarufabrik, Sör Nävde
+
+Korsning Grönvallen N (enskild väg)
+ Bergström Släpvagnar (ej skyltad)
+(T-korsning (enskild väg)
+ Bygdegård (endast skyltad nordgående)
+
+T-korsning Rembostugan (lokal väg)
+ Restaurang: Nya Rembostugan
+Korsning Rembo (enskild väg)
+ Sör Nävde
+ Nygården, Forsbo, Avesta Flygfält
+
+Dubbel T-korsning Saxbovägen
+ Thomas Betong (lokal väg, ej skyltad)
  Garpenberg, Stusshyttan
 					1.3 km/1.4 km	0 min 59 s/1 min 3 s
-Parkeringsplats
-(bäst lämpad för nordgående)
+(Infoplats (sydgående)
+
+Infoplats (nordgående))
 					0.9 km/0.7 km	41 s/31 s
-Avesta / Hedemora
+Avesta / Hedemora: (60.2089556,16.0690466)
+Korsning Bondbo (enskild väg)
+ Bergtäkt
+ Stensbo, Bondbo
 					3.0 km/3.0 km	2 min 15 s/2 min 15 s
-Korsning Grådö såg
- Grådö
+Korsning Sandsäterbro (enskild väg)
+ Sandsäterbro
+ Moren
+
+Korsning Grådö såg Rv 70
+ Grådö, Mejeri
+ Grådö Nybyn (enskild väg)
 					1.0 km/1.2 km	45 s/54 s
-Dalälven
+Rastplats Grådö Skans (nordgående))
+(Bro över Dalälven
 					2.5 km/2.1 km	1 min 53 s/1 min 35 s
+Parkerings-/Rastplats (nordgående)
+
 Trafikplats Brunna
+ Grådö
  69 s: Fagersta, Norberg
- Hedemora
 					2.9 km/3.2 km	2 min 11 s/2 min 24 s
+Korsning Nibble Rv 70 (enskild väg)
+ Nibble, Fågeltorp, Hovran (sevärdhet)
+
 Rondell Hedemora östra
  270: Hofors, Långshyttan
- Hedemora Centrum
- Bensinstation: OKQ8, Bilisten
+ Garpenberg
+ Vikmanshyttan, Centrum, Info
+ Bensinstation: OKQ8, St1
+ Restaurang: McDonald's, Lappens Grill
 					1.6 km/1.7 km	1 min 22 s/1 min 27 s
+(T-korsning Rv 70/Kraftgatan (sydgående))
+ Lokal väg, Ingen skyltning
+
 Rondell Hedemora norra
  69 n: Falun
- Hedemora Centrum
+ Hedemora Centrum, Ishall
  Bensinstation: St1, Circle-K, OKQ8
  Restaurang: Dalaros Vägkrog
 
-Etapp 4: Hedemora - Säter (14,5 km/14,4 km)
+Etapp 6: Hedemora - Säter (14,5 km/14,4 km)
 					3.8 km/3.9 km	2 min 32 s/2 min 36 s
-Dubbel T-korsning Kärringtjärn
+T-korsning (enskild väg)
+ Västerby, Motorstadion, Hyr-Cart
+
+T-korsning (enskild väg)
+ Österby
+
+T-korsning Rv 70/Kålgårdsvägen (lokal väg)
+ Österling Bygg, Fina Mig
+
+Dubbel T-korsning Västerby Rv 70
  Västerby
- Norshyttan
+ Nordansjö, Hyttbäcken, Rum & Frukost
 					0.9 km/0.7 km	36 s/28 s
-Korsning Hjulbackatjärnen
+Korsning Hjulbackatjärn
+ Tjärnan, Balkfabrik
  Västerby
 					3.8 km/3.8 km	2 min 32 s/2 min 32 s
 (T-korsning (enskild väg))
@@ -216,7 +284,7 @@ T-korsning Säter Rv 70
  Hotell: Dalkullans Motell
 (Motortrafikled börjar / upphör)
 
-Etapp 5: Säter - Borlänge (23,0 km/23,1 km)
+Etapp 7: Säter - Borlänge (23,0 km/23,1 km)
 					5.2 km/6.1 km	3 min 28 s/4 min 4 s
 Trp Solvarbo
  Solvarbo
@@ -275,7 +343,7 @@ Grådarondellen
  50 n: (Söderhamn), Falun
  Centrum
 
-Etapp 7: Borlänge - Amsberg ()
+Etapp 8: Genom Borlänge ()
 
 Rondell Tunavägen (lokal väg)
  Centrum
@@ -290,6 +358,8 @@ Backarondellen
  Centrum
  50 s: Örebro, (Ludvika)
  Handel: N. Backa, IKEA, S. Kupolen
+
+Etapp 9: Borlänge - Amsberg ()
 
 T-korsning Kupolen E16 (lokal väg)
  Handel: Kupolen norra
@@ -334,7 +404,7 @@ Dubbel T-korsning Amsberg Bilskroten
  293: Falun
  Motorstadion, Testplats ITS
 
-Etapp 8 : Amsberg - Djurås ()
+Etapp 10: Amsberg - Djurås ()
 
 Rastplats Dalstugan (östgående)
 (T-korsning (enskild väg))
@@ -393,7 +463,7 @@ Rondell E16/Rv 70 Djurås
  Bensinstation: OKQ8
  Restaurang: Djurås Restaurang & pizzeria
 
-Etapp 9: Djurås - Leksand ()
+Etapp 11: Djurås - Leksand ()
 
 (Korsning Prostgårdarna)
 
@@ -461,7 +531,7 @@ T-korsing Leksand norra
  Sommarland
  Bensinstation: Circle-K, Tanka
 
-Etapp 10: Leksand - Rättvik ()
+Etapp 12: Leksand - Rättvik ()
 
 Infoplats
 (bäst lämpad sydgående)
@@ -517,7 +587,7 @@ T-korsing Gärdebyn Södra
 Rastplats Rättvik Söderås
 (nordgående riktning)
 
-Etapp 11: Genom Rättvik ()
+Etapp 13: Genom Rättvik ()
 
 T-korsing Rv 70/Båthamnsvägen
  Båthamn
