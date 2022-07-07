@@ -154,18 +154,19 @@ Korsning Grådö såg
 Dalälven
 					2.5 km/2.1 km	1 min 53 s/1 min 35 s
 Trafikplats Brunna
- 270 s: Norberg
+ 69 s: Fagersta, Norberg
  Hedemora
 					2.9 km/3.2 km	2 min 11 s/2 min 24 s
 Rondell Hedemora östra
- 270 n: Hofors, Långshyttan
+ 270: Hofors, Långshyttan
  Hedemora Centrum
-Bensinstation: OKQ8, Bilisten
+ Bensinstation: OKQ8, Bilisten
 					1.6 km/1.7 km	1 min 22 s/1 min 27 s
 Rondell Hedemora norra
- 266: Falun
+ 69 n: Falun
  Hedemora Centrum
-Bensinstation: Shell, Statoil
+ Bensinstation: St1, Circle-K, OKQ8
+ Restaurang: Dalaros Vägkrog
 
 Etapp 4: Hedemora - Säter (14,5 km/14,4 km)
 					3.8 km/3.9 km	2 min 32 s/2 min 36 s
@@ -176,13 +177,23 @@ Dubbel T-korsning Kärringtjärn
 Korsning Hjulbackatjärnen
  Västerby
 					3.8 km/3.8 km	2 min 32 s/2 min 32 s
+(T-korsning (enskild väg))
+ Ej skyltad
+
 Korsning Tjärnan Rv 70
- Vikmanshyttan
+ Tjärnan
+ Vikmanshyttan, Yttre Heden (enskild väg)
 Hedemora / Säter
 					1.8 km/1.8 km	1 min 12 s/1 min 12 s
+(Korsning Yttre Heden Rv 70)
+ Enskild väg, Ej skyltad
+
 Järnvägsbro
  Dalabanan
 					1.6 km/1.7 km	1 min 4 s/1 min 8 s
+T-korsning Kullsveden (enskild väg)
+ Yttre Heden
+
 Infoplats Säter (nordgående)
 					0.4 km/0.3 km	16 s/12 s
 Rondell Rutbo
@@ -197,7 +208,7 @@ Korsning Säter Torget (lokal väg)
  Säterdalen (sevärdhet), Info-/Rastplats
  Restaurang: Sätergrillen, Dalarasten, m.fl.
 					0.4 km/0.4 km	29 s/29 s
-T-korsning Säter
+T-korsning Säter Rv 70
  Smedjebacken, (Grängshammar)
  Centrum, Sjukhus, Skönvik
  Mentalvårdsmuseet, Säters Golfklubb
@@ -246,7 +257,7 @@ Bro över Tunaån: (60.4555295,15.4783088)
 					1.0 km/1.0 km	45 s/45 s
 (Motortrafikled upphör / börjar)
 
-Korsning Gruvkarlby Rv 70 (lokal väg)
+Rondell Rv 70/Korsgårdsv. (lokal väg)
  Årby, Tyllsnäs vandrarhem & camping
  Åselby
  Industri: S. Backa, Rågåker
