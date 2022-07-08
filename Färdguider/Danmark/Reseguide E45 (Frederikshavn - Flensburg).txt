@@ -3,13 +3,13 @@
 
 Etapp 1: Frederikshavn - Sæby (6,2 km/6,7 km)
 
-Dubbel(Trippel) T-korsning Færgehavn
+T-korsning E45/Færgehavnsvej
  E45-Færge: Göteborg, Færge: Oslo, Terminaler
  40: Skagen
  35: Hjørring
  Centrum, Fagthavn
 					1,1 km/1,0 km	1 min 19 s/1 min 12 s
-T-korsning E56/Kg. Frederik IX:s Allé
+T-korsning E45/Kg. Frederik IX:s Allé
  Flådestation Frederikshavn (ikke skiltet)
 
 Korsning E45/Klitgade
