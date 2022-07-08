@@ -1,3 +1,4 @@
+Etapp 1: Genom Frederikshavn ()
 
 T-korsning E45/Færgehavnsvej
  E45 n-Færge: Göteborg, Oslo (Stena Line)
@@ -17,6 +18,7 @@ T-korsning Krudtårnet
 (Avfart (nordgående))
 
 (Korsning Kirkepladsen)
+ Centrum
 
 T-korsning Frederikshavn St.
 
@@ -28,12 +30,88 @@ Korsning Nytorv
  Bensinstation: Uno-X
 
 (Dubbel) T-korsning Gammeltorv
+ 35: Hjørring
+
+Etapp 2: Frederikshavn - Elling ()
 
 T-korsning Kragholmen N
+ Søfartsskole
 
 T-korsning 40/Vendsysselvej
+ Frederikshavn NV, Industri N
+ [35]: Hjørring
 
 Jernbaneviadukt
  Vendsysselbanen
 
 Rondell Golfbyen
+ Palmestranden, Nordstrand Camping
+ Frederikshavn Golf Klub
+
+Sportsrideklubben Lerbæk
+
+Rasteplads Lerbæk
+
+Bro over Elling å)
+					/)
+Korsning Elling Ø
+ Tversted, Tuen, Elling
+
+Parkeringsplads (vestre side)
+(ikke skiltet)
+
+Rondell Elling N
+ Strandby
+ Elling
+
+Etapp 3: Elling - Jerup ()
+
+Korsning 40/Skeltvedvej
+ Idrætsanlæg
+
+Dot Keramik
+
+(Antik Inger Lis Jensen)
+T-korsning Nielstrup
+ Kvissel
+
+(T-korsning 40/Råsigvej)
+Jernbanekryds
+ Skagensbanen
+Korsning Rimmen St.
+ Strandby, Bratten Strand
+
+(T-korsning (lokal vej))
+ Jordbær, Kartofler (ikke skiltet)
+
+(T-korsning 40/Råsigvej)
+
+(Bro over Kragskov å)
+
+(Korsning 40/Söndergårdsvej)
+ Skole og Idrætshal
+
+Rondell Jerup
+ Sindal, Lufthavn
+
+Bensinstation: OK
+
+Jerup Bed & Breakfast
+
+Jerup Forsamlingshus
+Jerup Auto
+
+Jerup kirke
+
+T-korsning 40/Gyvelvej
+ Idrætsanlæg
+
+Korsning 40/Revlingevej
+ Søndergaard B&B
+
+(Korsning 40/Enebærvej)
+ Napstjærtgaard Horse Farm
+
+T-korsning 40/Jennetvej
+ Knasborg, Hvims
+ Brandskole
