@@ -1,94 +1,124 @@
-Färdguide E134 (- Drammen)
+FÃ¤rdguide E134 (- Drammen)
 ===========================
 
 Telemark / Buskerud
 Notodden / Kongsberg
+============================
 
-=============================
+Mittrekk begynder / ender
+Kongsberg-Notodden bomstasjon
+ 38/93 kr.
 
-Rondell E134/Fv 40
- 40: Geilo, Numedal
-Rondell E134/Thornes vei
+T-korsning E134/Meheiaveien
+(Ã¥pen kun ved tunnelstengning)
+					(/
+(VollÃ¥stunnelen (439,7 m)
+					/)
+Lassedalsbekken bru)
+ Lassedalsbekken, 72 m
 
-(Myntbrua)
- Numedalslågen, 140 m
+Kryss Saggrenda
+ Saggrenda, SÃ¸lvgruvene (sevÃ¤rdighet)
+(Saggrenda bru)
+ Kobberbergselva, 162 m
+
+Moanetunnelen (282,5 m)
+
+Rondell Veungsdalskrysset E134
+
+SvartÃ¥stunnelen-syd (1 513 m)
+
+SvartÃ¥stunnelen-nord (1 551 m)
+
+Rondell
+
+(Kongsberg bru)
+ NumedalslÃ¥gen, 169 m
 Rondell E134/Gomsrudveien
+ 40 s: Larvik, Skollenborg
 
-Rondell E134/Stasjonsbakken
+Rondell E134/Gl. Gomsrudvei
+ 40 n: Geilo, Kongsberg Sentrum
+ [37]: Rjukan
+					(/
+(Kongsbergtunnelen-vest (2 210 m)
 
-Rondell E134/Hermann Foss gt.
-(Jernbanebru)
- Sørlandsbanen
+Kongsbergtunnelen-Ã¸st (2 080 m)
 
-Rondell E134/Eikerveien
+Kryss Diseplass
+ 286: Kongsberg
 
-Korsning E134/Klems gate
+(DamÃ¥sen bomstasjon: (59.6689385,9.712417))
+ 38/93 kr.
+Kongsberg / Ã˜vre Eiker: (59.6692494,9.7137576)
+					(/
+(DamÃ¥sen bru (112 m): (59.6699339,9.7171475 /)
+ over Fv 286
 
-T-korsning E134/Gl. Drammensvei
-T-korsning E134/Lurdalsveien
-
-Rondell E134/Henckelmyra
-
-T-korsning Kongsbergtoppen
- Bensinstasjon: 1-2-3
- Gatekjökken
-
-Aas kafeteria
-
-Rondell Diseplass
- 286: Skollenborg
-
-Kongsberg / Øvre Eiker
-
-Damåsen bru (112 m)
-
-Jørandrud bru (110 m)
+JÃ¸randrud bru (110 m)
  Fiskumelva
 
 Liverud bru (76 m)
  Liverudbekken
 
 Bakken bru (144 m)
+ over Fv2757
 
 Gulliksrud bru (186 m)
+ bekk og skogsbilveg
+
+(Nyrud bru (over bekk))
+ 56 m
 
 Kryss Dunserud
- Darbu
+ Fv2756: Darbu
 
-Mølledammen bru (Dørja, 83 m)
+MÃ¸lledammen bru (DÃ¸rja, 83 m)
 
 Kryss Vestfossen
+ OrmÃ¥sen, (Museum, GÃ¥rdsbutikk)
+ 35: TÃ¸nsberg, Vestfossen
 
 Jernbanebru
- Sørlandsbanen
+ SÃ¸rlandsbanen
 
 Rondell Langebru
- 35: Hønefoss, Hokksund
+ Industrifelt: Prestaker
+ 350: HÃ¸nefoss, Hokksund
+ Haug kirke, Infoplass, Hokksund Camping
+ Bensinstasjon: YX
+ Hotell/Restaurang: Langebru GjestegÃ¥rd
 (Haug bru (90 m))
  Vestfosselva
+
+(Bru over Loselva)
 
 Rondell
  Losmoen
 
-Øvre Eiker / Nedre Eiker
+Ã˜vre Eiker / Drammen
 
 (Jernbanebru)
- Sørlandsbanen
+ SÃ¸rlandsbanen
 Rondell E134/Steinbergv.
 
 Rondell E134/Strandveien
 
-Kryss Mjøndalen
+Kryss MjÃ¸ndalen
 (Jernbanebru)
- Sørlandsbanen
+ SÃ¸rlandsbanen
 
-Nedre Eiker / Drammen
+Vendplass (Ã¸stgÃ¥ende): (59.7388865, 10.1521013)
 
-Strømsåstunnelen-vest
+StrÃ¸msÃ¥stunnelen-vest
  3 496 m
 
-(Strømsåstunnelen-vest-øst)
-Bangeløkkakrysset (25)
- E18 s: Kristiansand, Tønsberg
+(StrÃ¸msÃ¥stunnelen-vest
+					(/
+BangelÃ¸kkakrysset-Ã¸st
+ E18 s: Kristiansand, TÃ¸nsberg
  E18 n: Oslo
- E134 ö: Drøbak
+ E134 Ã¸: DrÃ¸bak
+					(/
+(BangelÃ¸kkakrysset (25)
+ E18 s: Kristiansand, TÃ¸nsberg
