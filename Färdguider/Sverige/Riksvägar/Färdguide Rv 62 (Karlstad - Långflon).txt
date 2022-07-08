@@ -560,7 +560,10 @@ T-korsning Höljes Rv 62
 					8.6 km/8.6 km	7 min 22 s/7 min 22 s
 Etapp 14: Höljes - Långflon ()
 
-T-korsning (lokal väg)
+(T-korsning (enskild väg))
+ Rangen
+
+T-korsning Höljes Skans (lokal väg)
  Höljes Skans
 
 (Bro över Höljån)
