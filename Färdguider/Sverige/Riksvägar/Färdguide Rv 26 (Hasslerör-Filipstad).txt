@@ -210,7 +210,7 @@ Etapp 25: Kristinehamn - Storfors (26,8 km/26,6 km)
 (Infopunkt (sydgående): (59.3389788,14.12532)
 
 Dubbel T-korsning Kristinehamn GK
- Industri: Marielund
+ Industri: Marielund (lokal väg)
  Kristinehamns GK, Vandrarhem
  Älvbron (enskild väg, gamla 64:an)
 					5.0 km/5.0 km	3 min 45 s/3 min 45 s
@@ -281,16 +281,45 @@ Rondell Storfors N
  Lundsberg, Lungsund, Bjurbäcken
  Industri: Norra, Lundsbergs Golfklubb
 					5.2 km/5.2 km	3 min 54 s/3 min 54 s
-Storfors / Filipstad
+T-korsning Jordkullen (enskild väg)
+ Miljöbolaget, Parkering vandring
+
+Storfors / Filipstad: (59.5898344,14.2594344)
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
+T-korsning Södra Prästbäcken
+ Honung, Enskild väg
+
 Korsning Nykroppa V
- Nykroppa
+ Gammelkroppa, Nykroppa
+ Silvergruva (sevärdhet)
  Rastplats Prästbacken
+ Restaurang: Prästbäcksrasta
 					0.5 km/0.5 km	26 s/26 s
 Järnvägsviadukt
  Kil-Ställdalen
 					11.1 km/11.2 km	9 min 31 s/9 min 36 s
-Rondell
+Korsning Skjutbanan (enskild väg)
+ Korthållsbana
+(Infopunkt (nordgående)): (59.6898164,14.1949005)
+
+(Korsning Stensta (lokal väg))
+ Filipstads Ridklubb
+T-korsning (enskild väg)
+ Hennickehammars Herrgård
+
+(T-korsning Piludden)
+ Piludden, Lokal väg
+
+T-korsning Ö. Kyrkogården
+ Trons kapell, Lokal väg
+
+(T-korsning Rv 26/Nils Ferlins väg)
+ Lokal väg, ej skyltad
+
+T-korsning (lokal väg)
+ John Ericssons maousoleum
+
+Rondell Rv 26/John Ericssonsg. (lokal väg)
  Centrum
 Korsning Filipstad Ö
  26 n: Mora, Lesjöfors
