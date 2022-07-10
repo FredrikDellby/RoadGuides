@@ -36,12 +36,12 @@ T-korsning E45/Jegenvej)
  Ikke skiltet
 					1,6 km/1,6 km	1 min 22 s/1 min 22 s
 Avfart Transportcenter Nord (sydgående)
- Vangen, Transportcenter
+ Haldbjerg, Vangen, Transportcenter
  Bensinstation: Circle-K
  Hotel: Norskov Bed & Breakfast
 					1,2 km/1,7 km	0 min 54 s/1 min 17 s
 Kryds Sæby N (12)
- 180: Sulbæk
+ 180: Sæby, Vangen
 (Motorvej ender / begynder)
 
 Etapp 2: Sæby - Ålborg (50,8 km/50,6 km)
@@ -49,17 +49,24 @@ Etapp 2: Sæby - Ålborg (50,8 km/50,6 km)
 Rasteplads Øksenhede
 					3,9 km/3,6 km	1 min 57 s/1 min 48 s
 Kryds Sæby S (13)
- 180: Dybvad, Volstrup
+ 180: Syvsten
  553: Hjørring
+ 541: Hals
  Bensinstation: Circle-K, OK
+ Trafikcenter Sæby Syd
 					10,3 km/10,3 km	5 min 9 s/5 min 9 s
 Kryds Flauenskjold (14)
+ [180]: Dybvad
  589: Voerså
 					9,0 km/8,9 km	4 min 30 s/4 min 27 s
+Faunapassage
+
 Kryds Jyske Ås (15)
+ Klokkerholm
 					5,1 km/5,1 km	2 min 33 s/2 min 33 s
 Kryds Hjallerup N (16)
- 559: Dronninglund
+ 559 ø: Asaa, Dronninglund
+ 559 v: Blokhus
 					2,5 km/2,8 km	1 min 15 s/1 min 24 s
 Rasteplads Hjallerup Enge
 (sydgående riktning)
@@ -68,29 +75,33 @@ Serviceanlæg Hjallerup Enge
  Bensinstation: Shell
 					5,1 km/4,8 km	2 min 33 s/2 min 24 s
 Kryds Lyngdrup (17)
+ [180 n]: Hjallerup N
+ [180 s]: Grindsted
 					2,9 km/2,9 km	1 min 27 s/1 min 27 s
 Kryds Vodskov N (18)
- Vodskov
+ 180
  Langholt
 					3,1 km/3,0 km	1 min 41 s/1 min 38 s
 Kryds Vodskov (19)
- Vodskov
  583: Hals
  Bensinstation: Shell, Uno-X
 					3,0 km/3,0 km	1 min 38 s/1 min 38 s
 Kryds Bouet (20)
+ [E39]: Hirtshals
+ [11]: Thisted
  Bensinstation: OK
 					1,4 km/1,0 km	46 s/33 s
 Motorvejskryds Vendsyssel
 (avfart nordgående riktning
 påfart sydgående riktning)
  E39: Hirtshals, Hjørring
+ [11]: Thisted
 
 Etapp 3: Ålborg - Sønderup (34,2 km/33,9 km)
 					1,2 km/1,1 km	39 s/36 s
 Kryds Nørresundby N (21)
- Bensinstation: OK
- Restaurang: McDonald's
+ Bensinstation: OK, INGO
+ Restaurang: McDonald's, SUSHIMANIA
 					1,2 km/1,1 km	39 s/36 s
 Kryds Nørresundby C (22)
 (avfart nordgående riktning
