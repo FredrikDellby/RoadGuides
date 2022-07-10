@@ -622,7 +622,7 @@ Trafikplats Dörby
  25 v: Halmstad, Växjö, Nybro
  31 n: Vetlanda
 
-Etapp 14: Rinkabyholm - Kalmar ()
+Etapp 14: Genom Kalmar ()
 
 Trp Karlsro
  Rinkabyholm
@@ -651,8 +651,6 @@ Trp Ölandsleden
  Bensinstation: OKQ8
  Köpcenter HANSA CITY
 
-Etapp 15: Kalmar - 
-
 Trafikplats Berga
  Berga
  Bensinstation: Tanka, INGO
@@ -669,6 +667,8 @@ Trp Lindsdal
  Djursjukhus, Rafshagen bad/camping
  Björnö, Stävlö slott
 
+Etapp 15: Kalmar - Kåremo ()
+
 Infoplats Rafshagen E22
 
 Avfart+Påfart (nordgående)
@@ -681,7 +681,7 @@ Trp Rockneby
  Restaurang: Café lilla Tjorven
  Rockneby Bed & Breakfast
 
-(Rockneby E22 buss)
+(Rockneby E22 busshpl)
 
 Korsning E22/Hultsbygatan
  Hultsby, Enskild väg
@@ -702,6 +702,8 @@ Trp Kåremo E22
  Pataholm, Ljungnäs
  Kåremo
  Turistväg: Mönsterås kustväg
+
+Etapp 16: Kåremo - Ålem ()
 
 Korsning Bröttorp vsk (enskild väg)
  Bröttorp, Vändplats
@@ -731,6 +733,8 @@ Korsning Ålem S
  34 n: (Linköping), Vimmberby
  Högsby, Blomstermåla
  Bensinstation: Preem
+
+Etapp 17: Ålem - Mönsterås ()
 
 (Bro över Alsterå)
 Dubbel T-korsning Ålem N
@@ -769,12 +773,14 @@ Dubbel T-korsning Mönsterås västra
  Koverhult, Mönsterås metall
  Centrum S, Industri: Älgerum, Balken
 
-Dubbel T-korsning Parkskolan
+Dubbel T-korsning Parkskolan (lokal väg)
  Turistbyrå, Vattenpalatset
 
 Korsning Mönsterås norra
  Centrum N
  Fliseryd
+
+Etapp 18: Mönsterås - Påskallavik ()
 
 T-korsning (enskild väg)
  Alebo
@@ -820,6 +826,8 @@ Trp Påskallavik
  Påskallavik
  Emsfors
 
+Etapp 19: Påskallavik - Oskarshamn ()
+
 (Påskallavik E22 busshpl)
 
 Korsning Vånevik
@@ -831,7 +839,7 @@ T-korsning
  Oskarshamns GK
 
 T-korsning Applerum (vändplats)
-(endast skyltad nordgående)
+ Enskild väg (endast skyltad nordgående)
 
 Parkeringsplats
 (nordgående riktning)
