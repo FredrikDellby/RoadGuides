@@ -8,75 +8,109 @@ Skallbergsmotet (Rondell))
  E18 v: Oslo, Örebro
  56 s: Norrköping, Eskilstuna
 					/)
-Korsning Rv 56/Emausgatan (lokal väg)
+Korsning Rv 56/Emausgatan (ej skyltat)
+ Lokal väg
  Restaurang: Arams Burger, Jan Pizzeria
 					1.2 km/0.9 km	1 min 12 s/0 min 54 s
-Gideonbergsmotet (Rondell, lokal väg)
+Gideonsbergsmotet (Rondell, lokal väg)
+ Nordanby Gärde, Gideonsberg NV
+ Skallberget, Nordanby
  Restaurang: Dillos Pizzeria & Grill
 					0.6 km/0.6 km	36 s/36 s
-Bensinstation: Circle-K
+(Bensinstation: Circle-K
 Nordanbymotet (Rondell)
- Tibble
- Skultuna
+ Stenby, Industri: Finnslätten
+ [E18]: Tung Trafik
+ Skultuna, Önsta-Gryta, Rocklunda
  Restaurang: Sallad & Sånt
 					/)
 Restaurang: McDonald's)
 					1.0 km/1.2 km	1 min 0 s/1 min 12 s
 Avfart Stolpgatan (nordgående)
- lokal väg
+ Industri: Stenby, Lokal väg
  Restaurang: Kalles Restaurang
 
 Lundamotet (Rondell)
- lokal väg
+ Industri: Stenby, Finnslätten, Motorstadion
+ Industri: Tunbytorp
 					1.4 km/1.1 km	1 min 24 s/1 min 6 s
 Rondell Hökåsen S (lokal väg)
  Hökåsen
+ Industri: Tunbytorp N, Avfallsstation, Bergtäkt
+(2+1-väg börjar / upphör)
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
 T-korsning Hökåsen V
- Hökåsen, Baldelunda
+ Badelunda, Hökåsen
 					0.9 km/0.9 km	41 s/41 s
 T-korsning Rv 56/Tillbergav.
- Tillberga
+ Sevalla, Tillberga
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
-T-korsning Ansta
- Skultuna, Lycksta koloniområde
+Korsning Hubbo Näs Rv 56 (enskild väg)
+ Näs, Vägstation
+
+Dubbel T-korsning Ansta
+ Bildemontering (lojkaö)
+ Skultuna, Bilfirma
 					0.8 km/0.8 km	36 s/36 s		
 T-korsning Äs
+ Äs
 					1.2 km/1.2 km	54 s/54 s
 Korsning Viggby
- Tillberga
+ Hedensberg, Gesala
+ Myrby, Djurbegravn. pl.
 					0.7 km/0.7 km	31 s/31 s
-T-korsning Gesala
- Gesala
+T-korsning Gesala (nordgående)
+ Gesala (ej skyltad)
 					0.5 km/0.5 km	23 s/23 s
-T-korsning Romfartuna vsk
+(Korsning Romfartuna vsk)
+ Enskild väg, Ej skyltad
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-Korsning Gunsta Hotel
+Korsning Igelsta Romfartuna
+ Igelsta, Gunsta (enskild väg)
+ Tå, Romfartuna k:a, Vändplats
 					0.3 km/0.3 km	14 s/14 s
-T-korsning Romfartuna K:a
+(T-korsning Romfartuna K:a (sydgående))
+ Enskild väg, ej skyltad
 					0.3 km/0.3 km	14 s/14 s
-T-korsning Romfartuna N
- Skultuna
+(Korsning Romfartuna N (enskild väg))
+ Ej skyltad, förbjuden vänstersväng
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
-T-korsning Åbylunds vsk
- Munga
+Korsning (enskild väg)
+ Grustag (endast skyltat sydgående)
+
+(T-korsning Tösta (enskild väg))
+ Tösta
+
+Korsning Åbylunds vsk
+ Brånsta (enskild väg)
+ Haraker, Vändplats
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
 Korsning Hallsta vägskäl
- Ransta
+ Vad, Vändplats
+ Hallsta
 					3.3 km/3.6 km	2 min 28 s/2 min 42 s
-Västerås / Sala
-T-korsning
- Broarna
+Västerås / Sala: (59.7977085,16.5630234)
+
+Trippel T-korsning Tomta vsk (1-2)
+ Tomta
+ Kumla Kyrkby, Ransta, Pendelparkering
 					0.4 km/0.3 km	18 s/14 s
-Dubbel T-korsning Tomta vsk
- Ransta
- Sätra Brunn
+Trippel T-korsning Tomta vsk (2-3)
+ Kumla Kyrkby, Ransta, Pendelparkering
+ Salbohed, Sätra Brunn (kurort, sevärdhet)
 					3.3 km/3.1 km	2 min 28 s/2 min 20 s
+T-korsning Sörängen (enskild väg)
+ Sörängen
+
 Korsning Lånsta
- Kvista
+ Kivsta
 					0.5 km/0.5 km	23 s/23 s
 Korsning Lånsta N
+ Skultuna, Solinge, Vändplats
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
+Korsning Norsberg (enskild väg)
+ Norsberg, Abelsberg, HECO
+
 T-korsning Grällsta
  Sätra Brunn
 					0.4 km/0.4 km	18 s/18 s
