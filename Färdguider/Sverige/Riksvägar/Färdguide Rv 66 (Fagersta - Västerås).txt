@@ -129,12 +129,14 @@ T-korsning Surahammar SO
 T-korsning Långtallbofallet
  252: Eskilstuna, Hallstahammar
 
+Etapp 24: Långtallbofallet - Lillhärad ()
+
 Korsning (enskild väg)
  Vändplats
 
 (Vall över Långsjön)
 				/)
-Korsning Långsjön (enskild väg)
+(Korsning Långsjön (enskild väg))
  Badplatser (ej skyltat)
 
 Surahammar / Västerås: (59.6807675,16.2760015)
@@ -151,3 +153,59 @@ Korsning Älgmossen (enskild väg)
 Korsning Lillhärad vägskäl
  Dingtuna, Lillhärads K:a
  Skultuna
+
+Etapp 25: Lillhärad - Västerås ()
+
+T-korsning (enskild väg)
+ Vändplats
+
+T-korsning Skästa (enskild väg)
+(endast förskyltad västgående)
+ Skästa, Ridhus
+
+T-korsning
+ Lillhärad
+
+T-korsning Rustberga (enskild väg)
+(endast förskyltad västgående)
+ FM/TV-station
+
+Korsning Smedstorp (enskild väg)
+ Vilsta
+
+Korsning Boda/Säterholm (enskild väg)
+ Fridhem
+ Boda
+
+Korsning Häljebo
+ Vångstsa
+ Häljebo (enskild väg)
+
+Korsning Fromtorp
+ Enskild väg
+
+Rondell Rv 66/Norrleden
+ Handel: Erikslund
+ Skultuna, Vallby
+
+Rondell Eriksborg (lokal väg)
+ Handel: Erikslund
+ Eriksborg
+
+Rondell Erikslund S (lokal väg)
+ Handel: Erikslund S
+ Eriksborg
+
+Bäckbymotet-nord
+ E18 v: Oslo, Örebro
+ 56 s: Norrköping
+ E18 ö: Stockholm, Centrum
+ Sjukhus, Flygplats
+ 56 n: Gävle
+
+Bäckbymotet-syd
+ E18 ö: Stockholm, Centrum
+ Sjukhus, Flygplats
+ 56 n: Gävle
+ Hamnen, Bäckby Ö
+ First Camp Västerås-Mälaren, Lövudden badplats
