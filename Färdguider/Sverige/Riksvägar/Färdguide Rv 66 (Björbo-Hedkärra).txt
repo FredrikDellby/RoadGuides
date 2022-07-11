@@ -151,7 +151,7 @@ Ludvika / Smedjebacken: (60.1510684,15.224814)
 T-korsning Sjöbo (enskild väg)
  Sjöbo, Harnäsgården
 
-Bro över Övre Hillen
+Bro över Övre Hillen (ej skyltad)
 
 Dubbel T-korsning Norsbro
  Norsbro
@@ -162,7 +162,7 @@ Dubbel T-korsning Lernbo Rv 66
  Gubbo, Flogbergets gruvor
  Plantskola (lokal väg)
 
-(Bro över )
+(Bro över Leran-Nedre Hillen)
 T-korsning Rv 66/Haggevägen
  Snöån, Hagge
  Sågverk, Hagge Golfklubb, Räfsnäs Camping
