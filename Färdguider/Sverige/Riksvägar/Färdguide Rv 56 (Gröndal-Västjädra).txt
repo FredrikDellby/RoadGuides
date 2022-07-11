@@ -79,7 +79,7 @@ Korsning Vendle nedre (enskild väg)
 
 (Järnvägsviadukt
  Mälarbanan
-
+					(/
 Dubbel T-korsning Vändle
  Västerås, Dingtuna
  Bergtäkt
