@@ -1,39 +1,47 @@
-Färdguide Rv 56 (Västerås - Gävle)
+FÃ¤rdguide Rv 56 (VÃ¤sterÃ¥s - GÃ¤vle)
 ===================================
 
-Skallbergsmotet (133)
- E18 ö: Stockholm, Enköping
- E18 v: Oslo, Örebro
- 56 s: Norrköping, Eskilstuna
-Korsning Rv56/Emausgatan
-Bensinstation: OKQ8
+Skallbergsmotet (133))
+ E18 Ã¶: Stockholm, EnkÃ¶ping
+
+Skallbergsmotet (Rondell))
+ E18 v: Oslo, Ã–rebro
+ 56 s: NorrkÃ¶ping, Eskilstuna
+					/)
+Korsning Rv 56/Emausgatan (lokal vÃ¤g)
+ Restaurang: Arams Burger, Jan Pizzeria
 					1.2 km/0.9 km	1 min 12 s/0 min 54 s
-Gideonbergsmotet (Rondell)
-Bensinstation: OKQ8
+Gideonbergsmotet (Rondell, lokal vÃ¤g)
+ Restaurang: Dillos Pizzeria & Grill
 					0.6 km/0.6 km	36 s/36 s
+Bensinstation: Circle-K
 Nordanbymotet (Rondell)
  Tibble
  Skultuna
-Bensinstation: Statoil
-Restaurang: McDonald's
+ Restaurang: Sallad & SÃ¥nt
+					/)
+Restaurang: McDonald's)
 					1.0 km/1.2 km	1 min 0 s/1 min 12 s
-Avfart Stolpgatan (nordgående)
-Bensinstation: OKQ8
+Avfart Stolpgatan (nordgÃ¥ende)
+ lokal vÃ¤g
+ Restaurang: Kalles Restaurang
+
 Lundamotet (Rondell)
+ lokal vÃ¤g
 					1.4 km/1.1 km	1 min 24 s/1 min 6 s
-T-korsning Hökåsen S
- Hökåsen
+Rondell HÃ¶kÃ¥sen S (lokal vÃ¤g)
+ HÃ¶kÃ¥sen
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Hökåsen V
- Hökåsen, Baldelunda
+T-korsning HÃ¶kÃ¥sen V
+ HÃ¶kÃ¥sen, Baldelunda
 					0.9 km/0.9 km	41 s/41 s
-T-korsning Gryta
+T-korsning Rv 56/Tillbergav.
  Tillberga
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
 T-korsning Ansta
- Skultuna, Lycksta koloniområde
+ Skultuna, Lycksta koloniomrÃ¥de
 					0.8 km/0.8 km	36 s/36 s		
-T-korsning Äs
+T-korsning Ã„s
 					1.2 km/1.2 km	54 s/54 s
 Korsning Viggby
  Tillberga
@@ -50,29 +58,29 @@ T-korsning Romfartuna K:a
 T-korsning Romfartuna N
  Skultuna
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
-T-korsning Åbylunds vsk
+T-korsning Ã…bylunds vsk
  Munga
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-Korsning Hallsta vägskäl
+Korsning Hallsta vÃ¤gskÃ¤l
  Ransta
 					3.3 km/3.6 km	2 min 28 s/2 min 42 s
-Västerås / Sala
+VÃ¤sterÃ¥s / Sala
 T-korsning
  Broarna
 					0.4 km/0.3 km	18 s/14 s
 Dubbel T-korsning Tomta vsk
  Ransta
- Sätra Brunn
+ SÃ¤tra Brunn
 					3.3 km/3.1 km	2 min 28 s/2 min 20 s
-Korsning Lånsta
+Korsning LÃ¥nsta
  Kvista
 					0.5 km/0.5 km	23 s/23 s
-Korsning Lånsta N
+Korsning LÃ¥nsta N
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
-T-korsning Grällsta
- Sätra Brunn
+T-korsning GrÃ¤llsta
+ SÃ¤tra Brunn
 					0.4 km/0.4 km	18 s/18 s
-T-korsning Grällsta N
+T-korsning GrÃ¤llsta N
  Kvista
 					1.2 km/1.2 km	54 s/54 s
 T-korsning Kila
@@ -88,115 +96,115 @@ Rondell Evelund
  70 n: Mora, Avesta
  256: Norberg
 					3.5 km/3.5 km	2 min 38 s/2 min 38 s
-Rondell Hättskär
- 70 s: Enköping
+Rondell HÃ¤ttskÃ¤r
+ 70 s: EnkÃ¶ping
 					0.7 km/0.8 km	31 s/36 s
-Korsning Sör Kivsta
+Korsning SÃ¶r Kivsta
 					1.9 km/1.8 km	1 min 26 s/1 min 21 s
 Rondell Sala OKQ8
 Bensinstation: OKQ8
 					0.7 km/0.8 km	50 s/58 s
-Rondell Rv 56/Ringvägen
+Rondell Rv 56/RingvÃ¤gen
  Centrum
 					0.3 km/0.3 km	22 s/22 s
 Korsning Rv 56/Fabriksgatan
 					0.3 km/0.3 km	22 s/22 s
 Korsning Norrby kyrka
- Varmsätra, Norrby kyrka
+ VarmsÃ¤tra, Norrby kyrka
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
 T-korsning Modigsbacke
 					4.8 km/4.8 km	3 min 36 s/3 min 36 s
 T-korsning Sala GK
 					0.5 km/0.5 km	23 s/23 s
 T-korsning Rutiga huset
- Varmsätra
+ VarmsÃ¤tra
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Kärrbäck
+T-korsning KÃ¤rrbÃ¤ck
  Arnebo
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
-Västmanland / Uppsala
+VÃ¤stmanland / Uppsala
 Sala / Heby
 					1.9 km/1.9 km	1 min 26 s/1 min 26 s
 T-korsning Heby V
  72: Uppsala, Heby
- [254]: Enköping
+ [254]: EnkÃ¶ping
 					0.8 km/0.8 km	36 s/36 s
 T-korsning 56/Stationsv.
  Heby Centrum
 					0.3 km/0.3 km	14 s/14 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Dalabanan
 					1.2 km/1.2 km	54 s/54 s
-Korsning Tärnsjö vsk
+Korsning TÃ¤rnsjÃ¶ vsk
  Heby
  Arnebo
 					4.7 km/4.7 km	3 min 32 s/3 min 32 s
-T-korsning Över Sävne
- Sävne
+T-korsning Ã–ver SÃ¤vne
+ SÃ¤vne
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-Korsning Runhällan vsk
- Runhällan, Enkåker K:a
+Korsning RunhÃ¤llan vsk
+ RunhÃ¤llan, EnkÃ¥ker K:a
 					0.8 km/0.8 km	36 s/36 s
 Korsning
  Huddinge
- Runåker
+ RunÃ¥ker
 					4.0 km/4.0 km	3 min 0 s/3 min 0 s
 T-korsning Kroksbo vsk
- Enåker
+ EnÃ¥ker
 					2.5 km/2.5 km	1 min 53 s/1 min 53 s
-T-korsning Rödmossa vsk
- Rödmossa
+T-korsning RÃ¶dmossa vsk
+ RÃ¶dmossa
 					7.1 km/7.1 km	5 min 20 s/5 min 20 s
-T-korsning Östa vägskäl
- Tärnsjö, Östa
+T-korsning Ã–sta vÃ¤gskÃ¤l
+ TÃ¤rnsjÃ¶, Ã–sta
 					3.5 km/3.5 km	2 min 38 s/2 min 38 s
-Korsning Tärnsjö Ö
- Högsbo
- Tärnsjö
+Korsning TÃ¤rnsjÃ¶ Ã–
+ HÃ¶gsbo
+ TÃ¤rnsjÃ¶
 					1.5 km/1.7 km	1 min 8 s/1 min 17 s
-Dubbel T-korsning Tärnsjö N
- Tärnsjö
+Dubbel T-korsning TÃ¤rnsjÃ¶ N
+ TÃ¤rnsjÃ¶
  Buckarby
 					3.0 km/2.8 km	2 min 15 s/2 min 6 s
-T-korsning Skärsjö S
- Gäddsjö
+T-korsning SkÃ¤rsjÃ¶ S
+ GÃ¤ddsjÃ¶
 					5.0 km/5.0 km	3 min 45 s/3 min 45 s
 T-korsning Kerstinbo
- 272 s: Uppsala, Östervåla
+ 272 s: Uppsala, Ã–stervÃ¥la
 Kerstinbo - Mackmyra
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning
  Sevallbo
 					4.5 km/4.5 km	3 min 23 s/3 min 23 s
-Uppsala / Gävleborg
-Heby / Gävle
+Uppsala / GÃ¤vleborg
+Heby / GÃ¤vle
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Gysinge Ö
- 272 n: Sandviken, Österfärnebo
+T-korsning Gysinge Ã–
+ 272 n: Sandviken, Ã–sterfÃ¤rnebo
 					5.7 km/5.7 km	4 min 17 s/4 min 17 s
-Korsning Smedsäng
+Korsning SmedsÃ¤ng
  Ullanda
 					6.2 km/6.2 km	4 min 39 s/4 min 39 s
-Korsning Hedesunda väst
+Korsning Hedesunda vÃ¤st
  292: Tierp, Hedesunda
- Vinnersjö
+ VinnersjÃ¶
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
 T-korsning Norra Brunn
  Hedesunda
 					9.7 km/9.7 km	7 min 17 s/7 min 17 s
-T-korsning Främlingshem
- Årsunda
+T-korsning FrÃ¤mlingshem
+ Ã…rsunda
 					11.0 km/11.0 km	8 min 15 s/8 min 15 s
-Korsning Rörberg
+Korsning RÃ¶rberg
  Motorbana
- Gävle-Sandvikens flygplats
+ GÃ¤vle-Sandvikens flygplats
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
 T-korsning Stackbo
- Jordåsen
+ JordÃ¥sen
 					0.6 km/0.6 km	27 s/27 s
-Korsning Överhärde
+Korsning Ã–verhÃ¤rde
  Forsacka
 					1.6 km/2.3 km	1 min 12 s/1 min 43 s
 Trp Mackmyra
- 80 ö: Gävle, [E4]
+ 80 Ã¶: GÃ¤vle, [E4]
  80 v: Falun, Sandviken
