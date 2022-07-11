@@ -1,58 +1,58 @@
-Färdguide Rv 11 (Malmö - Simrishamn)
+FÃ¤rdguide Rv 11 (MalmÃ¶ - Simrishamn)
 =====================================
 
-Etapp 1: Malmö - Dalby (18,5 km/18,3 km)
+Etapp 1: MalmÃ¶ - Dalby (18,5 km/18,3 km)
 
 Trp Bulltofta
  [E6-E22 s], [E20 v]
- Limhamn, Malmö C
+ Limhamn, MalmÃ¶ C
  [E6-E20 n], [E22 n]
  Bulltofta, Hamnen
 					1,5 km/1,3 km	54 s/47 s
-(Malmö / Burlöv)
+(MalmÃ¶ / BurlÃ¶v)
 Trp Flansbjer
  Tullstorp
- Industri, Handel: Toftanäs
+ Industri, Handel: ToftanÃ¤s
  Handel: St Bernstorp
 					1,2 km/0,9 km	43 s/32 s
-Trp Sunnanå-väst
-(avfart östgående riktning
-påfart västgående riktning)
+Trp SunnanÃ¥-vÃ¤st
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
  E6-E22 s: Trelleborg
- E20 v: Köpenhamn, Kastrup Lufthavn
- Sunnanå
- E6-E20 n: Göteborg, Helsingborg
- E22 ö: Kalmar, Lund
- Nordanå
+ E20 v: KÃ¶penhamn, Kastrup Lufthavn
+ SunnanÃ¥
+ E6-E20 n: GÃ¶teborg, Helsingborg
+ E22 Ã¶: Kalmar, Lund
+ NordanÃ¥
 					1,7 km/1,8 km	1 min 1 s/1 min 5 s
-Trp Sunnanå-öst
-(avfart västgående riktning
-påfart östgående riktning)
+Trp SunnanÃ¥-Ã¶st
+(avfart vÃ¤stgÃ¥ende riktning
+pÃ¥fart Ã¶stgÃ¥ende riktning)
  E6-E22 s: Trelleborg
- E20 v: Köpenhamn, Kastrup Lufthavn
- Sunnanå
- E6-E20 n: Göteborg, Helsingborg
- E22 ö: Kalmar, Lund
- Nordanå
-Burlöv / Staffanstorp
+ E20 v: KÃ¶penhamn, Kastrup Lufthavn
+ SunnanÃ¥, St. Bernstorp (handel)
+ E6-E20 n: GÃ¶teborg, Helsingborg
+ E22 Ã¶: Kalmar, Lund
+ NordanÃ¥
+BurlÃ¶v / Staffanstorp
 					1,9 km/1,8 km	1 min 16 s/1 min 12 s
-Korsning Särslöv
+Korsning SÃ¤rslÃ¶v
  S. Sallerup
- Särslöv K:a, Butik & Deli
+ SÃ¤rslÃ¶v K:a, Butik & Deli
 					1,0 km/1,0 km	40 s/40 s
-Bro över Segeå
+Bro Ã¶ver Sege Ã¥
 					1,0 km/1,1 km	40 s/44 s
 Rondell Staffanstorp SV
- Önsvala
+ Ã–nsvala
  Staffanstorp
- Industri: Kronoslätt
+ Industri: KronoslÃ¤tt
  Bensinstation: Preem
- Restaurang: Önsvala Grill & Gatukök 
+ Restaurang: Ã–nsvala Grill & GatukÃ¶k 
 					3,4 km/4,2 km	2 min 16 s/2 min 48 s
-Trp Staffanstorp Ö
+Trp Staffanstorp Ã–
  108 s: Trelleborg, Sturups Flygplats
  108 n: Lund, Staffanstorp
- Industri: Östra, Plantskola
+ Industri: Ã–stra, Plantskola
  Bensinstation: Circle-K
  Restaurang: McDonald's, Subway
 					2,5 km/1,8 km	1 min 40 s/1 min 12 s
@@ -61,129 +61,177 @@ Trp Kyrkheddinge
  Kyrkheddinge
  Glassfabrik
 					2,2 km/2,1 km	1 min 28 s/1 min 24 s
-(Påfart (västgående))
+(PÃ¥fart (vÃ¤stgÃ¥ende))
 
 Korsning
  Lunnarp
- Vallby (enskild väg)
- Kanik, Reklambyrå (enskild väg)
+ Vallby (enskild vÃ¤g)
+ Kanik, ReklambyrÃ¥ (enskild vÃ¤g)
 					0,3 km/0,3 km	12 s/12 s
 (Staffanstorp / Lund)
-Korsning (lokal väg)
- Örestads Blästring
+Korsning (lokal vÃ¤g)
+ Ã–restads BlÃ¤string
 					2,0 km/2,2 km	1 min 20 s/1 min 28 s
 Rondell Dalby V
- Torna Hällestad, Dalby
+ Torna HÃ¤llestad, Dalby
  102: Lund, S. Sandby
  Restaurang: Dalbygrillen
 
-Etapp 2: Dalby - Veberöd (9,4 km/9,3 km)
+Etapp 2: Dalby - VeberÃ¶d (9,4 km/9,3 km)
 					1,2 km/1,5 km	0 min 48 s/1 min 0 s
 Trp Dalby S
  Dalby
  Genarp
 					0,9 km/0,7 km	36 s/28 s
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
  Lantbruksprodukter
 					0,5 km/0,6 km	20 s/24 s
-T-korsning (lokal väg)
+T-korsning (lokal vÃ¤g)
  Stenbrott
 					0,7 km/0,5 km	28 s/20 s
-T-korsning Önneslöv (enskild väg)
- Önneslöv
+T-korsning Ã–nneslÃ¶v (enskild vÃ¤g)
+ Ã–nneslÃ¶v
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
-T-korsning Knivåsen
- Björnstorp
+T-korsning KnivÃ¥sen
+ BjÃ¶rnstorp
  Dressincykling, Visenda
 					0,4 km/0,5 km	16 s/20 s
-Korsning Knivås
+Korsning KnivÃ¥s
  Dalby
- Rastplats Knivås
+ Rastplats KnivÃ¥s
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
 Korsning Vasaholm
- Torna-Hällestad
+ Torna-HÃ¤llestad
+ Svampodling, Vasbyholm, Ridskola
+ Plantskola
 					1,2 km/1,2 km	48 s/48 s
-T-korsning Skälbäck
+T-korsning SkÃ¤lbÃ¤ck
  Genarp
+ Hotell/Restaurang: The Lodge Resort
+ CafÃ©: Systrarna pÃ¥ Solhjulet
 					0,7 km/0,7 km	28 s/28 s
-Trp Veberöd V
-(avfart östgående riktning
-påfart västgående riktning)
- 102: Skurup, Veberöd
+Trp VeberÃ¶d V
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ 102: Skurup, VeberÃ¶d
 
-Etapp 3: Veberöd - Sjöbo (13,8 km/14,0 km)
+Etapp 3: VeberÃ¶d - SjÃ¶bo (13,8 km/14,0 km)
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
 T-korsning
- Harlösa, Silvåkra
+ HarlÃ¶sa, FÃ¶rsvarsmakten Revingehed
 					0,5 km/0,5 km	20 s/20 s
-Korsning Veberöd N
- Veberöd
+Korsning VeberÃ¶d N
+ VeberÃ¶d, Industri
+ Romelevallen, MossagÃ¥rden
+ Bensinstation: OKQ8
 					2,4 km/2,6 km	1 min 36 s/1 min 44 s
-Dubbel T-korsning
- Veberöd, Idala
- Vomb
-					3,7 km/3,5 km	2 min 28 s/2 min 20 s
-Korsning Klostersågen
- Öved
-					0,6 km/0,6 km	24 s/24 s
-Lund / Sjöbo
-					1,4 km/1,4 km	56 s/56 s
-(Korsning)
- Enskild väg
-					0,3 km/0,4 km	12 s/16 s
-(T-korsning)
- Enskild väg
-					1,2 km/1,1 km	48 s/44 s
-T-korsning Sjöbo sommarby
- Flygplats, Sjöbo GK
- Sjöbo Sommarby
-					1,8 km/1,9 km	1 min 33 s/1 min 38 s
-Rondell Sjöbo V
- Sjöbo Centrum
- 13 n: Höör, Hörby
+(Bro Ã¶ver KlingavÃ¤lsÃ¥n)
 
-Etapp 4: Sjöbo - Tomelilla (17,9 km/18,1 km)
+Dubbel T-korsning
+ Skurup, Blentarp, VeberÃ¶d
+ Vomb
+ Kulturens Ã–starp (SevÃ¤rdhet, Restaurang)
+					3,7 km/3,5 km	2 min 28 s/2 min 20 s
+Korsning KlostersÃ¥gen
+ Ã–vedskloster
+					0,6 km/0,6 km	24 s/24 s
+Lund / SjÃ¶bo: (55.6404793,13.6084679)
+					1,4 km/1,4 km	56 s/56 s
+(Korsning (enskild vÃ¤g))
+ Ej skyltad
+					0,3 km/0,4 km	12 s/16 s
+(T-korsning (enskild vÃ¤g))
+ Ej skyltad
+					1,2 km/1,1 km	48 s/44 s
+Dubbel T-korsning SjÃ¶bo sommarby
+ BjÃ¶rka, BjÃ¶rkadammen (fiske)
+ FÃ¶rsvarsmakten P7 BjÃ¶rka Ã–vningsfÃ¤lt
+ SjÃ¶bo Golfklubb
+					1,8 km/1,9 km	1 min 33 s/1 min 38 s
+(T-korsning Rv 11/Revirgatan)
+ Lokal vÃ¤g, ej skyltad
+
+T-korsning Rv 11/VÃ¤lavÃ¤gen (enskild vÃ¤g)
+ VÃ¤lahusen
+(Infoplats (Ã¶stgÃ¥ende)): (55.6346134,13.676321)
+
+(T-korsning Rv 11/Bussgata (lokal vÃ¤g))
+ Endast buss och till/frÃ¥n vÃ¤st
+
+(2+1-vÃ¤g upphÃ¶r / bÃ¶rjar)
+Rondell SjÃ¶bo V
+ SjÃ¶bo Centrum
+ 13 n: HÃ¶Ã¶r, SjÃ¶bo VÃ¤st
+ Bensinstation: Tanka
+ Restaurang: McDonald's, Sibylla
+ Hotell: SjÃ¶bo GÃ¤stgifvaregÃ¥rd
+
+Etapp 4: SjÃ¶bo - Tomelilla (17,9 km/18,1 km)
 					2,4 km/2,4 km	1 min 48 s/1 min 48 s
-Rondell Sjöbo S
+Rondell SjÃ¶bo S
  13 s: Ystad
- Sjöbo Centrum
+ SjÃ¶bo Centrum
+ Boende: Orebackens Camping, SjÃ¶bo GÃ¤stgifvaregÃ¥rd
+(2+1-vÃ¤g bÃ¶rjar / upphÃ¶r)
 					4,7 km/4,6 km	3 min 32 s/3 min 27 s
+Infoplats (vÃ¤stgÃ¥ende): (55.6167816,13.7587258)
+
 Korsning Anklam
+ Brukshundklubb
+ Vanstad, LÃ¶vestad
+(2+1-vÃ¤g upphÃ¶r / bÃ¶rjar)
 					1,8 km/1,8 km	1 min 21 s/1 min 21 s
-T-korsning
+T-korsning Floen
+ Eriksdal
 					2,9 km/3,0 km	2 min 11 s/1 min 15 s
-Dubbel T-korsning Röddinge väg 11
+Dubbel T-korsning RÃ¶ddinge vÃ¤g 11
+ Vanstad
+ RÃ¶ddinge
 					1,1 km/1,0 km	50 s/45 s
-Korsning
+Korsning MellanvÃ¥ngen
+ RÃ¶ddinge (endast skyltat vÃ¤stgÃ¥ende)
+ OrÃ¥sgÃ¥rden (enskild vÃ¤g)
 					0,5 km/0,5 km	23 s/23 s
-T-korsning
+T-korsning Slagarp
+ Fylan
 					0,5 km/0,5 km	23 s/23 s
-Sjöbo / Tomelilla
+SjÃ¶bo / Tomelilla: (55.5759393,13.8611681)
 					1,5 km/1,5 km	1 min 8 s/1 min 8 s
-T-korsning
+T-korsning L RamsÃ¥sa (enskild vÃ¤g)
+ L. RamsÃ¥sa, SlÃ¤ktforsning, HalmslÃ¶jd
+ Boende: B&B Landet
+
+T-korsning RamsÃ¥sa N (endast skyltad Ã¶stgÃ¥ende)
+ RamsÃ¥sa
 					1,1 km/1,1 km	50 s/50 s
-Korsning Ramsåsa
+Korsning RamsÃ¥sa
+ RamsÃ¥sa (endast skyltad vÃ¤stgÃ¥ende)
+ Granhem, Nyhem (enskild vÃ¤g)
 					1,3 km/1,5 km	0 min 59 s/1 min 17 s
-Tankställe Svampakorset
+TankstÃ¤lle Svampakorset
+ Bensinstation: INGO
+ Restaurang: RamsÃ¥sa Grillen
+ Parkering SamÃ¥kning, Sahlins KlÃ¤der
 Rondell Svampakorset
  19 s: Ystad
- 19 n: Kristianstad, Brösarp
+ 19 n: Kristianstad, BrÃ¶sarp
+ Tosselilla Sommarland, Svampabanan
 
 Etapp 5: Tomelilla - Smedstorp (13,8 km/13,6 km)
 					0,5 km/0,3 km	36 s/15 s
 T-korsning
- Industriområde
+ IndustriomrÃ¥de
 					1,0 km/1,0 km	51 s/51 s
-T-korsning 11/Trydevägen
+T-korsning 11/TrydevÃ¤gen
 					0,6 km/0,6 km	31 s/31 s
 T-korsning 11/Stafettgatan
 					0,7 km/0,7 km	50 s/50 s
-Korsning Malmöv./Ö. Utfartsv.
+Korsning MalmÃ¶v./Ã–. Utfartsv.
  Centrum
  Bensinstation: Tanka
 					0,2 km/0,2 km	14 s/14 s
-Järnvägsbro
- Österlensbanan
+JÃ¤rnvÃ¤gsbro
+ Ã–sterlensbanan
 					0,6 km/0,7 km	43 s/50 s
 T-korsning 11/Adelgatan
  Centrum
@@ -197,11 +245,11 @@ Dubbel T-korsning Lunner
 T-korsning
  Ingelsta kalkon
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-Korsning Smedstorp väg 11
+Korsning Smedstorp vÃ¤g 11
  Smedstorp
  S:t Olof, Smedstorps slott
 
-Etapp 6: Smedstorp - Järrestad (11,0 km/11,0 km)
+Etapp 6: Smedstorp - JÃ¤rrestad (11,0 km/11,0 km)
 					1,8 km/1,8 km	1 min 33 s/1 min 33 s
 T-korsning
 					0,7 km/0,6 km	36 s/31 s
@@ -211,13 +259,13 @@ T-korsning
 					0,6 km/0,6 km	36 s/36 s
 T-korsning
 					0,3 km/0,3 km	22 s/22 s
-Rondell Gärsnäs N
- Gärsnäs
+Rondell GÃ¤rsnÃ¤s N
+ GÃ¤rsnÃ¤s
 					0,8 km/0,8 km	58 s/58 s
-Järnvägskorsning
- Österlensbanan
+JÃ¤rnvÃ¤gskorsning
+ Ã–sterlensbanan
 					0,5 km/0,4 km	36 s/29 s
-Korsning 11/Skolvägen
+Korsning 11/SkolvÃ¤gen
  Bensinstation: Preem
 					1,7 km/1,7 km	1 min 27 s/1 min 27 s
 T-korsning
@@ -226,5 +274,5 @@ T-korsning
 					1,1 km/1,1 km	57 s/57 s
 Korsning
 					2,4 km/2,4 km	2 min 3 s/2 min 3 s
-Dubbel T-korsning Järrestad V
+Dubbel T-korsning JÃ¤rrestad V
  9 v: Trelleborg, Ystad
