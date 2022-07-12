@@ -10,7 +10,7 @@ T-korsning Gybäckskolan
 
 Korsning Björbo Ö
  Centrum
-(Västerdalälven)
+(Bro över Västerdalälven)
 
 Korsning Rv 66/Stationsvägen
  Linneväveri, Träindustri
@@ -18,28 +18,38 @@ Korsning Rv 66/Stationsvägen
 Järnvägskorsning
  Västerdalbanan
 
-(Dubbel T-korsning)
- Lokal väg, Enskild väg
+(Dubbel) T-korsning (enskild väg)
+ Bergtäkt
+ Källbäcken
 
-Korsning
+(Över järnvägskulvert)
+ f.d. -banan
+T-korsning (enskild väg)
+ Naturreservat
+
+Korsning Salån
  Lindesnäs, Lövsjön
 
 (Salå Gård)
 Gagnef / Ludvika: (60.3724699,14.8094912)
 
-T-korsning Lägerplats
+T-korsning Lägerplats (enskild väg)
  Lägerplats Malingarna
 
-Rastplats Malingarna
+Rastplats Malingarna (södra sidan)
+(endast skyltad östgående)
 
-Parkeringsplats
+Parkeringsplats (södra sidan)
+(endast skyltad östgående)
 
-Bro över Malingen
+Bro över Malingen: (60.3563724,14.8835994)
+Infopunkt (västgående): (60.3561071,14.8850677)
 
 T-korsning (enskild väg)
  Mockfjärd
 
-Parkeringsplats: (60.3409136, 14.9181196)
+Parkeringsplats (östra sidan): (60.3409136, 14.9181196)
+ Direkt invid vägen, ej skyltad, grusväg
 
 Ö Hedtjärn och Sottjärn Ädelfiske
 
@@ -49,13 +59,15 @@ T-korsning (enskild väg)
 Korsning Kvarnheden
  Nyhammar, Lanthandel
 
+Infopunkt (östgående): (60.2964585,14.95749)
+
 Korsning Nyhammar Rv 66
  Västansjö
  Saxhyttan
 
 Etapp 15: Nyhammar - Finnsviken ()
 
-Korsning 66/G:a Bruksvägen
+Korsning Rv 66/G:a Bruksvägen (lokal väg)
  Bruk/Inredning, Café
 
 Korsning Nyhammar S
@@ -71,13 +83,13 @@ Korsning Grangärde Ö
  Centrum
  Borlänge, Rämshyttan
 
-Korsning Rv 66/Rossavägen
+Korsning Rv 66/Rossavägen (lokal väg)
  Restaurang: Rossa Camping AB
 
 T-korsning Myggnäset
  Grangärde Centrum
 
-T-korsning
+T-korsning Södra industriomr. (lokal väg)
  Industri: Södra, Café
 
 T-korsning Finnsviken
