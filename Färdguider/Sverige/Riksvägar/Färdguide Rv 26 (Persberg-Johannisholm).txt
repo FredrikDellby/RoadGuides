@@ -1,42 +1,52 @@
-Etapp 26: Persberg - Östervik (33,2 km/33,2 km)
+Etapp 26: Persberg - ï¿½stervik (33,2 km/33,2 km)
 
-T-korsning Rv 26/Rv 63
+T-korsning Stumpbo
  26 s: Karlstad, Filipstad
  63 v: Mariestad, Kristinehamn
- 63 ö: Ludvika, Hällefors
+ 63 Ã¶: Ludvika, HÃ¤llefors
 					8.3 km/8.3 km	6 min 14 s/6 min 14 s
-Långbanshyttan m.m.
+(Korsning FinngÃ¥rden (enskild vÃ¤g))
+ FinngÃ¥rdarna
 
-Järnvägsbro
- Inlandsbanan
+Rastplats Sandslandet (Ã¶stra sidan)
+(endast skyltad nordgÃ¥ende)
+
+(Bro Ã¶ver ): (59.8429676,14.2569316)
+
+Korsning LÃ¥ngban (lokal vÃ¤g)
+ LÃ¥ngbans Gruvby (sevÃ¤rdhet), Info
+ UtstÃ¤llningar, Industriminne
 					2.5 km/2.5 km	2 min 9 s/2 min 9 s
-T-korsning Långban N
- Gåsborn
+Korsning Rv 26/Stationsv. (lokal vÃ¤g)
+ LÃ¥nggÃ¥rden
+
+T-korsning LÃ¥ngban N
+ GÃ¥sborn
 					3.6 km/3.6 km	2 min 42 s/2 min 42 s
-Järnvägsviadukt
+(f.d. JÃ¤rnvÃ¤gsviadukt): (59.8944256, 14.2588222)
  Inlandsbanan
 					0.8 km/0.8 km	0 min 36 s/0 min 36 s
-T-korsning Dalen
- Älvsjöhyttan
+T-korsning LÃ¥ngbansÃ¤nde N
+ Kosundet
 					9.5 km/9.5 km	7 min 8 s/7 min 8 s
-Korsning Lesjöfors
- Motjärnshyttan
- Lesjöfors museum
+Korsning Lesjï¿½fors
+ Motjï¿½rnshyttan
+ Lesjï¿½fors museum
 					8.5 km/8.5 km	6 min 23 s/6 min 23 s
-Korsning Östervik
+Korsning ï¿½stervik
  245 v: Hagfors
 
-Etapp 27: Östervik - Vansbro (54,6 km/55,3 km)
+Etapp 27: ï¿½stervik - Vansbro (54,6 km/55,3 km)
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
 Korsning
  Liljendal, Oforsen
 					3.9 km/3.9 km	2 min 56 s/2 min 56 s
 T-korsning
- St Lönnshöjden
+ St Lï¿½nnshï¿½jden
 					2.3 km/2.7 km	1 min 43 s/2 min 2 s
 Korsning
- Älvsjöhyttan
-(Värmland / Dalarna)
+ ï¿½lvsjï¿½hyttan
+(Vï¿½rmland / Dalarna)
 (Filipstad / Ludvika)
 Norra Laggen
 					3.2 km/2.8 km	2 min 24 s/2 min 6 s
@@ -45,43 +55,43 @@ T-korsning Tyfors
 					10.2 km/10.2 km	7 min 39 s/7 min 39 s
 Ludvika / Vansbro
 					1.0 km/1.2 km	45 s/54 s
-Korsning Laxtjärn
- Lindesnäs
- Tyngsjö
+Korsning Laxtjï¿½rn
+ Lindesnï¿½s
+ Tyngsjï¿½
 					20.6 km/20.6 km	15 min 27 s/15 min 27 s
 T-korsning Eldforsen S
- Tretjärn
+ Tretjï¿½rn
 					3.6 km/3.8 km	2 min 42 s/2 min 51 s
-Rastplats Härjeån
-(sydgående riktning)
+Rastplats Hï¿½rjeï¿½n
+(sydgï¿½ende riktning)
 					4.6 km/4.5 km	3 min 27 s/3 min 23 s
 Korsning Bomled
- Uppsälje
+ Uppsï¿½lje
 					1.1 km/1.5 km	1 min 19 s/1 min 48 s
 Trp Vansbro
  E16 v: Oslo
- 66 v: Sälen, Malung
-T-korsning Vansbro Ö
- E16 ö: Gävle, Borlänge
- 66 ö: Västerås, Ludvika
+ 66 v: Sï¿½len, Malung
+T-korsning Vansbro ï¿½
+ E16 ï¿½: Gï¿½vle, Borlï¿½nge
+ 66 ï¿½: Vï¿½sterï¿½s, Ludvika
 
 Etapp 28: Vansbro - Johannisholm (38,0 km/37,9 km)
 					1,8 km/1,5 km	2 min 10 s/1 min 48 s
-Järnvägsviadukt
- Västerdalbanan
+Jï¿½rnvï¿½gsviadukt
+ Vï¿½sterdalbanan
 					1,0 km/1,0 km	1 min 12 s/1 min 12 s
-T-korsning Dalasågen
+T-korsning Dalasï¿½gen
 					17,4 km/17,4 km	13 min 3 s/13 min 3 s
 Vansbro / Mora
 					2,3 km/2,3 km	1 min 44 s/1 min 44 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
  Inlandsbanan
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-Korsning Lödrogsnäs
+Korsning Lï¿½drogsnï¿½s
 					5,7 km/5,7 km	4 min 17 s/4 min 17 s
 T-korsning Landbobyn
 					1,5 km/1,5 km	1 min 8 s/1 min 8 s
-T-korsning Gävunda V
+T-korsning Gï¿½vunda V
 					5,2 km/5,4 km	3 min 54 s/4 min 3 s
 T-korsning Johannisholm
 Rastplats Johannisholm
