@@ -170,12 +170,15 @@ T-korsning Knaggebo
 T-korsning Gåsgruvan
  Lokal väg
 
-T-korsning Persberg S
- Lokal väg
+T-korsning Persberg S Lokal väg
+ Idrottsplats, Persberg Västra
 					3.7 km/3.7 km	3 min 10 s/3 min 10 s
 Korsning Persberg Rv 63 (lokal väg)
- Persberg, Persberg V
+ Persberg
  SMA Mineral Huvudkontor, Gåsgruvan Kalcit
+
+(T-korsning Rv 63/Yngshyttev.)
+ Lokal väg, ej skyltad
 
 Järnvägsviadukt
  Inlandsbanan
