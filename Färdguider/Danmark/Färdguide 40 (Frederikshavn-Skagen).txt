@@ -3,6 +3,7 @@ Etapp 1: Genom Frederikshavn ()
 T-korsning E45/Færgehavnsvej
  E45 n-Færge: Göteborg, Oslo (Stena Line)
  E45 s: Aalborg
+
 T-korsning 40/Rådhus Allé
 
 T-korsning 40/Lodsgade
@@ -17,10 +18,11 @@ T-korsning Krudtårnet
  Hirsholene, Nordhavn
 (Avfart (nordgående))
 
-(Korsning Kirkepladsen)
+Korsning Kirkepladsen
  Centrum
 
 T-korsning Frederikshavn St.
+ Ikke skiltet
 
 (Bensinstasjon: Circle-K (sydgående)
 
@@ -29,7 +31,10 @@ Korsning Nytorv
  Sygehus
  Bensinstation: Uno-X
 
-(Dubbel) T-korsning Gammeltorv
+(T-korsning Gammeltorv S)
+ Ikke skiltet
+
+T-korsning Gammeltorv N
  35: Hjørring
 
 Etapp 2: Frederikshavn - Elling ()
@@ -52,8 +57,8 @@ Sportsrideklubben Lerbæk
 
 Rasteplads Lerbæk
 
-Bro over Elling å)
-					/)
+Bro over Elling å
+
 Korsning Elling Ø
  Tversted, Tuen, Elling
 
@@ -88,7 +93,7 @@ Korsning Rimmen St.
 
 (Bro over Kragskov å)
 
-(Korsning 40/Söndergårdsvej)
+(Korsning 40/Søndergårdsvej)
  Skole og Idrætshal
 
 Rondell Jerup
@@ -116,7 +121,7 @@ T-korsning 40/Jennetvej
  Knasborg, Hvims
  Brandskole
 
-(Knasborghus)
+(Knasborghus Gård)
 
 T-korsning Farm Fun
 
@@ -127,6 +132,55 @@ DCU-Camping Ålbæk Strand: (57.5867634,10.4128529)
 Bensinstation: Bonus
 
 T-korsning 40/Søndre Havnevej
+ Havnen, Badeplads
 T-korsning 40/Stationsvej
+ Stationen, Parkering
 
-Rondell Ålbæk
+Rondell Ålbæk Centrum
+ Restaurant: Den Fornøjelige
+
+Korsning Aalbæk Badehotel
+ Hotel: Aalbæk Badehotel
+ Aalbæk skole, Idrætscenter
+ Museum, Kulturhus
+
+T-korsning 40/Nørre Strandvej
+ Badeplads
+(Ålbæk Autoværksted)
+
+(Bent's Autoværksted)
+
+T-korsning 40/Klitvej
+ Stadion
+ Restaurant: Mamma's Pizza
+
+(T-korsning 40/Industrivej)
+ Mekaniker Bjarne Svendsen
+
+Korsning 40/Industrivej
+ Containerplads
+
+Nordgrønt Gårdsbutik
+
+Rondell 40/Hirtshalsvej (Ålbæk N)
+ 597: Hirtshals, Tversted
+
+(T-korsning Strandgaarden)
+ Strandgaarden Gård
+
+Korsning 40/Råbjergvej
+ Skiveren
+ Hotel Hvideklit, Golfklubben Hvide Klit
+
+Rasteplads Bunken (østre side)
+
+Rasteplads Bunken Strand (østre side)
+(kun skiltet nordgående)
+
+Korsning Bunken Strand
+ Bunken Strand Camping
+
+Jernbaneviadukt
+ Skagensbanen
+
+Rondell Hulsig Kirke
