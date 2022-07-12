@@ -1,7 +1,7 @@
-Färdguide Lv 156 (Hindås/Rv 40 - Rv 26/Norra Unnaryd
+Färdguide Lv 156 (Hindås/Rv 40 - Norra Unnaryd/Rv 26
 =====================================================
 
-Etapp 1: Rv 40 - Skene väst (29,1 km/28,6 km)
+Etapp 1: Rv 40 - Sandvad (29,1 km/28,6 km)
 
 Ryamotet-nord
  40 v: Göteborg
@@ -33,47 +33,171 @@ T-korsning Lerviksvägen (enskild väg)
 (Dubbel) T-korsning Eriksmyst
  Lindome, Hällesåker
  Eriksmyst (enskild väg)
-				0,8 km/0,9 km
+					0,8 km/0,9 km
 T-korsning Hällingsjö
  Kungsbacka
 T-korsning Källarbacken
  Rävlanda, Bollebygd
-				1,1 km/1,0 km
-Härryda / Mark
-				1,6 km/1,6 km
+					1,1 km/1,0 km
+Härryda / Mark: (57.6134445,12.4350365)
+					1,6 km/1,6 km
+(Bilverkstad Entrepenad Depå)
+
 T-korsning Kärra
- Sätila, Fjärås
-				1,4 km/1,4 km
-Korsning Björlanda Kinna
- Sätila
- Rävlanda
-				2,3 km/2,3 km
-T-korsning Härsjön
- Bosgården
-				3,6 km/3,6 km
+ Hulta
+					1,4 km/1,4 km
+T-korsning Björlanda V (enskild väg)
+ Härkila, Garnbutik
+
+Korsning Björlanda
+ Sätila, Strömmaskolan
+ Habäck
+ Lygnevi Camping, Badplats
+					2,3 km/2,3 km
+T-korsning Dukared
+ Dukared
+					3,6 km/3,6 km
+(T-korsning Härsjön (enskild väg))
+ Torsered, Dalskog
+
+Korsning Stjärnhult (enskild väg)
+ Flybacka
+ Hundpensionat
+
+Blommigt & Prickigt: (57.5669622,12.5111353)
+ Heminredning och Bageri
+
 Korsning Sandvad
- Sätila
- Hyssna, Bollebygd
-				4,3 km/4,3 km
+ Sätila, Lygnevi Camping, Badplats
+ Sandvad gård (enskild väg)
+T-korsning Sandvad
+ Bollebygd, Hyssna, Hökås gård
+
+Etapp 2: Sandvad - Skene ()
+					4,3 km/4,3 km
+Hyssna Mack & Livs AB
+
+ICA Nära Hyssna
+T-korsning Hyssna handel (enskild väg)
+ Pendelparkering (ej skyltad)
+
+T-korsning Lv 156/Locköfallsv. (enskild väg)
+ Gammaldags Handarbeten
+
+Korsning Bläsebo (enskild väg)
+ Friared, Terner bil och fritid
+
+T-korsning (enskild väg)
+ Byggservice i Mark, Hyssna mätutrustning, Kerry Die
+Forsbergs Fritidscenter
+
+Korsning (enskild väg)
+ Hyssna Träteknik
+
+(Bro över Surtan)
+
 T-korsning Hjorttorps Hede
  Friared
-				0,9 km/0,9 km
+					0,9 km/0,9 km
 Korsning Hjorttorp
- Hajom, Fotskäl, Berghem
-				5,3 km/5,3 km
-T-korsning Skene väst
- [41]: Varberg, Berghem
+ Tostared, Fotskäl, Hajom
+ Borred, Kajbergvallen (enskild väg)
+					5,3 km/5,3 km
+T-korsning (enskild väg)
+ Löveslätt, Vävstuga
 
-Etapp 2: Skene - Trp Skene ()
+T-korsning Skene skog (enskild väg)
+ Industri: Skene Skog Företagspark
+
+T-korsning Krokslid (enskild väg)
+ Vävshop
+
+Korsning Vårkulla (enskild väg)
+ Skanska Asfalt & Kross
+ Vårkulla
+(2+1-väg börjar / upphör)
+
+Rondell Skene väst
+ [41]: Varberg, Berghem
+ Vårkulla
+(Bro över Skrålabäcken)
+
+Etapp 3: Skene - Trp Skene ()
+
+Korsning Gästgivaregården (lokal väg)
+ Ej skyltad
+
+T-korsning Lv 156/Tingsvägen (lokal väg)
+ Hedgärdessjön (vandring, bad)
 
 T-korsning Skene centrum
+ Kinna
+(Restaurang: Frölich Grill)
+
+Korsning Skene torg (lokal väg)
+ Restaurang: Skene krog/Pizzeria
+
+T-korsning Lv 156/Gästgivareg. (lokal väg)
+ Ej skyltad
+
+T-korsning Lv 156/Salängsgatan (lokal väg)
+ Ej skyltad
+T-korsning Lv 156/Järnvägsgatan (lokal väg)
+ Skene Jvg-stn, Pendelparkering
 
 Järnvägskorsning
+T-korsning Lv 156/Industrigatan (lokal väg)
+ Assberg, Industri: Näs,
+ Naturreservat (sevärdhet)
 
-Trafikplats
+T-korsning Lv 156/Hedbovägen (lokal väg)
+ Begravningsplats, Avloppsverk, Vävarevallen
+T-korsning Lv 156/Håvengatan (lokal väg)
+ Handelsområde (ej skyltat)
+
+(Bro över Viskan)
+
+T-korsning Lv 156/Skebrovägen
+ Lokal väg, ej skyltad
+ Marks Bryggeri
+Trp Skene-nord
+ 41 s: Varberg, Berghem
+
+Trp Skene-syd
+ 41 n: Borås
+T-korsning Kullagården
+ Haby, Öresten (sevärdhet)
+
+T-korsning Bosgården Lv 156 (lokal väg)
+ Örby kyrka (ej skyltad?)
+
+(Korsning (enskild väg))
+ Ekelund, Asfalterad
+
+(Bro över Ljungaån)
+Dubbel T-korsning Örby smedja
+ (Örby)
+ Öxabäck, Torestorp
+ Hotell/Restaurang: Två Skyttlar
+ Hanatorps Camping och strandbad
+
+(T-korsning Lv 156/Ljunugaslättv.)
+ Marks Brukshundsklubb (knappt skyltad)
+
+(T-korsning Lv 156/Ljungavägen)
+ Enskild väg (ej skyltad, asfalterad)
+
+T-korsning Haratången
+ Brättingstorp, Svenasjö kyrka
+
 T-korsning
+ Spjutås
+ Björkesbacka (sevärdhet), Finnebostugan
 
-T-korsning
+T-korsning Björkebo
+ Fritsla
 
-Dubbel T-korsning
+T-korsning Hunnaryd
+ Skephult, Stallyckan
 
+Mark / Svenljunga: (57.4910381,12.8787963)
