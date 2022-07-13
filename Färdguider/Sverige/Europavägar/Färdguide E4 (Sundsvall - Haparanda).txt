@@ -1,7 +1,7 @@
 Färdguide E4 (Sundsvall - Haparanda)
 =====================================
 
-Etapp 28: Sundsvall - Timrå (20,2 km/20,3 km)
+Etapp 30: Sundsvall - Timrå (20,2 km/20,3 km)
 
 Trp Skönsmon (225))
 (nordgående riktning)
@@ -32,7 +32,7 @@ Trp Gärdedalen (227)
  Restaurang: Gärdehov Restaurang, Frasses
  Hotell/Restaurang: Scandic Sundsvall Nord
 					3.9 km/3.0 km	2 min 20 s/1 min 48 s
-Trp Birsta Syd
+Trp Birsta Syd (229)
 (avfart nordgående riktning
 påfart sydgående riktning)
  Sundsbruk
@@ -75,7 +75,7 @@ Trp Sörberge (233)
  (Bensinstation: Gulf)
  (Restaurang: Inez Gatukök, Sörbergegrillen, Pizzeria Cosmos)
 
-Etapp 29: Timrå - Högsnäs ()
+Etapp 31: Timrå - Torsboda ()
 
 Bro över Indalsälven (400 m)
 
@@ -104,6 +104,8 @@ Trp Torsboda II (236)
  Ala
  Gumböle
  Bensinstation: Circle-K
+
+Etapp 32: Torsboda - Antjärn ()
 
 (Järnvägsviadukt)
  Ådalsbanan
@@ -154,8 +156,6 @@ Korsning Högsnäs
  Häggdånger K:a, Åvike
  Häggsjö (enskild väg)
 
-Etapp 30: Högsnäs - Härnösand ()
-
 T-korsning (enskild väg)
  Kammartjärn
 
@@ -166,6 +166,8 @@ Korsning Antjärn E4
  Häggdånger K:a
  Billsta, Sörmark
  Antjärns Camping och Stugby
+
+Etapp 33: Antjärn - Härnösand ()
 
 Korsning Motorbanan E4
  Häggdånger K:a, Mittsverigebanan
@@ -222,7 +224,7 @@ Trp Rosenhill (239)
  Centrum (Parkering)
  Länsmuseum
 
-Etapp 31: Härnösand - Mörtsal ()
+Etapp 34: Härnösand - Mörtsal ()
 
 Trp Godstjärn (240)
  Viksjö, Industri: Godstjärn
@@ -303,7 +305,7 @@ Trp Mörtsal (245)
  Höga Kusten Airport
  Snibbens Camping Stugby & STF Vandrarhem Snibben
 
-Etapp 32: Mörtsal - Gallsäter ()
+Etapp 35: Mörtsal - Gallsäter ()
 
 (Järnvägsviadukt)
  Ådalsbanan
@@ -361,7 +363,7 @@ påfart nordgående riktning)
 (T-korsning (enskild väg))
  Ej skyltad
 
-Etapp 33: Gallsäter - Ullånger ()
+Etapp 36: Gallsäter - Ullånger ()
 
 T-korsning Träsk E4
  Bjärtrå, Träsk
@@ -402,7 +404,7 @@ Dubbel T-korsning Ullånger Ö
  Ullångers Hotell & Restaurang
  Slakteri, Högakustenbåtarna
 
-Etapp 34: Ullånger - Docksta ()
+Etapp 37: Ullånger - Docksta ()
 
 Bro över Inviksån
 
@@ -462,7 +464,7 @@ Korsning Näs
  Friluftsbyn Camping och star
  Höga Kusten Liften skidanläggning
 
-Etapp 34: Docksta - Bjästa ()
+Etapp 38: Docksta - Bjästa ()
 
 Korsning Naturum Höga Kusten E4
  Rastplats Skuleberget
@@ -515,7 +517,7 @@ Trafikplats Bjästa
  (Camping, Vandrarhem)
  Bjästa Alpina Klubb
 
-Etapp 35: Bjästa - Örnsköldsvik ()
+Etapp 39: Bjästa - Örnsköldsvik ()
 
 Bro över Nätraån
 
