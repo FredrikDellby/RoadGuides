@@ -4,44 +4,74 @@ Färdguide E39 (Aalborg - Hirtshals)
 Motorvejskryds Vendsyssel
 (avfart nordgånde riktning
 påfart sydgående riktning)
-
-Kryds Høvejen-syd (10)
+ E45 n: Frederikshavn, Sæby
+					/)
+Kryds Høvejen-syd (10))
 (avfart nordgånde riktning
 påfart sydgående riktning)
-
-Kryds Høvejen-nord (10)
+ 11: Thisted
+					(/
+(Kryds Høvejen-nord (10)
 (avfart sydgånde riktning
 påfart nordgående riktning)
+ 11: Thisted
+ [E45 n], Aalborg Lufthavn
 
 Kryds Vestbjerg (9)
+ 549: Aabybro
 
 Kryds Tylstrup (8)
+ 559 ø: Hjallerup
+ 559 v: Blokhus
+ 515: Thisted
 
-Serviceanlæg Vildmose (nordgående)
+Rasteplads Vildmose Øst (nordgående)
  Bensinstation: Shell
-Rasteplads Vildmose (sydgående)
+Rasteplads Vildmose Vest (sydgående)
  Bensinstation: F24
 
 Kryds Brønderslev S (7)
+ Øster Brønderslev
+ 543: Saltum, [190]
 
 Kryds Brønderslev C (6)
+ 585: Frederikshavn
+
+(Bro over Østerå): 57.2862913,9.9989065
 
 Kryds Vrå (5)
+ 593 : Tårs
+ 593 v: Løkken
 
 Kryds Hjørring S (4)
+ 553: Sæby, Tårs
 
 Kryds Hjørring C (3)
+ 35: Frederikshavn, Sindal Lufthavn
+ [55]: (Løkken, Aabybro)
 
 Kryds Hjørring N (2)
+ Bjergby
 
 Rondell E39/Sr 597
+ 597: Skagen, Tversted
+ Horne
 
 (Påkørsel (sydgående))
+ fra Transportcenter
 
 Rondell E39/Pr 55
+ Færge: Torshavn (Smyril Line), Fjord Line
+ 55: Hirtshals S, Industri, Station
+ Transportcenter, Told
+ Bensinstation: Shell
 
-Kryds E39/Ålborgvej
+Korsning E39/Willemoesvej
+ Industri: Østhavn
+ Færge: Torshavn (Smyril Line), Fjord Line
+ Oceanarium, Forskerpark
+					/)
+Kryds E39/Ålborgvej)
 (avfart nordgånde riktning
 påfart sydgående riktning)
  Hirtshals C, Color Line Terminal
-
