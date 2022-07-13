@@ -1,4 +1,4 @@
-Etapp 26: Persberg - �stervik (33,2 km/33,2 km)
+Etapp 28: Persberg - Lesjöfors (33,2 km/33,2 km)
 
 T-korsning Stumpbo
  26 s: Karlstad, Filipstad
@@ -11,7 +11,7 @@ T-korsning Stumpbo
 Rastplats Sandslandet (östra sidan)
 (endast skyltad nordgående)
 
-(Bro över ): (59.8429676,14.2569316)
+(Bro över Hyttsjön-Långban): (59.8429676,14.2569316)
 
 Korsning Långban (lokal väg)
  Långbans Gruvby (sevärdhet), Info
@@ -28,36 +28,90 @@ T-korsning Långban N
 					0.8 km/0.8 km	0 min 36 s/0 min 36 s
 T-korsning Långbansände N
  Kosundet
-					9.5 km/9.5 km	7 min 8 s/7 min 8 s
-Korsning Lesj�fors
- Motj�rnshyttan
- Lesj�fors museum
-					8.5 km/8.5 km	6 min 23 s/6 min 23 s
-Korsning �stervik
- 245 v: Hagfors
 
-Etapp 27: �stervik - Vansbro (54,6 km/55,3 km)
+T-korsning (enskild väg)
+ Mögrevsände, Stugor
+					9.5 km/9.5 km	7 min 8 s/7 min 8 s
+(Infopunkt: (59.9676308,14.193862))
+Bilverkstad m.m.
+
+Korsning Lesjöfors industri (lokal väg)
+ Lesjö Mek AB, Metallvärden, Springwire Sweden
+
+Bensinstation: OKQ8
+
+T-korsning (lokal väg)
+ Lesjöfors fjädrar
+
+Restaurang: Lesjöfors Grill & Café Pizzeria
+
+Korsning Lesjöfors
+ Sandsjön, Kyrka
+ Esperantogården (vandrarhem)
+ Lesjöfors museum
+
+Etapp 29: Lesjöfors - Rämmen ()
+					8.5 km/8.5 km	6 min 23 s/6 min 23 s
+T-korsning Lesjöfors Coop (lokal väg)
+ Coop, (Hotell/Restaurang)
+
+(Lesjöfors Folkets Hus (ej skyltat))
+					(/
+Parkeringsplats (östra sidan)
+(Infopunkt (sydgående))
+
+Café Stationshuset
+
+Lesjö Camping: (60.0142437,14.1529282)
+ Café
+
+(Bro över Näsrämmen-Lesjön): (60.01988,14.1514543)
+
+(Korsning Östervik)
+ Enskild väg, ej skyltad, belyst
+
+Korsning Rämmen Ö
+ 245 v: Hagfors, Rämmen
+ Djuprämmen (enskild väg)
+
+Etapp 30: Rämmen - Tyfors (54,6 km/55,3 km)
 					4.2 km/4.2 km	3 min 9 s/3 min 9 s
-Korsning
+Korsning Oforsen Rv 26
  Liljendal, Oforsen
+ Badplats
 					3.9 km/3.9 km	2 min 56 s/2 min 56 s
-T-korsning
- St L�nnsh�jden
+(Bro över Oforsälven: (60.0868036,14.1397221)
+
+(Infopunkt (sydgående)
+T-korsning Olshöjden
+ Neva
 					2.3 km/2.7 km	1 min 43 s/2 min 2 s
-Korsning
- �lvsj�hyttan
-(V�rmland / Dalarna)
-(Filipstad / Ludvika)
-Norra Laggen
+Korsning Hökmossen
+ Älvsjöhyttan
+Värmland / Dalarna
+Filipstad / Ludvika
+(Bro över Norra Laggen)
 					3.2 km/2.8 km	2 min 24 s/2 min 6 s
+(Bro över å)
+(Tyforsgården)
+ Hotell/Restaurang
 T-korsning Tyfors
- 245: Ludvika, Fredriksberg
+ 245 ö: Ludvika, Grangärde, Fredriksberg
+ Säfsen Ski Resort
+
+Etapp 31: Tyfors - Vansbro ()
+					(/
+(Parkeringsplats (västra sidan)
+ grus, ej skyltad
 					10.2 km/10.2 km	7 min 39 s/7 min 39 s
-Ludvika / Vansbro
+(Kvarnberget)
+
+Ludvika / Vansbro: (60.2445581,14.180385)
 					1.0 km/1.2 km	45 s/54 s
-Korsning Laxtj�rn
- Lindesn�s
- Tyngsj�
+Korsning Laxtjärn
+ Lindesnäs
+ Tyngsjö, Sågen
+ Tyngsjö Camping och Bad
 					20.6 km/20.6 km	15 min 27 s/15 min 27 s
 T-korsning Eldforsen S
  Tretj�rn
