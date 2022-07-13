@@ -243,7 +243,7 @@ Trp Tönnebro (203)
  Bensinstation: OKQ8
  Restaurang: Tönnebro Värdshus (Rasta)
 
-Etapp 23: Tönnebro - Söderhamn södra (26,7 km/26,2 km)
+Etapp 23: Tönnebro - Söderhamn (26,7 km/26,2 km)
 (Vändplats (nordgående)): 61.0859341,16.9738173
 					3.2 km/2.4 km	2 min 8 s/1 min 36 s
 Korsning (enskild väg)
@@ -343,7 +343,7 @@ Trp Hudiksvall Södra (214)
  Hudiksvall Centrum
  84: Sveg, Ljusdal, Delsbo
 
-Etapp 25: Hudiksvall - Jättendal (33,7 km/33,1 km)
+Etapp 25: Hudiksvall - Harmånger (33,7 km/33,1 km)
 					3.5 km/3.0 km	2 min 20 s/2 min 0 s
 T-korsning Hudiksvall V
  Hudiksvall Centrum
@@ -360,7 +360,8 @@ T-korsning Masbo vägskäl
 Korsning (enskild väg)
  Brobackarna
 
-Parkering/Infoplats Tjurmyran
+Infoplats Sagaliden (nordgående)
+Parkering Tjurmyran (sydgående)
 
 Korsning Välsta gård (enskild väg)
  Solkebo
@@ -406,6 +407,8 @@ Korsning Harmånger V
  Röstabadet
 (Påfart (nordgående))
 
+Etapp 26: Harmånger - Jättendal ()
+
 Bro över Harmångersån
 
 Korsning Harmånger N (enskild väg)
@@ -422,9 +425,9 @@ Korsning Jättendal
  Mellanfjärden
  307: Hassela, Bergsjö
  Sjömärket (hotell/rest.), Turistbyrå
-Parkeringsplats (sydgående)
+(Parkeringsplats (sydgående))
 
-Etapp 26: Jättendal - Länsgränsen (21,1 km/21,1 km)
+Etapp 27: Jättendal - Gnarp (21,1 km/21,1 km)
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
 Korsning Sandbäcken (ej skyltad)
  Enskild väg
@@ -459,6 +462,8 @@ Korsning Gnarp OKQ8
  Bensinstation: OKQ8
  (Hotell: Berggårdens Gästgiveri)
 					0.4 km/0.4 km	18 s/18 s
+Etapp 28: Gnarp - S Maj ()
+
 Järnvägsviadukt
  Ostkustbanan
 					4.4 km/4.4 km	3 min 18 s/3 min 18 s
@@ -489,17 +494,14 @@ Väghållningsplats (nordgående)
 Gävleborg / Västernorrland: (62.1533771,17.3485469)
 Nordanstig / Sundsvall
 (Väghållningsplats (sydgående))
-Korsning (enskild väg)
+(Korsning (enskild väg))
  Ej skyltad
-
-Etapp 27: Länsgränsen - Sundsvall (26,6 km/26,5 km)
 					6.6 km/6.8 km	4 min 24 s/4 min 32 s
 Rastplats Armsjön (sydgående)
 (Dubbel T-korsning Skedlovallen fäbodar)
  Enskild väg, ej skyltad
 
-Trafikkontrollplats Armsjön
-(främst för nordgående)
+Trafikkontrollplats Armsjön (nordgående)
 (Väghållningsplats (sydgående))
 
 Parkeringsplats (sydgående)
@@ -519,6 +521,8 @@ Trafikplats S Maj
  Åstjärnarna, Orrsjön (fiske)
  Jaktskyttebana, Bo på Lantgåd
 					2.3 km/2.0 km	1 min 32 s/1 min 20 s
+Etapp 29: S Maj - Sundsvall ()
+
 Parkeringsplats (nordgående)
 
 T-korsning Räbbegård E4 (nordgående)
