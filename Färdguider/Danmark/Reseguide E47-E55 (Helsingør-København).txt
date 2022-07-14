@@ -1,136 +1,167 @@
-Reseguide E47-E55 (Helsingør - København)
+Reseguide E47-E55 (HelsingÃ¸r - KÃ¸benhavn)
 ==========================================
 
-Etapp 1: Genom Helsingør (5,6 km/5,7 km)
+Etapp 1: Genom HelsingÃ¸r (5,6 km/5,7 km)
 
-Helsingør Færge
- Scandlines
+HelsingÃ¸r FÃ¦rge
+ Scandlines: Helsingborg
 					0,7 km/0,7 km	1 min 3 s/1 min 3 s
-Rondell Færgevej
+Rondell E47/E55/FÃ¦rgevej
  152: Snekkersten
 					0,7 km/0,6 km	1 min 3 s/0 min 54 s
-T-korsning E47/Kongevejen
- Helsingør Centrum
- Bensinstation: Statoil
-					0,5 km/0,6 km	36 s/43 s
-Bensinstation: Ingo
-					0,2 km/0,2 km	14 s/14 s
-Restaurang: McDonald's
-					0,3 km/0,3 km	22 s/22 s
-Korsning E47/Rønnebær Allé
- O2
- Bensinstation: Shell
-					0,8 km/1,0 km	0 min 48 s/1 min 0 s
-Rondell E47/Klostermosevej
- O3, 205
- Bensinstation: Q8, OK
-					0,9 km/0,7 km	46 s/36 s
-Rondell Retten
- Industri.
-					1,6 km/1,8 km	1 min 22 s/1 min 33 s
-T-korsning E47/Riksvej 6
- 6: Hillerød
+T-korsning E47/SÃ¸ndre Strandvej
+ [152]: Snekkersten
 
-Etapp 2: Helsingør - Hørsholm (15,9 km/16,3 km)
+Jernbaneviadukt
+ Kystbanen
+
+Korsning E47/Stubbedamsvej
+ Ikke skiltet
+
+T-korsning E47/Kongevejen
+ HelsingÃ¸r Centrum
+ Bensinstation: Circle-K
+					0,5 km/0,6 km	36 s/43 s
+Bensinstation: Ingo: (56.0278583,12.5928186)
+					0,2 km/0,2 km	14 s/14 s
+Korsning E47/E55/Ã…rhusvej
+ Ikke skiltet
+
+ServiceanlÃ¦g
+ Bensinstation: Uno-X
+ Restaurang: McDonald's
+					0,3 km/0,3 km	22 s/22 s
+(Bensinstation: Shell
+					(/
+Korsning E47/E55/RÃ¸nnebÃ¦r AllÃ©
+ O2 s: Snekkersten, Parkering station
+ O2 n
+					0,8 km/1,0 km	0 min 48 s/1 min 0 s
+Rondell E47/E55/Klostermosevej
+ O3 s: Snekkersten, PrÃ¸vestenen
+ O3 n: Helsinge, [205]
+ Bensinstation: Q8
+					0,9 km/0,7 km	46 s/36 s
+Infopunkt (nordgÃ¥ende): (56.0177474,12.5592368)
+
+Rondell Retten
+ PrÃ¸vestenen
+ Industri: RÃ¸rtang, Teknisk Museum (sevÃ¦rdighed)
+					1,6 km/1,8 km	1 min 22 s/1 min 33 s
+Korsning E47/RÃ¸rtangvej (ikke skiltet)
+ GrangÃ¥rden
+ Eriksholm Research Centre
+
+T-korsning Nyruphus
+ Naturcenter Nyruphus, Nyruphus SkovcafÃ©
+
+T-korsning E47/E55/Riksvej 6
+(kun sydgÃ¥ende)
+ 6: HillerÃ¸d
+ 229: HÃ¸rsholm
+ [213]: EspergÃ¦rde, Told
+
+Etapp 2: HelsingÃ¸r - HÃ¸rsholm (15,9 km/16,3 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-Trp Espergærde (3)
-(avfart nordgående riktning
-påfart sydgående riktning)
- Ålsgårde, Espergærde
+Motorvej begynder / ender: (56.0068829,12.5347603)
+
+Trp EspergÃ¦rde (3)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ 213: Ã…lsgÃ¥rde
 					2,0 km/2,2 km	1 min 12 s/1 min 19 s
-Trp Kvistgård (4)
- 235 v: Hornbæk
- 235 ø: Espergærde
+Trp KvistgÃ¥rd (4)
+ 235 v: HornbÃ¦k
+ 235 Ã¸: EspergÃ¦rde S
 					1,9 km/2,4 km	1 min 8 s/1 min 26 s
-Trp Humlebæk (5)
+Trp HumlebÃ¦k (5)
  Fredensborg
+ NivÃ¥
 					4,5 km/3,7 km	2 min 42 s/2 min 13 s
-Trp Nivå (6)
-(avfart nordgående riktning
-påfart sydgående riktning)
- Bensinstation: Statoil
+Trp NivÃ¥ (6)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ Bensinstation: Circle-K
 					2,5 km/3,3 km	1 min 30 s/1 min 59 s
 Trp Kokkedal (7)
  Fredensborg
- Hørsholm N
+ [229]: HÃ¸rsholm N
 					3,4 km/3,2 km	2 min 2 s/1 min 55 s
-Trp Hørsholm C (9)
- 19 n: Hillerød, Birkerød
- 207: Rungsted
+Trp HÃ¸rsholm C (9)
+ 19 n: HillerÃ¸d
+ 207 v: BirkerÃ¸d
+ 207 Ã¸: Rungsted
 
-Etapp 3: Hørsholm - Lyngby (13,5 km/15,0 km)
+Etapp 3: HÃ¸rsholm - Lyngby (13,5 km/15,0 km)
 					1,6 km/1,3 km	58 s/47 s
-Rastplats Isterød
+Rasteplads IsterÃ¸d
 					0,9 km/1,0 km	32 s/36 s
-Trp Hørsholm S (10)
- 239: Holte, Høsterkøb
+Trp HÃ¸rsholm S (10)
+ 229 s: Holte, HÃ¸sterkÃ¸b
 					1,4 km/1,2 km	50 s/43 s
-Trp Sandbjerg (11)
- Høsterkøb
- Vedbæk
 					1,1 km/1,0 km	40 s/36 s
-Trp Vedbæk (12)
+Trp Vedbï¿½k (12)
 					0,9 km/1,2 km	32 s/43 s
 Trp Gl. Holte (13)
- Trørød
+ Trï¿½rï¿½d
  Bensinstation: Q8
 					1,8 km/2,2 km	1 min 5 s/1 min 19 s
-Trp Nærum (14)
- Sollerød
+Trp Nï¿½rum (14)
+ Sollerï¿½d
  Bensinstation: Shell, Q8
  Restaurang: McDonald's
 					2,0 km/1,5 km	1 min 12 s/0 min 54 s
 Rasteplads
 					0,6 km/0,5 km	22 s/18 s
 Trp Lundtofte (15)
- Hjortekær
+ Hjortekï¿½r
 					2,2 km/2,3 km	1 min 19 s/1 min 23 s
 Trp Lyngby C (16)
  Klampenborg
  Bensinstation: Statoil
 					1,1 km/1,2 km	40 s/43 s
 Motorvejskryds Kgs. Lyngby (nord)
-(avfart sydgående riktning
-påfart nordgående riktning)
- 19 s: København C
-Trp Jægerborgsvej (17)
-(avfart nordgående riktning
-påfart sydgående riktning)
+(avfart sydgï¿½ende riktning
+pï¿½fart nordgï¿½ende riktning)
+ 19 s: Kï¿½benhavn C
+Trp Jï¿½gerborgsvej (17)
+(avfart nordgï¿½ende riktning
+pï¿½fart sydgï¿½ende riktning)
 
-Etapp 4: Lyngby - Avedøre (17,9 km/18,6 km)
+Etapp 4: Lyngby - Avedï¿½re (17,9 km/18,6 km)
 					1,8 km/1,1 km	1 min 5 s/0 min 40 s
 Motorvejskryds Kgs. Lyngby (vest)
-(avfart nordgående riktning
-påfart sydgående riktning)
- 201: Birkerød
+(avfart nordgï¿½ende riktning
+pï¿½fart sydgï¿½ende riktning)
+ 201: Birkerï¿½d
 Trp Nybrovej (18)
-(ej påfart sydgående)
+(ej pï¿½fart sydgï¿½ende)
  Bensinstation: Statoil
 					0,4 km/1,1 km	14 s/40 s
 Trp Buddinge (19)
  Lyngby V
 					2,9 km/2,9 km	1 min 44 s/1 min 44 s
 Motorvejskryds Gladsaxe
- 16 n: Hillerød
- 16 s: København C
+ 16 n: Hillerï¿½d
+ 16 s: Kï¿½benhavn C
 					1,7 km/0,8 km	1 min 1 s/0 min 29 s
 Trp Gladsaxe (20)
-(ej avfart sydgående)
+(ej avfart sydgï¿½ende)
  O3: Frederikssund, Herlev
  Bensinstation: Q8
 					1,1 km/1,4 km	40 s/50 s
 Trp Frederikssundsvej (21)
  211: Herlev
- København C
+ Kï¿½benhavn C
  Bensinstation: Shell (Metax), JET
 					3,3 km/3,7 km	1 min 59 s/2 min 13 s
 Trp Jyllingevej (23)
  17-[21]: Ballerup, Roskilde
  Bensinstation: OK
 					1,4 km/0,7 km	50 s/25 s
-Motorvejskryds Rødovre
-(avfart nordgående riktning
-påfart sydgående riktning)
+Motorvejskryds Rï¿½dovre
+(avfart nordgï¿½ende riktning
+pï¿½fart sydgï¿½ende riktning)
  17: Ballerup
 					1,0 km/2,3 km	0 min 36 s/1 min 23 s
 Trp Roskildevej (24)
@@ -138,12 +169,12 @@ Trp Roskildevej (24)
  Frederiksberg
  Hotel/Restaurang: Scandic
 					3,0 km/2,3 km	1 min 48 s/1 min 23 s
-Motorvejskryds Brøndby
- 21 v: Holbæk, Roskilde
- 21 ø: København C
+Motorvejskryds Brï¿½ndby
+ 21 v: Holbï¿½k, Roskilde
+ 21 ï¿½: Kï¿½benhavn C
 					1,4 km/2,2 km	0 min 50 s/1 min 19 s
-Motorvejskryds Avedøre
+Motorvejskryds Avedï¿½re
  E20 v: Odense
- E47 s: Rødby
+ E47 s: Rï¿½dby
  E55 s: Gedser
- E20 ø: Malmö, Kastrup
+ E20 ï¿½: Malmï¿½, Kastrup
