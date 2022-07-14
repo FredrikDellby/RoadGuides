@@ -27,22 +27,28 @@ Korsning (lokal väg)
 
 T-korsning Grästorp V
  Trökörna, Thamstorps Herrgård
+					(/
+(Bro över Nossan
 					0.7 km/0.8 km	1 min 3 s/1 min 12 s
 Korsning Rv 47/Ågatan (lokal väg)
  Ekarnas Golfklubb, Restaurang
-Bensinstation: Q-star
+					(/
+(Bensinstation: Q-star
 
 Korsning Rv 47/Jon Jespersgatan (lokal väg)
  Kommunens Hus, Vårdcentral, Apotek, CaféKiosken
 
-(Gatukök)
+Bilhandel/Gatukök: (58.3333835,12.6793379)
+
 T-korsning Grästorp C
  Centrum, Turistinfo
 					0.3 km/0.2 km	27 s/18 s
-(Korsning Rv 47/Kyrkogatan)
+Korsning Rv 47/Kyrkogatan
  Grästorps kyrka, ej skyltad
+
 T-korsning Rv 47/Velandagatan (lokal väg)
- Resecentrum, Museu
+ Resecentrum, Museum
+
 T-korsning (lokal väg)
  Centralskolan, Nya Centralskolan
 					0.4 km/0.4 km	36 s/36 s
