@@ -18,7 +18,7 @@ Jernbaneviadukt
 Korsning E47/Stubbedamsvej
  Ikke skiltet
 
-T-korsning E47/Kongevejen
+T-korsning E47/E55/Kongevejen
  Helsingør Centrum
  Bensinstation: Circle-K
 					0,5 km/0,6 km	36 s/43 s
@@ -55,11 +55,12 @@ Korsning E47/Rørtangvej (ikke skiltet)
 T-korsning Nyruphus
  Naturcenter Nyruphus, Nyruphus Skovcafé
 
-T-korsning E47/E55/Riksvej 6
+Avfart E47/E55/Riksvej 6)
 (kun sydgående)
  6: Hillerød
  229: Hørsholm
  [213]: Espergærde, Told
+(T-korsning E47/E55/Riksvej 6)
 
 Etapp 2: Helsingør - Hørsholm (15,9 km/16,3 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
@@ -90,7 +91,7 @@ Trp Kokkedal (7)
 Trp Hørsholm C (9)
  19 n: Hillerød
  207 v: Birkerød
- 207 ø: Rungsted
+ 207 ø: Rungsted (Kyst)
 
 Etapp 3: Hørsholm - Lyngby (13,5 km/15,0 km)
 					1,6 km/1,3 km	58 s/47 s
@@ -100,81 +101,90 @@ Trp Hørsholm S (10)
  229 s: Holte, Høsterkøb
 					1,4 km/1,2 km	50 s/43 s
 					1,1 km/1,0 km	40 s/36 s
-Trp Vedb�k (12)
+Trp Vedbæk (12)
 					0,9 km/1,2 km	32 s/43 s
 Trp Gl. Holte (13)
- Tr�r�d
+ Trørød
  Bensinstation: Q8
 					1,8 km/2,2 km	1 min 5 s/1 min 19 s
-Trp N�rum (14)
- Soller�d
- Bensinstation: Shell, Q8
- Restaurang: McDonald's
+Trp Nærum (14)
+ Sollerød, Skodsborgvej
+ Nærum st./busstation
+ Bensinstation: Ingo, (Shell, Q8)
+ Restaurang: Restaurant Miyama, Simona Pizzeria & Café
 					2,0 km/1,5 km	1 min 12 s/0 min 54 s
-Rasteplads
+(Bro over ?
+					(/
+Rasteplads Lærkereden (sydgående)
+Rasteplads Storkereden (nordgående)
 					0,6 km/0,5 km	22 s/18 s
 Trp Lundtofte (15)
- Hjortek�r
+ Hjortekær
 					2,2 km/2,3 km	1 min 19 s/1 min 23 s
 Trp Lyngby C (16)
  Klampenborg
- Bensinstation: Statoil
+ Bensinstation: Circle-K
 					1,1 km/1,2 km	40 s/43 s
 Motorvejskryds Kgs. Lyngby (nord)
-(avfart sydg�ende riktning
-p�fart nordg�ende riktning)
- 19 s: K�benhavn C
-Trp J�gerborgsvej (17)
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 19 s: København C
+					(/
+(Kryds Jægerborgvej (17)
+(kun påfart sydgående)
+ Gentofte
 
-Etapp 4: Lyngby - Aved�re (17,9 km/18,6 km)
+Etapp 4: Lyngby - Avedøre (17,9 km/18,6 km)
 					1,8 km/1,1 km	1 min 5 s/0 min 40 s
+Jernbanekulvert)
+ Nordbanen
+
 Motorvejskryds Kgs. Lyngby (vest)
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
- 201: Birker�d
-Trp Nybrovej (18)
-(ej p�fart sydg�ende)
- Bensinstation: Statoil
+(kun avfart nordgående riktning)
+ 201: Birkerød
+					/)
+Kryds Nybrovej (18))
+(kun avfart sydgående)
+ O4: Lyngby V, Vangede
+ [19 s]: København C
+ Bensinstation: Circle-K
 					0,4 km/1,1 km	14 s/40 s
-Trp Buddinge (19)
- Lyngby V
+Kryds Buddinge (19)
+ O3: Lyngby V
 					2,9 km/2,9 km	1 min 44 s/1 min 44 s
 Motorvejskryds Gladsaxe
- 16 n: Hiller�d
- 16 s: K�benhavn C
+ 16 n: Hillerød
+ 16 s: København C
 					1,7 km/0,8 km	1 min 1 s/0 min 29 s
 Trp Gladsaxe (20)
-(ej avfart sydg�ende)
- O3: Frederikssund, Herlev
+ O3: Herlev, Hospital
  Bensinstation: Q8
 					1,1 km/1,4 km	40 s/50 s
 Trp Frederikssundsvej (21)
  211: Herlev
- K�benhavn C
+ København C
  Bensinstation: Shell (Metax), JET
 					3,3 km/3,7 km	1 min 59 s/2 min 13 s
 Trp Jyllingevej (23)
  17-[21]: Ballerup, Roskilde
  Bensinstation: OK
 					1,4 km/0,7 km	50 s/25 s
-Motorvejskryds R�dovre
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
+Motorvejskryds Rødovre
+(avfart nordgående riktning
+påfart sydgående riktning)
  17: Ballerup
 					1,0 km/2,3 km	0 min 36 s/1 min 23 s
 Trp Roskildevej (24)
  156: Glostrup
  Frederiksberg
- Hotel/Restaurang: Scandic
+ Hotel/Restaurant: Scandic
 					3,0 km/2,3 km	1 min 48 s/1 min 23 s
-Motorvejskryds Br�ndby
- 21 v: Holb�k, Roskilde
- 21 �: K�benhavn C
+Motorvejskryds Brøndby
+ 21 v: Holbæk, Roskilde
+ 21 ø: København C
 					1,4 km/2,2 km	0 min 50 s/1 min 19 s
-Motorvejskryds Aved�re
+Motorvejskryds Avedøre
  E20 v: Odense
- E47 s: R�dby
+ E47 s: Rødby
  E55 s: Gedser
- E20 �: Malm�, Kastrup
+ E20 ø: Malmø, Københavns Lufthavn
