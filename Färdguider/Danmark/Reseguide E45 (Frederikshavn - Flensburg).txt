@@ -42,7 +42,7 @@ Avfart Transportcenter Nord (sydgående)
 					1,2 km/1,7 km	0 min 54 s/1 min 17 s
 Kryds Sæby N (12)
  180: Sæby, Vangen
-(Motorvej ender / begynder)
+(Motorvej begynder / ender)
 
 Etapp 2: Sæby - Ålborg (50,8 km/50,6 km)
 					4,5 km/5,2 km	2 min 15 s/2 min 36 s
@@ -64,7 +64,7 @@ Faunapassage
 Kryds Jyske Ås (15)
  Klokkerholm
 					5,1 km/5,1 km	2 min 33 s/2 min 33 s
-Kryds Hjallerup N (16)
+Kryds Hjallerup (16)
  559 ø: Asaa, Dronninglund
  559 v: Blokhus
 					2,5 km/2,8 km	1 min 15 s/1 min 24 s
