@@ -139,11 +139,11 @@ påfart sydgående riktning)
 Kryds Ålborg S (28)
  Aalborg V
  187: Nibe
- 507: Hadslund, Gistrup
+ 507: Hadsund, Gistrup
  Aalborg Universitets Hospital
 					1,3 km/1,4 km	39 s/42 s
 Rasteplads Dall (sydgående)
- Restaurang: Dall
+ Restaurang: Info-teria Dall
 Rasteplads Limfjorden (nordgående)
 					5,6 km/5,9 km	2 min 48 s/2 min 57 s
 Kryds Svenstrup (29)
@@ -153,16 +153,16 @@ Kryds Støvring N (30)
 					3,5 km/3,5 km	1 min 45 s/1 min 45 s
 Kryds Støvring S (31)
  519 n: Nibe
- 519 s: Hadsund, Skørping
+ 519 s: (Hadsund), Skørping
 					5,7 km/5,7 km	2 min 51 s/2 min 51 s
 Serviceanlæg Himmerland
- Restaurang
- Bensinstation: Statoil, Q8
+ Restaurang: Himmerland
+ Bensinstation: Circle-K (syd), Q8 (nord)
 					1,9 km/1,1 km	57 s/33 s
 Kryds Sønderup (32)
 (avfart sydgående riktning
 påfart nordgående riktning)
- 13: Viborg
+ 13: Viborg, Aars
 
 Etapp 4: Sønderup - Randers (48,5 km/49,3 km)
 					5.3 km/6.3 km	2 min 53 s/3 min 26 s
