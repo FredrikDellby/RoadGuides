@@ -890,12 +890,14 @@ Bensinstasjon: Circle-K
 Rondell E6/E136
  E136: Ålesund, Åndalsnes
 
+Etapp 24: Dombås - Furuhaugli ()
+
 Mittrekk begynder / ender
 
 Mitrekk ender / begynder
 
 (T-korsning E6/Fjellvegen)
- Ljos..
+(ikke skiltet)
 
 T-korsning E6/Fjellvegen
  Dombås Fjellskole, Dombås skiarena
@@ -904,7 +906,8 @@ T-korsning E6/Fjellvegen
 (Parkeringsplass (vestre side)
 Dombås bom for høyfjellsovergang
 
-Parkerings/Infoplass (vestre side)
+(Parkerings/Infoplass (vestre side))
+(ikke skiltet)
 T-korsning E6/Hjellsætervegen
  Hjelle seter, Parkering Hondyrju
 
@@ -931,10 +934,15 @@ T-korsning Storrhusranden-nord
 T-korsning Furuhaugli
  Furuhaugli Fjellhytter, Restaurant, Café
 
+Etapp 25: Furuhaugli - Hjerkinn ()
+
 Korsning (private veier)
  Stor Telekommast
 
-Rasteplass Vålåsjøen (østre side)
+Rasteplass Vålåsjøen (vestre side)
+
+(Parkeringsplass (vestre side))
+(grusvei, ikke skiltet)
 
 T-korsning Dovregubbens Hall-øst (skiltet nordgående)
  Hotell, Restaurant, Hytter
@@ -944,3 +952,76 @@ T-korsning Dovregubbens Hall-øst (skiltet nordgående)
 T-korsning Dovregubbens Hall-vest (skiltet sydgående)
  Rasteplass Dovregubbens Hall
 
+(Parkeringsplass (vestre side))
+ Grus, ikke skiltet
+
+Rasteplass Sygardseter (østre side)
+(kun skiltet nordgående)
+
+T-korsning
+ Hageseter Turisthytte
+ Vesle-Hjerkinn (sevärdighet)
+
+Rasteplass Heglingsbakken (vestre side)
+(ikke skiltet nordgående)
+
+Rasteplass Geitberget (østre side)
+(kun skiltet nordgående?)
+
+(Bom for høyfjellsovergang): (62.2219397,9.5504457)
+Dubbel T-korsning Hjerkinn E6
+ Hjerkinn stasjon
+ 29: Folldal
+
+(T-korsning E6/Hjerkinnhusvegen): (62.2258046,9.5475433)
+(Bom for høyfjellsovergang): (62.2260634,9.5468149)
+
+Rasteplass (østre side)
+(ikke skiltet sydgående)
+
+Rasteplass Tverrfjellet (vestre side)
+(ikke skiltet nordgående)
+
+(Innlandet /: (62.2642207,9.5661274)
+(Drovre /
+Grensestenen: (62.2647118,9.5679245)
+(Snuplass)
+/ Trøndelag): (62.2650691,9.5692746)
+/ Oppdal)
+
+(Grønbakken bom for høyfjellsovergang): (62.2760906,9.5851378)
+Korsning Grønbakken
+ Rasteplass (ikke skiltet)
+
+Parkeringsplass Pilegrimsleia (vestre side)
+
+Infoplass (vestre side): (62.3020224,9.6032054)
+
+Kongsvold Fjeldstue
+
+T-korsning
+ Kongsvoll stasjon
+
+(Bru over Sprenbekken)
+
+Rasteplass Vårstigen (østre side)
+(direkt intill veien)
+
+Rasteplass Nestavollan (østre side)
+(kun skiltet Rasteplass nordgående)
+ Vårstigen (seværdighet)
+(Sápmi souvenir (vestre side))
+
+T-korsning Hesthåggan
+ Rasteplass Hesthåggan
+ Vårstigen (seværdighet)
+
+(Parkeringsplasser (vestre side))
+(direkt invid veien)
+
+(Parkeringsplass (vestre side))
+(grus, ikke skiltet)
+T-korsning Drivstua
+ Drivstua stasjon og Drivstua Fjeldstue
+
+Parkeringsplass/parallellvei (vestre side)
