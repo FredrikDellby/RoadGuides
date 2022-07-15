@@ -79,12 +79,11 @@ Kryds Lyngdrup (17)
  [180 s]: Grindsted
 					2,9 km/2,9 km	1 min 27 s/1 min 27 s
 Kryds Vodskov N (18)
- 180
- Langholt
+ Langholt, [180]
 					3,1 km/3,0 km	1 min 41 s/1 min 38 s
 Kryds Vodskov (19)
  583: Hals
- Bensinstation: Shell, Uno-X
+ Bensinstation: (Shell), Uno-X
 					3,0 km/3,0 km	1 min 38 s/1 min 38 s
 Kryds Bouet (20)
  [E39]: Hirtshals
@@ -100,38 +99,48 @@ påfart sydgående riktning)
 Etapp 3: Ålborg - Sønderup (34,2 km/33,9 km)
 					1,2 km/1,1 km	39 s/36 s
 Kryds Nørresundby N (21)
- Bensinstation: OK, INGO
+ Nørresundby C, Lindholm
+ Aalborg Lufthavn
+ Bensinstation: OK, INGO, (F24)
  Restaurang: McDonald's, SUSHIMANIA
 					1,2 km/1,1 km	39 s/36 s
 Kryds Nørresundby C (22)
 (avfart nordgående riktning
 påfart sydgående riktning)
-					/)
-Limfjordstunnelen-nord)
+
+Limfjordstunnelen-nord
 					1,3 km/1,1 km	47 s/40 s
 (Limfjordstunnelen-syd)
-Kryds Ålborg N (23)
+Kryds Aalborg N (23)
 (avfart sydgående riktning
 påfart nordgående riktning)
-  Kridtsvinget
+ Aalborg C-V, Østerhavnen
+ Rørdal
 					0,7 km/1,3 km	25 s/47 s
 Kryds Ø. Uttrup Vej (24)
+ Østerhavnen
+ [180]: Rørdal
 					1,6 km/1,0 km	58 s/36 s
 Kryds Humlebakken (25)
 (avfart sydgående riktning
 påfart nordgående riktning)
+ Vejgaard
 					1,3 km/1,9 km	0 min 47 s/1 min 8 s
 Kryds Th. Sauers Vej (26)
- 595: Klarup
- Bensinstation: Statoil
- Hotel/Restaurang: Scandic
+ 595: Egense
+ Bensinstation: Circle-K
+ Hotel/Restaurant: Scandic Aalborg Øst
 					3,1 km/2,8 km	1 min 41 s/1 min 32 s
 (Kryds Ålborg C (27)
 (avfart nordgående riktning
 påfart sydgående riktning)
+ [180]
 					(/1,0 km	13 s/33 s
 Kryds Ålborg S (28)
- Ålborg Vest
+ Aalborg V
+ 187: Nibe
+ 507: Hadslund, Gistrup
+ Aalborg Universitets Hospital
 					1,3 km/1,4 km	39 s/42 s
 Rasteplads Dall (sydgående)
  Restaurang: Dall
