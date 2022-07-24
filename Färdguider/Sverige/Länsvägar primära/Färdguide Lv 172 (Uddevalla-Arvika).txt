@@ -1,115 +1,115 @@
-Reseguide Väg 172 Uddevalla - Arvika
+Reseguide Vï¿½g 172 Uddevalla - Arvika
 =====================================
 
-Etapp 1: Uddevalla - Färgelanda (26,6 km/26,2 km)
+Etapp 1: Uddevalla - Fï¿½rgelanda (26,6 km/26,2 km)
 
-Kurödsmotet
- 44: Trollhättan
+Kurï¿½dsmotet
+ 44: Trollhï¿½ttan
  44: Uddevalla C
- Uddevalla Ö
-Korsning Nordmannerödsvägen
+ Uddevalla ï¿½
+Korsning Nordmannerï¿½dsvï¿½gen
  Bensinstation: Shell
 					1,9 km/1,5 km	1 min 38 s/1 min 17 s
 T-korsning Myren
- Lillesjö ind. omr.
+ Lillesjï¿½ ind. omr.
 					1,2 km/1,2 km	1 min 12 s/1 min 12 s
 T-korsning Skogstorpet
- Enskild väg
+ Enskild vï¿½g
 					1,0 km/1,0 km	51 s/51 s
-T-korsning Nordmanneröd
- Frändefors, Lane-Ryr
+T-korsning Nordmannerï¿½d
+ Frï¿½ndefors, Lane-Ryr
 					4,3 km/4,3 km	3 min 41 s/3 min 41 s
 T-korsing Fagerhult Lane
  Lane-Ryr
 					3,3 km/3,3 km	2 min 50 s/2 min 50 s
-Uddevalla / Färgelanda
+Uddevalla / Fï¿½rgelanda
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-T-korsning Nättjebacka
- Rådanefors
+T-korsning Nï¿½ttjebacka
+ Rï¿½danefors
 					5,8 km/5,9 km	4 min 21 s/4 min 26 s
 Sundsbron
 					1,0 km/0,9 km	45 s/41 s
-T-korsning Ellenö
+T-korsning Ellenï¿½
  Torp
 					0,4 km/0,4 km	18 s/18 s
 Korsning Dagsholm
  Munkedal, Torp
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
-Korsning Ödeborg väg 172
- Ödeborg
- Ödeborg K:a
+Korsning ï¿½deborg vï¿½g 172
+ ï¿½deborg
+ ï¿½deborg K:a
 					0,6 km/0,6 km	27 s/27 s
-T-korsning Ödeborg norra
- Ödeborg K:a
+T-korsning ï¿½deborg norra
+ ï¿½deborg K:a
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-Korsning Färgelanda södra
+Korsning Fï¿½rgelanda sï¿½dra
  Centrum, Hedekas
  Bensinstation: Preem
 					1,1 km/1,1 km	57 s/57 s
-Korsning Färgelanda östra
- 173: Vänersborg, Stigen
+Korsning Fï¿½rgelanda ï¿½stra
+ 173: Vï¿½nersborg, Stigen
  Centrum, Hedekas
 
-Etapp 2: Färgelanda - Bäckefors (28,3 km/28,3 km)
+Etapp 2: Fï¿½rgelanda - Bï¿½ckefors (28,3 km/28,3 km)
 					3,4 km/3,4 km	2 min 33 s/2 min 33 s
-T-korsning Hjärtsäter
- [173]: Vänersborg, Stigen
+T-korsning Hjï¿½rtsï¿½ter
+ [173]: Vï¿½nersborg, Stigen
 					4,6 km/4,6 km	3 min 27 s/3 min 27 s
 Korsning Grind
- Brasäter, Skallsjö
+ Brasï¿½ter, Skallsjï¿½
 					1,6 km/1,8 km	1 min 22 s/1 min 33 s
-Rastplats Högsäter
-T-korsning 172/Rännelandavägen
+Rastplats Hï¿½gsï¿½ter
+T-korsning 172/Rï¿½nnelandavï¿½gen
 					0,5 km/0,3 km	36 s/22 s
-T-korsning 172/Ånnerudsvägen
- Ånnnerud
+T-korsning 172/ï¿½nnerudsvï¿½gen
+ ï¿½nnnerud
 					1,3 km/1,3 km	59 s/59 s
-T-korsning Tångelanda
+T-korsning Tï¿½ngelanda
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-T-korsning Härsängen
+T-korsning Hï¿½rsï¿½ngen
 					3,7 km/3,7 km	2 min 47 s/2 min 47 s
 T-korsning Stora Torp
- Rännelanda
+ Rï¿½nnelanda
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-Korsning Järbo
- Järbo
- Råggärd
+Korsning Jï¿½rbo
+ Jï¿½rbo
+ Rï¿½ggï¿½rd
 					3,7 km/3,9 km	2 min 47 s/2 min 56 s
-Dubbel T-korsning Stora Bön
- Ödebyn
- Rölanda
+Dubbel T-korsning Stora Bï¿½n
+ ï¿½debyn
+ Rï¿½landa
 					2,6 km/2,3 km	1 min 57 s/1 min 44 s
-Färgelanda / Bengtsfors
+Fï¿½rgelanda / Bengtsfors
 					2,0 km/2,0 km	1 min 30 s/1 min 30 s	
-Korsning Bäckefors östra
+Korsning Bï¿½ckefors ï¿½stra
  166: Mellerud
- Bäckefors Centrum
+ Bï¿½ckefors Centrum
 Bensinstation: Statoil
 Restaurang: Facklan
 
-Etapp 3: Förbi Bäckefors (2,7 km/2,7 km)
+Etapp 3: Fï¿½rbi Bï¿½ckefors (2,7 km/2,7 km)
 					1,1 km/1,1 km	57 s/57 s
-Korsning Bäckefors norra
+Korsning Bï¿½ckefors norra
  Centrum
- Rölanda
+ Rï¿½landa
 					1,3 km/1,3 km	59 s/59 s
 T-korsning Nian
 					0,3 km/0,4 km	14 s/18 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
 T-korsning
  166: Halden, Ed
 
-Etapp 4: Bäckefors - Steneby (15,1 km/15,1 km)
+Etapp 4: Bï¿½ckefors - Steneby (15,1 km/15,1 km)
 					2,7 km/2,6 km	2 min 22 s/1 min 57 s
 Korsning
- Ödskölt K:a
+ ï¿½dskï¿½lt K:a
 					3,3 km/3,3 km	2 min 29 s/2 min 29 s
-T-korsning Ödskölt
- Ödskölt K:a
+T-korsning ï¿½dskï¿½lt
+ ï¿½dskï¿½lt K:a
 					0,8 km/0,9 km	48 s/54 s
-Rastplats Ödskölt
+Rastplats ï¿½dskï¿½lt
 					6,6 km/6,6 km	4 min 57 s/4 min 57 s
-T-korsning Steneby bygdegård
+T-korsning Steneby bygdegï¿½rd
  Dingelvik
 					0,7 km/0,7 km	32 s/32 s
 T-korsning Steneby
@@ -117,17 +117,17 @@ T-korsning Steneby
  Dalslandsaktiviteter
 					1,0 km/1,1 km	45 s/50 s
 T-korsning Steneby norra
- 164: Strömstad, Ed
+ 164: Strï¿½mstad, Ed
 
-Etapp 5: Steneby - Skåpafors (9,9 km/9,9 km)
+Etapp 5: Steneby - Skï¿½pafors (9,9 km/9,9 km)
 					2,0 km/2,1 km	1 min 30 s/1 min 35 s
-Dubbel T-korsning Brohögen
- Dals-Långed, Gatan
+Dubbel T-korsning Brohï¿½gen
+ Dals-Lï¿½nged, Gatan
  Bensinstation: Q-star
 					3,0 km/2,8 km	2 min 34 s/2 min 24 s
 Infoplats
 					0,8 km/0,7 km	58 s/50 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
  DVVJ
 					0,3 km/0,3 km	22 s/22 s
 Billingsfors kyrka
@@ -135,19 +135,19 @@ Billingsfors kyrka
 Billingsfors bruk C
 Billingsfors bruk N
 					3,6 km/3,5 km	2 min 42 s/2 min 38 s
-T-korsning Skåpafors väg 172
- 164: Åmål
+T-korsning Skï¿½pafors vï¿½g 172
+ 164: ï¿½mï¿½l
 
-Etapp 6: Skåpafors - Bengtsfors (2,9 km/2,9 km)
+Etapp 6: Skï¿½pafors - Bengtsfors (2,9 km/2,9 km)
 					0,7 km/0,8 km	32 s/36 s
 Parkeringsplats
 					1,4 km/1,3 km	1 min 12 s/1 min 7 s
 T-korsning Dalgatan/172
  Halmens Hus
-(Järnvägsbro)
+(Jï¿½rnvï¿½gsbro)
  DVVJ
 					0,4 km/0,5 km	29 s/36 s
-Tankställe Bengtsfors
+Tankstï¿½lle Bengtsfors
  Bensinstation: Statoil, Norsk Hydro
 					0,4 km/0,4 km	29 s/29 s
 Rondell Bengtsfors
@@ -162,34 +162,34 @@ T-korsning Sidan S
 T-korsning Skifors
  Sillerud
 					1,7 km/1,7 km	1 min 27 s/1 min 27 s
-T-korsning Kråkviken
- Vårvik K:a
+T-korsning Krï¿½kviken
+ Vï¿½rvik K:a
 					1,2 km/1,2 km	1 min 2 s/1 min 2 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
  DVVJ
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
  DVVJ
 					5,0 km/5,0 km	4 min 17 s/4 min 17 s
 Korsning Lerbyn
- Vårvik K:a
+ Vï¿½rvik K:a
 					0,9 km/0,9 km	46 s/46 s
 Svens kopparkittel
 					0,8 km/0,9 km	48 s/54 s
-T-korsning Gustavsfors affär
+T-korsning Gustavsfors affï¿½r
 					0,7 km/0,8 km	50 s/58 s
 Korsning Gustavsfors N
  Lennartsfors
 
-Etapp 8: Gustavsfors - Årjäng (24,4 km/24,7 km)
+Etapp 8: Gustavsfors - ï¿½rjï¿½ng (24,4 km/24,7 km)
 					0,6 km/0,5 km	31 s/26 s
 T-korsning
- Häljelund
+ Hï¿½ljelund
 					3,0 km/3,0 km	2 min 34 s/2 min 34 s
 T-korsning Vammerviken
 					3,0 km/3,0 km	2 min 34 s/2 min 34 s
-Västra Götaland / Värmland
-Bengtsfors / Årjäng
+Vï¿½stra Gï¿½taland / Vï¿½rmland
+Bengtsfors / ï¿½rjï¿½ng
 					1,0 km/1,0 km	51 s/51 s
 Parkeringsplats
 					3,2 km/3,2 km	2 min 45 s/2 min 45 s
@@ -198,90 +198,96 @@ Brevikens Camping
 T-korsning Breviken
  Blomskog
 					7,4 km/7,4 km	6 min 21 s/6 min 21 s
-Järnvägsviadukt
+Jï¿½rnvï¿½gsviadukt
 					1,4 km/1,5 km	1 min 12 s/1 min 17 s
-Infoplats (nordgående)
+Infoplats (nordgï¿½ende)
 					1,2 km/1,3 km	1 min 2 s/1 min 7 s
-Dubbel T-korsning Årjäng S
- Årjäng C
+Dubbel T-korsning ï¿½rjï¿½ng S
+ ï¿½rjï¿½ng C
  Lennartsfors
 					2,4 km/2,2 km	1 min 48 s/1 min 39 s
 T-korsning
- Prästängen
+ Prï¿½stï¿½ngen
 					0,7 km/1,2 km	0 min 36 s/1 min 2 s
-Trp Årjäng V
- E18 v: Oslo, Töcksfors
+Trp ï¿½rjï¿½ng V
+ E18 v: Oslo, Tï¿½cksfors
 
-Etapp 9: Årjäng - Vännacka (19,3 km/19,2 km)
+Etapp 9: ï¿½rjï¿½ng - Vï¿½nnacka (19,3 km/19,2 km)
 					0.5 km/0.6 km	30 s/36 s
-Trp Årjäng C
- E18 ö: Stockholm, Karlstad
- Årjäng C
- Hotel: Best Western Årjäng
+Trp ï¿½rjï¿½ng C
+ E18 ï¿½: Stockholm, Karlstad
+ ï¿½rjï¿½ng C
+ Hotel: Best Western ï¿½rjï¿½ng
 T-korsning
  Backa industriomr.
 
 Korsning
  Bensinstation: St1
-T-korsning Årjäng N
- [E18 ö]: Stockholm, Karlstad
- Årjäng C
+T-korsning ï¿½rjï¿½ng N
+ [E18 ï¿½]: Stockholm, Karlstad
+ ï¿½rjï¿½ng C
  Bensinstation: OKQ8, Statoil
 					5.2 km/5.0 km	3 min 54 s/3 min 45 s
-T-korsning Långelanda
- Tvärdalen
+T-korsning Lï¿½ngelanda
+ Tvï¿½rdalen
 					1.2 km/1.2 km	54 s/54 s
-T-korsning S Ström
+T-korsning S Strï¿½m
  Glava
  Glaskogens naturreservat
 					4.0 km/4.1 km	3 min 0 s/3 min 5 s
 T-korsning Stenslanda
  Karlanda
 					8.1 km/8.1 km	6 min 5 s/6 min 5 s
-T-korsning Vännacka östra
- 177: Åmotfors, Koppom
+T-korsning Vï¿½nnacka ï¿½stra
+ 177: ï¿½motfors, Koppom
 
-Etapp 10: Vännacka - Arvika (38,7 km/38,8 km)
+Etapp 10: Vï¿½nnacka - Arvika (38,7 km/38,8 km)
 					11,0 km/11,0 km	9 min 26 s/9 min 26 s
-Årjäng / Arvika
+ï¿½rjï¿½ng / Arvika
 					6,0 km/6,1 km	5 min 9 s/5 min 14 s
-Busshållplats Gränsjön
+Busshï¿½llplats Grï¿½nsjï¿½n
 					7,5 km/7,6 km	6 min 26 s/6 min 31 s
 T-korsning
  Koppom
 					1,2 km/1,2 km	1 min 2 s/1 min 2 s
 Korsning Sulvik V
- Åmotfors
+ Ã…motfors, Stugor
 					0,6 km/0,6 km	36 s/36 s
 Korsning Sulvik
- Nysäter, Glava
+ NysÃ¤ter, Glava
 					0,3 km/0,5 km	18 s/30 s
 Infoplats
 					2,8 km/2,7 km	2 min 24 s/2 min 19 s
-T-korsning Jössefors V
+T-korsning (enskild vÃ¤g)
+
+T-korsning (enskild vÃ¤g)
+
+T-korsning JÃ¶ssefors V
  Ottebol
 					0,8 km/0,8 km	48 s/48 s
-Hotell
+Hotell JÃ¶ssefors
 					0,7 km/0,7 km	42 s/42 s
-T-korsning Jössefors ind.
- Lokalt mål
+Dubbel T-korsning JÃ¶ssefors ind. (lokal vÃ¤g)
+ Industri
+ Folkets Hus
 					3,3 km/3,3 km	2 min 50 s/2 min 50 s
 T-korsning
- Högvalta
+ HÃ¶gvalta, HandelstrÃ¤dgÃ¥rd
 					1,0 km/0,9 km	45 s/41 s
-T-korsning
+T-korsning Lv 172/
  V. Hamnen, Mikaelskyrkan
 					0,5 km/0,6 km	26 s/31 s
-(Järnvägsbro)
- Värmlandsbanan
-Prästängsrondellen
+JÃ¤rnvÃ¤gsbro
+ VÃ¤rmlandsbanan
+
+Prï¿½stï¿½ngsrondellen
  Centrum
- Prästängen
+ Prï¿½stï¿½ngen
 					0,8 km/0,8 km	41 s/41 s
 T-korsning
- Prästängen
+ Prï¿½stï¿½ngen
 					0,3 km/0,3 km	15 s/15 s
-T-korsning Tranbärsvägen
+T-korsning Tranbï¿½rsvï¿½gen
  Agneteberg
 					1,0 km/1,0 km	51 s/51 s
 T-korsning
