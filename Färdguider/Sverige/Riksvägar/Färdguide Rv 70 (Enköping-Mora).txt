@@ -83,14 +83,15 @@ Etapp 3: Sala - Avesta (41,2 km/41,5 km)
 					3.5 km/3.5 km	2 min 20 s/2 min 20 s
 Rondell Evelund
  Sala Centrum, Silvergruvan
+ Rastplats Evelund
  56 s: Västerås
 					2.7 km/2.9 km	1 min 48 s/1 min 56 s
 Trp Sala V
- 256 ö: Sala
+ 256 ö: Sala, Stampers
  256 v: Norberg, Salbohed
 					7.5 km/7.2 km	5 min 0 s/4 min 48 s
 T-korsning
- Broddbo
+ Gullvalla
 					2.3 km/2.3 km	1 min 32 s/1 min 32 s
 T-korsning Broddbo Rv 70
  Broddbo
