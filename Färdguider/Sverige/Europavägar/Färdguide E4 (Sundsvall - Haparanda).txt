@@ -510,7 +510,7 @@ Korsning Näske E4
 Korsning Spjute
  Kornsjö, Kornsjögården Camping
 
-Trafikplats Bjästa
+Trafikplats Bjästa (251)
  Skorped, Sidensjö
  Köpmanholmen, Bjästa
  Nätra Motell & Restaurang
@@ -545,8 +545,84 @@ Dubbel T-korsning Främmerhörnäs/Överhörnäs E4
 
 Etapp 36: Genom Örnsköldsvik
 
-Trafikplats Gålnäs
+Trafikplats Gålnäs (252)
  Domsjö, Indusri: Gålnäs
  Själevad
- Camping/Bad: Gullvik
+ Camping/Bad: Gullviks havsbad
  Solänget, Sagavärden (info)
+
+Bro öve Moälven: (63.2899671,18.620309)
+
+T-korsning Själevad E4
+ Gottne, Själevad
+
+T-korsning Veckelstrand (enskild väg)
+ Tvillingsta, Veckelfjärdens GK
+(2+1-väg upphör / börjar)
+
+(Över Järnvägskulvert)
+ Botniabanan
+T-korsning E4/Blindtarmen
+ Ås, Åsbacken, Keramikverkstad
+
+(Järnvägsbro)
+ Mellansel-Örnsköldsvik
+T-korsning (lokal väg)
+ Bensinstation: OKQ8
+ Restaurang: Vägkrog Örnen, Burger King
+
+Paradisrondellen
+ Parkering Resecentrum, Skidlift (Varvsberget)
+ Parkering Centrum, Resecentrum
+ Domsjö, Camping/Bad: Gullviks havsbad
+ Fjällräven Center, Varvsbergets friluftsområde
+ Bensinstation: Circle-K
+ Restaurang: MAX
+
+Korsning E4/Lasarettsgatan
+ Ej skyltad
+
+(Korsning E4/Nygatan (lokal väg))
+ Ej skyltad
+
+Korsning E4/Viktoriaesplanaden (lokal väg)
+ Parkering Centrum, Fjällräven Center
+
+Korsning Vikingavallen
+ Skyttis IP
+ Örnsköldsviks Sjukhus
+
+T-korsning E4/Björnavägen
+ 352: Fredrika, Björna
+ Gullänget, Sjukhus
+ Resecentrum Norra
+ Bensinstation: Tanka, OKQ8
+
+Rondell E4/Arnäsvägen
+ Hotell/Restaurang: Scandic Örnsköldsvik
+ (Restaurang: McDonald's)
+ Bilprovning
+ Industri: Svarteby, Infoplats
+
+Över Järnvägskulvert
+ Botniabanan
+
+Trafikplats Arnäs (255)
+ Gideå, Örnsköldsviks Flygplats, Arnäsvall
+ Industri: Arnäs, Köpcenter
+
+T-korsning (enskild väg)
+ Vändplats
+
+Korsning Skallåsen (enskild väg)
+(endast förskyltad nordgående)
+ Skallåsen, Vändplats
+
+T-korsning E4/Strömsvägen
+ Järved, Solbacken (bad, Camping)
+ Skallåsen (enskild väg)
+
+Dubbel T-korsning Idbyn
+ Bergtäkt (enskild väg)
+ Skeppsmalen, Fiskeläge
+
