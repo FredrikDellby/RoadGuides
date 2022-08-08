@@ -49,7 +49,7 @@ Rondell Orsa E45
 Dubbel T-korsning Furuliden
  Stackmora
 
-Infoplats (sydgående)
+Infopunkt (sydgående)
 
 Korsning Maklingsgärdet
  Berga
@@ -82,7 +82,8 @@ T-korsning Heden norra
 T-korsning Gäsheden
  Untorp, Näckådalen
 
-(Parkeringsplats, grus)
+(Parkeringsplats, grus (östra sidan))
+ Ej skyltad
 
 T-korsning Tallhed E45
  Furudal, Tallhed
@@ -93,7 +94,8 @@ Högheds Fäbod
 T-korsning (enskild väg)
  Mässingberget
 
-(Grusplan, parkering)
+(Grusplan, Parkering)
+(västra sidan, ej skyltad)
 Bro över Emån
 
 Järnvägskorsning
@@ -101,6 +103,8 @@ Järnvägskorsning
 
 T-korsning Emådalen
  Ulvsjö
+
+Etapp 31:
 
 (T-korsning Koppången södra)
  Enskild väg
