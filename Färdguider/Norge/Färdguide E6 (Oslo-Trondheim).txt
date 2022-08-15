@@ -1096,3 +1096,80 @@ T-korsning Tågvollan
 (Dubbel) T-korsning Stølen
  Hotell/Camping: IMI Stølen
  Økolaft AS
+
+Camping Halsetløkka: (62.6129102,9.7504566)
+
+T-korsning Bjørklia E6
+ Bjørklia
+
+T-korsning
+ Elgsmoen, Dyrepensjonat
+ Asfaltverk, Motorsenter
+
+T-korsning Oppdal Flyplass
+ Oppdal Flyplass
+
+T-korsning Fagerhaug
+ Gamle Kongeveg, Fagerhaug kirke
+
+(Oppdalsporten Rasteplass
+ Hotell/Restaurant: Oppdalsporten
+ Bensinstasjon: Best
+
+(Korsning Strand)
+ Betongstasjon
+
+(Bru over Gisna)
+Oppdal / Rennebu
+
+T-korsning Stølsvangsveien
+ Gisnadalen, Langklopp
+
+T-korsning Åshuset
+ Fv6510: Innset, Seierdal
+					(/
+(Parkeringspats, grus (västra sidan))
+ Ej skyltad
+
+Mittrekk begynder / ender
+
+Mittrekk ender / begynder
+
+T-korsnin Kløftbrua
+ Skjephaug, Gisnadalen
+ Gjesteheim Havdal
+(Kløft bru)
+ Orkla, 48 m
+
+T-korsning Ulsberg
+ 3: Elverum, Tynset
+
+===========================
+
+Kryss Bjørset
+
+Bjørsetfossbrua (53 m)
+ Ila
+
+Motortrafikkvei begynder / ender
+(Mittrekk begynder / ender)
+
+Vinddalslibrua (76 m)
+ Ila
+
+Vindåsliene bomstasjon
+ takst 47/94 kr.
+
+Kryss Soknedal
+
+Soknedalsbrua (127 m)
+ Sokna
+Soknedalstunnelen-syd (3 604 m)
+
+Soknedalstunnelen-nord
+
+(Motortrafikkvei ender / begynder)
+T-korsning Sagflata
+ Soknedal (Gamle E6)
+
+(Dubbel T-korsning Storøyen)
