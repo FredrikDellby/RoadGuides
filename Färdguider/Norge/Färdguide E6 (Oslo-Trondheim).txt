@@ -1157,10 +1157,11 @@ Motortrafikkvei begynder / ender
 Vinddalslibrua (76 m)
  Ila
 
-Vindåsliene bomstasjon
+Vindåsliene bomstasjon: (62.9383528,10.1900951)
  takst 47/94 kr.
 
 Kryss Soknedal
+ Fv6573
 
 Soknedalsbrua (127 m)
  Sokna
@@ -1170,6 +1171,44 @@ Soknedalstunnelen-nord
 
 (Motortrafikkvei ender / begynder)
 T-korsning Sagflata
- Soknedal (Gamle E6)
+ Fv6573: Soknedal (Gamle E6)
 
 (Dubbel T-korsning Storøyen)
+ Parkeringsplass, Ikke skiltet
+
+T-korsning Snøan
+ Fv6574: 
+
+T-korsning Haukdalsbru
+ Fv6560: 
+
+T-korsning Øverøyen
+ Dyrepensjonat
+
+(T-korsning Gunhildsøy bru)
+ Ikke skiltet
+
+T-korsning Storlykkja
+ Industri: Soknesöra
+(Motortrafikkvei begynder / ender)
+(80 km/h / 90 km/h)
+
+Rasteplass Liøya (nordgående)
+
+Kryss Støren
+ 30: Røros
+ Fv6558: Støren, Gaula Natursenter
+ Bensinstasjon: Circle-K
+ Hotell: Støren Camping
+
+Gaulabrua (293 m)
+ Rørosbanen og Gaula
+
+90 km/h / 80 km/h: (63.0517187,10.30054)
+
+Bratlitunnelen (210 m)
+
+Håggåtunnelen (290 m))
+
+Midtre Gauldal / Melhus
+Kryss (avfart sydgående, påfart nordgående)
