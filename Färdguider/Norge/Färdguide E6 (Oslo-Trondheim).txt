@@ -999,7 +999,7 @@ Infoplass (vestre side): (62.3020224,9.6032054)
 
 Kongsvold Fjeldstue
 
-T-korsning
+T-korsning Kongsvoll E6
  Kongsvoll stasjon
 
 (Bru over Sprenbekken)
@@ -1017,7 +1017,7 @@ T-korsning Hesthåggan
  Vårstigen (seværdighet)
 
 (Parkeringsplasser (vestre side))
-(direkt invid veien)
+(direkt intill veien)
 
 (Parkeringsplass (vestre side))
 (grus, ikke skiltet)
