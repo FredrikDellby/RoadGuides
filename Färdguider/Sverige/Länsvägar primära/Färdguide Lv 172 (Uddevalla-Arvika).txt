@@ -3,32 +3,66 @@ Reseguide V�g 172 Uddevalla - Arvika
 
 Etapp 1: Uddevalla - F�rgelanda (26,6 km/26,2 km)
 
-Kur�dsmotet
- 44: Trollh�ttan
- 44: Uddevalla C
- Uddevalla �
-Korsning Nordmanner�dsv�gen
+Kurödsmotet
+ 44 v: [E6 n], Uddevalla C
+
+(Kurödsmotet-syd
+ 44 ö: Trollhättan, Vänersborg
+ [E6 s]: Göteborg
+ Östra Uddevalla, I17-Området
+
+Kurödsmotet-nord
+ 44 v: Centrum, [E6 n]: Oslo
+ 44 ö: Trollhättan, Vänersborg
+ [E6 s]: Göteborg
+ Östra Uddevalla, I17-Området
+
+Korsning Nordmannerödsvägen
+ Industri: Kuröd, Björbäck
  Bensinstation: Shell
 					1,9 km/1,5 km	1 min 38 s/1 min 17 s
-T-korsning Myren
- Lillesj� ind. omr.
+(Mittseparering börjar / upphör)
+
+(Mittseparering upphör / börjar)
+
+T-korsning Enekas (lokal väg)
+ Libergs Sweden AB (ej skyltat)
+
+T-korsning Myren (lokal väg)
+ Industri: Lillesjö, Bilskrotning
 					1,2 km/1,2 km	1 min 12 s/1 min 12 s
-T-korsning Skogstorpet
- Enskild v�g
+T-korsning Skogstorpet (enskild väg)
+ Gräskärr, Nöthult, Kraftvärmeverk
 					1,0 km/1,0 km	51 s/51 s
-T-korsning Nordmanner�d
- Fr�ndefors, Lane-Ryr
+T-korsning Nordmanneröd
+ Frändefors, Lane-Ryr
 					4,3 km/4,3 km	3 min 41 s/3 min 41 s
-T-korsing Fagerhult Lane
+T-korsning Lanegården (lokal väg)
+ Lanegården
+
+T-korsning Lane S
  Lane-Ryr
 					3,3 km/3,3 km	2 min 50 s/2 min 50 s
-Uddevalla / F�rgelanda
+T-korsning Fagerhult
+ Lane Loge, Lokal väg
+
+T-korsning Lane N (lokal väg)
+ Daghem, AutoXpress, MC & Custom
+
+Uddevalla / F�rgelanda: (58.4459791,12.0238512)
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-T-korsning N�ttjebacka
- R�danefors
+T-korsning Nättjebacka
+ Rådanefors
 					5,8 km/5,9 km	4 min 21 s/4 min 26 s
+Korsning Tegen (enskild väg)
+ Tegen, Motorbana (Rosendalsbanan)
+
 Sundsbron
+ Ellenösjön-Östersjön
 					1,0 km/0,9 km	45 s/41 s
+Infoplats (östra sidan)
+(endast skyltad nordgående)
+
 T-korsning Ellen�
  Torp
 					0,4 km/0,4 km	18 s/18 s
