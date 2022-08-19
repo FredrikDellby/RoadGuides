@@ -97,25 +97,51 @@ Etapp 2: Färgelanda - Bäckefors (28,3 km/28,3 km)
 T-korsning Hjärtsäter
  [173]: Vänersborg, Stigen
 					4,6 km/4,6 km	3 min 27 s/3 min 27 s
+T-korsning Slätthult (enskild väg)
+ Ridskola
+
 Korsning Grind
- Brasäter, Skallsjö
+ Ekarebol, Gravfält (enskild väg)
+ Edstenafors
 					1,6 km/1,8 km	1 min 22 s/1 min 33 s
-Rastplats Högsäter
+T-korsning Lv 172/S. Kyrkvägen
+ Högsäters k:a, Bed & Breakfast, Tallbacken
+
+Korsning Lv 172/N. Kyrkvägen
+ Veterinär, Bygghandel, Rehab. hem
+ Rastplats Högsäter, Promek bilverkstad
+
+(Bro över Valboån)
+
 T-korsning Lv 172/Rännelandavägen
+ Rännelanda, Skola, Solgården
 					0,5 km/0,3 km	36 s/22 s
 T-korsning Lv 172/Ånnerudsvägen
- Ånnnerud
+ Ånnnerud, National
+(Högsäters Bygdegård)
 					1,3 km/1,3 km	59 s/59 s
-T-korsning T�ngelanda
+Korsning Genevi (lokal väg)
+ Genevi ip
+
+T-korsning Tångelanda
+ Svingån, Kroppefjäll (sevärdhet)
+ Ragnerudssjöns Camping & Stugby, Högsäters Plåt
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-T-korsning H�rs�ngen
+Infoplats (sydgående)
+
+(Parkeringsplats (grus, ej skyltad))
+T-korsning Härsängen
+ Svingån
 					3,7 km/3,7 km	2 min 47 s/2 min 47 s
 T-korsning Stora Torp
- R�nnelanda
+ Rännelanda
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-Korsning J�rbo
- J�rbo
- R�gg�rd
+Järbo Bygdegård
+ Infoplats (sydgående)
+
+Korsning Järbo
+ Järbo k:a, Järbo skola
+ Råggärd
 					3,7 km/3,9 km	2 min 47 s/2 min 56 s
 Dubbel T-korsning Stora B�n
  �debyn
@@ -126,8 +152,8 @@ F�rgelanda / Bengtsfors
 Korsning B�ckefors �stra
  166: Mellerud
  B�ckefors Centrum
-Bensinstation: Statoil
-Restaurang: Facklan
+ Bensinstation: Circle-K
+ Restaurang: Facklan
 
 Etapp 3: F�rbi B�ckefors (2,7 km/2,7 km)
 					1,1 km/1,1 km	57 s/57 s
