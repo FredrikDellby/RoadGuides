@@ -1,5 +1,5 @@
-Reseguide V�g 172 Uddevalla - Arvika
-=====================================
+Färdguide Lv 172 Uddevalla - Arvika
+====================================
 
 Etapp 1: Uddevalla - F�rgelanda (26,6 km/26,2 km)
 
@@ -49,7 +49,7 @@ T-korsning Fagerhult
 T-korsning Lane N (lokal väg)
  Daghem, AutoXpress, MC & Custom
 
-Uddevalla / F�rgelanda: (58.4459791,12.0238512)
+Uddevalla / Färgelanda: (58.4459791,12.0238512)
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
 T-korsning Nättjebacka
  Rådanefors
@@ -63,40 +63,48 @@ Sundsbron
 Infoplats (östra sidan)
 (endast skyltad nordgående)
 
-T-korsning Ellen�
- Torp
+T-korsning Ellenö
+ Torp, Ellenö
 					0,4 km/0,4 km	18 s/18 s
 Korsning Dagsholm
  Munkedal, Torp
+ Dagsholm Golfklubb och Hotell
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
-Korsning �deborg v�g 172
- �deborg
- �deborg K:a
+Korsning Ödeborg väg 172
+ Ödeborg, Ödeborgs Fornsal
+ Ödeborgs k:a
 					0,6 km/0,6 km	27 s/27 s
-T-korsning �deborg norra
- �deborg K:a
+T-korsning Ödeborg norra
+(endast skyltad sydgående)
+ Ödeborg K:a
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
-Korsning F�rgelanda s�dra
+Håvesten Gravfält (Parkering)
+
+Korsning Färgelanda södra
+ Högalid ip
  Centrum, Hedekas
  Bensinstation: Preem
+ Restaurang: 172:ans
 					1,1 km/1,1 km	57 s/57 s
-Korsning F�rgelanda �stra
- 173: V�nersborg, Stigen
+Korsning Färgelanda östra
+ 173: Vänersborg, Stigen
  Centrum, Hedekas
+ IAC Group, (Björnhuset)
+ Restaurang: Bayards Pizzeria
 
-Etapp 2: F�rgelanda - B�ckefors (28,3 km/28,3 km)
+Etapp 2: Färgelanda - Bäckefors (28,3 km/28,3 km)
 					3,4 km/3,4 km	2 min 33 s/2 min 33 s
-T-korsning Hj�rts�ter
- [173]: V�nersborg, Stigen
+T-korsning Hjärtsäter
+ [173]: Vänersborg, Stigen
 					4,6 km/4,6 km	3 min 27 s/3 min 27 s
 Korsning Grind
- Bras�ter, Skallsj�
+ Brasäter, Skallsjö
 					1,6 km/1,8 km	1 min 22 s/1 min 33 s
-Rastplats H�gs�ter
-T-korsning 172/R�nnelandav�gen
+Rastplats Högsäter
+T-korsning Lv 172/Rännelandavägen
 					0,5 km/0,3 km	36 s/22 s
-T-korsning 172/�nnerudsv�gen
- �nnnerud
+T-korsning Lv 172/Ånnerudsvägen
+ Ånnnerud
 					1,3 km/1,3 km	59 s/59 s
 T-korsning T�ngelanda
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
