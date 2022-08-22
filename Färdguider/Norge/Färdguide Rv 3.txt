@@ -196,19 +196,19 @@ T-korsning Øverengsmoen: (61.588034, 10.995084)
  Elbilsladdning: Fortum
  Restaurang: Tiur'n Kro
 
-(Parkeringsplass, grusvei): 61.593616, 10.985381
+(Parkeringsplass, grusvei (vestre side)): 61.593616, 10.985381
 
-(Parkeringsplass, grusvei): 61.599596, 10.936542
+(Parkeringsplass, grusvei (vestre side)): 61.599596, 10.936542
 
-(Parkeringsplass, grusvei): 61.601497, 10.913942
+(Parkeringsplass, grusvei (vestre side)): 61.601497, 10.913942
 
-Kjettingplass: (61.642024, 10.886267)
+Kjettingplass (vestre side): (61.642024, 10.886267)
 
 (T-korsning Huse Camping): (61.647975, 10.881625)
 
-(Parkeringsplass, grusvei): 61.655496, 10.878037
+(Parkeringsplass, grusvei (vestre side)): 61.655496, 10.878037
 
-Bjøråa: (61.666592, 10.881487)
+Bru over Bjøråa: (61.666592, 10.881487)
 
 Rasteplass Bjøråa: (61.668490, 10.884625)
  Stor-Elgen
@@ -236,7 +236,7 @@ Stor-Elvdal / Rendalen (61.7414093,10.824862)
 T-korsning Rønningen: (61.744919, 10.828016)
  Fv2200: Atna
 
-(Parkeringsplass, grusvei): (61.756936, 10.825742)
+(Parkeringsplass, grusvei (vestre side)): (61.756936, 10.825742)
 
 (T-korsning): (61.786396, 10.848580)
  Nygarden
@@ -248,7 +248,7 @@ Dubbel T-korsning Hanestad/Tyritun: (61.835473, 10.884561)
  Fv2216 v:
  Fv2216 ø:
 
-Rasteplass Østlund: (61.864237, 10.910129)
+Rasteplass Østlund (östre side): (61.864237, 10.910129)
 
 (Parkeringsplass, grusvei): 61.878195, 10.903772
 
