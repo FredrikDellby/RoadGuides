@@ -245,25 +245,29 @@ T-korsning: (61.834295, 10.879220)
  Grøttinggrenda
 
 Dubbel T-korsning Hanestad/Tyritun: (61.835473, 10.884561)
- Fv2216 v:
- Fv2216 ø:
+ Fv2216 v: Hanestad kirke, Hanestad stasjon
+ Bjøntegaard Leirskol
+ Fv2216 ø: Øvre Rendal
+ Bensinstasjon: Best
+ Restaurant: Hanestad Vertshus
 
-Rasteplass Østlund (östre side): (61.864237, 10.910129)
+Rasteplass Østlund (østre side): (61.864237, 10.910129)
 
-(Parkeringsplass, grusvei): 61.878195, 10.903772
+(Parkeringsplass, grusvei (vestre side)): 61.878195, 10.903772
 
-(Parkeringsplass, grusvei): (61.882053, 10.900076)
+(Parkeringsplass, grusvei (østre side)): (61.882053, 10.900076)
 
 Rendalen / Alvdal: (61.949281, 10.898069)
 
-(Parkeringsplasser, grusvei): (61.978717, 10.898178)
+(Parkeringsplasser, grusvei (vestre side)): (61.978717, 10.898178)
+(veldig svak)
 
 Korsning Barkald: (61.993689, 10.884644)
  Midtskogen, Jutulhogget
 
-(Parkeringsplass, grusvei): 62.014092, 10.842789
+(Parkeringsplass, grusvei (østre side)): 62.014092, 10.842789
 
-(Parkeringsplass, grusvei): 62.016129, 10.839498
+(Parkeringsplass, grusvei (østre side)): 62.016129, 10.839498
 
 T-korsning Høyegga: (62.021715, 10.818999)
  Lanfastøyen Gård
@@ -276,11 +280,11 @@ T-korsning Bellingmo
 T-korsning Langodden: (62.050946, 10.727711)
  Langodden Gård
 
-(Parkeringsplasser, grusvei): 62.061622, 10.718890
+(Parkeringsplasser, grusvei (både sider)): 62.061622, 10.718890
 
-Parkeringsplass: (62.067301, 10.713496)
+Parkeringsplass (vestre side, ikke skiltet): (62.067301, 10.713496)
 
-(Parkeringsplass, grusvei): 62.072189583592404, 10.710665500673942
+(Parkeringsplass, grusvei (østre side)): 62.0721896, 10.7106655
 
 (Korsning): 62.08129421597601, 10.699984117269665
  Turvei
