@@ -343,9 +343,9 @@ Trafikplats Gräta (248)
 Trp Tjärned (enskild väg)
  Tjärned
 
-Bro-syd: (62.906298,18.0929753)
+Bro över Storsjön-syd: (62.906298,18.0929753)
 
-Bro-nord: (62.9107459,18.0929813)
+Bro över Storsjön-nord: (62.9107459,18.0929813)
 
 Trp Gallsäter Södra (249)
  Nordingrå K:a
