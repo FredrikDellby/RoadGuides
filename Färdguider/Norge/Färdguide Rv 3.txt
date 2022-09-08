@@ -286,20 +286,20 @@ Parkeringsplass (vestre side, ikke skiltet): (62.067301, 10.713496)
 
 (Parkeringsplass, grusvei (østre side)): 62.0721896, 10.7106655
 
-(Korsning): 62.08129421597601, 10.699984117269665
- Turvei
+(Korsning (ikke skiltet)): 62.08129421597601, 10.699984117269665
+ Turvei, Parkeringsplass
 
-Korsning Kvebergskrysset: (62.0863682173279, 10.683577406802785)
- Fv2228
+T-korsning Kvebergskrysset: (62.0863682, 10.6835774)
+ Fv2228: Kveberg bru
 
-(Parkeringsplass, grusvei): 62.09327098683644, 10.670746049645146
+(Parkeringsplass, grusvei): 62.093271, 10.6707460
 
-T-korsning Skurlagskrysset: (62.097230338662044, 10.655598383231197
+T-korsning Skurlagskrysset: (62.0972303, 10.6555984)
  Alvdal Skurlag
 (Nesteby bru)
  Rørosbanen, 30 m
 
-T-korsning Sørhus: (62.100770105395796, 10.641628701887607)
+T-korsning Sørhus: (62.1007701, 10.6416287)
  Fv2226
 
 T-korsning Steigen skole: (62.107651489000055, 10.63067764186421)
