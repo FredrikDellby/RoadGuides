@@ -1,7 +1,7 @@
 Etapp 1: Sverige - Sagbekk (3,6 km/3,6 km)
 
 Sverige / Norge
-Värmland / Hedmark
+Värmland / Innlandet
 Torsby / Trysil
 					2,5 km/2,5 km	2 min 9 s/2 min 9 s
 T-korsning Lutufallet
@@ -43,6 +43,7 @@ Korsning Nybergsund
  [25]: Elverum
 					1,7 km/1,7 km	1 min 42 s/1 min 42 s
 Dubbel T-korsning Kongeparken
+ Kongeparken (sevärdighet)
  TINE Meieriet Trysil
 
 T-korsning Fv 26/Idrettsvegen
@@ -55,7 +56,7 @@ Rondell Rv 25/Rv 26
 					0,6 km/0,6 km	36 s/36 s
 (Nybergsund bru)
  Trysilelva
-Infoplats
+Infoplass
 T-korsning Rv 25/Rv 26
  25 ø: Hamar, Elverum
 
@@ -81,7 +82,7 @@ T-korsning Trysil-nord
 T-korsning Fv 26/Slettmovegen
  Moelven Trysil
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
-(Kvernbekken)
+(Bru over Kvernbekken)
 
 (Hundselbekk Bru)
 T-korsning Fageråsenkrysset
