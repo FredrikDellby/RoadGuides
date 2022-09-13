@@ -8,69 +8,85 @@ Kolomoen vegkryss (65): (60.702729, 11.271924)
  E6 n: Trondheim, Hamar
 					1,1 km/0,8 km	44 s/32 s
 Rasteplass Kalsveen: (60.71038, 11.27994)
-(sydgående riktning)
+(sydgående retning)
 					0,4 km/0,6 km	16 s/24 s
-Kalsveen vegkryss: (60.713911, 11.282671)
+Kryss Korsbakken: (60.713911, 11.282671)
  24 s: Skarnes, Sand
  24 n: Stange
 					1,9 km/2,0 km	1 min 16 s/1 min 20 s
 Kryss Romedal: (60.730589, 11.294506)
- Romedal, Åsvang, Ilseng (Fv231)
- Restaurang: Sandmoen gårdsbutikk
+ Fv1900: Romedal, Åsvang, Ilseng
+ (Bensinstasjon: Best)
 					6,1 km/6,0 km	4 min 4 s/4 min 0 s
 Rasteplass Klevfoss: (60.78289, 11.30747)
 (nordgåendee riktning)
 					0,6 km/0,5 km	24 s/20 s
 (Stange / Løten: (60.785565, 11.304021)
-
+					(/
 Kryss Klevfoss: (60.786989, 11.302381)
- Ådalsbruk (Fv241)
- Klevfos Industrimuseum
-(By bru (Svartelva, 47 m)): (60.78923, 11.29978)
+ Fv1920: Ådalsbruk, Klevfos Industrimuseum
+ Hotell: Rosenlund Park
 					0,6 km/0,3 km	24 s/12 s
+By bru (47 m): (60.78923, 11.29978)
+ Svartelva
 Byroatunnelen: (60.79041, 11.29844)
  90 m
 					1,4 km/1,3 km	56 s/52 s
 Kryss Ommangsvolden: (60.802069, 11.290736)
 (avfart nordgåendee riktning
 påfart sydgående riktning)
- Romedal kirke (Fv231)
-					
+ Løten
+ Fv1900: Romedal kirke
+(80 km/h / 90 km/h)
+
 Ommangsvollen bru (Fura, 74 m): (60.80257, 11.29047)
 
+(Motortrafikkvei / Motorvei)
 Brennerikrysset: (60.826688, 11.292595)
- Brenneriroa
+ Brenneriroa, Løten
  25 v: Hamar
 
 Etapp 2: Brenneriroa - Elverum ()
 
-90 km/h / 110 km/h: (60.833941, 11.294482)
+(90 km/h / 110 km/h): (60.833941, 11.294482)
 
 Doksrud bru (Fura, 79,53 m): (60.83723, 11.30266)
+
+(Vingerjessa bru)
+ Vingerjessa, 20 m
 
 Kryss Ånestad: (60.848842, 11.370150)
  Ånestad industri
  Løten (Gl. Rv 3), Bjørnstad, Rokosjøen (Fv168)
  Bensinstasjon: Esso
  Hotel/Restaurang: Myklegard
-					
-Løten / Elverum: (60.877898, 11.455533)
 					4,3 km/4,4 km	3 min 14 s/3 min 18 s
-Terningåa bru (Terningåa, 52 m): (60.88057, 11.47075)
+(Løten / Elverum: 60.8766464,11.451044
 
-Skansen bru (Terningåa, 66,4 m): (60.8869, 11.50627)
+(Bomstasjon: (60.8776664,11.4548477)
+ 43 kr (bil), 46 kr (lastbil)
+
+Løten / Elverum): 60.8784016,11.4589175
+
+Terningåa bru (Terningåa, 52 m): (60.88057, 11.47075)
 
 Viltlokk
 
-(Bomstasjon)
- 43 kr (bil), 46 kr (lastbil)
+(Skansen bru (Terningåa, 66,4 m): (60.8869, 11.50627)
+(110 km/h / 90 km/ h
+					(/
 Rondell Åkroken: (60.88764, 11.50808)
- 25 v: Trysil
+ 25 v: Trysil, Elverum
  [2 s]: Kongsvinger
  Elgstua, Terningmoen
  Restaurang: McDonald's, Myklegard
 
 Etapp 3: Elverum - Rena ()
+
+Stortjennmyra overgangsbru (over dalsøkk, 49,17 m)
+
+T-korsning Rv 3/Tiurvegen
+ Fv2153: Grundset, industri: Grundsetmoen
 
 Korsning Svingen: (60.95632, 11.49064)
  Svingen
@@ -79,28 +95,48 @@ Rasteplass Svingen
 (Øksna bru): (60.97849, 11.46199)
  Øksna, 21 m
 T-korsning Øksna bru: (60.9793, 11.46062)
+ Fv2122: Rudstad, Øksna
 
 T-korsning Rustad stasjon: (61.01191, 11.39785)
- Rudstad
+ Rudstad (lokal vei, ikke skiltet)
+
+Parkeringsplass (vestre side): (61.030309, 11.378557)
+(grusvei, ikke skiltet)
 
 Elverum / Åmot: (61.030309, 11.378557)
 
+(T-korsning Bråten)
+ Bråtenveien (Gammel Rv 3, ikke skiltet)
+
 T-korsning Nygarden: (61.06447, 11.34952)
- Gammel Rv 3
+ Fv2155: Åsta S, Campingplass (Gammel Rv 3)
+(Mittrekk begynder / ender)
 
 Åsta bru: (61.0766, 11.34641)
  Åsta, 97 m
 
-T-korsning Skjærodden: (61.08521, 11.35146)
- Gammel Rv 3
+T-korsning Åset: (61.08521, 11.35146)
+ Fv2155: Åsta N, Campingplass (Gammel Rv 3)
 
-Kryss Rena: (61.12994, 11.36528)
+T-korsning Fagerhøy
+ Korperud
+
+(Mittrekk ender / begynder)
+T-korsning Skjærodden
+ Korperud
+
+Kryss Rena
  215: Jordet, Osen
- Rena sentrum
+ Rena sentrum, Rendalen
+ Bensinstasjon: YX
+ Restaurant: Jettz Burger
+ Hotell: Rena Motell / Camping
 
 Etapp 4: Rena - Evenstad bru ()
 
-Kryss Lappland: (61.15077, 11.36379)
+Kryss Lappland
+ Rena N, Kirkeberget
+ Lappland
 
 Dubbel T-korsning Hovdmoen: (61.16739, 11.34545)
  Bensinstasjon: YX
