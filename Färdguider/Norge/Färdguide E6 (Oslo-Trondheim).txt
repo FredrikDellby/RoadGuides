@@ -1280,3 +1280,19 @@ T-korsning E6/Lyngenvegen
 Bensinstasjon: Esso Express
 T-korsning Lundamo stasjon
  Lundamo stasjon
+
+T-korsning Lundamo skole
+ Horghallen, Ungdomsskole
+
+T-korsning E6/Lundalsvegen
+ Fv6586: Aungäre
+ Samsjöen (bompeng)
+ Idrettsanlegg, Skoler
+
+Dubbel T-korsning Lundabru
+ Legesenter
+ Lundamo Camping
+
+Lundamo bru (33 m)
+Sokna, 
+
