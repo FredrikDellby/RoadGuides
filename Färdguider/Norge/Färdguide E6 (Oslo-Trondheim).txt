@@ -1267,7 +1267,7 @@ T-korsning Horg kirke
  Sykehjem, Horg kirke
 
 (T-korsning (lokal vei))
- Horgøien Gård,
+ Horgøien Gård
 
 T-korsning E6/Grinnisvegen
  Fv6582: Valdøyan, Miljøstasjon
@@ -1285,14 +1285,99 @@ T-korsning Lundamo skole
  Horghallen, Ungdomsskole
 
 T-korsning E6/Lundalsvegen
- Fv6586: Aungäre
+ Fv6586: Aungære
  Samsjöen (bompeng)
  Idrettsanlegg, Skoler
+
+Etapp : Lundamo - Klettkrysset ()
 
 Dubbel T-korsning Lundabru
  Legesenter
  Lundamo Camping
 
 Lundamo bru (33 m)
-Sokna, 
+ Sokna
+
+T-korsning Kjelstad
+ Kjelstad Camping
+
+T-korsning Skjetnemyrbakken
+ Børseth gård
+
+Bensinstasjon: Shell
+T-korsning Møsta
+ Bybot
+
+Dubbel T-korsning Ler
+ Fv6594: Klæbu, [704]
+ Fv6594: Fremo, Kirkflå
+ Flå kirke, Motorbane
+ Ler stasjon, Pendelparkering
+ Putballpark
+
+Jernbaneviadukt (Nyhus bru)
+ Dovrebanen
+
+T-korsning Nyhus
+ Fv6600: Kirkflå (3,0 m høyde)
+
+Rondell Øyan
+ Fv6591: Kvål, Korsvegen (4,2 m høyde)
+ Låvbrua (gård?)
+
+(Øverkvålsbrua(70 m))
+Mittrekk begynder / ender: (63.2288538,10.2821462)
+					/)
+70 km/h / 110 km/h): (63.2308398,10.2766822 / 63.2294336,10.2801115)
+
+Hofstadkrysset (27)
+ Fv6591/Fv6612: Øya
+ Pendelparkering?
+
+(Hofstadtunnelen): (63.2553507,10.2826492)
+ Melhusvegen (Fv6591)
+
+Melhuskrysset (28)
+ Fv6612/Fv6591: Melhus, Søberg
+ 708: Korsvegen
+
+Brubakktunnelen (115 m)
+
+Kryss Melhus nord (29)
+(avfart sydgående retning
+påfart nordgående retning)
+ Fv6612: Rødde
+
+Klettkrysset (30)
+ E39: Ålesund, Orkanger
+ 707, [715]: Fosen
+
+Etapp : Klettkrysset - Sluppen ()
+
+Elgtråkket (90 m / 80 m): (63.3264996,10.3458548)
+
+Kryss Sandmoen (31)
+
+Kryss Hårstad (32)
+
+Kryss Sentervegen (33)
+
+Avfart Rosten (33A)
+(sydgående retning)
+
+Kryss Tonstad (34)
+
+Kryss Kroppan (35)
+(avfart nordgående retning
+påfart sydgående retning)
+					(/
+(Kroppanbrua (402 m/385 m))
+ Nidelva
+					/)
+Kroppanbrua Busshpl
+
+Kryss Sluppen (36/36A)
+ 706: Trondheim sentrum
+
+Etapp : Sluppen - Rotvoll (Omkjøringsvegen)
 
