@@ -1361,15 +1361,28 @@ Kryss Sandmoen (31)
 Kryss Hårstad (32)
 
 Kryss Sentervegen (33)
+ Tillerbyen
+ Fv6688: Heimdal
+ City Syd Kjøpesenter
+ Restaurant: McDonald's Burger King
+ Hotell: Quality Hotel Panorama, Trondheim
 
 Avfart Rosten (33A)
 (sydgående retning)
+ Fv6682: Heimdal
+ City Syd Kjøpesenter
 
 Kryss Tonstad (34)
+ Fv6686: Sjetnmarka
+ Fv6650: Kolstad, Byåsen, Granåsen
+
+Tonstad bomstasjon
+ takst 12,- / 28,- (rushtid 15,- / 35,-)
 
 Kryss Kroppan (35)
 (avfart nordgående retning
 påfart sydgående retning)
+ 706: Fosen, Byåsen
 					(/
 (Kroppanbrua (402 m/385 m))
  Nidelva
@@ -1377,7 +1390,41 @@ påfart sydgående retning)
 Kroppanbrua Busshpl
 
 Kryss Sluppen (36/36A)
- 706: Trondheim sentrum
+ Fv6690: Trondheim sentrum
+ 706: Fosen, Byåsen
 
 Etapp : Sluppen - Rotvoll (Omkjøringsvegen)
 
+Kryss Nidarvoll (37)
+
+Kryss Nardo (38)
+
+Kryss Moholt (39)
+
+Kryss Angelltrøa (40)
+
+(Avfart Bromstadvegen (40A))
+(sydgående retning)
+
+Kryss Tunga (41)
+
+Kryss Rotvoll (42)
+ 706: Trondheim sentrum, [715]
+ Fv950: Charlottenlund, Brundalen
+
+Etapp : Rotvoll - 
+					/)
+Grillstadtunnelen-vest (748 m))
+
+(Grillstadtunnelen (748 m)
+
+Kryss Charlottenlund-vest (43)
+
+Kryss Charlottenlund-øst (43)
+(ikke avfart sydgående)
+
+Kryss Reppe (43A)
+(sydgående retning)
+
+Ranheim bomstasjon: (63.4226354,10.5546828)
+ takst 34,- / 53,-
