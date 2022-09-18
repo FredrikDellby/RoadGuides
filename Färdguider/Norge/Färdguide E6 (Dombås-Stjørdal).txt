@@ -540,10 +540,12 @@ Ranheim bomstasjon: (63.4226354,10.5546828)
 
 (90 km/h / 80 km/h)
 Mittrekk ender / begynder
+(Malvik / Trondheim
 Stavsjøfjelltunnelen-vest
  1 721 m
 
 Stavsjøfjelltunnelen-øst
+Trondheim / Malvik)
 Mittrekk begynder / ender
 (80 km/h / 90 km/h)
 
@@ -570,3 +572,27 @@ Stavsjøfjelltunnelen-øst
  Homla, 201 m
 
 Mittrekk begynder / ender
+
+Kryss Hommelvik (47))
+					/)
+(Malvik / Stjørdal
+
+Hommelvik bomstasjon
+ takst 17,- / 26,-
+Mittrekk ender / begynder
+Helltunnelen-syd
+ 3 928 m
+
+Helltunnelen-nord
+
+Mittrekk begynder / ender
+
+Sandfærhusbrua (Stjørdalselva, 276 m)
+
+Kryss Værnes (48)
+
+Værnestunnelen sør (44 m / 46 m)
+					(/
+(Værnestunnelen nord (160 m / 181 m)
+
+Rondell Stjørdal V (E4/E14)
