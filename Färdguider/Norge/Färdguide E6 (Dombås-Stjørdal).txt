@@ -1,0 +1,572 @@
+
+Etapp 24: Dombås - Furuhaugli ()
+
+Mittrekk begynder / ender
+
+Mitrekk ender / begynder
+
+(T-korsning E6/Fjellvegen)
+(ikke skiltet)
+
+T-korsning E6/Fjellvegen
+ Dombås Fjellskole, Dombås skiarena
+ Hotell: Trolltun, Dombås Vandrerhjem, Dombås Hyttepark
+
+(Parkeringsplass (vestre side)
+Dombås bom for høyfjellsovergang
+
+(Parkerings/Infoplass (vestre side))
+(ikke skiltet)
+T-korsning E6/Hjellsætervegen
+ Hjelle seter, Parkering Hondyrju
+
+Parkeringsplass (vestre side)
+
+Rasteplass Fokstua sør (vestre side)
+
+T-korsning Fokstugu
+ Fokstumyra
+
+Bru over Foksåe
+
+Rasteplass Fokstua nord (østre side)
+
+T-korsning (privat vei)
+ Parkering/Infoplass (ikke skiltet)
+
+T-korsning Storrhusranden-syd
+ Rasteplass Furuhaugli (ikke skiltet sydgående)
+
+T-korsning Storrhusranden-nord
+ Rasteplass Furuhaugli (ikke skiltet)
+
+T-korsning Furuhaugli
+ Furuhaugli Fjellhytter, Restaurant, Café
+
+Etapp 25: Furuhaugli - Hjerkinn ()
+
+Korsning (private veier)
+ Stor Telekommast
+
+Rasteplass Vålåsjøen (vestre side)
+
+(Parkeringsplass (vestre side))
+(grusvei, ikke skiltet)
+
+T-korsning Dovregubbens Hall-øst (skiltet nordgående)
+ Hotell, Restaurant, Hytter
+
+(Anfinns bru)
+ Folla, 21 m
+T-korsning Dovregubbens Hall-vest (skiltet sydgående)
+ Rasteplass Dovregubbens Hall
+
+(Parkeringsplass (vestre side))
+ Grus, ikke skiltet
+
+Rasteplass Sygardseter (østre side)
+(kun skiltet nordgående)
+
+T-korsning
+ Hageseter Turisthytte
+ Vesle-Hjerkinn (sevärdighet)
+
+Rasteplass Heglingsbakken (vestre side)
+(ikke skiltet nordgående)
+
+Rasteplass Geitberget (østre side)
+(kun skiltet nordgående?)
+
+(Bom for høyfjellsovergang): (62.2219397,9.5504457)
+Dubbel T-korsning Hjerkinn E6
+ Hjerkinn stasjon
+ 29: Folldal
+
+(T-korsning E6/Hjerkinnhusvegen): (62.2258046,9.5475433)
+(Bom for høyfjellsovergang): (62.2260634,9.5468149)
+
+Rasteplass (østre side)
+(ikke skiltet sydgående)
+
+Rasteplass Tverrfjellet (vestre side)
+(ikke skiltet nordgående)
+
+(Innlandet /: (62.2642207,9.5661274)
+(Drovre /
+Grensestenen: (62.2647118,9.5679245)
+(Snuplass)
+/ Trøndelag): (62.2650691,9.5692746)
+/ Oppdal)
+
+(Grønbakken bom for høyfjellsovergang): (62.2760906,9.5851378)
+Korsning Grønbakken
+ Rasteplass (ikke skiltet)
+
+Parkeringsplass Pilegrimsleia (vestre side)
+
+Infoplass (vestre side): (62.3020224,9.6032054)
+
+Kongsvold Fjeldstue
+
+T-korsning Kongsvoll E6
+ Kongsvoll stasjon
+
+(Bru over Sprenbekken)
+
+Rasteplass Vårstigen (østre side)
+(direkt intill veien)
+
+Rasteplass Nestavollan (østre side)
+(kun skiltet Rasteplass nordgående)
+ Vårstigen (seværdighet)
+(Sápmi souvenir (vestre side))
+
+T-korsning Hesthåggan
+ Rasteplass Hesthåggan
+ Vårstigen (seværdighet)
+
+(Parkeringsplasser (vestre side))
+(direkt intill veien)
+
+(Parkeringsplass (vestre side))
+(grus, ikke skiltet)
+T-korsning Drivstua
+ Drivstua stasjon og Drivstua Fjeldstue
+
+Parkeringsplass/parallellvei (vestre side)
+
+Skiferbrudd (Dubbel T-korsning?)
+
+T-korsning E6/Setervegen
+ Industri: Skiferbrudd
+
+T-korsning E6/Enganvegen
+(kun skiltet nordgående)
+ Engan, Åmotsdalen
+ Magalaupet (seværdighet)
+ Magalaupe Camping
+
+(Jernbaneviadukt (Isbekken bru))
+ Dovrebanen
+T-korsning E6/Enganvegen
+(kun skiltet sydgående)
+
+T-korsning Driva kryss
+ Fv6522: Viken
+
+Driva Hytter
+
+T-korsning Driva
+ Vinstradalen (bompeng) Parkering
+(Vinstrabrua)
+ Vinstra, 25 m
+T-korsning Smegarden
+ Smegarden Camping
+
+T-korsning Granmo
+ Granmo Camping, Raftingsenter
+
+T-korsning Mjøagrenda
+ Vollan
+
+T-korsning E6/Dovrevegen
+ Brennan, Sykelsti Oppdal
+
+(Ålmbrua)
+ Ålma, 47 m
+Rondell E6/Turistvegen
+ Fv6518: Vikasæter, Kåsa
+ Bensinstasjon: Shell
+ Hotell: Oppdal turisthotell, Skifer hotell
+
+Rondell Oppdal stasjon
+ Oppdal stasjon, Infosenter
+ 70: Kristiansund
+ Kulturhus, Svømmehall
+
+Rondell E6/Skasliens veg
+ Oppdal stasjon, Infosenter
+ Bensinstasjon: YX
+ Restaurant: Burger King
+
+T-korsning E6/Slepphaugeråket
+ Oppdalsmuseet (seværdighet)
+ Hagesenter, Oppdal Skisenter
+(T-korsning E6/Smivegen)
+ Ikke skiltet, Motorhuset Oppdal
+
+T-korsning E6/Industrivegen
+ Orkelsjøen (bompeng)
+ Industri: Kåsen, Fritidsparken (Golf)
+
+T-korsning Tågvollan
+ Stølen/Hovden
+
+(Dubbel) T-korsning Stølen
+ Hotell/Camping: IMI Stølen
+ Økolaft AS
+
+Camping Halsetløkka: (62.6129102,9.7504566)
+
+T-korsning Bjørklia E6
+ Bjørklia
+
+T-korsning
+ Elgsmoen, Dyrepensjonat
+ Asfaltverk, Motorsenter
+
+T-korsning Oppdal Flyplass
+ Oppdal Flyplass
+
+T-korsning Fagerhaug
+ Gamle Kongeveg, Fagerhaug kirke
+
+(Rasteplass Oppdalsporten
+ Hotell/Restaurant: Oppdalsporten
+ Bensinstasjon: Best
+
+(Korsning Strand)
+ Betongstasjon
+
+(Bru over Gisna)
+Oppdal / Rennebu
+
+T-korsning Stølsvangsveien
+ Gisnadalen, Langklopp
+
+T-korsning Åshuset
+ Fv6510: Innset, Seierdal
+					(/
+(Parkeringspats, grus (vestre side))
+ Ej skyltad
+
+Mittrekk begynder / ender
+
+Mittrekk ender / begynder
+
+T-korsning Kløftbrua
+ Skjephaug, Gisnadalen
+ Gjesteheim Havdal
+(Kløft bru)
+ Orkla, 48 m
+
+T-korsning Ulsberg
+ 3: Elverum, Tynset
+
+(Bru over Jønnåa)
+
+Berkåk Kontrollstasjon
+(sydgående retning)
+
+Stavåbrua (104 m)
+ Stavåa
+
+(T-korsning Skauma bru)
+ Scandinavian Collage Museum
+(Skauma bru)
+
+T-korsning E6/Stasjonsveien (kun skiltet nordgående)
+ Berkåk stasjon
+
+Restaurant: Stasjonen Cafe & Spiseri
+Korsning E6/Stasjonsveien (kun skiltet sydgående)
+
+Dubbel T-korsning Berkåk sentrum
+
+T-korsning 
+ Industri: Postmyran, Badeplass
+(Rasteplass Berkåk Veikro)
+ Restaurant: Berkåk Veikro, Bygdasenteret
+T-korsning E6/Mjukliveien
+ Berkåk kirke, Helsesenter
+ Mjuklia leirsted og gjestegård
+
+(Bru ved Liagrind)
+
+
+===========================
+
+Kryss Bjørset
+ Bjørset, Dragset
+
+Bjørsetfossbrua (53 m)
+ Ila
+
+Motortrafikkvei begynder / ender
+(Mittrekk begynder / ender)
+
+Vinddalslibrua (76 m)
+ Ila
+
+Vindåsliene bomstasjon: (62.9383528,10.1900951)
+ takst 47/94 kr.
+
+Kryss Soknedal (19)
+ Fv6573: Soknedal, Infoplass
+ Bensinstasjon: YX
+ Restaurant: Mama Rosa Soknedal, Soknedal Bakeri og Konditori
+
+Soknedalsbrua (127 m)
+ Sokna
+Soknedalstunnelen-syd (3 604 m)
+
+Soknedalstunnelen-nord
+
+(Motortrafikkvei ender / begynder)
+T-korsning Sagflata
+ Fv6573: Soknedal (Gamle E6)
+
+(Dubbel T-korsning Storøyen)
+ Parkeringsplass, Ikke skiltet
+
+T-korsning Snøan
+ Fv6574: Strinde
+
+T-korsning Haukdalsbru
+ Fv6560: Budal kirke, Hauka
+
+T-korsning Øverøyen
+ Dyrepensjonat
+
+(T-korsning Gunhildsøy bru)
+ Ikke skiltet
+
+T-korsning Storlykkja
+ Industri: Soknesöra
+(Motortrafikkvei begynder / ender)
+(80 km/h / 90 km/h)
+
+Rasteplass Liøya (nordgående)
+
+Kryss Støren
+ 30: Røros
+ Fv6558: Støren, Gaula Natursenter
+ Bensinstasjon: Circle-K
+ Hotell: Vårvolden Camping, Støren Camping
+
+Gaulabrua (293 m)
+ Rørosbanen og Gaula
+
+90 km/h / 80 km/h: (63.0517187,10.30054)
+
+Bratlitunnelen (210 m)
+
+Håggåtunnelen (290 m))
+
+Midtre Gauldal / Melhus
+Kryss (avfart sydgående, påfart nordgående)
+ Fv6558: Støren
+ Hotell: Vårvolden Camping
+(Mittrekk begynder / ender)
+
+(Mittrekk ender / begynder)
+Motortrafikkvei ender / begynder: (63.0886075,10.2503443)
+
+T-korsning Vollan
+ Vollan
+
+T-korsning Fosskrysset
+ Fv6492: Hølonda, Hovin
+ Pendelparkering, Bygdatun
+
+T-korsning Fossbakken
+ Foss
+
+T-korsning Horg kirke
+ Sykehjem, Horg kirke
+
+(T-korsning (lokal vei))
+ Horgøien Gård
+
+T-korsning E6/Grinnisvegen
+ Fv6582: Valdøyan, Miljøstasjon
+ Valdøyan Camping
+
+T-korsning E6/Lyngenvegen
+ Fv6584: Lyngen
+ Restaurant: Lundamo Pizzeria
+
+Bensinstasjon: Esso Express
+T-korsning Lundamo stasjon
+ Lundamo stasjon
+
+T-korsning Lundamo skole
+ Horghallen, Ungdomsskole
+
+T-korsning E6/Lundalsvegen
+ Fv6586: Aungære
+ Samsjöen (bompeng)
+ Idrettsanlegg, Skoler
+
+Etapp : Lundamo - Klettkrysset ()
+
+Dubbel T-korsning Lundabru
+ Legesenter
+ Lundamo Camping
+
+Lundamo bru (33 m)
+ Sokna
+
+T-korsning Kjelstad
+ Kjelstad Camping
+
+T-korsning Skjetnemyrbakken
+ Børseth gård
+
+Bensinstasjon: Shell
+T-korsning Møsta
+ Bybot
+
+Dubbel T-korsning Ler
+ Fv6594: Klæbu, [704]
+ Fv6594: Fremo, Kirkflå
+ Flå kirke, Motorbane
+ Ler stasjon, Pendelparkering
+ Putballpark
+
+Jernbaneviadukt (Nyhus bru)
+ Dovrebanen
+
+T-korsning Nyhus
+ Fv6600: Kirkflå (3,0 m høyde)
+
+Rondell Øyan
+ Fv6591: Kvål, Korsvegen (4,2 m høyde)
+ Låvbrua (gård?)
+
+(Øverkvålsbrua(70 m))
+Mittrekk begynder / ender: (63.2288538,10.2821462)
+					/)
+70 km/h / 110 km/h): (63.2308398,10.2766822 / 63.2294336,10.2801115)
+
+Hofstadkrysset (27)
+ Fv6591/Fv6612: Øya
+ Pendelparkering?
+
+(Hofstadtunnelen): (63.2553507,10.2826492)
+ Melhusvegen (Fv6591)
+
+Melhuskrysset (28)
+ Fv6612/Fv6591: Melhus, Søberg
+ 708: Korsvegen
+
+Brubakktunnelen (115 m)
+
+Kryss Melhus nord (29)
+(avfart sydgående retning
+påfart nordgående retning)
+ Fv6612: Rødde
+
+Klettkrysset (30)
+ E39: Ålesund, Orkanger
+ 707, [715]: Fosen
+
+Etapp : Klettkrysset - Sluppen ()
+
+Elgtråkket (90 m / 80 m): (63.3264996,10.3458548)
+
+Kryss Sandmoen (31)
+
+Kryss Hårstad (32)
+
+Kryss Sentervegen (33)
+ Tillerbyen
+ Fv6688: Heimdal
+ City Syd Kjøpesenter
+ Restaurant: McDonald's Burger King
+ Hotell: Quality Hotel Panorama, Trondheim
+
+Avfart Rosten (33A)
+(sydgående retning)
+ Fv6682: Heimdal
+ City Syd Kjøpesenter
+
+Kryss Tonstad (34)
+ Fv6686: Sjetnmarka
+ Fv6650: Kolstad, Byåsen, Granåsen
+
+Tonstad bomstasjon
+ takst 12,- / 28,- (rushtid 15,- / 35,-)
+
+Kryss Kroppan (35)
+(avfart nordgående retning
+påfart sydgående retning)
+ 706: Fosen, Byåsen
+					(/
+(Kroppanbrua (402 m/385 m))
+ Nidelva
+					/)
+Kroppanbrua Busshpl
+
+Kryss Sluppen (36/36A)
+ Fv6690: Trondheim sentrum
+ 706: Fosen, Byåsen
+
+Etapp : Sluppen - Rotvoll (Omkjøringsvegen)
+
+Kryss Nidarvoll (37)
+
+Kryss Nardo (38)
+
+Kryss Moholt (39)
+
+Kryss Angelltrøa (40)
+
+(Avfart Bromstadvegen (40A))
+(sydgående retning)
+
+Kryss Tunga (41)
+
+Kryss Rotvoll (42)
+ 706: Trondheim sentrum, [715]
+ Fv950: Charlottenlund, Brundalen
+
+Etapp : Rotvoll - Storsand ()
+					/)
+Grillstadtunnelen-vest (748 m))
+
+(Grillstadtunnelen (748 m)
+
+Kryss Charlottenlund-vest (43)
+
+Kryss Charlottenlund-øst (43)
+(ikke avfart sydgående)
+
+Kryss Reppe (43A)
+(sydgående retning)
+
+Ranheim bomstasjon: (63.4226354,10.5546828)
+ takst 34,- / 53,-
+
+(90 km/h / 80 km/h)
+Mittrekk ender / begynder
+Stavsjøfjelltunnelen-vest
+ 1 721 m
+
+Stavsjøfjelltunnelen-øst
+Mittrekk begynder / ender
+(80 km/h / 90 km/h)
+
+Kryss Leistad (44)
+
+Kontrollstasjon Malvik
+
+Kryss Storsand (45)
+
+Etapp : Storsand - Stjørdal ()
+
+Rasteplass Stav Gjestegård
+ Bensinstasjon: Shell
+ Hotell/Restaurant: Best Western Stav
+
+Kryss Sveberg (46)
+
+Mittrekk ender / begynder
+Stavsjøfjelltunnelen-vest
+ 1 721 m
+
+Stavsjøfjelltunnelen-øst
+(Hommelvikbrua)
+ Homla, 201 m
+
+Mittrekk begynder / ender
