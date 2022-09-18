@@ -1,0 +1,891 @@
+Färdguide E6 (Oslo - Trondheim)
+===============================
+
+Etapp 6: Hovinkrysset - Karihaugen: ()
+
+Hovinkrysset (37)
+ E6 s: Gøteborg
+ [E18 ø]: Stockholm
+ [E18 v]: Kristianstad, Sentrum
+ Ring 3: Ryen
+ Ring 3, [4]: Sinsen
+ [163]: Stovner
+					0,8 km/0,7 km	36 s/32 s
+Ulvenkrysset (38)
+ Alnabru, Ulven
+					/)
+Parkovergang)
+					0,9 km/0,7 km	36 s/28 s
+Alnabrukrysset (39)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ [E18 v]: Kristianstad, Sentrum
+					0,5 km/0,9 km	20 s/36 s
+Alnabru bomstasjon: (59.9238943,10.8441807)
+ takst 22-26/49-88 kr. (rushtid 28-31/66-104 kr.)
+
+Serviceplass Alnabru
+(sydgående riktning)
+ Bensinstasjon: Esso
+ Elbilsladdning: Fortum
+ Restaurang: McDonald's
+					1,1 km/1,2 km	44 s/48 s
+Kryss Trosterud (40)
+ Lindeberg nedre
+ 191: Trosterud
+ Alnabruterminalen
+ Bensinstasjon: Circle-K, Checkpoint Oslo
+ Elbilsladdning: Grønn kontakt, Fortum, Radisson Blu
+ Restaurang: McDonald's
+ Hotel: Radisson Blu
+					1,6 km/1,9 km	1 min 4 s/1 min 16 s
+Kryss Furuset (41)
+ Ellingsrud, Lindeberg øvre
+ Furuset, Høybråten
+ Bensinstasjon: St1
+ Livsmedel: Kiwi, Europris
+
+(Furuset Bomstasjon: (59.9396704,10.9062478)
+(sydgående retning)
+ takst 22-26/49-86 kr (rushtid 28-31/66-104 kr)
+					2,3 km/1,2 km	1 min 32 s/0 min 48 s
+Kryss Karihaugen (42)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ 159: Lillestrøm, Karihaugen
+ Sykehus: Ahus
+
+Etapp 7: Karihaugen - Gardemoen (37,6 km/37,2 km)
+					1,1 km/1,5 km	0 min 44 s/1 min 0 s
+Skogskrysset (42)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 159: Lillestrøm, Karihaugen
+ Høybråten
+ Sykehus: Ahus
+					0,8 km/1,0 km	29 s/36 s
+Tangerudkrysset (43)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ 163: Stovner, Økern
+(Oslo / Viken)
+(Oslo / Lillestrøm)
+					4,2 km/4,5 km	2 min 31 s/2 min 42 s
+Hvamkrysset (44)
+ 22 ø: Lillestrøm, Kjeller
+ 22 v: Gjelleråsen, Nittedal
+ Hellerudsletta
+ Bensinstasjon: Uno-X
+ Elbilsladdning: Nobil, Lade i Norge
+ Hotel: Quality Hotel Olavsgaard
+ Livsmedel: Maxbo Stormarked
+					/)
+Nitsund bru (154 m)): (59.9816936,10.9974785)
+ Nitelva
+					3,4 km/3,3 km	2 min 2 s/1 min 59 s
+Skedsmovollkrysset (45)
+ 120 s: Lillestrøm, Kjeller
+ 120 n: Nannestad, Gjerdum, Skedsmokorset
+ Bensinstasjon: Shell
+ Restaurang: Burger King, Andi's Foodtruck
+ Livsmedel: MENY, REMA 1000
+					2,6 km/3,1 km	1 min 34 s/1 min 52 s
+Bergerkrysset (46)
+ Indusri: Berger
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Circle-K
+ Restaurang: McDonald's
+					3,2 km/2,5 km	1 min 55 s/1 min 30 s
+Leira bru (180 m): (60.0297156,11.0969045)
+ Leira
+
+Grankrysset (47)
+ 171: Sørumsand, Frogner, Lindeberg
+					3,8 km/3,6 km	2 min 17 s/2 min 10 s
+Lillestrøm / Ullensaker
+					2,1 km/2,9 km	1 min 16 s/1 min 44 s
+(Pårampe (fra Rasteplass))
+(sydgående retning)
+
+Kløftakrysset (48)
+ E16: Kongsvinger, Vormsund
+ Parkering: Kløfta stasjon
+ Rasteplass Skibakk
+ Bensinstasjon: Shell, Esso
+ Restaurang: Burger King
+					6,5 km/6,0 km	3 min 54 s/3 min 36 s
+Langelandkrysset (49)
+ Jessheim S
+					2,7 km/2,4 km	1 min 37 s/1 min 26 s
+Kverndalenkrysset (50)
+ Gardemoen Lufthavn
+ E16 v: Hønefoss, Nannestad
+
+Etapp 8: Gardemoen - Minnesund (29,6 km/30,6 km)
+					1,1 km/1,7 km	0 min 40 s/1 min 1 s
+Grønvollkrysset (51)
+ 174: Jessheim N
+ (Gardemoen Lufthavn)
+ Bensinstasjon: Esso
+ Elbilsladdning: Charge And Drive, Fortum, Quality Hotel
+ Restaurang: McDonald's, Brasserie Bassit
+ Hotel: Quality Airport Hotel, Scandic Gardemoen, Thon Hotel Oslo Airport
+					3,0 km/2,9 km	1 min 48 s/1 min 44 s
+Avfart (sydgående riktning)
+ Trafikkontrollplass, Gardemoen Cargo
+
+Hovinmoen bomstasjon: (60.1808374,11.1729144)
+ Takst 21/33 kr
+
+Hauerseterkrysset (52)
+ 179: (Brårud), Nordkisa
+ Militær flystasjon
+ Bensinstation: Circle-K
+					/)
+Hauerseter viltovergang (56 m))
+					5,1 km/5,0 km	3 min 4 s/3 min 0 s
+Elstadmoen viltovergang (40 m): (60.2233416,11.1774439)
+
+Mogreinakrysset (53)
+ Dal
+ Mogreina
+ (Camping Hersjøen)
+					1,4 km/0,9 km	50 s/32 s
+Ullensaker / Eidsvoll: (60.2410052,11.17975)
+(Risa bru, 84 m)
+					1,3 km/1,7 km	0 min 47 s/1 min 1 s
+Dalkrysset (54)
+ 176 n: Råholt, [E16 v]: Hønefoss
+ 176 s: Dal, Nannestad
+ Industri: ØRN
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Grønn kontakt, Ionity
+					4,1 km/4,0 km	2 min 28 s/2 min 24 s
+(Grevlingmyra faunapassasje)
+ 25 m
+
+Rasteplass Andelva-sør
+(sydgående riktning)
+(Andelva bru (172 m))
+ Andelva
+					0,8 km/0,7 km	29 s/25 s
+Rasteplass Andelva-nord
+(nordgående riktning)
+					2,4 km/2,2 km	1 min 28 s/1 min 19 s
+Andelva bomstasjon: (60.3063132,11.1414362)
+ takst 21/33 kr, (Dal – Boksrud)
+					0,4 km/0,9 km	14 s/32 s
+Ormliakrysset (55)
+ Eidsvoll Verk
+ 180: Hurdal
+ Eidsvollsbyggningen (seværdighet)
+ Rasteplass Nebbenes-øst (nordgående)
+ Rasteplass Nebbenes-vest (sydgående)
+ Bensinstasjon: Shell
+ Elbilsladdning: Fortum, Nobil, Tesla
+ Restaurang: Nebbenes Kro
+					3,2 km/3,2 km	1 min 55 s/1 min 55 s
+Boksrudkrysset (56)
+ 181: Eidsvoll, (Sand/Nord-Odal)
+					1,0 km/0,5 km	36 s/18 s
+Eidsvolltunnelen-sør
+ 1193 m
+					1,2 km/1,2 km	43 s/43 s
+Eidsvolltunnelen-nord
+					2,8 km/3,5 km	1 min 41 s/2 min 6 s
+Tømte bomstasjon: (60.3715301,11.205633)
+					(/
+(Julsrudbrua (314,5 m)
+					1,9 km/1,7 km	1 min 8 s/1 min 1 s
+Trafikkontrollplass (nordgående)
+
+Minnesundkrysset (58)
+ 177: Minnesund
+ 33: Gjøvik
+ Camping Storenga
+ Bensinstasjon: Circle-K
+ Elbilsladdning: Circle-K
+
+Etapp 9: Minnesund - Espa (37,0 km/36,6 km)
+					1,4 km/1,0 km	50 s/36 s
+Nye Minnesundbrua-sør
+ 565 m/
+					0,5 km/0,5 km	18 s/18 s
+Nye Minnesundbrua-nord
+ /532 m
+					1,1 km/1,8 km	0 min 40 s/1 min 5 s
+Langsetkrysset (59)
+ Morskogen, Ørbekk, Langset
+					/)
+Ørbekk bomstasjon): (60.4189291,11.2406501)
+ 22/35 kr, (Minnesund – grensen)
+
+Korslundtunnelen-syd
+ 635 m/
+
+Korslundtunnelen-nord
+ /624 m
+					5,2 km/5,2 km	3 min 28 s/3 min 28 s
+Morskogstunnelen-syd
+ 2350 m/
+
+Morskogstunnelen-nord
+ /2322 m
+
+Viken / Innlandet: (60.4989935,11.2384895)
+Eidsvoll / Stange
+(Budalsbekkbrua)
+  Budalsbekken, 43 m
+					2,0 km/2,3 km	1 min 12/1 min 23 s
+Strandlykkjakrysset (60)
+ Morskogen, Trautskogen, Strandlykkja
+					2,7 km/2,3 km	1 min 37 s/1 min 23 s
+Rasteplass Strandlykkja-øst
+(nordgående riktning)
+
+Rasteplass Strandlykkja-vest
+(sydgående riktning)
+					1,6 km/1,5 km	58 s/54 s
+Espa bomstasjon: (60.5544349,11.2506057)
+ takst 22/37 kr
+
+Espakrysset (61)
+ Tangen, Skaberud
+					1,0 km/1,6 km	36 s/58 s
+Etapp 10: Espa - Kolomoen ()
+
+Espatunnelen-syd
+ 762 m/
+
+Espatunnelen-nord
+ /756 m
+Labbdalsbrua (76 m/82 m): (60.5803404,11.2764703)
+ Labbelva
+
+Skaberudkrysset (62)
+ Skaberud, Vensvangen
+					7,3 km/7,7 km	4 min 23 s/4 min 37 s
+(Hougsrud faunapassasje)
+ 25 m
+
+(Vikselv bru): (60.6223779,11.2994504)
+ Vikselva, 25 m
+
+Kryss Tangen/Vallset (63)
+ Vallset, Tangen Dyrepark
+ 222: Tangen
+ Bensinstasjon: Circle-K
+ Elbilsladdning: MER, Circle-K
+ Restaurang: Burger King
+					6,7 km/6,3 km	4 min 1 s/3 min 47 s
+Kolomoen bomstasjon: (60.6492623,11.2930427)
+(Evenrud faunapassasje)
+ 25 m
+
+Rasteplass Kolobekken
+(nordgående riktning)
+					1,2 km/1,6 km	43 s/58 s
+Kryss Kolostuen (64)
+ Sørli virkesterminal
+					1,4 km/1,0 km	50 s/36 s
+(Slåttmyra faunapassasje)
+ 25 m
+					(/
+Kolomoen vegkryss (65)
+ 3: Tynset, Elverum
+ [25 v]: Trysil
+ [24 s]: Kongsvinger
+
+Etapp 11: Kolomoen - Hamar ()
+					0.9 km/1.0 km	41 s/45 s
+Rasteplass Kolomoen
+(sydgående riktning)
+					2.4 km/2.4 km	1 min 48 s/1 min 48 s
+Uthuskrysset (66)
+ 24 s: Skarnes, Gata
+ Romedal
+ 24 n: Stange
+
+Jønsberg bomstasjon
+ 24/48 kr.
+					9.2 km/9.5 km	6 min 54 s/7 min 8 s
+Kåterudkrysset (67)
+ Hjellum
+ Ottestad
+					0.8 km/0.4 km	36 s/18 s
+(Stange / Hamar: (60.7915917,11.1241122)
+					(/
+(Svartelva bru
+ Svartelva, 49 m
+Stange / Hamar): (60.795243,11.1221291)
+					0.8 km/1.2 km	36 s/54 s
+Kryss Ridabu (68)
+ 25 ø: Elverum, (Løten)
+ 25 v: Hamar-Sentrum
+ Olympiahallen, Domkirkeodden
+ Norsk Jernbanemuseum, Kirsten Flagstadmuseet
+ Åker Kongsgård
+
+Etapp 12: Hamar - Brumunddal ()
+					1.8 km/1.5 km	1 min 21 s/1 min 8 s
+Sælid bru (41 m)
+ Flagstadelva
+
+Kryss Vien (69)
+(ej avfart sydgående)
+ Gåsbu
+ 222: Hamar, Sykehus
+					1.6 km/1.5 km	1 min 12 s/1 min 8 s
+Vien bomstasjon
+ takst 19/38 kr.
+
+(Avfart 69 (sydgående)
+ Gåsbu
+ [222]: Hamar, Sykehus
+					0.7 km/1.4 km	0 min 31 s/1 min 3 s
+Hamar / Ringsaker: (60.8296224,11.0870902)
+
+Kryss Arnkvern (70)
+ Industri: Trehørningen
+ Hamar vest, Lufthavn
+ Hotell: Scandic Ringsaker
+ Bensinstation: Uno-X
+					2.1 km/1.9 km	1 min 35 s/1 min 26 s
+Kryss Nydal (71)
+ Nydal, Industri
+ IKEA Ringsaker
+ Bensinstation: Circle-K
+ Restaurang: Burger King, MAX
+					6.4 km/6.3 km	4 min 48 s/4 min 44 s
+Kryss Bergshøgda (72)
+ Brumunddal sør
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+(Bergshøgda bomstasjon)
+ takst 19/38 kr.
+
+(Nederkvern bru (41 m)
+ Brumunda
+					(/
+Brumunddalkrysset (73)
+ Brumunddal, industri
+ Bensinstation: Esso
+ Restaurang: McDonald's
+ Hotell: Wood
+					5.0 km/4.8 km	2 min 51 s/2 min 51 s
+Etapp 13: Brumunddal - Sandvoll ()
+
+Økelsrudkrysset (74)
+ Fv1688: Veldre
+ Fv1786: Gaupen
+					2.5 km/2.8 km	1 min 53 s/2 min 6 s
+(Økelsrud bomstasjon)
+ takst 19/38 kr.
+
+Rudshøgdakrysset (75)
+ Fv1680: Rudshøgda
+ Prøysenhuset (sevärdighet)
+ Bensinstasjon: YX
+ Hotell/Restaurant: Frich's Motell og Spiseri
+ Kvarstad Sjokoladefabrikk
+					5.4 km/5.3 km	4 min 4 s/3 min 58 s
+Skarpsnotunnelen (310 m)
+(110 km/h / 70 km/h)
+					1.2 km/1.2 km	54 s/54 s
+Kryss Moelv (76)
+ 213 n: Moelv
+ [216]: Sjusjøen
+ 213 s: Stavsjø, Ringsaker kirke
+ Mjøsen Golfklubb, Steinvik Camping
+ Bensinstation: Shell
+ Restaurant: Mjøsa Pizzeria og Restaurant
+					1.0 km/0.8 km	45 s/36 s
+Brennerivika bru, 41,5 m
+ Moelva
+					(/
+(Moelvtunnelen (197 m)
+					0.5 km/0.3 km	23 s/14 s
+Mjøsbrua-øst
+					1.8 km/1.8 km	1 min 21 s/1 min 21 s
+(Ringsaker / Gjøvik)
+
+(Mjøsbrua-vest)
+Rondell Sandvoll
+ 4: Gjøvik
+ Busstasjon
+
+Etapp 14: Sandvoll - Lillehammer ()
+
+Rasteplass Biri
+
+70 km/h / 80 km/h: (60.9367601,10.6482233)
+
+Kryss Biri (78)
+ Fv2538: Biri
+ Bensinstasjon: YX
+ Restaurant: Vertshuset V-E6
+ Hotell: Biri Arena Overnatting
+ Lastebilstopp
+
+Strandengen bru (Kalverudelva, 56 m)
+
+Rasteplass Strandengen)
+(nordgående retning)
+
+Gjøvik / Lillehammer
+
+Vingrom bru (Rinda, 36 m)
+
+Kryss Vingrom (79)
+ 250: Dokka, Vingrom
+ [Fv2538]: Biristrand
+ Campingar
+
+(Trafikkontrollplass
+(sydgående retning)
+
+Rasteplass Vingrom kirke)
+(nordgående retning)
+
+(80 km/h / 70 km/h: (61.1036487,10.4407697)
+					(/
+Kryss Vingnes (80)
+ 253: Jørstadmoen
+ [255]: 
+ Vingnes
+ Bensinstasjon: Uno-X
+					/)
+Lillehammer bru-syd)
+ Mjøsa, 544 m
+
+(Lillehamer bru-nord
+					(/
+Kryss Strandtorget (81)
+ [213]: Lillehammer, Vårsætergrenda
+ [216]: (Moelv), Sjusjøen
+ Marihaugen (seværdighet)
+ Bensinstasjon: Circle-K
+ Restaurant: McDonald's
+
+Mosoddentunnelen (212 m)
+
+Kryss Lillehammer N (82)
+ 213: Lillehammer N
+ Olympiaparken, Camping
+ Bensinstasjon: Esso
+ Restaurang: Burger King
+
+Etapp 15: Lillehammer - Tretten ()
+
+70 km/h / 80 km/h: (61.1348518,10.4252732)
+
+Kryss Storhove (83)
+ 255: (Skåbu), Gausdal
+ (Jørstadmoen), Fåberg
+ Storhove Campus
+
+Lillehammer / Øyer
+
+Kryss Einsby (84)
+ 312 n: Hafjelltoppen
+ 312 s: Fåberg
+ Hafjell Alpin
+
+(80 km/h / 90 km/h)
+
+Kryss Grandrudmoen (85)
+ Fv2532: Øyer Sentrum
+ Fv2532: Hunderfossen
+ Hafjell Alpin, Lilleputthammer
+ Bensinstasjon: Uno-X, Circle-K
+ Restaurant: Øyer Pizza, Pizzabakeren Øyer
+			Café Toscana, Fjøset Restaurant & Bar,
+			Hafjell Pizza Drive Og Restaurant
+ Hotell: Scandic Hafjell, Hafjell Hotell
+
+Kryss Tingberg (86)
+ Fv2522/F2560: Hornsjøen, Tingberg
+ Bensinstasjon: Circle-K
+
+Tingberg bomstasjon
+
+(T-korsning (nordgående))
+
+(90 km/h / 80 km/h: (61.278449,10.3551129)
+					(/
+Kryss Skarsmoen
+(bom/ej avrampe nordgående)
+ Øyer kontrollstasjon
+					/)
+Øyertunnelen-syd)
+ 3873 m
+
+(Øyertunnelen-nord
+					(/
+Kryss Holmen (87)
+ Fv2522 n: Tretten
+ 254: Gausdal
+ Fv2522 s: Skarsmoen
+ Bensinstasjon: Circle-K, Shell
+
+Etapp 16: Tretten - Fåvang ()
+
+T-korsning Bådstø
+ Tretten
+ Restaurang: Tretten Kro
+
+T-korsning Ledumsgrinda E6
+(Bru over Vedemselva)
+
+Mageli Camping og Hytter
+
+(Bru over Rolla)
+
+Øyer / Ringebu: (61.3755605,10.2778508)
+
+Rasteplass Krekke (skiltet sydgående)
+T-korsning Krekkevika
+ Fv2566: Goppollen, Fjøssystemer
+
+T-korsning Odden
+ Fv2566: Goppollen
+
+(Dubbel T-korsning Smidesang)
+(ikke skiltet)
+
+T-korsning E6/Tromsnesvegen
+ Fåvang kirke
+
+Kryss Fåvang
+ Fv2532: Fåvang
+ Fv2532: Kvitfjell
+ Serviceplass Kvitfjelltunet/Mammuten
+ Kvitfjell Alpianlegg
+ Bensinstasjon: YX
+ Restaurant: Tunet Kro
+
+Etapp 17: Fåvang - Frya ()
+					/)
+Tromsa bru)
+ Tromsa, 45 m
+
+(80 km/h / 70 km/h): (61.4603243,10.1834643)
+
+T-korsning Fåvang N
+ Fv2532: (ikke skiltet?)
+ Bensinstasjon: Shell
+
+(70 km/h / 80 km/h): (61.4657612,10.1866391)
+
+(80 km/h / 70 km/h): (61.4971226,10.1739967)
+Rasteplass Ringebu sør
+(skiltet nordgående retning)
+
+Korsning Elstad Camping
+ Elstad Camping
+
+Korsning Grovbakken
+ Fv2570: Vekkom
+ Ringebu Stavkyrkje, Prestegård
+
+70 km/h / 50 km/h: (61.5207139,10.1598143)
+
+Skjeggestad  Gjestehus og Motell
+
+(Hagen Caravan AS)
+Dubbel T-korsning Ringebu
+ Fv2532: Vestsida (3,7 m höyde)
+ Ringebuhallen, Kvitfjell mellomstasjon
+ Fv2576: Atna, Friisvegen
+ Måsåplassen
+					(/
+(Bensinstasjon: Circke-K
+
+(Våla bru)
+ Våla, 46 m
+Dubbel T-korsning Ringebu stasjon
+ Skysstasjon, Parkering, Info
+ Parkering Sentrum
+
+Korsning E6/Tomtegata
+ Skysstasjon, Parkering, Info
+(tidligre bensinstasjon)
+Korsning E6/Brugata
+ Fv2578: (ikke skiltet)
+
+60 km/h / 70 km/h: (61.5314302,10.1257803)
+
+70 km/h / 80 km/h: (61.5337378,10.1154499)
+
+Rasteplass Ringebu nord
+(skiltet sydgående retning)
+
+Dubbel T-korsning Foråbrua
+ Industri: Frya, Camping. Flyplass
+ 27: Folldal, Venabygd
+ Rondane
+
+Etapp 18: Frya - Vinstra ()
+
+(Ringebu / Sør-Fron
+(Bru over 
+Ringebu / Sør-Fron)
+
+T-korsning Frya E6
+ Heimtun Camping, Enden Camping
+
+(Mittrekk begynder / ender)
+Motortrafikkvei bygynder / ender: (61.5481017,10.0266462)
+
+Kryss Hundorp (91)
+(avrampe nordgående retning
+pårampe sydgående retning)
+ Fv2522: Hundorp, Fagerhøy
+
+Hundorptunnelen-øst (4 164 m)
+
+Hundorptunnelen-vest
+(80 km/h / 90 km/h)
+(Odenrud bomstasjon)
+ takst 36/72 kr.
+
+Harpe bru (330 m)
+ Gudbrandsdalslågen
+
+Kryss Harpefoss (92)
+ Fv2584: Gålå
+ Fv2584: Harpefoss, Hundorp
+
+Hardvollsmorka bomstasjon: (61.5764889,9.8228336)
+ takst 24,- / 48,-
+
+Sør-Fron / Nord-Fron: (61.5775244,9.8109282)
+
+Rasteplass Mellomsdokka (nordgående)
+
+Vinstersletta bru (126 m)
+ Vinstra
+
+Kryss Vinstra (93)
+ Fv2532 Vinstra
+ 255: Skåbu
+ Fv2532 Fefor
+ Rastplass Vinstra
+ Bensinstasjon: Circle-K
+ Hotel/Restaurant: Peer Gynt
+
+Etapp 19: Vinstra - Sjoa ()
+
+(90 km/h / 80 km/h
+Øla bru (85 m): (61.6194680 9.7096598)
+ Øla
+
+Teigkampen bomstasjon: (61.6245493,9.7089195)
+ takst 33/66 kr.
+
+Teigkamptunnelen-syd (3 747 m)
+
+Teigkamptunnelen-nord
+					(/
+(Lågen bru (273,5 m)
+ Lågen og Fv2598
+
+Kryss Kvam (94)
+ Fv2522: Kvam, Kvamsfjellet
+ Hotel: Rondablikk m.fl.
+
+(80 km/h / 90 km/h
+
+(Kjørem bru)
+ Dovrebanen og Fv2522, 193 m
+
+(90 km/h / 60 km/h
+Nord-Fron / Sel: (61.6738372,9.5599256)
+(Motortrafikkvei ender/)
+80 km/h / 60 km/h)
+
+(/Motortrafikkvei begynder)
+Dubbel T-korsning Sjoa
+ Fv2522: Kjørem
+ 257: Randsverk, Heidal
+ Sjoa Camping, Valdresflye
+ Sjoa mat og bensin
+
+Etapp 20: Sjoa - Otta ()
+
+Korsning Varphaugen
+ Sjoa Raftingsenter (Camping mm)
+
+Korsning Sæta
+ Industri: Sandbumoen
+ Sæta Camping
+(Vangen Camping)
+
+(Parkeringsplass (gress), vestre side)
+T-korsning Bredebygden
+ Sykehuset Innlandet, DPS Døgnenhet
+ Sel sjukeheim
+
+(Bru over Solhjemsåe
+					(/
+T-korsning Solhjem
+ Statens Vegvesen Trafikkstasjon
+
+T-korsning Otta S
+ Fv2628: Mysuseter, Rondane (turistvei)
+ Rondane Høyfjellshotell, Rondane Fjellstue, mm
+
+Bensinstasjon: Uno-X
+
+T-korsning E6/Rv 15 (Otta-øst)
+ 15: Stryn, Lom, Sentrum
+ Hotell: Otta Camping og Motell, Thon Hotel Otta
+ Infosenter
+
+Etapp 21: Otta - Sel ()
+
+T-korsning E6/Kongsvegen S
+(ikke skiltet sydgående)
+ Kongsvegen
+
+T-korsning E6/Kongsvegen N
+(ikke skiltet nordgående)
+ Kongsvegen
+
+T-korsning Ulvolden
+ Tredreiingsverksted
+
+(Infoplass, østre side)
+(Ula bru)
+ Ula, 36 m
+Dubbel T-korsning Sel kyrkje
+ Reiret, Kvitskriuprestein (seværdigheter)
+ Fv2614: Nortura, Sel kyrkje
+
+(T-korsning E6/Kyrkjevegen)
+ Ottaterminalen
+
+Rasteplass Selsverket (østre side)
+(ikke skiltet sydgående)
+
+Bru over Skjærungåe: (61.8393482,9.4788901)
+
+T-korsning Sel E6
+ Fv2614: Vågå, Sel, Nord-Sel kyrkje
+
+Etapp 22: Sel - Drovre ()
+
+T-korsning Rosten
+ Sandbakken camping og hytter
+
+Rasteplass Rosten (vestre side)
+(endast for sydgående)
+
+Parkeringsplass (vestre side)
+
+T-korsning Høvringsvegen E6
+ Fv2618: Høvringen, Rondane (turistvei)
+ Hotell: Høvringen Høgfjellshotell, m.fl.
+Infoplass (vestre side)
+
+Rostbrui (81 m)
+ Lågen
+
+T-korsning Rostbakken
+ Rosten
+
+Sel / Dovre: (61.8969716,9.3902943)
+
+Rasteplass Dovreskogen
+ Bensinstasjon: Circle-K
+ Hotell/Restaurant: Dovreskogen Gjestegård
+
+T-korsning Brusletten
+ Fv2656: Skogsætrin
+ Vollheim Camping og Hytter
+
+T-korsning Dovreskogen E6
+ Dovreskogen
+
+T-korsning Skogabrua
+ Dovreskogen Camping/Hytter
+ Bygningspark (seværdighet)
+
+Rasteplass Bekkemoen (vestre side)
+(ikke skiltet nordgående)
+
+Rasteplass Tallerås (østre side)
+(ikke skiltet)
+(Jernbanebru)
+ Dovrebanen
+
+T-korsning Ilka
+ Ilka
+(Tallerås bru)
+ Lågen, 84 m
+
+T-korsning Tårud
+ Industri: Dovre
+
+Dubbel T-korsning Dovre E6
+ Fv2658: Jøndalen, Hjerleid
+ Fv2656: Grimsdalen (bompeng), Dovre
+ Infoplass, Jetta Kafeteria
+
+Etapp 23: Dovre - Dombås ()
+
+(Klokkerhaugtunnelen (24 m)
+
+Bru over Einbugga: (61.9907244,9.2336819)
+
+T-korsning E6/Kongsvegen
+ Dovre (ikke skiltet)
+
+T-korsning Toftemo E6
+ Fv2662: Vestsidevegen
+ Toftemo turiststasjon
+
+Korsning Dovre Motell-syd
+(kun skiltet nordgående)
+ Bensinstasjon: YX
+ Hotell: Dovre Motell
+
+Dovre Motell-nord
+(kun skiltet sydgående)
+(Bru over Rådååe)
+
+Holum Camping
+
+Korsning Killi Bru
+ Killi Bru
+
+T-korsning Bjørkhol
+ Bjørkhol Camping
+
+Dubbel T-korsning Ulekleiv E6
+ Faksfall Camping
+ Ulekleiv (ikke skiltet)
+
+(Bru over Hjellai)
+
+T-korsning Li
+ Fv2656: Grimsdalen (bompeng)
+ Budsjord Pilegrimsgården
+
+T-korsning (lokal vei)
+ Dombås stasjon, Ikke skiltet
+
+T-korsning E6/Blæstervegen
+Bensinstasjon: Esso Express
+Butikk: Felleskjøpet
+(Bensinstasjon: Shell (S infart))
+
+Bensinstasjon: Shell (N infart)
+Dubbel T-korsning Dombås sentrum
+ Restaurant: Moskusgrillen, Rosa Napoli
+ Hotell: Dombås Hotell, Domaas Gård
+ Dombås stasjon, Skyssterminal, Parkering
+
+Bensinstasjon: Circle-K
+
+Rondell E6/E136
+ E136: Ålesund, Åndalsnes
