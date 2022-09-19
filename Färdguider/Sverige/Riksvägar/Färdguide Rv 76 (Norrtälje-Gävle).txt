@@ -19,30 +19,30 @@ Avfart
 
 Korsning
  Bensinstation: Statoil
-Korsning 76/Radarvägen
+Korsning Rv 76/Radarvägen
 Bensinstation: St1
 
-Korsning 76/Gustaf Adolfs v.
+Korsning 76/Gustaf Adolfs väg
 
-(T-korsning 76/Galles gränd)
-T-korsning 76/Tullportsg.
-T-korsning 76/Esplanaden
+(T-korsning Rv 76/Galles gränd)
+T-korsning Rv 76/Tullportsg.
+T-korsning Rv 76/Esplanaden
 Bensinstation: Ingo
-(Norrtäljeån)
-Korsning 76/Hantverkareg.
+(Bro över Norrtäljeån)
+Korsning Rv 76/Hantverkareg.
 
-T-korsning 76/Ladugatan
-Korsning 76/Diamantgatan
+T-korsning Rv 76/Ladugatan
+Korsning Rv 76/Diamantgatan
 Bensinstation: Tanka
 
 T-korsning Knutby Torg
 Bensinstation: Preem
-Korsning 76/Vätövägen
+Korsning Rv 76/Vätövägen
 
 ===============================
 
 Rondell
-(Norrtäljeån)
+(Bro över Norrtäljeån)
 					1,2 km/1,2 km	1 min 2 s/1 min 2 s
 Rondell
 				
@@ -74,6 +74,8 @@ Karls kyrkoruin
 T-korsning Galltorp
 					1,1 km/1,1 km	57 s/57 s
 T-korsning Sonö vägskäl
+ 283: Grisslehamn, Älmsta
 					7,2 km/7,2 km	6 min 10 s/6 min 10 s
 (En å)
 T-korsning Unungehöjden
+ 282: Uppsala, Knutby
