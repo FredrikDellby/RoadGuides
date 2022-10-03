@@ -246,9 +246,10 @@ Pinnåsen viltovergang
 Taraldrudkrysset (25)
  Kolbotn
 					1,9 km/2,1 km	1 min 8 s/1 min 16 s
-Taraldrud kontrollstasjon
-(nordgående riktning)
+Taraldrud kontrollstasjon (nordgående)
 					0,9 km/0,8 km	32 s/29 s
+Taraldrud Bomstasjon (nordgående)
+
 (Viken / Oslo
 (Ski / Oslo
 					(/
@@ -264,10 +265,10 @@ Mortensrudkrysset (28)
  Livsmedel: Kiwi, Europris
 					1,6 km/1,4 km	1 min 4 s/0 min 56 s
 Skullerudkrysset (29)
-					(/2,2 km	(/1 min 28 s
+					1,6 km/2,2 km	1 min 4 s/1 min 28 s
 (Abildsø bomstasjon: (59.8778986,10.8202759)
  takst 22-26/49-88 kr (rushtid 28-31/66-104 kr)
-					1,6 km/	1 min 4 s/
+					(/				(/
 Bakkerudkrysset (30)
  Bensinstasjon: Circle-K
  Elbilsladdning: VIRTA, Circle-K
@@ -295,7 +296,7 @@ Brynskrysset (34)
 					0,7 km/0,8 km	32 s/36
 Brynstunnelen (240 m)
 					/)
-Järnvägsviadukt)
+(Jernbaneviadukt)
  Hovedbanen
 
 Brynsengkrysset (35)
