@@ -34,19 +34,24 @@ Ryenkrysset (32)
  E6 n: Trondheim, Gardemoen
 ===================================
 					0,3 km/0,5 km	14 s/23 s
+(Operatunnelen-øst)
 Kryss Kværnerbyen (63)
-(Vålerengtunnelen-vest)
+
+Vålerengtunnelen-vest
 					1,2 km/1,2 km	54 s/54 s
+(Vålerengtunnelen-øst)
 Kryss Etterstad (64)
 					0,4 km/0,5 km	18 s/23 s
 Kryss Helsfyr (65)
 					1,0 km/0,6 km	45 s/27 s
-Teisenkrysset (36)
-(avfart östgående riktning
-påfart västgående riktning)
+Teisenkrysset (66)
+(avrampe østgående retning
+pårampe vestgående retning)
  Ring 3 (150) n
 					0,3 km/0,7 km	14 s/32 s
 Kryss Teisenveien (østgående)
+(Pårampe Ulvenveien (vestgående))
+Avrampe Strømsveien (østgående)
 					1,1 km/0,9 km	50 s/41 s
 Alnabrukrysset (39)
 (avfart östgående riktning
