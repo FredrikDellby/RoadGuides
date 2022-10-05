@@ -903,6 +903,8 @@ Trafikplats Fårbo
  Rastplats Fårbo
  Restaurang: Sibylla
 
+Etapp 21: Fårbo - Bälö ()
+
 Korsning (enskild väg)
  Västragård
 
@@ -950,6 +952,8 @@ Korsning Bälö
  Bensinstation: Din-X/Green Petroleum
  Restaurang: Fenix
 
+Etapp 22: Bälö - Hyttan ()
+
 T-korsning Blankaholm E22
  Blankaholm
  Bad, Camping, Gästhamn
@@ -984,6 +988,8 @@ Korsning Lunds by
 T-korsning Hyttan
  40 v: Jönköping, Vimmberby, Ankarsrum
 
+Etapp 23: Hyttan - Rödsle ()
+
 T-korsning Daddhorvan
  Valstad
 
@@ -993,6 +999,8 @@ T-korsning Verkebäck E22
 
 Verkebäcksbron
  Verkebäcksviken, Smalspåret
+(2+1-väg börjar / upphör): 57.7288946,16.521271
+
 Vändplats (sydgående)
 
 Järnvägsviadukt
@@ -1004,10 +1012,12 @@ T-korsning Arabien
 T-korsning (enskild väg)
  Bergtäkt
 
-Trp Rössle
+Trp Rödsle
  Västervik (Centrum), Sjukhus
  Västervik Resort
  Rödsle (enskild väg)
+
+Etapp 24: Rödsle - Almvik ()
 
 Korsning Stenberga (enskild väg)
  Ej skyltad
@@ -1033,6 +1043,8 @@ Parkeringsplats
 Korsning Kungsholm
  Almvik S
  Blackstad
+
+Etapp 25: Almvik - Gamleby ()
 
 Korsning Bomtorpet
  Almvik
@@ -1076,6 +1088,8 @@ Trp Gamleby Norra
  Gamleby N
  35: Linköping, Åtvidaberg, Överum
  135: Kisa
+
+Etapp 26: Gamleby - Björnsholm ()
 
 T-korsning Valstad (enskild väg)
  Hushållningssällskapet
