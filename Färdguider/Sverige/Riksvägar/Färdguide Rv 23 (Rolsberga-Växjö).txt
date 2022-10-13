@@ -480,7 +480,13 @@ Korsning Såganäs N (enskild väg)
 
 ((Dubbel) T-korsning (enskild väg))
  Duvelycke, Röshult
-======================================
+
+(T-korsning (enskild väg))
+ Virkenhult
+
+T-korsning Ljungstorp
+ Holkya
+(2+1-väg börjar / upphör)
 
 Korsning Liatorp Rv 23
  Virestad
@@ -499,7 +505,28 @@ Korsning Eneryda vägskäl
  Vare
  Eneryda, Info Älmhult
 
-Korsning (enskild väg)
+Korsning Lindås Älmhult (enskild väg)
  Lindås
  Kulla, Sågverk
+
+(Stora Parkeringsfickor)
+
+Korsning (enskild väg)
+ Boön, Degerön
+ Värpeshult
+
+T-korsning Boansö (enskild väg)
+(endast förskyltad sydgående)
+ Boansö
+
+Älmhult / Alvesta: (56.7048034,14.4017258)
+
+Dubbel T-korsning Lövhult
+ Källhult
+ Barnhult (enskild väg)
+ (Bensinstation: Eneryda bensin?)
+
+Korsning (enskild väg)
+ Tagelkärr
+ Naturreservat, Taglamyren
 
