@@ -440,7 +440,8 @@ Grenlandsbrua-øst
 Kjørholttunnelen-vest
  2 219 m/2 195 m
 
-(Kjørholttunnelen-øst)
+(Kjørholttunnelen-øst
+					(/
 Kryss Kjørholt (51)
 
 Steinbrekktunnelen (184 m)
