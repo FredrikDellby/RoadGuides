@@ -499,7 +499,41 @@ Korsning Eneryda vägskäl
  Vare
  Eneryda, Info Älmhult
 
-Korsning (enskild väg)
+(T-korsning (nordgående))
+ Rosendal, Enskild väg (ej förskyltad)
+Korsning Lindås (enskild väg)
  Lindås
  Kulla, Sågverk
 
+Korsning (enskild väg)
+ Boön, Degerön
+ Värpeshult
+
+T-korsning Boansö (enskild väg)
+(endast förskyltad sydgående)
+ Boansö
+
+Älmhult / Alvesta: (56.7048034,14.4017258)
+
+Dubbel T-korsning Lövhult
+ Källhult
+ Barnhult (enskild väg)
+ Bensinstation: Lövhults bensin
+
+Dubbel T-korsning (infarter, ej skyltade)
+
+Korsning (enskild väg)
+ Tagelkärr
+ Naturreservat, Taglamyren
+
+T-korsning (infart, ej skyltad)
+
+Korsning (enskild väg)
+ Ej skyltad
+T-korsning Granhyltan (infart, enskild väg)
+ MellisGård Lantcafé och Hästkörning (ej skyltad)
+
+Korsning (enskild väg)
+ Ej skyltad?
+
+T-korsning (infart, ej skyltad)
