@@ -505,12 +505,21 @@ Korsning Eneryda vägskäl
  Vare
  Eneryda, Info Älmhult
 
+<<<<<<< HEAD
 Korsning Lindås Älmhult (enskild väg)
  Lindås
  Kulla, Sågverk
 
 (Stora Parkeringsfickor)
 
+=======
+(T-korsning (nordgående))
+ Rosendal, Enskild väg (ej förskyltad)
+Korsning Lindås (enskild väg)
+ Lindås
+ Kulla, Sågverk
+
+>>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f
 Korsning (enskild väg)
  Boön, Degerön
  Värpeshult
@@ -524,9 +533,29 @@ T-korsning Boansö (enskild väg)
 Dubbel T-korsning Lövhult
  Källhult
  Barnhult (enskild väg)
+<<<<<<< HEAD
  (Bensinstation: Eneryda bensin?)
+=======
+ Bensinstation: Lövhults bensin
+
+Dubbel T-korsning (infarter, ej skyltade)
+>>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f
 
 Korsning (enskild väg)
  Tagelkärr
  Naturreservat, Taglamyren
 
+<<<<<<< HEAD
+=======
+T-korsning (infart, ej skyltad)
+
+Korsning (enskild väg)
+ Ej skyltad
+T-korsning Granhyltan (infart, enskild väg)
+ MellisGård Lantcafé och Hästkörning (ej skyltad)
+
+Korsning (enskild väg)
+ Ej skyltad?
+
+T-korsning (infart, ej skyltad)
+>>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f

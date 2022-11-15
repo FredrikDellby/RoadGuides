@@ -1,4 +1,3 @@
-
 Etapp 24: Dombås - Furuhaugli ()
 
 Mittrekk begynder / ender
@@ -82,6 +81,8 @@ Dubbel T-korsning Hjerkinn E6
  Hjerkinn stasjon
  29: Folldal
 
+Etapp 26: Hjerkinn - Kongsvoll ()
+
 (T-korsning E6/Hjerkinnhusvegen): (62.2258046,9.5475433)
 (Bom for høyfjellsovergang): (62.2260634,9.5468149)
 
@@ -110,6 +111,8 @@ Kongsvold Fjeldstue
 
 T-korsning Kongsvoll E6
  Kongsvoll stasjon
+
+Etapp 27: Kongsvoll - Driva ()
 
 (Bru over Sprenbekken)
 
@@ -154,6 +157,8 @@ T-korsning E6/Enganvegen
 T-korsning Driva kryss
  Fv6522: Viken
 
+Etapp 28: Driva - Oppdal ()
+
 Driva Hytter
 
 T-korsning Driva
@@ -183,6 +188,8 @@ Rondell Oppdal stasjon
  Oppdal stasjon, Infosenter
  70: Kristiansund
  Kulturhus, Svømmehall
+
+Etapp 29: Oppdal - 
 
 Rondell E6/Skasliens veg
  Oppdal stasjon, Infosenter
@@ -253,6 +260,8 @@ T-korsning Kløftbrua
 T-korsning Ulsberg
  3: Elverum, Tynset
 
+Etapp 31: Ulsberg - Berkåk ()
+
 (Bru over Jønnåa)
 
 Berkåk Kontrollstasjon
@@ -272,19 +281,45 @@ Restaurant: Stasjonen Cafe & Spiseri
 Korsning E6/Stasjonsveien (kun skiltet sydgående)
 
 Dubbel T-korsning Berkåk sentrum
+ 700: Orkanger, Meldal, [E39]
+ Berkåk Torg Parkering
+ Bensinstasjon: Circle-K
+
+Etapp 32: Berkåk - Soknedal ()
 
 T-korsning 
  Industri: Postmyran, Badeplass
+ Bensinstasjon: Circle-K
+					(/
 (Rasteplass Berkåk Veikro)
  Restaurant: Berkåk Veikro, Bygdasenteret
+					/)
 T-korsning E6/Mjukliveien
  Berkåk kirke, Helsesenter
  Mjuklia leirsted og gjestegård
 
 (Bru ved Liagrind)
 
+Halland Camping
 
-===========================
+(Korsning Rønningen)
+ Ikke skiltet, Bru over Ila
+
+Rennebu / Midtre Gauldal: (62.8875993,10.1014708)
+
+T-korsning Garli
+ Garli
+
+T-korsning E6/Garlivegen
+ Langvatnet
+
+Rasteplass Garli
+
+(Parkeringsplass, ikke skiltet)
+(vestre side, grus)
+
+Korsning Gullvåg Camping
+ Gullvåg Camping
 
 Kryss Bjørset
  Bjørset, Dragset
@@ -305,6 +340,8 @@ Kryss Soknedal (19)
  Fv6573: Soknedal, Infoplass
  Bensinstasjon: YX
  Restaurant: Mama Rosa Soknedal, Soknedal Bakeri og Konditori
+
+Etapp 33: Soknedal - Støren ()
 
 Soknedalsbrua (127 m)
  Sokna
@@ -343,6 +380,8 @@ Kryss Støren
  Fv6558: Støren, Gaula Natursenter
  Bensinstasjon: Circle-K
  Hotell: Vårvolden Camping, Støren Camping
+
+Etapp 34: Støren - Lundamo ()
 
 Gaulabrua (293 m)
  Rørosbanen og Gaula
@@ -398,7 +437,7 @@ T-korsning E6/Lundalsvegen
  Samsjöen (bompeng)
  Idrettsanlegg, Skoler
 
-Etapp : Lundamo - Klettkrysset ()
+Etapp 35: Lundamo - Øyan ()
 
 Dubbel T-korsning Lundabru
  Legesenter
@@ -434,7 +473,9 @@ Rondell Øyan
  Fv6591: Kvål, Korsvegen (4,2 m høyde)
  Låvbrua (gård?)
 
-(Øverkvålsbrua(70 m))
+Etapp 36: Øyan - Klettkrysset ()
+
+(Øverkvålsbrua (70 m))
 Mittrekk begynder / ender: (63.2288538,10.2821462)
 					/)
 70 km/h / 110 km/h): (63.2308398,10.2766822 / 63.2294336,10.2801115)
@@ -461,7 +502,7 @@ Klettkrysset (30)
  E39: Ålesund, Orkanger
  707, [715]: Fosen
 
-Etapp : Klettkrysset - Sluppen ()
+Etapp 37: Klettkrysset - Sluppen ()
 
 Elgtråkket (90 m / 80 m): (63.3264996,10.3458548)
 
@@ -502,7 +543,7 @@ Kryss Sluppen (36/36A)
  Fv6690: Trondheim sentrum
  706: Fosen, Byåsen
 
-Etapp : Sluppen - Rotvoll (Omkjøringsvegen)
+Etapp 38: Sluppen - Rotvoll (Omkjøringsvegen)
 
 Kryss Nidarvoll (37)
 
@@ -521,7 +562,7 @@ Kryss Rotvoll (42)
  706: Trondheim sentrum, [715]
  Fv950: Charlottenlund, Brundalen
 
-Etapp : Rotvoll - Storsand ()
+Etapp 39: Rotvoll - Storsand ()
 					/)
 Grillstadtunnelen-vest (748 m))
 
@@ -555,7 +596,7 @@ Kontrollstasjon Malvik
 
 Kryss Storsand (45)
 
-Etapp : Storsand - Stjørdal ()
+Etapp 40: Storsand - Stjørdal ()
 
 Rasteplass Stav Gjestegård
  Bensinstasjon: Shell
