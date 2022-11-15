@@ -1,4 +1,10 @@
+Färdguide E6 (Dombås - Stjørdal)
+=================================
+
 Etapp 24: Dombås - Furuhaugli ()
+
+Rondell E6/E136
+ E136: Ålesund, 
 
 Mittrekk begynder / ender
 
@@ -271,8 +277,8 @@ Stavåbrua (104 m)
  Stavåa
 
 (T-korsning Skauma bru)
- Scandinavian Collage Museum
-(Skauma bru)
+ Scandinavian Collage Museum (ikke skiltet)
+((Skauma bru))
 
 T-korsning E6/Stasjonsveien (kun skiltet nordgående)
  Berkåk stasjon
@@ -546,20 +552,35 @@ Kryss Sluppen (36/36A)
 Etapp 38: Sluppen - Rotvoll (Omkjøringsvegen)
 
 Kryss Nidarvoll (37)
+ Klæbu, Industri: Fossegrenda
+ Sentrum
+ Bensinstasjon: Circle-K, Shell
+ Restaurant: McDonald's
 
 Kryss Nardo (38)
+ Othilienborg, Risvollan
+ Lerkendal, NTNU Gløshaugen
 
 Kryss Moholt (39)
+ Moholt, Tyholttårnet (seværdighet)
+ Jonsvatnet, NTNU Dragvoll
+ Bensinstasjon: Shell, Esso
 
 Kryss Angelltrøa (40)
+ Angelltrøa
+ Industri: Tunga
+ Bensinstasjon: Circle-K
+ Restaurant: Burger King, Bakehuset Trondheim
 
 (Avfart Bromstadvegen (40A))
-(sydgående retning)
+(sydgående retning, åpenbart lukket)
 
 Kryss Tunga (41)
+ Lade, Leangen S
+ Ringve (seværdighet)
 
 Kryss Rotvoll (42)
- 706: Trondheim sentrum, [715]
+ 706: Trondheim sentrum, [715], (Fosen)
  Fv950: Charlottenlund, Brundalen
 
 Etapp 39: Rotvoll - Storsand ()
