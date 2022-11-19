@@ -507,26 +507,47 @@ påfart nordgående retning)
 Klettkrysset (30)
  E39: Ålesund, Orkanger
  707, [715]: Fosen
+ Bensinstasjon: Shell, Circle-K
 
 Etapp 37: Klettkrysset - Sluppen ()
 
+100 km/h / 80 km/h: (63.3262505,10.3360918)
+
+Klett bomstasjon: (63.3260011,10.3411053)
+ takst 16,- / 38,- (rushtid 32,- / 77,-)
 Elgtråkket (90 m / 80 m): (63.3264996,10.3458548)
 
 Kryss Sandmoen (31)
+ 704: Klæbu, Sandmoen
+ Bensinstasjon: Esso
+ Restaurant: Sandmoen Veikro
+ Hotel: Sandmoen Bed & Breakfast
 
 Kryss Hårstad (32)
+ Bratsberg, Tiller
 
 Kryss Sentervegen (33)
+(nordgående retning)
  Tillerbyen
  Fv6688: Heimdal
  City Syd Kjøpesenter
- Restaurant: McDonald's Burger King
+ Restaurant: McDonald's, Burger King
+ Hotell: Quality Hotel Panorama, Trondheim
+
+Motorvei / Motortrafikkvei: (63.3598822,10.3722528)
+
+Kryss Sentervegen (33)
+(sydgående retning)
+ Tillerbyen
+ City Syd Kjøpesenter
+ Restaurant: McDonald's
  Hotell: Quality Hotel Panorama, Trondheim
 
 Avfart Rosten (33A)
 (sydgående retning)
  Fv6682: Heimdal
  City Syd Kjøpesenter
+ Restaurang: Burger King
 
 Kryss Tonstad (34)
  Fv6686: Sjetnmarka
