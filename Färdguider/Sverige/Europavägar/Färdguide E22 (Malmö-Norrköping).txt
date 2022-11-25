@@ -1225,8 +1225,10 @@ Trp Valdemarsvik
  Valdemarsvik C, S Finnö
  Nordic Brass
 
+Etapp : Valdemarsvik - Ringarum ()
+
 T-korsning (enskild väg)
- Mossebo (ej skyltad sydgående)
+ Mossebo (ej förskyltad)
 
 (Korsning Mossebo Gårdsbutik)
  Enskild väg
@@ -1257,6 +1259,8 @@ Korsning Ringarum E22
  Infoplats, Nordic Brass
  Bensinstation: OKQ8
  Restaurang: RASTA
+
+Etapp : Ringarum - Söderköping ()
 
 T-korsning Takmossen
 (endast sydgående riktning)
