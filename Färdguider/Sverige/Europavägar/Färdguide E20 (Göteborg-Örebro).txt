@@ -194,16 +194,21 @@ Trafikplats Vara
 
 Etapp 15: Vara - Åsen (3,8 km/4,3 km)
 					1.7 km/1.8 km	1 min 8 s/1 min 12 s
-Korsning Önum Syd
- Önum
+T-korsning (lokal infart)
+(ej skyltad, spansk sv?ng ?stg?ende)
+
+(Dubbel) T-korsning ?num E20
+ Emtunga
+ (ej skyltad lokal v?g)
 					0.5 km/0.6 km	20 s/24 s
-T-korsning Önum Ek
+Korsning (lokal v?g, ej skyltad)
+(spansk sv?ng ?stg?ende)
 					0.6 km/0.5 km	24 s/20 s
-T-korsning Önum Nord
- Önum
+Korsning Ekaberg (lokal v?g, ej skyltad)
+(spanska sv?ngar b?gge riktningar)
 					1.0 km/1.4 km	40 s/56 s
-Trafikplats Åsen
- 47 ö: Jönköping
+Trafikplats ?Åsen
+ 47 ö: J?nk?ping
  47 v: Trollhättan
 
 Etapp 16: Åsen - Jung (9,2 km/9,0 km)
