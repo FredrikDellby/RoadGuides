@@ -14,7 +14,7 @@ Korsning Lilla Mon (lokal väg)
  Pendelparkering
 (Uppställningsplats)
 					2,4 km/2,4 km
-Järnvägskorsning
+(Järnvägskorsning)
  Övergivet spår
 					2,0 km/2,0 km
 T-korsning Västra Sund
@@ -44,7 +44,7 @@ Korsning Bergsäng (lokal väg)
  Bergsäng
  Gyttorps Gärde
 					0,8 km/0,8 km
-(Gyttorpsån)
+(Bro över Gyttorpsån)
 T-korsning Gyttorp Ö/Krutbruket
  243: Karlskoga, Centrum
  Östra Industriomr

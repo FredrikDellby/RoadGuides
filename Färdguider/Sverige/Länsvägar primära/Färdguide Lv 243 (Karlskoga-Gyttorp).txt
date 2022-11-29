@@ -3,30 +3,33 @@ Etapp 4: Genom Östra Karlskoga (3,0 km/3,0 km)
 T-korsning E18/Österleden
  E18 ö: Stockholm, Örebro
  E18 v: Oslo, Kristinehamn
-Korsning Österledskyrkan
+
+Korsning Österledskyrkan (lokal väg)
  Bensinstation: Preem
  Restaurang: Frasses
 					0,4 km/0,3 km
 T-korsning Lv 243/Solhagsvägen
- Sandviken C
+ Sandviken C, Lokal väg
 					0,2 km/0,2 km
 T-korsning Brickegårdens vårdcentral
- Vårdcentral
+ Vårdcentral, Lokal väg
 					0,3 km/0,4 km
 Dubbel T-korsning Stackfallet
- Stackfallet, lokala mål
+ Stackfallet, Lokala vägar
 					0,5 km/0,4 km
-T-korsning Lv 243/Sveavägen
+T-korsning Lv 243/Sveavägen (lokal väg)
 					0,2 km/0,2 km
 T-korsning Lv 243/Brickegårdsv.
- Östra kyrkogården
+ Östra kyrkogården, Lokal väg
 					0,3 km/0,3 km
-T-korsning Ö. Kyrkogården
+T-korsning Ö. Kyrkogården (lokal väg)
+ Ej skyltad
 					1,0 km/1,0 km
-(T-korsning)
- Idrottsplats
+(T-korsning (lokal väg))
+ Skidstugan Bråten (ej skyltad)
 
 T-korsning Lv 243/Stolpetorpsv.
+ Lokal väg, ej skyltad
 					0,2 km/0,3 km
 Järnvägskorsning
  Nora-Bergslags järnväg
@@ -39,8 +42,8 @@ T-korsning Lerängen
 Järnvägskorsning
  Nora-Bergslags järnväg
 					1,7 km/
-Infoplats: (59.3749801,14.5931754)
-(bäst lämpad sydgående)
+Infopunkt: (59.3749801,14.5931754)
+(västra sidan, endast skyltad sydgående)
 					2,3 km/
 T-korsning Skråmmen
  Granbergsdal
@@ -85,19 +88,27 @@ Järnvägskorsning
 Etapp 6: Vikersvik - Gyttorp ()
 
 Korsning Råskogsvägen (enskild väg)
- Skrikarhyttans hyttruin
+ Skrikarhyttans hyttruin (sevärdhet)
+ Råskog
 
-Korsning Vikers kyrka
- Dalkarlsberg
+Dubbel T-korsning Vikers kyrka
+ Dalkarlsberg, Galleri
  Vikers kyrka, Infoplats
+
+Korsning (enskild väg)
+ Bergtäkt
 
 Järnvägskorsning
  Nora-Bergslags järnväg
 
-T-korsning Gyttorp C
-(Bro över Hagbyån)
+(Idrottsplats)
 
-T-korsning Nobelparken
+T-korsning Gyttorp C (lokal väg)
+ Centrum (förskyltad men ej vid T-korsning?)
+					(/
+(Bro över Hagbyån
+
+T-korsning Nobelparken (lokal väg)
  Orica Europahuset, Bangolf
 Korsning Gyttorp Ö
  244 s: Örebro, Nora
