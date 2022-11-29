@@ -1,6 +1,8 @@
 Färdguide Lv 204 (Bjurvik - Vintrosa)
 ======================================
 
+Etapp 1: Bjurvik - Mokorset ()
+
 T-korsning Bjurvik (Smedudden)
  26 s: Mariestad, Gullspång
  26 n: Filipstad, Kristinehamn
@@ -44,6 +46,8 @@ Korsning Mokorset
  243: Karlskoga, Degerfors
  Kristinehamn, Skottlanda
 
+Etapp 2: Mokorset - Svartå ()
+
 Korsning Åtorp centrum
 (Bro över Letälven)
 
@@ -61,18 +65,26 @@ Allson Kyl & Fryslager
 Korsning Svartå Folkets Hus
  Svartå Skola, Lokal väg
 
+(Bro över Svartån)
 Bensinstation: Q-star
 T-korsning Svartå
  205 n: Karlskoga, Degerfors
+T-korsning Lv 205/Industrivägen
+ Industri: Svartå (lokal väg)
 
 Bro över Svartån
 
-T-korsning Lv 205/Idrottsvägen
+T-korsning Lv 205/Industrivägen
  Hyttvallen, Lokal väg
 
-Dubbel T-korsning Svartå Herrgård
+(Mittseparering)
+
+Svartå Herrgård
+
+T-korsning Svartå Herrgård
  204 ö: Örebro, Fjugesta
- Svartå Herrgård (lokal väg)
+
+Etapp 3: Svartå - Mullhyttan ()
 
 Degerfors / Lekeberg: (59.1188334,14.5821072)
 
@@ -92,19 +104,27 @@ Korsning Bäcklunda
 T-korsning Bäcketorp
  Bäckatorp
 
-Infoplats (främst östgående)
-T-korsning Lv 205/Sågvägen
- Hembygdsgård/Pub (lokal väg)
+Infoplats (södra sidan)
+(endast skyltad östgående)
+T-korsning Lv 205/Sågvägen (lokal väg)
+ Puben på Sågbacken (ej skyltad?)
 
 T-korsning Lv 205/Ålundavägen
+ Lokal väg, ej skyltad
  Bensinstation: Green Petroleum
+
 Korsning Mullhyttan Kvarnen
  Hembygdsgård, Kvarn, Lokal väg
 
+(Kulturtorget)
 T-korsning Lv 205/Tryggebodav.
  Enskild väg
+(Mullhyttans Pizzeria)
+
 T-korsning Lv 205/Stationsvägen
  All
+
+Etapp 4: Mullhyttan - Fjugesta ()
 
 Dubbel T-korsning Mullhyttans kyrka
  Parkeringsplats
@@ -145,6 +165,8 @@ Dubbel T-korsning Fjugesta V
  Västanbytorp, Västanby (enskild väg)
  Westmans stenhuggeri, Leksaksmuseum
 
+Etapp 5: Fjugesta - Vintrosa ()
+
 Korsning Lv 204/Bergsgatan
  Industri: Berga (lokal väg)
  Sparbanksbörsen
@@ -170,9 +192,8 @@ Korsning Haga Hidingebro
  Hidinge Gamla K:a, Hidingegård (enskild väg)
  Lanna
 
-(Korsning)
- Vombo, Enskild väg
- Lanna Potatis
+(Korsning (enskild väg))
+ Vombo, Lanna Potatis
 
 (Lekeberg / Örebro)
 
@@ -183,7 +204,7 @@ Rondell Via/Lanna
  Karlskoga, Lekhyttan
 
 Trp Vintrosa-syd
- E28 ö: Stockholm, Örebro
+ E18 ö: Stockholm, Örebro
 
 Trp Vintrosa-nord
  E18 v: Oslo, Karlskoga
