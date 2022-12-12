@@ -1,6 +1,8 @@
 Färdguide Fv 30 (Tynset - Støren)
 =================================
 
+Etapp 1: Motrøkrysset - Østby ()
+
 Korsning Motrøkrysset: (62.2888553, 10.7383360)
  3 s: Elverum, Alvdal
  3 n: Trondheim
@@ -16,6 +18,8 @@ T-korsning (ikke skiltet)
 Rondell Østby
  30 s: Rendalen
  Tynset sentrum, Sykehus
+
+Etapp 2: Østby - Tolga ()
 
 Korsning Nerenget (ikke skiltet)
  Fv2248: Utgardsgården
@@ -55,6 +59,8 @@ T-korsning Malmplassen
  26: (Trysil), Drevsjø
  Sætersegga
  Sætersgård, Dølmotunet
+
+Etapp : Tolga - Os ()
 
 T-korsning Tolga gamle skole
  Fv2258: Vingelen, Tolga kirke
@@ -100,6 +106,8 @@ T-korsning Os gamle skole
  Fv2266: Dalsbygda, Os kirke
  Vangli hytter, Kølbua Kafè
 
+Etapp : Gjennom Os ()
+
 T-korsning Os bru
  Fv2268: Øvre Dalsbygda, Os kirke
 
@@ -129,6 +137,8 @@ T-korsning
 
 Rondell Nørakrysset
  28: Mora, Drevsjø
+
+Etapp : Os - Røros ()
 
 Bru over Nøra
 
@@ -165,7 +175,7 @@ Bensinstasjon: Circle-K
 (Coop Extra)
 
 T-korsning Gjøsvika
- Synnervika, Femunden
+ Fv6526: Synnervika, Femunden
 (Gjøsvika bru)
  Håelva, 38 m
 T-korsning Gjøsvika bru
@@ -182,6 +192,79 @@ Rondell
  [705]: Stjørdal
  Hotel: Hotel Røros
 
+Etapp : Gjennom Røros ()
+
 Hitterelvabrua
  Hitterelva, 20 m
 
+Hotel: Bergstadens Hotel
+
+Korsning Fv 30/Kjerkgata
+ Hotel: Erzscheidergården, Vertshuset Røros
+ Hotel: Rørosvidda
+
+Korsning Fv 30/Hans Aasengata
+ St. Olavs hospital
+ Parkering Røros stasjon
+
+T-korsning Røros stasjon
+
+(Sparebank 1)
+
+Bensinstasjon: Esso
+
+T-korsning Fv 30/Sundveien
+ Fv6524: Sundet
+ Industri: Stormoen
+ Røros Lufthavn
+ Vgs/Verket, Øra stadion, Parkering
+
+(T-korsning)
+ Doktortjønna friluftspark
+
+(Kundesenter Relacom AS)
+
+T-korsning Fv 30/31
+ 31: Brekken
+ Hotel: Hotel Røros
+
+Etapp : Røros - Glåmos ()
+
+T-korsning Bersvendåsen
+ Golfbane, Fotballgolf
+
+Parkeringsplass (vestre side)
+(ikke skiltet)
+
+Parkeringsplass (grus, vestre side): (62.6097367,11.368001)
+(direkte intill veien, ikke skiltet)
+
+(T-korsning Orvos)
+ Elveplassen (ikke skiltet)
+
+T-korsning Ol-Jensabakken
+(kun skiltet nordgående)
+ Fv6536: Glåmos
+
+(Nyplass søndre bru (62 m): (62.6336898,11.3907954)
+ Glåma og Rørosbanen
+Nyplass nordre bru (67 m): (62.6345108,11.3911518)
+ Glåma
+
+T-korsning Fv 30/Rørosgårdveien
+ Fv6528: Sundet, Nordgruvfeltet
+
+(Gjennvinningsstasjon): (62.6640614,11.4108976)
+(østre side)
+
+T-korsning Kroken vegkryss
+ Fv6532: Glåmos, Glåmos kirke
+ [31]: Brekken
+
+(Gamle Bergan bru Parkeringsplass)
+(grus, østre side)
+
+Jernbanekryss
+ Rørosbanen
+(Parkeringsplass (østre side))
+(direkte intill veien, ikke skiltet)
