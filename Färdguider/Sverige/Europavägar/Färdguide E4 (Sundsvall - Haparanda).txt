@@ -626,3 +626,20 @@ Dubbel T-korsning Idbyn
  Bergtäkt (enskild väg)
  Skeppsmalen, Fiskeläge
 
+T-korsning Hjälta (sydgående)
+ Smedsbyn
+
+Korsning Tävra (enskild väg)
+ Tävra, Vändplats
+
+T-korsning Banafjäl E4
+ Banafjäl, Bruksgodset (Café)
+ Keramik, Vändplats
+
+Korsning Mosjön
+ Flärke, Rastplats Mosjön-öst
+ Mosjöns Camping & Stugby, Badplats
+ Lilla Mosjön (enskild väg)
+
+Rastplats Mosjön-väst (sydgående)
+ Infoplats (Världsarvet)
