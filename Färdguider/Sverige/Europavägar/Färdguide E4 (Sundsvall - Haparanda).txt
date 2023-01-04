@@ -643,3 +643,82 @@ Korsning Mosjön
 
 Rastplats Mosjön-väst (sydgående)
  Infoplats (Världsarvet)
+
+Korsning (enskild väg)
+ Vändplats
+
+Korsning Kasa (enskild väg)
+ Kasa Ö
+ Kasa V, Vändplats
+
+(Infart (ej skyltad))
+Korsning Kasa Grundbergs garage (enskild väg)
+ Grundbergs garage (ej skyltad)
+
+(Över Järnvägskulvert)
+ Botniabanan
+
+T-korsning (enskild väg)
+ Vändplats
+
+Korsning Gideåbacka E4
+ Banafjäl
+ Kasamark (enskild väg)
+					(/
+(Bro över Gideälven
+
+Korsning E4/Bruksvägen
+ Dombäck, Vändplats
+
+Trp Olstorp (256)
+ Husum
+ Björna, Industri: Husum
+ Örnsköldsviks Flygplats
+ Bensinstation: Q-star, (Shell)
+
+(Korsning Husums Mekaniska)
+(T-korsning (sydgående))
+ V. Önska, Enskild väg
+					/)
+Bro över Husån
+
+Järnvägsviadukt
+ Botniabanan
+
+T-korsning Grundsunda E4
+ Vallen
+ Grundsunda k:a, Hembygdsgård
+
+Korsning (enskild väg)
+ Vändplats
+
+Korsning Öden E4
+ Västanå
+
+T-korsning (enskild väg)
+ Vändplats
+
+Korsning (enskild väg)
+ Vändplats
+
+(Korsning (enskild väg))
+ EJ skyltad
+
+Dubbel T-korsning Salusand (enskild väg)
+ Vändplats
+ Salusand havsbad Restaurang och Camping
+(Bro över Saluån)
+
+Korsning Saluböle E4
+ Stuag
+ Trehörningsjö, Långviksmon, Flärke
+
+Västernorrland / Västerbotten: (63.4726756,19.2844296)
+Örnsköldsvik / Normaling
+
+Korsning Ava Havsbad (enskild väg)
+ Hemörssundet S
+ Ava Havsbad Camping & Stugby
+
+T-korsning (enskild väg)
+ Hemörssundet, Lugndalsviken
