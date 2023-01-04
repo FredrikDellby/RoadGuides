@@ -3,51 +3,84 @@ Färdguide E18 (Stockholm - Kapellskär)
 
 Etapp 20: Järva Krog - Rosenkälla (18,6 km/18,5 km)
 
-Trp Järva Krog (169)
- E4 s: Stockholm C
- E4 n: Sundsvall, Uppsala
+Trp Järva Krog (169))
+ E4 s: Stockholm C, [E20]
+ Frösunda
+ Frösundavik
+
+Trp Järva Krog-väst)
+ Sörentorp
+ Arenastaden
+ E4 s: Stockholm, Solna C, Karolinska
+ Bensinstation: Circle-K
+ Hotell: Scandic Järva Krog, Järva Park
+
+Trp Järva Krog-öst
+ E4 n: Sundsvall, Arlanda
  E18 v: Oslo
- Sundbyberg
- Bensinstation: Statoil (b)
 					1,3 km/0,8 km	1 min 7 s/0 min 41 s
 Trp Kungshamra (175)
- Bensinstation: OKQ8 (b)
+ Bergshamra, Ulriksdals slott
+ Bensinstation: OKQ8
 					0,6 km/0,8 km	 31 s/41 s
 T-korsning
-Trp Bergshamra (176)
- Stockholm C
- Lidingö
+ Bergshamra C, Stocksundstorp
+
+(Trp Bergshamra (176)
+ [E20]: Stockholm C, [E4 s]
+ Färjor, Lidingö
 					0,8 km/0,2 km	32 s/8 s
-(Stockholm / Danderyd)
-Trp Inverness (177)
+Stockholm / Danderyd
+Trp Inverness (177))
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Stocksund
+ Inverness
 					0,7 km/1,3 km	28 s/52 s
 Trp Danderyds sjukhus (178)
+ Stocksund, Djursholm
+ Danderyds sjukhus
 					1,0 km/1,0 km	40 s/40 s
 Trafikplats Mörby (179)
+ Mörby C
 					1,2 km/1,0 km	48 s/40 s
 Trp Danderyds kyrka (180)
- 262:
- Bensinstation: OKQ8 (b), Statoil
+ Djursholm
+ 262: Sollentuna, Enebyberg
+ Bensinstation: OKQ8, INGO
+ Restaurang: Östergårds mat, fest & möten
 					2,4 km/1,9 km	1 min 26 s/1 min 8 s
 Danderyd / Täby
 					0,5 km/0,4 km	18 s/14 s
 Trafikplats Lahäll (181)
 (avfart nordgående riktning
 påfart sydgående riktning)
+ Lahäll
 					0,8 km/1,3 km	29 s/47 s
 Trp Roslags-Näsby (182)
- Bensinsation: Shell (b), St1
+ Näsbypark
+ Täby C, Roslags-Näsby
+ Bensinsation: Shell, OKQ8, Preem
+ Restaurang: MAX
+ Hotell: Scandic Täby
 					1,9 km/1,9 km	1 min 8 s/1 min 8 s
 Trp Viggbyholm (183)
+ Viggbyholm
+ Täby Kyrkby, Täby C
  Bensinstation: St1
 					1,4 km/1,1 km	50 s/40 s
 Trafikplats Hägernäs (184)
+ Hägernäs
  Bensinstation: Preem
- Restaurang: McDonald's
+ Restaurang: McDonald's, Ernesto
 					1,3 km/1,6 km	47 s/58 s
 Trafikplats Arninge (185)
- 264:
- 274:
+ 274: Vaxholm
+ 264: Vallentuna
+ Arninge S, Centrum
+ Arninge station, Bussterminal
+ Bensinsation: Circle-K
+ Restaurang: MAX
 					1,1 km/0,5 km	40 s/18 s
 Täby / Åkersberga
 					0,4 km/1,0 km	14 s/36 s
