@@ -721,4 +721,49 @@ Korsning Ava Havsbad (enskild väg)
  Ava Havsbad Camping & Stugby
 
 T-korsning (enskild väg)
+(endast förskyltad sydgående)
  Hemörssundet, Lugndalsviken
+
+(Över Järnvägstunnel)
+ Botniabanan
+
+T-korsning Ava E4 södra
+ Ava, Vändplats
+
+Korsning (enskild väg)
+ Ej skyltad
+
+Dubbel T-korsning (enskild väg)
+ Ava, Vändplats
+ Tennstrand, Vändplats
+
+Trp Lögdeå S
+ Långron, Rönnholm
+ Lögdeå, Antikt
+
+Trp Lögdeå N
+ Rundvik
+ Lögdeå
+
+Trafikkontrollplats Lögdeälven
+(nordgående riktning)
+Rastplats Lögdeälven (sydgående)
+					/)
+Bro över Lögdeälven)
+
+T-korsning (sydgående)
+ Norrfors, Ålidberget skidanläggning
+					/)
+Bro över Leduån)
+
+Rastplats Rödviken (nordgående)
+
+Trp Rödviken
+ Nordmaling S
+ Rödviken Nordmalings Camping
+ Olofsfors, Olofsfors bruk (sevärdhet)
+ 353: Bjurholm, Norrfors
+ Restaurang: Lenas Vägkrog
+
+Trp Kungsvägen
+
