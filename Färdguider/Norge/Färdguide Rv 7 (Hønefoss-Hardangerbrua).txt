@@ -219,7 +219,7 @@ T-korsning Kolsrud
 
 Flå / Nesbyen
 
-Rasteplass Bergheim
+Rasteplass Bergheim (nordre side)
 T-korsning Bergheim
  Bergheim
 (Bru over foss)
@@ -237,11 +237,14 @@ Korsning Bromma
  Restaurang: Nor Kro
 T-korsning Norsenteret
 
-Rasteplass Bromma (nordre side)
+Rasteplass Bromma
+(nordre side, ikke skiltet)
 
 Parkeringsplass (nordre side)
 
-T-korsning
+(Bru over Sandåne (ikke skiltet))
+
+T-korsning Sanden
  Fekjan Hytte/Camping
 
 T-korsning Liodden
@@ -249,15 +252,16 @@ T-korsning Liodden
  Liodden Camping
 
 Rasteplass Breia: (60.5320333,9.1558058)
+(vestre side, ikke skiltet)
 
 T-korsning Moane vest
  Nesbyen, Camping
  Nesbyen Auto AS
 
-Rasteplass Moan: (60.5621154, 9.1217892)
+Parkeringsplass Moan: (60.5621154, 9.1217892)
+(østre side, direkte intill veien)
 
-Rasteplass Nesbyen
-(vestgående retning)
+Rasteplass Nesbyen (vestgående)
 
 T-korsning Nesbyen Rv 7
  Fv2910: [40], Rødberg, Nesbyen
@@ -268,7 +272,7 @@ T-korsning Nesbyen Rv 7
  Restaurant: Nesbyen Kro
 (Noenting)
 
-Bru over ..
+Bru over Hallingdalselva-bielv (ikke skiltet)
 
 T-korsning Sutøya
  Camping/Café: Sjong
@@ -280,7 +284,8 @@ T-korsning Sutøya
 T-korsning Smedsgården
  Hotell/Restaurant: Smedsgården
 
-(Parkeringsplass)
+(Parkeringsplass/Infopunkt)
+(vestre side, ikke skiltet)
 T-korsning Garnås
  Garnås, Meteorittkrater
 
@@ -289,12 +294,14 @@ Møteskilt vei begynner/ender
 Møteskilt vei ender/begynner
 
 Rasteplass Hallibakken: (60.6392407, 9.0567764)
+(østre side, ikke skiltet)
 
-(Svenkerud jernbanebru)
+Svenkerud jernbanebru
  Bergensbanen
-Svenkerud veibru (42 m)
+
+(Svenkerud veibru (42 m))
  Hallingdalselva
-Nesbyen / Gol
+(Nesbyen / Gol)
 T-korsning Rv 7/Rudvegen
  Fv2908: Nesbyen øst
 
@@ -313,20 +320,22 @@ Korsning Gol Camping
  Gol Campingsenter
  Restaurang: Hoftun Kro
 
-(Korsning Haga bru)
+(Korsning Haga bru (liten skilt))
  Gol avløpsrenseanlegg
-(Haga bru)
+(Haga bru (ikke skiltet))
 
 (Gol Bilhallar)
 
 Servicested Gol øst
  Bensinstasjon: Shell
- Restaurant:
-Rasteplass Gol øst
+ Restaurant: Gol Bistro
 
-(Hemsil bru (29 m)
+Rasteplass Gol øst (søndre side)
+ Bensinstasjon: Shell
+
+(Hemsil bru (29 m))
+(ikke skiltet)
  kraftverksavløp
-					(/
 (Infoplass)
 (vestgående retning)
 T-korsning
@@ -335,14 +344,14 @@ T-korsning
  LPG stasjon
 
 Viko bru (35,5 m)
- Hemsil øst
+ Hemsil øst (ikke skiltet)
 
 Rondell Gordarike Rv 7
  Gol sentrum
  Gol Trafikkstasjon
 
 Slettemoen bru (33,5 m)
- Hemsil vest
+ Hemsil vest (ikke skiltet)
 
 Rondell Gol Næringspark
  [51]: Fagernes, Golsfjellet
