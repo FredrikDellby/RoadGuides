@@ -1,67 +1,94 @@
-Etapp 1: Heby - Österrunda (16,6 km/16,4 km)
+Etapp 1: Heby - ï¿½sterrunda (16,6 km/16,4 km)
 
-T-korsning Heby V
- 56 s: Västerås, Sala
- 56 n: Gävle
+Rondell Heby SV
+ 56 s/72 v: VÃ¤sterÃ¥s, Sala
+ 56 n: GÃ¤vle
 					1.6 km/1.6 km	1 min 36 s/1 min 36 s
 Korsning Heby S
- Centrum
+ VarmsÃ¤tra
+ VÃ¤sterlÃ¶vsta k:a (sevÃ¤rdhet)
 					0.7 km/0.7 km	42 s/42 s
-Korsning Heby SÖ
- Centrum, Östervåla
- Fjärdhundra
-Bensinstation: OKQ8, Statoil
+Korsning Heby VÃ¤rdshuset
+ Centrum, Huddunge
+ 254: EnkÃ¶ping, FjÃ¤rdhundra
+ Tegelbruksmuseum
+ Bensinstation: OKQ8, INGO
+ Restaurang: Heby WÃ¤rdshus
 					4.2 km/4.2 km	3 min 36 s/3 min 36 s
+(T-korsning (enskild vÃ¤g))
+ HÃ¤rvsta
+(Besikta Bilprovning)
+
+Bensinstation: Gulf
+
 T-korsning Snesholm
- Vansjö, Molnebo
+ Julmyra, Molnebo
+ Centrum (tung trafik), Ã„lgpark
 					0.7 km/0.7 km	36 s/36 s
-T-korsning Morgongåva V
- Vittinge K:a
-Bensinstation: OKQ8
+T-korsning HÃ¥rsbÃ¤ck vÃ¤gskÃ¤l
+ HÃ¥rsbÃ¤ck, Badplats
+Restaurang: My KÃ¶k O Bar
 					0.4 km/0.4 km	29 s/29 s
-Korsning Morgongåva S
-Bensinstation: Preem
+(Candy Store CafÃ© och godis)
+
+Korsning MorgongÃ¥va station (lokal vÃ¤g)
+ MorgongÃ¥va stn, GravfÃ¤lt (sevÃ¤rdhet)
+ Restaurang: GÃ¥vans Pizzeria, Nya Istanbul Kolgrill
 					2.8 km/2.8 km	2 min 24 s/2 min 24 s
-Korsning Grimle vägskäl
- Vittinge K:a
+(T-korsning (enskild vÃ¤g))
+ Spansk svÃ¤ng, ej skyltad
+
+Korsning Grimle vÃ¤gskÃ¤l
+ Vittinge k:a
 					0.5 km/0.3 km	26 s/15 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gsviadukt
  Dalabanan
 					3.6 km/3.6 km	3 min 5 s/3 min 5 s
-T-korsning Vittinge
- Vittinge K:a
-					1.9 km/1.9 km	1 min 38 s/1 min 38 s
-T-korsning Österrunda vsk
- Enköping
+(T-korsning (enskild vÃ¤g))
+ Spansk svÃ¤ng, ej skyltad
 
-Etapp 2: Österrunda - Uppsala (26,6 km/26,8 km)
+(T-korsning Ingesbo)
+ Ingesbo, Enskild vÃ¤g
+
+(T-korsning (lokal vÃ¤g))
+ Vittinge, Ej skyltad
+
+(Dubbel) T-korsning Vittinge
+ Vittinge, Ej skyltad
+ HÃ¥rsbÃ¤ck, Vittinge k:a, Tegelbruk
+ Restaurang: Pizzeria Vittinge/Kiosk
+					1.9 km/1.9 km	1 min 38 s/1 min 38 s
+T-korsning ï¿½sterrunda vsk
+ Enkï¿½ping
+
+Etapp 2: ï¿½sterrunda - Uppsala (26,6 km/26,8 km)
 					0.8 km/0.8 km	36 s/36 s
-Korsning Björnlund
- Järlåsa K:a
+Korsning Bjï¿½rnlund
+ Jï¿½rlï¿½sa K:a
 					1.0 km/1.0 km	45 s/45 s
 Heby / Uppsala
 					4.2 km/4.2 km	3 min 36 s/3 min 36 s
-Korsning Järlåsa
- Örsundsbro
- Järlåsa K:a
+Korsning Jï¿½rlï¿½sa
+ ï¿½rsundsbro
+ Jï¿½rlï¿½sa K:a
 					4.1 km/4.1 km	3 min 31 s/3 min 31 s
-T-korsning Klöva vägskäl
- Järlåsa K:a
+T-korsning Klï¿½va vï¿½gskï¿½l
+ Jï¿½rlï¿½sa K:a
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Ålandsdal
+T-korsning ï¿½landsdal
  Skogs-Tibble, Ramstalund
 					4.7 km/4.7 km	3 min 32 s/3 min 32 s
-Järnvägskorsning
+Jï¿½rnvï¿½gskorsning
 					3.4 km/3.5 km	2 min 33 s/2 min 38 s
-T-korsning Vänge
+T-korsning Vï¿½nge
  Jumkil
  Hagby
 					5.1 km/5.1 km	3 min 50 s/3 min 50 s
-T-korsning Läby V
+T-korsning Lï¿½by V
  Ramstalund
 					0.8 km/0.8 km	36 s/36 s
-T-korsning Läby Ö
+T-korsning Lï¿½by ï¿½
 					1.2 km/1.3 km	54 s/59 s
 Korsning Kvarnbolund
- 55 s: Norrköping, Enköping
+ 55 s: Norrkï¿½ping, Enkï¿½ping
  55 n: Uppsala Centrum

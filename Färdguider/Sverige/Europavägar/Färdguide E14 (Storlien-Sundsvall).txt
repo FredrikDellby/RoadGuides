@@ -43,7 +43,7 @@ Korsning Enafors V
  Enaforsholm fjällgård (vandring, fiske)
  Enafors, Enafors stn
 
-Korsning Enafors ö
+Korsning Enafors Ö
  Storulvån (hotel/restaurang)
  Handölsforsarna (sevärdhet)
  Handöl, Helikopterstation
@@ -60,8 +60,6 @@ T-korsning (enskild väg)
  Klocka, Klocka Gård, Kanotcentral
 
 Camp Ånn
-(T-korsning Camp Ånn)
- Enskild väg
 
 Ånn station (södra sidan)
 Infopunkt (södra sidan)
@@ -87,13 +85,13 @@ Korsning Staa vägskäl
  322: Sandvika, Skalstugan
  Tännforsen (sevärdhet), Åre Golfklubb (Café)
 (Bensinstation: Alltank)
-T-korsning (lokal väg)
+T-korsning Staa (lokal väg)
  Återvinningscentral Staa
 
 Etapp 3: Staa - Åre ()
 
 Staabron
- Indalsälven?
+ Indalsälven
 
 T-korsning Staabron
  Häggsjön, Nordhallen
@@ -124,7 +122,7 @@ T-korsning Tegefjäll E14
 T-korsning (lokal väg)
  Årekläppen
 
-Bro över Ullån: (63.4041655,13.0228101)
+Bro över Ullån (ej skyltad): (63.4041655,13.0228101)
 
 Korsning Åre Bräcke
  Ullådalen, Bustamon, Rödkullen
@@ -308,7 +306,7 @@ Korsning Mörsil Ö
  Centrum, Konditori
  Alsen, Wången
 
-Bro över Semlan
+Bro över Semlan (ej skylad)
 
 T-korsning 
  Semlan
@@ -316,6 +314,7 @@ T-korsning
 Dubbel T-korsning Mattmar V
  Ocke, Mattmar
  Café: Agdas Café
+ Alsen, Högåsen
 					/)
 Järnvägsviadukt)
  Mittbanan
@@ -324,3 +323,91 @@ Korsning Mattmar östra
  Mattmar by
  Mällbyn Norra (enskild väg)
 
+(Mattmars prästgård)
+(Mattmars kyrka V)
+
+T-korsning Mattmars kyrka
+ Mattmars k:a, S:ta Annagården kurs- och lägergård
+ Hembygdsgård (sevärdhet)
+
+Rastplats Mattmar
+
+T-korsning 
+ [E45 s]: Mora
+ 321: Svenstavik, Hallen
+ Nord-Lock
+
+Korsning Kluk Offne vsk E14
+ Offne, Tossberg
+
+Åre / Krokom: (63.332283,13.9745506)
+(Järnvägsviadukt)
+ Mittbanan
+
+T-korsning Trångsviken V
+ Trångsviken
+
+Korsning Trångsviken N
+ Trångsviken, Trangia Butik och Museum
+ Alsen, Rönningsberg
+
+T-korsning Finnsäter
+ Trångsviken
+
+T-korsning Åse kalkmuseum
+ Åse kalkmuseumm Enskild väg
+
+Korsning Åse (enskild väg)
+ Återvinningscentral
+
+Ytterå Grillen
+
+(Bro över Ytterån (ej skyltad)
+					(/
+Ytterån Servicepunkt
+ Bensinstation: Circle-K
+ Restaurang: Restaurang Oriana, Berliner Schnitzelstuga
+
+Dubbel T-korsning Ytterån Rödöns vägskäl
+ Frösön, Rödön, Östersunds Flygplats
+ Sjövik, Mus-Olles museum, Indusrihus (enskild väg)
+
+Korsning
+ Nälden, Vaplan
+
+Järnvägsviadukt
+ Mittbanan
+
+T-korsning Kingsta
+ Alsen, Nälden
+ Wången, Bensinstation
+
+Korsning Näskott
+ Rödön, Tullus
+ Näskott k:a, Hembygdsgård
+
+(T-korsning Trollsåsen E14)
+ Trollsåsen, Enskild väg
+
+Parkeringsplats (norra sidan)
+(grus, ej skyltad)
+
+Korsning Kälen E14
+ Kälen
+
+Rondell Krokomsporten
+ Frösön, Rödön, Östersunds Flygplats
+ 339: Föllinge, Krokom
+ [340]: Valsjöbyn, Änge
+(2+1-väg börjar / upphör)
+
+Parkeringsplats (östgående)
+
+Rastplats Krokom
+
+Bro över Indalsälven
+
+Trp Hägra
+ Rödön, Dvärsätt, Hägra
+ Krokom, Hissmofors
+ Krokom Camping
