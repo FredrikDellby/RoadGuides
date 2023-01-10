@@ -1,0 +1,160 @@
+Färdguide Rv 73 (Nynäshamn - Stockholm)
+========================================
+
+Etapp 1: Nynäshamn - Ösmö ()
+
+Korsning Nynäshamns hamn (lokal väg)
+ Färja: Visby, Destination Gotland
+ Skärgårdsbåtarna, Gotska Sandöns nationalpark (sevärdhet)
+(Korsning Nynäshamns station)
+ Parkeringsplats, Lokal väg
+
+(Restaurang: Café 1)
+Korsning (Café 1)
+ Centrum, Sjukhus
+ Lövhagens Café och Vandrarhem
+
+T-korsning Rv 73/Kaptensgatan (lokal väg)
+ Skärgårdshotellet
+
+(Färjeterminalen avsläpp)
+(nordgående riktning)
+
+T-korsning Kryssningsterminalen (lokal väg)
+ Färja: Gdansk, Långtidsparkering
+ Färjeterminalen, Kryssningsfartyg
+
+T-korsning (lokal väg?)
+ Nynäsham N (ej skyltat)
+
+T-korsning Rv 73/Telivägen (lokal väg)
+ Bostadsområden (ej skyltat)
+
+T-korsning Rv 73/Mysingsvägen (lokal väg)
+ Utfarter från färjor
+ Bensinstation: OKQ8
+
+Korsning Rv 73/Industrivägen
+ Reningsverk, Oljeraffinaderi
+ Nynäsgården
+
+Trafikplats Norvik
+ Norvik
+ Stockholm Norvik hamn
+ Färja: Ventspils
+
+T-korsning (lokal väg)
+ Nickstahöjden
+ Industri: Rappsta, Hammarhagen
+(Järnvägsviadukt)
+ Hamnbana
+
+T-korsning Rv 73/Teknikervägen
+ Industri: Kalvö
+ Våtmark, Bilprovning
+T-korsning (lokal väg)
+(sydgående riktning)
+ Vattenverk
+
+Motorväg börjar / upphör
+
+Trp Älgviken
+ Nynäshamn N
+ Torö, Herrhamra
+
+Trp Lidatorp
+ Lidatorp
+ Industri: Älby
+
+Trafikplats Ösmo
+ Muskö
+ Ösmo
+ 255: Södertälje, Spångbro
+
+Etapp 2: Ösmö - Jordbro ()
+
+Trp Överfors
+ Landfjärden, Jursta
+
+Trp Segersäng
+ Segersäng, Grödby
+
+Bro över våtmark: 59.03855,17.9662458
+
+Nynäshamn / Haninge: (59.0475128,17.9864365)
+
+Trafikplats Gryt
+ Söderby brygga, Landfjärden
+ Tungelsta
+ Almåsa Havshotell, Östnora Camping
+
+Trafikplats Fors
+ Årsta havsbad
+ Västerhaninge, Stav
+ Försvarsmakten Berga
+
+Trp Västerhaninge
+ [227]: Dalarö
+ 257: Tungelsta, Västerhaninge N/C
+
+Trp Jordbro
+ 227: Dalarö
+ 259: Huddinge, Jordbro
+ Handen, Haninge C
+
+Etapp 3: Jordbro - Gubbängen ()
+
+Trafikplats Handen
+ 260 n: Vendelsö, Brandbergen
+ 260 s: Haninge Centrum
+
+Haninge / Huddinge
+
+Trafikplats Länna
+ Huddinge
+ Länna
+
+Trafikplats Skogsås
+
+Trp Trångsund
+ 271 ö: Trångsund
+ 271 v: Älvsjö, Farsta C
+
+Huddinge / Stockholm
+
+Trp Larsboda
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Ågesta
+
+Trafikplats Farsta
+ Farsta Centrum
+
+Trp Gubbängen
+ 229 ö: Tyresö, Skarpnäck
+ 229 v: Sköndal, Hökarängen
+
+Etapp 4: Gubbängen - Globen ()
+
+Trp Tallkrogen
+ Skogskyrkogården
+ Gubbängen, Tallkrogen
+
+Trp Sockenvägen
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Bagarmossen, Kärrtorp
+ Enskede
+
+Trp Sofielundsplan
+ Globen, Enskede
+ 75 ö: [222], Färja (till/från söder)
+ 75 v: [E4, E20, 226] (till/från söder)
+ 
+Etapp 5: Genom centrala Stockholm
+
+Trp Gullmarsplan
+ Hammarby Sjöstad
+ 226: Gullmarsplan
+ Skanstull
+
