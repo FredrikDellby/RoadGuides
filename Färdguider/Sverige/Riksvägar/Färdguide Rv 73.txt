@@ -1,53 +1,92 @@
 Färdguide Rv 73 (Nynäshamn - Stockholm)
 ========================================
 
-Etapp 1: Nynäshamn - Jordbro ()
+Etapp 1: Nynäshamn - Ösmö ()
 
-T-korsning Nynäshamns hamn
- Färja: Visby, Gdansk, Ventspils
-T-korsning 73/Kaptensgatan
+Korsning Nynäshamns hamn (lokal väg)
+ Färja: Visby, Destination Gotland
+ Skärgårdsbåtarna, Gotska Sandöns nationalpark (sevärdhet)
+(Korsning Nynäshamns station)
+ Parkeringsplats, Lokal väg
+
+(Restaurang: Café 1)
+Korsning (Café 1)
+ Centrum, Sjukhus
+ Lövhagens Café och Vandrarhem
+
+T-korsning Rv 73/Kaptensgatan (lokal väg)
  Skärgårdshotellet
 
-Dubbel T-korsning
- Utfart från färjor
- Nynäsham N
+(Färjeterminalen avsläpp)
+(nordgående riktning)
 
-T-korsning 73/Telivägen
+T-korsning Kryssningsterminalen (lokal väg )
+ Färja: Gdansk, Långtidsparkering
+ Färjeterminalen, Kryssningsfartyg
 
-T-korsning 73/Mysingsvägen
+T-korsning (lokal väg?)
+ Nynäsham N (ej skyltat)
 
-Korsning 73/Industrivägen
+T-korsning Rv 73/Telivägen (lokal väg)
+ Bostadsområden (ej skyltat)
+
+T-korsning Rv 73/Mysingsvägen (lokal väg)
+ Utfarter från färjor
+ Bensinstation: OKQ8
+
+Korsning Rv 73/Industrivägen
+ Reningsverk, Oljeraffinaderi
+ Nynäsgården
 
 Trafikplats Norvik
- Norviksudden
+ Norvik
+ Stockholm Norvik hamn
+ Färja: Ventspils
 
-Dubbel T-korsning
- Centrum
+T-korsning (lokal väg)
+ Nickstahöjden
+ Industri: Rappsta, Hammarhagen
+(Järnvägsviadukt)
+ Hamnbana
+
+T-korsning Rv 73/Teknikervägen
+ Industri: Kalvö
+ Våtmark, Bilprovning
+T-korsning (lokal väg)
+(sydgående riktning)
+ Vattenverk
+
+Motorväg börjar / upphör
 
 Trp Älgviken
- Nynäshamn N, C
+ Nynäshamn N
+ Torö, Herrhamra
 
 Trp Lidatorp
- Lidatorp, Björsta
- Älby
+ Lidatorp
+ Industri: Älby
 
 Trafikplats Ösmo
  Muskö
- 255: Södertälje, Ösmo
+ Ösmo
+ 255: Södertälje, Spångbro
+
+Etapp 2: Ösmö - Jordbro ()
 
 Trp Överfors
- Landfjärden
- Ösmo
+ Landfjärden, Jursta
 
 Trp Segersäng
- Landfjärden
- Segersäng
+ Segersäng, Grödby
 
-Nynäshamn / Haninge
+Bro : 59.03855,17.9662458
+
+Nynäshamn / Haninge: (59.0475128,17.9864365)
 
 Trafikplats Gryt
- Söderby brygga
+ Söderby brygga, Landfjärden
  Tungelsta
+ Almåsa Havshotell, Östnora Camping
 
 Trafikplats Fors
  Årsta havsbad
@@ -61,7 +100,7 @@ Trp Jordbro
  257: Dalarö
  259: Huddinge, Handen
 
-Etapp 2: Jordbro - Gubbängen ()
+Etapp 3: Jordbro - Gubbängen ()
 
 Trafikplats Handen
  260 n: Vendelsö, Brandbergen
@@ -92,7 +131,7 @@ Trp Gubbängen
  229 ö: Tyresö, Skarpnäck
  229 v: Sköndal, Hökarängen
 
-Etapp 3: Gubbängen - Globen ()
+Etapp 4: Gubbängen - Globen ()
 
 Trp Tallkrogen
  Skogskyrkogården
