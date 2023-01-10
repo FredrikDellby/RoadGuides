@@ -20,7 +20,7 @@ T-korsning Rv 73/Kaptensgatan (lokal väg)
 (Färjeterminalen avsläpp)
 (nordgående riktning)
 
-T-korsning Kryssningsterminalen (lokal väg )
+T-korsning Kryssningsterminalen (lokal väg)
  Färja: Gdansk, Långtidsparkering
  Färjeterminalen, Kryssningsfartyg
 
@@ -79,7 +79,7 @@ Trp Överfors
 Trp Segersäng
  Segersäng, Grödby
 
-Bro : 59.03855,17.9662458
+Bro över våtmark: 59.03855,17.9662458
 
 Nynäshamn / Haninge: (59.0475128,17.9864365)
 
@@ -90,15 +90,17 @@ Trafikplats Gryt
 
 Trafikplats Fors
  Årsta havsbad
- Västerhaninge
+ Västerhaninge, Stav
+ Försvarsmakten Berga
 
 Trp Västerhaninge
- Dalarö
- 257: Tungelsta, Västerhaninge
+ [227]: Dalarö
+ 257: Tungelsta, Västerhaninge N/C
 
 Trp Jordbro
- 257: Dalarö
- 259: Huddinge, Handen
+ 227: Dalarö
+ 259: Huddinge, Jordbro
+ Handen, Haninge C
 
 Etapp 3: Jordbro - Gubbängen ()
 
@@ -117,6 +119,7 @@ Trafikplats Skogsås
 Trp Trångsund
  271 ö: Trångsund
  271 v: Älvsjö, Farsta C
+
 Huddinge / Stockholm
 
 Trp Larsboda
@@ -148,7 +151,7 @@ Trp Sofielundsplan
  75 ö: [222], Färja (till/från söder)
  75 v: [E4, E20, 226] (till/från söder)
  
- Etapp 4: Globen
+Etapp 5: Genom centrala Stockholm
 
 Trp Gullmarsplan
  Hammarby Sjöstad
