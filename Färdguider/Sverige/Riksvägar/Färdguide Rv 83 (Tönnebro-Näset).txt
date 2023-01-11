@@ -1,6 +1,8 @@
 Färdguide Rv 83 (Tönnebro - Näset)
 ===================================
 
+Etapp 1: Tönnebro - Lilltjära ()
+
 Trp Tönnebro (203)
  E4 n: Sundsvall, Söderhamn
  E4 s: Stockholm, Gävle
@@ -15,12 +17,12 @@ T-korsning (enskild väg)
  Ingen skyltning, Milsten
 
 Parkeringsplats
-(främst för nordgående)
+(östra sidan, främst för nordgående)
 
 (T-korsning Rv 83/G:a Gävlevägen)
- Gårdsbutik
+ Gårdsbutik, Lokal väg, Ej skyltad
 
-T-korsning Stråtjära Ö
+T-korsning Stråtjära Ö (lokal väg)
  Stall Stråtjära (B&B)
 Bensinstation: Preem
 Korsning Stråtjära Preem
@@ -57,7 +59,7 @@ Dubbel T-korsning (ej skyltade)
 Rastplats Norrlandsporten
 
 (T-korsning Gusbo Rv 83): (61.214734,16.6520762)
- Gusbo (enskild väg)
+ Gusbo (enskild väg, belyst)
 
 (T-korsning Lilltjära Ö)
 (ingen skyltning, enskild väg)
@@ -69,10 +71,12 @@ Korsning Lilltjära Rv 83
 (Järnvägsbro)
  Norra Stambanan
 
+Etapp 2: Lilltjära - Norrbyn ()
+
 (T-korsning Sibo Persbacka)
  Linskäkt (lokal väg)
 
-T-korsning Sibo Rv 83
+T-korsning Sibo Rv 83 (lokal väg?)
  Marenordic, Skogens kol
 
 T-korsning Rv 83/Belsevägen
@@ -81,27 +85,35 @@ Restaurang/Café: Nya Sibogrillen
 
 T-korsning (lokal väg)
  Björkprodukter, Ståhls plåt
-Parkering/Infoplats
+Parkering/Infopunkt
 (bäst lämpad nordgående)
 
-Bro över Kilån
+Bro över Kilån (ej skyltad)
 
 T-korsning Rv 83/Polgatan
+ Kilafors Herrgård, Reningsverk
 
 Rondell Rv 83/Stationsgatan
+ Kilafors station
+ Hällbo, Garntjänst
 
 Dubbel T-korsning Hällagården
- Gamla vägen
- Hanebo kyrka, Kilafors Industri
+ Gamla vägen (lokal väg, dåligt skyltat)
+ Hanebo kyrka, Industri: Kilafors
 
 (Korsning Rv 83/Kyrkbybacken)
- Enskild väg, B&B
+ Enskild väg, (B&B)
 
 Järnvägsviadukt
  Norra Stambanan
 
 T-korsning Norrbyn
+ Segersta
 Korsning Norrbyn (enskild väg)
+ Norrfly, Larssons snickeri
+ Norrfly Herrgård, Golfbana
+
+Etapp 3: Norrbyn - Bollnäs ()
 
 (T-korsning (lokal väg))
  Karosseri
@@ -109,8 +121,8 @@ Korsning Norrbyn (enskild väg)
 T-korsning Hårga Rv 83 (enskild väg)
  Hembygdsgård, Hårga
 
-(T-korsning)
- Granboby, enskild väg
+(T-korsning (enskild väg))
+ Granboby
 
 Korsning Granbo
  Granbo by (enskild väg)
@@ -141,7 +153,8 @@ Korsning Lenninge
 T-korsning Bollnäs Vik
  Annefors
 
-(Infoplats (nordgående)): (61.3296373,16.4122211)
+Infopunkt (nordgående): (61.3296373,16.4122211)
+
 Korsning Häggesta Södra (lokal väg)
  Reningsverk
  Industri: Häggesta
@@ -157,10 +170,10 @@ T-korsning Bollnäs folkhögsskola (lokal väg)
 T-korsning Rv 83/Järnvägsg. (lokal väg)
  Centrum, Järnvägsstn
  Turistbyrå, Parkering
+ Restaurang: McDonald's
 T-korsning Rv 83/Nygatan (lokal väg)
  Rastställe Scandic, Långnäs Camping
  Bensinstation: St1
- Restaurang: McDonald's
 					/)
 Järnvägsviadukt
  Norra Stambanan
@@ -180,6 +193,8 @@ T-korsning Rv 83/Fabriksgatan (lokal väg)
 T-korsning Rv 50/Rv 83
  50 n: Söderhamn, Centrum
  Turistbyrå, Scandic, Långnäs Camping
+
+Etapp 5: Bollnäs - Arbrå ()
 
 T-korsning Höglunda/(Rv 83/Bollevägen) (lokal väg)
  Björktjära, Bolleberget (vandring)
@@ -210,7 +225,7 @@ Korsning Röste
 Korsning Rv 83/Storsvedvägen
  Kapell, Enskild väg
 
-Korsning Lottefors (enskild väg)
+Korsning Lottefors (lokal väg)
  Ej skyltat
 
 T-korsning Lottefors N
@@ -243,8 +258,10 @@ Korsning Arbrå Kyrkbyn
  Linspinneri/Linneväveri (sevärdhet)
  Nytorps Ridhus, Galleri (lokal väg)
 
+Etapp 6: Arbrå - Hamre ()
+
 Korsning Arbrå Nytorp S
- Enskild väg (ej skyltad)
+ Nytorpcentrum, Enskild väg (ej skyltad)
 
 Korsning Arbrå Nytorp N
  Nytorpcentrum, Enskild väg
@@ -256,19 +273,20 @@ Korsning Arbrå Kyrka
  Vallsta Bygdegård
 
 Trippel T-korsning Vallsta Hov (enskild väg)
- Hov
+ Hov (begränsad infart)
  Blomstens Antik
  (Vallstakyrkan?)
 
 T-korsning Rv 83/Östernäsv.
  Lokal väg
 					(/
-Bensinstation: Q-star
+(Bensinstation: Q-star)
+					/)
 T-korsning Rv 83/Skolvägen
  Lokal väg
 
 (T-korsning Lissgårdens förskola)
- Lokal väg
+ Lokal väg, Ej skyltad
 
 T-korsning Rv 83/Sågvägen
  Lokal väg
@@ -277,6 +295,8 @@ Korsning Hamre
  Nianfors, Iste
  Industri: Vallsta
  Hälsingegård Gästgivars
+
+Etapp 7: Hamre - Tå Nybo ()
 
 T-korsning Vallsta by (enskild väg)
  Vallstabyn
@@ -294,7 +314,7 @@ Korsning Orbaden väg 83
 (Parkeringsplats/uppställningsplats)
 (på sydgående sida)
 
-Infoplats (sydgående): (61.5637301,16.3351154)
+Infopunkt (sydgående): (61.5637301,16.3351154)
 
 T-korsning Simeå Q-star
  Simeå
@@ -330,8 +350,10 @@ Korsning Löräng
 
 Rastplats Järvsö Nybo
 (främst för nordgående)
-Dubbel T-korsning Tå Nybo
+T-korsning Tå Nybo
  Grönås, Harsagården Skola
+
+Etapp 9: Tå Nybo - Järvsö ()
 					/)
 T-korsning Tå industri (lokal väg)
  Industri: Hamre
@@ -356,8 +378,8 @@ T-korsning Kramsta hällar (lokal väg)
 Bensinstation: INGO
 (Järvsöbaden grusplan)
 
-Korsning Järvsöbaden S
- Lokal väg
+Korsning Järvsöbaden S (lokal väg)
+ Järvsöbaden Konferenshotell & SPA
 
 Dubbel T-korsning Järvsöbaden N
  Järvsö Bibliotek, Lokal väg
@@ -370,6 +392,8 @@ T-korsning Rv 83/Vallmovägen (lokal väg)
 
 T-korsning Rv 83/Stenevägen
  Delsbo, Järvsö station
+
+Etapp 10: Järvsö - 
 					(/
 (T-korsning Rv 83/Anders-Persv.)
  Café: Anders-Pers Fikabod, Lokal väg
