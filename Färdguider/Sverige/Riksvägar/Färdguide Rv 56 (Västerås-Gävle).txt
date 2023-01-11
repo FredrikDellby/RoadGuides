@@ -62,8 +62,10 @@ Korsning Viggby
 T-korsning Gesala (nordgående)
  Gesala (ej skyltad)
 					0.5 km/0.5 km	23 s/23 s
-(Korsning Romfartuna vsk)
- Enskild väg, Ej skyltad
+(T-korsning (enskild väg))
+ Utråby, förbjuden vänstersväng
+(Korsning Romfartuna vsk (enskild väg))
+ Ej skyltad, förbjuden vänstersväng
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
 Korsning Igelsta Romfartuna
  Igelsta, Gunsta (enskild väg)
