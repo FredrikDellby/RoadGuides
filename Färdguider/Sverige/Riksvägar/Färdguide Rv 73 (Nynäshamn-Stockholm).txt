@@ -79,7 +79,7 @@ Trp Överfors
 Trp Segersäng
  Segersäng, Grödby
 
-Bro över våtmark: 59.03855,17.9662458
+Bro över våtmark: (59.03855,17.9662458 /)
 
 Nynäshamn / Haninge: (59.0475128,17.9864365)
 
