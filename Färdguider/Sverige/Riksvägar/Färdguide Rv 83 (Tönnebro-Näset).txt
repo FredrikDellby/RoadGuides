@@ -393,7 +393,7 @@ T-korsning Rv 83/Vallmovägen (lokal väg)
 T-korsning Rv 83/Stenevägen
  Delsbo, Järvsö station
 
-Etapp 10: Järvsö - 
+Etapp 10: Järvsö - Skästra ()
 					(/
 (T-korsning Rv 83/Anders-Persv.)
  Café: Anders-Pers Fikabod, Lokal väg
@@ -429,6 +429,8 @@ Rastplats Järvsö (främst sydgående)
 Korsning Skästra
  Ö Skästra, Lantbruksmaskiner
  V Skästra, Blommor och bär
+
+Etapp 11: Skästra - Ljusdal S ()
 
 Korsning Skästra N
  Ygskorset, Sjövästa
