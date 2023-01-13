@@ -543,7 +543,7 @@ Dubbel T-korsning Främmerhörnäs/Överhörnäs E4
  Överhörnäs Camping
  Vägstation, Krossanläggning
 
-Etapp 36: Genom Örnsköldsvik
+Etapp 40: Genom Örnsköldsvik
 
 Trafikplats Gålnäs (252)
  Domsjö, Indusri: Gålnäs
@@ -597,6 +597,8 @@ T-korsning E4/Björnavägen
  Gullänget, Sjukhus
  Resecentrum Norra
  Bensinstation: Tanka, OKQ8
+
+Etapp 41: Örnsköldsvik - 
 
 Rondell E4/Arnäsvägen
  Hotell/Restaurang: Scandic Örnsköldsvik
@@ -766,4 +768,61 @@ Trp Rödviken
  Restaurang: Lenas Vägkrog
 
 Trp Kungsvägen
+ Nordmaling C, Resecentrum
+ Normalings kyrka (sevärdhet)
+ Bensinstation: Circle-K
 
+Trafikplats Levar
+ Gräsmyr
+ Nordmaling N, Levar
+ Levar Hotell & Gästgiveri (sevärdhet)
+
+Rastplats Torsmyran
+
+Korsning Håknäs E4
+					(/
+(Bro över Öre älv: 63.5869819,19.6637049
+
+Dubbel T-korsning Långed E4
+ Långed, Vändplats
+ Humlebäck Keramik och Möbelsnickeri
+ Håknäsbacken (enskild väg)
+
+T-korsning (enskild väg)
+ Vändplats
+
+T-korsning (enskild väg)
+ Vändplats
+Nordmaling / Umeå: (63.5999851,19.7503546)
+
+T-korsning (enskild väg)
+ Vändplats
+
+Korsning Ängersjö E4
+ Ängersjö
+
+T-korsning (enskild väg)
+ Vändplats
+
+Trp Hörneå E4 (enskild väg)
+ Hörneå (3,5 m)
+ Hörneå S
+ Caravan service
+
+Korsning Hörnefors NV
+ Hörnefors, Norrbyn
+ hotel, riktning
+ Hörneå, Vändplats (enskild väg)
+
+Korsning Hörnefors E4
+ Hörnefors, Infoplats
+ Vandrarhemmet Statarlängan (sevärdhet)
+ Bensinstation: INGO
+ Restaurang: Hörnefors Vägkrog, Tre Kronor Pizzeria
+
+Bro över Hörneån
+
+Korsning Hörnefors NO
+ Hörnefors
+ Hössjö, Häggnäs, Vändplats
+ Vandrarhemmet Statarlängan (sevärdhet)
