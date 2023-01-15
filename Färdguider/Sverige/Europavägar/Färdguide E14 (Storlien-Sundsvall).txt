@@ -410,4 +410,75 @@ Bro över Indalsälven
 Trp Hägra
  Rödön, Dvärsätt, Hägra
  Krokom, Hissmofors
- Krokom Camping
+ Krokomsviken Camping
+					/)
+Järnvägsviadukt)
+
+(Korsning (enskild väg))
+ Ingen skyltning
+
+Korsning Dvärsätt E14 (enskild väg)
+ Vändplats
+
+Trp Övre Dvärsätt E14 (enskild väg)
+ Övre Dvärsätt, Handelsträdgård
+
+(Korsning (enskild väg))
+
+Korsning (enskild väg)
+ Vändplats
+
+Korsning Sandnäset E14
+ Rödön, Dvärsätt
+ Möbelbutik
+ Sandnäset Golfklubb
+
+Korsning Tängtorpet E14
+ Ösa, Vändplats
+ Dille
+
+(Korsning (enskild väg))
+ Ingen skyltning
+
+T-korsning Torsta vägskäl E14 (enskild väg)
+ Backen, Bo på lantgård
+
+Korsning Åskorset
+ Ås, Birka Folkhögskola, Vändplats
+ Lit, Halåsen, Åskott, Dille
+
+T-korsning (lokal väg)
+ Jämtpotatis AB (ej förskyltad östgående)
+
+Infoplats (västgående)
+Parkeringsplats (sydgående)
+
+Trp Lugnvik Norra
+ Östersund, Sjukhus
+ Frösön, Östersunds Flygplats
+ Lugnvik, Ås
+
+Järnvägsviadukt
+ Inlandsbanan
+
+Trp Lugnvik Södra
+ Lugnvik
+ Industri: Lugnvik
+ Önsjön, Kännåsen (enskild väg)
+
+Trp Rannåsen
+ Östersund, Arenabyn
+ E45 n: Arvidsjaur, Strömsund
+
+Trp Odenskog
+ 87: Sollefteå, Motorstadion
+ Östersund, Sjukhus
+ Frösön, Östersunds Flygplats
+ Industri: Odenskog
+
+Infoplats (västgående)
+Parkeringsplats (sydgående)
+
+Trp Torvalla
+ Torvalla
+ Industri: Torvalla
