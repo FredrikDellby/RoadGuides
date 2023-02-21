@@ -482,3 +482,25 @@ Parkeringsplats (sydgående)
 Trp Torvalla
  Torvalla
  Industri: Torvalla
+
+Korsning (enskild väg)
+ Vändplats
+
+Parkeringsplats Operakan (västgående)
+(direkt invid vägen, men stor)
+
+Korsning Optand N E14 (enskild väg)
+ Optands Flygplats, Östersunds Fallskärmsklubb
+ Teknikland (sevärdhet, mat)
+
+(Trafikplats Optand (enskild väg))
+ Optand, Ope (ej skyltad)
+
+Korsning E14/Karl Johans väg (lokal väg)
+ Optand, Ej förskyltad
+
+(Dubbel T-korsning (lokal väg))
+ Ej skyltad
+T-korsning Lund
+ Ope
+
