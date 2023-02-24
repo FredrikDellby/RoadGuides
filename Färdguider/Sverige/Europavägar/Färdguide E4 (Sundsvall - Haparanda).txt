@@ -864,3 +864,44 @@ Korsning Ansmark (enskild väg)
  Ansmark Ö
  Ansmark V
 
+Korsning Stöcksjö E4 södra
+ S. Stöcksjö, Enskild väg
+ Antikt, Vändplats
+
+Korsning Stöcksjö Skola E4 (enskild väg)
+ S. Stöcksjö, Vändplats
+ V. Stöcksjö, Biredskap
+
+Korsning Stöcksjö E4 (enskild väg)
+ Ö. Stöcksjö
+ V. Stöcksjö, Charkbutik
+
+Trp Stöcksjö
+ Ö. Stöcksjö, Norrmjöle
+ Röbäck, Travbana
+ Indusri: Volvo Lastvagnar
+
+Söderslättsrondellen
+
+Alviksrondellen
+(Lillåbron (170 m))
+
+Trafikplats Ön (nordgående)
+Kolbäcksbron-syd
+ 530 m
+
+Kolbäcksbron-nord
+
+Gimonäsrondellen
+
+Carlshemsrondellen
+
+Carlslidrondellen
+
+Tomteborondellen
+
+Universitetsrondellen
+
+Trp Mariehem
+
+Nydalarondellen
