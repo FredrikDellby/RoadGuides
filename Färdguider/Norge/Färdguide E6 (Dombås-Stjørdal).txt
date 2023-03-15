@@ -611,15 +611,22 @@ Grillstadtunnelen-vest (748 m))
 (Grillstadtunnelen (748 m)
 
 Kryss Charlottenlund-vest (43)
+ Overvik, Charlottenlund
 
 Kryss Charlottenlund-øst (43)
 (ikke avfart sydgående)
+ Vikhammer, Ranheim
 
 Kryss Reppe (43A)
 (sydgående retning)
+ Vikåsen
+ Ranheim
 
 Ranheim bomstasjon: (63.4226354,10.5546828)
  takst 34,- / 53,-
+
+Rondell ()
+ Infart byggtrafikk
 
 (90 km/h / 80 km/h)
 Mittrekk ender / begynder
