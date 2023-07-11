@@ -1,24 +1,24 @@
-Färdguide Lv 166 Bäckefors - Mellerud
+Fï¿½rdguide Lv 166 Bï¿½ckefors - Mellerud
 ======================================
 
-Korsning Bäckefors östra
+Korsning Bï¿½ckefors ï¿½stra
  166 v: Halden, Ed
  172 n: Bengtsfors, Billingsfors
- 172 s: Uddevalla, Färgelanda
+ 172 s: Uddevalla, Fï¿½rgelanda
  Centrum
 					1.4 km/1.4 km	1 min 24 s/1 min 24 s
-T-korsning Bäckefors kyrka
- Bäckefors K:a
+T-korsning Bï¿½ckefors kyrka
+ Bï¿½ckefors K:a
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Björkveten
- Ödebyn
+T-korsning Bjï¿½rkveten
+ ï¿½debyn
 					1.1 km/1.1 km	50 s/50 s
-Korsning Bäcken
- Ödebyn
+Korsning Bï¿½cken
+ ï¿½debyn
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
 Bengtsfors / Mellerud
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-Järnvägsviadukt
+Jï¿½rnvï¿½gsviadukt
  Dalslandsbanan
 
 Bengtsfors / Mellerud
@@ -27,18 +27,18 @@ Korsning Dalskog
  Dalskog K:a
 					2.5 km/2.5 km	1 min 53 s/1 min 53 s
 T-korsning Bengtserud
- Åsensbruk
+ ï¿½sensbruk
 					1.7 km/1.7 km	1 min 17 s/1 min 17 s
-T-korsning Årbol S
- Dals Långed
+T-korsning ï¿½rbol S
+ Dals Lï¿½nged
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
 Korsning Dals-Rost. Lv 166
- Brålanda, Dals Rostock
+ Brï¿½landa, Dals Rostock
 					1.3 km/1.3 km	59 s/59 s
-Korsning Gunnarsnäs K:a
- Åsensbruk
+Korsning GunnarsnÃ¤s K:a
+ Ã…sensbruk
 					4.7 km/4.7 km	3 min 32 s/3 min 32 s
 Rondell E45/166
- E45 s: Göteborg, Vänersborg
- E45 n: Karlstad, Åmål
+ E45 s: Gï¿½teborg, Vï¿½nersborg
+ E45 n: Karlstad, ï¿½mï¿½l
  Centrum
