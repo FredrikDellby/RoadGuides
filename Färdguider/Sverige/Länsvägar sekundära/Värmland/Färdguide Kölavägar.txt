@@ -1,38 +1,41 @@
-Solbergav‰gen (v‰g 624)
+Solbergav√§gen (S624)
 ========================
 10,6 km/10,6 km
 
 T-korsning
- 177 n: ≈motfors
- 177 s: ≈rj‰ng, Koppom
+ 177 n: √Ömotfors
+ 177 s: √Örj√§ng, Koppom
 					0,7 km/0,7 km	36 s/36 s
 T-korsning
  Hovsten
 					2,5 km/2,5 km	2 min 9 s/2 min 9 s
 T-korsning Solberga
- Hovsten, Tˆmte
+ Hovsten, T√∂mte (enskild v√§g)
 					2,2 km/2,2 km	1 min 53 s/1 min 53 s
-BygdegÂrd
+Bygdeg√•rd
 					1,0 km/1,0 km	51 s/51 s
-T-korsning ƒlgestad
+T-korsning √Ñlgestad
  Korterud
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
-Lill‰lven
-					0,9 km/0,9 km	46 s/46 s
-T-korsning
+T-korsning Sopstation (lokal v√§g)
  Sopstation
+					0,9 km/0,9 km	46 s/46 s
+(Bro √∂ver Lill√§lven)
 					2,1 km/2,1 km	1 min 48 s/1 min 48 s
+T-korsning (lokal v√§g)
+ Missionskyrka
+
 Korsning Adolfsfors
- Charlottenberg, Kˆla
+ Charlottenberg, K√∂la
  Skillingsfors
 
-Korterudsv‰gen (v‰g 620)
+Korterudsv√§gen (v√§g 620)
 =========================
-T-korsning ƒlgestad
+T-korsning √Ñlgestad
 					3,3 km/3,3 km	2 min 50 s/2 min 50 s
 T-korsning Korterud
 
-÷stra Skillingmarksv‰gen (v‰g 631/634)
+√ñstra Skillingmarksv√§gen (v√§g 631/634)
 ======================================
 19,8 km/19,8 km
 
@@ -43,68 +46,81 @@ Korsning Skillingsfors C
  Vestmarka
 					0,3 km/0,3 km	27 s/27 s
 Skillingsfors K:a
-Korsning Skillingsfors ÷
- Enskild v‰g
-					9,9 km/9,8 km	9 min 54 s/9 min 48 s
+Korsning Skillingsfors √ñ
+ Enskild v√§g
+					1,4 km/1,3 km	1 min 20 s/1 min 18 s
+(T-korsning Skillingmarksparken)
+ Lokal v√§g, ej skyltad
+					8,1 km/8,1 km	8 min 6 s/8 min 6 s	
+T-korsning Korterud industri
+ S√•gverk, Lokal v√§g
+					0,4 km/0,4 km	21 s/21 s
 T-korsning Korterud
- ƒlgestad
+ √Ñlgestad
 					0,9 km/0,9 km	46 s/46 s
 T-korsning
- L‰sserud
+ L√§sserud
 					2,1 km/2,1 km	1 min 48 s/1 min 48 s
-Lill‰lven
+(Bro √∂ver Lill√§lven)
 					1,9 km/1,9 km	1 min 38 s/1 min 38 s
 Korsning Adolfsfors
  Koppom, Solberga
 					0,8 km/1,0 km	41 s/51 s
-T-korsning Kˆla S
- Charlottenberg
-Korsning Kˆla S
- RudsgÂrden
+Dubbel T-korsning K√∂la S
+ Skola (lokal v√§g)
+ Charlottenberg, Valfj√§llet
+
+Korsning Hammarsvallen
+ Rudsg√•rden
+ Hammarsvallen (lokal v√§g)
 					4,0 km/3,7 km	3 min 26 s/3 min 10 s
 T-korsning Flogned
- 177 s: ≈rj‰ng, Koppom
- 177 n: ≈motfors
+ 177 s: √Örj√§ng, Koppom
+ 177 n: √Ömotfors
 
-Kˆlav‰gen (v‰g 631)
+K√∂lav√§gen (v√§g 631)
 ====================
 7,4 km/7,2 km
 
-T-korsning Kˆla S
- Flogned, RudsgÂrden
+Dubbel T-korsning K√∂la S
+ √Ömotfors, (Flogned, Rudsg√•rden)
  Skillingmark, Adolfsfors
-T-korsning
- Kˆla hembygdsgÂrd
-					0,5 km/0,3 km	30 s/18 s
-T-korsning Kˆla K:a
+					0,2 km/0,2 km	12 s/12 s
+T-korsning K√∂la hembygdsg√•rd (lokal v√§g)
+ K√∂la hembygdsg√•rd (lokal v√§g)
+					0,3 km/0,3 km	18 s/18 s
+T-korsning K√∂la K:a (lokal v√§g)
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
-T-korsning
- Valfj‰llet (enskild v‰g)
-					2,0 km/2,0 km	1 min 30 s/1 min 30 s
-T-korsning Valfj‰llet
- Valfj‰llet skicenter
+T-korsning (enskild v√§g)
+ Valfj√§llet (utsiktsplats)
+					1,1 km/1,1 km	50 s/50 s
+(Badplats vid Hugn (√∂stra sidan, ej skyltad))
+					0,9 km/0,9 km	41 s/41 s
+T-korsning Valfj√§llet (lokal v√§g)
+ Valfj√§llet skicenter, stugby
 					1,3 km/1,3 km	59 s/59 s
-VrÂngs‰lven
-					2,2 km/2,2 km	1 min 39 s/1 min 39 s
-T-korsning
+Bro √∂ver Vr√•ngs√§lven
+					0,8 km/0,8 km	36 s/36 s
+(Eda Brunn (v√§stra sidan, ej skyltad))
+					1,4 km/1,4 km	1 min 3 s/1 min 3 s
+T-korsning (enskild v√§g)
  Konst, Ridcenter
 					0,5 km/0,5 km	26 s/26 s
 Korsning Nolbykorset
  61 s: Karlstad, Arvika
  61 n: Kongsvinger, Charlottenberg
 
-RudsgÂrdsv‰gen (v‰g 633)
+Rudsg√•rdsv√§gen (v√§g 633)
 =========================
 5,5 km/5,3 km
 
-T-korsning Kˆla S
+Korsning Hammarsvallen
  Skillingsfors, Adolfsfors
- Charlottenberg, Valfj‰let
-Korsning Kˆla S
- Flogned
+ Valfj√§llet skicenter
+ √Ömotfors, (Flogned)
 					3,2 km/3,0 km	2 min 45 s/2 min 34 s
-BÂlstad busshÂllplats
+B√•lstad bussh√•llplats
 					2,3 km/2,3 km	1 min 58 s/1 min 58 s
-T-korsning RudsgÂrden
- 177 s: ≈rj‰ng, Koppom
- 177 n: ≈motfors
+T-korsning Rudsg√•rden
+ 177 s: √Örj√§ng, Koppom
+ 177 n: √Ömotfors
