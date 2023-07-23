@@ -1,38 +1,113 @@
-Kryss Skotterud
+Färdguide Fv 202 (Skotterud - Masterud)
+========================================
+
+Etapp 1: Skotterud - Magnor N (5,7 km/5,8 km)
+
+(Kryss Skotterud-vest
  2 s: Karlstad
+ Fv1974: Gaustad
+ MC-lakkering, Trappesnekker
+ 21: Ørje, Vestmarka
+
+Kryss Skotterud)
+ 2 n: Oslo, Kongsvinger
+
+Kryss Skotterud-øst
  2 n: Oslo, Kongsvinger
  21: Ørje, Vestmarka
 
-Järnvägskorsning
+(Vrangselva bru)
+ Vrangselva, 26 m
+Jernbanekryss
  Kongsvingerbanen
-(T-korsning)
+
+(Dubbel) T-korsning Skotterud brannstasjon
+ (Renseanlegg)
  Skotterud Sentrum
-T-korsning Fv 202/Fv343
 
-T-korsning Fv 202/Fv339
+T-korsning Halbekken sør
+ Halbekken
 
-T-korsning Fv 202/Fv347
- Magnor
+T-korsning Walmann-nord
+ Industrier (ikke skiltet)
 
-T-korsning Fv 202/Fv346
+T-korsning Walmann-sør
+ Industrier (ikke skiltet)
 
-Eidskog / Kongsvinger
+T-korsning Ilagsmoen
+ Fv1982: Ilag
 
+T-korsning Grensevegen/Nessjøvegen
+ Fv1996: [2], Magnor
+
+Etapp 2: Magnor N - (Austmarka)
+
+T-korsning Fv202/Jøviksvegen
+ Gjøvika
+
+T-korsning Nevjen Grendehus
+ Grendehus
+
+T-korsning Stranda
+ Fv1994: Skotterud
+
+(Parkeringsplass (grus, vestre side))
+
+T-korsning Finnsrud
+ Enderud, Revlemoen Skyteanlegg
+
+T-korsning Bekkengen
+ Billa
+
+Eidskog / Kongsvinger: (59.9906675,12.3471641)
+
+(Bygdetun?/Infopunkt (vestre side))
 T-korsning Kjerret
- Fv361
+ Fv1998: Riksgrensen
+ B&B
 
 T-korsning Brødbøl S
+ Brødbøl
+
+(T-korsning (lokal vei))
+ Gylterudvegen
 
 T-korsning Brødbøl N
+ Brødbøl
+(Austmarka Hundehotell)
+
+(T-korsning Fv202/Karterudsetervegen)
+ Karterudhøgda
+
+(T-korsning Åserud)
+ Gylterudvegen
+
+Joker Austmarka (vestre side)
+Tankstelle Austmarka (östre side)
 
 T-korsning Austmarka S
+ Holmenlia
+ Restaurant: Pizza'n
 
-Austmarka kirke
+(Austmarka skole)
 
-Korsning Austmarka N
- Fv345
+T-korsning Austmarka kirke
+
+Rondell Austmarka N
+ Fv1992: Sunne
+ Fv1992: Lier, [2]
+ Samfunnhus, Regnskapskontor
+
+Etapp 3: Austmarka - Masterud ()
+
+(T-korsning Fv202/Raudfjellvegen)
+ Fjell
 
 Solberg bru
+ Solbergåa
 
+(Infoplass)
 T-korsning Masterud
- E16: Oslo, Kongsvinger
+ E18 ø: Torsby, Sverige
+ E16 v: Kongsvinger, Öyermarken
+ Dragonmoen Camping
