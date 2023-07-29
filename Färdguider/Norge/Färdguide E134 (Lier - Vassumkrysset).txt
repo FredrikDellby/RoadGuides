@@ -1,0 +1,72 @@
+Färdguide E134 (Lier - Vassumkrysset)
+======================================
+
+(Kjellstadkrysset-vest (R)
+ E18 v: Kristiansand, (Drammen)
+ E134 v: Haugesund, (Kongsberg)
+ 285: Hønefoss, Lierbyen
+                    (/
+(T-korsning Kjellstadveien
+ Fv2703: Kjellstad
+((Kjellstadundergangen (36 m))
+                    (/
+Kjellerstadkrysset (23))
+Kjellerstadkrysset-øst)
+ Fv2702: Huseby
+ 
+                    /)
+Rondell Moserud
+ E18 ø: Oslo
+ [285]: Hønefoss, Lierbyen
+
+T-korsning E134/Industrigata
+(kun skiltet østgående)
+ Industri: Frydenlund
+
+Rondell Amtmannssvingen-vest
+ Frydenlund
+(Bensinstasjon: Esso )
+(Restaurant: Nam Nam)
+
+Rondell Amtmannssvingen-øst
+ 282 s: Drammen
+ 282 n: Asker
+                    /)
+Linnes bru I (Jernbanebru, 33 m))
+ Drammenbanen
+
+Rondell Gilhus
+ Industri: Gilhus
+
+Linnes bru II (46 m)
+ Lierelva
+
+T-korsning Gullaugkrysset
+ Fv2694: Lier stasjon
+ [282]: Asker
+
+T-korsning
+ Gullaug kirke, Gullaug skole
+
+Rondell Gullaug
+ Orica Norway, Statens vegvesen
+ Bensinstasjon: YX
+
+T-korsning Gullaugkleiva
+ Gullaugkleiva Parkering
+
+(T-korsning E134/Fjordsvingen)
+
+Korsning Engersand
+ Engersand Friluftsområde
+
+Rondell Lahellkrysset
+ Fv2684: Klokkarstua, Hyggen
+
+Dubbel T-korsning Brøholt
+
+T-korsning E134/Brøholtveien
+ Carpe Diem Barnehage
+
+Rondell (E134/Spikkestadveien)
+ Spikkestad stasjon
