@@ -355,10 +355,15 @@ Risør / Gjerstad
 Haugselva bru (110)
 
 Kryss Brokelandsheia (62)
+ 418: Søndeland
+ Brokelandsheia
 
 Kryss Sundebru (61)
-(Sunde bru)
- Harsund, 175 m
+ 417: Vegårdshei
+ 418: Gjerstad
+					(/
+(Sunde bru (175 m)
+ Harsund
 
 Kryss Øygardstjørnane (60)
  Rasteplass Østerholtheia
@@ -368,79 +373,114 @@ Breiøygardtunnelen (25 m)
 Aust-Agder / Telemark
 Gjerstad / Kragerø
 
-T-korsning Sannidal (55)
+T-korsning Sannidal (56)
+ 363: Sannidal
+ [351]: Stabbestad
+ Industri: Kragerø
+ Bensinstasjon: Uno-X
+ Restaurant: Pizzeria Campino
 
-Grytvannselva bru (121 m)
+Grytvannselva bru (121 m): (58.9154539,9.3041543)
  Tyvannselva
 
 Kryss Gjerde (54)
  38 s: Kragerø
  38 n: Kviteseid, Drangedal
 
-Etapp 8: Gjerdemyra - Rugtvedt ()
-
-Farsjøbrua (238 m)
- Farsjø
-
-Trafikkontrollplass
-
-Kragerø / Bamble
-
-Bakkevann bru (59 m)
- Bakkevannet
-
+Etapp 8: Gjerdemyra - Rugtvedt (25,4 km/)
+					1,3 km/
+Farsjøbrua (238 m): (58.9384776,9.3276735 / 58.9394291,9.3309698)
+ Farsjø (ikke skiltet)
+					3,0 km/
+Trafikkontrollplass: (58.9434726,9.375322)
+					2,5 km/
+Kragerø / Bamble: (58.9501526,9.414649 / ?)
+(ikke skiltet vestgående?)
+					1,1 km/
+Bakkevann bru (59 m): (58.9554543,9.4300375)
+ Bakkevannet (ikke skiltet)
+					0,4 km/
 Rasteplass Bakkevannet-nord
-(västgående riktning)
-
+(vestgående retning)
+					0,9 km/
 Rasteplass Bakkevannet-syd
-(östgående riktning)
+(østgående riktning)
+					1,8 km/
+(Mittrekk begynder / ender)
 
-Motortrafikkvei / Motorvei
+Motortrafikkvei / Motorvei: (58.9653108,9.4762112)
+					1,5 km/
+(Sprangfossbrua (80,7 m)): (58.9670099,9.4824622)
+ Lona, ikke skiltet
 
-Sprangfossbrua
+Langrønningentunnelen (60 m): (58.9707864,9.499724)
+ Viltlokk, ikke skiltet
+					0,6 km/
+Langrønningkrysset (53)
+ 363: Valle
+ Parkering lastebil
+ Bensinstasjon: Circle-K
+ Restaurant: Burger King, Biltema
+ (Elbilslading: MER, Null, bobil)
+					1,8 km/
+Vardåstunnelen (70 m): (58.9798511,9.5370634)
+ Viltlokk (ikke skiltet)
+					3,6 k/
+(Rønholtdalbrua (170,3 m))
+ over dalsøkk (ikke skiltet)
 
-Langrønningentunnelen (60 m)
+(Svartholtbrua (170,6 m))
+ over dalsøkk (ikke skiltet)
 
-Stillinga bomstasjon
+Stemmenbrua (318,28 m): (58.9984156,9.5889506 / 58.9998937,9.5933483)
+ Åbyelva (ikke skiltet)
+					3,3 km/
+(Mørkekjerbrua (140 m))
+ over dalsøkk (ikke skiltet)
+
+(Tinderholtbrua (42,5 m))
+ over dalsøkk (ikke skiltet)
+
+(Vinterdalbrua (140,3 m))
+ over dalsøkk (ikke skiltet)
+
+Stillinga bomstasjon: (59.012687,9.6355519)
  36,- / 72,-
+					3,7 km/
+Hydalbrua (200 m))
+ over dalsøkk (ikke skiltet)
 
-Kryss Langrønningen (53)
+(Hegnabrua (42,5 m))
+ over dalsøkk (ikke skiltet)
 
-Rønholtdalbrua
-
-Svartholtbrua
-
-Vardåstunnelen (70 m)
-
-Stemmenbrua
-
-Mørkekjerbrua
-
-Tinderholtbrua
-
-Vinterdalbrua
-
-Hydalbrua
-
-Hegnabrua
-
-Kryss Rugtvedt (52)
+Rugtvedtkrysset (52)
+ 354: Stathelle
+ [352]: Langesund
+ Ferge: Hirtshals (DK)
+ [353]: Herre
+ bensin, bobil, mat, hotell
 
 Etapp 9: Rugtvedt - Skjelsvik ()
+					/)
+Motorvei / Motortrafikkvei): (59.0364318,9.6761638)
 
+(Mittrekk ender / begynder)
 Bambletunnelen-vest
- 765 m/751 m
+ 765 m/
 
 Bambletunnelen-øst
-Bamble / Porsgrunn
-Grenlandsbrua-vest
- Frierfjorden, 608 m
+ /751 m
+Bamble / Porsgrunn)
+Grenlandsbrua-vest (608 m)
+ Frierfjorden
 
-Grenlandsbrua-øst
-Kjørholttunnelen-vest
- 2 219 m/2 195 m
+(Bamble / Porsgrunn
+(Grenlandsbrua-øst)
+Kjørholttunnelen-vest)
+ 2 219 m/
 
 (Kjørholttunnelen-øst
+ /2 195 m
 					(/
 Kryss Kjørholt (51)
 
@@ -455,7 +495,8 @@ Kryss Skjelsvik-vest (50)
 påfart västgående riktning)
  36: Porsgrunn, Skien
  354: Brevik
-(Hovettunnelen-vest)
+					(/
+(Hovettunnelen-vest
  539 m
 
 Etapp 10: Skjelsvik - Langangen ()
@@ -471,16 +512,18 @@ Eidangerkrysset (49)
 
 Telemarksporten (270 m)
 
-Trafikkontrollplass Lanner
+Kontrollplass Lanner: (59.1031426,9.7665008)
 
-Vestre Langangen bru
- Sundsåsdalen, 298 m
+Vestre Langangen bru (298 m)
+ Sundsåsdalen
 
-Østre Langangen bru
- Ønna, 376 m
+Østre Langangen bru (376 m)
+ Ønna
 					/)
 80 km/h / 100 km/h)
-Mittrekk begynder / ender)
+Mittrekk begynder / ender): (59.0911761,9.8076454)
+
+(Motortrafikkvei / Motorvei): (59.0899065,9.8101987)
 
 Langangenkrysset (48)
 
@@ -548,10 +591,12 @@ Skinmo bomstasjon
 Danebo miljøtunnel (51 m)
 
 Larvik / Sandefjord
-Langåkerkrysset (43)
+					(/
+(Langåkerkrysset (43)
 
-(Natvall miljøtunnel)
+(Natvall miljøtunnel
  219 m/221 m
+					(/
 Natvallkrysset (42)
 
 Fokserødkrysset (41)
@@ -560,7 +605,8 @@ Fokserødkrysset (41)
 Bjørnerød viltlokk (48 m)
 Fokserød bomstasjon
 
-(Tassebekk viltlokk (42 m))
+(Tassebekk viltlokk (42 m)
+					(/
 Tassebekkrysset (40)
 
 Furulund miljøtunnel (50 m)
