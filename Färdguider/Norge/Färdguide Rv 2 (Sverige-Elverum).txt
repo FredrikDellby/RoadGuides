@@ -1,222 +1,352 @@
-Färdguide Rv 2 (Sverige - Elverum)
+FÃ¤rdguide Rv 2 (Sverige - Elverum)
 ===================================
 
 Etapp 1: Morokulien - Skotterud (9,6 km/9,8 km)
 
 T-korsning Morokulien S
-Bensinstation: Circle-K
-(Sverige / Norge)
-(Värmland / Hedmark)
-(Eda / Eidskog)
+(VÃ¤rmland /
+(Eda /
+
+(Bensinstation: Circle-K (Ã¸stre side))
+
+Sverige / Norge
 					0,4 km/0,3 km	24 s/18 s
-Glasshytta Spiseri
-Tesla Charger
+(Morokulien camping (Ã¸stre side))
+ Glasshytta Spiseri
+ Tesla Charger
+
 T-korsning Morokulien N
+(Mittrekk begynder / ender)
+ / Hedmark)
+ / Eidskog)
 					0,6 km/0,6 km	36 s/36 s
-Dubbel T-korsning Monte Bello
+Infart Kontrollstasjon (nordgÃ¥ende))
+(Mittrekk ender / begynder)
+
+Magnormoen Kontrollstasjon (Ã¸stre side)
+(ikke skiltet)
+					0,2 km/0,2 km
+T-korsning Monte Bello
+ Monte Bello Camping & Turistsenter
 					0,7 km/0,7 km	42 s/42 s
+T-korsning Magnormoen industri
+ Industri: Magnormoen
+ Finnskogens MÃ¸bler, MC-Museum
+
 T-korsning Magnor-syd
- Magnor
+ Fv1996: Magnor
  [202]: Austmarka
 					4,1 km/4,1 km	3 min 5 s/3 min 5 s
 Vrangen bru (117 m)
  Gamleelva
 
 T-korsning Magnor NV
- Magnor, Hydro
+ Fv1978: Magnor, Hydro
 					3,8 km/4,1 km	2 min 51 s/3 min 5 s
 Kryss Skotterud
  202: Austmarka, Skotterud
- 21: Ørje, Vestmarka
+ 21: Ã˜rje, Vestmarka
 
 Etapp 2: Skotterud - Kongsvinger (25,8 km/25,7 km)
 					2,9 km/2,6 km	2 min 11 s/1 min 57 s
-Børja bru (26 m)
- Børjåa
+BÃ¸rja bru (26 m)
+ BÃ¸rjÃ¥a
 
-Rasteplass Sørpebøl
-(nordgående riktning)
+Rasteplass SÃ¸rpebÃ¸l (nordgÃ¥ende)
 					1,0 km/1,0 km	45 s/45 s
-Rasteplass Sørpebøl
-(sydgående riktning)
+Rasteplass SÃ¸rpebÃ¸l (sydgÃ¥ende)
 					2,2 km/2,1 km	1 min 39 s/1 min 35 s
 T-korsning Matrand-nord
- Matrand
+ Fv1988: Matrand
+ (Fv1970: Rudberg)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
 T-korsning Grasmo
- Matrand
+ Fv1986: Ã…bogen, Grasia
+ Persmoen, Proffkamp
 					7,0 km/6,9 km	5 min 15 s/5 min 11 s
 Eidskog / Kongsvinger
 					0,3 km/0,3 km	14 s/14 s
-T-korsning Sjøenden
- Sjøstrand Camping
+T-korsning SjÃ¸enden
+ Buholtet, HornkjÃ¸ltÃ¥rnet
+ SjÃ¸strand Camping
 					0,9 km/1,0 km	45 s/51 s
-Rasteplass Sigernes
-(nordgående riktning)
+Rasteplass Sigernes (nordgÃ¥ende)
 					1,6 km/1,4 km	1 min 22 s/1 min 12 s
-T-korsning Sigernessjøen Camping
+T-korsning SigernessjÃ¸en Camping
+(ikke skiltet sydgÃ¥ende)
+ SigernessjÃ¸en Camping
 					0,4 km/0,4 km	21 s/21 s
 T-korsning Strengelsrud
+ SigernessjÃ¸en Camping
  Kongsvinger GK
+ mat sevÃ¤rdhet
 					3,1 km/3,1 km	2 min 39 s/2 min 39 s
 T-korsning
  Badeplass
 
+(T-korsning MariÃ¥sen
+ ikke skiltet, hÃ¸yresvingfelt
+
 Dubbel T-korsning Lierkrysset
+ Fv2000: Rauhella
+ Fv1992: Austmarka, Granli, Ã…bogen
 					3,1 km/3,0 km	2 min 39 s/2 min 34 s
+Infopunkt (nordgÃ¥ende)
+ Om bompenger
+
 Rondell Rv 2/Gaupevegen
+ Industri: Rasta-vest
+ Fv2032: Industri: Rasta-Ã¸st
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
 Rondell Rasta nord
+ Fv2034: St. Clara katolske kirke
 					0,8 km/0,8 km	48 s/48 s
 T-korsning Rv 2/Tajevegen
- Bensin: Circle-K
-					0,2 km/0,4 km	14 s/29 s
+ Holt gravplass
+ Bensinstasjon: Circle-K
+					0,2 km/0,2 km	14 s/14 s
 Rondell E16/Rv 2
- Kongsvinger sentrum, stasjon
- E16 v: Oslo, Gardemoen
-Korsning Vinger
- Bensin: Shell
+ Sentrum S, Kongsvinger stasjon
+ E16 v: Oslo, (Gardemoen)
+ Kongsvinger sykehus
 
 Etapp 3: Gjenom Kongsvinger ()
+					0,1 km/0,1 km
+Korsning Vinger (ikke skiltet)
+ Bensinstasjon: Shell
+					0,1 km/0,1 km
+Hotel Vinger (Ã¸stre side)
 
+T-korsning E16/Schusslers veg
+ Nor (kulturpark)
+					0,1 km/0,1 km
 Rondell E16/Kongevegen
- Rasta nord
-(Norsenga bru (94 m))
+ Fv2034: Statens vegvesen Trafikkstasjon
+					0,1 km/0,2 km
+Norsenga bru (94 m)
  Kongsvingerbanen
 
-Vingersnoret bru (32 m)
+Korsning Norsenga (ikke skiltet)
+ Norsenga tÃ¸mmerterminal
+					0,1 km/0,1 km
+Norsenga tÃ¸mmerterminal (Ã¸stre side, ikke skiltet)
+(Vingersnoret bru (32 m))
  Noret
 
 Dubbel T-korsning Nor skanse
- E16 ø: Torsby, Austmarka
-(Infoplats Nor skanse)
+ E16 Ã¸: Torsby, Austmarka
+(Infoplass Nor skanse (vestre side))
 
-Etapp 4: Kongsvinger - Kirkenær ()
+Etapp 4: Kongsvinger - Roverud ()
 
 T-korsning Hov
- Ridesenter
+ Ridesenter, Travsenter, KNA Kongsvinger
+
+Skarstad Gartneri & GÃ¥rdsmarked (Ã¸stre side)
 
 T-korsning Roverud-syd
  205: Svullrya, Roverud
+ Parkering lastebil
 
-Rasteplass Øyersand
+Etapp 5: Roverud - KirkenÃ¦r ()
+
+Rasteplass Ã˜yersand (Ã¸stre side)
+(ikke skiltet nordgÃ¥ende)
 
 Kryss Rymoen
+ Fv2024 Ã¸: Myrer
+ Fv2024 v: Rymoen
 
 Kryss Brandval
+ Fv2006: Brandval, [210]
 
-T-korsning Brandval sagbruk
+Brandval sagbruk (Ã¸stre side)
 
-Nor søndre bru (42 m)
+Nor sÃ¸ndre bru (42 m)
  Noret
 
-(Nor bru (29 m))
- Solørbanen
+Nor bru (29 m)
+ SolÃ¸rbanen
+
 Korsning Nor vegkryss
- Hokkåsen
+ Fv2012: HokkÃ¥sen
 
-Rasteplass Føttaskjæret
+(Rasteplass FÃ¸ttaskjÃ¦ret?)
 
-Kongsvinger / Grue
+Kongsvinger / Grue: (60.368964,12.0421116)
 
 Piksrud bru (42 m)
- Solørbanen
+ SolÃ¸rbanen
 
 T-korsning Grinder Rv 2
- Tjura, Grinder
+ Fv2046: Tjura, Grinder
+ Industri: Grinder
 
-T-korsning Grue Travbane
- Oppakersund
+(T-korsning Grue Travbane (ikke skiltet))
+ Grue Travbane, Oppakersund
 
-T-korsning Nøkleberget
+T-korsning NÃ¸kleberget
+ Fv2044: GÃ¥rd
 
-Noret
+(Bru over Noret)
 
-Korsning Grue kirke
+(Korsning Grue kirke)
+ Renseanlegg
 
-Bensinstasjon: 
-T-korsning Grue rådhus
+Grue kirke (Ã¸stre side)
+
+(Grue rÃ¥dhus (Ã¸stre side))
+
+T-korsning Grue rÃ¥dhus
  201: Torsby, Svullrya
+ Industri: KirkenÃ¦r
+ Gruehallen, Skole
+ FrysjÃ¸en freedom camping
 
-Korsning Kirkenær sentrum
- [210]
-Bensinstasjon: Esso
+Etapp 6: KirkenÃ¦r - NamnÃ¥/GrÃ¸set ()
 
-Tankställe Kirkenær nord
+(Midt i gata -  CafÃ© og Lunsjbar)
+
+(Korsning Rv 2/Silovegen)
+ Flamingo GatekjÃ¸kken
+ Parkering Coop Xtra
+
+Korsning KirkenÃ¦r sentrum
+ Skysstasjon
+ (232), [210]: Sandstad
+ Evensen's Bakeri & Conditori
+Bensinstasjon: Esso (venstre)
+
+Korsning Rv 2/Brannstasjonsv.
+ Frivilligsentral, Apotek
+ Elbilslading, Parkering KIWI
+ Hagesenter	
+
+Tankstelle KirkenÃ¦r nord (vestre side)
  Bensinstasjon: Uno-X
 
-Skaslien Gjestgiveri
+Skaslien Gjestgiveri (Ã¸stre side)
+
+Korsning Rv 2/Prestgardsgutua
+ By, Grue prestegÃ¥rd
 
 Korsning Byermo
  Ingelsrud
 
-T-korsning Grøset
+Rasteplass GrÃ¸set (Ã¸stre side, lukket?): (60.4805903,12.0694269)
+
+(Parkeringsplass (grus, vestre side, ikke skiltet))
+
+T-korsning GrÃ¸set
+ Fv2056: NamnÃ¥ sentrum, GrÃ¸set
  Bensinstasjon: Shell
 
-Korsning Namnå stasjon
+Etapp 7: NamnÃ¥/GrÃ¸set - Arneberg ()
 
-Korsning Stemsrudvegen
+(NamnÃ¥ fd stasjon (Ã¸stre side))
+
+(T-korsning Rv 2/Skolevegen)
+ NamnÃ¥ skole
+
+T-korsning Rv 2/Stemsrudvegen
  Stemsrud
 
-(Meiningen bondgård)
+(Bruktbutikk (Ã¸stre side))
+T-korsning Sandermoen N
+ Sandermoen
 
-T-korsning Nybakk
+T-korsning Nybakk 	
+ Fv2056: Sorknesfeltet
 
-Grue / Åsnes
+Grue / Ã…snes: (60.5496824,12.0694328)
 
 T-korsning Jammerdal
+ Fv2070: Hof Finnskog, kirke
 
 Dubbel T-korsning Arneberg
- [210]
+ Fv2062, [210]: Kvisler, Hof kirke
+ Hof Idrettspark, Jara skole
+ Perstuvegen (ikke skiltet)
 
-T-korsning Arneberg kirke
+Etapp 8: Arneberg - Flisa 
+
+Arneberg kirke (Ã¸stre side)
+
+T-korsning Arneberg kirke (ikke skiltet)
 
 Dubbel T-korsning Kvesetmoen
+ Fv2068: Svanberg
+ SolÃ¸r Montessori, Saga NÃ¦ringspark
+ OpplÃ¦ringssenter
 
-T-korsning Kløfta
-(Kløfta bru)
- Solørbanen
+T-korsning KlÃ¸fta
+ Fv2066: Bjerkely
+(KlÃ¸fta bru)
+ SolÃ¸rbanen
 
-T-korsning Sætre
- Myren
+T-korsning SÃ¦tre
+ Fv2068: Ã…slia
 
-Rasteplass Baltebøl
+Rasteplass BaltebÃ¸l (vestre side)
 
-T-korsning Isaksætre
+T-korsning IsaksÃ¦tre
+ Fv2082: Knappom, SyversÃ¦tre
+ MiljÃ¸stasjon, Tangen (sevÃ¦rdighet)
 (Flissundet bru)
  Flisa, 161 m
 
 T-korsning Flissundet
- Flissundet
+ Flissundet, Myrmoen
+ Flissundet Motorservice
 
-Bensinstasjon: Uno-X
-Restaurang: Flisa Burger
+T-korsning Rv 2/Industrivegen
+ Sundmoen
 
+Bensinstasjon: Uno-X (vestre side))
+Restaurang: Flisa Burger (vestre side))
+					/)
+T-korsning Rv 2/Skolevegen
+ Ungdomsskole, Barneskole
+
+T-korsning Flisa RÃ¥dhus
+ Glommen Skog, Vareleveranse Ã…snes sykehjem
+
+T-korsning Rv 2/Idrettsvegen)
+(T-korsning Rv 2/RÃ¥dhusgata)
+ Legesenter, Helsestasjon, Sykehjem
 Bensinstasjon: Esso
-Rondell Flisa Rådhus
 
-Tankställe Flisa vest
- Bensinstasjon: Circle-K
+Rondell Flisa
+ 206 Ã¸: Ã…snes Finnskog
+ 206 v: SnÃ¥lroa
+ Restaurant: Folkets Steakhouse, SolÃ¸r Sushi & Wok
+ Hotel: Victoria Hotel, Svanberg Pensjonat
 
-T-korsning Såset
- Åsnes kirke
+Restarant: Pizzeria Kaktus
+
+Bensinstasjon: Circle-K
+T-korsning Rv 2/FrÃ¸yas gate (ikke skiltet)
+ (Bensinstasjon: Circle-K)
+
+T-korsning Sï¿½set
+ Ã…snes kirke
 
 Halsa
 
 Korsning Haslerud
- Åsnes kirke
+ ï¿½snes kirke
 
 (T-korsning Haslerud stasjon)
 
-T-korsning Sjølivegen
+T-korsning Sjï¿½livegen
 
-Åsnes / Våler
+ï¿½snes / Vï¿½ler
 
 T-korsning Haslemoen
  Hotel: Haslemoen leir
 
-T-korsning Storskjæret
- Storskjæret
+T-korsning Storskjï¿½ret
+ Storskjï¿½ret
 
 T-korsning
  210
@@ -231,24 +361,24 @@ T-korsning Braskereidfoss Forestia
 
 Kryss Braskereidfoss
  Bensinstasjon: YX
- Café: Nystuen
+ Cafï¿½: Nystuen
 
-Våler / Elverum
+Vï¿½ler / Elverum
 
 T-korsning Hornsbergsenga
  Hornsbergsenga
 
-Dubbel T-korsning Jømna sør
+Dubbel T-korsning Jï¿½mna sï¿½r
 
-Jømna bru
- Jømna, 58,5 m
+Jï¿½mna bru
+ Jï¿½mna, 58,5 m
 
 T-korsning
- Prærien
+ Prï¿½rien
 
-Järnvägskorsning
- Solørbanen
-T-korsning Jømna vest
+Jï¿½rnvï¿½gskorsning
+ Solï¿½rbanen
+T-korsning Jï¿½mna vest
 
 T-korsning Heradstun
  Storhov
@@ -259,19 +389,19 @@ Dubbel T-korsning Heradsbygd kirke
  Storhov
 
 Rasteplass Skjefstadfossen
-T-korsning Skjefstadfossen øst
+T-korsning Skjefstadfossen ï¿½st
 
 T-korsning Elverum Camping
 
-Dubbel T-korsning Skogsmuséet
+Dubbel T-korsning Skogsmusï¿½et
 
 T-korsning Elverum vgs
  Sentrum syd
 
-T-korsning Rådhuset
+T-korsning Rï¿½dhuset
  Sentrum
 
 Rondell Rv 2/Rv 25
  25 v: Trysil, Elverum nord
- 25 ø: Hamar, Elverum stasjon
+ 25 ï¿½: Hamar, Elverum stasjon
  [3]: Oslo, Trondheim
