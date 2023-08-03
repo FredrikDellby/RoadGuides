@@ -328,80 +328,142 @@ Bensinstasjon: Circle-K
 T-korsning Rv 2/Frøyas gate (ikke skiltet)
  (Bensinstasjon: Circle-K)
 
-T-korsning S�set
+T-korsning Såset (kun skiltet nordgående)
+ Fv2078: Åsnes kirke
+
+Bru over Halsa
+
+Korsning Haslerud (kun skiltet sydgående)
  Åsnes kirke
-
-Halsa
-
-Korsning Haslerud
- �snes kirke
 
 (T-korsning Haslerud stasjon)
 
-T-korsning Sj�livegen
+T-korsning Sjølivegen
+ Fv2080: Sjøli
 
-�snes / V�ler
+Åsnes / Våler: (60.6301394,11.9242197)
 
 T-korsning Haslemoen
- Hotel: Haslemoen leir
+ Infoplass Haslemoen
+ Montasje, Rørlegger
 
-T-korsning Storskj�ret
- Storskj�ret
+T-korsning Storskjæret
+ Storskjæret, Motorbane
 
-T-korsning
- 210
+T-korsning Grønland Rv 2
+ 210: Eid, Våler
 
 Dubbel T-korsning Rivenes
+ Fv2100 v: Våler sentrum, (nye) kirke
+ Fv2100 ø: Holtsjøen, Strætkvern
+ Aktivitetspark
+ Bensinstasjon: Esso
+ Restarant: Kina restaurant Haifen, Dennis Kro og Pizzeria
+ Hotel: Heia Hotel
 
 T-korsning Rokkerud
+ Fv2116: Våler nord
 
 T-korsning Rv 3/Svenskevegen
+ Fv2088: Sønsterud, Aktivitetspark
+ Torvdriftsmuseum (seværdighet), Klatrepark
 
 T-korsning Braskereidfoss Forestia
+ Fv2114: Trafikksenter, Vålerhallen
+ Solør v.g. skole, Info: Industri
 
-Kryss Braskereidfoss
+Avfart(+påfart) Braskereidfoss Rv 2
+(kun nordgående retning)
+ Fv2104: Gisti
+ Fv2094 ø: Gravberget
+
+T-korsning Braskereidfoss Rv 2
+ Fv2094 ø: Gravberget
+ Fv2094 v: Braskereidfoss sentrum
+ Støa Camping
  Bensinstasjon: YX
- Caf�: Nystuen
 
-V�ler / Elverum
+Våler / Elverum: (60.7523586,11.7622731)
+(Bru over Sorma)
+
+T-korsning Sormbrua
+ Dyrepensjonat
 
 T-korsning Hornsbergsenga
  Hornsbergsenga
 
-Dubbel T-korsning J�mna s�r
+Dubbel T-korsning Jømna sør
+ Fv2118: Melåsberget, Jømna, Skysstasjon
+ Jømna steinhvelvbru (seværdighet), Næringshage
+ Skybakk
 
-J�mna bru
- J�mna, 58,5 m
+Jømna bru (58,5 m)
+ Jømna
 
 T-korsning
- Pr�rien
+ Prærien
 
-J�rnv�gskorsning
- Sol�rbanen
-T-korsning J�mna vest
+Jernbanekryss
+ Solørbanen
+T-korsning Jømna vest
+ Fv2118: Melåsberget, Jømna, Næringshage
+
+T-korsning Heradsbygd idrettsplass
+ Silkebækken, Skistadion
+(Heradsbygd Idrettsplass (vestre side))
+
+(Hageland Elverum (østre side))
 
 T-korsning Heradstun
- Storhov
+ Storhov (liten skilt)
+
+(Heradstun Samfunnshus (vestre side))
 
 T-korsning Heradsbygd
+ Fv2118: Hogstadgrenda
+(Coop Prix Heradsbygd (vestre side))
+ Bensinstasjon
 
 Dubbel T-korsning Heradsbygd kirke
- Storhov
+ Storhov (liten skilt)
+ Heradsbygd kirke (liten skilt)
 
-Rasteplass Skjefstadfossen
-T-korsning Skjefstadfossen �st
+(T-korsning Lillemoen skole)
 
-T-korsning Elverum Camping
+Rasteplass Skjefstadfossen)
+(vestre side, skiltet i begge retninger)
+					/)
+T-korsning Skjefstadfossen øst
+ Fv2152: Hagen
 
-Dubbel T-korsning Skogsmus�et
+Jernbanebru
+ Solørbanen
+
+(Munthegaarden (østre side))
+
+(T-korsning Elverum Kloakkrenseanlegg)
+ Elverum Kloakkrenseanlegg
+
+(T-korsning Hanstad skole Rv 2)
+ Hanstad skole
+ REMA 1000, KIWI
+
+T-korsning Hanstad nord (ikke skiltet)
+
+T-korsning (lokal vei)
+ Elverum Camping
+
+Dubbel T-korsning Skogsmuseet
+ Fv2150:
+ Fv2148:
 
 T-korsning Elverum vgs
  Sentrum syd
 
-T-korsning R�dhuset
+T-korsning Rådhuset
  Sentrum
 
 Rondell Rv 2/Rv 25
  25 v: Trysil, Elverum nord
- 25 �: Hamar, Elverum stasjon
+ 25 ø: Hamar, Elverum stasjon
  [3]: Oslo, Trondheim
