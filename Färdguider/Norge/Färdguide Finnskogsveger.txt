@@ -1,5 +1,5 @@
-Färdguide Fv1996 (gjennom Magnor)
-==================================
+Färdguide Fv1996 (Magnorvegen)
+================================
 
 T-korsning Magnor-sør
  2 s: Karlstad, Charlottenberg
@@ -33,31 +33,49 @@ T-korsning Grensevegen/Nessjøvegen
  [2], [21]
 
 
-Färdguide Fv1998 (Skotterud - Matrand)
-=======================================
+Färdguide Fv1998 (Skotterud - Matrand, "Skotterudvegen")
+=========================================================
 
 T-korsning Skotterud brannstasjon
+ [2]: Kongsvinger, Karlstad
+ [21]: Ørje, Vestmarka
+ 202: Austmarka, (Magnor)
+
+Bensinstasjon: Esso (østre side)
 
 T-korsning Skotterud sentrum
+ Sentrum
 Rondell Skotterud sentrum
+ Fv1982: Stranda, Eidskoghallen
+
+Korsning Matrandvegen/Skotterudberget
+ Bøndenes Hus (liten skilt)
 
 T-korsning Nystuen (ikke skiltet)
 
-Bergtun Næringspark
-Eidskog-Stangeskovene
+Bergtun Næringspark (vestre side)
+Eidskog Stangeskov (vestre side)
 
-Gjenvinningsstasjon
+Gjenvinningsstasjon (østre side)
 T-korsning Sjøli
+ Hesbøl
 
-Jernbanebru
+Jernbanebru (3,7 m fri høyde)
+ Kongsvingerbanen/Grensebanen
 
-(ViaCon AS Cementfabrikk)
+(Bruket/Eidskog lys (vestre side))
+(ViaCon AS Cementfabrikk (vestre side))
 
-(Casa Møbel & interiør)
+(Casa Møbel & interiør (vestre side))
 
-Dubbel T-korsning Eidskog kirke
+T-korsning Eidskog kirke (ikke skiltet)
 
-(Dubbel) T-korsning Matrand skole
+Eidskog kirke (østre side)
+ Skolemuseum
+
+T-korsning Matrand skole
+ Fv1970: Rudberg
+(Matrand skole (østre side))
 
 (T-korsning Matrand idr. plass)
 T-korsning Matrand-nord
