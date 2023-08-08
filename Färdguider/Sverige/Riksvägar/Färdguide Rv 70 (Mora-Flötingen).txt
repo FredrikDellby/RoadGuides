@@ -1,7 +1,7 @@
 Färdguide Rv 70 (Mora - Flötingen)
 ===================================
 
-Etapp 14: Mora - Älvdalen ()
+Etapp 14: Mora - Oxberg ()
 
 Rondell E45/Älvgatan
  E45 s: Torsby, Malung
@@ -34,11 +34,85 @@ Korsning Frostkitten
  Myrängsgårdens Gästgiveri
 
 T-korsning (enskild väg)
+(asfalterad, ej förskyltad)
  Östnor
 
-Parkering Alderängarna: (61.0517269,14.4353717)
+Parkering Alderängarna (västra sidan): (61.0517269,14.4353717)
  Sevärdhet
-s
-Etapp 15: Älvdalen - Särna ()
 
-Etapp 16: Särna - Flötingen ()
+(Parkering Grönbergsrundan)
+(östra sidan, ej skyltad)
+
+T-korsning Björka fäbodar
+ Våmhus, Bergtäkt, Asfaltsverk
+
+T-korsning Spjutmo Rv 70 (lokal väg)
+ Spjutmo kraftstation
+
+Mora / Älvdalen: (61.1010348, 14.2939932)
+
+Rastplats Spjutmosjön (västra sidan)
+ Restaurang: ?
+
+Korsning Garberg Rv 70 (enskild väg)
+ Budhed
+ Garberg, Zorns Gopsmorstuga
+
+Korsning Gumgården (enskild väg)
+ Garberg, Zorns Gopsmorstuga
+
+Korsning Garberg V
+ Blyberg
+
+(Parkeringsplats, grusplan (östra sidan))
+T-korsning Oxberg Rv 70
+ Sälen, Oxberg, Träskofabrik
+
+Etapp 15: Oxberg - Älvdalen ()
+
+T-korsning Blybergsvilan Ö
+ Blyberg
+(Järnvägsviadukt)
+ Älvdalsbanan
+
+Korsning Blybergsvilan V (lokal väg)
+ Utlastning/Loading
+ Blybergs kraftstation
+
+Blybergssågen (åt båda håll)
+
+Parkeringsplats (östra sidan, ej skyltad))
+                    /)
+Parkeringsplats (västra sidan, ej skyltad)
+
+Gåsvarvsbanan (västra sidan)
+
+T-korsning Gåsvarv (enskild väg)
+ Älvdalslax, Väsa kraftstation
+
+(T-korsning Skinnarboda Rv 70)
+ Enskild väg, ej skyltad
+
+T-korsning Märbäck (enskild väg)
+ Skinnarbodarna, Industri: Märbäck, iCell
+
+T-korsning Östäng (enskild väg)
+ Infoplats
+Restaurang: Östängs Kompani
+
+(Korsning Skärklitts väg (enskild väg))
+ Nybolet, Skärklitt
+
+(T-korsning Rv 70/Trotvägen)
+(ej skyltad, asfalterad, belyst)
+Hotell: Tre Björnar
+
+Bensinstation: Din-X
+Dubbel T-korsning Rv 70/Hagalundsv.
+ Sälen, Evertsberg
+ Industri: Hagalund, Idrottsplats
+ Återvinningscentral (lokal väg)
+
+Etapp : Älvdalen - Särna ()
+
+Etapp : Särna - Flötingen ()
