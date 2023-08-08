@@ -25,8 +25,8 @@ T-korsning E134/Industrigata
 
 Rondell Amtmannssvingen-vest
  Frydenlund
-(Bensinstasjon: Esso )
-(Restaurant: Nam Nam)
+(Bensinstasjon: Esso (søndre side))
+(Restaurant: Nam Nam (søndre side))
 
 Rondell Amtmannssvingen-øst
  282 s: Drammen
@@ -56,6 +56,7 @@ T-korsning Gullaugkleiva
  Gullaugkleiva Parkering
 
 (T-korsning E134/Fjordsvingen)
+(ikke skiltet)
 
 Korsning Engersand
  Engersand Friluftsområde
@@ -63,10 +64,59 @@ Korsning Engersand
 Rondell Lahellkrysset
  Fv2684: Klokkarstua, Hyggen
 
-Dubbel T-korsning Brøholt
+(Lier / Asker
+T-korsning (annleggsvei)
+ Anleggsområde, Daueruddalen
+
+Lier / Asker): (59.729745,10.319798)
+
+T-korsning E134/Brøholtskogen
+ lokal vei, ikke skiltet
+
+T-korsning E134/Dagslettveien
+ lokal vei, ikke skiltet
 
 T-korsning E134/Brøholtveien
  Carpe Diem Barnehage
 
-Rondell (E134/Spikkestadveien)
+Rondell E134/Spikkestadveien
  Spikkestad stasjon
+
+Kryss Auvi
+ Hyggen, Industri: Auvi
+ Fv2690: Røyken
+ Kjekstad Golfklubb
+
+Rondell Røyken Rådhus
+ 165: Slemmestad, Oslo
+
+Midtbygda bru (140 m): (59.7374149,10.415261)
+ over dalsøkk (ikke skiltet)
+
+Rondell (Krokodden?)
+ Fv2692: Åros
+
+Elgskauåstunnelen-nord (2 630 m)
+
+(Elgskauåstunnelen-syd
+                    (/
+Rondell E134/Smemyrveien
+ Industri: Røyken Næringspark
+
+Sagbakken bru (140 m): (59.6977973,10.4863541)
+ over dalsøkk (ikke skiltet)
+
+Rasteplass Skånevann (østgående))
+                    /)
+Kongensdal bru (132 m): (59.6850402,10.5043442)
+ over dalsøkk (ikke skiltet)
+                    (/
+(Rasteplass Kalvetjern (vestgående)
+
+Sætreelva bru (166 m): (59.6693436,10.5206583 / 59.6684029,10.5229364)
+ Sætreelva (ikke skiltet)
+
+Rondell Sætre S
+ 289 (ferge): Svelvik
+ [281]: Tofte, Holmsbu
+ Sætre
