@@ -499,10 +499,10 @@ Korsning Optand N E14 (enskild väg)
 Korsning E14/Karl Johans väg (lokal väg)
  Optand, Ej förskyltad
 
-(Dubbel T-korsning (lokal väg))
- Ej skyltad
 T-korsning Lund
  Ope
+(Dubbel T-korsning (lokal väg))
+ Grytan/Lund (små skyltar)
 
 T-korsning Stor Grytan
  Jämt-Kross AB, Handelsträdgård
@@ -511,7 +511,44 @@ T-korsning Stor Grytan
 T-korsning Brunflo Hembygdsgård (lokal väg)
  Sörbygården Logi & Hästgård (B&B)
  Hembygdsgård, Lantbruksmuseum (sevärdhet)
+(Östersunds Värme & Kylteknik (södra/västra sidan))
 
 Trafikkontrollplats (norra/östra sidan)
+(ej skyltad från vägen i någon riktning)
+
+Parkerings/Infoplats (västra/södra sidan)
+(ej skyltad, troligtvis nedlagd)
+
+Bensinstation: OKQ8 (västra/södra sidan)
 
 T-korsning Brunflo centrum
+ Brunflo kyrka (sevärdhet)
+ Idrottsplats/Badplats, Bibliotek
+
+T-korsning E14/Gränsvägen (lokal väg)
+
+T-korsning E14/Mariebyvägen (lokal väg)
+ ej skyltad
+
+(Bolist Brunflo (norra/östra sidan))
+
+Inrättningar direkt intill vägen (0-500 m):
+ Parkering/Blomsterkiosken (södra/västra sidan)
+ Restaurang Chili (norra/östra sidan)
+ Järnvägsmuseum (södra/västra sidan)
+ Muho Pizzeria & Gatukök (Rett Inn)/Brunflo stationshus (södra/västra sidan)
+ Bensinstation: Gulf (norra/östra sidan)
+ Parkering/Shell Truck Diesel (södra/västra sidan)
+ Gustahuset/ELON (norra/östra sidan)
+
+T-korsning E14/Rissnavägen
+ Rissna, Vikvallen
+
+T-korsning E14/Garagevägen (lokal väg)
+ Antik & begagnat, Pendelparkering
+
+Rondell Brunflo S/Häggdalen
+ E45 s: Mora, (Sveg, Svenstavik)
+ Industri: Brunflo S
+ Storsjöbygdens Golfklubb
+ Häggdalen (enskild väg)
