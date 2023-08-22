@@ -1,0 +1,121 @@
+Færdguide 21 (København - Sjællands Odde)
+==========================================
+
+Korsning Folehaven (Pr 21/O2)
+ O2
+ [16, 19]: Helsingør, Hillerød
+(T-korsning 21/Sønderkær)
+ ikke skilted
+
+Kryds Hvidovre (1)
+
+Motorvejskryds Brøndby
+
+Kryds Brøndbyvester (2)
+
+Kryds Vallensbæk N (3)
+
+Motorvejskryds Vallensbæk-øst
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Motorvejskryds Vallensbæk-nord
+(afkørsel østgående retning
+indkørsel vestgående retning)
+
+Motorvejskryds Taastrup-syd
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Kryds Roskildevej Ø (4)
+(østgående retning)
+
+Kryds Roskildevej V (5)
+(vestgående retning)
+
+Motorvejskryds Taastrup-vest
+(afkørsel østgående retning
+indkørsel vestgående retning)
+
+Kryds Høje Taastrup C (6)
+
+Kryds Høje Taastrup S (7a)
+
+Kryds Baldersbrønde (7b)
+(afkørsel østgående retning
+indkørsel vestgående retning)
+
+Kryds Fløng (8)
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Kryds Trekroner (9)
+
+Kryds Roskilde Ø (10)
+
+Kryds Roskilde SØ (11)
+(afkørsel østgående retning
+indkørsel vestgående retning)
+
+Kryds Roskilde S (12)
+
+Kryds Ringstedvej (13)
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Kryds Roskilde V (14)
+
+Rasteplads Kornerup (østgående)
+
+Kryds Gevninge (15)
+
+Rasteplads Torkilstrup
+
+Kryds Kirke Sonnerup (16)
+
+Kryds Kirke Sonnerup (16)
+
+Motorvejskryds Holbæk
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Rasteplads Arnakke
+
+Kryds Holbæk Ø (18)
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Kryds Holbæk C (19)
+
+Rasteplads Springstrup
+
+Kryds Holbæk V (20))
+(afkørsel vestgående retning
+indkørsel østgående retning)
+ 155: Kalundborg, Tuse Næs
+                    /)
+Motorvej / Motortrafikvej: (55.7169549,11.6321737)
+                    (/
+(Kryds Holbæk V
+(afkørsel østgående retning
+indkørsel vestgående retning)
+ 155 v: Kalundborg, Tuse Næs
+ 155 ø: Holbæk
+
+(Bro over Skjolds Løb)
+
+(Bro over Skjolds Løb)
+
+Kryds Asnæs
+
+Kryds Vig
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+(Mittrekk slutter / begynder
+                    (/
+Kryds Nykøbing Sjælland
+ 225 n: Nykøbing Sj.
+ 225 s: Slagelse, Vig
+ Sommerland Sj. (Camping/stuer)
+
