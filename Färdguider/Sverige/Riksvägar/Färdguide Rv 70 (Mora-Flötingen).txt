@@ -98,14 +98,14 @@ T-korsning Märbäck (enskild väg)
 
 T-korsning Östäng (enskild väg)
  Infoplats
-Restaurang: Östängs Kompani
+Restaurang: Östängs Kompani (östra sidan)
 
 (Korsning Skärklitts väg (enskild väg))
  Nybolet, Skärklitt
 
 (T-korsning Rv 70/Trotvägen)
 (ej skyltad, asfalterad, belyst)
-Hotell: Tre Björnar
+Hotell: Tre Björnar (västra sidan)
 
 Bensinstation: Din-X
 Dubbel T-korsning Rv 70/Hagalundsv.
@@ -113,6 +113,132 @@ Dubbel T-korsning Rv 70/Hagalundsv.
  Industri: Hagalund, Idrottsplats
  Återvinningscentral (lokal väg)
 
-Etapp : Älvdalen - Särna ()
+Etapp 16: Älvdalen - Rot ()
 
-Etapp : Särna - Flötingen ()
+Älvdalens station (västra sidan)
+Ellies Street Food (västra sidan)
+
+T-korsning (lokal väg)
+ Utbildningscentrum, Församlingshem, Diakonicentret
+Bensinstation: Preem (västra sidan)
+
+Korsning Älvdalsskolan (lokal väg)
+ Älvdalsskolan (ej skyltad)
+ Parkering Älvdalens kyrka
+
+Rondell Älvdalen centrum (lokal väg)
+ Skidstadion, Sporthall
+ Sim-/Ishall
+ Camping, Badplats, fiske
+
+Bensinstation: OKQ8 (östra sidan)
+
+T-korsning Rv 70/Hotellgatan (lokal väg)
+ Porfyrmuseum, Dragspelsmuseum
+ (ICA Supermarket/Systembolaget)
+
+(Korsning Rv 70/Furuvägen)
+ Folktandvård, Vårdcentral (väldigt små skyltar)
+
+Korsning Rv 70/Skansvägen
+ Byggvaruhus
+
+Restaurang: Pizzologi (västra sidan)
+
+Levo Livs m.m. (västra sidan)
+
+(Sawasdee Thai Take Away & Catering (östra sidan))
+
+T-korsning Rv 70/Villagatan (lokal väg)
+ Lastbilscentral
+
+(T-korsning Rv 70/Porfyrvägen)
+ ej skyltad, möjligen upplyst
+
+T-korsning Holen Rv 70
+ Näset, Holen, Älvdalsfönster
+
+(T-korsning Rots skans S)
+ Rots Skans/Elfdalens Hembygdsgård, S:a parkering
+
+T-korsning Rot V/Rv 70
+ Sveg, Lillhärdal, Klitten
+ Bo på Lantgård, Nässjön badplats
+(Bro över Rotälven)
+
+Etapp 17: Rot - Åsens Kraftverk ()
+
+T-korsning Månsta vsk
+ Karlsarvet, Månsta
+
+T-korsning (enskild väg)
+ Lägerplats
+
+Lägerplats (västra sidan)
+
+T-korsning Kuntmått
+ Åsen, Brunnsberg, Badplats
+
+T-korsning (enskild väg)
+ Brunnsberga lägerplats
+
+Bro över Österdalälven
+
+T-korsning 
+ Månsta, Karlsarvet
+
+Parkeringsplats (östra sidan)
+
+Parkeringsplats (östra sidan)
+
+(T-korsning Rv 70/Sälbergsvägen)
+ Sälberget, Enskild väg
+
+(T-korsning Rv 70/Kanalvägen)
+ Åsen, Enskild väg, ej skyltad
+
+T-korsning Åsenbron Rv 70
+ Åsen, Brunnsberg, Badplats 
+(Korsning (lokal väg))
+ Gamla vägen, avstängd
+
+Etapp 18 Åsens Kraftverk - : () 
+
+(Parkeringsplats (grus))
+(östra sidan, direkt invid vägen)
+T-korsning Åsens kraftverk
+ Hedbodarna
+
+T-korsning Trängsletvägen
+ Trängslet (sevärdhet), Navardalen
+ Älvdalens skjutfält, Lägerplats
+
+Rytterbygget f.d. Kiosk (östra sidan)
+
+(T-korsning Rv 70/Bleckstuguvägen)
+ Bleckstugan, Enskild väg
+
+(T-korsning (enskild väg))
+ Gatutjärn
+
+(Korsning (enskild väg))
+ Skålån
+
+T-korsning Grimsåkersbrännan
+ Fulunäs, Lövnäs
+ Gryvelåreservatet (sevärdhet)
+
+(T-korsning (enskild väg))
+ Kälkåstupet
+
+T-korsning Bunkris (enskild väg)
+ Björnhult, Bunkris brandtorn (utsiktstorn)
+
+T-korsning Hållbovallen Rv 70
+ Sörsjön, Nornäs (Camping/Badplats)
+ Hållbovallen
+ Gryvelåreservatet (sevärdhet)
+
+(T-korsning Rånäs Rv 70)
+ Rånäs, Enskild väg
+
