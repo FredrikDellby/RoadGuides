@@ -79,12 +79,14 @@ Kryss Skaret
 (avfart nordgående riktning
 påfart sydgående riktning)
  285: Drammen
+(Mittrekk ender / begynner)
 (Skarettunnelen-syd)
  465 m
 					0,7 km/0,6 km	32 s/27 s
 Etapp: Skaret/Lauvkastet - Sundvollen ()
 
 Skarettunnelen-nord
+(Mittrekk begynner / ender)
 					0,3 km/0,3 km	14 s/14 s
 Kryss Lauvkastet
 (avfart sydgående riktning
@@ -93,6 +95,7 @@ påfart nordgående riktning)
 					1.0 km/1.0 km	40 s/40 s
 Rasteplass Nes tunnel (sydgående)
 
+(Mittrekk ender / begynner)
 Kryss Sønsterud
 (avfart nordgående riktning
 påfart sydgående riktning)
@@ -123,29 +126,35 @@ T-korsning Sundvollen
  Hotel: Sundvolden
 
 Etapp: Sundvollen - E16/Rv 7 ()
-
-Kroksund bru (105 m)
+					0,4 km/0,6 km	24 s/36 s
+(Kroksund bru (105 m))
  Tyrifjorden, også molo
-					0.7 km/0.9 km	0 min 42 s/0 min 54 s
+					0,3 km/0,2 km	18 s/12 s
 T-korsning Kroksund
- ingen skyltning
-					2.4 km/2.3 km	2 min 3 s/1 min 58 s
-Garntangen Gatekjøkken
+ ikke skiltet
+					0,6 km/)		31 s/)
+Garntangen Gatekjøkken)
 (vestgående retning)
-
+					0,3 km/1,9 km	0 min 15 s/1 min 38 s
+Mittrekk begynner / ender
+					0,5 km/0,4 km	26 s/21 s
 Kryss Vik
  Fv2854: Røyse, Vik
  Rasteplass Vik
  Bensinstasjon: Circle-K, Shell
-
+ Restaurant/Café: Vik skysstasjon
+					(/0,3 km		(/14 s
 Serviceplass Vik-vest (østgående)
  Bensinstasjon: Shell, Café
-					1.2 km/1.4 km	0 min 54 s/1 min 3 s
-Påfart (østgående)
-
+					(/0,4 km		(/21 s
+Pårampe (østgående)
+					1,1 km/0,9 km	50 s/41 s
 Kryss Steinsåsen
-(ej påfart østgående)
+(ikke pårampe østgående)
+ Steinsåsen
 					1.2 km/1.0 km	54 s/45 s
+Mittrekk ender / begynner)
+
 T-korsning Steinsalléen
  Selte
 					1.0 km/1.0 km	45 s/45 s
@@ -173,12 +182,15 @@ Kryss Hvervenkastet
 Storelva bru (185 m)
  Storelva
 					1.0 km/0.8 km	45 s/36 s
-Kryss Bærenga
+Styggdalskrysset
  350: Hokksund, Vikersund
  Hønefoss Sentrum
 					2.2 km/2.2 km	1 min 39 s/1 min 39 s
+(Over jernbanekulvert)
+ Randsfjordbanen
+
 Rondell E16/Rv 7
- 7: Bergen, Gol
+ 7: Bergen, Geilo, Gol
 (Jernbaneviadukt)
  Bergensbanen
 
