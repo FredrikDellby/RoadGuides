@@ -1,0 +1,97 @@
+Færdguide 23 (Tølløse - Kalundborg)
+====================================
+
+Motorvejskryds Holbæk
+(afkørsel vestgående retning
+indkørsel østgående retning)
+
+Kryds Tølløse
+
+Kryds Kvanløse
+
+Kryds Jernløse
+
+(Motorvej slutter / begynder): (55.6599226,11.5779729 / 55.658665,11.5696855)
+
+Korsning 23/Skovvejen
+(Motortrafikvej begynder / slutter)
+
+Rasteplads Møllekrog (T-korsning)
+
+(Motortrafikvej slutter / begynder)
+T-korsning 23/Holbækvej
+ Holbæk?
+(Motortrafikvej begynder / slutter)
+
+Kryds Mørkøv
+
+(Motortrafikvej slutter / begynder)
+T-korsning 23/Bennebovej
+ Bennebo
+(Motortrafikvej begynder / slutter)
+
+(Motortrafikvej slutter / begynder)
+T-korsning (ikke skiltet)
+(Motortrafikvej begynder / slutter)
+
+(Motortrafikvej slutter / begynder)
+Rondell 23/Cementvejen
+(Motortrafikvej begynder / slutter)
+
+(Motortrafikvej slutter / begynder)
+Korsning 23/Holbækvej
+(Motortrafikvej begynder / slutter)
+
+(Jernbanebro)
+
+T-korsning 23/Industrivej
+ Industriparken
+
+Kryds Jyderup
+
+Korsning 23/Amtsvejen
+
+Korsning 23/Bjergsted Byvej
+
+Rondell 23/Bjergsted Byvej
+(Midtræk slutter / begynder)
+
+Kryss Svebølle
+(Motortrafikvej slutter / begynder)
+
+T-korsning Viskinge-øst
+ Viskinge
+
+(Dubbel) T-korsning Viskinge-vest
+ Viskinge
+(JØ Service-ATV-Motorcykler-Cross (nørre side, ikke skiltet))
+
+T-korsning 23/Forsingevej
+ Forsinge
+
+T-korsning 23/Ærtebjergvej
+ Smakkerup
+
+T-korsning Birkendegård-øst
+ Kaldred
+ Grusgrav, Kalundborg Flyveklub
+
+T-korsning Birkendegård-vest
+ Værslev
+
+Dubbel T-korsning Asmindrup vej 23
+ Asmindrup
+ Ubberup Højskole
+
+Korsning 23/Tingvejen
+ Ubberup
+ Kærby, Ubberup Valgmenighedskirke
+
+Dubbel T-korsning 
+ Kærby, Gårdbutik
+ Spangsbro, Tømmerup
+ Efterskole, Idrætscenter
+
+Rondell 23/Holbækvej
+ Røsnes, Kalundborg C (naturskøn vej)
+ ​Røsnæs Naturcamping/stuer etc.
