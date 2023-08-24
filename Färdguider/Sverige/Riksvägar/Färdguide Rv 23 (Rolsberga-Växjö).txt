@@ -449,7 +449,6 @@ Trp Älmhult
  Sjöstugans Camping & Vandrarhem
  Bensinstation: Din-X
  Restaurang: Sibylla, IKEA, Subway
-(2+1-väg upphör / börjar)
 
 Etapp 9: Älmhult - Liatorp ()
 
@@ -460,7 +459,8 @@ T-korsning Älmhult NO (lokal väg)
 T-korsning
  120 ö: Tingsryd
 
-(Korsning (enskild väg))
+Korsning (enskild väg)
+(spansk sväng sydgående)
  Nyatorp
 
 Dubbel T-korsning Brännhult
@@ -468,25 +468,32 @@ Dubbel T-korsning Brännhult
  Linnés Råshult (sevärdhet)
  Lidshult (enskild väg)
 
+Bro över Helge å: (56.5923795,14.2020994)
+
 Rastplats Såganäs
 
-(Dubbel T-korsning Såganäs S (enskild väg))
+Dubbel T-korsning Såganäs S (enskild väg)
  Bohult
- Såganäs Camping
+ Såganäs, Camping
 
 Korsning Såganäs N (enskild väg)
- Steningeboda, Husbilsparkering
+ Steningeboda
  Såganäs
 
-((Dubbel) T-korsning (enskild väg))
+Korsning (enskild väg)
  Duvelycke, Röshult
 
-(T-korsning (enskild väg))
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
+ Järpanäs
+ Bergön, Stubbinge
+
+T-korsning (enskild väg)
+(spansk sväng nordgående, ej förskyltad sydgående)
  Virkenhult
 
 T-korsning Ljungstorp
  Holkya
-(2+1-väg börjar / upphör)
 
 Korsning Liatorp Rv 23
  Virestad
@@ -494,33 +501,27 @@ Korsning Liatorp Rv 23
 
 Etapp 10: Liatorp - Gottåsa ()
 
-(Korsning (enskild väg))
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
  Ej skyltade?
 
 Dubbel T-korsning
- Diö
+ Ljungby, Diö, Linnéleden
  Hyltan (enskild väg)
 
 Korsning Eneryda vägskäl
  Vare
  Eneryda, Info Älmhult
 
-<<<<<<< HEAD
-Korsning Lindås Älmhult (enskild väg)
- Lindås
- Kulla, Sågverk
-
-(Stora Parkeringsfickor)
-
-=======
 (T-korsning (nordgående))
  Rosendal, Enskild väg (ej förskyltad)
 Korsning Lindås (enskild väg)
  Lindås
  Kulla, Sågverk
 
->>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f
-Korsning (enskild väg)
+(Stora Parkeringsfickor)
+
+Korsning Degerön (enskild väg)
  Boön, Degerön
  Värpeshult
 
@@ -533,21 +534,21 @@ T-korsning Boansö (enskild väg)
 Dubbel T-korsning Lövhult
  Källhult
  Barnhult (enskild väg)
-<<<<<<< HEAD
- (Bensinstation: Eneryda bensin?)
-=======
- Bensinstation: Lövhults bensin
+ Bensinstation: Lövhults Bensin
+ Restaurang: Lövhults Taverna
 
 Dubbel T-korsning (infarter, ej skyltade)
->>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f
+(spanska svängar på båda)
 
 Korsning (enskild väg)
  Tagelkärr
  Naturreservat, Taglamyren
 
-<<<<<<< HEAD
-=======
 T-korsning (infart, ej skyltad)
+(spansk sväng nordgående)
+
+Korsning (enskild väg)
+ Ej skyltad
 
 Korsning (enskild väg)
  Ej skyltad
@@ -555,7 +556,28 @@ T-korsning Granhyltan (infart, enskild väg)
  MellisGård Lantcafé och Hästkörning (ej skyltad)
 
 Korsning (enskild väg)
- Ej skyltad?
+(spanska svängar båda riktningar)
 
 T-korsning (infart, ej skyltad)
->>>>>>> 867de1b0d2c5ed476d009a3302a4cb7bec4ce75f
+(spansk sväng nordgående)
+
+Antikt Loppan (östra sidan)
+Korsning Gottåsa Gård (enskild väg)
+ Ej skyltad
+
+T-korsning (enskild väg)
+ Ej skyltad (infart?)
+
+Dubbel T-korsning Gottåsa vägskäl
+ 126 n: Alvesta, Vislanda
+ 126 s: Karlshamn, Ryd
+ Åsnens nationalpark, Trollberget
+
+T-korsning Rv 23/Skatelövsv.
+ Grimslöv
+ Camping: Torne Gård/Torne Camping
+ Hotell/Restaurang: Grimslövs Gästgiveri/Wärdshus
+ Café: Smörhöga Lantcafé
+
+T-korsning (enskild väg)
+ Ej skyltad (infart?)
