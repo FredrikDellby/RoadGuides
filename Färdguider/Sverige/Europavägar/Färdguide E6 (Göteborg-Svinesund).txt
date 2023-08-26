@@ -1,7 +1,7 @@
-Reseguide E6 Göteborg - Svinesund
+Reseguide E6 GÃ¶teborg - Svinesund
 ==================================
 
-Etapp 11: Göteborg - Kungälv (19,1 km/19,3 km)
+Etapp 11: GÃ¶teborg - KungÃ¤lv (19,1 km/19,3 km)
 
 Olskroksmotet (74)
  E20: Stockholm
@@ -10,108 +10,109 @@ Gullbergsmotet (75)
  E45 n: Karlstad
  E45 s: Frederikshamn
 (Tingstadstunneln-syd)
+ 454 m
 					0,8 km/0,6 km	32 s/24 s
 (Tingstadstunneln-nord)
-Ringömotet-syd (76)
-(avfart nordgående riktning
-påfart sydgående riktning)
- [155]: Öckerö
+RingÃ¶motet-syd (76)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ [155]: Ã–ckerÃ¶
 					0,6 km/1.1 km	24 s/44 s
-(Ringömotet-nord (76))
-(påfart nordgående riktning)
+(RingÃ¶motet-nord (76))
+(pÃ¥fart nordgÃ¥ende riktning)
 Tingstadsmotet (77)
  Backa S
- [155]: Öckerö
+ [155]: Ã–ckerÃ¶
 					1,8 km/1,9 km	1 min 12 s/1 min 16 s
 Backadalsmotet (78)
- Selma Lagerlöfs Torg
+ Selma LagerlÃ¶fs Torg
  Stigs Center
- Bensinstation: Shell, Preem, OKQ8
-	        Statoil
+ Bensinstation: Shell, Preem, OKQ8, Circle-K
  Restaurang: McDonald's
 					1,2 km/1,2 km	48 s/48 s
-Bäckebolsmotet (79)
- Tagene, Bäckebol
+BÃ¤ckebolsmotet (79)
+ Tagene, BÃ¤ckebol
  Bensinstation: Shell, Preem
 					1,9 km/1,7 km	1 min 16 s/1 min 8 s
-Avfart+Påfart (80)
-(nordgående riktning)
- Bäckebol
+Avfart+PÃ¥fart (80)
+(nordgÃ¥ende riktning)
+ BÃ¤ckebol
  Bensinstation: OKQ8
  Restaurang: McDonald's, IKEA
 					1,3 km/1,5 km	0 min 52 s/1 min 0 (
-Kärramotet (81)
- Kärra S, Orrekulla
+KÃ¤rramotet (81)
+ KÃ¤rra S, Orrekulla
  Bensinstation: St1
 					1,3 km/1,0 km	52 s/40 s
 Klarebergsmotet (82)
  Angered
- Torslanda, Säve
- Hamnarm, Säve flygplats
+ Torslanda, SÃ¤ve
+ Hamnar, SÃ¤ve flygplats
 					1,0 km/1,2 km	36 s/43 s
 Rastplats Klareberg
-(sydgående riktning)
+(sydgÃ¥ende riktning)
  Turistinformation
 					4,9 km/4,3 km	2 min 56 s/2 min 35 s
-Rödbomotet (84)
-(avfart nordgående riktning
-påfart sydgående riktning)
- Kungälv S, Bohus fästning
+Jordfallsmotet (84)
+(avfart nordgÃ¥ende riktning
+pÃ¥fart sydgÃ¥ende riktning)
+ KungÃ¤lv S, Bohus fÃ¤stning
  [E45]: Karlstad
 					1,3 km/1,7 km	0 min 47 s/1 min 1 s
-Jordfallsmotet (85)
+(GÃ¶teborg /): (57.8580839,11.9886404)
+RÃ¶dbomotet (85)
  [E45]: Karlstad
- Bohus fästning
+ Bohus fÃ¤stning
  Torslanda
 					0,8 km/0,5 km	29 s/18 s
-Nordreälvsbron-syd
-(Göteborg / Kungälv)
+/ KungÃ¤lv): (57.8611202,11.9802242)
+NordreÃ¤lvsbron-syd (956 m): (57.8620261,11.9778699)
 					1,0 km/1,0 km	36 s/36 s
-Nordreälvsbron-nord
+NordreÃ¤lvsbron-nord
 					0,4 km/1,1 km	14 s/40 s
-Kungälvsmotet (86)
+KungÃ¤lvsmotet (86)
  168: Marsstrand, Ytterby
- Kungälvs sjukhus
+ KungÃ¤lvs sjukhus
  Bensinstation: Preem, St1
  Restaurang: McDonald's
 
-Etapp 12: Kungälv - Torp (58,9 km/58,7 km)
+Etapp 12: KungÃ¤lv - Torp (58,9 km/58,7 km)
 					1,9 km/1,2 km	1 min 2 s/0 min 39 s
 Rollsbomotet (87)
- Kungälv N
- Rollsbo industriområde
+ KungÃ¤lv N
+ Rollsbo industriomrÃ¥de
  Bensinstation: St1
 					8,2 km/9,2 km	4 min 28 s/5 min 1 s
 Kodemotet (88)
  Bensinstation: Statoil
 					2,3 km/1,4 km	1 min 15 s/0 min 46 s
-Kungälv / Stenungsund
+KungÃ¤lv / Stenungsund
 					2,2 km/2,3 km	1 min 12 s/1 min 15 s
-Jörlandamotet (89)
-(avfart nordgående rikting
-påfart sydgående riktning)
- Stora Höga, Jörlanda
+JÃ¶rlandamotet (89)
+(avfart nordgÃ¥ende rikting
+pÃ¥fart sydgÃ¥ende riktning)
+ Stora HÃ¶ga, JÃ¶rlanda
 					5,0 km/4,9 km	2 min 44 s/2 min 40 s
-Stora Högamotet (90)
+Stora HÃ¶gamotet (90)
  Stenungsund S, C,
- Stora Höga, Jörlanda
- 160: Tjörn, Orust
+ Stora HÃ¶ga, JÃ¶rlanda
+ 160: TjÃ¶rn, Orust
  Ucklum
- Rastplats Spekeröd
- Bensinstation: Statoil
+ Rastplats SpekerÃ¶d
+ Bensinstation: Circle-K
  Restaurang: Burger King
 					4,4 km/4,8 km	2 min 24 s/2 min 37 s
 Stenungsundsmotet (91)
  Stenungsund Industri
- [160]: Tjörn, Orust
- Färja: Svanesund
+ [160]: TjÃ¶rn, Orust
+ FÃ¤rja: Svanesund
 					6,1 km/5,6 km	3 min 20 s/3 min 3 s
-Ödsmålsbron-syd
+Ã–dsmÃ¥lsbron-syd (386 m)
 					0,4 km/1,3 km	13 s/43 s
-(Ödsmålsbron-nord)
-Rastplats Ödsmålsbron
-(nordgående riktning)
- Café/Restaurang: Utsikten
+(Ã–dsmÃ¥lsbron-nord)
+Rastplats Ã–dsmÃ¥lsbron
+(nordgÃ¥ende riktning)
+ CafÃ©/Restaurang: Utsikten
 					5,2 km/4,3 km	2 min 50 s/2 min 21 s
 Stenungsund / Uddevalla
 					6,4 km/6,6 km	3 min 29 s/3 min 36 s
@@ -123,82 +124,85 @@ Ljungsskilemotet (93)
  Ljungsskile N, Ulvesund
  Rastplats Ljunsskile
  Bensinstation: Shell
- Café/Restaurang: Laxbutiken
+ CafÃ©/Restaurang: Laxbutiken
 					7,2 km/7,0 km	3 min 56 s/3 min 49 s
 Lerbomotet (94)
  Uddevalla S, C
- [44]: Vänersborg, Trollhättan
+ [44]: VÃ¤nersborg, TrollhÃ¤ttan
  [172]: Bengtsfors
 					3,9 km/3,6 km	2 min 8 s/1 min 58 s
-Uddevallabron-syd
+Uddevallabron-syd (1712 m)
+ Byfjorden
 					1,7 km/1,7 km	56 s/56 s
 Uddevallabron-nord
 					2,2 km/2,7 km	1 min 12 s/1 min 28 s
-Södra Torpmotet (96.1)
+SÃ¶dra Torpmotet (96.1)
  Uddevalla N, C
- 44: Vänersborg, Trollhättan
+ 44: VÃ¤nersborg, TrollhÃ¤ttan
  [172]: Bengtsfors
  161: Lysekil
  Bensinstation: Preem
  Restaurang: McDonald's
 
-Etapp 13: Torp - Gläborg (22,0 km/21,4 km)
+Etapp 13: Torp - GlÃ¤borg (22,0 km/21,4 km)
 					1,0 km/0,6 km	33 s/20 s
 Norra Torpmotet (96.2)
- Torp Köpcentrum N, IKEA
+ Torp KÃ¶pcentrum N, IKEA
 					3,4 km/3,3 km	1 min 51 s/1 min 48 s
 Trafikkontrollplats
 					1,3 km/1,8 km	43 s/59 s
 Hogstorpsmotet (97)
  Hogstorp
- Bensinstation: Statoil
- Restaurang: Simons Värdshus
+ Bensinstation: Circle-K
+ Restaurang: Simons VÃ¤rdshus
 					4,2 km/3,6 km	2 min 17 s/1 min 58 s
 Uddevalla / Munkedal
 					2,7 km/2,9 km	1 min 28 s/1 min 35 s
-Saltkällemotet (98)
+SaltkÃ¤llemotet (98)
  Munkedal
 					0,7 km/1,0 km	23 s/33 s
-Munkedalsbron
+Munkedalsbron-syd (494 m)
+ Ã–rekilsÃ¤lven
+
+Munkedalsbron-nord
 					2,7 km/3,1 km	1 min 28 s/1 min 9 s
 Munkedalsmotet (99)
  Munkedal
 					3,6 km/4,4 km	1 min 58 s/2 min 24 s
-Håbymotet (100)
- Håby, Munkedal
- Rastplats Håby
+HÃ¥bymotet (100)
+ HÃ¥by, Munkedal
+ Rastplats HÃ¥by
  Bensinstation: OKQ8
  Restaurang: Bohusrasta
 					2,5 km/1,6 km	1 min 22 s/0 min 52 s
-Gläborgsmotet (101)
+GlÃ¤borgsmotet (101)
  162: Lysekil
- 165: Hällevadsholm, Dingle
+ 165: HÃ¤llevadsholm, Dingle
  171: Kungshamn
 
-Etapp 14: Gläborg - Tanum (30,8 km/31,1 km)
+Etapp 14: GlÃ¤borg - Tanum (30,8 km/31,1 km)
 					4,3 km/4,4 km	2 min 21 s/2 min 24 s
 Dinglemotet (102)
- 174 ö: Dingle
+ 174 Ã¶: Dingle
  174 v: Hunnebostrand, Bovallstrand
 					4,3 km/4,3 km	2 min 21 s/2 min 21 s
 Munkedal / Tanum
 					2,2 km/2,2 km	1 min 12 s/1 min 12 s
 Grindmotet (103)
- 163 ö: Hällevadsholm
- 163 v: Fjällbacka	
-
-Grindtunneln)
+ 163 Ã¶: HÃ¤llevadsholm
+ 163 v: FjÃ¤llbacka	
+					/)
+Grindtunneln (149 m))
 					3,0 km/3,2 km	1 min 38 s/1 min 45 s
-(Rastplats Tegen
-(sydgående riktning)
+(Rastplats Tegen (sydgÃ¥ende)
 					3,4 km/3,4 km	1 min 51 s/1 min 51 s
 Rabbalshedemotet (104)
  Rabbalshede
 					9,9 km/10,5 km	5 min 24 s/5 min 44 s
-Rastplats Världsarvet
- Hällristningar
+Rastplats VÃ¤rldsarvet
+ HÃ¥llristningar (sevÃ¤rdhet)
 					1,6 km/1,1 km	52 s/36 s
-Gerumstunneln
+Gerumstunneln (250 m)
 					2,1 km/2,0 km	1 min 9 s/1 min 5 s
 Tanumsmotet (105)
  163: Bullarebygden
@@ -210,50 +214,60 @@ Etapp 15: Tanum - Svinesund (45,9 km/45,7 km)
 					2,3 km/2,3 km	1 min 15 s/1 min 15 s
 Rylandsmotet (106)
  Tanumshede N, C
- 163: Fjällbacka, Grebbestad
+ 163: FjÃ¤llbacka, Grebbestad
 					5,3 km/5,0 km	2 min 53 s/2 min 44 s
-Knämmotet (107)
- Sannäs
+KnÃ¤mmotet (107)
+ SannÃ¤s
 					5,0 km/5,5 km	2 min 44 s/3 min 0 s
 Lurmotet (108)
  Lur
- Resö
+ ResÃ¶
 					3,6 km/3,2 km	1 min 58 s/1 min 45 s
-Tanum / Strömstad
+Tanum / StrÃ¶mstad
 					3,7 km/4,2 km	2 min 1 s/12 min 17 s
-Sältenmotet (109)
- Saltö, Tjärnö, Råssö
+SÃ¤ltenmotet (109)
+ SaltÃ¶, TjÃ¤rnÃ¶, RÃ¥ssÃ¶
 					1,3 km/1,4 km	43 s/46 s
-Rastplats Femstenaberg)
-(nordgående riktning)
+Rastplats Femstenaberg (nordgÃ¥ende)
 					2,9 km/3,0 km	1 min 35 s/1 min 38 s
 Skeemotet (110)
  Skee
- Båleröd
+ BÃ¥lerÃ¶d
  Bensinstation: Statoil
 					2,3 km/2,1 km	1 min 15 s/1 min 9 s
-Strömstadsmotet (111)
- 164 ö: Åmål, Ed, Skee
- 164 v: Strömstad
+StrÃ¶mstadsmotet (111)
+ 164 Ã¶: Ã…mÃ¥l, Ed, Skee
+ 164 v: StrÃ¶mstad
 					3,7 km/4,1 km	2 min 1 s/2 min 14 s
 Blomsholmsmotet (112)
- 176: Strömstad
- Färja: Kosteröarna
+ 176: StrÃ¶mstad
+ FÃ¤rja: KosterÃ¶arna
 					4,4 km/3,9 km	2 min 24 s/2 min 8 s
-(Rastplats Dynekilen
-(sydgående riktning)
+Rastplats Dynekilen (sydgÃ¥ende)
 					2,1 km/2,2 km	1 min 9 s/1 min 12 s
+Dynekilsbron (ca 400 m, ej skyltad): (59.0048914,11.2325715 / 59.0081608,11.2342189)
+ Ej skyltad
+
 Hogdalsmotet (113)
- Hogdal, Lökholmen
+ Hogdal, LÃ¶kholmen
 					6,5 km/6,5 km	3 min 33 s/3 min 33 s
 Nordbymotet (114)
- Svinesund, Nordby köpcenter
+ Svinesund, Nordby kÃ¶pcenter
  Bensinstation: OKQ8
  Restaurang: Burger King, McDonald's
 					1,9 km/1,7 km	1 min 2 s/0 min 56 s
-Svinesundsbron-syd
-(Sverige / Norge)
-(Västra Götaland / Østfold)
-(Strömstad / Halden)
+(VÃ¤stra GÃ¶taland /
+(StrÃ¶mstad /
+					(/
+Avfart (nordgÃ¥ende)
+ f.d. betalstationen
+Tullstation Svinesund (sydgÃ¥ende)
+					/)
+Svinesundsbron-syd): (59.0902321,11.2523777)
+(Sverige /): (59.0905952,11.2521457)
+
 					0,7 km/0.7 km	23 s/23 s
-Svinesundsbron-nord
+Svinesundsbron-nord: (59.0966108,11.2513383)
+/ Norge): (59.0971524,11.2511965)
+/ Viken): (59.0978828,11.2510648)
+/ Halden)
