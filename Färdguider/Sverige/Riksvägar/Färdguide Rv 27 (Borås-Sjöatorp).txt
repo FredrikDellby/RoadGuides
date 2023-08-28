@@ -7,25 +7,43 @@ Viaredsmotet (83)
  40 v: Göteborg, Landvetter
  40 ö: Jönköping, Borås
 
-Rondell
+Rondell Viared SO
+ Industri: Viared
+ Enskild väg (ej skyltad)
+ Bensinstation: Shell
+ Restaurang: Burger King
 
 Korsning
+ Bosnäs
+ Enskild väg (ej skyltad)
 
 Trp Osdal
-(Bro över Viskan)
+ Viskafors
+ Borås C
+					/)
+Bro över Viskan)
 
-T-korsning
+T-korsning Rv 27/Gässlösav.
+ Gässlösa, Lokal väg
 
 Trp Kråkered
  41 s: Varberg, Kinna
- 41 n: Borås
+ 41 n: Borås C
 
 Etapp 4: Kråkered - Kilabro (15,4 km/15,4 km)
 					0.7 km/0.7 km	42 s/42 s
 Rondell Skrämbo
- Ljushult, Öd
+ Kråkered, Borås Golfklubb & Restaurang
+ Vandring: Björkehov
+ Badplats: Transås
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
-Dubbel T-korsning (lokal väg)
+(T-korsning Rv 27/Kråkereds sjöväg (sydgående))
+ Kråkereds sjöväg, Enskild väg
+
+Dubbel T-korsning (enskild väg)
+ Knallestenen (sevärdhet), Brukshundklubb
+ Hagadalen, Byggvaruhus
+ Älmås Naturreservat (sevärdhet)
 
 T-korsning Enskild väg
 
