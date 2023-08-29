@@ -1,71 +1,7 @@
-F�rdguide F�ljev�gen Kungsbacka-Varberg
-=======================================
+Färdguide Följevägen (Gamla E6) Varberg (Krogen)-Kungsbacka (väg N845/839)
+===========================================================================
 
-T-korsning Kungsbacka
- [158]: S�r�
- Varla
-J�rnv�gskorsning
-T-korsning
- Fors
-					1.3 km/0.8 km	1 min 57 s/1 min 12 s
-T-korsning Inlag
- Inlag
- H�lab�ck
-					2.3 km/2.5 km	1 min 58 s/2 min 9 s
-Korsning Hanhalsv�gen
-T-korsning Hanhalsv�gen
- Hanhals holme
-					1.9 km/2.1 km	1 min 38 s/1 min 48 s
-T-korsning Gressela
- Fj�r�s
-J�rnv�gskorsning
-					2.3 km/2.7 km	1 min 58 s/2 min 19 s
-T-korsning Fj�r�s station
- Fj�r�s, �skhults by
-Bensinstation: Shell
-Trp Fj�r�s
-					1.9 km/1.2 km	1 min 38 s/1 min 2 s
-T-korsning Torpa skola
-					0.9 km/0.9 km	0 min 46 s/0 min 46 s
-T-korsning Torpa smedja
- Tjol�holm
-					4.6 km/4.6 km	3 min 57 s/3 min 57 s
-T-korsning Flamsn�s
- �lmevalla K:a
-					1.7 km/2.1 km	1 min 27 s/1 min 48 s
-T-korsning �lman�sv�gen
- �lman�s
-Rondell �lman�sv�gen
-					2.9 km/2.5 km	4 min 21 s/3 min 45 s
-T-korsning Vassb�ck
- Landa
-					2.2 km/2.6 km	2 min 12 s/2 min 36 s
-J�rnv�gskorsning
-Rondell Frilles�s N
- [E6][E20]: G�teborg
- Horred
-					1.2 km/1.0 km	1 min 48 s/1 min 30 s
-Rondell Frilles�s C
- Horred
-					0.7 km/0.7 km	1 min 3 s/1 min 3 s
-Kungsbacka / Varberg
-					1.3 km/1.3 km	1 min 7 s/1 min 7 s
-Korsning K�rra Str�valla
- Str�valla strand
- Str�valla
-					5.2 km/5.2 km	4 min 27 s/4 min 27 s
-T-korsning V�r�backa N
- Ringhals
-					0.4 km/0.4 km	0 min 36 s/0 min 36 s
-Korsning V�r�backa C
- Str�valla
-					0.9 km/1.0 km	1 min 21 s/1 min 30 s
-Trp V�r�backa
- Bua
- [E6]
-
-
-======
+Etapp 1: Krogen - 
 
 Rondell Krogen
  [E6-E20 n]: Göteborg, Kungsbacka
@@ -86,7 +22,7 @@ Korsning Bläshammar N (enskild väg)
  Bläshammar N
  Naturreservat, Gamla Varberg (sevärdhet)
 
-Bruces Plantskola
+Bruces Plantskola (östra sidan)
 
 (T-korsning (enskild väg))
  Fogeldammen
@@ -115,16 +51,15 @@ T-korsning Paradis (enskild väg)
 
 (Dubbel) T-korsning Åskloster S
  (Bäck (enskild väg))
- Derome
- Trä- & Nostalgimuseum (sevärdhet, Café)
+ Derome, Trä- & Nostalgimuseum (sevärdhet, Café)
 
-Patrik Svensson Bil Ab)
+Patrik Svensson Bil AB (östra sidan))
 					/)
 Korsning Åskloster C (lokal väg)
 
-Klostergrillen
+Klostergrillen (östra sidan)
 
-(Åskloster industri)
+(Åskloster industri (västra sidan))
 T-korsning Åskloster N (enskild väg)
  Ås kloster (sevärdhet), Klosterfjordens GK
 
@@ -133,9 +68,227 @@ Broar över Viskan
 T-korsning Lilla Sunnvära
  Nyebro, Åkraberg trädgård
 
-T-korsning Backa södra (lokal fäg)
+T-korsning Backa södra (lokal väg)
  Pålsonplåt Hellberg & Co AB (ej skyltad)
 
-Trp Väröbacka
+Trp Väröbacka södra
+ Veddige, [E6-E20]
+ Bua
+ Södra Cell/Södra Timber
+					0.9 km/1.0 km	1 min 21 s/1 min 30 s
+T-korsning Varbergsv./Lidenvägen
+ Lokal väg, ej skyltad
+ICA Nära Zachrisson (östra sidan)
 
-=============================
+Restaurang: Värö Pizza Kebab AB (västra sidan)
+Korsning Väröbacka C
+ Stråvalla, Värö k:a
+ Lantmännen, Isbana
+					0.4 km/0.4 km	0 min 36 s/0 min 36 s
+(Korsning Varbergsv./Backavägen)
+ Lokal väg, Ej skyltad
+Restaurang: Väröbacka värdshus (östra sidan)
+
+T-korsning Väröbacka N (lokal väg)
+ Ringhals, Industri: Väröbacka
+
+Bensinstation: Din-X (östra sidan)
+					5.2 km/5.2 km	4 min 27 s/4 min 27 s
+Korsning Väröbacka skola (lokal väg)
+ Väröbackaskolan (ej skyltad?)
+
+(Korsning Höga (enskild väg))
+ Stavder
+
+(Dubbel T-korsning Libos (enskild väg))
+ Sallebacka
+ Kvarnen (ej skyltad)
+
+(T-korsning Varbergsv./Källstorpsvägen
+ Källstorp, Enskild väg
+ Isbana (endast skyltad sydgående)
+
+Korsning Kärra Stråvalla
+ Stråvalla, Stråvalla kyrka (sevärdhet)
+ Stråvalla strand, Keramik (enskild väg)
+ Hembygdsgård, Stråvalla Camping
+
+					1.3 km/1.3 km	1 min 7 s/1 min 7 s
+Varberg / Kungsbacka
+					(/
+(Bro över Löfta å
+					0.7 km/0.7 km	1 min 3 s/1 min 3 s
+Rondell Frillesås korsväg
+ Horred, Industri: Rya
+ Torstensvik, Vallersvik
+ Pendelparkering
+ Vallersvik Camping och Vandrarhem
+ Torstensviks havsbad, Fagerviks strand
+					1.2 km/1.0 km	1 min 48 s/1 min 30 s
+Korsning Göteborgsv./Bastevägen
+ Lokal väg, Ej skyltad
+(Frillesås Brandstation (östra sidan))
+
+Rondell Frillesås N
+ [E6][E20]: Göteborg, Malmö
+ Horred
+
+Etapp : Frillesås - Åsa ()
+
+Järnvägsviadukt
+ Västkustbanan
+					2.2 km/2.6 km	2 min 12 s/2 min 36 s
+(T-korsning Rågelund södra)
+ Rågelund, Enskild väg
+
+T-korsning Rågelund norra (lokal väg)
+ Rågelunds Camping (ej skyltad)
+
+T-korsning Vassbäck
+ Landa k:a (sevärdhet), Freadal B&B
+					2.9 km/2.5 km	4 min 21 s/3 min 45 s
+Dubbel T-korsning Kuggavik (lokala vägar, samma sida)
+ Kuggaviksgården/Åsa Vandrarhem STF
+ Solvik
+
+T-korsning Varbergsv./Folkhögskolev.
+ Löftadalens Folkhögskola, Lokal väg
+
+T-korsning Åsa idrottsplats
+ idrottsplats, Lokal väg
+
+(T-korsning Varbergsv./Karlsviksv.)
+ Restauranger
+
+(Restauranger (västra sidan))
+
+Korsning Varbergsv./Stenviksvägen
+ Badplats, S:t Lars kyrka, Församlingsgården
+
+Tankställe Åsa (västra sidan)
+
+Tankställe Åsa (västra sidan)
+
+T-korsning Åsa centrum (lokal väg)
+ ICA Supermarket, mm
+
+Rondell Varbergsv./Gästgiveriv.
+ Lokal väg, Ej skyltad
+
+T-korsning Åsa Gårdsskola (lokal väg)
+
+Rondell Ölmanäsvägen
+ Stockalid, Åsa station
+ Hästholmen, Vårdcentral, Skola
+
+Etapp : Åsa - Trp Fjärås ()
+
+(Autokonsult Bil & Marin (östra sidan))
+T-korsning Varbergsv./Ölmanäs Ringväg
+ Gårda Brygga, Ölmanäs
+ Gårda Havsbad, Surf Center
+					1.7 km/2.1 km	1 min 27 s/1 min 48 s
+Korsning Flamsnäs
+ Stockalid, Ölmevalla K:a
+ Dotetorp (enskild väg)
+					4.6 km/4.6 km	3 min 57 s/3 min 57 s
+T-korsning Lekarekulle (enskild väg)
+ Dotetorp
+
+(T-korsning Asserlundsvägen)
+ Dotetorp, Torpa Kvarn, Enskild väg
+
+(Dubbel) T-korsning Torpa smedja
+ (Torpa Mejeriväg (ej skyltad))
+ Tjolöholm, Tjolöholms slott (sevärdhet)
+ Gårdsbutik, Pepparrotsodling
+ Restaurang: Storstugan, Kafé Manegen
+					0.9 km/0.9 km	0 min 46 s/0 min 46 s
+T-korsning Torpa skola
+ Tom
+					1.9 km/1.2 km	1 min 38 s/1 min 2 s
+(f.d. Camping (östra sidan))
+
+Trp Fjärås-syd
+ E6-E20 s: Malmö, Varberg
+
+Etapp : Trp Fjärås - Gressela ()
+
+Trp Fjärås-nord
+ E6-E20 n: Göteborg
+
+Rondell Fjärås station
+ Horred, Tostared, Fjärås
+ Äskhults by, Fjärås Bräcka (sevärdheter)
+ Äskatorp (enskild väg)
+ Bensinstation: Shell
+					2.3 km/2.7 km	1 min 58 s/2 min 19 s
+T-korsning 
+ Lantmannabutik, Bil- och däckservice
+
+T-korsning (enskild väg)
+ Torkelstorp, Cajom
+
+T-korsning Sätinge (lokal väg)
+ Träningsprodukter
+
+Järnvägsviadukt
+ Västkustbanan
+
+T-korsning Gressela
+ Sätila, Fjärås
+					1.9 km/2.1 km	1 min 38 s/1 min 48 s
+Etapp : Gressela - Kungsbacka ()
+
+Camp Gressela (östra sidan)
+
+T-korsning Stegatorp (enskild väg)
+ Myra Golfklubb
+Hanhals Kyrkogård (östra sidan)
+
+T-korsning Varbergsv./Strevav. (lokal väg)
+ Åkeriterminal, Magnusson & söner
+
+Dubbel T-korsning Hanhalsvägen
+ Hanhalsholme
+ Myra
+ Hunehals borg, Hanhals k:a (sevärdheter)
+ Hilmersgården (Café), Thaimat
+					/)
+Bro över Rolfsån)
+					2.3 km/2.5 km	1 min 58 s/2 min 9 s
+T-korsning Varbergsv./Hammargårdsv.
+ EKSTA, Lokal väg
+
+T-korsning Varbergsv./Nejlikev.
+ Lokal väg, Ej skyltad
+
+Rondell Varbergsv./Blåklintsv. (lokal väg)
+ S:ta Gertruds kyrka
+ Västra Hammerö
+
+Rondell Hålabäck södra
+ Hålabäck, Hammerö, Fors
+ [E6-E20], [158]: Särö
+ Onsala, Industri: Hammerö
+ Industri/Handelsområde: Inlag
+ Bensinstation: St1
+
+Rondell Inlag södra (lokal väg)
+ Industri/Handelsområde: Inlag
+ Aranäsgymnasiet, Sportcenter, Teater
+ Hålabäck
+
+Bensinstation: Circle-K (västra sidan)
+ 					1.3 km/0.8 km	1 min 57 s/1 min 12 s
+Dubbel T-korsning Inlag norra
+ Parkering: Kungsbacka innerstad, Polis
+ Anneberg, Hällingsjö
+ [E6-E20], Sjukhus
+ Bensinstation: Preem
+
+Järnvägsviadukt
+ Västkustbanan
+
+Korsning Kungsbacka station
+ [158]: Särö (ej skyltad)
