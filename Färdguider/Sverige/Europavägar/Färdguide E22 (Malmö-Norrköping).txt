@@ -95,16 +95,17 @@ Trp Fogdarp (27)
 					2,6 km/2,1 km	1 min 34 s/1 min 16 s
 Busshållplats
 
-Höör / Hörby
+Motorväg upphör / börjar: (55.8337395,13.5548828)
+Höör / Hörby: (55.8344486,13.5570911)
 					0,7 km/0,9 km	25 s/32 s
-Infoplats
-(nordgående riktning)
+Infoplats (nordgående))
 					2,2 km/2,1 km	1 min 19 s/1 min 16 s
 Trp Osbyholm (28)
  Osbyholm
  Lyby, Hörby
+(Motortrafikled börjar / upphör)
 					2,8 km/3,2 km	1 min 41 s/1 min 55 s
-(Bro över Hörbyån)
+(Bro över Hörbyån (ej skyltad))
 
 Trp Norrehe (29)
  13 s: Ystad, Hörby
@@ -116,13 +117,14 @@ Trafikplats Hörby (30)
  Hörby
  S. Rörum
 
+(Motortrafikled / Motorväg): (55.8654979,13.6913345)
 Trp Hörby norra (31)
  Hörby
 
 Trp Ekeröd (32)
  Rastplats Ekerödsrasten
 
-Hörby / Kristianstad
+Hörby / Kristianstad: (55.9131066,13.7704461)
 
 Trp Linderöd (33)
 (avfart nordgående riktning
@@ -132,7 +134,7 @@ påfart sydgående riktning)
 Trp Knopparp (34)
  Linderöd, Tollarp
 
-Bro över Vramsån
+Bro över Vramsån (ej skyltad): (55.9514662,13.9115866 / 55.9518604,13.9130276)
 
 Trp Nöbbelöv (35)
  19 s: Ystad, Tomelilla

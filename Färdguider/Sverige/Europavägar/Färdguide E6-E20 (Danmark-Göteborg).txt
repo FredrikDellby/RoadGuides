@@ -371,11 +371,11 @@ Kallebäcksmotet-syd (70a)
 påfart sydgående riktning)
  Kallebäck
  Bensinstation: Shell, INGO
-					1,5 km/1,2 km	1 min 0 s/0 min 48 s
-Kallebäcksmotet-öst (70b)
+					/)
+Kallebäcksmotet-öst (70b))
 (avfart nordgående)
  40: Jönköping, Landvetter Flygpl.
-
+					1,5 km/1,2 km	1 min 0 s/0 min 48 s
 Kallebäcksmotet-nord (70)
 (avfart sydgående riktning
 påfart nordgående riktning)

@@ -389,9 +389,10 @@ Rudshøgdakrysset (75)
  Kvarstad Sjokoladefabrikk
 					5.4 km/5.3 km	4 min 4 s/3 min 58 s
 Skarpsnotunnelen (310 m)
-(110 km/h / 70 km/h)
+					/)
+110 km/h / 70 km/h)
 					1.2 km/1.2 km	54 s/54 s
-Kryss Moelv (76)
+Moelvkrysset (76)
  213 n: Moelv
  [216]: Sjusjøen
  213 s: Stavsjø, Ringsaker kirke
@@ -399,7 +400,9 @@ Kryss Moelv (76)
  Bensinstation: Shell
  Restaurant: Mjøsa Pizzeria og Restaurant
 					1.0 km/0.8 km	45 s/36 s
-Brennerivika bru, 41,5 m
+Mittrekk ender / begynder)
+
+Brennerivika bru (41,5 m)
  Moelva
 					(/
 (Moelvtunnelen (197 m)
@@ -888,4 +891,5 @@ Dubbel T-korsning Dombås sentrum
 Bensinstasjon: Circle-K
 
 Rondell E6/E136
+ E6 n: Trondheim, Hjerkinn
  E136: Ålesund, Åndalsnes
