@@ -1,105 +1,121 @@
-Färdguide 158 (Kungsbacka - Göteborg)
+FÃ¤rdguide 158 (Kungsbacka - GÃ¶teborg)
 ======================================
 
 Etapp 1: Kungsbacka - E6 (1,8 km/2,2 km)
 
-T-korsning Kungsbacka stn.
- Fjärås, Kungsbacka S
+Korsning Kungsbacka station (ej skyltad?)
+ FjÃ¤rÃ¥s, Kungsbacka S
+ Varla, TÃ¶lÃ¶
 					0,5 km/0,5 km	36 s/36 s
-T-korsning 158/Varlavägen
- Varla, Kungsmässan
+Bro Ã¶ver KungsbackaÃ¥n
+
+Rondell Lv 158/VarlavÃ¤gen
+ KungsmÃ¤ssan, Resecentrum
+ Industri: Varla
+ Parkeringar
 					0,6 km/0,6 km	43 s/43 s
 Rondell Tingberget
- Onsala, Tingberget
+ Tingberget
+ Onsala, FjÃ¤rÃ¥s
 					0,5 km/0,5 km	30 s/30 s
-T-korsning 158/Kobergsgatan
+T-korsning Lv 158/Kobergsgatan (lokal vÃ¤g)
+ Industri: Varlaberg
+ DistriksveterinÃ¤r, Skatehall
 					0,3 km/0,7 km	18 s/42 s
-Trp Kungsbacka Centrum
- E6-E20 s: Malmö, Varberg
- E6-E20 n: Göteborg
+Trp Kungsbacka Centrum-Ã¶st
+ E6-E20 n: GÃ¶teborg
  Klovsten
 
-Etapp 2: E6 - Järnbrott (21,8 km/21,9 km)
+Trp Kungsbacka Centrum-vÃ¤st
+ E6-E20 s: MalmÃ¶, Varberg
+
+Etapp 2: Trp Kungsbacka Centrum - JÃ¤rnbrott (21,8 km/21,9 km)
 					1,1 km/0,8 km	1 min 6 s/0 min 48 s
 T-korsning Ysby
- Bröndome
+ BrÃ¶ndome
+ GÃ¥rdsbutik: NaturgÃ¥rden, Smedja
+ Bil- och DÃ¤ckverkstad
 					0,7 km/0,7 km	36 s/36 s
-Korsning Hönsaryd (enskild väg)
- Hönsaryd
+Korsning HÃ¶nsaryd (enskild vÃ¤g)
+ HÃ¶nsaryd
+(T-korsning (enskild vÃ¤g, ej skyltad))
 					0,8 km/0,8 km	41 s/41 s
 Rondell Vallda trekant
- Gottkärr, Lerkil, Vallda
+ GottskÃ¤r, Lerkil, Vallda
 					0,8 km/0,8 km	36 s/36 s
-T-korsning
+Korsning
  Kyrkobyn
 					1,0 km/1,0 km	45 s/45 s
-T-korsning Kungsbacka GK
- Golfbana, Naturreservat
+T-korsning Kungsbacka GK (lokal vÃ¤g)
+ Golfbana, Galleri, Naturreservat
 					1,2 km/1,2 km	54 s/54 s
 T-korsning
- Släp K:a
+ SlÃ¤ps k:a
+ SandsjÃ¶backa, Konstgalleri
 					0,3 km/0,3 km	14 s/14 s
 T-korsning Guntofta
- Särö
+ SÃ¤rÃ¶, SÃ¤rÃ¶ GK
 					1,6 km/2,2 km	1 min 12 s/1 min 39 s
-Trp Särö
- Särö, Bukärr
+Trp SÃ¤rÃ¶
+ SÃ¤rÃ¶, BukÃ¤rr
  Bensinstation: Shell
 					3,2 km/2,8 km	2 min 8 s/1 min 52 s
 Trp Kullavik
  Kullavik
 					1,3 km/1,7 km	0 min 52 s/1 min 8 s
-Lindåsmotet
+LindÃ¥smotet
  Lindome
- Lindås, Billdal
+ LindÃ¥s, Billdal
  Bensinstation: OKQ8
 					4,8 km/4,4 km	3 min 12 s/2 min 56 s
-Brottkärrsmotet
- Brottkärr, Billdal, Hovås
+BrottkÃ¤rrsmotet
+ BrottkÃ¤rr, Billdal, HovÃ¥s
 					1,8 km/1,7 km	1 min 33 s/1 min 27 s
-Hovåsmotet
-(avfart sydgående riktning
-påfart nordgående riktning)
- Hovås
+HovÃ¥smotet
+ HovÃ¥s
 					1,0 km/1,4 km	0 min 51 s/1 min 12 s
 Korsning Askimsbadet
- Trollåsen
+(spanska svÃ¤ngar bÃ¥da riktningar)
+ TrollÃ¥sen
  Askimsbadet
  Bensinstation: Shell
 					0,9 km/1,1 km	46 s/57 s
-Korsning Askims stationsväg
+Korsning Askims stationsvÃ¤g
+(spanska svÃ¤ngar bÃ¥da riktningar)
  Askims Torg
  Hult
- Bensinstation: Statoil
+ Bensinstation: Circle-K
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
-Järnbrottsmotet
- [E6], Mölndal
+JÃ¤rnbrottsmotet
+ [E6], MÃ¶lndal
  Centrum, Hisingen, Hamnar
 
-Etapp 3: Järnbrott - Linnéplatsen (5,4 km/5,1 km)
+Etapp 3: JÃ¤rnbrott - LinnÃ©platsen (5,4 km/5,1 km)
 					0,5 km/0,4 km	26 s/21 s
-T-korsning Järnbrott Preem
-(nordgående riktning)
+T-korsning JÃ¤rnbrott Preem
+(nordgÃ¥ende, sydgÃ¥ende endast buss)
  Bensinstation: Preem
+ Restaurang: Burger King, MAX
+
 Radiomotet
-(avfart sydgående riktning
-påfart nordgående riktning)
- Järnbrott
+(avfart sydgÃ¥ende riktning
+pÃ¥fart nordgÃ¥ende riktning)
+ JÃ¤rnbrott
 					0,9 km/1,1 km	46 s/57 s
 Marconimotet
- Högsbo ind. omr. norra
- Frölunda Torg
- Bensinstation: Statoil, Shell
+ HÃ¶gsbo ind. omr. norra
+ FrÃ¶lunda Torg
+ Bensinstation: Circle-K, Shell
 					1,3 km/1,3 km	1 min 7 s/1 min 7 s
-Flatåsmotet
- Flatås, Hisingen, Högsbohöjd
+FlatÃ¥smotet
+ FlatÃ¥s, Hisingen, HÃ¶gsbohÃ¶jd
 					1,2 km/1,1 km	1 min 2 s/0 min 57 s
 Margaretebergsmotet
- Änggården, Slottsskogen
+ Ã„nggÃ¥rden, Slottsskogen
  Bensinstation: Preem
 					0,8 km/0,5 km	41 s/26 s
 Annedalsmotet
  Sahlgrenska, Guldheden
 					0,7 km/0,7 km	42 s/42 s
-Rondell Linnéplatsen
- Järntorget, Vasaplatsen
+Rondell LinnÃ©platsen
+ JÃ¤rntorget, Vasaplatsen

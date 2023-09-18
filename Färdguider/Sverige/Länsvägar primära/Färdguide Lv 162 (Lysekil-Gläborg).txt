@@ -1,65 +1,140 @@
 Färdguide Lv 162 Lysekil - Gläborg
 ===================================
 
-Etapp 1: Lysekil - Lv 161 ()
+Etapp 1: Lysekil - Ulseröd ()
 
-T-korsning Södra Hamnen
+T-korsning Rosvikstorg (lokal väg)
 
-T-korsning Lysekil station
+T-korsning Södra Hamnen (lokal väg)
+ Södra Hamnen
 
-Rondell
-Bensinstation: Preem
+Hotell/Pub: Lokus (östra sidan)
+T-korsning Lysekil station (lokal väg)
+ Ej skyltad
 
-T-korsning 162/Landsvägsg.
+(Ronnys Bilservice (östra sidan))
+Rondell Lv 162/Valbogatan (lokal väg)
+ Industri: Hamn, Grötö, Infartsparkering
+ Valbodalen, Gullmarsborg, Sim och ishall
+ Kronobergshallen, Sjukhus
 
-Rondell
+(T-korsning Lv 162/Börjessonsliden (lokal väg))
+(endast skyltad sydgående)
+ Parkering/laddning: Börjessonsliden
 
-T-korsning 162/Dalskogsleden
-Bensinstation: Tanka
+T-korsning Lv 162/Landsvägsgatan (lokal väg)
+ Bensinstation: Preem
 
-T-korsning 162/Industrivägen
-Bensinstation: St1
+Rondell Dalskogen S (lokal väg)
+ Fiskebäck
+ Gullmarsbadens Camping
+ Bensinstation: Preem
 
-Korsning
- 161: Uddevalla, Fiskebäckskil
+T-korsning 162/Dalskogsleden (lokal väg)
+ Industri: Sivik, Dalskogen
+ Siviks Camping, Badplats
+ Bensinstation: Tanka
 
-Etapp 2: Lv 161 - Hallinden ()
+T-korsning 162/Industrivägen (lokal väg)
+ Industri: Dalskogen N (endast skyltad nordgående)
+ Marenor (endast skyltad sydgående)
+ Bensinstation: St1
+
+T-korsning Ulseröd Lv 162 (enskild väg)
+ Träleberg, Maskinuthyrning
+ Trellebystrands Camping, Badplats
+
+Rondell Ulseröd N
+ 161-Färja: Uddevalla, Fiskebäckskil
+ [E6 s]: Göteborg
+
+Etapp 2: Ulseröd - Brastad ()
 
 Korsning Skal
+ Skalhamn, Lyse k:a
+ Elon
+
+(Hedin bil (västra sidan))
 
 T-korsning Lyse S
+ Alsbäck, Industri: Lyse
+ Gullmarsskogen (vandring)
 
 T-korsning Lyse N
+ Fiskebäcksvik, Kolleröd badplats
+ Preemraff
+
+Niklassons Gummiverkstad (västra sidan)
 
 T-korsning Norrkilavägen
+ Norrkila
 
 T-korsning Häggvall
+ Torgestad
 
 T-korsning Gåseberg södra
+ Sämstad, Holma
+ Industri: Gåseberg
+ Holma Golf, B&B
+
+T-korsning (lokal väg)
+ Toric Farmlodge (Café/B&B)
 
 T-korsning Gåseberg norra
+ Lahälla, Erlings Bil-Toyota
 
 Korsning Nolby
+ Rixö, Bohusgjuteriet
+ Benders
 
-(T-korsning)
+(T-korsning Coop Brastad)
+ f.d. Brastad station, Lokal väg
+
 Rondell Brastad centrum
+ Rixö, B&B Brastad-Lysekil
+ Vårdcentral
+ Restaurang: Pizzeria Valentino
 
-Dubbel T-korsning
-Bensinstation: 1-2-3
+Etapp 3: Brastad - Hallinden ()
+
+T-korsning Brastads Allservice)
+ Husqvarna AB, Lokal väg
+(Restaurang: Oasen)
+
+Dubbel T-korsning (lokala vägar)
+ Brastad Arena, Sporthall
+ ICA Nära (ej skyltad)
+ Bensinstation: INGO
 
 Korsning Stångenäsvallen
+ Sandvik
+ Korp & Son, Si Tech
 
 T-korsning Grytebacken
+ Brastad k:a, Hällristning (sevärdhet)
+
+T-korsning Brodalen S
+ Lokal väg, Ej skyltad
+ Bensinstation: Preem
 
 Korsning Brodalen
-Bensinstation: Preem
+ Sämstad, Brastads Golfklubb
+ Slävik, Röe gård (sevärdhet/café)
 
 T-korsning Bro kyrka
+ Vrångebäck, Bro k:a
+ Villa Bro (hotell/B&B, Restaurang)
+
+T-korsning Axtvetenvägen (enskild väg)
+ Axvetens bergkross
 
 Rondell Hallinden: (58.456714, 11.517622)
  171: Smögen, Kungshamn
+ [174]: Hunnebostrand
+ Kustvägen Bohuslän (naturskön väg)
+ Nordens Ark (+Hotell & Restaurang)
 
-Etapp 3: Hallinden - Gläborg ()
+Etapp 4: Hallinden - Gläborg ()
 
 Pendelparkering Hallinden: (58.458422, 11.521725)
 

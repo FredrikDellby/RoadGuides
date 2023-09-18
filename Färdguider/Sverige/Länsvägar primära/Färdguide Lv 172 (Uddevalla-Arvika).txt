@@ -316,11 +316,18 @@ T-korsning Stenslanda
 T-korsning Vännacka östra
  177: Åmotfors, Koppom
 
-Etapp 10: Vännacka - Arvika (38,7 km/38,8 km)
+Etapp 10: Vännacka - Sulvik (38,7 km/38,8 km)
+
+(Korsning Vännacka nordöst (lokal väg))
+ f.d. Lanthandel, Ej skyltad
 					11,0 km/11,0 km	9 min 26 s/9 min 26 s
 Årjäng / Arvika
 					6,0 km/6,1 km	5 min 9 s/5 min 14 s
-Gränsjön
+T-korsning (enskild väg)
+ Glaskogen, Sigfridstorp
+ Lenungshammar (vandring)
+
+(Gränsjön)
 					7,5 km/7,6 km	6 min 26 s/6 min 31 s
 T-korsning Rådane
  Koppom
@@ -331,7 +338,10 @@ Korsning Sulvik V
 Korsning Sulvik
  Nysäter, Glava
 					0,3 km/0,5 km	18 s/30 s
+Etapp 11: Sulvik - Arvika ()
+
 Infoplats (södra sidan)
+(endast skyltad nordgående)
 					2,8 km/2,7 km	2 min 24 s/2 min 19 s
 Korsning Källtorp (enskild väg)
  Sulvik Formplast
@@ -361,7 +371,7 @@ T-korsning Koppsängsvägen (enskild väg)
 T-korsning Högvaltavägen
  Högvalta, Handelsträdgård
 					1,0 km/0,9 km	45 s/41 s
-T-korsning Lv 172/Prästgårdsv.
+T-korsning Lv 172/Prästgårdsvägen
  V. Hamnen, Mikaelskyrkan
 					0,5 km/0,6 km	26 s/31 s
 Järnvägsbro
@@ -371,13 +381,13 @@ Prästängsrondellen
  Centrum
  Prästängen
 					0,8 km/0,8 km	41 s/41 s
-T-korsning (lokal väg)
+T-korsning Prästängen N (lokal väg)
  Prästängen
 					0,3 km/0,3 km	15 s/15 s
-T-korsning Tranbärsvägen (lokal väg)
+T-korsning (lokal väg)
  Agneteberg
 					1,0 km/1,0 km	51 s/51 s
-T-korsning (lokal väg)
+T-korsning Lv 172/Rosendalsvägen (lokal väg)
  Agneteberg, Trafik
 					0,6 km/0,6 km	31 s/31 s
 Graningerondellen

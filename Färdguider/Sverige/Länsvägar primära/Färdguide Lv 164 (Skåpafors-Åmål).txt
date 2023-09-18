@@ -5,63 +5,81 @@ T-korsning Skåpafors väg 172
  172 s: Uddevalla, Billingsfors
  164 v: Strömstad, Ed
 
-(Parkeringsplats)
-(b�st l�mpad �stg�ende)
+Parkeringsplats (södra sidan)
+(endast skyltad östgående)
 					1.1 km/1.1 km	50 s/50 s
-(Bro �ver )
-Sk�pakiosken
-Infoplats
+(Bro över ?): (59.0222771,12.2747479)
+Skåpakiosken (södra sidan)): (59.0228847,12.2760657)
+(Parkeringsplats (norra sidan)
 
-T-korsning Sk�pafors v�stra
- Sk�pafors
+Rastplats Skåpafors (norra sidan)
+T-korsning Skåpafors västra
+ Skåpafors, Rexcell
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
-T-korsning Sk�pafors �stra
- Sk�pafors
+T-korsning Skåpafors östra
+(ej skyltad västgående?)
+ Skåpafors
 					2.0 km/2.0 km	1 min 30 s/1 min 30 s
-Parkeringsplats (b�st l�mpad �stg�ende)
-T-korsning (lokal v�g)
- Laxarby Kvarn
+Parkeringsplats (södra sidan)
+(endast skyltad östgående)
 
 Korsning Laxarby Trekanten
- Dals-L�nged
- Svanskog, Laxarby
+ S Fjäll, Laxarby k:a
+ Hognerud
 					5.9 km/6.2 km	4 min 26 s/4 min 39 s
 T-korsning Germundebyn
  Fengersfors
-Bengtsfors / �m�l: (59.0323084,12.4193278)
+Bengtsfors / Åmål: (59.0323084,12.4193278)
 					5.1 km/4.2 km	3 min 50 s/3 min 9 s
-Rastplats Edslan
- Hotel/Restaurang: Edsleskogs W�rdshus
+Parkeringsplats (norra sidan)
+(endast skyltad västgående)
 
-Dubbel T-korsning Edsleskog aff�r
- Linheden, Skicenter
+Rastplats Edslan (norra sidan)
+ Hotel/Restaurang: Edsleskogs Wärdshus
+(Dubbel) T-korsning Edsleskog affär (enskild väg)
+ Linheden (sevärdhet), Skicenter
 
 T-korsning Edsleskogs Kyrkplats
- Bergane, Balj�sen
+ Bergane, Baljåsen (sevärdhet)
+ Edsleskogs gamla kyrka, Edsleskogs prästgård
 					0.7 km/0.7 km	31 s/31 s
-Edsleskog kyrka
+Edsleskog kyrka (södra sidan)
 
-T-korsning Edsleskog syd�st
- Fengersfors
+T-korsning Edsleskog sydost
+ Fengersfors, Naturreservat
 					2.3 km/1.6 km	1 min 43 s/1 min 12 s
-T-korsning R�detorp
+Korsning (enskild väg)
+ Ängebytjärnet
+
+T-korsning Rådetorp
  Fengersfors
 					5.3 km/5.3 km	3 min 59 s/3 min 59 s
-T-korsning Hollenstensv�gen
+T-korsning Hollenstensvägen
+ Hognerud
 					1.3 km/1.3 km	59 s/59 s
-J�rnv�gsviadukt
+Järnvägsviadukt
  Svanskogsbanan
 
-T-korsning (enskild v�g)
+T-korsning (enskild väg)
+ Yttre Hedane
  Naturreservat, Forsbackabaden
 					1.4 km/1.4 km	1 min 3 s/1 min 3 s
-T-korsning Forsbacka
- Mo, Forsbacka Golfklubb
+T-korsning Forsbacka Lv 164
+ Svaneholm, Mo
+ Forsbacka Golfklubb/Herrgård (Hotell & Restaurang)
 					4.0 km/4.0 km	2 min 60 s/2 min 60 s
 T-korsning Tollebol
- Jakobsbyn
+ Stora Bodane, Tollebols kvarn (sevärdhet)
 					1.1 km/1.2 km	50 s/54 s
-Rondell �m�l NV
- E45 s: G�teborg, Mellerud
- E45 n: Karlstad, S�ffle
- �m�l Centrum
+T-korsning (enskild väg)
+ Finserud, Ridklubb
+
+T-korsning Lv 164/Ebbes väg (lokal väg)
+ Industriområde (ej skyltat)
+
+Rondell Åmål NV
+ E45 s: Göteborg, Åmål Centrum
+ E45 n: Karlstad, Säffle
+ Rastplats Åmål
+ Bensinstation: INGO
+ Restaurang: Sibylla

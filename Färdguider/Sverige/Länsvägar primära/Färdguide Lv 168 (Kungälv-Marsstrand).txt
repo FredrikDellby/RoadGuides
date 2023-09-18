@@ -19,7 +19,7 @@ Dubbel T-korsning Mjölkekilen (lokal väg)
  Parkering: Badhålan
  Parkering: Mjölkekilen, Husbil
 					1,7 km/1,9 km	1 min 27 s/1 min 38 s
-(Vall Koön / Instön)
+(Vall/bro Koön / Instön)
 					1,7 km/1,5 km	1 min 27 s/1 min 17 s
 Instöbron-väst: (57.8917723,11.6591115)
  500 m
@@ -35,8 +35,8 @@ T-korsning Rökan (lokal väg)
 T-korsning Nordöhamnen (lokal väg)
  Parkering, Småbåtshamn (ej skyltad?)
 					0,9 km/1,1 km	46 s/57 s
-(Bro/Vall Nordön / Fastlandet)
-Parkering Nordösundet
+(Vall/bro Nordön / Kockholmen)
+(Parkering Kockholmen (norra sidan, ej skyltad))
 					1,9 km/1,6 km	1 min 38 s/1 min 22 s
 T-korsning Tjuvkils vägskäl
  Tjuvkils huvud
