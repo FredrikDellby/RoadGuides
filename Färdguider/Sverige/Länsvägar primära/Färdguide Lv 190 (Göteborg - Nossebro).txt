@@ -14,14 +14,16 @@ Lärjeholmsmotet
 					0,5 km/0,7 km	26 s/42 s
 T-korsning Hjällbo V
  Hjällbo N, Hammarkullen
+
 Rondell Hjällbo V
  Hjällbo Centrum
  Vårdcentral, Hjällbo K:a
 					0,4 km/0,3 km	24 s/22 s
 T-korsning Hjällboplatsen (lokal väg)
+ Infartsparkering
  Hjällboplatsen
-T-korsning 190/Bollplansg. (lokal väg)
- S:t Eriks, Lärjedalen
+T-korsning Lv 190/Bollplansg. (lokal väg)
+ S:t Eriks, Lärjeleden (vandring)
  Bläsebovallen, Bläseboskolan
 					1,9 km/1,8 km	2 min 17 s/2 min 10 s
 Korsning Lv 190/Bondegärdet

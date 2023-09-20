@@ -1,106 +1,178 @@
-Färdguide E65 (Malmö - Ystad)
+FÃ¤rdguide E65 (MalmÃ¶ - Ystad)
 ==============================
 
-Etapp 1: Genom Malmö (4,6 km/6,0 km)
+Etapp 1: Genom MalmÃ¶ (4,6 km/6,0 km)
 
-Korsning Dalaplan
+Korsning Dalaplan (lokal vÃ¤g)
+ Kulladal, [E6]
+ Triangeln, Sjukhus
+
+Korsning YstadvÃ¤gen/NobelvÃ¤gen
+(endast skyltad Ã¶stgÃ¥ende)
+ [E6]
+ Nobeltorget
 					0,4 km/0,4 km	29 s/29 s
-McDonald's
+(T-korsning YstadvÃ¤gen/FosievÃ¤gen (lokal vÃ¤g))
+(ej skyltad)
+
+Restaurang: McDonald's (sÃ¶dra sidan)
 					0,6 km/0,6 km	43 s/43 s
+T-korsning Heleneholm (lokal vÃ¤g)
+ MunkhÃ¤tteskolan, MusikhÃ¶gskolan
+ Heleneholms idrottsplats
+ Restaurang: Heleneholms gatukÃ¶k
+
 Korsning Augustenborgsparken
+ C-Ring: Stadion
+ C-Ring: Nobeltorget
 					0,3 km/0,3 km	22 s/22 s
-Korsning Ystadv./V. Hindbyv.
+Korsning Almtorget (lokal vÃ¤g)
+ AlmhÃ¶g
+ Bensinstation: Preem
+ Restaurang: AHWAK CafÃ©, Albalam Restaurang
 					0,4 km/0,4 km	24 s/24 s
-Järnvägsbro
+JÃ¤rnvÃ¤gsbro
  Kontinentalbanan
 					0,3 km/0,4 km	18 s/24 s
-Korsning Ystadv./Silverviksg.
+Korsning Hindby/YstadvÃ¤gen
+ Gullvik
+ Hindby
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Ystadv./Cypressv.
+T-korsning YstadvÃ¤gen/Cypressv. (lokal vÃ¤g)
+ ICA Maxi Stormarknad (ej skyltad)
+ Bensinstation: St1
+ Restaurang: MAX
+
+Korsning Gullvik/YstadvÃ¤gen
+ Gullvik
 					0,5 km/0,7 km	30 s/42 s
 Trafikplats Hindby
- Inre Ringvägen
- [E6-E20 n], [E22 n], [11]
+ Inre RingvÃ¤gen: Limhamn
+ [E6 s]: Trelleborg
+ [E20 v]: KÃ¶penhamn
+ Inre RingvÃ¤gen: Hamnen
+ [E6-E20 n]: GÃ¶teborg
+ [E22 n]: Kalmar
 					0,7 km/1,1 km	32 s/44 s
-Trp Jägersro
- 101: Anderslöv
- Fosie
+Trp JÃ¤gersro
+ 101: AnderslÃ¶v
+ Industri: Fosieby
+ JÃ¤gersro (Travbana, Hotell, Restaurang, mm)
 					1,1 km/1,7 km	0 min 44 s/1 min 8 s
 Trp Fredriksberg (14)
- E6-E20 n: Göteborg, Helsingborg
+ E6-E20 n: GÃ¶teborg, Helsingborg
  E22 n: Kalmar, Lund
  E6-E22 s: Trelleborg
- E20 v: Köpenhamn
+ E20 v: KÃ¶penhamn
 
-Etapp 2: Malmö - Svedala (12,6 km/11,6 km)
+Etapp 2: MalmÃ¶ - Svedala (12,6 km/11,6 km)
 					1,8 km/1,4 km	59 s/46 s
 Trafikplats Oxie (13)
  Oxie
+ SkabersjÃ¶
 					1,9 km/1,0 km	1 min 2 s/0 min 33 s
-Malmö / Svedala
+MalmÃ¶ / Svedala: (55.5507391,13.1229757)
 					5,6 km/5,4 km	3 min 3 s/2 min 57 s
-Trp Svedala Västra (12)
-(avfart östgående riktning
-påfart västgående riktning)
- Svedala
+Trp Svedala VÃ¤stra (12)
+(avfart Ã¶stgÃ¥ende riktning
+pÃ¥fart vÃ¤stgÃ¥ende riktning)
+ Svedala V
 					3,3 km/3,9 km	1 min 48 s/2 min 8 s
 Trafikplats Svedala (11)
- 108 s: Trelleborg, Svedala
+ 108 s: Trelleborg, Svedala C
  108 n: Lund, Staffanstorp
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, Highway Svedala
 
 Etapp 3: Svedala - Skurup (16,8 km/16,4 km)
 					3,2 km/2,8 km	1 min 55 s/1 min 41 s
+MotorvÃ¤g / Motortrafikled: (55.5145857,13.2759847)
+(110 km/h / 100 km/h)
+
+(Motortrafikled upphÃ¶r / bÃ¶rjar)
 Korsning
+ Tittente
+ BÃ¶keberg
 					0,7 km/0,8 km	28 s/32 s
-Rastplats Börringe
-(östgående riktning)
+Rastplats BÃ¶rringe (Ã¶stgÃ¥ende))
 					0,5 km/0,3 km	20 s/12 s
-T-korsning Olsbjär
-(östgående riktning)
+T-korsning OlsbjÃ¤r (Ã¶stgÃ¥ende))
+ N Lindholmen
 					0,6 km/0,9 km	24 s/36 s
-Rondell
+Rondell)
  Sturups Flygplats
-T-korsning Börringekloster
- Börringekloster
+ Hotell: Sturup Airport
+					/)
+T-korsning BÃ¶rringekloster
+ AnderslÃ¶v, BÃ¶rringe
+ BÃ¶rringekloster (GÃ¥rdsbutik, Restaurang mm)
 					1,7 km/1,4 km	1 min 8 s/0 min 56 s
-T-korsning Börringe V
+(T-korsning E65/BysmedjevÃ¤gen (ej skyltad))
+ BÃ¶rringe kyrkoruin, Enskild vÃ¤g
+
+Korsning BÃ¶rringe V
+ NÃ¶tesjÃ¶, BÃ¶rringe K:a
+ Hotell/Restaurang: NÃ¶tesjÃ¶ Hotell
 					0,9 km/0,9 km	36 s/36 s
-Avfart Börringe Ö
-(västgående riktning)
+(Avfart BÃ¶rringe Ã– (vÃ¤stgÃ¥ende)
+ NÃ¶tesjÃ¶, BÃ¶rringe K:a
+ Hotell/Restaurang: NÃ¶tesjÃ¶ Hotell
 					1,5 km/1,5 km	1 min 0 s/1 min 0 s
-Korsning
+(Trafikplats (enskild vÃ¤g))
+ LemmelstrÃ¶
+ Brunnarna
+
+Korsning KlockarbostÃ¤llet
+ GrÃ¶nby
+ SlÃ¤tterÃ¶d, VÃ¤ndslinga
 					1,4 km/1,5 km	0 min 56 s/1 min 0 s
-Trp Börringe Bygdegård
+Trp BÃ¶rringe BygdegÃ¥rd (enskild vÃ¤g)
+ VÃ¤ndslinga, BygdegÃ¥rd
 					1,0 km/1,0 km	40 s/40 s
-Svedala / Trelleborg
-(västgående riktning)
+(Svedala / Trelleborg (vÃ¤stgÃ¥ende): (55.4972042,13.4265629)
 					0,7 km/0,7 km	28 s/28 s
-Korsning
+Korsning StenbÃ¤ck
+ GÃ¤rdslÃ¶v
+ HÃ¤ckeberga, VÃ¤ndslinga
 					0,5 km/0,5 km	20 s/20 s
-Trelleborg / Skurup
-(östgående riktning)
+Trelleborg / Skurup (Ã¶stgÃ¥ende)): (55.4957362,13.4437328)
 					2,1 km/2,4 km	1 min 24 s/1 min 36 s
-(Trafikplats)
- Enskild väg
+(Trafikplats (enskild vÃ¤g))
+ StjÃ¤rneholm (sevÃ¤rdhet)
+ Havberg, VÃ¤ndslinga
 
 Trafikplats Skurup
+ Skurup, HandelsomrÃ¥de
+ Svaneholms slott (sevÃ¤rdhet, Slottsrestaurang mm)
 					2,0 km/1,8 km	1 min 20 s/1 min 12 s
-Trp Sandåkra
+Trp SandÃ¥kra
  Skurup
- 102: Lund, Veberöd
+ 102: (Lund), VeberÃ¶d
+ Infoplats, Johannamuseet
+ Bensinstation: Preem
+ Restaurang: Skurup Restaurang & Grill
 
 Etapp 4: Skurup - Ystad ()
 
-Korsning
+Korsning Hylteberga E65
+ Hylteberga
+ KosbjÃ¤r
 
-Korsning
+Korsning Ã„ngamÃ¶llan
+ Ã–rsjÃ¶, Hylteberga Ã–
+ Slimminge
+ Restaurang: Fars Hatt
 
-T-korsning
- Enskild väg
+T-korsning (enskild vÃ¤g)
+ Ã–rsjÃ¶holm
 
-Korsning Villie
+Korsning Villie E65
+ RydsgÃ¥rd
+ Blentarp, RydsgÃ¥rds gods
+ Pendelparkering
+ Restaurang: RydsgÃ¥rdshus
 
-Korsning
+Korsning VarmlÃ¶sa E65
 
 Skurup / Ystad
 
@@ -108,18 +180,18 @@ Korsning
 
 Trafikplats Rynge
 
-Korsning Västregård
+Korsning Vï¿½stregï¿½rd
 
 Korsning Marsvinsholm E65
  Marsvinsholms slott
 
 Korsning
 
-Rastplats Bjäresjö
+Rastplats Bjï¿½resjï¿½
 
 Korsning Vaktarebacken
 
-Rondell E65/Källesjövägen
+Rondell E65/Kï¿½llesjï¿½vï¿½gen
 
 Rondell E65/Rv 9
  9 v: Trelleborg
@@ -128,23 +200,23 @@ Rondell E65/Rv 9
 Etapp 5: Runt Ystad ()
 
 Rondell E65/Rv 13
- 13: Höör, Sjöbo
+ 13: Hï¿½ï¿½r, Sjï¿½bo
  Ystad Centrum
 
 Rondell E65/Rv 19
  19: Kristianstad, Tomelilla
  Ystad Centrum
 
-Korsning E65/Industrivägen
+Korsning E65/Industrivï¿½gen
 
-T-korsning E65/Militärvägen
+T-korsning E65/Militï¿½rvï¿½gen
 
-Rondell Ystad Ö
- 9 ö: Simrishamn
-T-korsning E65/Österleden
+Rondell Ystad ï¿½
+ 9 ï¿½: Simrishamn
+T-korsning E65/ï¿½sterleden
  Ystad Centrum
 
-Järnvägskorsning
- Österlensbanan
+Jï¿½rnvï¿½gskorsning
+ ï¿½sterlensbanan
 Bensinstation: Preem
 T-korsning
