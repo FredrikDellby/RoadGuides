@@ -1,147 +1,199 @@
-Färdguide E18 (Ski - Riksgrensen)
+FÃ¤rdguide E18 (Ski - Riksgrensen)
 ==================================
 
-Etapp 21: Nøstvet - Elvestad (18,4 km/18,6 km)
+Etapp 21: NÃ¸stvet - Elvestad (18,4 km/18,6 km)
 
-Kryss Nøstvet (22)
-(avfart västgående riktning
-påfart östgående riktning)
+Kryss NÃ¸stvet (22)
+(avfart vestgÃ¥ende retning
+pÃ¥fart Ã¸stgÃ¥ende retning)
  E6 n: Trondheim, Gardemoen
 					0,8 km/1,4 km	00:32/00:56
-Vinterbrukrysset (21)
- E6 s: Gøteborg, Moss
+Vinterbrukrysset-nord (21)
+(avfart Ã¸stgÃ¥ende retning
+pÃ¥fart vestgÃ¥ende retning)
+ E6 s: GÃ¸teborg, Moss
+Vinterbrukrysset-syd
+(avfart Ã¸stgÃ¥ende retning
+pÃ¥fart vestgÃ¥ende retning)
+ [156]: Vinterbru, Nesoddtangen
+ TusenFryd
+
+Vinterbrukrysset-Ã¸st (21)
+(avfart vestgÃ¥ende retning
+pÃ¥fart Ã¸stgÃ¥ende retning)
+ E6 s: GÃ¸teborg, Moss
  [E134]: Drammen
- 156: Nesoddtangen
- Tusenryd
+ [156]: Vinterbru, Nesoddtangen
+ Bussparkering TusenFryd
 					1.3 km/0.8 km   00:58/00:36
-Parkeringsplass
-(västgående riktning)
+Parkeringsplass (vestgÃ¥ende)
 					0.9 km/0.9 km   00:40/00:40
-Nygårdskrysset (99)
- 154: Ski, Nordby
+NygÃ¥rdskrysset (99)
+ 154: Ski
+ Nordby
+ Industri: Vinterbro, NygÃ¥rd
+ Bensinstasjon: Uno-X
+ Restaurant: McDonald's
 					0.8 km/0.6 km   00:36/00:27
-Da Vinci-Broen
+Da Vinci-Broen: (59.7189787,10.7843635)
+Mittrekk ender / begynder: (59.7182852,10.7839735)
 					1.0 km/1.2 km   00:45/00:54
-Trafikkontrollplass
-(östgående riktning)
+Trafikkontrollplass (Ã¸stgÃ¥ende)
 					1.0 km/0.8 km   00:51/00:41
-Verktøy-Bassen
+Restaurant: Sneissletta Diner (sÃ¸ndre side)
 					1.5 km/1.4 km   01:17/01:12
-Holstad bru (järnvägsviadukt)
- Østfoldbanen
+Holstad bru (jernbaneviadukt)
+ Ã˜stfoldbanen
 					0.6 km/0.6 km   00:31/00:31
 Rondell Holstad
- 152 s: Drøbak, Ås
+ 152 s: DrÃ¸bak, Ã…s
  152 n: Ski
 					1.7 km/1.6 km   01:27/01:22
-Ås / Nordre Follo
+Ã…s / Nordre Follo: (59.6843791,10.8401967)
 					2.1 km/2.1 km   01:48/01:48
+(Hageland KrÃ¥kstad (nordre side))
+
 Korsning Bjastad
  Myrvoll
 					0.8 km/0.8 km   00:41/00:41
-T-korsning E18/Kråkstadveien
- Kråkstad
+T-korsning E18/KrÃ¥kstadveien
+ Fv1370: KrÃ¥kstad
 					0.3 km/0.3 km   00:15/00:15
 Korsning Asper bru
- Kroer, Neshagen
+ Fv1362: Kroer, Neshagen
 					2.6 km/2.6 km   02:14/02:14
+(T-korsning E18/Asperudveien)
+ Asperudveien
+
 Dubbel T-korsning Reitvedt
- Kroer
- Skotbu, Røis
+ Fv1366: Skotbu, RÃ¸is
+ Fv1367: Kroer
 					0.9 km/0.9 km   00:46/00:46
-T-korsning E18/Fv128					
+T-korsning E18/Fv 128
+(forbudt venstresving)
+ 128: Elvestad (Gamle E18)
 					1.1 km/1.1 km   00:44/00:44
-Nordre Follo / Indre Østfold
+Mittrekk begynder / ender: (59.6449485,10.9265477)
+Motorvei begynder / ender: (59.6440873,10.9278477 / 59.6432004,10.9299383)
+
+(Viltlokk)
+Nordre Follo / Indre Ã˜stfold: (59.6406549,10.937462)
 					0.6 km/0.7 km   00:22/00:25
-Knapstad bomstasjon
 					0.9 km/1.1 km   00:32/00:40
 Elvestadkrysset (96)
  120 s: Moss, Ringvoll
- 120 n: Tømter
-(Hobølelva bru (250 m))
- Hobølelva
+ 120 n: TÃ¸mter
+(HobÃ¸lelva bru (250 m, ikke skiltet))
+ HobÃ¸lelva
 
 Etapp 22: Elvestad - Momarken (23,2 km/23,4 km)
 					1.5 km/1.3 km   00:54/00:47
-Viltlokk
+Viltlokk: (59.6254379,10.9759443)
 					1.7 km/2.2 km   01:01/01:19
 Jarenkrysset (95)
- 128: Spydeberg
+ 128: Spydeberg, Knapstad
+ Rasteplass Jaren
+ Bensinstasjon: YX
 					1.1 km/0.6 km   00:40/00:22
 					4.3 km/4.3 km   02:35/02:35
-Grinna bru (146 m)
- Grinna
-
-Dalen bomstasjon
+(Grinna bru (146 m)): (59.6009887,11.0620375)
+ Grinna (ikke skiltet)
 					0.4 km/0.7 km   00:14/00:25
-Smålenene bru (290 m)
+SmÃ¥lenene bru (290 m): (59.5931489,11.0894763)
  Glomma
-(Askimporten-vest)
+					/)
+Askimporten-vest)
  1009 m
 					1.7 km/1.7 km   01:01/01:01
-(Askimporten-øst)
+(Askimporten-Ã¸st
+					(/
 Krosbykrysset (93)
  128: Askim vest, Spydeberg
 					3.3 km/3.4 km   01:59/02:02
 Moenkrysset (92)
  115 s: Skiptvet
- 115 n: Trøgstad, Askim sentrum
+ 115 n: TrÃ¸gstad, Askim sentrum
 					2.9 km/3.0 km   01:44/01:48
 Sekkelstenkrysset (91)
  124 s: Rakkestad
- 124 n: Askim øst
+ 124 n: Askim Ã¸st
+ Bensinstasjon: Circle-K
 					1.6 km/1.0 km   00:58/00:36
 					2.3 km/2.8 km   01:23/01:41
-(Brennemoen bomstasjon)
-(västgående riktning)
 Brennemoenkrysset (90)
  128: Slitu
  Rasteplass Brennemoen
+ Bensinstasjon: Shell
+ Restaurant: McDonald's
 					2.5 km/2.4 km   01:30/01:26
+(Motorvei / Motortrafikkvei: (59.5763136,11.3177288)
+(100 km/h / 90 km/h)
+					(/
 Laugsletkrysset (89)
- 22 s: Rakkestad, Mysen
- 22 n: Trøgstad
+ 22 n: LillestrÃ¸m, TrÃ¸gstad
+ 129: Mysen
 (Ramstad bomstasjon)
 
-Etapp 23: Momarken - Ørje (23,1 km/22,8 km)
+Etapp 23: Momarken - ï¿½rje (23,1 km/22,8 km)
 					3,5 km/3,5 km	2 min 6 s/2 min 6 s
 Homstvedtkrysset (88)
- 123 s: Mysen
- 123 n: Havnås
+ 22 s: Rakkestad
+ [129]: Mysen
+ 123: HavnÃ¥s
 					5,4 km/5,4 km	3 min 36 s/3 min 36 s
-Hærlandtunnelen (190 m)
+HÃ¦rlandtunnelen (190 m)
+
+Motortrafikkvei ender / begynder: (59.5483356,11.4403342)
+Mittrekk ender / begynder: (59.5477475,11.4434351)
 
 Kryss Svenneby (87)
  Lundeby
+ Hotel: Mosen
 					4,3 km/4,2 km	2 min 52 s/2 min 48 s
+(Indre Ã˜stfold /
+					(/
 Kryss Trollbergtjern (86)
  Lundeby, Kallak
  Rasteplass Trollbergtjern
-(Eidsberg / Marker)
+ Lund GÃ¥rd
+					/)
+/ Marker)
 					9,1 km/8,9 km	6 min 4 s/5 min 56 s
-Infoplats (östgående)
-T-korsning E18/Fv843
- Damholtet, Kallak
+Infoplass (Ã¸stlig retning)
+T-korsning E18/Fv 128
+ (128): Damholtet, Kallak
 					0,4 km/0,3 km	21 s/15 s
-T-korsning Ørje-vest
- Ørje
- Ørje sluser, Kanalmuseet
+(Ã˜rje kanalbru (54 m))
+ Ã˜rje sluser
+T-korsning Ã˜rje-vest
+ (Fv1313: Ã˜rje sentrum)
+ Ã˜rje sluser, Kanalmuseum (sevÃ¦rdighet)
+ Sluseporten BÃ¥tcafÃ©, Badeplass
 					0,5 km/0,5 km	26 s/26 s
-Kryss Ørje
- 21 s: Halden, Ørje
- 21 n: Skotterud, Rømskog
- Bensinstasjon: Statoil
+Kryss Ã˜rje
+ 21 s: Halden, Ã˜rje
+ 21 n: (Skotterud), BjÃ¸rkelangen, (RÃ¸mskog)
+ Rasteplass Ã˜rje
+ Bensinstasjon: Circle-K
 
-Etapp 24: Ørje - Riksgrensen (6,0 km/6,1 km)
+Etapp 24: Ã˜rje - HÃ¥n (6,0 km/6,1 km)
+
 Kryss Branes
+ Fv1310: Kasbu
+ Industri: Sletta, Helgetjern
 
-Kryss Kjølen
+(Kontrollplass Ã˜rje (vestlig retning)
 
-Ørje øst bomstasjon
+Kryss KjÃ¸len
+ Skianlegg
 
-Vägkrog/Minibank
+Ã˜rje Ã¸st bomstasjon?): (59.4849938,11.7455305)
 
-(Tollstasjon (västgående))
-Norge / Sverige
-Østfold / Värmland
-Marker / Årjäng
+(Motortrafikkvei ender / begynder)
+(Viken /)
+(Marker /)
+Ã˜rje Tollstasjon (nÃ¸rre side))
+					/)
+(Norge / Sverige)
+Rastplats HÃ¥n (norra sidan)
+ Tax/Exchange Refund
