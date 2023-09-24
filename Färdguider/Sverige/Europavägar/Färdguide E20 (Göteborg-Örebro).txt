@@ -155,8 +155,7 @@ Trp Hjultorp (95.1)
  Hol
  Bensinstation: Preem
 
-Etapp 4: Vårgårda - Vara (29,4 km/29,0 km)
-(Bro över Säveån)
+(Bro över Säveån (ej skyltad))
 					0,8 km/0,6 km	32 s/24 s
 Järnvägsbro
  Västra Stambanan
@@ -168,6 +167,8 @@ Trp Vårgårda (95.2)
  Restaurang: McDonald's
  Tånga Heds Camping och Vandrarhem
 					1.4 km/1.4 km	56 s/56 s
+Etapp 4: Vårgårda - Lekåsa (13,0 km/12,8 km)
+
 Trp Fagrabo (95.3)
  181: Falköping, Herrljunga
  Nossebro
@@ -175,166 +176,212 @@ Trp Fagrabo (95.3)
  Bensinstation: OKQ8
  Restaurang: Vårgårda Rasta
 
-Trp ...
- Nossebro, F�glum
+Trp (Södra Härene)
+(avfart västgående riktning
+påfart östgående riktning)
+ Södra Härene
+ Fåglum
 					1.3 km/1.5 km	0 min 52 s/1 min 0 s
-(Bro över Nossan (ej skyltad))
+Bro över Nossan: (58.107919,12.8333528)
 					0.7 km/0.6 km	28 s/24 s
-Vårgårda / Essunga
+Vårgårda / Essunga: (58.1161235,12.8449856)
 					2.6 km/2.6 km	1 min 44 s/1 min 44 s
 					0.6 km/0.7 km	24 s/28 s
-Dubbel T-korsning Lek�sa
- Lek�sa
- Nossebro, Jonslund
+Trp Lekåsa
+ 186: Nossebro, Jonslund
+ Bitterna
 					2.0 km/1.9 km	1 min 20 s/1 min 16 s
+Etapp 15: Lekåsa - Åsen (18,0 km/18,1 km)
+
 Essunga / Vara
 					1.4 km/1.4 km	56 s/56 s
-Korsning Eling
- Vedum, Eling
- Jonslund
+Trafikplats Eling
+ Vedum
+ Tumleberg
 					5.3 km/5.5 km	3 min 32 s/3 min 40 s
-Trp ...
-
-Tankst�lle Vara Motell
- Bensinstation: Statoil
- Restaurang: Motoristen
+Vara Motell Motoristen (södra sidan)
+ Bensinstation: INGO
+ Motell & Restaurang: Motoristen
 					2.4 km/2.2 km	1 min 36 s/1 min 28 s
-Dubbel T-korsning Naum
+Dubbel T-korsning (/Trafikplats) Naum
  Nossebro, Arentorp
  Hillebo
  Bensinstation: BA Oil
  Restaurang: Palmas Restaurang & Pizzeria
 					2.7 km/2.6 km	1 min 48 s/1 min 44 s
-J�rnv�gsbro
- �lvsborgsbanan
+Järnvägsbro
+ Älvsborgsbanan
 					0.7 km/0.6 km	28 s/24 s
 Trafikplats Vara
- 187: Lidk�ping
+ 187: Lidköping
  Emtunga
- Bensinstation: Tanka, Din-X
-
-Etapp 15: Vara - �sen (3,8 km/4,3 km)
+ Bensinstation: St1, Tanka, (Din-X)
 					1.7 km/1.8 km	1 min 8 s/1 min 12 s
 T-korsning (lokal infart)
-(ej skyltad, spansk sv?ng ?stg?ende)
+(ej skyltad, spansk sväng östgående)
 
-(Dubbel) T-korsning ?num E20
+(Dubbel) T-korsning Önum E20
  Emtunga
- (ej skyltad lokal v?g)
+ (lokal väg, ej skyltad)
 					0.5 km/0.6 km	20 s/24 s
-Korsning (lokal v?g, ej skyltad)
-(spansk sv?ng ?stg?ende)
+Korsning (lokal väg, ej skyltad)
+(spansk sväng östgående)
 					0.6 km/0.5 km	24 s/20 s
-Korsning Ekaberg (lokal v?g, ej skyltad)
-(spanska sv?ngar b?gge riktningar)
+Korsning Ekaberg (lokal väg, ej skyltad)
+(spanska svängar bägge riktningar)
 					1.0 km/1.4 km	40 s/56 s
-Trafikplats ?�sen
- 47 �: J?nk?ping
- 47 v: Trollh�ttan
+Trafikplats Åsen
+ 47 ö: Jönköping, Falköping
+ 47 v: Trollhättan
+ [187]: Lidköping
+ Bensinsation: Q-star
 
-Etapp 16: �sen - Jung (9,2 km/9,0 km)
+Etapp 16: Åsen - Jung (9,1 km/9,0 km)
 					2,0 km/1,8 km	1 min 20 s/1 min 12 s
-Dubbel T-korsning Karteg�rden
+T-korsning (lokal infart)
+(ej skyltad, spansk sväng östgående)
+
+Dubbel T-korsning Kartegården
+ Lidaborg, Håkesgården (enskild väg)
  Skarstad
 					1,5 km/1,4 km	1 min 0 s/0 min 56 s
-Korsning D�nstorp
- Enskild v�g
-					0,6 km/0,6 km	24 s/24 s
-(Korsning)
- Caf�, badplats
-(Lidan)
+(Korsning (lokala infarter, ej skyltad))
+(spanska svängar bägge riktningar)
 
-T-korsning Fyrunga
- Tr�vad
+Korsning Dönstorp (enskild väg)
+ Dönstorp
+ Rockagården, Rutakvarn
+					0,6 km/0,6 km	24 s/24 s
+Korsning (lokala infarter)
+(spanska svängar bägge riktningar)
+ Café, Dönstorpsbadets Camping
+(Bro över Lidan)
+
+T-korsning Fyrunga E20
+ Fyrunga, Bjertorp slott
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
-Dubbel T-korsning T�restorp
- Jung
+(T-korsning Löjtnantsholm (lokal infart))
+(ej skyltad, spansk sväng östgående)
+
+(T-korsning (lokal infart))
+(ej skyltad, spansk sväng östgående)
+
+Dubbel T-korsning Törestorp
+ Töredal (Verkstad AB)
+ Sven-Bengtsgården, Ladugårdsinrede (enskild väg)
 					3,4 km/3,5 km	2 min 16 s/2 min 20 s
+T-korsning (enskild väg)
+(endast förskyltad västgående)
+ Maggegården, Skumpagården
+
+T-korsning Korsgården (enskild väg)
+(endast förskyltad västgående)
+ Gatan
+
 Trafikplats Jung
- Kv�num
+ Kvänum
  Jung, Saleby
  Bensinstation: Preem (b)
+ Café/Restaurang: Haralds i Jung
+ Kökets Hus (Kvänum Showroom)
 
 Etapp 17: Jung - Skara (21,8 km/22,1 km)
 					1,8 km/1,6 km	1 min 12 sek/1 min 4 s
-Korsning
- Jung
+Korsning Ågårdsbron
+ Erik-Larsgården (enskild väg)
+ (Jung)
 					0,8 km/0,7 km	32 s/28 s
-Korsning Berga
- Enskild v�g
+(Bro över Lannaån)
+Korsning Berga (enskild väg)
+ Berga, LYOM AB, Åhl verkstad
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
-Korsning Jonstorp (e.v.)
+Korsning Jonstorp
+ Jonstorp (enskild väg)
  Saleby
 					1,3 km/1,3 km	52 s/52 s
 Korsning Villaberg
- Kv�num, �ttum
+ Kvänum, Öttum
+ Villaberg (enskild väg)
 					1,1 km/1,1 km	44 s/44 s
-Vara / Skara
+Vara / Skara: (58.3461574,13.2324964)
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
-T-korsning V. Gerum v�st
- V. Gerum
+T-korsning V. Gerum väst
+ Skallmeja, Synnerby, Kålltorp
 					0,5 km/0,6 km	20 s/24 s
-Rastplats K�lltorp
-(v�stg�ende riktning)
+(Rastplats Kålltorp (västgående)
 					1,3 km/1,2 km	52 s/48 s
-(Flian)
-T-korsning V. Gerum �st
- V. Gerum
+T-korsning (enskild väg)
+(endast förskyltad västgående)
+ Karstorp
+
+(Bro över Flian)
+T-korsning V. Gerum öst
+ Kålltorp, Synnerby, V. Gerums k:a
 					1,2 km/1,4 km	48 s/56 s
-Rastplats Blombacka
-(�stg�ende riktning)
+Rastplats Blombacka (östgående))
 					1,5 km/1,4 km	1 min 0 s/0 min 56 s
-T-korsning Ardala v�st
- Vink�l, N. V�nga
+T-korsning Hagalund väg E20
+ N. Vånga, Vinköl
 					0,6 km/0,6 km	24 s/24 s
 T-korsning Ardala syd
- Ardala
+ Synnerby, Ardala
 					0,6 km/0,6 km	24 s/24 s
-T-korsning Ardala �st
+T-korsning Ardala öst
  Marum
 					2,3 km/2,3 km	1 min 32 s/1 min 32 s
 Korsning Simmatorp
- Marum
+ Marum, Simmatorps herrgård
+ Simmatorps egendom
 					1,7 km/1,6 km	1 min 8 s/1 min 4 s
-Trafikplats Munkatorp
- Skara V, C
- 184 n: Lidk�ping
- 184 s: Falk�ping
- Bensinstation: Bilisten
+Trp Munkatorp
+ 184 s: Falköping
+ Skara V, Centrum
+ [49 v]: Lidköping
+ Bensinstation: Q-star
 					3,3 km/3,5 km	2 min 12 s/2 min 20 s
-Trafikplats Glasbacken
- Skara �, C
- Bensinstation: St1, Preem
+(T-korsning Nyhem (enskild väg)
+(endast skyltad västgående)
+
+Trp Glasbacken
+ Stenum, Örnsro
+ Skara Ö
+ Bensinstation: Preem, (Circle-K)
 					0,6 km/1,0 km	24 s/40 s
 Trafikplats Vilan
- Skara N, C
- 49: Sk�vde
+ 49 ö: Skövde
+ 49 v: Lidköping
+ Skara N, Centrum
  Bensinstation: OKQ8 (b)
  Restaurang: McDonald's
+ Hotell/Restaurang: Skara Konsthotell
 
-Etapp 18: Skara - G�tene (16,6 km/16,5 km)
+Etapp 18: Skara - Götene (16,6 km/16,5 km)
 					3,1 km/2,6 km	2 min 20 s/1 min 57 s
-Korsning Marskaby
- Sk�nings-�saka
+Trp (Marskaby)
+ Viglunda
 					1,9 km/1,9 km	1 min 26 s/1 min 26 s
-Korsning Klippan
- Sk�nings-�saka
- Myr�sen
+Trp (Klippan)Trp Kinnekulle
+ Skånings-Åsaka k:a
 					1,8 km/1,9 km	1 min 21 s/1 min 21 s
-Skara / G�tene
+Skara / Götene: (58.4509458,13.472118)
 					1,1 km/1,4 km	50 s/50 s
-Dubbel T-korsning
- Sk�nings-�saka
- G�tene, Lundsbrunn
+Trafikplats Ledsjö (99.1)
+ Eggby
+ Lundsbrunn
+ Lundsbrunn Resort & Spa, Lundsbrunn GK
+ Mariedals slott (sevärdhet)
 					8,6 km/9,0 km	5 min 10 s/5 min 24 s
-Trp Kinnekulle
- G�tene
- 44: Uddevalla, Lidk�ping
- Rastplats G�tene
- Bensinstation: Preem, St1
- Restaurang: Rasta
+Motorväg börjar / upphör: (58.4819774,13.4801874)
 
-Etapp 19: G�tene - Mariestad syd (23,8 km/23,4 km)
+Trp Kinnekulle
+ Timmersdala
+ Götene, Kinnekulle (sevärdhet)
+ 44: Uddevalla, Lidköping
+ Rastplats Götene
+ Bensinstation: Preem, St1
+ Hotell/Restaurang: Rasta
+
+Etapp 19: Götene - Mariestad syd (23,8 km/23,4 km)
 					3,0 km/2,6 km	1 min 48 s/1 min 34 s
 T-korsning
  Kinne-Vedum
@@ -343,14 +390,14 @@ Korsning Boamarken
  Holmestad
  Kinne-Vedum
 					2,6 km/2,6 km	1 min 57 s/1 min 57 s
-Korsning Br�nnebrona
- Enskild v�g
- Restaurang: Br�nnebrona V�rdshus
+Korsning Brännebrona
+ Enskild väg
+ Restaurang: Brännebrona Värdshus
 					0,6 km/0,6 km	27 s/27 s
-T-korsning Br�nnebrona N
+T-korsning Brännebrona N
  Betongvaror, Enskild v�g
 					0,4 km/0,4 km	18 s/18 s
-G�tene / Mariestad: (58.5829563,13.6132976)
+Götene / Mariestad: (58.5829563,13.6132976)
 					1,2 km/1,2 km	54 s/54 s
 T-korsning Lilla Moholm
  H�llekis, �rn�s
