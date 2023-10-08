@@ -14,7 +14,7 @@ T-korsning Oskarsberg
 Korsning (enskild väg)
  Jaktsktttebana, Alkärrstorp
 
-(T-korsning (enskild väg)
+(T-korsning (enskild väg))
  Jubberud
 
 T-korsning Ruder
@@ -22,16 +22,100 @@ T-korsning Ruder
  Lilla Spännefalla gårdsbutik
  Ruders Egendom (hotell)
 
-Parkering: Kyrkogård C
+Parkering: Kyrkogård C (östra sidan)
 
 T-korsning (enskild väg)
  Bäckafallet
  Parkering: Kyrkogård N, Gravkapell
+
+T-korsning Kyrkefalla kyrka
+ Hörnebo
+
+T-korsning Tibro SO/(Hjovägen/Fågelviksleden)
+ Centrum
+
+Parkeringsplats (östra sidan, ej skyltad)
+
+T-korsning Lv 201/Gymnasiegatan (lokal väg)
+ Sportområde, Gymnasieskola, Bibliotek
+
+Rondell Lv 201/Hörnebovägen
+ Centrum
+ Hörnebo, Brukshundklubb
+
+Korsning Lv 201/Järnvägsgatan (lokal väg)
+ Industri: Baggebo N
+ Industri: Baggebo S, Näringslivets hus
+
+(T-korsnign Lv 201/Baggebogatan)
+ Lokal väg, Nevel AB (ej skyltad)
+
+(Bro över Tidan (ej skyltad))
+T-korsning Lv 201/Kurumsgatan (lokal väg)
+ Hembygdsgård, Lastbilsterminal
+
+(T-korsning Lv 201/Snickaregatan (lokal väg))
+T-korsning Lv 201/Värsåsvägen (lokal väg)
+ Återvinningscentral
+ Bensinstation: St1
+
+Rondell Tidåkra
+ 49 ö: Askersund, Karlsborg
+ 201 n: Mariestad, Moholm
+ 49 v: Lidköping, Skövde
+
 ========================
+
+T-korsning Ottostorp
+ 49 ö: Askersund, Karlsborg
+ 49 v: Skövde, Tibro
+ 201 s: Hjo
+
+T-korsning Kroppetorp (lokal väg)
+ Missionshus
+
+T-korsning (enskild väg)
+ Grustäkt, Blankås, Ebbabolet
+
+T-korsning
+ Blombacka
+
+T-korsning Hönsa S (lokal väg, asfalt/belyst)
+ Hönsa
+
+Korsning Hönsa Ö
+ Måsebo, Bygdegård
+(Bro över Tidan (ej skyltad))
+
+T-korsning Hönsa N (lokal väg, asfalt)
+ Hönsa
+
+T-korsning Nyholm
+ Locketorp
+
+Tibro / Töreboda: (58.5126698,14.1600729)
+
+T-korsning Järpåsen Lv 201
+ Järpåsen, Enskild väg (asfalt)
+
+T-korsning Lagerfors Lv 201
+ Beateberg, Lagerfors
+
+T-korsning Kvarnegården
+ Tidan
+(Bro över Tidan (ej skyltad))
+
+Korsning 
+ Tåtorp (Vandrarhem), Ekeskog
+ Göta Kanal (sevärdhet)
+
+T-korsning Bällefors
+ Fägre, Bällefors k:a
+
 T-korsning Mo kyrka
  Mo kyrka
 
-T-korsning Fägrevägen
+T-korsning Lv 201/Fägrevägen
  Fägre
 
 T-korsning Moholms Herrgård
