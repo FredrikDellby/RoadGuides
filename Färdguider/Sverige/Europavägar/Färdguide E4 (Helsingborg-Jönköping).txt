@@ -1,60 +1,130 @@
 E4 (Helsingborg - Jönköping)
 =============================
 
-Etapp 3: Helsingborg - Åstorp (12,0 km/11,6 km)
+Etapp 1: Genom södra Helsingborg ()
 
-Trafikplats Kropp (30)
+Färjeterminalen
+ Färja (Forsea): Helsingör
+					0.4 km/0.6 km	0 min 48 s/1 min 12 s
+
+Rondell Helsingborgs hamn
+ Västhamnen (nybyggt område)
+					0.8 km/0.9 km	0 min 58 s/1 min 5 s
+T-korsning
+Korsning Bredgatan/Oljehamnsleden
+					0.5 km/0.5 km	36 s/36 s
+Korsning Gåsebäck
+ Centrum, Knutpunkten
+ Råå, First Camp Råå Vallar
+Trafikplats
+ Industri: Gåsebäck
+ Bensinstation: Preem
+ Hotell/Restaurang: Good Morning+, Vagnhall 16
+					0.5 km/0.4 km	36 s/29 s
+Rondell E4/S. Stenbocksgatan
+ Fredriksdals friluftsmuseum
+ Olympia, Sjukhus
+					0.5 km/0.4 km	20 s/16 s
+Trp Elineberg (25)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ Elineberg
+					0.7 km/1.6 km	0 min 28 s/1 min 4 s
+Trp Ramlösa (26)
+ Ramlösa, Råå
+ Bensinstation: Circke-K
+ First Camp Råå Vallar
+					2.5 km/2.1 km	1 min 40 s/1 min 24 s
+Trp Ättekulla (27)
+ 111: Höganäs
+ Ättekulla
+ Bensinstation: Circle-K, Shell
+ Restaurang: McDonald's, Burger King
+					0.9 km/1.6 km	0 min 36 s/1 min 4 s
+Trp Helsingborg Södra-väst
+ E6-E20 s: Malmö
+ 109: Ekeby
+					/)
+Etapp 2: Helsingborg Södra - Kropp ()
+
+Trp Helsingborg Södra-öst)
+ 109: Ekeby
+
+Trafikkontrollplats Vasatorp
+
+Trp Vasatorp (29)
+ Helsingborg Ö
+ Vasatorps Golfklubb
+ Hotell/Restaurang: Vasatorps Gård
+
+Trafikplats Kropp (30a/30)
  Helsingborg N, C
  E4-E6-E20 s: Malmö
  E6-E20 n: Göteborg
+
+Etapp 3: Helsingborg - Åstorp (12,0 km/11,6 km)
 					4,7 km/4,1 km	2 min 34 s/2 min 14 s
 Trafikplats Hyllinge (65)
- 110: Bjuv
-
-Helsingborg / �storp)
+ 110: Bjuv, Hyllinge
+ [E6 n]: Göteborg
+ Hyllinge StorCenter
+					/)
+Helsingborg / Åstorp): (56.1014001,12.8503983 / 56.1016459,12.8513509)
+Busshållplats (nordgående))
 					5,0 km/4,9 km	2 min 44 s/2 min 40 s
-Trafikplats Nyv�ng (66)
- Nyv�ng
- �storp S
+Trafikplats Nyvång (66)
+ Åstorp S, Industri: Södra
+ Nyvång
+ Bensinstation: Shell
 					2,4 km/2,6 km	1 min 19 s/1 min 25 s
-Trafikplats �storp (67)
- �storp N
- 21: Kristianstad, Klippan
- 112: H�gan�s
+Busshållplats
 
-Etapp 4: �storp - Markaryd (58,9 km/58,7 km)
+Trafikplats Åstorp (67)
+ Åstorp N, C
+ 21: Kristianstad, Hässleholm
+ 112: Höganäs
+
+Etapp 4: Åstorp - Markaryd (58,9 km/58,7 km)
 					6,8 km/6,0 km	3 min 43 s/3 min 16 s
-�storp / Klippan
-(Tranarpsbron-syd)
- R�nne �
+(Åstorp /
+Tranarpsbron-syd): (56.1804503,13.0148996)
+ Rönne å
 					0,5 km/0,5 km	16 s/16 s
-Tranarpsbron-nord
+(Tranarpsbron-nord: (56.1811511,13.0232296)
+/ Klippan)
 					1,8 km/2,5 km	0 min 59 s/1 min 22 s
-Trp �stra Ljungby (68)
- 13 s: H��r, Klippan
- 13 n: �ngelholm, Munka-Ljungby
+Trp Östra Ljungby (68)
+ 13 s: Höör, Klippan
+ Industri: Ö. Ljungby
+ 13 n: Ängelholm, Munka-Ljungby
 					3,9 km/3,5 km	2 min 8 s s/1 min 55 s
-Trp M�lletofta (69)
+Trp Mölletofta (69)
  Stidsvig
- Rastplats M�lletofta
+ Rastplats Mölletofta
+ Bensinstation: St1
 					3,1 km/2,9 km	1 min 41 s/1 min 35 s
-Klippan / �rkelljunga
+Klippan / Örkelljunga
 					2,8 km/3,5 km	1 min 32 s/1 min 55 s
 Trafikplats Eket (70)
  Eket
+ Ingeborrarps friluftsmuseum, Rya Kyrkoruin (sevärdheter)
+ Woodlands Country Club (Golfbana & Restaurang)
 					2,3 km/2,3 km	1 min 15 s/1 min 15 s
 Trp Ljungaskog (71)
- �rkelljunga
+ Örkelljunga
 					9,4 km/9,5 km	5 min 8 s/5 min 11 s
-Trp �rkelljunga (72)
- 24 s: H�ssleholm
+Trp Örkelljunga (72)
+ 24 s: Hässleholm
  [108]: Perstorp
- 24 n: Laholm, �rkelljunga
- Rastplats Sk�neporten
+ 24 n: Laholm, Örkelljunga
+ Rastplats Skåneporten
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, Old Mikes Diner
 					12,2 km/12,2 km	6 min 39 s/6 min 39 s
 Trp Sk�nes Fagerhult (73)
  Sk�nes Fagerhult
  Rastplats "Sjuttion3:an"
+ Bensinstation: OKQ8, Saab Standard
 					6,9 km/6,1 km	3 min 46 s/3 min 20 s
 Sk�ne / Kronoberg
 �rkelljunga / Markaryd
