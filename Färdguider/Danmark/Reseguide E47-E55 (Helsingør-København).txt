@@ -5,67 +5,71 @@ Etapp 1: Helsingør - Espergærde (5,6 km/5,7 km)
 
 Helsingør Færge
  Scandlines: Helsingborg
-					0,7 km/0,7 km	1 min 3 s/1 min 3 s
+					0,6 km/)		1 min 3 s/)
+Færgeparkering (sydgående))
+					0,1 km/0,7 km	1 min 3 s
 Rondell E47/E55/Færgevej
+ Centrum
  152: Snekkersten
-					0,7 km/0,6 km	1 min 3 s/0 min 54 s
+					0,2 km/0,2 km
 T-korsning E47/Søndre Strandvej
  [152]: Snekkersten
-
+					0,1 km/0,1 km
 Jernbaneviadukt
  Kystbanen
-
+					0,1 km/0,1 km
 Korsning E47/Stubbedamsvej
  Ikke skiltet
-
+					0,3 km/0,3 km
 T-korsning E47/E55/Kongevejen
  Helsingør Centrum
  Bensinstation: Circle-K
-					0,5 km/0,6 km	36 s/43 s
-Bensinstation: Ingo: (56.0278583,12.5928186)
-					0,2 km/0,2 km	14 s/14 s
+					0,6 km/0,5 km	43 s/36 s
+Bensinstation: Ingo (vestre side): (56.0278583,12.5928186)
+					0,1 km/0,1 km	
 Korsning E47/E55/Århusvej
  Ikke skiltet
-
+					0,1 km/0,1 km
 Serviceanlæg
  Bensinstation: Uno-X
  Restaurang: McDonald's
-					0,3 km/0,3 km	22 s/22 s
+					0,2 km/0,2 km	22 s/22 s
 (Bensinstation: Shell
-					(/
+					(/0,1 km		(/
 Korsning E47/E55/Rønnebær Allé
  O2 s: Snekkersten, Parkering station
  O2 n
-					0,8 km/1,0 km	0 min 48 s/1 min 0 s
+					0,9 km/1,0 km	0 min 48 s/1 min 0 s
 Rondell E47/E55/Klostermosevej
  O3 s: Snekkersten, Prøvestenen
  O3 n: Helsinge, [205]
  Bensinstation: Q8
-					0,9 km/0,7 km	46 s/36 s
-Infopunkt (nordgående): (56.0177474,12.5592368)
-
+					0,8 km/0,8 km	46 s/36 s
 Rondell Retten
  Prøvestenen
  Industri: Rørtang, Teknisk Museum (seværdighed)
-					1,6 km/1,8 km	1 min 22 s/1 min 33 s
+					0,9 km/0,2 km
+(Infopunkt (nordgående): (56.0177474,12.5592368)
+					(/0,6 km	(/1 min 33 s
 Korsning E47/Rørtangvej (ikke skiltet)
  Grangården
  Eriksholm Research Centre
-
+					0,2 km/0,2 km
 T-korsning Nyruphus
  Naturcenter Nyruphus, Nyruphus Skovcafé
-
+					0,6 km)
 Avfart E47/E55/Riksvej 6)
 (kun sydgående)
  6: Hillerød
  229: Hørsholm
  [213]: Espergærde, Told
+					0,2 km/0,8 km
 (T-korsning E47/E55/Riksvej 6)
 
 Etapp 2: Espergærde - Hørsholm (15,9 km/16,3 km)
-					1,6 km/1,6 km	1 min 12 s/1 min 12 s
+					0,7 km/0,9 km
 Motorvej begynder / ender: (56.0068829,12.5347603)
-
+					0,9 km/0,6 km
 Kryds Espergærde (3)
 (avfart nordgående riktning
 påfart sydgående riktning)

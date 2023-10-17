@@ -102,9 +102,9 @@ indkørsel vestgående retning)
  155 v: Kalundborg, Tuse Næs
  155 ø: Holbæk
 
-(Bro over Skjolds Løb)
+(Bro over Skjolds Løb (ikke skiltet))
 
-(Bro over Skjolds Løb)
+(Bro over Skjolds Løb (ikke skiltet))
 
 Kryds Asnæs
 
@@ -119,3 +119,57 @@ Kryds Nykøbing Sjælland
  225 s: Slagelse, Vig
  Sommerland Sj. (Camping/stuer)
 
+(Mittseparering ender / begynder): (55.8765656,11.5795216)
+
+Parkeringsplads Solvognen Mindesten: (55.889342,11.5687489)
+(østre side, kun skiltet vestgående)
+
+Korsning 21/Lyngvej
+
+Korsning 21/(Gudmindrup) Strandvej
+
+Korsning 21/Stenstrup Strandvej
+
+T-korsning 21/Oddenvej
+ Lumsås
+
+Rasteplads Ebbeløkke
+
+T-korsning 21/Gl. Ebbeløkkevej
+ Ebbeløkke
+
+Sejlet Cafe og Galleri (søndre side)
+Odden Spisehus & Cafeteria (søndre side)
+
+(T-korsning 21/Fællesskovvej)
+Haugaards Fserristel/Stenhøj Husene (søndre side)
+Parkeringsplads (nordre side, kun skiltet vestgående)
+
+Parkeringsplads (norde side)
+
+T-korsning 21/Præstestræde
+ Overby
+
+T-korsning 21/Overbygade
+ Overby, Odder Kirke (vejkirke)
+
+T-korsning 21/Oddenvej)
+(kun skiltet vestgående, forbudt venstresving)
+ Havnebyen
+
+T-korsning 21/Oddenvej
+ Havnebyen
+
+T-korsning 21/Søndervangsvej
+ Søndervang
+ Kastanielys Lysestøberi
+
+T-korsning 21/Gnibenvej
+ Gniben
+ Restaurant: Olgas
+
+Mittrekk begynder / ender
+
+Betalstation Molslinjen (vestlig retning))
+
+Færge: Århus, Ebeltoft
