@@ -1,0 +1,92 @@
+Färdguide Gamla E6/O650 (Spekeröd - Grinneröd)
+===============================================
+
+Stora Höga-motet-väst
+ E6 s: Göteborg
+ Industri: Stora Höga
+
+Stora Höga-motet-öst
+ Rastplats Spekeröd
+ E6 n: Oslo, Uddevalla 
+ Bensinstation: Circle-K
+ Restaurang: Burger King, Subway
+
+Korsning Spekerödsskolan (lokal väg)
+ Spekerödsskolan, Spekeröds förskola
+
+T-korsning Spekeröd/Gåre
+ Svartedalen, Stenungsunds GK
+
+Korsning Spekeröds kyrka
+ Åketorp (enskild väg)
+ Spekeröds k:a
+
+Korsning Spekeröd Bygdegård (enskild väg)
+ Bygdegård, Hembygdsgård
+
+Korsning Kåleberg
+ Harås
+
+T-korsning Tången
+ Harås, Spekeröds hundcenter
+
+Korsning Grössbacke
+ Stenungsund
+
+T-korsning Hålkekärr (enskild väg)
+ Hålkekärr, Byggelement
+
+T-korsning Härgusseröd
+ Västerlanda, Ucklumgården
+ Restaurang: Ucklums Pizzeria
+Bensinstation: BA Oil
+
+T-korsning (enskild väg)
+ Sandbacka-Buxeröd, Sågverk
+
+T-korsning (enskild väg)
+ Ucklumsgården
+
+Rondell Ucklum (lokal väg)
+ Ucklum k:a, Rörläggeri
+ Pendelparkering
+
+(T-korsning Ucklumskolan (lokal väg))
+ Ucklumskolan (ej skyltad)
+
+T-korsning Grössbyn
+ Svartehallen
+
+T-korsning Ucklums Missionskyrka (lokal väg)
+ Ucklums Missionskyrka
+
+T-korsning (enskild väg)
+ Bildemontering
+
+(T-korsning (enskild väg))
+ Sköllunga Östergård
+
+T-korsning Ucklums Hembygdsmuseum (enskild väg)
+ Effektiv betong, Hercules, Bergtäkt, Ucklums grus
+
+T-korsning Stubberödsvägen (enskild väg)
+ Kontor Ucklums Grus
+
+T-korsning Huveröd S
+ Svenshögen
+
+T-korsning Huveröd Ö
+ Lilla Edet
+
+Stenungsund / Uddevalla: (58.1512075,11.9776069)
+
+(T-korsning Björnåsen (enskild väg))
+ SK Björnåsen (ej officiell skylt)
+
+T-korsning Grinneröd S (lokal väg)
+ Godsmottagning Jenving Tech
+
+Korsning Grinneröd
+ 167 ö: Lilla Edet, Backamo
+ 167 v: Ljungskile
+ Ödsmål, Svenshögen
