@@ -1,0 +1,56 @@
+Avfart E47/E55/Riksvej 6)
+(kun sydgående)
+ E47-E55 s: København
+					0,2 km/0,8 km
+(T-korsning E47/E55/Riksvej 6
+(kun nordgående)
+ E47-E55 n: Helsinør, Færge: Helsingborg
+
+Enkelriktat ender (påfart) / begynder (avfart)
+
+(Paris Auto -  Autoværksted (østre side))
+
+Rondell 6/213
+ 213 v: Ålsgårde
+ 213 ø: Espergærde
+ [E47 s]: København
+
+T-korsning 6/229
+ 229: Hørsholm
+ Nyrup Camping
+
+(Bensinstation: F24 (østre side))
+Korsning 6/Gurreholmvej
+ Gurre, Nyrup
+
+T-korsning 6/Porthusvej
+ Told
+
+Kryds Kvistgård N
+ 235: Hornbæk, Tikøb
+ Espergærde
+ Kvistgaard Idrætsanlæg
+
+Parkeringsplads Danstrup Hegn)
+(vestre side, kun skiltet sydlig retning)
+T-korsning 6/Brunemarksvej
+ 
+(Parkeringsplads (østre side)
+(kun skiltet nordlig retning)
+
+Parkeringsplads Danstrup Hegn)
+(vestre side, kun skiltet sydlig retning)
+
+Dubbel T-korsning
+ Danstrup
+ Langerød
+
+T-korsning 6/Smedevej
+
+Trippel T-korsning 
+ Falkonergården (seværdighed)
+ Veksebo
+ Hjælpemiddelcentral, Brandstation
+
+(T-korsning 6/Holmeskovvej)
+ Autoverkstæd, Bilsyn
