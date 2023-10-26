@@ -231,7 +231,7 @@ T-korsning (enskild väg)
 (Korsning Fäxhult)
  Enskild väg, knappt skyltad
 
-Rastplats Holsljunga
+Rastplats Holsljunga (västra sidan)
 
 (Större grusparkering (östra sidan))
 (direkt invid vägen)
@@ -262,12 +262,11 @@ Korsning Karkashult
 T-korsning Axelforshed
  Ätran, Mårdaklev, Ö. Frölunda
 
-(f.d. Axelforshed affär)
+(f.d. Axelforshed affär (östra sidan))
 
 (T-korsning Axelfors)
  Lokal väg, ej skyltad
 
-Basturökeri
 T-korsning Axelfors bro
  Revesjö
 (Axelfors bro)
@@ -293,8 +292,8 @@ T-korsning Elmo Calf (lokal väg)
 
 Korsning Mogaskolan (lokal väg)
 
-(Svenljunga Mopedservice)
-Restaurang: Dallas Pizzeria
+(Svenljunga Mopedservice (västra sidan))
+Restaurang: Dallas Pizzeria (västra sidan)
 Rondell Svenljunga
  156 ö: Trandemo
  156 v: Kinna, Skene
@@ -326,11 +325,11 @@ T-korsning Ullasjövägen (enskild väg)
  Brokvarn, Ullasjö
  Veterinär, Broline Stall A B C
 
-Rastplats Kolarp
+Rastplats/Badplats Kolarp (västra sidan)
 T-korsning Kolarp N
  Länghem
 
-(Blockerad Infart)
+(Blockerad Infart (östra sidan))
 
 T-korsning Broholm
  Länghem, Bergkross
@@ -341,7 +340,7 @@ Bro över Ätran)
 T-korsning Sexdrega Ö
  Roasjö, Ljushult, Sexdrega
 
-T-korsning Svensson Wood (lokal väg)
+Svensson Wood (östra sidan)
  Ej skyltad
 
 (T-korsning Svensson Wood N)
@@ -350,7 +349,7 @@ T-korsning Svensson Wood (lokal väg)
 T-korsning Sexdrega N
  Ljushult, Sexdrega
 
-Van Werven: (57.5965805,13.1264896)
+Van Werven (västra sidan): (57.5965805,13.1264896)
 
 (T-korsning (lokal väg))
  Lockryd, ej skyltad
