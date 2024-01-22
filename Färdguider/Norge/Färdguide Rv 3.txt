@@ -7,7 +7,7 @@ Kolomoen vegkryss (65): (60.702729, 11.271924)
  E6 s: Oslo, Eidsvoll
  E6 n: Trondheim, Hamar
 					1,1 km/0,8 km	44 s/32 s
-Rasteplass Kalsveen: (60.71038, 11.27994)
+(Rasteplass Kalsveen: (60.71038, 11.27994)
 (sydgående retning)
 					0,4 km/0,6 km	16 s/24 s
 Kryss Korsbakken: (60.713911, 11.282671)
@@ -18,7 +18,7 @@ Kryss Romedal: (60.730589, 11.294506)
  Fv1900: Romedal, Åsvang, Ilseng
  (Bensinstasjon: Best)
 					6,1 km/6,0 km	4 min 4 s/4 min 0 s
-Rasteplass Klevfoss: (60.78289, 11.30747)
+Rasteplass Klevfoss): (60.78289, 11.30747)
 (nordgåendee riktning)
 					0,6 km/0,5 km	24 s/20 s
 (Stange / Løten: (60.785565, 11.304021)
@@ -68,11 +68,13 @@ Kryss Ånestad: (60.848842, 11.370150)
 
 Løten / Elverum): 60.8784016,11.4589175
 
-Terningåa bru (Terningåa, 52 m): (60.88057, 11.47075)
+Terningåa bru (52 m, ikke skiltet): (60.88057, 11.47075)
+ Terningåa
 
 Viltlokk
 
-(Skansen bru (Terningåa, 66,4 m): (60.8869, 11.50627)
+(Skansen bru (66,4 m, ikke skiltet): (60.8869, 11.50627)
+ Terningåa, 
 (110 km/h / 90 km/ h
 					(/
 Rondell Åkroken: (60.88764, 11.50808)
@@ -105,8 +107,8 @@ Parkeringsplass (vestre side): (61.030309, 11.378557)
 
 Elverum / Åmot: (61.030309, 11.378557)
 
-(T-korsning Bråten)
- Bråtenveien (Gammel Rv 3, ikke skiltet)
+(T-korsning Bråten (ikke skiltet))
+ Bråtenveien (Gammel Rv 3)
 
 T-korsning Nygarden: (61.06447, 11.34952)
  Fv2155: Åsta S, Campingplass (Gammel Rv 3)
@@ -147,12 +149,12 @@ T-korsning Hovdmoen skytebane: (61.18818, 11.33527)
 
 T-korsning Rv 3/Hovdlivegen: (61.19678, 11.33465)
 
-Parkeringsplass Ørbekken: (61.20403, 11.33195)
+Parkeringsplass Ørbekken (østre side): (61.20403, 11.33195)
 
-Åmot /
+(Åmot /
 (Hovda bru): (61.21282, 11.32851)
  Hovda, 28 m
-/ Stor-Elvdal
+/ Stor-Elvdal)
 
 Rasteplass Hovda: (61.21367, 11.33022)
 
@@ -170,9 +172,7 @@ Dubbel T-korsning Strand kirke: (61.291221, 11.272890)
 
 T-korsning Opphus Rv 3: (61.330078, 11.256606)
 
-(T-korsning Furuset gård): (61.371742, 11.174568)
-
-Søkkunda bru: (61.387313, 11.149165)
+Søkkunda bru (ikke skilted): (61.387313, 11.149165)
  Søkkunda
 
 T-korsning Evenstad bru: (61.418692, 11.082535)
@@ -197,12 +197,13 @@ Korsning Imsroa: (61.465459, 11.024205)
 T-korsning Gammelstu Stai: (61.470884, 11.025017)
  Gammelstu Stai gård
 
-(Parkeringsplass, grusvei)
+(Parkeringsplass (vestre side, grus, ikke skiltet))
 
-Bensinstasjon: Circle-K: (61.494207, 11.052540)
+Bensinstasjon: Circle-K (østre side)): (61.494207, 11.052540)
+					/)
 T-korsning Stai: (61.495803, 11.053843)
  Fv2188: Koppang
-Tynnkakebakern Jo Torgar Guttu: (61.496342, 11.054188)
+(Tynnkakebakern Jo Torgar Guttu (vestre side)): (61.496342, 11.054188)
 
 T-korsning Stor-Elvdal kirke: (61.524985, 11.047106)
 
@@ -211,13 +212,13 @@ T-korsning Westgård: (61.529704, 11.042881)
 
 Dubbel T-korsning Trya: (61.556536, 11.013606)
  Stor-Elvadls tunet, Trya Camping, Nærbutikk
-(Trya bru): (61.557154, 11.012758)
- Trya, 24 m
+(Trya bru (24 m)): (61.557154, 11.012758)
+ Trya
 
 T-korsning Rv 3/Vinjevegen: (61.565480, 11.003355)
  Ringebu
 
-(T-korsning): (61.568980, 11.006766)
+(T-korsning (lokal vei)): (61.568980, 11.006766)
  Nordstumoen
 
 T-korsning Koppang Rv 3: (61.572118, 11.007233)
@@ -225,24 +226,24 @@ T-korsning Koppang Rv 3: (61.572118, 11.007233)
  Hotell: Storelvdal hotell
  Camping: Koppang Camping og Hytte
 
-Trafikkontrollplass: (61.574081, 11.004766)
+Trafikkontrollplass (vestre side, ikke skilted): (61.574081, 11.004766)
 
 T-korsning Øverengsmoen: (61.588034, 10.995084)
  Bensinstasjon: Shell
  Elbilsladdning: Fortum
  Restaurang: Tiur'n Kro
 
-(Parkeringsplass, grusvei (vestre side)): 61.593616, 10.985381
+(Parkeringsplass (grus, vestre side, ikke skilted)): 61.593616, 10.985381
 
-(Parkeringsplass, grusvei (vestre side)): 61.599596, 10.936542
+(Parkeringsplass (grus, vestre side, ikke skilted)): 61.599596, 10.936542
 
-(Parkeringsplass, grusvei (vestre side)): 61.601497, 10.913942
+(Parkeringsplass (grus, vestre side, ikke skilted)): 61.601497, 10.913942
 
-Kjettingplass (vestre side): (61.642024, 10.886267)
+Kjettingplass (vestre side, ikke skiltet): (61.642024, 10.886267)
 
 (T-korsning Huse Camping): (61.647975, 10.881625)
 
-(Parkeringsplass, grusvei (vestre side)): 61.655496, 10.878037
+(Parkeringsplass (grus, vestre side, ikke skilted)): 61.655496, 10.878037
 
 Bru over Bjøråa: (61.666592, 10.881487)
 
@@ -251,7 +252,7 @@ Rasteplass Bjøråa: (61.668490, 10.884625)
 Korsning Glomstad: (61.669246, 10.886053)
  Lauvåsen
 
-(Stor-Elvdal Motorbane): (61.675063, 10.895773)
+(T-korsning Stor-Elvdal Motorbane): (61.675063, 10.895773)
 
 T-korsning Atna Camping: (61.720267, 10.827653)
 
@@ -262,8 +263,9 @@ Dubbel T-korsning Atna skole: (61.729271, 10.817622)
 
 Korsning Atnosen: (61.735364, 10.818496)
  Atnosen kirke
-(Atna bru): (61.737326, 10.820536)
- Glomma, 254 m
+					(/
+(Atna bru (254 m, ikke skiltet): (61.737326, 10.820536)
+ Glomma
 
 Jernbanebru (Rørosbanen): (61.739925, 10.823288)
 
@@ -272,9 +274,9 @@ Stor-Elvdal / Rendalen (61.7414093,10.824862)
 T-korsning Rønningen: (61.744919, 10.828016)
  Fv2200: Atna
 
-(Parkeringsplass, grusvei (vestre side)): (61.756936, 10.825742)
+(Parkeringsplass (grus, vestre side, ikke skilted)): (61.756936, 10.825742)
 
-(T-korsning): (61.786396, 10.848580)
+(T-korsning (lokal vei)): (61.786396, 10.848580)
  Nygarden
 
 T-korsning: (61.834295, 10.879220)
@@ -289,21 +291,20 @@ Dubbel T-korsning Hanestad/Tyritun: (61.835473, 10.884561)
 
 Rasteplass Østlund (østre side): (61.864237, 10.910129)
 
-(Parkeringsplass, grusvei (vestre side)): 61.878195, 10.903772
+(Parkeringsplass (grus, vestre side, ikke skilted)): 61.878195, 10.903772
 
-(Parkeringsplass, grusvei (østre side)): (61.882053, 10.900076)
+(Parkeringsplass, (grus, østre side)): (61.882053, 10.900076)
 
 Rendalen / Alvdal: (61.949281, 10.898069)
 
-(Parkeringsplasser, grusvei (vestre side)): (61.978717, 10.898178)
-(veldig svak)
+(Parkeringsplasser (grus, både sider, veldig svak, ikke skiltet)): (61.978717, 10.898178)
 
 Korsning Barkald: (61.993689, 10.884644)
  Midtskogen, Jutulhogget
 
-(Parkeringsplass, grusvei (østre side)): 62.014092, 10.842789
+(Parkeringsplass (grus, østre side, ikke skilted)): 62.014092, 10.842789
 
-(Parkeringsplass, grusvei (østre side)): 62.016129, 10.839498
+(Parkeringsplass (grus, østre side, ikke skilted)): 62.016129, 10.839498
 
 T-korsning Høyegga: (62.021715, 10.818999)
  Lanfastøyen Gård
@@ -311,16 +312,16 @@ T-korsning Høyegga: (62.021715, 10.818999)
 T-korsning Bellingmo
  Bellingmo stasjon
 
-(Parkeringsplass, grusvei): 62.043526, 10.740533
+(Parkeringsplass (grus, vestre side, ikke skilted)): 62.043526, 10.740533
 
 T-korsning Langodden: (62.050946, 10.727711)
  Langodden Gård
 
-(Parkeringsplasser, grusvei (både sider)): 62.061622, 10.718890
+(Parkeringsplasser (grus, både sider, ikke skiltet)): 62.061622, 10.718890
 
-Parkeringsplass (vestre side, ikke skiltet): (62.067301, 10.713496)
+Kontrollplass (vestre side, ikke førskiltet): (62.067301, 10.713496)
 
-(Parkeringsplass, grusvei (østre side)): 62.0721896, 10.7106655
+(Parkeringsplass (grus, østre side, ikke skilted)): 62.0721896, 10.7106655
 
 (Korsning (ikke skiltet)): 62.08129421597601, 10.699984117269665
  Turvei, Parkeringsplass
@@ -328,12 +329,12 @@ Parkeringsplass (vestre side, ikke skiltet): (62.067301, 10.713496)
 T-korsning Kvebergskrysset: (62.0863682, 10.6835774)
  Fv2228: Kveberg bru
 
-(Parkeringsplass, grusvei): 62.093271, 10.6707460
+(Parkeringsplass (grus, østre side, ikke skilted)): (62.093271, 10.6707460)
 
 T-korsning Skurlagskrysset: (62.0972303, 10.6555984)
  Alvdal Skurlag
-(Nesteby bru)
- Rørosbanen, 30 m
+(Nesteby bru (30 m))
+ Rørosbanen
 
 T-korsning Sørhus: (62.1007701, 10.6416287)
  Fv2226
@@ -360,6 +361,8 @@ Bensinstasjon: Circle-K
 
 T-korsning Steimoen
  29: Folldal, Rondane
+
+Etapp : (Alvdal - Tynset)
 
 Espeland transport AS, Paureng: (62.146495, 10.614206)
 
@@ -406,6 +409,8 @@ Mælen bru (49 m): (62.2824995, 10.7266326)
 Korsning Motrøkrysset: (62.2888553, 10.7383360)
  30: Røros, Rendalen, Tynset
 
+Etapp : (Tynset - )
+
 T-korsning Midtmoen
  Fv2248: Tynset (ikke skiltet)
 
@@ -417,8 +422,8 @@ Parkeringsplass/Gjennvinning: (62.3425429, 10.6814439)
 
 T-korsning Lonåskrysset
  Fv2246: Lonås
-(Tunna bru)
- Tunna, 31 m
+(Tunna bru ( 31 m))
+ Tunna
 
 Bru over Tunna
 

@@ -8,20 +8,21 @@ Dubbel T-korsning Rv 22/Torsnesveien
  107: Torsnes
 
 (T-korsning Rv 22/Katrineborg)
+
 T-korsning Rv 22/Borgarveien
  Borgarveien Industripark
 
-(Avfart kun for lastebiler)
+T-korsning (infart,  kun for lastebiler)
  Parkeringsplass
-T-korsning
- Bensinstasjon: Circle-K
+
+Bensinstasjon: Circle-K (østre side)
 Rondell Rakkestadsvingen
  130: Svinesund
  110: Sarpsborg
 
 T-korsning Rv 22/Grårudveien
-Bensinstasjon: Uno-X
-Restaurang: Kebab House Østsiden
+Bensinstasjon: Uno-X (østre side)
+(Restaurang: Kebab House Østsiden)
 
 Rondell Vestby Rv 22
  Østsiden Storsenter
@@ -32,8 +33,8 @@ Rondell Rv 22/Begbyveien
  Sellebakk
 
 Dubbel T-korsning Borgehallen
- Sellebakk
- 113: Borge (kirke)
+ (113 v): Sellebakk
+ 113 ø: Borge (kirke)
 
 T-korsning Rv 22/Strykerveien
  Kjølstad industrifelt

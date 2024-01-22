@@ -56,11 +56,11 @@ Etapp: Skui N - Skaret/Lauvkastet ()
 
 Parkeringsplass (nordgående)
 					1,0 km/1,0 km	45 s/45 s
-(T-korsning Rustan)
+(T-korsning Rustan (ikke skiltet))
 					1,2 km/1,2 km	54 s/54 s
-(T-korsning)
+(T-korsning (ikke skiltet))
 
-(T-korsning Brenna)
+(T-korsning Brenna (ikke skiltet))
 					0,9 km/0,9 km	41 s/41 s
 Mittrekk ender/begynner
 					2,3 km/2,4 km	2 min 18 s/2 min 24 s
@@ -93,7 +93,7 @@ Kryss Lauvkastet
 påfart nordgående riktning)
  285: Drammen
 					1.0 km/1.0 km	40 s/40 s
-Rasteplass Nes tunnel (sydgående)
+(Rasteplass Nes tunnel (sydgående)
 
 (Mittrekk ender / begynner)
 Kryss Sønsterud
@@ -108,14 +108,19 @@ påfart sydgående riktning)
 					1.6 km/1.6 km	1 min 4 s/1 min 4 s
 Nestunnelen-nord
 					3.0 km/3.0 km	2 min 0 s/2 min 0 s
+Mittrekk begynner / ender: (60.0030919,10.2823395)
+
 Rasteplass Rørvik
 					3.3 km/3.0 km	2 min 12 s/2 min 0 s
 Kryss Rørvik
  Fv2848: Nes i Hole
  Tyrifjord Golfklubb, Storøen gård
  Utvika Camping, Næs Camping
+					(/
+(Parkeringsplass (sydgående, ikke skiltet)
 					0.7 km/0.8 km	42 s/48 s
-T-korsning Rørvik Camping
+(T-korsning Rørvik Camping)
+ Ikke skiltet?
 					1.2 km/1.2 km	1 min 12 s/1 min 12 s
 T-korsning Sundvollen
  Fv2850: Åsa, Sundvollen
