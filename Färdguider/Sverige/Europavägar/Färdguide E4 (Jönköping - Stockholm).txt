@@ -23,222 +23,229 @@ Trafikplats A6 (97)
  A6 Center
  Bensinstation: Shell
  Restaurang: McDonald's, Mangal Turkisk Grill & Meze, ChopChop
-					0,8 km/1,4 km	32 s/56 s
-Trp Ekhagen (98)
+					0,9 km/0,6 km	36 s/24 s
+(Avfart Jönköping C (sydgående, 98b)
+					(/0,8 km		(/32 s
+Trp Ekhagen (98 / 98a)
  31: Nässjö
  40: Västervik
  47: Oskarshamn
  Bensinstation: St1, Ingo
 
-(Avfart Jönköping C (sydgående)
+Etapp 10: Jönköping - Mjölby (88,4 km/87,8 km)
 					2,0 km/1,2 km	1 min 20 s/48 s
-Etapp 10: J�nk�ping - Mj�lby (88,4 km/87,8 km)
-
-Trp �ster�ngen (99)
- V�ttersn�s, Rosenlund
- Elmiam�ssan
- Bensinstation: Statoil
+Trp Österängen (99)
+ Vättersnäs, Rosenlund
+ Elmiamässan
+ Bensinstation: Circle-K
 					1,5 km/1,3 km	1 min/52 s
-Trp Huskvarna S�dra (100)
+Trp Huskvarna Södra (100)
  Huskvarna S, C
  132: Aneby, Lekeryd
  Huskvarna industrimuseum
  Bensinstation: OKQ8, Shell
 					3,0 km/3,8 km	2 min/2 min 32 s
 Trp Huskvarna Norra (101)
- Aneby, Sk�rstad
- Brunstorp, Norr�ngen
+ Aneby, Skärstad
+ Brunstorp, Norrängen
 					4,3 km/3,8 km	2 min 21 s/2 min 4 s
 Rastplats Vista Kulle
 					8,5 km/8,8 km	4 min 38 s/4 min 48 s
-Trafikplats V�ttersm�len (102)
- �lmstad
- Rastplats V�tterleden
+Trp Vättersmålen (102)
+ Ölmstad
+ Rastplats Vätterleden
  Bensinstation: Preem
 					1,7 km/1,5 km	56 s/49 s
-Rastplats Gunneryd
-(sydg�ende riktning)
+(Rastplats Gunneryd (sydgående)
 					9,6 km/9,6 km	5 min 14 s/5 min 14 s
-Trafikplats Gyllene Uttern (103)
- �lmstad
+Trp Gyllene Uttern (103)
+ Ölmstad
  Rastplats Gyellene Uttern
  Restaurang: Gyllene Uttern
 					1,3 km/1,3 km	43 s/43 s
-Trafikplats Gr�nna (104)
- Gr�nna, Visings�
- 133: Tran�s
- Bensinstation: Statoil
+Trafikplats Gränna (104)
+ 133: Tranås
+ Gränna, Visingsö
+ Bensinstation: Circle-K
 					6,3 km/6,7 km	3 min 26 s/3 min 39 s
 Rastplats Brahehus
  Bensinstation: Preem
 					7,3 km/6,0 km	3 min 59 s/3 min 16 s
-J�nk�ping / �sterg�tland
-J�nk�ping / �desh�g
+Jönköping / Östergötland
+Jönköping / Ödeshög
 					3,9 km/4,7 km	2 min 8 s/2 min 34 s
-Trafikplats Vida V�ttern (105)
- Rastplats Vida V�ttern
- Motell Vida V�ttern
+Trp Vida Vättern (105)
+ Rastplats Vida Vättern, Bensinstation
+ Hotell/Restaurang: Motell Vida Vättern
 					11,1 km/11,6 km	6 min 3 s/6 min 20 s
-Trafikplats �desh�g (106)
- 50: �rebro, Motala,
-     Vadstena
- Rastplats �stg�taporten
- Bensinstation: OKQ8
- Restaurang: Rasta
+Trafikplats Ödeshög (106)
+ Vadstena, Hästholmen
+ Rastplats Östgötaporten
+ Bensinstation: OKQ8, Preem
+ Restaurang: McDonald's, Burger King, Rasta
 					12,3 km/11,6 km	6 min 43 s/6 min 20 s
-�desh�g / Mj�lby
+Ödeshög / Mjölby
 					4,9 km/5,7 km	2 min 40 s/3 min 7 s
-Trafikplats V�derstad (107)
+Trp Väderstad (107)
  Boxholm
- V�derstad
+ Väderstad
 					10,8 km/10,3 km	5 min 53 s/5 min 37 s
-Trp Mj�lby V�stra (108)
- 32 s: Vetlanda, Boxholm
- 32 n: Motala, Sk�nninge
+Trp Mjölby Västra (108)
+ Mjölby V, Centrum
+ 32: Vetlanda, Boxholm
+ 50: Örebro, Motala
  Restaurang: McDonald's
 
-Etapp 11: Mj�lby - Link�ping (28,5 km/28,7 km)
+Etapp 11: Mjölby - Linköping (28,5 km/28,7 km)
 					4,9 km/5,7 km	2 min 40 s/3 min 7 s
-Trp Mj�lby �stra (109)
+Trp Mjölby Östra (109)
+ Mjölby Ö, Centrum
  Rastplats Albacken
  Cafe: Albackens skafferi
 					2,8 km/1,8 km	1 min 32 s/59 s
-Rastplats Svart�n
-(sydg�ende riktning)
+(Rastplats Svartån (sydgående)
 					5,2 km/5,7 km	2 min 50 s/3 min 7 s
-Svart�n
+Bro över Svartån
 
 Trafikplats Mantorp (110)
  Mantorp
- 206: Vadstena, Sk�nninge
- Bensinstation: Statoil, Preem
+ 206: Vadstena, Skänninge
+ Bensinstation: Circle-K, Preem
 					3,4 km/2,6 km	1 min 51 s/1 min 25 s
-Mj�lby / Link�ping
+Mjölby / Linköping
 					12,2 km/13,0 km	6 min 39 s/7 min 5 s
-Trafikplats Link�ping v�stra (111)
- 36: Motala
- 34: Vimmerby, Kisa
+Trp Linköping Västra (111)
+ Linköping V, Centrum
+ Flygvapenmuseum
+ 34 s: Vimmerby, Kisa
+ 34 n: Motala, Ljungsbro
 
-Etapp 12: Link�ping - Norrk�ping (40,4 km/39,9 km)
+Etapp 12: Linköping - Norrköping (40,4 km/39,9 km)
 					3.1 km/2.8 km	1 min 41 s/1 min 32 s
-Trafikplats Link�ping norra (112)
- Link�ping N, C
- Berg
+Trp Linköping norra (112)
+ Linköping N, Centrum
+ Bergs slussar
  Restaurang: McDonald's, Burger King
  Bensinstation: Statoil, OKQ8
 					2.9 km/2.5 km	1 min 35 s/1 min 22 s
-St�ng�n
+Bro över Stångån/Kinda Kanal
 					2.4 km/3.5 km	1 min 19 s/1 min 55 s
-Trafikplats Link�ping �stra (113)
- Link�ping �, C
- 35: V�stervik, �tvidaberg
+Trp Linköping Östra (113)
+ Linköping Ö, Centrum
+ 35: Västervik, Åtvidaberg
+ Saab
 					13.2 km/12.7 km	7 min 12 s/6 min 56 s
 Rastplats Herrbeta
  Bensinstation: Shell
 					2.0 km/1.5 km	1 min 5 s/0 min 49 s
-Link�ping / Norrk�ping
+Linköping / Norrköping
 					2.5 km/3.2 km	1 min 22 s/1 min 45 s
 Trp Norsholm (115)
- 210: S�derk�ping, Linghem
- 215: Finsp�ng, Norsholm
- Bensinstation: Statoil
+ 210: Söderköping, Linghem
+ 215: Finspång, Norsholm
+ Bensinstation: Circle-K
 					3.7 km/3.3 km	2 min 1 s/1 min 48 s
 Norsholmsbron (348 m)
- G�ta Kanal
+ Göta Kanal
 					2.5 km/2.2 km	1 min 22 s/1 min 12 s
 Trp Melby (116)
-(avfart sydg�ende riktning
-p�fart nordg�ende riktning)
- Norsholm, V�sterby
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Norsholm, Västerby
 					3.8 km/4.0 km	2 min 4 s/2 min 11 s
-Trp L�vstad (117)
- Kimstad
+Trafikplats Lövstad (117)
+ Kimstad, Lövstad slott
 					2.0 km/2.5 km	1 min 5 s/1 min 22 s
-Trp Klinga (118)
- Sk�rblacka
+Trafikplats Klinga (118)
+ Skärblacka
  Rastplats Klinga
  Bensinstation: OKQ8
  Restaurang: McDonald's
 					2.5 km/2.0 km	1 min 22 s/1 min 5 s
-Trp Norrk�ping S�dra (119)
- Norrk�ping S, C
- E22: Kalmar, Ark�sund
+Trp Norrköping Södra (119)
+ Norrköping S, Centrum
+ E22: Kalmar, Söderköping
+ [209]: Arkösund
 
-Etapp 13: F�rbi Norrk�ping (7,7 km/7,6 km)
+Etapp 13: Förbi Norrköping (7,7 km/7,6 km)
 					2,4 km/2,3 km	1 min 36 s/1 min 32 s
-Motala Str�m
+(Bro över Motala Ström
+					(/
+Trp Bråvalla (120)
+ Norrköping
+ Fiskeby
 					3,6 km/4,4 km	2 min 24 s/2 min 56 s
 Trp Ingelsta (121)
- 51: �rebro, Finsp�ng
+ 51: Örebro, Finspång
 					1,3 km/0,8 km	52 s/32 s
-Trp Norrk�ping Norra (122)
-(avfart sydg�ende riktning,
- p�fart nordg�ende riktning)
- Norrk�ping N, Centrum
+Trp Norrköping Norra (122)
+(avfart sydgående riktning,
+ påfart nordgående riktning)
+ Norrköping N, Centrum
 Trp Loddby (123)
-(avfart nordg�ende riktning
- p�fart sydg�ende riktning)
- �by
+(avfart nordgående riktning
+ påfart sydgående riktning)
+ Åby
  55: Katrineholm
- 56: V�ster�s
+ 56: Västerås
 
-Etapp 14: Norrk�ping - Nyk�ping (55,0 km/54,7 km)
+Etapp 14: Norrköping - Nyköping (55,0 km/54,7 km)
 					0,9 km/1,0 km	36 s/40 s
-Trp �by (124)
- Braviken
- 55: Katrineholm
- 56: V�ster�s
+Trafikplats Åby (124)
+ Braviken, Pampushamnen
+ [55]: Katrineholm
+ [56]: Västerås
 					2,7 km/2,2 km	1 min 48 s/1 min 28 s
-Trp Bj�rnsn�s (125)
-(avfart norg�ende riktning
- p�fart sydg�ende riktning)
- Get�, �by
+Trp Björnsnäs (125)
+(avfart nordgående riktning
+ påfart sydgående riktning)
+ Getå, Åby
 					8,6 km/8,7 km	4 min 41 s/4 min 45 s
-Trp Str�msfors (126)
- Krokek, Get�
- Kolm�rdens Djurpark
+Trp Strömsfors (126)
+ Krokek, Getå
+ Kolmårdens Djurpark
 					4,2 km/4,2 km	2 min 17 s/2 min 17 s
-�sterg�tland / S�dermanland
-Norrk�ping / Nyk�ping
+Östergötland / Södermanland
+Norrköping / Nyköping
 					1,9 km/2,6 km	1 min 2 s/1 min 25 s
-Trafikplats Stavsj� (127)
- Kolm�rdens Djurpark
- Rastplats Stavsj�
- Bensinstation: Statoil
+Trafikplats Stavsjö (127)
+ Kolmårdens Djurpark
+ Rastplats Stavsjö
+ Bensinstation: Circle-K
 					12,8 km/12,7 km	6 min 59 s/6 min 56 s
 Trp Gammelsta (128)
- 216: Katrineholm, Bj�rkvik
+ 216: Katrineholm, Björkvik
 					6,9 km/6,9 km	3 min 46 s/3 min 46 s
-Trp J�n�ker (129)
- J�n�ker, Stigtomta
+Trp Jönåker (129)
+ Jönåker, Stigtomta
 					11,7 km/11,1 km	6 min 23 s/6 min 3 s
-Rastplats Nyk�pingsbro
+Rastplats Nyköpingsbro
  Bensinstation: Shell
 					1,1 km/1,1 km	36 s/36 s
 Trp Bergshammar (131)
  Enstaberga, Bergshammar
-(avfart sydg�ende riktning
- p�fart nordg�ende riktning)
+(avfart sydgående riktning
+ påfart nordgående riktning)
  Bergshammar, Svalsta, Enstaberga
 					1,8 km/2,1 km	59 s/1 min 9 s
-Trp Kungsladug�rden (132)
- Nyk�ping V, C
- 53: Oxel�sund
+Trp Kungsladugården (132)
+ Nyköping V, Centrum
+ 53 s: Oxelösund
  Restaurang: McDonald's
  Bensinstation: Tanka, Statoil
 					2,1 km/1,8 km	1 min 9 s/59 s
-Trp H�llet (133)
- Nyk�ping N, C
- 52: �rebro, Katrineholm
- 53: Eskilstuna
+Trp Hållet (133)
+ Nyköping N, Centrum
+ 52: Örebro, Katrineholm
+ 53 n: Eskilstuna, Flen
  Skavsta Flygplats
 
-Etapp 16: Nyk�ping - S�dert�lje (64,5 km/65,2 km)
+Etapp 16: Nyköping - Södertälje (64,5 km/65,2 km)
 					2,1 km/3,0 km	1 min 9 s/1 min 38 s
-Nyk�pings�n
+Bro över Nyköpingsån
 
-Trp P�lljungshage (134)
- Nyk�ping �
+Trp Påljungshage (134)
+ Nyköping Ö
  219: Studsvik
  223: Mariefred
  Bensinstation: OKQ8
@@ -246,56 +253,51 @@ Trp P�lljungshage (134)
 Trp Tystberga (135)
  Tystberga
 					8,1 km/9,7 km	4 min 25 s/5 min 17 s
-Trp L�stringe (136)
-(nordg�ende riktning)
- L�stringe
- 224: Gnesta
-Trp L�stringe (137)
-(sydg�ende riktning)
- L�stringe
+Trp Lästringe (136 / 137)
+ Lästringe
  224: Gnesta
 					3,6 km/2,1 km	1 min 58 s/1 min 9 s
 Rastplats Sillekrog
  Bensinstation: OKQ8
 					1,1 km/0,7 km	36 s/23 s
-Nyk�ping / Trosa
+Nyköping / Trosa
 					7,5 km/8,3 km	4 min 5 s/4 min 32 s
-Trp Vagnh�rad (138)
+Trp Vagnhärad (138)
  218: Trosa
 					4,8 km/3,9 km	2 min 37 s/2 min 8 s
-S�dermanland / Stockholm
-Trosa / S�dert�lje
+Södermanland / Stockholm
+Trosa / Södertälje
 					4,0 km/5,0 km	2 min 11/2 min 44 s
-Trp H�l� (139)
- H�l�, M�rk�
+Trafikplats Hölö (139)
+ Hölö, Mörkö
 					7,7 km/7,1 km	4 min 12/3 min 52 s
-Trafikplats J�rna (141)
+Trafikplats Järna (141)
  57: Katrineholm, Gnesta
- Rastplats J�rna
- Bensinstation: Statoil
+ Rastplats Järna
+ Bensinstation: Circle-K
 					8,9 km/8,9 km	4 min 51 s/4 min 51 s
-Trp S�dert�lje Syd (142)
+Trp Södertälje Syd (142)
  Pershagen
- S�dert�lje Syd station
+ Södertälje Syd station
 					2.1 km/2.4 km	1 min 16 s/1 min 26 s
-Trp Saltskog �stra (143)
- E20: G�teborg
- S�dert�lje C
+Trp Saltskog Östra (143)
+ E20 v: Göteborg, Strängnäs
+ Södertälje C
 
-Etapp 16: S�dert�lje - Stockholm (27,4 km/27,7 km)
+Etapp 16: Södertälje - Stockholm (27,4 km/27,7 km)
 					0.9 km/0.5 km	0 min 32 s/0 min 18 s
 E4-bron (200 m)
- S�dert�lje Kanal
+ Södertälje Kanal
 					1.7 km/2.3 km	1 min 1 s/1 min 23 s
 Trp Moraberg (144)
- 225: Nyn�shamn
- S�dert�lje N, C
+ 225: Nynäshamn
+ Södertälje N, Centrum
  Restaurang: McDonald's
 					2.8 km/1.9 km	1 min 41 s/1 min 8 s
-S�dert�lje / Salem
+Södertälje / Salem
 					3.0 km/3.6 km	1 min 48 s/2 min 10 s
-Trp Salen (145)
- R�nninge, Salem
+Trafikplats Salen (145)
+ Rönninge, Salem
 					2.2 km/1.6 km	1 min 19 s/0 min 58 s
 Salem / Botkyrka
 					3.5 km/4.6 km	2 min 6 s/2 min 46 s
@@ -309,78 +311,86 @@ Trp Fittja (147)
  Huddinge sjukhus
  Bensinstation: OKQ8
 					1,0 km/1,0 km	40 s/40 s
+Bro över Fittjaviken (ej skyltad)
 Botkyrka / Huddinge
 					0,3 km/0,4 km	12 s/16 s
-Trp V�rby (148)
+(Trp Vårby (148, avstängd))
+(avfart sydgående riktning
+påfart nordgående riktning)
  [259]: Huddinge
  Huddinge sjukhus
 					1,3 km/1,6 km	52 s/1 min 4 s
-Trp Lindvreten (150)
+Trp Lindvreten (150, under ombyggnad)
  Kungens kurva S
- Sk�rholmen S
+ Skärholmen S
 					1,2 km/2,0 km	48 s/1 min 20 s
 Trp Kungens Kurva (151)
  Kungens kurva N
- Sk�rholmen N
- Bensinstation: Statoil, OKQ8
+ Skärholmen N
+ Bensinstation: Circle-K, OKQ8
  Restaurang: McDonald's
 					2,9 km/2,4 km	1 min 56 s/1 min 36 s
-Trp Bred�ng (152)
- M�larh�jden, Fru�ngen
+Trp Bredäng (152)
+ Mälarhöjden, Fruängen
  Bensinstation: Shell, Preem
 (Huddinge / Stockholm)
 					2,1 km/1,8 km	1 min 24 s/1 min 12 s
-Trp V�stertorp (153)
- 271: �lvsj�, Fru�ngen
- H�gerstens�sen, M�larh�jden
+Trp Västertorp (153)
+ 271: Älvsjö, Fruängen
+ Hägerstensåsen, Mälarhöjden
 					0,9 km/1,6 km	36 s/1 min 4 s
-Trp V�stberga (154)
+Trp Västberga (154)
  Midsommarkransen
- S�dermalm (avfart nordg�ende riktning
-	    p�fart sydg�ende riktning)
+ Södermalm (avfart nordgående riktning
+	    påfart sydgående riktning)
  Bensinstation: OKQ8
 					1.4 km/1.2 km	1 min 3 s/0 min 54 s
-Trp Nyboda (155)
- 75: Nacka, �rsta
- [73]: Nyn�shamn
+Trafikplats Nyboda (155)
+ 75: Nacka, Årsta
+ [73]: Nynäshamn
  [222]: Gustavsberg
 
 Etapp 17: Essingeleden (7,9 km/7,1 km)
 					1.7 km/0.8 km	1 min 17 s/0 min 36 s
 Trp Nybohov (156)
+(avfart sydgående riktning
+påfart norgående riktning)
  Aspudden, Liljeholmen
-(avfart sydg�ende riktning
- p�fart norg�ende riktning)
 					1.0 km/1.0 km	45 s/45 s
-(Trp Gr�ndal (157))
- Gr�ndal
-(avfart sydg�ende riktning
- p�fart norg�ende riktning)
-(Gr�ndalsbron)
+(Trp Gröndal (157)
+(avfart sydgående riktning
+påfart norgående riktning)
+ Gröndal
+					(/
+Gröndalsbron (ca 400 m)
+
 Trp Stora Essingen (158)
-(ej p�fart nordg�ende riktning)
+(ej påfart nordgående)
 					0.7 km/0.6 km	31 s/27 s
-(Essingebron)				
-Trp Lilla Essingen (159)
-(nordg�ende riktning)
+Essingebron (270 m)			
+
+Trp Lilla Essingen (159))
+(nordgående riktning)
 					0.7 km/0.5 km	31 s/23 s
-(Bro)
-(Fredh�llstunneln (210 m)			
-					
-Trp Fredh�ll (160)
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
+Bro över Mariebergssundet
+
+(Fredhällstunneln (210 m)			
+					(/)			
+Trp Fredhäll (160))
+(avfart nordgående riktning
+påfart sydgående riktning)
  Fridhemsplan
  175: Drottningholm, Bromma
+
 Trp Hornsberg (161)
  Stadshagen
- Sankt G�rans sjukhus
+ Sankt Görans sjukhus
 					0.9 km/0.7 km	41 s/31 s
-(Bro)					
+(Bro)
 Stockholm / Solna
 Trp Tomteboda (162)
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
+(avfart nordgående riktning
+påfart sydgående riktning)
  Solna, Sundbyberg
 					0.7 km/1.3 km	31 s/59 s
 Trp Karlberg (163)
@@ -388,8 +398,9 @@ Trp Karlberg (163)
  Karolinska sjukhuset
 					1.2 km/0.5 km	54 s/23 s
 Trp Norrtull (164)
-(avfart nordg�ende riktning
-p�fart sydg�ende riktning)
- E20: V�rtahamnen
- 277: Liding�
-(Eugeniatunneln_syd)
+(avfart nordgående riktning
+påfart sydgående riktning)
+ E20: Värtahamnen, Färja: Tallin (Tallink)
+ Färja: Helsingfors, Åbo (Tallink)
+ 277: Lidingö
+(Eugeniatunneln-syd)
