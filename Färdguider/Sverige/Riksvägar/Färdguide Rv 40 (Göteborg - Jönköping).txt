@@ -1,31 +1,32 @@
-Reseguide Rv 40 (Göteborg - Jönköping)
+Reseguide Rv 40 (Gï¿½teborg - Jï¿½nkï¿½ping)
 =======================================
 
-Etapp 1: Kallebäck - Ryamotet: (22,2 km/22,6 km)
+Etapp 1: KallebÃ¤ck - Ryamotet: (22,2 km/22,6 km)
 
-Kallebäcksmotet-nord (70)
-(avfart sydgående riktning
-påfart nordgående riktning)
- E6-E20: Göteborg C
- E6-E20: Malmö
+KallebÃ¤cksmotet-nord (70)
+(avfart sydgÃ¥ende riktning
+pÃ¥fart nordgÃ¥ende riktning)
+ E6-E20: GÃ¶teborg C
+ E6-E20: MalmÃ¶
 					0,5 km/0,9 km	20 s/36 s
-Kallebäcksmotet-öst (70)
- Kallebäck, Skår
+KallebÃ¤cksmotet-Ã¶st (70)
+ KallebÃ¤ck
+ SkÃ¥r
 					1,7 km/2,0 km	1 min 8 s/1 min 20 s
-Delsjömotet (71)
+DelsjÃ¶motet (71)
  Ruag Space
- Rastplats Delsjön
+ Rastplats DelsjÃ¶n
  Restaurang: Burger King
 					2,8 km/2,0 km	1 min 32 s/1 min 5 s
-Göteborg / Mölndal
-Mölndal / Härryda
+(GÃ¶teborg / MÃ¶lndal
+MÃ¶lndal / HÃ¤rryda)
 					1,3 km/1,5 km	43 s/49 s
-Mölnlyckemotet (72)
- Mölnlycke
+MÃ¶lnlyckemotet (72)
+ MÃ¶lnlycke
  Partille
  Bensinstation: Shell
 					4,8 km/4,9 km	2 min 37 s/2 min 40 s
-Bårhultsmotet (74)
+BÃ¥rhultsmotet (74)
  Partille
 					2,3 km/2,7 km	1 min 15 s/1 min 28 s
 Landvettermotet (75)
@@ -33,186 +34,173 @@ Landvettermotet (75)
  Partille
  Bensinstation: Shell
 					1,9 km/1,9 km	1 min 2 s/1 min 2 s
-Björrödsmotet (76)
- Landvetter Ö
+BjÃ¶rrÃ¶dsmotet (76)
+ Landvetter Ã–
  Bensinstation: OKQ8
 					4,3 km/4,5 km	2 min 21 s/2 min 27 s
 Flygplatsmotet (77)
- Härryda
+ HÃ¤rryda
  Landvetter Flygplats
  Restaurang: McDonald's
 					2,8 km/2,3 km	1 min 32 s/1 min 15 s
 Ryamotet (78)
- Hindås
+ HindÃ¥s
  156: Kinna, Skene
 
-Etapp 2: Ryamotet - Borås (37,3 km/37,6 km)
+Etapp 2: Ryamotet - BorÃ¥s (37,3 km/37,6 km)
 					8,8 km/8,6 km	4 min 48 s/4 min 42 s
 Grandalsmotet (79)
- Rävlanda
+ RÃ¤vlanda
  Rastplats Grandalen
 					1,9 km/1,5 km	1 min 2 s/0 min 49 s
-Härryda / Bollebygd
+HÃ¤rryda / Bollebygd
 					1,4 km/1,8 km	0 min 46 s/0 min 56 s
 Kullamotet (80)
  Bollebygd V
  Bensinstation: Statoil, Preem
  Restaurang: Smakfullt
 					4,0 km/3,9 km	2 min 11 s/2 min 8 s
-Grönkullenmotet (81)
- Bollebygd Ö
+GrÃ¶nkullenmotet (81)
+ Bollebygd Ã–
  Sandared, Olsfors, Hultafors
 					9,2 km/8,9 km	5 min 1 s/4 min 52 s
-Bollebygd / Borås
+Bollebygd / BorÃ¥s
 					1,4 km/3,9 km	0 min 46 s/2 min 7 s
-Rastplats Boråstorpet
-(östgående riktning)
+Rastplats BorÃ¥storpet)
+(Ã¶stgÃ¥ende riktning)
 					2,8 km/2,7 km	1 min 32 s/1 min 28 s
 Nabbamotet (82)
  Viared V
-
-(Trafikkontrollplats)
 					3,1 km/3,4 km	101 s/111 s
+(Trafikkontrollplats
+					(/
 Viaredsmotet (83)
- Viared Ö
- Sandared, Sjömarken
+ Viared Ã–
+ 27: Karlskrona, VÃ¤xjÃ¶
+ Sandared, SjÃ¶marken
  Bensinstation: Shell
 					2,8 km/2,3 km	101 s/83 s
 Tullamotet (84)
- [42]: Trollhättan
- [180]: Alingsås
+ [42]: TrollhÃ¤ttan
+ [180]: AlingsÃ¥s
 					1,4 km/1,1 km	56 s/44 s
 Brodalsmotet (85)
- 42: Trollhättan
- 180: Alingsås
+ [42]: TrollhÃ¤ttan
+ [180]: AlingsÃ¥s
  Knalleland
 					0,5 km/1,2 km	20 s/48 s
 Annelundsmotet (86)
- 27: Karlskrona, Växjö
+ [27]: Karlskrona, VÃ¤xjÃ¶
  41: Varberg
+ 42: TrollhÃ¤ttan
 
-Etapp 3: Borås - Ulricehamn (33,7 km/33,2 km)
+Etapp 3: BorÃ¥s - Ulricehamn (33,7 km/33,2 km)
 					1,8 km/1,6 km	1 min 12 s/1 min 4 s
 Hultamotet (87)
- Hässleholmen, Bergsäter
- Bensinstation: Statoil, OKQ8
+ HÃ¤ssleholmen, BergsÃ¤ter
+ Bensinstation: Circle-K, OKQ8
  Restaurang: McDonald's
 					1,4 km/1,0 km	56 s/40 s
-Brämhultsmotet (88)
- Brämhult, Hulta
+BrÃ¤mhultsmotet (88)
+ BrÃ¤mhult, Hulta
  Bensinstation: Preem
 					1,5 km/1,7 km	1 min 0 s/1 min 8 s
 Kyllaredsmotetet (89)
- Svensgärde, Brämhult
+ SvensgÃ¤rde, BrÃ¤mhult
 					3,4 km/3,4 km	1 min 51 s/1 min 51 s
-Rastplats Borås sörbo
-(västgående riktning)
+(Rastplats BorÃ¥s sÃ¶rbo (vÃ¤stgÃ¥ende)
 					2,8 km/3,1 km	1 min 32 s/1 min 41 s
-Dalsjöforsmotet (90)
- Äspered, Dalsjöfors
+DalsjÃ¶forsmotet (90)
+ Ã„spered, DalsjÃ¶fors
 					3,5 km/3,4 km	1 min 55 s/1 min 51 s
-Rångedalabron			
+RÃ¥ngedalabron (442 m)
 					2,6 km/2,4 km	1 min 25 s/1 min 19 s
-Rångedalamotet (91)
+RÃ¥ngedalamotet (91)
  Nitta
- Fristad, Rångedala
+ Fristad, RÃ¥ngedala
 					0,6 km/0,4 km	20 s/13 s
-Borås / Ulricehamn
+BorÃ¥s / Ulricehamn
 					7,7 km/7,9 km	4 min 12 s/4 min 19 s
-Hökerumsmotet (92)
- Tolkabro, Äspered
- Hökerum
+HÃ¶kerumsmotet (92)
+ Tolkabro, Ã„spered
+ HÃ¶kerum
 					6,2 km/6,4 km	3 min 23 s/3 min 29 s
-(Rastplats Röstesjön)
-(östgående riktning)
-
-Ulricehamnstunneln
- 400 m
+Rastplats RÃ¶stesjÃ¶n (Ã¶stgÃ¥ende))
+					/)
+Ulricehamnstunneln (400 m)
 					2,2 km/2,0 km	1 min 12 s/1 min 5 s
 Ulricehamnsmotet (93)
  Ulricehamn C
- 46: Skövde, Falköping
+ 46: SkÃ¶vde, FalkÃ¶ping
  157: Tranemo
 					
 Etapp 4: Ulricehamn - Bottnaryd (25,7 km/25,0 km)
 					3,0 km/3,2 km	1 min 38 s/1 min 45 s
-Hössnamotet (94)
- Ulricehamn Ö, C
- Hössna
+HÃ¶ssnamotet (94)
+ Ulricehamn Ã–, C
+ HÃ¶ssna
 					0,9 km/0,5 km	32 s/18 s
-T-korsning
- Enskild väg
 					1,3 km/1,3 km	52 s/52 s
-Korsning
- Enskild väg
+Korsning (enskild vÃ¤g)
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
 Korsning Valared
- Hössna, Galtåsen
+ HÃ¶ssna, GaltÃ¥sen
 					1,7 km/1,7 km	1 min 8 s/1 min 8 s
-Korsning
- Enskild väg
+Korsning (enskild vÃ¤g)
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
 Korsning Gullered
  Gullared
 					1,4 km/1,4 km	56 s/56 s
-Korsning
- Enskild väg
+Korsning (enskild vÃ¤g)
 					3,2 km/3,4 km	2 min 8 s/2 min 16 s
-Dubbel T-korsning Strängsered V
- Strängsered, Liared
+Dubbel T-korsning StrÃ¤ngsered V
+ StrÃ¤ngsered, Liared
  Rastplats Kullen
  Bensinstation: OKQ8
  Restaurang: Rasta
 					1,4 km/1,2 km	56 s/48 s
-Korsning Strängsered Ö
- Strängsered, Köttkulla
+Korsning StrÃ¤ngsered Ã–
+ StrÃ¤ngsered, KÃ¶ttkulla
 					2,4 km/2,4 km	1 min 36 s/1 min 36 s
-Korsning Torhult
- Enskild väg
+Korsning Torhult (enskild vÃ¤g)
 					0,7 km/0,7 km	28 s/28 s
-T-korsning
- Enskild väg
+T-korsning (enskild vÃ¤g)
 					1,0 km/0,9 km	40 s/36 s
-Västra Götaland / Jönköping
-Ulricehamn / Jönköping
+VÃ¤stra GÃ¶taland / JÃ¶nkÃ¶ping
+Ulricehamn / JÃ¶nkÃ¶ping
 					0,9 km/0,9 km	36 s/36 s
-T-korsning
- Enskild väg
+T-korsning (enskild vÃ¤g)
 					1,3 km/1,4 km	52 s/56 s
-T-korsning Kolgränna
- Enskild väg
+T-korsning KolgrÃ¤nna (enskild vÃ¤g)
 					1,0 km/0,9 km	40 s/36 s
-Korsning Bottnaryd väst
+Korsning Bottnaryd vÃ¤st
  Bottnaryd, Tokebro
 					0,6 km/0,7 km	24 s/28 s
-Korsning Klerebo
- Enskild väg
+Korsning Klerebo (enskild vÃ¤g)
 					1,3 km/1,3 km	52 s/52 s
-T-korsning Bottnaryd öst
+T-korsning Bottnaryd Ã¶st
  Bottnaryd
- 185: Mullsjö
+ 185: MullsjÃ¶
 
 Etapp 5: Bottnaryd - Hedenstorp (17,5 km/17,7 km)
 					0,3 km/0,3 km	15 s/15 s
 T-korsning
  Mullseryd
 					2,0 km/2,1 km	1 min 20 s/1 min 24 s
-Korsning
- Enskild väg
+Korsning (enskild vÃ¤g)
 					1,9 km/1,8 km	1 min 16 s/1 min 12 s
 T-korsning Rv 26/Rv 40
  26: Halmstad, Gislaved
 					1,4 km/1,4 km	56 s/56 s
-Korsning
- Enskild väg
+Korsning (enskild vÃ¤g)
 					1,1 km/1,1 km	44 s/44 s
-T-korsning Västra Jära
+T-korsning VÃ¤stra JÃ¤ra
  Ryd
 					0,9 km/0,9 km	36 s/36 s
-Tank V. Jära Statoil
- Bensinstation: Statoil
+Tank V. JÃ¤ra Circle-K (norra sidan)
+ Bensinstation: Circle-K
 					0,5 km/0,5 km	20 s/20 s
-Tank V. Jära Shell
+Tank V. JÃ¤ra Shell (norra sidan)
  Bensinstation: Shell
  Restaurang
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
@@ -220,31 +208,28 @@ Korsning Skogslund
  Svinhult, Angereds Hestra
 					1,1 km/1,2 km	44 s/48 s
 T-korsning Knutshult
- Enskild väg
 					0,7 km/0,6 km	28 s/24 s
 T-korsning
  Olsbo
 					2,5 km/2,5 km	1 min 40 s/1 min 40 s
-Korsning Lomsjö
- Enskild väg					
+Korsning LomsjÃ¶ (enskild vÃ¤g)					
 					1,9 km/2,0 km	1 min 16 s/1 min 20 s
-T-korsning Axamo
-(nordgående riktning)
+(T-korsning Axamo (vÃ¤stgÃ¥ende)
  Axamo
 					1,6 km/1,8 km	1 min 4 s/1 min 12 s
 Trp Hedenstorp (101)
- 26: Mariestad, Skövde
- 47: Trollhättan, Falköping
- 195: Hjo
- Jönköpings Flygplats
+ 26: Mariestad, SkÃ¶vde
+ 47: TrollhÃ¤ttan, FalkÃ¶ping
+ 195: Hjo, Habo
+ JÃ¶nkÃ¶pings Flygplats
 
 Etapp 6: Hedenstorp - Ljungarum (4,7 km/4.8 km)
 					3,3 km/3,6 km	2 min 12 s/2 min 24 s
 Trafikplats Haga (102)
- Gräshagen, Råslätt
+ GrÃ¤shagen, RÃ¥slÃ¤tt
 					1,3 km/1,2 km	52 s/48 s
 Trp Ljungarum (95)
- E4: Helsingborg, Värnamo
- E4: Stockholm, Huskvarna
- 40 ö: Västervik, Nässjö
- 47 ö: Oskarshamn, Vetlanda
+ E4 s: Helsingborg, VÃ¤rnamo
+ E4 n: Stockholm, Huskvarna
+ 40 Ã¶: VÃ¤stervik, NÃ¤ssjÃ¶
+ 47 Ã¶: Oskarshamn, Vetlanda
