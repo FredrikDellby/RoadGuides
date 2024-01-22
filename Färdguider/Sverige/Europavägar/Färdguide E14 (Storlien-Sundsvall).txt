@@ -552,3 +552,28 @@ Rondell Brunflo S/Häggdalen
  Industri: Brunflo S
  Storsjöbygdens Golfklubb
  Häggdalen (enskild väg)
+
+Korsning Haxäng Paviljongen
+ Rossbol, Lockne
+ Vitgården, Try & bygg
+
+(T-korsning Österböle (enskild väg))
+
+Östersund / Bräcke: (62.9675617,15.0212219)
+
+(T-korsning E14/Bergsvägen (lokal väg))
+ Storsjöhus (otydlig skylt)
+
+Korsning E14/Kvarnvägen (Pilgrimstad N)
+ Revsund, Haga
+ Framgården (B&B), Cementvarufabrik
+
+Korsning Pilgrimstad C (lokal väg)
+ Pilgrimstad station
+ Biskopvallen, Pilgrimskällan (sevärdhet)
+ Fritidsområde, Förskola
+(Restaurang: Pilgrimen)
+
+Korsning E14/Bällstavägen (lokal väg)
+ Pilgrimcenter, Jämtlands Bryggeri
+
