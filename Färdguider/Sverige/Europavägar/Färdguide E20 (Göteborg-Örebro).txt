@@ -237,47 +237,47 @@ Trafikplats Åsen
  Bensinsation: Q-star
 
 Etapp 16: Åsen - Jung (9,1 km/9,0 km)
-					2,0 km/1,8 km	1 min 20 s/1 min 12 s
+					0,7 km/0,4 km	28 s/16 s
 T-korsning (lokal infart)
 (ej skyltad, spansk sväng östgående)
-
+					1,3 km/1,4 km	52 s/56 s
 Dubbel T-korsning Kartegården
  Lidaborg, Håkesgården (enskild väg)
  Skarstad
-					1,5 km/1,4 km	1 min 0 s/0 min 56 s
+					0,5 km/0,5 km	20 s/20 s
 (Korsning (lokala infarter, ej skyltad))
 (spanska svängar bägge riktningar)
-
+					1,0 km/0,9 km	40 s/36 s
 Korsning Dönstorp (enskild väg)
  Dönstorp
  Rockagården, Rutakvarn
-					0,6 km/0,6 km	24 s/24 s
+					0,2 km/0,4 km	8 s/16 s
 Korsning (lokala infarter)
 (spanska svängar bägge riktningar)
  Café, Dönstorpsbadets Camping
 (Bro över Lidan)
-
+					0,4 km/0,2 km	16 s/8 s
 T-korsning Fyrunga E20
  Fyrunga, Bjertorp slott
-					1,7 km/1,7 km	1 min 8 s/1 min 8 s
+					0,5 km/0,5 km	20 s/20 s
 (T-korsning Löjtnantsholm (lokal infart))
 (ej skyltad, spansk sväng östgående)
-
+					0,4 km/0,4 km	16 s/16 s
 (T-korsning (lokal infart))
 (ej skyltad, spansk sväng östgående)
-
+					0,9 km/0,9 km	36 s/36 s
 Dubbel T-korsning Törestorp
  Töredal (Verkstad AB)
  Sven-Bengtsgården, Ladugårdsinrede (enskild väg)
-					3,4 km/3,5 km	2 min 16 s/2 min 20 s
+					0,5 km/0,5 km	20 s/20 s
 T-korsning (enskild väg)
 (endast förskyltad västgående)
  Maggegården, Skumpagården
-
+					1,5 km/1,5 km	1 min 0 s/1 min 0 s
 T-korsning Korsgården (enskild väg)
 (endast förskyltad västgående)
  Gatan
-
+					1,3 km/1,6 km	0 min 52 s/1 min 4 s
 Trafikplats Jung
  Kvänum
  Jung, Saleby

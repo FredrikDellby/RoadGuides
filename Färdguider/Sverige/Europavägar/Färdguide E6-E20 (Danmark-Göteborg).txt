@@ -8,6 +8,7 @@ Tårnby / Malmö
  7 845 m
 					/1,3 km	/47 s
 Betalstation Lernacken: (55.5664348,12.9126935)
+(Tullstation Lernacken (östgående))
 					1,5 km/1,9 km	0 min 54 s/1 min 16 s
 Rastplats Skånegården (nordgående)
 					1,6 km/1,7 km	52 s/56 s
