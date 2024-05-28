@@ -1,29 +1,34 @@
-Färdguide Rv 204/Fv 21 (Svinesundparken - Skotterud)
+FÃ¤rdguide Rv 204/Fv 21 (Svinesundparken - Skotterud)
 ====================================================
 
-Svinesundparkenkrysset (2)
- E6 s: Gøteborg, Strømstad
+Svingenskogenkrysset (2)
+ E6 s: GÃ¸teborg, StrÃ¸mstad
  E6 n: Oslo, Sarpsborg
- Svinesundsparken kjøpsenter
+ Svinesundsparken (handel/industri)
+					(/
+(Svingenskogenkrysset (Rondell)
+ Handel/Industri: Svinesundparken
+ Hotell: Motell Svinesundparken
+ Restaurant: McDonalds's
  Bensinstasjon: Esso, Shell
- Restaurang: McDonald's
 
 T-korsning Svinesundsparken-syd
  118 n: Ingedal
  [104]: Berg kirke
+ Halden fengsel
 
-Restaurang: Kniv og Gaffel
-
-T-korsning Ødegården
+f.d. Bensinstasjon (vestre side))
+					/)
+T-korsning Ã˜degÃ¥rden
  118 s: Svinesund
 
-Korsning Rv 21/Vestgårdveien
- Halden næringspark
+Korsning Rv 21/VestgÃ¥rdveien
+ Halden nÃ¦ringspark, Haldenterminalen
 
-Rondell Rv 21/Knivsøveien
+Rondell Rv 21/KnivsÃ¸veien
 
-Järnvägsviadukt
- Østfoldbanen
+Jï¿½rnvï¿½gsviadukt
+ ï¿½stfoldbanen
 
 T-korsning Rv 21/Lundestadveien
  Fv931
@@ -34,7 +39,7 @@ T-korsning Fresenius Kabi
 T-korsning Remmen
  Fv 921
 
-T-korsning Rv 21/Rødsveien
+T-korsning Rv 21/Rï¿½dsveien
  104: Berg kirke
 
 Rondell Rv 21/F. Nansens gate
@@ -51,22 +56,22 @@ T-korsning Fv21/Garvergata
 Rondell Fv21/Fv220
  
 (Tiste elv)
-T-korsning Fv 21/Grønland
+T-korsning Fv 21/Grï¿½nland
 
 T-korsning Fv21/Fossveien
- Fosseløkka
+ Fosselï¿½kka
 
 T-korsning Fv21/Fv921
  Tistedal
 T-korsning Fv21/Fv103
- 103: Holtet, Öberg
+ 103: Holtet, ï¿½berg
 
 Bensinstasjon: Best
 
-(T-korsning Fv21/Bjørnstadgata)
- Industriområde
+(T-korsning Fv21/Bjï¿½rnstadgata)
+ Industriomrï¿½de
 
-Femsjøen Rasteplass
+Femsjï¿½en Rasteplass
 
 Krusetertjern Rasteplass
 T-korsning Fv 21/Brekkeveien
@@ -78,13 +83,13 @@ Ertebrua (11 m)
 Rasteplass Fjell bru
 (Halden / Aremark)
 T-korsning Fjell bru
- 106: Bengtsfors, Bjørkebekk
+ 106: Bengtsfors, Bjï¿½rkebekk
 
 Stensbrua (53 m)
  Stenselva
 
-T-korsning Årbu
- Håkenby (Fv865)
+T-korsning ï¿½rbu
+ Hï¿½kenby (Fv865)
 
 T-korsning Skodsberg
  Ana, Skolleborg (Fv861)
@@ -93,9 +98,9 @@ T-korsning Skodsberg
 Bensinstasjon: Shell
 Joker Aremark
 T-korsning Fossby
- Bjørkebekk, Tolsby (Fv863)
+ Bjï¿½rkebekk, Tolsby (Fv863)
 
-Furulund Café
+Furulund Cafï¿½
 
 Kirkeng Camping
 
@@ -107,7 +112,7 @@ T-korsning Aremark
 (Hotel Arebo)
 
 T-korsning Fv21/Fv124
- 124: Rakkestad, Strømsfoss
+ 124: Rakkestad, Strï¿½msfoss
  Sluser
 
 NMK Aremark
@@ -122,7 +127,7 @@ T-korsning Stiklekrysset
 T-korsning Granerud
  Buer (Fv840)
 
-Øyemark kirke
+ï¿½yemark kirke
 
 T-korsning Fv21/Braarudveien
  Kasbo
@@ -130,18 +135,18 @@ T-korsning Fv21/Braarudveien
 Solstrand Terrasse
  Mat og Logi
 
-T-korsning Ørje-syd
+T-korsning ï¿½rje-syd
  Hotel: Solstrand Terrasse
 
-Rondell Ørje-sentrum
+Rondell ï¿½rje-sentrum
  E18 v: Oslo
  Kanalmuseet
  Bensinstasjon: Circle-K
 
-Kryss Ørje-nord
- E18 ø: Stockholm, Karlstad
+Kryss ï¿½rje-nord
+ E18 ï¿½: Stockholm, Karlstad
  
-Etapp 4: Ørje - Bekkenga (32,2 km/32,2 km)
+Etapp 4: ï¿½rje - Bekkenga (32,2 km/32,2 km)
 
 T-korsning Sukken
  Sukken Camping
@@ -149,22 +154,22 @@ T-korsning Sukken
 Korsning Klund
  Klund kirke
 
-T-korsning Høgås
- Høgås
+T-korsning Hï¿½gï¿½s
+ Hï¿½gï¿½s
 
 T-korsning Svensbykrysset
- 125: Mysen, Løken
+ 125: Mysen, Lï¿½ken
 
-Marker / Aurskog-Høland
+Marker / Aurskog-Hï¿½land
 
 Hellersundet (vall)
 
 T-korsning Bekkenga
- 126: Töcksfors, Trosterud
+ 126: Tï¿½cksfors, Trosterud
 
 Etapp 5: Bekkenga - Tangen (25,7 km/25,7 km)
 
-Dubbel T-korsning Skjønhaug
+Dubbel T-korsning Skjï¿½nhaug
  Vestby
  Sundsrud
 
@@ -172,33 +177,33 @@ T-korsning
  Zen Resort & spa
 
 T-korsning Eie
- Rømskog kirke (Fv812)
+ Rï¿½mskog kirke (Fv812)
 
 Bensinstasjon: MAX
 
 Nord Steinby Kro & Camping
-Joker Rømskog
+Joker Rï¿½mskog
 
-T-korsning Rømskog skole
+T-korsning Rï¿½mskog skole
 
-T-korsning Rømskog
- Østkroken (Fv813)
- Rømskog industri
+T-korsning Rï¿½mskog
+ ï¿½stkroken (Fv813)
+ Rï¿½mskog industri
 
 T-korsning Trandum
- Østkroken (Fv813)
+ ï¿½stkroken (Fv813)
 
-T-korsning Rømskog Næringspark
+T-korsning Rï¿½mskog Nï¿½ringspark
 
 (Hallangen sund)
 Korsning
- Hytteområde
+ Hytteomrï¿½de
  Rasteplass Hallangen
  Krigsminnesmerke
 
 Langebruslora (bru)
 
-Korsning Åserudkrysset
+Korsning ï¿½serudkrysset
  Skogheim (Fv228)
 
 T-korsning Setskog kirke
@@ -210,7 +215,7 @@ T-korsning Setskog
 
 Tangen Camping
 T-korsning Tangen
- 170: Oslo, Bjørkelangen
+ 170: Oslo, Bjï¿½rkelangen
 
 Etapp 5: Tangen - Vestmarka (22,7 km/22,7 km)
 					5,1 km/5,1 km	4 min 22 s/4 min 22 s
@@ -218,7 +223,7 @@ T-korsning Grasmoen (Fv241)
  Skillingsfors
 					3,1 km/3,1 km	2 min 39 s/2 min 39 s
 Akershus / Hedmark
-Aurskog-Høland / Eidskog
+Aurskog-Hï¿½land / Eidskog
 					4,5 km/4,5 km	3 min 51 s/3 min 51 s
 T-korsning
  Sootkanalen, Grenselosmuseet
@@ -232,7 +237,7 @@ Buvik bru (19 m)
 T-korsning Kisviken
  Mangen, Bolfoss (Fv322)
 					7,7 km/7,8 km	6 min 36 s/6 min 41 s
-Dubbel T-korsning Buåa
+Dubbel T-korsning Buï¿½a
  Skillingsfors, Vestmarka kirke (Fv344)
  Steineien, Knutbru (Fv324)
 
@@ -242,33 +247,33 @@ Bensinstasjon: Esso
 					0,5 km/0,5 km	30 s/30 s
 T-korsning
  Steinein, Knutbru
- Jerpset sevärdhet
+ Jerpset sevï¿½rdhet
 					2,5 km/2,6 km	2 min 9 s/2 min 14 s
 Rasteplass Stangnes
 					0,7 km/0,6 km	36 s/31 s
 T-korsning Stangnes
  Ingelsrud (Fv328)
 					1,7 km/1,7 km	1 min 27 s/1 min 27 s
-T-korsning Tolbøl S
+T-korsning Tolbï¿½l S
  Vangen (Fv329)
 					0,5 km/0,5 km	26 s/26 s
-T-korsning Tobøl N
- Mobekk, Børli (Fv326)
+T-korsning Tobï¿½l N
+ Mobekk, Bï¿½rli (Fv326)
 					0,6 km/0,6 km	31 s/31 s
 T-korsning
- Børrud
+ Bï¿½rrud
 					0,4 km/0,4 km	21 s/21 s
-T-korsning Gærversvingen
+T-korsning Gï¿½rversvingen
  Fjeld, Smedtorpet (Fv330)
 					2,2 km/2,3 km	2 min 12 s/2 min 18 s
 Dubbel T-korsning Tuhusporta
  Berger (Fv332)
- Børrud
+ Bï¿½rrud
 					0,5 km/0,5 km	30 s/30 s
 Kryss Skotterud-vest
  Gaustad (Fv344)
  2 s: Karlstad, Magnor
 					0,4 km/0,3 km	24 s/18 s
-Kryss Skotterud-øst
+Kryss Skotterud-ï¿½st
  2 n: Kongsvinger
  202: Skotterud
