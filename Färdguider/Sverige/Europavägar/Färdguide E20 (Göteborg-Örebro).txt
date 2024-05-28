@@ -193,7 +193,7 @@ Trp Lekåsa
 					2.0 km/1.9 km	1 min 20 s/1 min 16 s
 Etapp 15: Lekåsa - Åsen (18,0 km/18,1 km)
 
-Essunga / Vara
+Essunga / Vara: (58.1590607,12.8777706)
 					1.4 km/1.4 km	56 s/56 s
 Trafikplats Eling
  Vedum
