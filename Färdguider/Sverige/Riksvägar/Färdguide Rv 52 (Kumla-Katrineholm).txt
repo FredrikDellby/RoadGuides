@@ -4,11 +4,11 @@ Färdguide Rv 52 (Kumla - Katrineholm)
 Trp Byrstatorp (107)
 
 (Motortrafikled upphör / börjar)
-Korsning ...
+Korsning Byrstatorp
  Hidingsta
  V Åby (enskild väg)
 
-Rondell ...
+Rondell Byrsta
  Hallsberg N, Centrum
  Industri: Verkstadscentrum
  Kumla S, Centrum
@@ -26,14 +26,14 @@ Rondell ...
  Björka
  N Björka
 
-Korsning (lokal väg)
+Korsning Södra Via (lokal väg)
  Rösavi, Rälsverkstad (enskild väg)
  Industri: Via
 
 Järnvägsviadukt
  Godsstråket genom Bergslagen
 
-Rondell ...
+Rondell Blacksta
  Sannahed, Motorbana
  Kumlaby
 
@@ -42,7 +42,7 @@ Rondell ...
 Järnvägsbro
  Industrispår Kumla-Närkes Kvarntorp
 
-T-korsning ...
+T-korsning Örsta
  Kumla Ö
  Båtförsäljning, Galleri Östra
 
@@ -50,7 +50,7 @@ Korsning Hällabrottet Rv 52
  Hällabrottet
  Örstaholm (enskild väg)
 
-T-korsning ...
+T-korsning Fågelhagen
  Hällabrottet
  Industri: Yxhult, Ytongbanan
  Kumla Golfklubb
@@ -60,7 +60,69 @@ T-korsning ...
 (T-korsning Fågelhaget (enskild väg))
  Folkatorp
 
-Rondell ...
+Rondell Kvarntorp (Rv 51/Rv 52)
  51 s: Norrköping
  Industri: Kvarntorp, tung transport Fortum
  51 n: Örebro
+
+Kumla / Hallsberg: (59.1314854,15.298696)
+
+Trippel T-korsning Kävesta
+ Bensinstation: Circle-K/INGO´
+
+Korsning Sköllersta SV
+ Sköllersta
+
+Dubbel T-korsning Sköllersta SO
+ Forntomta, Testa, Ullavi
+ Sköllersta, Sköllersta kyrka (sevärdhet)
+
+Korsning Vinala (enskild väg)
+ Wärsta, Vinala
+
+(Korsning Kånsta V (enskild väg))
+ Skruke
+ Kånsta
+
+(Korsning Kånsta Ö (enskild väg))
+ Kånsta
+
+T-korsning Hammarsvägen
+ Norrbyås, Kvismarens Naturreservat (sevärdhet)
+Hallsberg / Örebro (59.1462969,15.4047553)
+
+(Korsning (enskild väg))
+ Kvinnersta
+ Bergamon
+
+(Korsning (enskild väg))
+ Köpsta, Höre
+ Värsta
+
+(Korsning Menigasker (enskild väg))
+ Menigasker
+
+Korsning Fiskinge västra
+ Askersby, Askers k:a
+ Fiskinge (enskild väg)
+
+Korsning Tybble Rv 52 (enskild väg)
+ Tybble by
+
+Korsning (enskild väg)
+ Via, Gårdsbutik
+
+Korsning Asker Ö
+ Askersby, Askers k:a
+
+Korsning (enskild väg)
+ Mörby produktion
+
+Korsning (enskild väg)
+ Mörby Gård
+
+Korsning Valsta vägskäl
+ Breven, Kilsmo
+
+T-korsning Odensbacken S
+ 207: Stora Mellösa, Odensbacken
