@@ -1,66 +1,101 @@
-Färdguide Rv 51 (Örebro - Norrköping)
+FÃ¤rdguide Rv 51 (NorrkÃ¶ping - Ã–rebro)
 ======================================
 
-Etapp 1: Örebro - Sköllersta ()
 
-Trp Byrstatorp (109)
- E20 s: Göteborg, Mariestad
- 50 s: Jönköping, Askersund
+Rondell Kvarntorp (Rv 51/Rv 52)
+ Rasttorp, Industri: Kvarntorp
+ Fortum tung last
+ 52 v: NykÃ¶ping, Katrineholm
+ 52 Ã¶: Kumla
+ [E20 v]: GÃ¶teborg
+ [50 s]: JÃ¶nkÃ¶ping, Askersund
 
-Rondell
+Etapp : Kvarntorp - Ã–rebro-KlÃ¤mman ()
 
-Trafikplats
+Korsning Rv 51/G:a BjÃ¶rkavÃ¤gen (spanska svÃ¤ngar)
+ BjÃ¶rka
 
-Rondell
+Parkeringsplats (nordgÃ¥ende))
 
-Järnvägsviadukt
+(Parkeringsplats (sydgÃ¥ende)
 
-Korsning
- Enskild väg
-
-Korsning
-
-Korsning
- Enskild väg
-
-Rondell
-
-Korsning
- Enskild väg
-
-T-korsning Almbro N
-
-T-korsning Almbro S
-
-T-korsning Gällersta K:a
-
-Örebro / Hallsberg
+Korsning (enskild vÃ¤g, spanska svÃ¤ngar)
 
 Korsning Ekeby Rv 51
 
-Korsning Gamla Björkavägen
+Trp? Frommesta (enskild vÃ¤g)
+ Ã– Frommesta
+ V Frommesta, Maskinservice
 
-Rondell Fagerlunda
+Korsning GÃ¤llersta (spanska svÃ¤ngar)
 
-Tankställe Sköllersta
- Bensin: Statoil
-T-korsning Sköllersta V
- 51-52 v: Örebro, Kumla
- 52 ö: Nyköping, Katrineholm
+T-korsning Almbro S
 
-Etapp 2: Sköllersta - Trolleflod (38,9 km/38,7 km)
+Bro Ã¶ver TÃ¤ljeÃ¥n
+
+T-korsning Almbro N/Brickebacken
+ Hidingsta, N Bro
+
+Korsning (enskild vÃ¤g, spanska svÃ¤ngar)
+ Attersta
+
+Rondell KlÃ¤mman
+ 207: St. MellÃ¶sa, Ã–rebro Ã–
+ Universitet, Ã…tervinningscentral
+
+Rondell : Ã–rebro-KlÃ¤mman - Ã–rebro-Marieberg ()
+Korsning BÃ¤cketorp (enskild vÃ¤g, spanska svÃ¤ngar)
+ BjÃ¶rneborg
+ Attersta
+
+Korsning BondsÃ¤ttersvÃ¤gen
+ BondsÃ¤tter
+ HÃ¤rminge
+
+JÃ¤rnvÃ¤gsviadukt
+ GodsstrÃ¥ket genom Bergslagen
+
+(2+1-vÃ¤g upphÃ¶r / bÃ¶rjar)
+Travbanerondellen (lokal vÃ¤g)
+ Travbana
+ TÃ¶rsjÃ¶terminalen
+
+Trafikplats-Ã¶st (T-korsning)
+ Marieberg
+
+Trafikplats-vÃ¤st (T-korsning)
+ MosÃ¥s, Golfbana
+
+Rondell Mariebergs KÃ¶pcentrum Rv 51 (lokal vÃ¤g)
+ Mariebergs KÃ¶pcentrum
+ IKEA
+
+Trp Marieberg-Ã¶st
+ E20 Ã¶: Stockholm, Ã–rebro C
+ 50 n: Falun, Lindesberg
+
+Trp Marieberg-vÃ¤st
+ E20 v: GÃ¶teborg, Kumla
+ 50 s: JÃ¶nkÃ¶ping, Askersund
+ TÃ¤by
+
+(Trp Marieberg (109)
+ E20 v: GÃ¶teborg, Kumla
+ 50 s: JÃ¶nkÃ¶ping, Askersund
+
+Etapp 2: Skï¿½llersta - Trolleflod (38,9 km/38,7 km)
 					3.0 km/2.9 km	2 min 34 s/2 min 29 s
 T-korsning Tarsta
- Sköllersta
+ Skï¿½llersta
 					1.3 km/1.3 km	1 min 7 s/1 min 7 s
-T-korsning Åkerby
- Kärr
+T-korsning ï¿½kerby
+ Kï¿½rr
 					2.4 km/2.6 km	2 min 3 s/2 min 14 s
-Korsning Pålsboda N
+Korsning Pï¿½lsboda N
  Hallsberg
 					0.9 km/0.8 km	1 min 5 s/0 min 58 s
-Korsning Pålsboda kyrka
- Kärr
+Korsning Pï¿½lsboda kyrka
+ Kï¿½rr
 					5.9 km/5.9 km	5 min 3 s/5 min 3 s
 T-korsning Svennerud
  Kilsmo, Bystad
@@ -68,7 +103,7 @@ T-korsning Svennerud
 T-korsning Svennevad
  Skogaholm
 					6.9 km/6.9 km	5 min 11 s/5 min 11 s
-T-korsning Södra Glottra
+T-korsning Sï¿½dra Glottra
  Haddebo
 					2.7 km/2.7 km	2 min 2 s/2 min 2 s
 T-korsning Stenkulla
@@ -78,7 +113,7 @@ T-korsning Averby
  Bo
 					0.8 km/0.8 km	36 s/36 s
 T-korsning Hjortkvarn N
- Rönneshytta, Haddeby
+ Rï¿½nneshytta, Haddeby
 					0.5 km/0.5 km	36 s/36 s
 Korsning Hjortkvarn K:a
  Gryts bruk
@@ -86,15 +121,15 @@ Korsning Hjortkvarn K:a
 Korsning Hjortkvarn C
  Kattala
 					6.5 km/6.3 km	5 min 34 s/5 min 24 s
-Örebro / Östergötland
+ï¿½rebro / ï¿½stergï¿½tland
 Hallsberg / Motala
 					4.0 km/4.0 km	3 min 26 s/3 min 26 s
 T-korsning Trolleflod
- 211: Borensberg, Tjällmo
+ 211: Borensberg, Tjï¿½llmo
 
-Etapp 3: Trolleflod - Finspång (26,4 km/26,7 km)
+Etapp 3: Trolleflod - Finspï¿½ng (26,4 km/26,7 km)
 					0.3 km/0.3 km	15 s/15 s
-Motala / Finspång
+Motala / Finspï¿½ng
 					4.7 km/4.7 km	4 min 2 s/4 min 2 s
 Korsning Ljusfallshammar N
  Ljusfallshammar
@@ -102,69 +137,69 @@ Korsning Ljusfallshammar N
 T-korsning Ljusfallshammar C
 					0.8 km/0.8 km	58 s/58 s
 Korsning Ljusfallshammar S
- Grytgöl
+ Grytgï¿½l
 					2.8 km/2.8 km	2 min 24 s/2 min 24 s
-T-korsning Prästköp
- Tjällmo
+T-korsning Prï¿½stkï¿½p
+ Tjï¿½llmo
 					3.4 km/3.7 km	2 min 55 s/3 min 10 s
-Tankställe Hällestad
+Tankstï¿½lle Hï¿½llestad
 Bensinstation: Din-X
-Dubbel T-korsning Hällestad K:a
+Dubbel T-korsning Hï¿½llestad K:a
  Sonstorp slott
 					1.3 km/1.0 km	1 min 7 s/0 min 51 s
 T-korsning Tallberga
- Ljungsbro, Borggård
+ Ljungsbro, Borggï¿½rd
 					3.6 km/3.6 km	3 min 5 s/3 min 5 s
 Korsning Sonstorp
- Grytgöl, Sonstorp slott
+ Grytgï¿½l, Sonstorp slott
 					7.5 km/7.5 km	6 min 26 s/6 min 26 s
-T-korsning 51/Tallvägen
+T-korsning 51/Tallvï¿½gen
 					0.6 km/0.6 km	43 s/43 s
 T-korsning 51/Lasarettsv.
- Finspång lasarett
+ Finspï¿½ng lasarett
 					0.6 km/0.8 km	43 s/58 s
 Rondell
  Centrum
 T-korsning Rv51/Lv215
- 215: Skärblacka
+ 215: Skï¿½rblacka
 
-Etapp 4: Finspång - Norrköping (26,3 km/25,5 km)
+Etapp 4: Finspï¿½ng - Norrkï¿½ping (26,3 km/25,5 km)
 					0.6 km/0.4 km	43 s/29 s
-Korsning 51/Finnvedsvägen
+Korsning 51/Finnvedsvï¿½gen
  Centrum
 					0.6 km/0.6 km	43 s/43 s
-Korsning 51/Slottsvägen
+Korsning 51/Slottsvï¿½gen
 					0.4 km/0.6 km	29 s/43 s
-Tankställe OKQ8
+Tankstï¿½lle OKQ8
 Bensinstation: OKQ8
 					0.9 km/0.8 km	1 min 5 s/0 min 58 s
-Rondell Finspång Statoil
+Rondell Finspï¿½ng Statoil
 Bensinstation: Statoil
 					0.8 km/0.9 km	0 min 58 s/1 min 5 s
-Rondell Rv 51/Gronvägen
+Rondell Rv 51/Gronvï¿½gen
  Lotorp
 					1.5 km/1.4 km	1 min 17 s/1 min 12 s
 T-korsning Risinge kyrka
  S:ta Maria kyrka
 					1.3 km/1.3 km	59 s/59 s
-T-korsning Lotorps vägkors
+T-korsning Lotorps vï¿½gkors
  Lotorp, Igelfors
 					3.8 km/3.8 km	2 min 51 s/2 min 51 s
 T-korsning Vistinge
  Rejmyre
 					2.8 km/2.8 km	2 min 6 s/2 min 6 s
 T-korsning Solklint
- Svärtinge
+ Svï¿½rtinge
 					1.9 km/0.9 km	1 min 26 s/0 min 41 s
-Finspång / Norrköping
+Finspï¿½ng / Norrkï¿½ping
 					5.8 km/5.9 km	4 min 21 s/4 min 26 s
-Trp Svärtinge
- Svärtinge
+Trp Svï¿½rtinge
+ Svï¿½rtinge
 					2.9 km/2.8 km	2 min 11 s/2 min 6 s
-Rondell Dövestad
- Norrköping
+Rondell Dï¿½vestad
+ Norrkï¿½ping
 					3.0 km/3.3 km	2 min 15 s/2 min 28 s
 Trp Ingelsta
- E4 s: Helsingborg, Linköping
- E4 n: Stockholm, Nyköping
- Norrköping Centrum
+ E4 s: Helsingborg, Linkï¿½ping
+ E4 n: Stockholm, Nykï¿½ping
+ Norrkï¿½ping Centrum
