@@ -1,10 +1,98 @@
 Färdguide Rv 51 (Norrköping - Örebro)
 ======================================
 
+Etapp : Trolleflod - Hjortkvarn ()
 
-Rondell Kvarntorp (Rv 51/Rv 52)
+T-korsning Trolleflod
+ 211: Linköping, Borensberg, (Tjällmo)
+ Försvarsmakten
+
+(Parkeringsplats? (östra sidan))
+
+(Östergötland / Örebro): (58.842368,15.403052)
+Motala / Hallsberg (endast skyltad nordgående))
+
+(Vid Stenbro): (58.8629108, 15.4126792)
+
+Korsning (lokal väg)
+ Glasscafé: Gó Glass
+
+T-korsning Hjortkvarn S
+ Kattala, Skola
+
+Korsning Hjortkvarn V
+ Lanthandel
+ Björnhammaren
+ Bensinstation: Q-star
+
+Korsning (lokal väg)
+ Hjortkvarn Kyrka, Boo Egendom Brukskontor
+ Sågverk (ej leverans)
+
+T-korsning Hjortkvarn N
+ Närkesberg, Haddeby
+ Sågverk (leverans)
+
+Etapp : Hjortkvarn - Kvarntorp ()
+
+T-korsning Averby
+ Brevens Bruk, Bo
+ Averby, Boo Slott & Natur
+
+T-korsning Landbostigen
+ Bo
+
+Bjurhulta Blommor (östra sidan)
+
+T-korsning Södra Glottra
+ Närkesberg, Haddebo
+
+T-korsning Krustorpsvägen (enskild väg)
+ Bergtäkt, Krustorp
+
+T-korsning (enskild väg)
+ Kvarsätter, Badplats
+
+Infopunkt (östra sidan))
+(endast nordgående)
+Bro över (ej skyltad)
+
+T-korsning Svennevad
+ Skogaholm, Svennevads k:a
+ Tisarstrands Camping
+
+(Återvinningsstation (västra sidan))
+T-korsning Svennerud
+ Kilsmo
+
+(T-korsning Rv 51/Bygatan (enskild väg))
+ Svennevads by
+
+T-korsning
+ Pålsboda
+(2+1-väg börjar / upphör)
+
+Korsning (enskild väg)
+ Fiskmanstorp, N Sättran
+
+Järnvägsviadukt
+ Västra Stambanan
+
+T-korsning Fabbetorp (enskild väg)
+(spansk sväng nordgående)
+ Fabbetorp
+
+Dubbel T-korsning Rullstugan
+ Pålsboda
+ Hallsberg (ej tung trafik)
+
+(Hallsberg / Kumla)
+
+T-korsning Kvarntorp Rv 51
  Rasttorp, Industri: Kvarntorp
  Fortum tung last
+                    (/
+(Rondell Kvarntorp (Rv 51/Rv 52)
  52 v: Nyköping, Katrineholm
  52 ö: Kumla
  [E20 v]: Göteborg
@@ -82,6 +170,11 @@ Trp Marieberg-väst
 (Trp Marieberg (109)
  E20 v: Göteborg, Kumla
  50 s: Jönköping, Askersund
+
+
+
+
+
 
 Etapp 2: Sk�llersta - Trolleflod (38,9 km/38,7 km)
 					3.0 km/2.9 km	2 min 34 s/2 min 29 s
