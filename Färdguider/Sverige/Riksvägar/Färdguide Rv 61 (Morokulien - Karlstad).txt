@@ -3,13 +3,15 @@ Rv 61 (Morokulien - Karlstad)
 
 Etapp 1: Morokulien - Charlottenberg (6,9 km/7,0 km)
 
-Dubbel T-korsning Morokulien N
- Morokulien infocenter
+Dubbel T-korsning Morokulien N (lokale veier)
+ Morokulien infosenter
+ Restaurant: Grensekroen
+ Morokulien Camping
 (Norge / Sverige)
 (Hedmark / Värmland)
 (Eidskog / Eda)
 					0,3 km/0,4 km	22 s/29 s
-Bensinstation: Statoil
+Bensinstation: INGO
 T-korsning Morokulien S (lokal väg)
  Rastplats, Morokulien infocenter, Fredsmonument
 					0,6 km/0,6 km	43 s/43 s
@@ -49,7 +51,7 @@ Tallmorondellen
  Restaurang: Burger King, McDonald's, Subway, m.fl.
  Hotell: Hotell Charlottenberg
 
-Etapp 2: Charlottenberg - �motfors (13,4 km/13,3 km)
+Etapp 2: Charlottenberg - Åmotfors (13,4 km/13,3 km)
 					0,5 km/0,6 km	26 s/31 s
 Infoplats (östra sidan)
 (endast skyltad nordgående)
@@ -68,7 +70,7 @@ T-korsning Eda Kyrka
 Dubbel T-korsning Mellbyn
  Eda K:a
  Hamma, Öjenäs
- Eda hembygdsg�rd
+ Eda hembygdsgård
 					0,7 km/0,6 km	32 s/27 s
 T-korsning Haga (enskild väg)
 (endast skyltad sydgående)
