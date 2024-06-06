@@ -165,3 +165,55 @@ Korsning Hampetorp V (enskild väg)
 Korsning Hampetorp
  Ruddammen (enskild väg)
  Vinön (färja), Glasscafé
+
+(T-korsning (enskild väg))
+ Åsen
+
+(T-korsning (enskild väg))
+ Notboda
+
+T-korsning Dimbo (enskild väg)
+ Dimbobaden
+
+T-korsning (enskild väg)
+ Mormors lanthandel
+
+Örebro / Södermanland: (59.1362883,15.7875849)
+Örebro / Vingåker
+
+(T-korsning Rv 52/Stenvredsv. (enskild väg))
+ Stenvred (asfalterad)
+
+T-korsning Läppe Rv 52
+ 214: Eskilstuna, Julita
+ Julita Gård (sevärdhet)
+ Läppebadets Camping
+
+(T-korsning Brukskvarn (lokal väg))
+ Ej skyltad
+
+(T-korsning Stavhälla (enskild väg))
+ LäppeStällaren (ej skyltad)
+
+Korsning Torshag
+ Hansta, Sågverk
+
+Korsning Johannesdal (enskild väg)
+ Lindbol, Stugor
+
+Korsning Hökhult (enskild väg)
+ Hökhult, Bilskrot
+
+T-korsning Fagerhults vsk Rv 52 (lokal väg)
+ Fagerhult
+
+Rondell Vingåker Hacksta
+ Rejmyre, Högsjö, Vingåker C
+ Österåker, Marmorbyn, Båsenberga
+
+T-korsning Kjesäter
+ Vingåker Ö, Outletområdet
+ Säfstaholms Slott (sevärdhet)
+
+T-korsning Skeppmyrelund
+
