@@ -1,11 +1,79 @@
 Färdguide Rv 51 (Norrköping - Örebro)
 ======================================
 
-Etapp : Trolleflod - Hjortkvarn ()
+T-korsning Rv51/Lv215
+ 215: Linköping, Skärblacka
 
+Etapp: Finspång - ()
+
+T-korsning Rv 51/Brinells väg
+Rondell Rv 51/Bergslagsväge (lokal väg)
+ Kulturhuset, Parkering
+					0.6 km/0.8 km	43 s/58 s
+(T-korsning Rv 51/Lasarettsv. (lokal väg))
+ Finspång lasarett
+					0.6 km/0.6 km	43 s/43 s
+(T-korsning Myrmalmskiosken (lokal väg))
+
+T-korsning Rv 51/Tallvägen (lokal väg)
+ Bensinstation: Preem
+					7.5 km/7.5 km	6 min 26 s/6 min 26 s
+T-korsning Mellangrind (lokal väg)
+ Mellangrind
+
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad nordgående)
+
+T-korsning Rv 51/Olstorpsvägen (enskild väg)
+ Bönergården, Badplats
+
+T-korsning Sonstorp Bangrindarna (enskild väg)
+ Klintorp
+ Snickeri & Antikt, Dahlias blommor
+
+(Korsning Rv 51/Örtagsvägen (lokal väg))
+ Ej skyltad
+
+Korsning Sonstorp V
+ Grytgöl, Sonstorp Bruk
+ Bruksmiljö (sevärdhet)
+ Livsmedel
+					3.6 km/3.6 km	3 min 5 s/3 min 5 s
+T-korsning Tallberga
+ Ljungsbro, Borggård
+					1.3 km/1.0 km	1 min 7 s/0 min 51 s
+Dubbel T-korsning Hällestad K:a
+ Sonstorp slott
+Tankställe Hällestad
+ Bensinstation: Din-X
+					3.4 km/3.7 km	2 min 55 s/3 min 10 s
+T-korsning Prästköp
+ Tjällmo
+					2.8 km/2.8 km	2 min 24 s/2 min 24 s
+Korsning Ljusfallshammar S
+ Grytgöl, Ljusfallshammar
+ Grytgöls bruk, Vandrarhem
+ Djuckerö, Inredningsbutik (enskild väg)
+					0.8 km/0.8 km	58 s/58 s
+Dubbel T-korsning Ljusfallshammar C (lokal väg)
+ Industri: Hyttsjö, Lantbruksmuseum
+ TIB-Möbler
+					0.9 km/0.9 km	1 min 5 s/1 min 5 s
+Korsning Ljusfallshammar V (enskild väg)
+ Ljusfallshammar, Ljusfalls friskola
+					4.7 km/4.7 km	4 min 2 s/4 min 2 s
+T-korsning Ljusfall (enskild väg)
+ Lämneå, Lämneå bruk
+
+(Busshpl Humpen (västra sidan))
+
+Finspång / Motala: (58.8074547,15.41461)
+					0.3 km/0.3 km	15 s/15 s
 T-korsning Trolleflod
  211: Linköping, Borensberg, (Tjällmo)
  Försvarsmakten
+
+Etapp : Trolleflod - Hjortkvarn ()
 
 (Parkeringsplats? (östra sidan))
 
@@ -221,40 +289,7 @@ T-korsning Trolleflod
  211: Borensberg, Tj�llmo
 
 Etapp 3: Trolleflod - Finsp�ng (26,4 km/26,7 km)
-					0.3 km/0.3 km	15 s/15 s
-Motala / Finsp�ng
-					4.7 km/4.7 km	4 min 2 s/4 min 2 s
-Korsning Ljusfallshammar N
- Ljusfallshammar
-					0.9 km/0.9 km	1 min 5 s/1 min 5 s
-T-korsning Ljusfallshammar C
-					0.8 km/0.8 km	58 s/58 s
-Korsning Ljusfallshammar S
- Grytg�l
-					2.8 km/2.8 km	2 min 24 s/2 min 24 s
-T-korsning Pr�stk�p
- Tj�llmo
-					3.4 km/3.7 km	2 min 55 s/3 min 10 s
-Tankst�lle H�llestad
-Bensinstation: Din-X
-Dubbel T-korsning H�llestad K:a
- Sonstorp slott
-					1.3 km/1.0 km	1 min 7 s/0 min 51 s
-T-korsning Tallberga
- Ljungsbro, Borgg�rd
-					3.6 km/3.6 km	3 min 5 s/3 min 5 s
-Korsning Sonstorp
- Grytg�l, Sonstorp slott
-					7.5 km/7.5 km	6 min 26 s/6 min 26 s
-T-korsning 51/Tallv�gen
-					0.6 km/0.6 km	43 s/43 s
-T-korsning 51/Lasarettsv.
- Finsp�ng lasarett
-					0.6 km/0.8 km	43 s/58 s
-Rondell
- Centrum
-T-korsning Rv51/Lv215
- 215: Sk�rblacka
+
 
 Etapp 4: Finsp�ng - Norrk�ping (26,3 km/25,5 km)
 					0.6 km/0.4 km	43 s/29 s
