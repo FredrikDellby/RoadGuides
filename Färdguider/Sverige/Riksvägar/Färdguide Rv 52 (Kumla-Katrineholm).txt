@@ -216,4 +216,80 @@ T-korsning Kjesäter
  Säfstaholms Slott (sevärdhet)
 
 T-korsning Skeppmyrelund
+ Vad
+ Kesätter (enskild väg)
 
+T-korsning Viala V (enskild väg)
+ Viala by, Hembygdsgård
+
+Dubbel T-korsning Vialabadet (enskild väg)
+ Viala by, Hembygdsgård
+ Gillbergatorp, Vialabadet
+
+(T-korsning Håkanstorp (enskild väg))
+ Håkanstorp
+Parkeringsplatser (båda riktningar, ej skyltade)
+
+Järnvägsviadukt
+ Västra Stambanan
+
+(T-korsning (enskild väg))
+(ej skyltad, asfalterad)
+
+Korsning Hulta vsk Rv 52 (enskild väg)
+ Hulta
+ Knektbacken
+
+T-korsning Knektbacken Ö
+ Marmorbyn, Ålsäter
+ Handelsträdgård
+Vingåker / Katrineholm
+
+Dubbel T-korsning Stettin Rv 52
+ Forsa
+ Österåker, Marmorbyn, Ålsäter
+ Vännervass (enskild väg)
+
+T-korsning (enskild väg)
+ Paintball, Stenåldersbostad (sevärdhet)
+
+Infoplats (södra sidan)
+
+Rondell Rv 52/Odlarevägen (lokal väg)
+ Industri: Mogetorp
+
+Rondell Rv 52/Värmbolsvägen (lokal väg)
+ Industri: Värmbol
+ Industri: Västra
+
+(Restaurang: Ali Baba (endast västgående)
+Korsning Vattenverket Rv 52 (lokal väg)
+ Nyhemshallen
+
+T-korsning Vingåkersv/Mejerigatan
+ Centrum (ej skyltad)
+
+Rondell Rv 52/V. Fredsgatan (lokal väg)
+ Centrum (3,3 m fri höjd), SKF Väst
+ Industri: Västra
+
+Järnvägsviadukt
+ Västra Stambanan
+
+T-korsning Rv 52/Storgatan (lokal väg)
+ Katrineholms station
+(2+1-väg börjar / upphör)
+
+T-korsning (enskild väg)
+(spansk sväng östgående)
+ Näset, Gersnäs
+ Vedugnsbageri
+
+Rondell Rv 52/Bievägen (Katrineholm N)
+ Katrineholms station
+ 56 n: Västerås, Kungsör
+ [214]: Eskilstuna
+ 52 ö: Nyköping
+ [55 n]: Strängnäs, Flen
+ 56 s: Norrköping
+ [57]: Järna, Gnesta
