@@ -93,7 +93,7 @@ Rondell Oppeby (lokal väg)
 T-korsning Rv 53/Smålandsv. (lokal väg)
  Oppeby, Hällristning (sevärdhet)
 
-(Bro över Nyköpingsån
+(Bro över Nyköpingsån (ej skyltad)
 					(/
 T-korsning Harg
  Harg, Oxbacken
@@ -149,5 +149,57 @@ T-korsning Husbymalmen
 Dubbel Korsning Husbygård
  Bettna, Vrena, Husby-Oppunda k:a
  Stäringe
-(Bro över Husbyån)
+(Bro över Husbyån (ej skyltad))
+
+T-korsning Vallhalla
+ Lid, Ripsa
+
+(Parkeringsplats (grus/gräs, östra sidan, ej skyltad))
+
+(Korsning Skälbystugan (enskild väg))
+ Hallebrotorp, Dalstorp
+
+(Parkeringsplats (grus/gräs, västra sidan, ej skyltad))
+
+Korsning Vibyholm
+ Stäringe, Forssa, Årdala, Årdala k:a
+
+Bro över Båven (Oxbro, ej skyltad)
+(T-korsning Oxbro (enskild väg, ej skyltad))
+ Infoplats: 
+
+(Parkeringsplats (direkt intill vägen, västra sidan)
+ Viloplats med sittplatser bredvid
+
+Korsning Johannisdal
+ B&B: Café Twister 53
+ Helgesta
+
+(T-korsning (enskild väg))
+ Uddberga, Frändesta
+
+Korsning Rockelsta (enskild väg)
+ Rockelsta, slott (sevärdhet)
+
+Rondell Billsbro
+ 57 ö: Södertälje, Gnesta
+ 57 v: Katrineholm, Flen
+Bensinstation: Sparreholms bensin
+Restaurang: Köket Sparreholm
+
+Järnvägsviadukt
+ Västra Stambanan
+
+T-korsning Skarvnäs (lokal väg)
+ Fabriken (leveranser)
+
+T-korsning Rv 53/Källvägen (lokal väg)
+ G Kinnwall AB
+
+Dubbel T-korsning Björkhult
+ Björkhult, Sparreholms hästcenter (enskild väg)
+ Hagtorp, Sparreholms slott, Hyltinge k:a (endast skyltad nordgående)
+
+T-korsning Hyltinge k:a Rv 53
+ Hagtorp, Sparreholms slott, Hyltinge k:a (endast skyltad sydgående)
 
