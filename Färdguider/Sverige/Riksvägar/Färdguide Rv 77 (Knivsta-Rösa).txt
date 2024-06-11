@@ -1,46 +1,89 @@
+Färdguide Rv 77 (Knivsta - Trp Rösa (- Norrtälje))
+===================================================
+
 Etapp 1: Knivsta - Åby
 
-Trp Knivsta
+Trp Knivsta-väst (Droppe)
  E4 s: Stockholm, Arlanda
+
+Trp Knivsta-öst (Droppe)
  E4 n: Sundsvall, Uppsala
 
-T-korsning
- Lokalt mål
+T-korsning (lokal väg)
+ Olunda Bergtäkt
 
 Korsning
+ Ledinge, Eggebyholm
+ Östuna K:a
+
+Korsning Spakbackens vsk (enskild väg)
+ Spakbacken
 
 Korsning Rosendal (Östuna)
+ Karby
+ Östuna K:a
 
 T-korsning Stenbybro västra
+ Karby, Ovike
 
-(Å)
+(Bro över Storån)
 T-korsning Stenbybro östra
+ Risberga, Fornborg (sevärdhet)
+
+T-korsning (lokal väg)
+ Idrottsplats
+
+(Korsning Fagerviks vsk (enskild väg))
+ Fagervik
 
 T-korsning Långhundra V
+ Odensala, Vidbo
+ Husby-Långhundra k:a
 
-T-korsnign Långhundra affär
+Dubbel T-korsnign Långhundra
+ Långhundra skola (lokal väg, ej skyltad)
+ Tuna
+
+Korsning Blå Vingen (enskild väg)
+ Bygdegård
 
 Rondell Åby vägskäl
- 273 s: Arlanda
- 273 n: Gimo, Knutby
+ 273 s: Stockholm, Arlanda
+ 273 n: Almunge, Knutby
 
 Etapp 2: Åby - Rimbo
 
 Uppssala / Stockholm
 Knivsta / Norrtälje
+(T-korsning Norsberg (enskild väg))
+ Ej skyltad?
 
-Dubbel T-korsning Gottröra
+T-korsning Gottröra K:a
+ Vängsjöberg, Vikensberg
 
-T-korsning Johannesberg
+T-korsning Gottröra
+ Skepptuna
+ Nifsta Gård, Ridhus
+Bensinstation: Preem (södra sidan)
+Infoplats (södra sidan)
+
+T-korsning Johannesberg (enskild väg)
  Johannesbergs Slott
+ Restaurang: Johannesbergs Golfrestaurang
 
 T-korsning Håkansberg
+ Rörsby, Rånäs
 
 T-korsning Tullen
+ Rånäs, Fasterna k:a
+ Slottsruin (sevärdhet)
 
 T-korsning Alhamra
+ Närtunaby
 
-T-korsning Rimbo Västertorp
+(Dubbel) T-korsning Rimbo Västertorp (lokal väg)
+ Idrottsplats
+ (Ej skyltad)
 
 T-korsning Rimbo Centrum
  280 s: Stockholm
