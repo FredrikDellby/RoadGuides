@@ -1,4 +1,7 @@
-Etapp 1: Heby - �sterrunda (16,6 km/16,4 km)
+Färdguide Rv 72 (Heby - Uppsala)
+==================================
+
+Etapp 1: Heby - Österrunda (16,6 km/16,4 km)
 
 Rondell Heby SV
  56 s/72 v: Västerås, Sala
@@ -17,19 +20,23 @@ Korsning Heby Värdshuset
 					4.2 km/4.2 km	3 min 36 s/3 min 36 s
 (T-korsning (enskild väg))
  Härvsta
-(Besikta Bilprovning)
+(Besikta Bilprovning (norra sidan))
+ Ej skyltad
 
-Bensinstation: Gulf
+Bensinstation: Gulf (norra sidan)
+Bildepån i Morgongåva (norra sidan)
 
-T-korsning Snesholm
+(Dubbel) T-korsning Snesholm
+ (Jungfrubo (enskild väg))
  Julmyra, Molnebo
  Centrum (tung trafik), Älgpark
+ Företagspark
 					0.7 km/0.7 km	36 s/36 s
 T-korsning Hårsbäck vägskäl
  Hårsbäck, Badplats
-Restaurang: My Kök O Bar
+Restaurang: My Kök O Bar (södra sidan)
 					0.4 km/0.4 km	29 s/29 s
-(Candy Store Café och godis)
+(Candy Store Café och godis (norra sidan))
 
 Korsning Morgongåva station (lokal väg)
  Morgongåva stn, Gravfält (sevärdhet)
