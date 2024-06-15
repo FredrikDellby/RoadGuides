@@ -85,13 +85,31 @@ T-korsning Alhamra
  Idrottsplats
  (Ej skyltad)
 
+T-korsning (lokal väg)
+ Parkering: Mullevallen
+
+(T-korsning Hagen (lokal väg))
+ Hagen (ej skyltad)
+
+T-korsning Rv 77/Ekdalsgatan (lokal väg)
+ Godsmottagning, Pendelparkering
+ Kulturscen, Textilia
+ Restaurang: Fortune House
+
 T-korsning Rimbo Centrum
- 280 s: Stockholm
+ 280 s: Stockholm, (Vallentuna)
 
 Etapp 3: Rimbo - Rösa
 
+Restaurang: Rimbogrillen (södra sidan)
+
+Bensinstation: OKQ8 (södra sidan)
+
+Restaurang: Miami Pizzeria (södra sidan)
+
+(Bro över ...)
 T-korsning Vallby kvarn
- 280 n: Edsbro
+ 280 n: Östhammar, Hallstavik, Edsbro
 
 (T-korsning Salmunge)
  Återvinning
