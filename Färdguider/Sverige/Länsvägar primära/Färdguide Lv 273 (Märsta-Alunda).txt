@@ -2,17 +2,108 @@ Färdguide Lv 273 (Märsta - Almunge - Alunda)
 =============================================
 
 T-korsning Lv 263/Lv 273
- 263:
+ [E4 s]: Stockholm
+ 263: Sigtuna, Märsta
+ Söderby (enskild väg)
 
+(Mittseparering börjar / upphör)
 Trp Söderby
+ Arlandastad C
+ Scandinavian XPO
 
-(Trp Arlanda-väst
+(Trp Arlanda-väst (sydgående)
+ E4 s: Stockholm
 
 Trp Arlanda-öst
+(ej påfart sydgående)
+ E4 n: Sundsvall, Uppsala
 
 Trp Nybygget)
+ Arlanda: Terminaler
+ Sky City
 
 (Trp Nybygget-väst
+ [E4 n]: Sundsvall, Uppsala
+ Märsta, Arlandastad N-V
+ Cargo City, Parkering: Måby
 
 Trp Nybygget-öst
+ Märsta, Arlandastad N
+ Cargo City, Parkering: Måby
+ Arlanda: Terminaler
 
+T-korsning P2 Beta (lokal väg, endast nordgående))
+ Parkering: Långtid P2 Beta
+
+Korsning (lokal väg)
+ Parkering: Alfa, Beta, Hyrbilar
+ Brytpunkt
+ Hotell/Restaurang: Radisson BLU
+ Tull-Customs
+ Hotell/Café: Jumbo Hostel
+
+Kulvert (under taxebana)
+
+Rondell (lokal väg)
+ Arlanda: Terminaler, Sky City
+
+T-korsning (lokal väg)
+ Byggtrafik Projekt Porten
+
+Kulvert (under taxibana))
+                    /)
+T-korsning Lv 273/Navigatörsvägen (lokal väg)
+ Utsiktsplats
+
+(Infopunkt: Arlanda (sydgående)
+Dubbel T-korsning Arlanda Lindskrog
+ Långhundra, Kabelpark
+ Bergtäkt, Asfaltsverk
+ Parkering: Lindskrog Långtid
+ Hotell: Good Morning Arlanda
+
+T-korsning (enskild väg)
+ Altuna, Hundhotell
+
+Korsning Trosta
+ Skånela
+ Trosta gård (enskild väg)
+ Byggmaterial, Trosta park
+
+T-korsning Odenslund (enskild väg)
+ Lunda Parkering, Storemore
+
+Korsning Albano
+ Frösunda, Markim
+
+T-korsning Lunda kyrka (lokal väg?)
+ Lunda kyrka, Hembygdsförening
+
+T-korsning Lunda Livs
+ Gårdesta, Stoxa
+
+(Preem Såifa TruckDiesel (västra sidan))
+
+T-korsning Herresta
+ Vidbo, International GK
+
+Korsning Vasa
+ Skepptuna
+ Björket (enskild väg)
+
+Korsning Lilla Sanda
+ Skepptuna
+ Skoby (enskild väg)
+
+(Korsning Lilla Ullentuna (enskild väg))
+ Lilla Ullentuna
+
+Stockholm / Uppsala: (59.7435238,18.0513675)
+Sigtuna / Knivsta
+
+Rondell Åby vägskäl
+ 77 ö: Norrtälje, Rimbo
+ 77 v: Uppsala, Knivsta
+
+Korsning Långhundra handel (enskild väg)
+<   
