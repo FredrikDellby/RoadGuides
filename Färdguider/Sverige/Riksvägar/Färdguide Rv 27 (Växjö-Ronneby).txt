@@ -1,306 +1,305 @@
-Färdguide Rv 27 (Växjö - Ronneby)
+Fï¿½rdguide Rv 27 (Vï¿½xjï¿½ - Ronneby)
 ==================================
 
-Etapp 13: Växjö - Rävåsen (18,5 km/18,3 km)
+Etapp 13: VÃ¤xjÃ¶ - RÃ¤vÃ¥sen (18,5 km/18,3 km)
 
-Fagrabäcksrondellen
+FagrabÃ¤cksrondellen)
  25 v: Halmstad, Ljungby
- 27 v: Göteborg, Värnamo
- 30: Jönköping, Lammhult
- 25 ö: Kalmar, Lessebo
-T-korsning Rv 27/Sandviksvägen
- Lokal väg
+ 27 v: GÃ¶teborg, VÃ¤rnamo
+ 30: JÃ¶nkÃ¶ping, Lammhult
+ 25 Ã¶: Kalmar, Lessebo
+					/)
+T-korsning Rv 27/SandviksvÃ¤gen (lokal vÃ¤g)
  Bensinstation: Preem
 					1,3 km/1,2 km	1 min 7 s/1 min 2 s
-T-korsning Sandviksverket (lokal väg)
- Linnéuniversitetet, Sigfridsområdet
+T-korsning Sandviksverket (lokal vÃ¤g)
+ LinnÃ©universitetet, SigfridsomrÃ¥det
  Industri: Sandvik
 					1,0 km/1,0 km	45 s/45 s
-Dubbel T-korsning (lokal väg)
- Ej skyltad väg
- Ekebergs företagspark
+Dubbel T-korsning (lokal vÃ¤g)
+ (Ej skyltad vÃ¤g)
+ Ekebergs fÃ¶retagspark
 					0,8 km/0,8 km	36 s/36 s
-Järnvägsviadukt
+JÃ¤rnvÃ¤gsviadukt
  Kust-till-Kustbanan
 					0,9 km/0,9 km	41 s/41 s
-T-korsning Skirsnäs (lokal väg)
- Sigfridsområdet
+T-korsning SkirsnÃ¤s (lokal vÃ¤g)
+ SigfridsomrÃ¥det
 					0,5 km/0,5 km	23 s/23 s
-Korsning Lidhem (enskilda vägar)
- Ängarna
+Korsning Lidhem (enskilda vÃ¤gar)
+ Ã„ngarna
  Skir
 					4,0 km/4,1 km	3 min 0 s/3 min 5 s
-(T-korsning Bramstorp)
- Lundanäs, Enskild väg
+(T-korsning Bramstorp (enskild vÃ¤g))
+ LundanÃ¤s
 
-T-korsning Skogslund Växjö
+T-korsning Skogslund VÃ¤xjÃ¶
  Krokvik
 					0,5 km/0,4 km	23 s/18 s
 T-korsning Tegnaby V
- Tegnaby, Åryd
+ Tegnaby, Ã…ryd
 					3,7 km/3,8 km	2 min 47 s/2 min 51 s
-(Bro över Tegnabysjön/Torsjön): (56.7829338,14.9019236)
+(Bro Ã¶ver TegnabysjÃ¶n/TorsjÃ¶n): (56.7829338,14.9019236)
 
-T-korsning Torsjö
+T-korsning TorsjÃ¶
  Tegnaby
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
-Infopunkt Ingelstad: (56.7565986,14.9194733)
-(sydgående riktning)
+Infopunkt Ingelstad (sydgÃ¥ende): (56.7565986,14.9194733)
 
-T-korsning Rv 27/Finnamyrsv. (lokal väg)
- Industri: Norra, Lokal väg
+T-korsning Rv 27/Finnamyrsv. (lokal vÃ¤g)
+ Industri: Norra
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Rv 27/Albreckts v. (lokal väg)
+T-korsning Rv 27/Albreckts v. (lokal vÃ¤g)
  Bensinstation: Ingelstadshuset
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
 Rondell Ingelstad kyrkan
  Ingelstad Centrum
  Hovmantorp
  Hotell/Restaurang: Solviken
- Inglinge Hög (sevärdhet)
+ Inglinge HÃ¶g (sevÃ¤rdhet)
  Camping, Badplats
 					0,4 km/0,3 km	24 s/18 s
 T-korsning Karlsborg
- Väderlanda
+ VÃ¤derlanda
 					0,8 km/0,9 km	41 s/46 s
-Korsning Rv 27/Dalängsvägen (lokal väg)
- Sjöbol, Phoenix Mecano
+Korsning Rv 27/DalÃ¤ngsvÃ¤gen (lokal vÃ¤g)
+ SjÃ¶bol, Phoenix Mecano
 
-T-korsning (enskild väg)
- Återvinningscentral
-Infoplats (nordgående)
+T-korsning (enskild vÃ¤g)
+ Ã…tervinningscentral
+Infoplats (nordgÃ¥ende)
 					0,4 km/0,2 km	21 s/10 s
-T-korsning Rävåsen
- 122: Rävemåla, Linneryd
+T-korsning RÃ¤vÃ¥sen
+ 122: RÃ¤vemÃ¥la, Linneryd
 
-Etapp 14: Rävåsen - Tingsryd (22,9 km/22,9 km)
+Etapp 14: RÃ¤vÃ¥sen - Tingsryd (22,9 km/22,9 km)
 					1,6 km/1,6 km	1 min 12 s/1 min 12 s
-Korsning+T-korsning Säljeryd
-(Brändekvarnsvägen)
- Brändekvarn (enskild väg)
- Säljeryd (enskild väg)
- Kalvsvik, Uråsa
-(2+1-väg börjar/upphör)
+Korsning+T-korsning SÃ¤ljeryd
+(BrÃ¤ndekvarnsvÃ¤gen)
+ BrÃ¤ndekvarn (enskild vÃ¤g)
+ SÃ¤ljeryd (enskild vÃ¤g)
+ Kalvsvik, UrÃ¥sa
+(2+1-vÃ¤g bÃ¶rjar/upphÃ¶r)
 					4,8 km/4,9 km	3 min 36 s/3 min 41 s
-T-korsning (enskild väg))
-(endast skyltad sydgående)
+T-korsning (enskild vÃ¤g))
+(endast skyltad sydgÃ¥ende)
 
-Korsning Uråsa Rv 27 (enskild väg)
- Värebol
+Korsning UrÃ¥sa Rv 27 (enskild vÃ¤g)
+ VÃ¤rebol
 
-Korsning (enskild väg)
- Uråsa terminal, Trafikövningsplats
+Korsning (enskild vÃ¤g)
+ UrÃ¥sa terminal, TrafikÃ¶vningsplats
 
-(T-korsning (enskild väg)
-(endast skyltad nordgående)
+(T-korsning (enskild vÃ¤g)
+(endast skyltad nordgÃ¥ende)
 
-Växjö / Tingsryd: (56.6730069,14.9168601)
-T-korsning Ryd södra
- Kalvsvik, Uråsa
+VÃ¤xjÃ¶ / Tingsryd: (56.6730069,14.9168601)
+T-korsning Ryd sÃ¶dra
+ Kalvsvik, UrÃ¥sa
 					1,6 km/1,5 km	1 min 12 s/1 min 8 s
-T-korsning (enskild väg))
-(endast skyltad sydgående riktning)
+T-korsning (enskild vÃ¤g))
+(endast skyltad sydgÃ¥ende riktning)
 
-T-korsning (enskild väg))
-(endast skyltad sydgående riktning)
-T-korsning Jätvägen
- Jät
- Styragårdens Trädgård AB
+T-korsning (enskild vÃ¤g))
+(endast skyltad sydgÃ¥ende riktning)
+T-korsning JÃ¤tvÃ¤gen
+ JÃ¤t
+ StyragÃ¥rdens TrÃ¤dgÃ¥rd AB
 					0,6 km/0,6 km	27 s/27 s
-Korsning Östadvägen
- Östad
+Korsning Ã–stadvÃ¤gen
+ Ã–stad
 					0,8 km/0,8 km	36 s/36 s
-(2+1-väg upphör/börjar)
-Korsning Väckelsång N (lokal väg)
+(2+1-vÃ¤g upphÃ¶r/bÃ¶rjar)
+Korsning VÃ¤ckelsÃ¥ng N (lokal vÃ¤g)
  V-Plast
-T-korsning Väckelsång kyrka
- Behandlingshem, Kyrka, Hembygdsgård
+T-korsning VÃ¤ckelsÃ¥ng kyrka
+ Behandlingshem, Kyrka, HembygdsgÃ¥rd
 					1,0 km/1,0 km	1 min 0 s/1 min 0 s
-Korsning Väckelsång centrum
+Korsning VÃ¤ckelsÃ¥ng centrum
  Centrum, Industri
  Boaryd
 					0,7 km/0,8 km	42 s/48 s
-(T-korsning Rv 27/Dackegatan)
- Ej skyltad, Lokal väg
+(T-korsning Rv 27/Dackegatan (lokal vÃ¤g, ej skyltad))
 
-Dubbel T-korsning Väckelsång S
- NCC Vägunderhåll
+Dubbel T-korsning VÃ¤ckelsÃ¥ng S
+ NCC VÃ¤gunderhÃ¥ll
  Bensinstation: Runes Bensin
- Restaurang: Smålandsporten
+ Restaurang: SmÃ¥landsporten
  Centrum (ej skyltat)
 					4,6 km/4,6 km	3 min 27 s/3 min 27 s
-T-korsning Kåranäs (enskild väg)
- Kåranäs Semesterby
+T-korsning KÃ¥ranÃ¤s (enskild vÃ¤g)
+ KÃ¥ranÃ¤s Semesterby
 
-T-korsning Kvarnamåla N
+T-korsning KvarnamÃ¥la N
  Grimsvik
 					0,7 km/0,7 km	32 s/32 s
-(Dubbel) T-korsning Kvarnamåla Ö
- Hyllebol (enskild väg)
- Söftestorp, Kvarnamåla
+(Dubbel) T-korsning KvarnamÃ¥la Ã–
+ Hyllebol (enskild vÃ¤g)
+ SÃ¶ftestorp, KvarnamÃ¥la
 					6,1 km/6,1 km	4 min 35 s/4 min 35 s
-T-korsning Rv 27/Ledningsg.
- Rössmåla, Industri: Västra
+T-korsning Rv 27/Ledningsgatan
+ RÃ¶ssmÃ¥la, Industri: VÃ¤stra
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Rv 27/Växjövägen (lokal väg)
+T-korsning Rv 27/VÃ¤xjÃ¶vÃ¤gen (lokal vÃ¤g)
  Ej skyltad
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Rv 27/Södra vägen
- 120 v: Traryd, Hässleholm, Ryd, Älmhult
+T-korsning Rv 27/SÃ¶dra vÃ¤gen
+ 120 v: Traryd, HÃ¤ssleholm, Ryd, Ã„lmhult
  Tingsryd Resort
- Restaurang: Mårdslycke krog
+ Restaurang: MÃ¥rdslycke krog
 
 Etapp 15: Tingsryd - Rv 29 ()
 
-T-korsning Rv 27/Hoogenskildsg.
+T-korsning Rv 27/Hoogenskildsg. (lokal vÃ¤g)
  Centrum
 
-T-korsning Rv 27/S. Storgatan
- Centrum, Turistbyrå
- Hotel Tingsryd, Äventyrsbad
+T-korsning Rv 27/S:a Storgatan (lokal vÃ¤g)
+ Centrum, TuristbyrÃ¥
+ Hotel Tingsryd, Ã„ventyrsbad
  Bensinstation: Preem
 
-T-korsning Rv 27/Strömgatan
+T-korsning Rv 27/StrÃ¶mgatan
  Linneryd
- Industri: Östra, Bilprovning
+ Industri: Ã–stra, Bilprovning
  Bensinstation: Tanka/OKQ8
 
 T-korsning Tingsryd S
- 120 ö: Kalmar, Emmaboda, Konga
+ 120 Ã¶: Kalmar, Emmaboda, Konga
  Rastplats Kungastenarna, Travbana
 
-T-korsning (lokal väg)
+T-korsning (lokal vÃ¤g)
  Reningsverk
 
-Dubbel T-korsning (enskild väg)
- Naturreservat Älganäs, Stenfors
- Avfallsanläggning
+Dubbel T-korsning (enskild vÃ¤g)
+ Naturreservat Ã„lganÃ¤s, Stenfors
+ AvfallsanlÃ¤ggning
 
-T-korsning Elserås
- Elserås
+T-korsning ElserÃ¥s
+ ElserÃ¥s
 
 T-korsning Rv 27/Rv 29
  29: Karlshamn, Asarum
 
 Etapp 16: Rv 29 - Backaryd ()
 
-Dubbel T-korsning Djuramåla
- Enskild väg
+Dubbel T-korsning DjuramÃ¥la (enskild vÃ¤g)
+ SiggamÃ¥la, SkatemÃ¥la
+ HÃ¶kamÃ¥la
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Hundpensionat
 
 Kronoberg / Blekinge: (56.4504601,15.0254879)
 Tingsryd / Ronneby
 
-Korsning Dockemåla (enskild väg)
+Korsning DockemÃ¥la (enskild vÃ¤g)
  Pallindustri
 
-T-korsning Öljehult N (enskild väg)
- Öljehult, Infoplats, Vandringsled
+T-korsning Ã–ljehult N (enskild vÃ¤g)
+ Ã–ljehult, Infoplats, Vandringsled
 
-(Korsning (enskild väg))
- Öljehult, Infoplats, Vandringsled
+(Korsning (enskild vÃ¤g))
+ Ã–ljehult, Infoplats, Vandringsled
 
-T-korsning Rv 27/Sockenvägen
- Öljehult, kyrka
+T-korsning Rv 27/SockenvÃ¤gen
+ Ã–ljehult, kyrka
 
-(Korsning Siggamåla)
- Humlamåla, Enskild väg
+(Korsning SiggamÃ¥la (enskild vÃ¤g))
+ HumlamÃ¥la
 
 T-korsning Hallabro N
  Konga
 
 T-korsning Hallabro idr. plats
- Lokal väg
+ Lokal vÃ¤g
 
 Brandstation/Infoplats
 
-(Bengtssons Loppis & Diverse Handel)
-T-korsning Rv 27/G:a Kongavägen
- Lokal väg, Distriktssjuksjöterska
-Bensinstation/Kiosk
+(Bengtssons Loppis & Diverse Handel (vÃ¤stra sidan))
+T-korsning Rv 27/G:a KongavÃ¤gen (enskild vÃ¤g)
+ DistriktssjuksjÃ¶terska
+Bensinstation/Kiosk: Hallabromacken (Ã¶stra sidan)
 
 T-korsning Hallabro S
  Ire, Belganet
 
-(T-korsning Skörje (enskild väg))
- Abborremåla, V. Kroken
+(T-korsning SkÃ¶rje (enskild vÃ¤g))
+ AbborremÃ¥la, V. Kroken
 
 Korsning Hejans vsk
  Hejan
- Ö. Kroken, V. Hult (enskild väg)
+ Ã–. Kroken, V. Hult (enskild vÃ¤g)
 
-T-korsning Rv 27/Hejanvägen
+T-korsning Rv 27/HejanvÃ¤gen
  Hejan
 Bensinstation: Q-star
 Restaurang: Nya Victoria
-T-korsning Rv 27/Långasjövägen
+T-korsning Rv 27/LÃ¥ngasjÃ¶vÃ¤gen
 
 Korsning Backaryd C
- Bräkne-Hoby
+ BrÃ¤kne-Hoby
  Tving
 T-korsning Backaryds kyrka
- Parkering, Lokal väg
+ Parkering, Lokal vÃ¤g
 
 Etapp 17: Backaryd - Ronneby ()
 
-(T-korsning Rv 27/Kapellvägen)
- Servicehus, Lokal väg
+(T-korsning Rv 27/KapellvÃ¤gen (lokal vÃ¤g))
+ Servicehus
 
-T-korsning Rv 27/Vermansmålav. (enskild väg)
- Vermansmåla, Återvinningsstation
+T-korsning Rv 27/Vermansmï¿½lav. (enskild vï¿½g)
+ Vermansmï¿½la, ï¿½tervinningsstation
 
-(1+1-väg börjar/upphör)
+(1+1-vÃ¤g bÃ¶rjar / upphÃ¶r)
 
-Korsning Bäckasjögärde (enskild väg)
- Äskan
+Korsning Bï¿½ckasjï¿½gï¿½rde (enskild vï¿½g)
+ ï¿½skan
 
-Korsning Bäckasjön (enskild väg)
+Korsning Bï¿½ckasjï¿½n (enskild vï¿½g)
 
-Korsning (enskild väg)
+Korsning (enskild vï¿½g)
 
-Korsning Fiskareby (enskild väg)
+Korsning Fiskareby (enskild vï¿½g)
 
-Dubbel T-korsning (lokal väg)
+Dubbel T-korsning (lokal vï¿½g)
  Byggelementfabrik
  Plantterminal
 
 T-korsning Silpinge vsk
  St. Slipinge
 
-T-korsning (enskild väg)
+T-korsning (enskild vï¿½g)
  Ej skyltad
 
 Dubbel T-korsning Ettebro
- L. Slipinge (enskild väg)
+ L. Slipinge (enskild vï¿½g)
  Ettebro
 
-Trafikkontrollplats Möllenäs)
-(Korsning Möllenäs (enskild väg))
+Trafikkontrollplats Mï¿½llenï¿½s)
+(Korsning Mï¿½llenï¿½s (enskild vï¿½g))
 					/)
 T-korsning
  Eringsboda, Hasselstad
 
 Trp Kallinge
  Eringsboda, Kallinge
- Hasselstad, Bredåkra
+ Hasselstad, Bredï¿½kra
  Ronneby Airport/Kallinge Flygflottilj
 					/)
-Järnvägsviadukt)
+Jï¿½rnvï¿½gsviadukt)
  Blekinge Kustbana
 
 Dubbel T-korsning Dammarnas vsk
- Bräkne-Hoby
- SA Bil & Däckservice AB
+ Brï¿½kne-Hoby
+ SA Bil & Dï¿½ckservice AB
 
-Rondell Viggenområdet
+Rondell Viggenomrï¿½det
  Kallinge, Bilprovning
  Bensinstation: OKQ8
  Restaurang: MAX, McDonald's
 
-Trp Ronneby Väst-nord
- E22 v: Malmö, Karlshamn
+Trp Ronneby Vï¿½st-nord
+ E22 v: Malmï¿½, Karlshamn
 
-Trp Ronneby Väst-syd
- E22 ö: Kalmar, Karlskrona
+Trp Ronneby Vï¿½st-syd
+ E22 ï¿½: Kalmar, Karlskrona

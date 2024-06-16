@@ -1,48 +1,48 @@
 Reseguide Lv 163 (Grind - Tanum - Bullaren)
 ============================================
 
-Etapp 1: Grind - Fjällbacka (15,0 km/14,8 km)
+Etapp 1: Grind - FjÃ¤llbacka (15,0 km/14,8 km)
 
-Grindmotet-öst
- E6 n: Oslo, Strömstad
+Grindmotet-Ã¶st
+ E6 n: Oslo, StrÃ¶mstad
 
-Grindmotet-väst
- E6 s: Göteborg, Uddevalla
+Grindmotet-vÃ¤st
+ E6 s: GÃ¶teborg, Uddevalla
 					0.7 km/0.5 km	36 s/26 s
-T-korsning Humlekärr
+T-korsning HumlekÃ¤rr
  Dingle
 					3.3 km/3.3 km	2 min 50 s/2 min 50 s
-T-korsning Branneby (enskild väg)
+T-korsning Branneby (enskild vÃ¤g)
  Branneby, Kville El
- Pallen Ekogård - Ekogrönsaker och Trädgårdscafé
+ Pallen EkogÃ¥rd - EkogrÃ¶nsaker och TrÃ¤dgÃ¥rdscafÃ©
 
-T-korsning Sjöröd
+T-korsning SjÃ¶rÃ¶d
  Bovallstrand, Bottna
 					4.0 km/4.0 km	3 min 26 s/3 min 26 s
-Korsning St Vrem (enskild väg)
+Korsning St Vrem (enskild vÃ¤g)
  Hede
  St. Vrem, MP Marin
 
 Derome Bygg & Industri
 
-Fjällbackahallen i Kville
+Fjï¿½llbackahallen i Kville
 
-Korsning Kville Prästgård (enskild väg)
- Kville kyrka och kyrkogård Parkering
+Korsning Kville Prï¿½stgï¿½rd (enskild vï¿½g)
+ Kville kyrka och kyrkogï¿½rd Parkering
 
 T-korsning Kville kyrka
  Rabbalshede, Solhem Krukmakeri
 					0.4 km/0.4 km	21 s/21 s
 Korsning Kville
- Bygdegård
+ Bygdegï¿½rd
  Hamburgsund, VSS & VA Butik
 					2.0 km/2.0 km	1 min 43 s/1 min 43 s
-Korsning Kamstorp (enskild väg)
- Evenröd, Kamstorp, Linverksta'n
+Korsning Kamstorp (enskild vï¿½g)
+ Evenrï¿½d, Kamstorp, Linverksta'n
 
 T-korsning
  Tanumshede, (Skistad)
- Vitlycke Museum, Snökätting
+ Vitlycke Museum, Snï¿½kï¿½tting
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
 T-korsning Edsten
  Rabbalshede
@@ -50,53 +50,53 @@ T-korsning Edsten
 T-korsning Lille Edsten
  Hamburgsund
 					1.4 km/1.5 km	1 min 12 s/1 min 17 s
-T-korsning Lersten kvarn (lokal väg)
+T-korsning Lersten kvarn (lokal vï¿½g)
  Kvarn
 
-Rondell Fjällbacka S
- Sälvik
- Fjällbacka Camping, Badplats
- Veterinär, Vårdcentral
+Rondell Fjï¿½llbacka S
+ Sï¿½lvik
+ Fjï¿½llbacka Camping, Badplats
+ Veterinï¿½r, Vï¿½rdcentral
 					0.3 km/0.3 km	22 s/22 s
-Dubbel T-korsning Fjällbacka C
+Dubbel T-korsning Fjï¿½llbacka C
  Skistad
  Centrum Parkering
- Golfkusten (Norra backa GK), Åsleröds Camping
- Stora Hotellet, Turistbyrå
+ Golfkusten (Norra backa GK), ï¿½slerï¿½ds Camping
+ Stora Hotellet, Turistbyrï¿½
 
-Etapp 2: Fjällbacka - Tanum (20,1 km/20,6 km)
+Etapp 2: Fjï¿½llbacka - Tanum (20,1 km/20,6 km)
 					2.2 km/2.1 km	1 min 53 s/1 min 48 s
-T-korsning Fjällbacka N (ej skyltad)
- Fjällbacka Tennis & Äventyrsgolf
+T-korsning Fjï¿½llbacka N (ej skyltad)
+ Fjï¿½llbacka Tennis & ï¿½ventyrsgolf
 
-T-korsning Lv 163/N. Hamng. (lokal väg)
+T-korsning Lv 163/N. Hamng. (lokal vï¿½g)
  Gullaboden
 
-Bro över Anråsälven
+Bro ï¿½ver Anrï¿½sï¿½lven
 
-T-korsning Fjällbacka GK (lokal väg)
- Fjällbacka Golfklubb, Restaurang
+T-korsning Fjï¿½llbacka GK (lokal vï¿½g)
+ Fjï¿½llbacka Golfklubb, Restaurang
 					4.8 km/4.9 km	4 min 7 s/4 min 12 s
-T-korsning Långedal (lokal väg)
- Båtbyggeri
+T-korsning Lï¿½ngedal (lokal vï¿½g)
+ Bï¿½tbyggeri
 
-Dubbel T-korsning Kämpeviks vgs
- Anrås
- Kämpersvik
+Dubbel T-korsning Kï¿½mpeviks vgs
+ Anrï¿½s
+ Kï¿½mpersvik
 					0.9 km/0.8 km	46 s/41 s
 T-korsning Hala
- Orrekläpp
+ Orreklï¿½pp
 					1.5 km/1.5 km	1 min 17 s/1 min 17 s
-T-korsning Nästegård
+T-korsning Nï¿½stegï¿½rd
  Tegneby
 					2.1 km/2.1 km	1 min 48 s/1 min 48 s
-(Korsning Ertseröd (enskild väg))
+(Korsning Ertserï¿½d (enskild vï¿½g))
 
-T-korsning TanumStrand (lokal väg)
+T-korsning TanumStrand (lokal vï¿½g)
  Hotell/Restaurang: TanumStrand
- Camping/Ställplats, Badplats
+ Camping/Stï¿½llplats, Badplats
 
-T-korsning Sportshopen (lokal väg)
+T-korsning Sportshopen (lokal vï¿½g)
  Sportshopen
  Restaurang: Farmor Ellen
 
@@ -106,49 +106,49 @@ Dubbel T-korsning Grebbestad N
  Havstenssund
  Bensinstation: Shell
 					1,4 km/1,3 km	1 min 12 s/1 min 7 s
-Korsning Greby gård
- Ulmekärr
+Korsning Greby gï¿½rd
+ Ulmekï¿½rr
 					1,9 km/1,9 km	1 min 38 s/1 min 38 s
 T-korsning B&B
- Bohusläns bed & breakfast
+ Bohuslï¿½ns bed & breakfast
 					0,3 km/0,3 km	15 s/15 s
 T-korsning
- Sannäs
+ Sannï¿½s
 					0,4 km/0,6 km	21 s/31 s
-(Järnvägsviadukt)
+(Jï¿½rnvï¿½gsviadukt)
  Bohusbanan
-T-korsning Nedre Säm
- Säm
+T-korsning Nedre Sï¿½m
+ Sï¿½m
 Rondell
  Tanumshede
 					1,8 km/1,5 km	1 min 21 s/1 min 8 s
 T-korsning
 					1,0 km/1,5 km	0 min 51 s/1 min 17 s
 Rylandsmotet (106)
- E6 n: Oslo, Strömstad
+ E6 n: Oslo, Strï¿½mstad
 
 Etapp 3: Tanum - Bullaren (17,0 km/16,4 km)
 					2,4 km/2,4 km	1 min 26 s/1 min 26 s
 Tanumsmotet (105)
- E6 s: Göteborg, Uddevalla
+ E6 s: Gï¿½teborg, Uddevalla
  Tanumshede
  Bensinstation: Preem
  Restaurang: Rasta
 					1,5 km/0,9 km	1 min 8 s/0 min 41 s
 T-korsning Fossum V
 					0,7 km/0,7 km	32 s/32 s
-Fossumhällen
+Fossumhï¿½llen
 					4,1 km/4,1 km	3 min 5 s/3 min 5 s
 T-korsning
- Återvinningsstation
+ ï¿½tervinningsstation
 					2,2 km/2,2 km	1 min 39 s/1 min 39 s
 T-korsning Tyft V
 					0,5 km/0,5 km	23 s/23 s
-T-korsning Tyft Ö
+T-korsning Tyft ï¿½
 					3,9 km/3,9 km	2 min 56 s/2 min 56 s
-Korsning Korsvägen
+Korsning Korsvï¿½gen
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
 T-korsning Naverstad
 Korsning Naverstad
- 165 s: Munkedal, Hällevadsholm
+ 165 s: Munkedal, Hï¿½llevadsholm
  165 n:

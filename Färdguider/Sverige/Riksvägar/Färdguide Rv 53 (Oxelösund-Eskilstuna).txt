@@ -151,6 +151,8 @@ Dubbel Korsning Husbygård
  Stäringe
 (Bro över Husbyån (ej skyltad))
 
+Nyköping / Flen: (58.9432488,16.8451006)
+
 T-korsning Vallhalla
  Lid, Ripsa
 
@@ -166,7 +168,7 @@ Korsning Vibyholm
 
 Bro över Båven (Oxbro, ej skyltad)
 (T-korsning Oxbro (enskild väg, ej skyltad))
- Infoplats: 
+ Infoplats: Båven
 
 (Parkeringsplats (direkt intill vägen, västra sidan)
  Viloplats med sittplatser bredvid
