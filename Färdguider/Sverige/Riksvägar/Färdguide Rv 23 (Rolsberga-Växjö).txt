@@ -579,5 +579,95 @@ T-korsning Rv 23/Skatelövsv.
  Hotell/Restaurang: Grimslövs Gästgiveri/Wärdshus
  Café: Smörhöga Lantcafé
 
-T-korsning (enskild väg)
+T-korsning (enskild väg, spansk sväng nordgående)
  Ej skyltad (infart?)
+
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad sydgående)
+ Hölmö
+
+Korsning (enskild väg)
+ Grimslövs by
+ Olofstorp
+
+T-korsning (enskild väg))
+(spansk sväg/endast skyltad nordgående)
+
+Dubbel T-korsning Skogslund
+ Grimslöv
+ Vislanda
+
+(2+1-väg upphör / börjar)
+T-korsning Huseby Rv 23
+ Grimslöv
+ Åsnens nationalpark, Sunnanbron (sevärdheter)
+ Huseby Bruk (sevärdhet)
+ Elisabeths Trädgård Restaurang & Café
+
+(Korsning (enskild väg, ej skyltad))
+ Lantgårdar mm
+
+Korsning Huseby Ö
+ Kalvsvik
+(2+1-väg börjar / upphör)
+
+Trafikkontrollplats (båda sidor)
+
+Korsning (enskild väg, ej skyltad?)
+(spanska svängar båda riktningar)
+
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
+ Bergtäkt
+
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
+ Snugge (sevärdhet)
+
+Trp Nöbbele
+ Odenslanda, Vederslöv
+
+T-korsning (enskild väg, ej skyltad))
+(spansk sväng nordgående)
+
+T-korsning Grönadal
+ Öja, Öja kyrka
+
+Korsning Västenhaga (enskild väg)
+(spanska svängar båda riktningar)
+ Västenhaga, Södratorp
+ Häringeryd
+
+2+1-väg upphör / börjar: (56.8447262,14.713792)
+
+T-korsning (enskild väg, ej förskyltad)
+ Kyletorp, Vallstugan, Rockatorp
+
+T-korsning Stora Hammaren
+ Alvesta, Gemla
+(Cykelverkstad (östra sidan))
+
+Dubbel T-korsning Örsled/Bergkvara Rv 23
+ Bergkvara (sevärdhet)
+ Lantcafé, Konst
+ Bergunda
+ Sundet Avloppsverk, Ridskola
+
+Infoplats (östra sidan, endast skyltad nordgående))
+
+Korsning Östra Räppe (lokal väg)
+ Bergsnäs
+ Räppe
+(Motortrafikled börjar / upphör)
+(Mitträcke börjar / upphör)
+
+Trp Helgevärma-väst
+ Centrum, Sjukhus
+ Bensinstation: Circle-K
+ Restaurang: McDonald's, Pizza Hut, (Burger King, MAX)
+ Hotell: Scandic Växjö
+
+Trp Helgevärma-öst
+ 25 v: Halmstad, Ljungby
+ 27 n: Göteborg, Värnamo
+ 30: Jönköping, Växjö flygplats
