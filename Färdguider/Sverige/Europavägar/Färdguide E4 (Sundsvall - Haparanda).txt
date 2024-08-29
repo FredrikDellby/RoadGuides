@@ -932,3 +932,103 @@ Nydalarondellen
  [364]: Burträsk
  Centrum
  Ersboda, Industri: Ö Ersboda
+
+Korsning Anumark E4 (enskild väg)
+ Hotell/Restaurang: Hotell Entré Norr - Anumark
+(Bro över Tavelån (ej skyltad))
+
+Korsning (enskild väg, spanska svängar)
+ Innertavle, Vändplats
+
+T-korsning Fällmyran
+ Tväråmark, Hjåggmark
+ Indusri: Dova, Vändplats
+
+T-korsning (lokal väg)
+ Bergtäkt
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+(Bro över Täfteån (ej skyltad))
+
+T-korsning Täfteböle E4
+ Täfteå, Täfteböle, Vändplats
+(Rastplats Täfteböle (västra sidan, endast sydgående)
+Parkeringsplats (östra sidan, endast nordgående))
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+T-korsning (enskild väg))
+(spansk sväng/endast skyltad nordgående)
+
+Trp Sävar Södra
+ Täfteå
+ Bullmark, Sävar
+ Industri: Sävar, Rastplats Sävar 
+ Bensinstation: Preem
+ Restaurang: Sävar Restaurang & Pub
+
+Bro över Sävarån
+
+Trp Sävar Norra
+ Skeppsvik, Norum
+ Färja: Holmön (sevärdhet)
+ Sävar
+ Restaurang: Sävar Restaurang & Pub, Pizzeria Rapido
+
+Parkeringsplats (båda sidor)
+
+Trafikkontrollplats (båda sidor, under byggnad?)
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+Korsning Gryssjön E4 (enskild väg, spanska svängar)
+ Gryssjön, Potatislager, Vändplats
+
+Umeå / Robertsfors: (63.957987,20.6789802)
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+Korsning (enskild väg, spanska svängar)
+ Nyvik, Vändplats
+(Bro över Lillån (ej skyltad))
+
+Korsning Djäkneboda E4
+ Djäkneboda, Norum
+ Ratan (sevärdhet)
+
+Korsning (enskild väg, spanska svängar)
+ Vändplats
+
+T-korsning E4/Kustlandsvägen
+ Ratan, Dalkarlså
+
+Bro över Dalkarlsån
+
+T-korsning (enskild väg))
+(spansk sväng/endast skyltad nordgående)
+ Vändplats
+
+Korsning Bygdeå E4
+ Bygdeå, Bygdeå kyrka (sevärdhet)
+ V Sjulsmark
+ Bensinstation: Q-star
+ Restaurang: Motell Trafikanten, Frasses
+
+T-korsning Bygdeå norra (enskild väg))
+(spansk sväng/endast skyltad nordgående)
+ Vändplats
+
+Korsning Öndebyn E4 (enskild väg)
+ Handelsträdgård
+ Junkboda, Öndebyn
+
