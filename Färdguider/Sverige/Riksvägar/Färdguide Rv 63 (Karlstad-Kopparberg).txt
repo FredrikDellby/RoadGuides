@@ -44,7 +44,7 @@ T-korsning Forshagavägen
 					0.6 km/0.6 km	27 s/27 s
 T-korsning Forsnäs
 					8.0 km/8.0 km	6 min 0 s/6 min 0 s
-Killstabadet
+Killstabadet (södra sidan)
 
 T-korsning Norumsvägen Rv 63
  Hedås, Norum
@@ -68,7 +68,7 @@ Korsning Nyeds kyrka
  240: Väse
  Centrum
 					0.9 km/0.9 km	54 s/54 s
-T-korsning Nyeds Hembygdsgård
+T-korsning Nyeds Hembygdsgård (lokal väg)
 
 Korsning Molkom Ö
  240: Hagfors, Älvsbacka
