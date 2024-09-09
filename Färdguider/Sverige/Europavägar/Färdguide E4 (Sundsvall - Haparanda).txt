@@ -1032,3 +1032,16 @@ Korsning Öndebyn E4 (enskild väg)
  Handelsträdgård
  Junkboda, Öndebyn
 
+Korsning Bäck södra
+ Rickleå, Bäck
+ Vändplats
+
+Korsning Bäck E4 (enskid väg)
+ Ej skyltad?
+
+Korsning Fäboda E4 (enskid väg)
+ Valsfäboda Ö
+ Valsfäboda V
+
+Korsning (enskild väg)
+ Storbäcken, Laxbäcken
