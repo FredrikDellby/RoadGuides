@@ -11,26 +11,28 @@ Dubbel T-korsning Morokulien N (lokale veier)
 (Hedmark / Värmland)
 (Eidskog / Eda)
 					0,3 km/0,4 km	22 s/29 s
-Bensinstation: INGO
+Bensinstation: INGO (norra sidan)
 T-korsning Morokulien S (lokal väg)
  Rastplats, Morokulien infocenter, Fredsmonument
 					0,6 km/0,6 km	43 s/43 s
 Eda Tullstation
 					0,7 km/0,7 km	50 s/50 s
 T-korsning Eda Folkets Park (lokal väg)
- Eda Folkets Park, Museum
+ Eda Folkets Park, Glasmuseum
+ Köpcenter: Eurocash
  Bensinstation: St1
 					0,6 km/0,7 km	43 s/50 s
-T-korsning Eurocash (lokal väg)
- Köpcenter
+T-korsning Godisfabriken (infart)
+ Ej skyltad
 
-T-korsning Eda Glasbruk
- Håvilsrud
+T-korsning Eda Glasbruk Ö
+ Håvilsrud, Galleri Brym & Aabo
 					1,1 km/1,0 km	57 s/51 s
 Bro över Vrångsälven (ej skyltad)
 
-Dubbel Korsning Eda Glasbruk S
- Glasmuseum, Lokal väg
+Korsning Eda Glasbruk S (lokal väg)
+ Glasmuseum
+T-korsning (enskild väg)
  Lina, KB Auto, Enskild väg
 					3,1 km/3,1 km	2 min 20 s/2 min 20 s
 T-korsning Morast (enskild väg)
@@ -42,7 +44,7 @@ Infoplats (västra sidan)
 
 T-korsning Tallmon N (lokal väg)
  Tallmon N (Köpcenter)
-(Bro över Vrångsälven)
+(Bro över Vrångsälven (ej skyltad))
 					0,6 km/0,7 km	31 s/36 s
 Tallmorondellen
  Centrum, Gräsmark
@@ -68,8 +70,8 @@ T-korsning Eda Kyrka
  Eda K:a
 					1,0 km/1,1 km	45 s/50 s
 Dubbel T-korsning Mellbyn
- Eda K:a
- Hamma, Öjenäs
+ Eda K:a, Kortlanda (enskild väg)
+ Fjäll, Lerot
  Eda hembygdsgård
 					0,7 km/0,6 km	32 s/27 s
 T-korsning Haga (enskild väg)
@@ -79,22 +81,26 @@ T-korsning Haga (enskild väg)
 Korsning Charlottenberg Camping (lokal väg)
  Charlottenberg Camping
 					0,9 km/0,9 km	41 s/41 s
-T-korsning Eda Skans S
+T-korsning Eda Skans S (enskild väg)
+(endast skyltad nordgående)
+ Eda Skans
 										3,3 km/3,3 km	2 min 29 s/2 min 29 s
 (2+1-väg börjar / upphör)
 T-korsning (enskild väg)
-(endast skyltad västgående)
+(spansk sväng/endast skyltad västgående)
 
 Korsning Norra By (enskild väg)
+(spansk sväng båda riktningar)
  Annelund
 
 T-korsning By Rv 61
  By
 					1,9 km/1,9 km	1 min 26 s/1 min 26 s
 (T-korsning (enskild väg))
-(ev. skyltad östgående)
+(spansk sväng/ev. skyltad östgående)
 
 Korsning Sofielund (enskild väg)
+(spansk sväng båda riktningar)
                     /)
 2+1-väg upphör / börjar)
 
