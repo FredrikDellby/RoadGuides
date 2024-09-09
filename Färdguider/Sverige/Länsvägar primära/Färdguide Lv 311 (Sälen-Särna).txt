@@ -65,7 +65,7 @@ Norrsjön Gästgifveri & Spa
 					12.1 km/12.0 km	9 min 5 s/9 min 0 s
 (Nordic Footprints)
 
-(Bro över Fulan)
+(Bro över Fulan (ej skyltad))
 Malung-Sälen / Älvdalen: (61.5090256,13.0828726)
 
 Älgpark & Huskyfarm: (61.5134620, 13.0840794)
@@ -75,8 +75,8 @@ T-korsning (enskild väg)
 
 Parkeringsplats (västra sidan)
 
-(T-korsning Byggevallen)
- Strandvallen, Enskild väg
+(T-korsning Byggevallen (enskild väg))
+ Strandvallen
 
 T-korsning (enskild väg)
  Mickeltemplet, Utsiktstorn
@@ -89,6 +89,3 @@ Korsning Särna Centrum
  70 n: Röros, Idre, Centrum
  311 n: Tännäs
  Särna Camping, Infoplats
-Bensinstation: OKQ8
-T-korsning Coop Särna (lokal väg)
- Kyrka, Gammelkyrka, Hembygdsgård
