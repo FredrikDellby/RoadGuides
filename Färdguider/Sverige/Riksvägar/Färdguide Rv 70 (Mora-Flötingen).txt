@@ -239,6 +239,29 @@ T-korsning Hållbovallen Rv 70
  Hållbovallen
  Gryvelåreservatet (sevärdhet)
 
-(T-korsning Rånäs Rv 70)
- Rånäs, Enskild väg
+(T-korsning Rånäs Rv 70 (enskild väg))
+ Rånäs
+
+(T-korsning Glysjön Rv 70 (enskild väg))
+ Glysjön
+
+Timmerlastplatser (grus, båda sidor, ej skyltade)
+(T-korsning, Dubbel T-korsning, T-korsning)
+
+(T-korsning (enskild väg)
+ Sörberget
+
+T-korsning Särna Ö
+ Sveg, Lillhärdal, Östomsjön
+
+T-korsning Särna Camping (lokal väg)
+ Särna Camping (ej skyltad)
+
+Korsning Särna Centrum
+ 311 s: Malung, Sälen
+
+Bensinstation: OKQ8 (östra sidan)
+(Coop Särna (västra sidan))
+T-korsning Särna kyrka
+ Kyrka, Gammelkyrka (sevärdhet), Hembygdsgård 
 
