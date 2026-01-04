@@ -1045,3 +1045,51 @@ Korsning Fäboda E4 (enskid väg)
 
 Korsning (enskild väg)
  Storbäcken, Laxbäcken
+
+Korsning Laxbäcken E4
+ Rickleå
+ Laxbacken, Åströmforsens naturreservat (enskild väg)
+
+Korsning Lägde E4 (enskild väg)
+ Solsidan
+ Bergnäs
+
+Trafikplats Sikeå
+ Sikeå
+ Robertsfors
+
+Korsning Granberget S
+ Sikeå N
+
+T-korsning (enskild väg)
+(spansk sväng/endast skyltad sydgående)
+
+Viltbro
+
+Korsning (enskild väg, spanska svängar)
+ Klintsjölänningen, Killingasand
+
+Rastplats Granberget (nordgående))
+
+Korsning (enskild väg, spanska svängar)
+ Klintsjön S
+
+Korsning (enskild väg)
+ Klintsjön Ö
+ Klintsjön V
+
+Korsning Gumbodahed (enskild väg, spanska svängar)
+ Motorbana, Gumbodahed (sevärdhet)
+
+T-korsning Gumboda E4
+ Robertsfors
+
+T-korsning Gumboda Stålteknik (enskild väg)
+(spansk sväng/endast förskyltad nordgående)
+ Gumboda Stålteknik
+(mitträcke upphör / börjar)
+
+(Dubbel) T-korsning Vippersrödingen
+ (Vippersrönningen (enskild väg))
+ Gumbodahamn
+
