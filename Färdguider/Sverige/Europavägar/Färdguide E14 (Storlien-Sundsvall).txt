@@ -577,3 +577,211 @@ Korsning Pilgrimstad C (lokal väg)
 Korsning E14/Bällstavägen (lokal väg)
  Pilgrimcenter, Jämtlands Bryggeri
 
+(T-korsning (enskild väg))
+ Anviken
+
+T-korsning Fanbyn Norra vsk
+ Samsta, Fanbyn
+
+T-korsning Fanbyn Östra vsk
+ Samsta, Fanbyn
+
+T-korsning Dalhemsviken
+ Stugun, Rissna, Sundsjö k:a
+
+T-korsning Sörviken vsk
+ Sörviken, Alkido
+
+T-korsning Gällöflon (lokal väg)
+ Mickelbacken
+
+T-korsning Gällö E14
+ Bodsjö, Revsund, Gällö
+ Hotell, Restaurang
+
+Korsning Gällö OK (enskild väg)
+ Binnäset
+ Camp Viking, Badplats
+ Bensinstation: OKQ8
+ Restaurang: Beaucoup de Bla Bla
+
+T-korsning Gällö industriområde (lokal väg)
+ Industri: Gällö
+ Återvinningscentral
+
+T-korsning Grimnäs vsk
+ Grimnäs
+ Potatis, Fiske
+
+T-korsning E14/Binnåsvägen (enskild väg)
+ Blektjärns Naturreservat
+
+(Korsning Målgåsen E14 (enskild väg))
+ Ateljé kle´a (ej skyltad)
+
+T-korsning Stavre Bygdegården E14 (lokal väg)
+ Bygdegård
+
+T-korsning Stavre E14
+ Ammerön (färja)
+ Ångbåten Alma, Veterinär
+(Bilverkstad (norra sidan, ej skyltad))
+
+(Carina's loppis (södra sidan, ej skyltad))
+
+(Bro över Gimån)
+Rastplats Gimårasten
+ Restaurang: Gimårasten, Fiske
+
+T-korsning Gimån E14
+ Åhn, Mordviken
+
+T-korsning Mordviken vsk
+ Mordviken, Åhn
+
+(T-korsning Mordviken E14 (enskild väg))
+ Stensmyran
+
+T-korsning (enskild väg)
+ Återvinningsstation
+
+Järnvägsbro
+ Stambanan genom Övre Norrland
+
+Rondell Bräcke västra (lokal väg)
+ Industriområde, Gymnasieskola
+
+T-korsning E14/Tippgränd (lokal väg)
+ Reningsverket, Kommunförråd
+
+Korsning Jämtkrogen Bräcke
+ 323: Hammarstrand, Kälarne
+ Idrottsplats, Ishall, Ridhall
+ Hotell/Restaurang: Jämtkrogen, Thongkams Thaimarket
+
+... en massa punkter genom Bräcke ...
+
+Bensinstation: Q-star (norra sidan)
+
+T-korsning E14/Kyrkvägen
+ Sörbygden, Albacken
+ Kyrka, Förskola
+
+Bräcke Vulkverkstad AB (norra sidan)
+
+T-korsning Bräcke Rävudden
+ Våle, Hunge
+
+T-korsning
+ Svenstavik, Hunge, Våle
+
+T-korsning Bensjö
+ Ö Stugusjö, Bensjö
+ Helvetesbrännans naturreservat, SCA Virkesterminal
+
+(T-korsning (enskild väg))
+ Bensjö
+
+T-korsning (enskild väg)
+ Lillkrog, Sevärdhet
+
+(Vägunderhållsplats (norra sidan))
+
+(T-korsning (enskild väg))
+ Åsen
+
+(Parkeringsplats (grus, ej skyltad, norra sidan))
+Jämtland / Västernorrland: (62.6347665,15.6391787)
+Bräcke / Ånge
+
+T-korsning (enskild väg)
+ Motocrossbana
+
+T-korsning Granboda E14
+ [83]: Bollnäs, Ånge
+
+Korsning Näset
+ 83: Bollnäs, Ånge
+
+T-korsning Tälje E14 infart (enskild väg)
+ Tälje by, Täljegården (B&B)
+
+T-korsning Borgsjöbyn västra
+ Ev. ej skyltad?
+
+Korsning Borgsjö Hembygdsgård (lokal väg)
+ Borgsjö Hembygdsgård (hemgjord skylt)
+
+Avfart Rastplats Borgsjö)
+ Rastplats Borgsjö
+ Naturum Ånge, Ljungandalsvägen
+ Bensinstation: INGO
+ Borgsjö Strand - Restaurang, Camping, Stugor, B&B
+					/)
+Korsning Borgsjöbyn E14
+ Erikslund, Slöjdmuseum
+ Borgsjö k:a, Hembygdsgård
+ Naturum Ånge, Ljungandalsvägen
+ Bensinstation: INGO
+ Borgsjö Strand - Restaurang, Camping, Stugor, B&B
+ Jämtgavelns naturreservat
+
+Trafikplats
+ Ö, Callans Trä
+
+Korsning Johannisberg/Tubbo
+ Åse, Marktjärn
+
+T-korsning Västerhångsta Ö
+ Hussborg, S Gullgård, Ljungaverk
+ Restaurang: Pizzeria Bella Donna
+
+Korsning (enskild väg)
+ Getberget, Skidanläggning, Café
+
+T-korsning Västerkomsta
+ Hammar, Vikbron (sevärdhet)
+
+(T-korsning E14/Franzengatan (lokal väg))
+ Ej skyltad
+
+Korsning E14/Marktjärnsgatan
+ Fränsta, Bilverkstad
+ Marktjärn
+ Skinnsjöns kraftstation, Getteråns kraftstation
+ Ålsta Folkhögskola
+T-korsning (lokal väg)
+ Idrottsplats (Myggvallen)
+
+Korsning Fränsta E14
+ Fränsta Centrum
+ Gissjö
+ Bensinstation: Din-X/Frendo
+ Restaurang: Pizzeria Vagabondo
+
+(Räddningstjänsten (norra sidan))
+
+Korsning Backen västra
+ Fränsta Ö, Industri
+ Ålsta Folkhögskola
+
+T-korsning Backen E14
+ Gissjö
+
+T-korsning Tirsta
+ Getterån, Däckservice
+
+(Bro över Getterån (ej skyltad))
+Korsning.
+ Gissjöns kraftstation
+ Gissjö
+
+(Korsning Hagen (enskild väg))
+ Klöstre
+
+Dubbel T-korsning Torpshammar E14
+ Nordanede, Gimåfors
+ Torpshammar
+ Torpshammars kraftverk
+ Camp Mid Adventure, Sveriges Mitt
+(Bro över Gimån (ej skyltad))
