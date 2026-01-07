@@ -1,7 +1,7 @@
 Reseguide E16 (Bærum - Fagernes)
 ================================
 
-Etapp: Sandvika - Skui N ()
+Etapp: Sandvika - Skaret ()
 
 Kjørbokrysset (16)
  E18 ø: Oslo, Lysaker
@@ -22,9 +22,9 @@ Kryss Rud (3)
  Vøyenenga
  Bensinstasjon: YX
 					0,4 km/)	16 s/)
-Bru over Sandvikselva)
+(Bru over Sandvikselva (ikke skiltet)))
 					0,5 km/0,5 km	20 s/20 s
-Bru over Isielva
+(Bru over Isielva (ikke skiltet))
 					0,3 km/0,3 km	12 s/12 s
 Brennetunnelen-syd
  1 076 m/
@@ -41,50 +41,36 @@ Skuitunnelen-syd)
 					1,4 km/1,6 km	0 min 56 s/1 min 4 s
 Skuitunnelen-nord
 					0,4 km/0,5 km	16 s/20 s
-(90 km/h / 80 km/h)
 Kryss Isiveien (5)
 (avfart nordgående riktning
 påfart sydgående riktning)
-					0,5 km/0,5 km	23 s/23 s
-Bjørum sag bru (129 m)
+					0,5 km/0,6 km	23 s/23 s
+(Bjørum sag bru (129 m, ikke skiltet))
  Isielva
-					0,4 km/0,3 km	18 s/14 s
-T-korsning E16/Ringeriksveien
- Skui
-
-Etapp: Skui N - Skaret/Lauvkastet ()
-
-Parkeringsplass (nordgående)
-					1,0 km/1,0 km	45 s/45 s
-(T-korsning Rustan (ikke skiltet))
-					1,2 km/1,2 km	54 s/54 s
-(T-korsning (ikke skiltet))
-
-(T-korsning Brenna (ikke skiltet))
-					0,9 km/0,9 km	41 s/41 s
-Mittrekk ender/begynner
-					2,3 km/2,4 km	2 min 18 s/2 min 24 s
-Bærum / Hole
-					0,5 km/0,4 km	30 s/24 s
-(Trippel/)Dubbel T-korsning Sollihøgda
- Sollihøgda barnehage
- Sollihøgda kapell
- Sollihøgda næringspark
-					0,4 km/0,4 km	24 s/24 s
-Mittrekk
- begynner (nordgående)
- ender (sydgående)
-					1,8 km/1,8 km	1 min 21 s/1 min 21 s
-Kryss Skaret
-(avfart nordgående riktning
-påfart sydgående riktning)
+					0,6 km/0,4 km
+Bukkesteinshøgdtunnelen-syd
+ 800 m
+					0,9 km/0,8 km
+Bukkesteinshøgdtunnelen-nord
+					1,6 km/2,1 km
+Avtjernakrysset (6)
+ Gamle E16: Sollihøgda
+					0,6 km/)
+Sollihøgdtunnelen-syd)
+ 3 400 m
+					3,4 km/3,5 km
+(Sollihøgdtunnelen-nord
+(Bomstasjon Skaret (nordgående))
+					(/0,7 km
+Kryss Skaret (7)
  285: Drammen
+
+Etapp: Skaret - Sundvollen ()
+					/)
 (Mittrekk ender / begynner)
-(Skarettunnelen-syd)
+Skarettunnelen-syd)
  465 m
 					0,7 km/0,6 km	32 s/27 s
-Etapp: Skaret/Lauvkastet - Sundvollen ()
-
 Skarettunnelen-nord
 (Mittrekk begynner / ender)
 					0,3 km/0,3 km	14 s/14 s
@@ -94,7 +80,7 @@ påfart nordgående riktning)
  285: Drammen
 					1.0 km/1.0 km	40 s/40 s
 (Rasteplass Nes tunnel (sydgående)
-
+					(/
 (Mittrekk ender / begynner)
 Kryss Sønsterud
 (avfart nordgående riktning
@@ -107,11 +93,12 @@ påfart sydgående riktning)
  1 290 m
 					1.6 km/1.6 km	1 min 4 s/1 min 4 s
 Nestunnelen-nord
+(T-korsning E16/Tunnelkleiva)
+(Mittrekk begynner / ender): (60.0030919,10.2823395)
 					3.0 km/3.0 km	2 min 0 s/2 min 0 s
-Mittrekk begynner / ender: (60.0030919,10.2823395)
-
 Rasteplass Rørvik
 					3.3 km/3.0 km	2 min 12 s/2 min 0 s
+(Mittrekk ender / begynner)
 Kryss Rørvik
  Fv2848: Nes i Hole
  Tyrifjord Golfklubb, Storøen gård
@@ -120,7 +107,11 @@ Kryss Rørvik
 (Parkeringsplass (sydgående, ikke skiltet)
 					0.7 km/0.8 km	42 s/48 s
 (T-korsning Rørvik Camping)
- Ikke skiltet?
+ Ikke skiltet
+(Mittrekk begynder / ender)
+
+Mittrekk ender / begynder
+Flamma.no (vestre side)
 					1.2 km/1.2 km	1 min 12 s/1 min 12 s
 T-korsning Sundvollen
  Fv2850: Åsa, Sundvollen
@@ -512,3 +503,32 @@ T-korsning E16/Jernbaneveg.
 T-korsning Fagernesbrue
  51 n: Vågå, Beitostølen
  Valdresflye
+
+=============== Gamle E16 ======================
+T-korsning E16/Ringeriksveien
+ Skui
+
+Etapp: Skui N - Skaret/Lauvkastet ()
+
+Parkeringsplass (nordgående)
+					1,0 km/1,0 km	45 s/45 s
+(T-korsning Rustan (ikke skiltet))
+					1,2 km/1,2 km	54 s/54 s
+(T-korsning (ikke skiltet))
+
+(T-korsning Brenna (ikke skiltet))
+					0,9 km/0,9 km	41 s/41 s
+Mittrekk ender/begynner
+					2,3 km/2,4 km	2 min 18 s/2 min 24 s
+Bærum / Hole
+					0,5 km/0,4 km	30 s/24 s
+(Trippel/)Dubbel T-korsning Sollihøgda
+ Sollihøgda barnehage
+ Sollihøgda kapell
+ Sollihøgda næringspark
+					0,4 km/0,4 km	24 s/24 s
+Mittrekk
+ begynner (nordgående)
+ ender (sydgående)
+					1,8 km/1,8 km	1 min 21 s/1 min 21 s
+=============================================================
