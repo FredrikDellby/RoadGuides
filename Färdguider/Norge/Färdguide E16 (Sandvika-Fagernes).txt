@@ -205,7 +205,7 @@ Jernbaneviadukt
 Begnamoen bru (179 m)
  Begna
 
-Rasteplass (østgående)
+(Rasteplass Årbogen (østgående)
 
 Kryss Nymoen
  E16: Kongsvinger, Gardemoen
@@ -221,7 +221,7 @@ T-korsning Vågård E16
 Hensmoen bru (13 m)
  Randsfjordbanen
 
-Rasteplass Kudalen
+Rasteplass Kudalen (vestgående))
 
 T-korsning Skårflågan
  Hen
