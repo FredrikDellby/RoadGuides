@@ -1218,10 +1218,158 @@ Trafikplats Tjärn
 påfart nordgående riktning)
  Tjärn, Yttervik, Innervik
 
-Rondell
+Rondell E4/Tjärnvägen
  364: Burträsk
  Industri: Anderstorp
  Industri: Hammarängen
  Restaurang: McDonald's
-Rastplats Tjärn (nordg
+Rastplats Tjärn (nordgående)
 
+T-korsning E4/Företagsvägen (lokal väg)
+ Anderstorp
+
+T-korsning Sörböle E4 (lokal väg)
+ Sörböle, Industri: Hammarängen
+ Travbana
+ Bensinstation: Circle-K, OKQ8, Preem
+
+Avfart (sydgående riktning)
+ Bensinstation: Preem, OKQ8
+
+Rondell
+ Örviken, Anderstorp
+ Bastuträsk, Skråmträsk
+ Universitet Campus
+
+(Avfart+Påfart Campus Skellefteå
+(sydgående riktning, ej skyltad)
+
+Viktoriabron (ca 200 m)
+ Skellefteåälven
+(T-korsning E4/Strandgatan (sydgående)
+ Nordanå (sevärdhet), P-hus
+
+Korsning E4/Storgatan (lokal väg)
+ Älvsbacka
+ Nordanå (sevärdhet), P-Hus, Turistinfo
+
+Korsning E4/Kanalgatan (lokal väg)
+ Expolaris, Parkering
+ Centrum, Parkering
+ [95]: Bodö
+ Restaurang: MAX
+
+Trp Skellefteå
+(avfarter nordgående riktning
+påfart sydgående riktning)
+ 372: Skelleftehamn
+ Industri: Hedensbyn, Morön
+ 95: Bodö, Sjukhus
+
+Rondell Norrböle E4 (lokal väg)
+ Moröhöjden, Norrvalla
+ [95]: Bodö, Boliden
+ Erikslid, Sjukhus
+ Bensinstation: Circle-K
+
+T-korsning E4/Slalomvägen (lokal väg)
+ Vitberget
+ Skidstadion, Skellefteå Kraft Arena
+ Restaurang: Korvgubben
+
+Infoplats Solbacken (sydgående)
+Parkeringsplats Solbacken (nordgående)
+
+Korsning E4/Östra Leden
+ Skelleftehamn, Morö Backe
+ [95]: Bodö
+ Bensinstation: OKQ8
+ Solbacken Restaurang & Café
+
+Trp Solbacken (lokal väg)
+ Solbacken Handelsområde
+ Restaurang: MAX, McDonald's, Råvara Skellefteå
+
+Trafikplats
+ Boviken, Bovikens havsbad
+ Fällbäcken (enskild väg)
+
+Trafikplats Kåge S
+ Kåge S, Industri: Kåge hamn
+ Bjässviken (enskild väg)
+					/)
+Bro över Kågeälven)
+
+Trafikplats Kåge N
+ Kåge N, Industri
+ Jörn, Ersmark
+
+Trafikplats (enskild väg)
+ Brännäset
+ Spisen
+
+Trp Frostkåge
+ Östanbäck
+ Frostkåge
+
+Trafikplats Ostvik
+ Ostvik, Östanbäck
+ Stavaträsk, Drängsmark
+
+Trp Björkhammar (enskild väg)
+ Björkhammar
+
+Rastplats Byske Norra (nordgående))
+
+Trafikplats Byske S
+ Byske, Lundbäck
+ Restaurang: Byske Gästgivargård
+
+Bro över Byskeälven
+
+Trafikplats Byske N
+ Fällfors
+ Byske
+ Byske havsbad och Camping
+ Bensinstation: INGO
+
+Korsning Båtvik E4
+ Selsvik, Båtvik
+
+T-korsning (enskild väg, spansk sväng nordgående))
+ Ej skyltad
+
+(Vändplats (sydgående)
+
+Trafikplats Tåme
+ Tåme
+ Tåmeträsk
+					/)
+Vändplats (nordgående))
+
+(Vändplats (sydgående)
+
+Trafikplats Åbyn
+ Renholmen
+ Ålund, Åbyn
+					(/
+(Bro över Åbyälven
+
+Vändplats (nordgående))
+
+T-korsning (enskild väg, spansk sväng nordgående)
+ Ej skyltad
+
+Korsning (enskild väg)
+(spansk sväng båda riktningar)
+ Ej skyltad
+
+T-korsning (enskild väg, spansk sväng nordgående)
+ Ej skyltad
+
+Korsning Kinnbäck E4 (enskild väg)
+ Ö Kinnbäck
+ Perstorp, V Kinnbäck
+
+Västerbotten / Norrbotten: (65.0880493,21.4800506)
+Skellefteå / Piteå
