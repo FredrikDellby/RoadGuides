@@ -1061,7 +1061,7 @@ Trafikplats Sikeå
 Korsning Granberget S
  Sikeå N
 
-T-korsning (enskild väg)
+(T-korsning (enskild väg)
 (spansk sväng/endast skyltad sydgående)
 
 Viltbro
@@ -1218,9 +1218,10 @@ Trafikplats Tjärn
 påfart nordgående riktning)
  Tjärn, Yttervik, Innervik
 
-Rondell...
+Rondell
  364: Burträsk
  Industri: Anderstorp
  Industri: Hammarängen
  Restaurang: McDonald's
-Rastplats Tjärn (nordgående)
+Rastplats Tjärn (nordg
+
