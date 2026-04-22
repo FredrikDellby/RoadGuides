@@ -1105,10 +1105,122 @@ Korsning Ånäset E4
  Stenfors Gård
  Hembygdsområde
 
-(T-korsning Stenfors N)
- Skäran
- Ånäset
+T-korsning Stenfors N
+ Hertsånger
 
 Korsning Ånäset Ö
  Burträsk, Ånäset
  Industri, Ostens Lager
+
+T-korsning Fäboda V
+ Skäran
+
+T-korsning Grimsmark E4
+ Vebomark, Gunsmark
+
+(Robertsfors / Skellefteå: (64.322451,21.1842427)
+					(/
+Rastplats Marsjön (spansk sväng)
+
+T-korsning Västanbyn E4
+ Noret
+
+T-korsning Avan N
+ Munkviken, Avan
+ Lägergård, Badplats
+
+T-korsning Lövånger SV (lokal väg)
+ Industri: LEAB Group, Varuhus
+
+Korsning Lövånger E4
+ Lövånger, Kallviken
+ Vebomark
+ Kyrkstad (sevärdhet)
+ Bensinstation: OKQ8
+ Restaurang: Lövångers Pizzeria och Grill
+
+(Lövångers Bygg (östra sidan))
+
+T-korsning
+ Bjuröklubb, Uttersjöbäcken
+
+T-korsning S Broänge
+ Mjövattnet, Vallen, Mångbyn
+
+(Korsning Mångbyn E4 (enskild väg))
+ Gärde
+
+Korsning Bodan E4
+ Fjälbyn
+ Hökmark, Mångbyn
+ EcoRub
+
+Parkeringsplats Hökmarkberget (nordgående)
+
+T-korsning Missjön (endast skyltad sydgående)
+ Hökmark, EcoRub
+
+T-korsning Önnesmarksträsket
+(spansk sväng sydgående)
+ Önnesmark, Uttersjöbäcken, Bjuröklubb
+
+(T-korsning Daglösten E4 (enskild väg))
+ V Daglösten
+
+(Dubbel) T-korsning Övre Bäck E4
+ (Kroknäs)
+ Uttersjöbäcken, Kåsböle
+
+Rastplats Ljusvattnet (nordgående)
+
+(Ljusvattnets Camping (östra sidan, avstängd))
+
+(T-korsning (enskild väg))
+ Nedre Bäck
+
+(T-korsning Istermyrliden E4 (enskild väg))
+ Istermyrliden
+
+Korsning Grandbodarna E4
+ Brattjärn, Holmsvattnet
+
+T-korsning (enskild väg)
+ Jaktskyttebana
+
+T-korsning (endast skyltad nordgående)
+ Bureå, Badplats
+
+Korsning Kälen
+ Bureå
+ Hjoggböle, Sjöbotten
+ Skellefteå Flygplats
+
+Korsning E4/Jägargatan (enskild väg)
+ Bureå Camping
+ Vikdal
+
+(Bro över Bureälven)
+Korsning Bureå Ö
+ Bureå
+ Åbacka
+
+T-korsning Bureå NV
+ Bureå
+
+Trp Yttervik
+ Skellefteåhamn, Tjärn
+ Yttervik, Innervik
+
+(Vändplatser (grus, ej skyltade))
+
+Trafikplats Tjärn
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Tjärn, Yttervik, Innervik
+
+Rondell...
+ 364: Burträsk
+ Industri: Anderstorp
+ Industri: Hammarängen
+ Restaurang: McDonald's
+Rastplats Tjärn (nordgående)
