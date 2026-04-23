@@ -18,3 +18,121 @@ Trp Norremark-nord
  Bensinstation: OKQ8, Preem, Circle-K
  Restaurang: McDonald's, MAX, Kungsgrillen
  Evedals Camping, Evedals badplats, Badplats Dalbostrand
+
+Trp Björnvägen
+ Sandsbro S, Norremark
+ Industri: Norra
+ Bensinstation: Q-star
+
+Trp Sandsbro
+ Sandsbro
+ Fylleryd (enskild väg)
+ Glasrikets Golfklubb, Notteryds naturreservat
+ Hagavik (badplats)
+
+(Motortrafikled upphör / börjar)
+Sandsbrorondellen
+ Sandsbro
+ Åby, Rottne
+ Fylleryd (enskild väg)
+ Glasrikets Golfklubb, Notteryds naturreservat
+ Hotell/Restaurang: Villa Viks matsalar och Toftastrand Hotell
+ Café: Toftastrand Konditori
+
+(Infoplats (sydgående)
+
+Korsning (enskild väg))
+(spanska svängar båda riktningar)
+ Sjögård
+                    /)
+T-korsning Tofta
+ Gårdsby
+
+T-korsning Rv 23/Sjöviksvägen (enskild väg)
+(spansk sväng sydgående)
+ Sjövik
+
+Dubbel T-korsning Vikensvedsvägen (enskild väg)
+ Vikensved
+ Yasjön
+
+T-korsning Gårdsbyvägen
+(spansk sväng nordgående)
+ Gårdsby, Kyrka
+
+(Stor Parkeringsficka (grus)
+(sydgående riktning)
+
+Korsning Kråkenäsryd (enskild väg)
+(spansk sväng nordgående)
+ Källehult
+ Kråkenäsryd
+
+Korsning Hultäng
+(spanska svängar båda riktningar)
+ Tveta
+ Kråkenäs, Hultäng (enskild väg)
+
+(Parkeringsplats (gräs, sydgående)
+
+T-korsning Nybygget
+(spansk sväng sydgående)
+ S Åreda
+
+Rastplats Innaren (västra sidan)
+
+T-korsning Norra Åreda (enskild väg)
+(spansk sväng sydgående)
+ Björnamo
+
+T-korsning (enskild väg)
+(spansk sväng nordgående)
+ Högaskruv
+
+Korsning Björkavägen (enskild väg)
+(spanska svängar båda riktningar)
+ Spångaberg
+ Björka
+
+T-korsning Skårtaryd (enskild väg)
+(spansk sväng sydgående)
+ Skårtaryd, Naturreservat Skårtaryds urskog
+
+T-korsning Lilla Boldövägen (enskild väg)
+(spansk sväng sydgående)
+ Betingetorp, Lilla Boldö
+
+Korsning Eke terminal
+ Lenhovda, Dädesjö
+ Rottne, Eke
+ Kyrka, busshpl
+(Eke terminal (västra sidan))
+
+T-korsning (enskild väg)
+(spansk sväng/endast skyltad nordgående)
+
+Infopunkt Braås (nordgående))
+
+(Mitträcke upphör / börjar)
+(Dubbel) Korsning Drättinge
+ Drettinge (enskild väg)
+ Ramkvilla, Braås
+(Infopunkt Braås (sydgående))
+
+Korsning Mästreda vägskäl (enskild väg)
+ Mästreda
+ Återvinningscentral
+
+(Korsning (enskild väg))
+ Mästreda
+
+Korsning Galtabäck NO
+ Galtabäck
+
+Nottebäck terminal (västra sidan)
+
+Trp Nottebäck
+ 28 s: Karlskrona
+ 31 s: Kalmar, Nybro
+ 31 n: Vetlanda
+
