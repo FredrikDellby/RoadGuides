@@ -1319,7 +1319,7 @@ Trafikplats Ostvik
 Trp Björkhammar (enskild väg)
  Björkhammar
 
-Rastplats Byske Norra (nordgående))
+Rastplats Byske (nordgående))
 
 Trafikplats Byske S
  Byske, Lundbäck
@@ -1339,15 +1339,15 @@ Korsning Båtvik E4
 T-korsning (enskild väg, spansk sväng nordgående))
  Ej skyltad
 
-(Vändplats (sydgående)
+(Vändplats (spansk sväng sydgående)
 
 Trafikplats Tåme
  Tåme
  Tåmeträsk
 					/)
-Vändplats (nordgående))
+Vändplats (spansk sväng nordgående))
 
-(Vändplats (sydgående)
+(Vändplats (spansk sväng sydgående)
 
 Trafikplats Åbyn
  Renholmen
@@ -1355,7 +1355,7 @@ Trafikplats Åbyn
 					(/
 (Bro över Åbyälven
 
-Vändplats (nordgående))
+Vändplats (spansk sväng nordgående))
 
 T-korsning (enskild väg, spansk sväng nordgående)
  Ej skyltad
