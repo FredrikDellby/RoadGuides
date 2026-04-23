@@ -24,7 +24,7 @@ Trp Björnvägen
  Industri: Norra
  Bensinstation: Q-star
 
-Trp Sandsbro
+Trp Sandsbro (inga påfarter)
  Sandsbro
  Fylleryd (enskild väg)
  Glasrikets Golfklubb, Notteryds naturreservat
@@ -136,3 +136,6 @@ Trp Nottebäck
  31 s: Kalmar, Nybro
  31 n: Vetlanda
 
+Korsning Hult Rv 37
+ Bredhälla, Naturreservat
+ Nottebäck
