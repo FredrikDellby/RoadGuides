@@ -1462,6 +1462,26 @@ Trp Piteå Norra
  374: Älvsbyn, Öjebyn
  Piteå, Universitet
 
+(Motorväg börjar (sydgående)
 Trp Boviken
  [374]: Älvsbyn, Öjebyn
-(Motorväg upphör / börjar)
+Motorväg upphör (nordgående))
+
+(T-korsning (enskild väg)
+(spansk sväng/endast skyltad sydgående)
+ Vändplats
+
+Trp Bertnäs (enskild väg)
+ Bertnäs
+ Kopparnäs
+
+Trp Kopparnäs E4 (enskild väg)
+(avfart sydgående riktning
+påfart nordgående riktning)
+ Kopparnäs
+
+Trp Norrfjärden
+ Holmträsk, Sjulsmark, Norrfjärden
+ Borgarudden, Granholmen (enskild väg)
+ Bensinstation: OKQ8, Circle-K
+ Restaurang: Toppen
