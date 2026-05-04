@@ -1480,6 +1480,8 @@ Trp Kopparnäs E4 (enskild väg)
 påfart nordgående riktning)
  Kopparnäs
 
+Bro över Alterälven
+
 Trp Norrfjärden
  Holmträsk, Sjulsmark, Norrfjärden
  Borgarudden, Granholmen (enskild väg)
@@ -1494,3 +1496,45 @@ Rastplats Harrbäcken
 Korsning Harrbäcken E4
  Gälön (enskild väg)
  Harrbäcken, Holsträsket (fiske)
+
+T-korsning (enskild väg, ej skyltad)
+(spansk sväng nordgående)
+
+Korsning Bastunäs E4
+ Trundön, Rosvik
+
+Korsning Rosviks handel (enskild väg)
+ Trädgårdsmöbler
+(Bro över Rosån)
+
+Korsning Rosvik E4
+ Trundön, Rosvik
+ Hälleström
+
+Korsning Rosviksbodarna (enskild väg)
+(spanska svängar båda riktningar)
+ Rosviksbodarna (sevärdhet), Vändplats
+
+Parkeringsplats (nordgående))
+
+T-korsning
+(spansk sväng sydgående)
+ Svedjan, Vändplats
+
+(Trafikkontrollplats (sydgående)
+
+Trp Ersnäs
+ Alhamn, Mörön, Vallen, Ersnäs
+ Sjulsmark
+
+Bro över Alån
+Jätteparkeringsficka (nordgående))
+
+T-korsning (enskild väg, sydgående)
+ Skäret
+
+Trp Antnäs
+ 94: Arvidsjaur, Älvsbyn, Antnäs
+ Kallax
+ Bensinstation: OKQ8
+
