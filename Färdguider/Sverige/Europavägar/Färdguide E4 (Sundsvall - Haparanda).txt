@@ -1403,3 +1403,65 @@ Trp Jävre Norra
  Hemmingsmark, Jävre N
  Jävre småstugor
 
+Vändplats (ej skyltad, spansk sväng nordgående))
+
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad sydgående)
+ Hattungen
+
+Dubbel Vändplats (ej skyltad)
+(spanska svängar båda riktningar)
+
+Korsning Högsböle E4
+ Pitsund, Högsböle
+
+Korsning Pitsund E4
+ Haraholmen, Munksund
+ Pite Havsbad
+
+Korsning
+ Pitsund, stugor
+
+Korsning Höglandsnäs E4 (enskild väg)
+ Höglandsnäs Ö
+ Burvik, Höglandsnäs V
+
+Dubbel Vändplats (ej skyltad)
+(spanska svängar båda riktningar)
+
+Korsning
+ Sandholmen (enskild väg)
+ Hortlax, Höglandsnäs
+
+Trp Storfors
+ Hortlax
+ Bergsviken
+
+Trp Bergsviken
+ 373: Arvidsjaur, Långträsk
+ Bergsviken
+
+Bro över Piteälven/Bergvikssundet (ca 400 m)
+
+Trp Piteå Södra
+ Munksund, Piteå C
+ Piteå Sjukhus
+ Bensinstation: Preem
+ Restaurang: Frasses
+					/)
+Järnvägsviadukt)
+ Piteåbanan
+
+Avfart Backen (nordgående))
+ Backen Affärscentrum
+ Bensinstation: INGO
+ Restaurang: MDonald's
+Motorväg börjar / upphör
+
+Trp Piteå Norra
+ 374: Älvsbyn, Öjebyn
+ Piteå, Universitet
+
+Trp Boviken
+ [374]: Älvsbyn, Öjebyn
+(Motorväg upphör / börjar)
