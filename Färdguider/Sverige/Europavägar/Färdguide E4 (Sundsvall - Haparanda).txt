@@ -1433,9 +1433,11 @@ Korsning
  Sandholmen (enskild väg)
  Hortlax, Höglandsnäs
 
-Trp Storfors
+Trp Hortlax
  Hortlax
  Bergsviken
+
+(Vändplats (ej skyltad, spansk sväng sydgående)
 
 Trp Bergsviken
  373: Arvidsjaur, Långträsk
@@ -1497,7 +1499,7 @@ Korsning Harrbäcken E4
  Gälön (enskild väg)
  Harrbäcken, Holsträsket (fiske)
 
-T-korsning (enskild väg, ej skyltad)
+T-korsning (enskild väg, ej skyltad))
 (spansk sväng nordgående)
 
 Korsning Bastunäs E4
@@ -1515,10 +1517,11 @@ Korsning Rosviksbodarna (enskild väg)
 (spanska svängar båda riktningar)
  Rosviksbodarna (sevärdhet), Vändplats
 
+Piteå / Luleå: (65.4798086,21.7373894)
+
 Parkeringsplats (nordgående))
 
-T-korsning
-(spansk sväng sydgående)
+T-korsning (spansk sväng sydgående)
  Svedjan, Vändplats
 
 (Trafikkontrollplats (sydgående)
@@ -1530,7 +1533,7 @@ Trp Ersnäs
 Bro över Alån
 Jätteparkeringsficka (nordgående))
 
-T-korsning (enskild väg, sydgående)
+(T-korsning (enskild väg, sydgående)
  Skäret
 
 Trp Antnäs
@@ -1538,3 +1541,40 @@ Trp Antnäs
  Kallax
  Bensinstation: OKQ8
 
+Trp Måttsund
+ Måttsund, Motorstadion
+ Måttsundsronningen
+
+Trp Gäddvik Södra
+ Bergnäset, Luleå Airport
+ Avan
+
+Nya Gäddviksbron-syd (ca 600 m)
+ Luleälven
+
+Nya Gäddviksbron-nord
+
+Trp Gäddvik Norra
+ Handel/Industri: Storheden
+ Järnvägsmuseum (sevärdhet)
+ Örnvik Hotell & Konferens
+ ARCUShallen, Camping, Stugby
+ Luleå Airport
+(Motortrafikled börjar / upphör)
+
+(Avfart+Påfart Storheden (sydgående)
+ Handel/Industri: Storheden
+
+Trp Notviken-syd
+ Luleå Centrum
+
+Trp Notviken-nord
+ 97: Jokkmokk, Boden
+ Gammelstad, Sjukhus
+
+Motortrafikled upphör / börjar
+
+Trp Rutvik
+ Porsön
+ Rutvik
+ Gammelstads kyrkby (världsarv)
