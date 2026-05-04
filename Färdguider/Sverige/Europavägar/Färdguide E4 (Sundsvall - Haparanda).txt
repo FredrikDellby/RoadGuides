@@ -1373,3 +1373,33 @@ Korsning Kinnbäck E4 (enskild väg)
 
 Västerbotten / Norrbotten: (65.0880493,21.4800506)
 Skellefteå / Piteå
+
+(Vändplats (spansk sväng sydgående, ej skyltad))
+
+T-korsning (enskild väg, spansk sväng nordgående)
+ Ej skyltad
+
+Korsning Jävrebodarna E4 (enskild väg)
+ Jävrebodarna, Fiskecamp
+
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad sydgående)
+ Hällskatan, Fölviken
+
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad sydgående)
+ Jävre Sandholmen, Grannässlätten
+
+(Bro över Jävreån (ej skyltad))
+Trp Jävre Södra
+ Jävre S
+ Bunäsvikens badplats
+ Rastplats Jävre Södra
+ Bensinstation: St1
+ Restaurang: McDonald's
+ Jävregården, Jävre ställplats
+
+Trp Jävre Norra
+ Hemmingsmark, Jävre N
+ Jävre småstugor
+
