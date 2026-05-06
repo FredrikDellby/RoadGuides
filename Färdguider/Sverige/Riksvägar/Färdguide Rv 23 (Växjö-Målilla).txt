@@ -129,8 +129,8 @@ Korsning Mästreda vägskäl (enskild väg)
 Korsning Galtabäck NO
  Galtabäck
 
-Nottebäck terminal (västra sidan)
-
+Nottebäck terminal (västra sidan))
+                    /)
 Trp Nottebäck
  28 s: Karlskrona
  31 s: Kalmar, Nybro
@@ -139,3 +139,160 @@ Trp Nottebäck
 Korsning Hult Rv 37
  Bredhälla, Naturreservat
  Nottebäck
+
+(Korsning (enskild väg))
+ Hultåkra
+ Skeda
+
+(T-korsning (enskild väg))
+ Skeda
+
+Korsning (enskild väg)
+ Tvinnesheda, Åker
+ Flybo, Rosenholm
+
+(T-korsning Broholm (enskild väg))
+ EcoNova (ej officiell skylt)
+
+T-korsning Linneberga (enskild väg)
+ Linneberga avfallsanläggning
+
+Korsning Badeboda (enskild väg)
+ Ridhus
+
+T-korsning Rv 23/Kexagatan (lokal väg)
+ Industri: Åseda V (endast förskyltad nordgående)
+
+Korsning Åseda S
+ Älghult
+ Centrum
+ Bensinstation: Preem
+
+T-korsning Rv 23/Hammarvägen (lokal väg)
+ Industri: Åseda Ö, Åseda S (endast skyltad nordgående?)
+
+Korsning Ekenäs (enskild väg)
+ Mada, Mörtelek, Hembygdsgård
+ Ekenäs
+
+T-korsning Sjömillan (enskild väg)
+ Sjömillan, Juvengård (restaurang)
+
+(Korsning (enskild väg))
+ Hökaryd, Kuttaboda
+
+T-korsning
+ 37 ö: Oskarshamn
+ 125 s: Kalmar
+
+(T-korsning (enskild väg))
+ Hökaryd, Kuttaboda
+
+Dubbel T-korsning
+ Rosenlund (enskild väg)
+ 125 n: Vetlanda, Hultanäs, Kakelfabriken
+
+(T-korsning Börsås (enskild väg))
+ Börsås
+
+Kronoberg / Kalmar
+Uppvidinge / Hultsfred
+
+(T-korsnin Bockaskögle S (enskild väg))
+ Bockaskögle
+
+(T-korsnin Bockaskögle N (enskild väg))
+ Bockaskögle
+
+Korsning Triabo Rv 23
+ Fagerhult, Skolmuseum
+ Triabo stn (enskild väg)
+
+(Korsning Tönshult (enskild väg))
+ Tönshult
+
+T-korsning (enskild väg)
+ Moren
+
+(Korsning Rödmossa (enskild väg))
+ Rödmossa
+
+Korsning Dackestupet
+ Björneström
+ Dackestupet (skidanläggning)
+
+Infopunkt Virserum S (nordgående))
+
+(Dubbel) T-korsning Virserums hembygdspark (lokal väg)
+ Virserums Hembygdspark
+
+T-korsning Virserum S
+ Fågelfors
+ More Kastell (sevärdhet)
+
+(Ordenshuset (västra sidan))
+T-korsning Rv 23/Österlånggatan (lokal väg)
+ Ishall
+
+Korsning Rv 23/Skolgatan (lokal väg)
+ Hotell Dacke
+
+(Bro över (ej skyltad))
+T-korsning Rv 23/Strandvägen (lokal väg))
+ Parkering Centrum (endast skyltad nordgående)
+
+T-korsning Virserum C
+ Bösebo
+ Virserums Konstall, Turistbyrå
+
+(T-korsning Rv 23/Länsmansgtatan (lokal väg))
+ Parkering Centrum (endast skyltad sydgående)
+T-korsning Rv 23/S. Järnvägsgatan
+ Stenberga, Järnvägsstation, Vandrarhem
+
+Tankställe Virserum (västra sidan)
+ Bensinstation: Gulf
+
+Korsning Rv 23/Bastugatan (lokal väg)
+ Industriområde
+Järnvägskorsning
+T-korsning Rv 23/Ekeflovägen
+ Skirö, Termolux
+
+(Infoplats Virserum N (sydgående)
+
+(T-korsning (enskild väg))
+ Vattenverk (väldigt liten skylt)
+
+(Bro över (ej skyltad))
+T-korsning Ålefors (enskild väg)
+ Slagdala, Kråketorp
+
+(Korsning Hultarp S (enskild väg))
+ Hultarp (asfalterad, ej skyltad)
+
+(Dubbel) T-korsning Hultarp N
+ Järnforsen
+ Hultarp (asfalterad, ej skyltad)
+
+(T-korsning (enskild väg))
+ Vrånganäs
+
+(T-korsning Skärslida vsk (enskild väg))
+ Skärslida
+
+T-korsning Flaten (enskild väg)
+ Ärnaskögle, Flatult
+ Dressincykling
+
+(T-korsning (enskild väg))
+ Flathult
+
+T-korsning Gårdveda V
+ L Sinnerstad, Gårdveda
+ Kristineberg Älgpark (vandrarhem/B&B)
+ Motorstadion, Gårdveda kapell
+
+Rondell
+ 23 n: Linköping
+ 47 ö: Oskarshamn, Målilla
