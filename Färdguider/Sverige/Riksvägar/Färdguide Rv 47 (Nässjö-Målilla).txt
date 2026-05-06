@@ -1,42 +1,82 @@
-Etapp 13: Gölgaryd - Björkeryd (18,4 km/18,4 km)
+Etapp 13: GÃ¶lgaryd - BjÃ¶rkeryd (18,4 km/18,4 km)
 
-Rondell Gölgaryd
- 31 n: Jönköping, Nässjö
- 40 v: Göteborg
- 47 v: Trollhättan
- 40 ö: Västervik, Eksjö
+Rondell GÃ¶lgaryd
+ 31 n: JÃ¶nkÃ¶ping, NÃ¤ssjÃ¶
+ 40 v: GÃ¶teborg
+ 47 v: TrollhÃ¤ttan
+ 40 Ã¶: VÃ¤stervik, EksjÃ¶
 					1.7 km/1.6 km	1 min 17 s/1 min 12 s
-Nässjö / Eksjö
+NÃ¤ssjÃ¶ / EksjÃ¶
 					2.9 km/2.9 km	2 min 11 s/2 min 11 s
+(Korsning (enskild vÃ¤g))
+ UgglekÃ¤rr
+
+(T-korsning (enskild vÃ¤g))
+ Broddarp
+
+T-korsning (enskild vÃ¤g)
+ Danstorp, LÃ¥ngstorp, Vimmenarp
+
 T-korsning
- 128 n: Eksjö
- 128 s: Sävsjö
+ 128 n: EksjÃ¶
+ 128 s: SÃ¤vsjÃ¶, StensjÃ¶n
+ Hotell: Ullinge
 					1.6 km/1.6 km	1 min 12 s/1 min 12 s
-Eksjö / Nässjö
+(Korsning (enskild vÃ¤g))
+ SkÃ¤rsboda, Hansarp
+
+EksjÃ¶ / NÃ¤ssjÃ¶
 					1.0 km/0.9 km	45 s/41 s
-Nässjö / Vetlanda
+NÃ¤ssjÃ¶ / Vetlanda
+
+(Korsning (enskild vÃ¤g))
+ SkÃ¤rsboda
+ MÃ¶rteryd, BodaskÃ¤gle
 					3.5 km/3.5 km	2 min 38 s/2 min 38 s
-Korsning Rödjenäs
- Stensjön
- Björköby
+(T-korsning (enskild vÃ¤g))
+ Aggarp
+ Aggarps GrÃ¶nsaksbod (ej skyltad)
+
+Korsning RÃ¶djenÃ¤s Rv 47
+ BjÃ¶rkÃ¶by, RÃ¶djenÃ¤s
+ NÃ¶mme (enskild vÃ¤g)
 					1.5 km/1.5 km	1 min 8 s/1 min 8 s
 Korsning
- Ryningsholm
- Björköby
+ BjÃ¶rkÃ¶by
+ Katteryd
+
+(Korsning (enskild vÃ¤g))
+ DrÃ¶mmeshult
 					3.5 km/3.5 km	2 min 38 s/2 min 38 s
 T-korsning Lygneshult
- Björköby
+ BjÃ¶rkÃ¶by
 					2.4 km/2.4 km	1 min 48 s/1 min 48 s
-Korsning Björkeryd V
- Karstorp
- Björkeryd
-					0.3 km/0.4 km	14 s/18 s
-T-korsning Björkeryd S
- 32 n: Mjölby, Eksjö
+(T-korsning (enskild vÃ¤g))
+ Tuveryd
+(Korsning (enskild vÃ¤g))
+ BjÃ¶rkeryd
 
-Etapp 14: Björkeryd - Vetlanda (14,9 km/14,9 km)
+Korsning BjÃ¶rkeryd V
+ Bo
+ BjÃ¶rkeryd (enskild vÃ¤g)
+					0.3 km/0.4 km	14 s/18 s
+T-korsning BjÃ¶rkeryd S
+ 32 n: MjÃ¶lby, EksjÃ¶
+
+Etapp 14: BjÃ¶rkeryd - Vetlanda (14,9 km/14,9 km)
 					8.2 km/8.3 km	7 min 2 s/7 min 7 s
-Korsning (enskild väg)
+T-korsning Hult vÃ¤gskÃ¤l (enskild vÃ¤g)
+ HallamÃ¥la, Ã„skÃ¥s
+ Ney's Elektronik
+
+(Dubbel) T-korsning EkenÃ¤ssjÃ¶n N (lokal vÃ¤g)
+ Kopparp
+ Museum
+
+Korsning Rv 47/Brunnsgatan (lokal vÃ¤g)
+ Parkering Skola
+
+Korsning (enskild vÃ¤g)
 Bensinstation: Q-star
 Rastplats Vetlanda
 					1.3 km/1.2 km	1 min 7 s/1 min 2 s
@@ -44,158 +84,158 @@ Rondell Nydala
  Nydala industriomr.
  Vetlanda N, C
 					0.5 km/0.4 km	26 s/21 s
-Järnvägskorsning
- Nässjö-Åseda
+JÃ¤rnvÃ¤gskorsning
+ NÃ¤ssjÃ¶-Ã…seda
 					1.3 km/1.6 km	1 min 7 s/1 min 22 s
 Rondell Vetlanda V
- 127: Värnamo, Sävsjö
+ 127: VÃ¤rnamo, SÃ¤vsjÃ¶
  Vetlanda Centrum
 T-korsning Vetlanda GK
  Vetlanda Golfklubb
 					1.6 km/1.4 km	1 min 22 s/1 min 12 s
 T-korsning Vetlanda SV
- Östanå
+ Ã–stanÃ¥
 					1.5 km/1.6 km	1 min 17 s/1 min 22 s
-Dubbel T-korsning Brogård S
- Bäckseda
- Brogård industriomr.
+Dubbel T-korsning BrogÃ¥rd S
+ BÃ¤ckseda
+ BrogÃ¥rd industriomr.
 					0.3 km/0.4 km	22 s/29 s
-Järnvägskorsning
- Nässjö-Åseda
+JÃ¤rnvÃ¤gskorsning
+ NÃ¤ssjÃ¶-Ã…seda
 Rondell Vetlanda S
  31 s: Kalmar, Nybro
-(1+1-väg börjar / upphör)
+(1+1-vÃ¤g bÃ¶rjar / upphÃ¶r)
 
 Etapp 15: Vetlanda - Kvillsfors (29,9 km/29,9 km)
 					1.3 km/1.2 km	1 min 7 s/1 min 2 s
 Trp Vetlanda SO
  125: Fagerhult
  Vetlanda Centrum
- Kettilsås ski center, Nyås
+ KettilsÃ¥s ski center, NyÃ¥s
 					0.6 km/0.8 km	31 s/41 s
-Järnvägskorsning
- Emådalsbanan
-T-korsning Vetlanda Ö
+JÃ¤rnvÃ¤gskorsning
+ EmÃ¥dalsbanan
+T-korsning Vetlanda Ã–
  Vetlanda Centrum
 					1.7 km/1.4 km	1 min 27 s/1 min 12 s
-Korsning (enskild väg)
-(1+1-väg / 2+1-väg)
+Korsning (enskild vÃ¤g)
+(1+1-vÃ¤g / 2+1-vÃ¤g)
 
-Korsning Flugeby (enskild väg)
+Korsning Flugeby (enskild vÃ¤g)
  Alsborg
 					2.4 km/2.4 km	2 min 3 s/2 min 3 s
 T-korsning Sjunnen S
  Holsbybrunn, Sjunnen
- Sevärdehet: Kleva gruva
+ SevÃ¤rdehet: Kleva gruva
 
-Järnvägsviadukt
- Emådalsbanan
+JÃ¤rnvÃ¤gsviadukt
+ EmÃ¥dalsbanan
 
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  Sunnerskog
  (Alseda)
 
-(2+1-väg upphör / börjar)
-Dubbel T-korsning Fröknabo
+(2+1-vÃ¤g upphÃ¶r / bÃ¶rjar)
+Dubbel T-korsning FrÃ¶knabo
  Alseda
  Nye
 					3.4 km/3.7 km	2 min 55 s/3 min 10 s
 T-korsning Repperda V
- Pauliström, Ökna, Ädelfors
- Sevärdehet: Ädelfors guldrike
+ PaulistrÃ¶m, Ã–kna, Ã„delfors
+ SevÃ¤rdehet: Ã„delfors guldrike
 
-T-korsning Repperda Ö
- Skirö
- Sevärdehet/Hotel: Wallby Säteri
+T-korsning Repperda Ã–
+ SkirÃ¶
+ SevÃ¤rdehet/Hotel: Wallby SÃ¤teri
 					7.3 km/7.0 km	6 min 15 s/6 min 0 s
-T-korsning Sjöarpsvägen
- Skirö		
+T-korsning SjÃ¶arpsvÃ¤gen
+ SkirÃ¶		
 					4.3 km/4.3 km	3 min 41 s/3 min 41 s
-(Korsning Harghultsvägen)
- Skinskälla, Harghult (enskild väg)
+(Korsning HarghultsvÃ¤gen)
+ SkinskÃ¤lla, Harghult (enskild vÃ¤g)
  Loppis
 
 T-korsning Kvillsfors
- Pauliström, Ökna
+ PaulistrÃ¶m, Ã–kna
 
-Etapp 16: Kvillsfors - Målilla (18,6 km/18,6 km)
+Etapp 16: Kvillsfors - MÃ¥lilla (18,6 km/18,6 km)
 
-T-korsning Rv 47/Centrumgatan (lokal väg)
+T-korsning Rv 47/Centrumgatan (lokal vÃ¤g)
  Skola, Storkens Loppis
-T-korsning (enskild väg)
+T-korsning (enskild vÃ¤g)
  JRG Pallfabriken
  Bensinstation: Q-star
 Restaurang: Steens
 					0.8 km/0.8 km	58 s/58 s
-(Järnvägsviadukt)
- Emådalsbanan
-T-korsning Nyboholm (enskild väg)
- Qvillö, Metsä Tissue
+(JÃ¤rnvÃ¤gsviadukt)
+ EmÃ¥dalsbanan
+T-korsning Nyboholm (enskild vÃ¤g)
+ QvillÃ¶, MetsÃ¤ Tissue
 					1.3 km/1.3 km	1 min 34 s/1 min 34 s
 (Infoplats)
-Jönköping / Kalmar
+JÃ¶nkÃ¶ping / Kalmar
 Vetlanda / Hultsfred
-(Bro över Emån)
+(Bro Ã¶ver EmÃ¥n)
 
-T-korsning Håkantorp (enskild väg)
- NorDan, Träindustri
+T-korsning HÃ¥kantorp (enskild vÃ¤g)
+ NorDan, TrÃ¤industri
 					5.5 km/5.6 km	4 min 43 s/4 min 48 s
-T-korsning Fröreda (enskild väg)
- Sevärdehet: Fröreda Storegård
+T-korsning FrÃ¶reda (enskild vÃ¤g)
+ SevÃ¤rdehet: FrÃ¶reda StoregÃ¥rd
 
-Bro över
+Bro Ã¶ver
 (Rastplats)
 
-Korsning Rv 47/Delängsgatan
- Enskild väg, Järnforsens Mekaniska
- Café: Räven & Osten
+Korsning Rv 47/DelÃ¤ngsgatan
+ Enskild vÃ¤g, JÃ¤rnforsens Mekaniska
+ CafÃ©: RÃ¤ven & Osten
 
-Korsning Järnforsen Rv 47
+Korsning JÃ¤rnforsen Rv 47
  Virserum
 
-Tankställe Järnforsen
+TankstÃ¤lle JÃ¤rnforsen
  Bensinstation: Q-star
 					1.4 km/1.3 km	1 min 24 s/1 min 18 s
-Infoplats (västgående)
+Infoplats (vÃ¤stgÃ¥ende)
 
-T-korsning Klövdala gård
- Karlstorp, Pauliström, Entsebo
+T-korsning KlÃ¶vdala gÃ¥rd
+ Karlstorp, PaulistrÃ¶m, Entsebo
 					8.4 km/8.4 km	7 min 12 s/7 min 12 s
-T-korsning Västra Årena (enskild väg)
- Sevärdehet: Lundens naturreservat
+T-korsning VÃ¤stra Ã…rena (enskild vÃ¤g)
+ SevÃ¤rdehet: Lundens naturreservat
 
-T-korsning (enskild väg)
- Stora Hammarsjön
+T-korsning (enskild vÃ¤g)
+ Stora HammarsjÃ¶n
 
-Rondell Målilla V
- 23 s: Växjö, Åseda
- Målilla Kyrka
+Rondell MÃ¥lilla V
+ 23 s: VÃ¤xjÃ¶, Ã…seda
+ MÃ¥lilla Kyrka
 					0.9 km/0.9 km	46 s/46 s
-Järnvägskorsning
- Smalspåret Växjö-Västervik
+JÃ¤rnvÃ¤gskorsning
+ SmalspÃ¥ret VÃ¤xjÃ¶-VÃ¤stervik
 T-korsning Rv 47/Sanatoriev.
- MOK-stugan (Paus Bagarstuga Målilla)
+ MOK-stugan (Paus Bagarstuga MÃ¥lilla)
  Rastplats
 					1.7 km/1.9 km	1 min 42 s/1 min 54 s
-Rondell Målilla N
- 23-34 n: Linköping, Hultsfred
- 34 s: Kalmar, Högsby
- 47 ö: Oskarshamn
+Rondell MÃ¥lilla N
+ 23-34 n: LinkÃ¶ping, Hultsfred
+ 34 s: Kalmar, HÃ¶gsby
+ 47 Ã¶: Oskarshamn
  Bensinstation: INGO
 
 
 
 Korsning Sjunnen
- Hjältevad, Skede
+ HjÃ¤ltevad, Skede
 					2.4 km/2.4 km	2 min 53 s/2 min 53 s
 T-korsning Holsbybrunn
  Skede
-Järnvägskorsning
- Emådalsbanan
+JÃ¤rnvÃ¤gskorsning
+ EmÃ¥dalsbanan
 					2.7 km/2.7 km	2 min 42 s/2 min 42 s
-T-korsning Aspö
+T-korsning AspÃ¶
  Karlstorp, Vagnhester
 					0.9 km/0.9 km	46 s/46 s
 T-korsning Alseda kyrka
- Hässle
+ HÃ¤ssle
 					1.0 km/1.0 km	51 s/51 s
