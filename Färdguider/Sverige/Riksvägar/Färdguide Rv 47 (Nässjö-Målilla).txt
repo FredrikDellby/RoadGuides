@@ -69,6 +69,8 @@ T-korsning Hult vägskäl (enskild väg)
  Hallamåla, Äskås
  Ney's Elektronik
 
+Mötesseparering börjar / upphör
+
 (Dubbel) T-korsning Ekenässjön N (lokal väg)
  Kopparp
  Museum
@@ -76,37 +78,82 @@ T-korsning Hult vägskäl (enskild väg)
 Korsning Rv 47/Brunnsgatan (lokal väg)
  Parkering Skola
 
-Korsning (enskild väg)
-Bensinstation: Q-star
-Rastplats Vetlanda
+Korsning Rv 47/Furuvägen (lokal väg)
+ Industri: Mossbråsa (endast skyltad sydgående)
+Ekenäs Bil & Fordonsvård (norra sidan)
+
+Korsning Rv 47/Stationsgatan (lokal väg)
+ Ekebogården Äldreboende Parkering
+ Restaurang: Pizzeria Napoli
+
+(T-korsning Rv 47/Karlavägen (lokal väg))
+ Ej skyltad
+T-korsning (lokal väg)
+ Ekenässjöns kyrka
+
+(T-korsning Rv 47/Egnahemsvägen (lokal väg))
+ Ej skyltad
+
+T-korsning Rv 47/Värngatan (lokal väg)
+ Industri: Värmunderyd
+
+Mötesseparerin upphör / börjar
+
+Dubbel T-korsning Ekenässjön S (lokal väg)
+ St Sälleryd, Handelsträdgård
+ Industri: Ekenäs
+
+(T-korsning Tällerda (enskild väg))
+ Tångerda
+
+Bensinstation: Q-star (norra sidan)
+
+T-korsning Föredavägen (enskild väg)
+(spansk sväng/endast förskyltad västgående)
+ Föreda
+Rastplats Vetlanda (endast skyltad östgående))
 					1.3 km/1.2 km	1 min 7 s/1 min 2 s
-Rondell Nydala
- Nydala industriomr.
- Vetlanda N, C
+Avfart+Påfart Kolvägen (västgående)
+
+Nydalarondellen
+ Industri: Nydala
+ Vetlanda N, Centrum
+
+Etapp 15: Förbi Vetlanda
 					0.5 km/0.4 km	26 s/21 s
 Järnvägskorsning
- Nässjö-Åseda
+ Nässjö-Vetlanda
 					1.3 km/1.6 km	1 min 7 s/1 min 22 s
-Rondell Vetlanda V
+Lövhagsrondellen 
  127: Värnamo, Sävsjö
  Vetlanda Centrum
 T-korsning Vetlanda GK
- Vetlanda Golfklubb
+ Industri: Nässja N
 					1.6 km/1.4 km	1 min 22 s/1 min 12 s
+T-korsning Rv 47/Snickarvägen (lokal väg)
+ Industri: Nässja S
+
 T-korsning Vetlanda SV
  Östanå
+ Centrum, Industri: Tomasbacken
+ Östanå Camping, Badplats, Vetlanda GK
 					1.5 km/1.6 km	1 min 17 s/1 min 22 s
-Dubbel T-korsning Brogård S
+Korsning Rv 47/Stålvägen (lokal väg)
+ Elitfönster Produktion
+ Gods: Hydro gods
+
+Trippel T-korsning Brogård S (lokal väg)
  Bäckseda
- Brogård industriomr.
+ Industri: Brogård
+ (Ej skyltad)
 					0.3 km/0.4 km	22 s/29 s
-Järnvägskorsning
- Nässjö-Åseda
-Rondell Vetlanda S
+Hargenrondellen
+ 28 s: Karlskrona
  31 s: Kalmar, Nybro
+ Centrum, Infoplats
 (1+1-väg börjar / upphör)
 
-Etapp 15: Vetlanda - Kvillsfors (29,9 km/29,9 km)
+Etapp 16: Vetlanda - Kvillsfors (29,9 km/29,9 km)
 					1.3 km/1.2 km	1 min 7 s/1 min 2 s
 Trp Vetlanda SO
  125: Fagerhult
@@ -158,7 +205,7 @@ T-korsning Sjöarpsvägen
 T-korsning Kvillsfors
  Pauliström, Ökna
 
-Etapp 16: Kvillsfors - Målilla (18,6 km/18,6 km)
+Etapp 17: Kvillsfors - Målilla (18,6 km/18,6 km)
 
 T-korsning Rv 47/Centrumgatan (lokal väg)
  Skola, Storkens Loppis
