@@ -1,110 +1,110 @@
-Etapp 7: Båberg - Dykällan (17,3 km/16,6 km)
+Etapp 7: BÃ¥berg - DykÃ¤llan (17,3 km/16,6 km)
 
-Trafikplats Båberg
- E45 s: Göteborg, Trollhättan
- 44 ö: Mariestad, Lidköping
+Trafikplats BÃ¥berg
+ E45 s: GÃ¶teborg, TrollhÃ¤ttan
+ 44 Ã¶: Mariestad, LidkÃ¶ping
  44 v: Uddevalla
 					1,2 km/0,6 km	48 s/28 s		90
-Trafikplats Möjered
+Trafikplats MÃ¶jered
  Trestad Center
 					0,5 km/0,4 km	20 s/16 s
-Järnvägsviadukt
- Älvsborgsbanan
+JÃ¤rnvÃ¤gsviadukt
+ Ã„lvsborgsbanan
 					0,5 km/0,8 km	20 s/32 s
-Trafikplats Götered
- Öxnered, Vänersborg V
+Trafikplats GÃ¶tered
+ Ã–xnered, VÃ¤nersborg V
 					1,1 km/1,4 km	44 s/56 s
 Rastplats Karlsro
 Rastplats Botered
  Restaurang: Pausgrillen
 					1,6 km/1,0 km	1 min 4 s/0 min 40 s
-Korsning (enskild väg)
+Korsning (enskild vÃ¤g)
  Botered
 					0,8 km/0,8 km	32 s/32 s
 T-korsning Kristinelund
- Kristinelund, Älmerud
-(Järnvägsviadukt)
- Vänerbanan
+ Kristinelund, Ã„lmerud
+(JÃ¤rnvÃ¤gsviadukt)
+ VÃ¤nerbanan
 					0,8 km/1,5 km	0 min 32 s/1 min 0 s
-Trp Vänersborg
- Vänersborg N, C, Vargön
+Trp VÃ¤nersborg
+ VÃ¤nersborg N, C, VargÃ¶n
  Bensinstation: INGO
 					1,5 km/0,6 km	1 min 0 s/0 min 24 s
-T-korsning Rössebovägen
- Rösebo, Brasmerud
+T-korsning RÃ¶ssebovÃ¤gen
+ RÃ¶sebo, Brasmerud
 					2,7 km/2,8 km	2 min 2 s/2 min 6 s
-T-korsning Gestadvägen
- Timmervik, Bäsingebo
+T-korsning GestadvÃ¤gen
+ Timmervik, BÃ¤singebo
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
 T-korsning Flybo
  Flybo
 					3,5 km/3,5 km	2 min 38 s/2 min 38 s
-Järnvägsviadukt
- Vänerbanan
+JÃ¤rnvÃ¤gsviadukt
+ VÃ¤nerbanan
 					0,6 km/0,6 km	27 s/27 s
-T-korsning Ängen
+T-korsning Ã„ngen
  Brasmerud
  Bensinstation: INGO
 					0,8 km/0,8 km	36 s/36 s
-T-korsning Dykällan
- 173: Färgelanda, Stigen
+T-korsning DykÃ¤llan
+ 173: FÃ¤rgelanda, Stigen
 
-Etapp 8: Dykällan - Brålanda (10,0 km/10,3 km)
+Etapp 8: DykÃ¤llan - BrÃ¥landa (10,0 km/10,3 km)
 					0,9 km/0,9 km	41 s/41 s
-T-korsning Ekenäsvägen
- Ekenäs
+T-korsning EkenÃ¤svÃ¤gen
+ EkenÃ¤s
 
-T-korsning Frändefors skola (lokalt mål)
- Frändefors skola
+T-korsning FrÃ¤ndefors skola (lokalt mÃ¥l)
+ FrÃ¤ndefors skola
 					0,9 km/1,1 km	0 min 54 s/1 min 6 s
-T-korsning Frändefors
+T-korsning FrÃ¤ndefors
  Timmervik
-Korsning Frändefors
- Flicksäter
+Korsning FrÃ¤ndefors
+ FlicksÃ¤ter
 
-Tankställe Frändefors
- Frändefors Oljehall
-Europavägens Pizzeria/Restaurang
+TankstÃ¤lle FrÃ¤ndefors
+ FrÃ¤ndefors Oljehall
+EuropavÃ¤gens Pizzeria/Restaurang
 					1,3 km/1,2 km	1 min 18 s/1 min 12 s
-T-korsning Nordgården
- Enskild väg
-Järnvägskorsning
- Vänerbanan
+T-korsning NordgÃ¥rden
+ Enskild vÃ¤g
+JÃ¤rnvÃ¤gskorsning
+ VÃ¤nerbanan
 					2,0 km/1,9 km	1 min 30 s/1 min 26 s
 T-korsning Asmundebyn
- Enskild väg
+ Enskild vÃ¤g
 					1,7 km/1,7 km	1 min 17 s/1 min 17 s
 T-korsning Nuntorp
- Enskild väg
+ Enskild vÃ¤g
 					0,3 km/0,3 km	14 s/14 s
 T-korsning Salbo
  Timmervik
 					2,9 km/3,2 km	2 min 11 s/2 min 24 s
-Dubbel T-korsning Toppfrys (enskild väg)
+Dubbel T-korsning Toppfrys (enskild vÃ¤g)
 
-Q-star Brålanda
+Q-star BrÃ¥landa
  FRENDO servicebutik
-T-korsning Brålanda/E45
+T-korsning BrÃ¥landa/E45
  Centrum, Sundals-Ryr
  Bensinstation: OKQ8
  Restaurang: RASTA, Burger King
 
-Etapp 9: Brålanda - Mellerud (18,3 km/18,3 km)
+Etapp 9: BrÃ¥landa - Mellerud (18,3 km/18,3 km)
 
-Avfart Rasta Brålanda
-(sydgående riktning)
+Avfart Rasta BrÃ¥landa
+(sydgÃ¥ende riktning)
  Bensinstation: OKQ8
  Restaurang: RASTA
 					1,0 km/0,6 km	1 min 0 s/0 min 36 s
-Café Gula Huset
+CafÃ© Gula Huset
 					0,3 km/0,3 km	18 s/18 s
-T-korsning Östebyn
- Brålanda, Stigen
+T-korsning Ã–stebyn
+ BrÃ¥landa, Stigen
 					0,6 km/0,6 km	27 s/27 s
-T-korsning Brålanda Kyrka
- Brålanda K:a, Gällnäs
+T-korsning BrÃ¥landa Kyrka
+ BrÃ¥landa K:a, GÃ¤llnÃ¤s
 					1,1 km/1,1 km	50 s/50 s
-Vänersborg / Mellerud
+VÃ¤nersborg / Mellerud
 					0,9 km/0,9 km	41 s/41 s
 Korsning Vena
  Bolstad, Dalaborg
@@ -116,287 +116,306 @@ Korsning Bergs Kullar
 Rastplats Bergs Kullar
 					2,7 km/2,7 km	2 min 2 s/2 min 2 s
 T-korsning Erikstad
- Åsebro
+ Ã…sebro
 
-Järnvägskorsning
- Vänerbanan
+JÃ¤rnvÃ¤gskorsning
+ VÃ¤nerbanan
 					0,6 km/0,4 km	36 s/24 s
-T-korsning Äckerud
- Högen
+T-korsning Ã„ckerud
+ HÃ¶gen
 					3,4 km/3,4 km	2 min 33 s/2 min 33 s
 Korsning Svecklingebyn
- Ör
+ Ã–r
 					1,4 km/1,4 km	1 min 3 s/1 min 3 s
 Korsning Kambol
- Järn
+ JÃ¤rn
  Gatan, St. Rud
 					3,0 km/3,2 km	2 min 15 s/2 min 24 s
-T-korsning Läperud (enskild väg)
- Åsnebyns kulturreservat
+T-korsning LÃ¤perud (enskild vÃ¤g)
+ Ã…snebyns kulturreservat
 
-Rondell Mellerud södra
- Mellerud Centrum
+Infoplats Mellerud sÃ¶dra (nordgÃ¥ende)
 
-Bensinstation: Preem
-Korsning E45/Linnégatan
- Pizzeria och Gatukök 45:an
+Rondell Mellerud sÃ¶dra
+ Grinstad
+ Industri: SÃ¶dra, Ã–stra
+ Centrum, Parkering, Infoplats
+ Vita Sannar Camping & Stugby
 
-T-korsning E45/Tingsgatan
- Wärdshuset på Dal
-T-korsning E45/Storgatan
+Bensinstation: Preem (vÃ¤stra sidan)
+
+Korsning E45/LinnÃ©gatan (lokal vÃ¤g)
+ Bensinstation: Tanka
+ Pizzeria och GatukÃ¶k 45:an
+
+T-korsning E45/Nygatan (lokal vÃ¤g)
+ Centrum, Parkering, Infoplats
+
+T-korsning E45/Tingshusgatan (lokal vÃ¤g)
+ WÃ¤rdshuset pÃ¥ Dal/Dinners Mellerud
+T-korsning E45/Storgatan (lokal vÃ¤g))
+(ej skyltad, ej infart sydgÃ¥ende)
  Centrum
- Café Nyfiket
+ CafÃ© Nyfiket
 					0,3 km/0,2 km	22 s/14 s
-Rondell E45/166
- 166: Halden, Bäckefors
+Rondell E45/Lv 166
+ 166: Ed, BÃ¤ckefors
+ [172]: Bengtsfors
  Dals-Rostock
  Bensinstation: St1
 
-Etapp 10: Mellerud - Köpmannebro (9,7 km/9,7 km)
+Etapp 10: Mellerud - KÃ¶pmannebro (9,7 km/9,7 km)
+
+T-korsning E45/Verkstadsgatan (lokal vÃ¤g)
+ HandelsomrÃ¥de
 					0,4 km/0,6 km	18 s/27 s
-Dubbel T-korsning Mellerud norra (lokalt mål)
- Västra industriomr.
- Tomtehuset
+Dubbel T-korsning Mellerud norra (lokalt mÃ¥l)
+ Industri: VÃ¤stra
+ Rum och frukost
  Bensinstation: Q-star
+Infoplats Mellerud norra (sydgÃ¥ende)
 					1,6 km/1,4 km	1 min 12 s/1 min 3 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  DVVJ
-T-korsning Vässby
- Holm
+T-korsning VÃ¤ssby
+ SunnanÃ¥, Holms k:a
+ Vita Sannar Camping & Stugby
 					1,4 km/1,3 km	1 min 3 s/0 min 59 s
-T-korsning Nordkärr
- Håverud, Åsensbruk
- Klädvaruhuset
+T-korsning NordkÃ¤rr
+ HÃ¥verud, Ã…sensbruk
+ Akvedukt (sevÃ¤rdhet), Dalsland Center
+ Bloms KlÃ¤dvaruhus
 					0,4 km/0,5 km	16 s/20 s
-Korsning Framnäs
- Enskild väg
+Korsning FramnÃ¤s (enskild vÃ¤g)
+(spanska svÃ¤ngar bÃ¥da riktningar)
+ FramnÃ¤s
 					0,9 km/1,0 km	36 s/40 s
 Rastplats Linderud
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,5 km/0,3 km	20 s/12 s
 Country Thyme
 					0,6 km/0,7 km	24 s/28 s
-Parkeringsplats (sydgående)
+Parkeringsplats (sydgÃ¥ende)
 					0,7 km/0,7 km	28 s/28 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,8 km/0,8 km	32 s/32 s
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,8 km/0,7 km	32 s/28 s
-T-korsning (nordgående riktning)
- Enskild väg
+T-korsning (nordgÃ¥ende riktning)
+ Enskild vÃ¤g
 
-T-korsning Svärdsviken
- Skållerud				1,0 km/1,1 km	40 s/44 s
+T-korsning SvÃ¤rdsviken
+ SkÃ¥llerud				1,0 km/1,1 km	40 s/44 s
 
-Korsning Köpmannebro S
- Köpmannebro
+Korsning KÃ¶pmannebro S
+ KÃ¶pmannebro
 					0,9 km/0,8 km	41 s/36 s
-(Bron vid Köpmannebro)
+(Bron vid KÃ¶pmannebro)
  Dalslands kanal, 260 m
-T-korsning Köpmannebro N
- Köpmannebro
+T-korsning KÃ¶pmannebro N
+ KÃ¶pmannebro
 
-Etapp 11: Köpmannebro - Tösse (23,4 km/23,5 km)
+Etapp 11: KÃ¶pmannebro - TÃ¶sse (23,4 km/23,5 km)
 
 Korsning
- Enskild väg
+ Enskild vÃ¤g
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
 Korsning Ransberg
- Enskild väg
+ Enskild vÃ¤g
 					2,2 km/2,1 km	1 min 28 s/1 min 24 s
-T-korsning Kärrkil
- Snäcke
+T-korsning KÃ¤rrkil
+ SnÃ¤cke
 					1,0 km/1,2 km	40 s/48 s
-Mellerud / Åmål
-Korsning Äskekärr
- Enskild väg
+Mellerud / Ã…mÃ¥l
+Korsning Ã„skekÃ¤rr
+ Enskild vÃ¤g
  Rastplats Vassviken
 					0,9 km/0,7 km	36 s/28 s
-Korsning Bolet korsväg
- Fengerfor	s, Ånimskog K:a
+Korsning Bolet korsvÃ¤g
+ Fengerfor	s, Ã…nimskog K:a
 					1,5 km/1,6 km	1 min 0 s/1 min 4 s
-Korsning Årbol
- Enskild väg
+Korsning Ã…rbol
+ Enskild vÃ¤g
 					3,8 km/3,7 km	2 min 32 s/2 min 28 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
 T-korsning Bollsbyn
- Enskild väg
+ Enskild vÃ¤g
 					0,6 km/0,6 km	31 s/31 s
 (Bill's Grill and Mini Mart)
-Korsning Ånimskog	
- Fengerfors, Ånimskogs K:a
+Korsning Ã…nimskog	
+ Fengerfors, Ã…nimskogs K:a
 					1,6 km/1,6 km	1 min 22 s/1 min 22 s
 Korsning Krusebol
- Ö. Bodane
- Enskild väg
+ Ã–. Bodane
+ Enskild vÃ¤g
 					0,7 km/0,7 km	32 s/32 s
-Korsning Lilla Bräcke
- Ånimskogs K:a
+Korsning Lilla BrÃ¤cke
+ Ã…nimskogs K:a
 					1,5 km/1,5 km	1 min 8 s/1 min 8 s
 Korsning Sannerud
- Ånimskogs K:a
- Enskild väg
+ Ã…nimskogs K:a
+ Enskild vÃ¤g
 					6,4 km/6,4 km	4 min 48 s/4 min 48 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Skäggebol
- Enskild väg
-
-T-korsning
- Enskild väg
-
-Korsning Hult (enskild väg)
- Bygdegård
+Korsning SkÃ¤ggebol
+ Enskild vÃ¤g
 
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 
-Korsning Västanå
- Enskild väg
+Korsning Hult (enskild vÃ¤g)
+ BygdegÃ¥rd
+
+T-korsning
+ Enskild vÃ¤g
+
+Korsning VÃ¤stanÃ¥
+ Enskild vÃ¤g
 
 Korsning
  Sandbol
 					0,5 km/0,7 km	23 s/32 s
 Dubbel T-korsning Torpane
- Enskild väg
- Restaurang: Tössestugan
+ Enskild vÃ¤g
+ Restaurang: TÃ¶ssestugan
 					1,0 km/0,8 km	45 s/36 s
 Bensinstation: Circle-K
-T-korsning Tösse kyrka
+T-korsning TÃ¶sse kyrka
  Fengerfors
 
-Etapp 12: Tösse - Åmål (11,3 km/11,3 km)
+Etapp 12: TÃ¶sse - Ã…mÃ¥l (11,3 km/11,3 km)
 					0,4 km/0,4 km	18 s/18 s
-T-korsning Tösse E45
- Tösse
+T-korsning TÃ¶sse E45
+ TÃ¶sse
 					1,3 km/1,3 km	59 s/59 s
-T-korsning Tösse N
- Tösse
+T-korsning TÃ¶sse N
+ TÃ¶sse
 					0,3 km/0,3 km	14 s/14 s
-Järnvägsviadukt
- Vänerbanan
+JÃ¤rnvÃ¤gsviadukt
+ VÃ¤nerbanan
 					4,3 km/4,3 km	3 min 14 s/3 min 14 s
-T-korsning Bjärkebol
- Åmål S
+T-korsning BjÃ¤rkebol
+ Ã…mÃ¥l S
  Travbana
 					0,5 km/0,5 km	23 s/23 s
-Järnvägsviadukt
- Vänerbanan
+JÃ¤rnvÃ¤gsviadukt
+ VÃ¤nerbanan
 					2,4 km/2,7 km	1 min 48 s/2 min 2 s
-Järnvägskorsning
+JÃ¤rnvÃ¤gskorsning
  Svanskogsbanan
 T-korsning E45/Industrigatan
 					0,6 km/0,5 km	31 s/26 s
-Infoplats (nordgående)
+Infoplats (nordgÃ¥ende)
 					0,4 km/0,4 km	21 s/21 s
-Korsning Åmål V
- Åmål C
+Korsning Ã…mÃ¥l V
+ Ã…mÃ¥l C
  Jakobsbyn
 Bensinstation: OKQ8, Norsk Hydro
 					0,5 km/0,5 km	26 s/26 s
-Infoplats (sydgående)
+Infoplats (sydgÃ¥ende)
 					0,6 km/0,6 km	31 s/31 s
-Rondell Åmål NV
- Åmål C
- 164: Strömstad, Bengtsfors
+Rondell Ã…mÃ¥l NV
+ Ã…mÃ¥l C
+ 164: StrÃ¶mstad, Bengtsfors
 
-Etapp 13: Åmål - Säffle (19,1 km/19,1 km)
+Etapp 13: Ã…mÃ¥l - SÃ¤ffle (19,1 km/19,1 km)
 					2,2 km/2,2 km	1 min 53 s/1 min 53 s
 (Korsning)
 
-Korsning Åmål N
- Åmål Centrum
+Korsning Ã…mÃ¥l N
+ Ã…mÃ¥l Centrum
 					1.0 km/1,0 km	45 s/45 s
 T-korsning Kasenberg S
  Svanskog, Mo
 					0,7 km/0,8 km	28 s/32 s
 T-korsning
- Enskild väg
+ Enskild vÃ¤g
 					0,6 km/0,5 km	24 s/20 s
 T-korsning Berga
- Kila, Gärdesbyn
+ Kila, GÃ¤rdesbyn
 					1,5 km/1,8 km	1 min 0 s/1 min 12 s
-Trp Östby
- Östby (enskild väg)
+Trp Ã–stby
+ Ã–stby (enskild vÃ¤g)
 					1,5 km/1,2 km	1 min 0 s/0 min 48 s
 T-korsning
- Återvinning
+ Ã…tervinning
 					0,3 km/0,4 km	12 s/16 s
-Västra Götaland / Värmland
-Infoplats (sydgående)
+VÃ¤stra GÃ¶taland / VÃ¤rmland
+Infoplats (sydgÃ¥ende)
 					1,7 km/1,6 km	1 min 8 s/1 min 4 s
-Korsning Avelsäter
- Enskild väg
+Korsning AvelsÃ¤ter
+ Enskild vÃ¤g
 					2,2 km/2,4 km	1 min 28 s/1 min 36 s
 Dubbel T-korsning Tveta
- Enskild väg
+ Enskild vÃ¤g
 					2,1 km/1,9 km	1 min 24 s/1 min 17 s
 Korsning Lerbyn
- Enskild väg
+ Enskild vÃ¤g
 					1,6 km/1,6 km	1 min 4 s/1 min 4 s
 Korsning Guttane
- Enskild väg
+ Enskild vÃ¤g
 					2,0 km/2,5 km	1 min 20 s/1 min 40 s
-(Infoplats (nordgående))
+(Infoplats (nordgÃ¥ende))
 
 Trp Annelund
- Kila, Nysäter
-(Järnvägsviadukt)
- Vänerbanan
-Trp E45/Järnvägsg.
-(sydgående riktning)
+ Kila, NysÃ¤ter
+(JÃ¤rnvÃ¤gsviadukt)
+ VÃ¤nerbanan
+Trp E45/JÃ¤rnvÃ¤gsg.
+(sydgÃ¥ende riktning)
  Centrum
 Bensinstation: OKQ8
-(Byälven)
+(ByÃ¤lven)
 					0,8 km/0,4 km	32 s/16 s
 T-korsning E45/Kyrkogatan
-(nordgående riktning)
- Värmlandsnäs
-T-korsning E45/Granbäcksv.
-(sydgående riktning)
+(nordgÃ¥ende riktning)
+ VÃ¤rmlandsnÃ¤s
+T-korsning E45/GranbÃ¤cksv.
+(sydgÃ¥ende riktning)
  Centrum
 					0,9 km/0,9 km	36 s/36 s
 Trp Rolfserud
- 175: Arvika, Nysäter
+ 175: Arvika, NysÃ¤ter
 Bensinstation: OKQ8 (b), Preem, Tanka
 
-Etapp 14: Säffle - Valnäs (16,5 km/17,2 km)
+Etapp 14: SÃ¤ffle - ValnÃ¤s (16,5 km/17,2 km)
 					2.0 km/1.9 km	1 min 30 s/1 min 26 s
-T-korsning Oxåsen
+T-korsning OxÃ¥sen
  Bro K:a
 					0.8 km/0.8 km	36 s/36 s
-Korsning Gösta Krog
- Värmlandsnäs
+Korsning GÃ¶sta Krog
+ VÃ¤rmlandsnÃ¤s
 					3.6 km/3.7 km	2 min 42 s/2 min 47 s
-Dubbel T-korsning Värmlandsbro S
- Värmlandsnäs
+Dubbel T-korsning VÃ¤rmlandsbro S
+ VÃ¤rmlandsnÃ¤s
  Bro K:a
 					0,6 km/0,4 km	43 s/29 s
-Restaurang: Grön ko
+Restaurang: GrÃ¶n ko
 					0,3 km/0,5 km	22 s/36 s
-T-korsning Värmlandsbro N
- Mässvik
-Café/Kiosk: Värmlandsbrogrillen
+T-korsning VÃ¤rmlandsbro N
+ MÃ¤ssvik
+CafÃ©/Kiosk: VÃ¤rmlandsbrogrillen
 					2,0 km/1,8 km	1 min 30 s/1 min 21 s
-Järnvägsviadukt
- Vänerbanan
+JÃ¤rnvÃ¤gsviadukt
+ VÃ¤nerbanan
 					4,0 km/4,0 km	3 min 0 s/3 min 0 s
-Säffle / Grums
+SÃ¤ffle / Grums
 					2,1 km/2,1 km	1 min 35 s/1 min 35 s
 T-korsning Billeruds GK
 					0,4 km/0,6 km	18 s/27 s
-Avfart Valnäs E45
-(sydgående riktning)
-T-korsning Valnäs E45
-(nordgående riktning)
+Avfart ValnÃ¤s E45
+(sydgÃ¥ende riktning)
+T-korsning ValnÃ¤s E45
+(nordgÃ¥ende riktning)
 					0,9 km/1,4 km	0 min 41 s/1 min 3 s
-Valnäsmotet
- E18 ö: Stockholm, Karlstad
+ValnÃ¤smotet
+ E18 Ã¶: Stockholm, Karlstad
  E45 n: Mora, Sunne
- E18 v: Oslo, Årjäng
+ E18 v: Oslo, Ã…rjÃ¤ng
