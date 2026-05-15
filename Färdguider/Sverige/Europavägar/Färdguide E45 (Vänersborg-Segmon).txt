@@ -190,65 +190,76 @@ Korsning Framnäs (enskild väg)
 (spanska svängar båda riktningar)
  Framnäs
 					0,9 km/1,0 km	36 s/40 s
-Rastplats Linderud
-T-korsning
- Enskild väg
+Rastplats Linderud (nordgående))
+T-korsning (enskild väg)
+ Hökeberg
 					0,5 km/0,3 km	20 s/12 s
-Country Thyme
+Country Thyme (västra sidan)
 					0,6 km/0,7 km	24 s/28 s
-Parkeringsplats (sydgående)
+(Parkeringsplats (sydgående, ej skyltad)
 					0,7 km/0,7 km	28 s/28 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
+ Guttvik
 					0,8 km/0,8 km	32 s/32 s
-Korsning
- Enskild väg
+Korsning (enskild väg)
+(spanska svängar båda riktningar)
 					0,8 km/0,7 km	32 s/28 s
-T-korsning (nordgående riktning)
- Enskild väg
+T-korsning (enskild väg))
+(nordgående riktning)
+ Saxvik
 
-T-korsning Svärdsviken
- Skållerud				1,0 km/1,1 km	40 s/44 s
-
+Korsning Svärdsviken
+ Skållerud, Svankila naturreservat
+					1,0 km/1,1 km	40 s/44 s
 Korsning Köpmannebro S
- Köpmannebro
+(spanska svängar båda riktningar)
+ Köpmannebro, Dalslands kanal
+ Spången (enskild väg)
 					0,9 km/0,8 km	41 s/36 s
-(Bron vid Köpmannebro)
- Dalslands kanal, 260 m
+(Mitträcke upphör / börjar)
+Bron vid Köpmannebro (260 m))
+ Dalslands kanal
+(Mitträcke börjar / upphör)
+					/)
 T-korsning Köpmannebro N
  Köpmannebro
+(Dubbel T-korsning (lokal väg, ej skyltad))
 
 Etapp 11: Köpmannebro - Tösse (23,4 km/23,5 km)
 
-Korsning
- Enskild väg
+Korsning (enskild väg)
+ Ransberg
 					2,0 km/2,0 km	1 min 20 s/1 min 20 s
-Korsning Ransberg
- Enskild väg
+Korsning Ransberg (enskild väg)
+(spanska svängar båda riktningar)
 					2,2 km/2,1 km	1 min 28 s/1 min 24 s
 T-korsning Kärrkil
- Snäcke
+ Snäcke, Ryr naturreservat (gårdsbutik)
 					1,0 km/1,2 km	40 s/48 s
 Mellerud / Åmål
-Korsning Äskekärr
- Enskild väg
- Rastplats Vassviken
+Korsning Äskekärr (enskild väg)
+(spanska svängar båda riktningar)
+ Rastplats Vassviken (endast skyltad sydgående)
 					0,9 km/0,7 km	36 s/28 s
 Korsning Bolet korsväg
- Fengerfor	s, Ånimskog K:a
+ Bolet
 					1,5 km/1,6 km	1 min 0 s/1 min 4 s
-Korsning Årbol
- Enskild väg
+Korsning Årbol (enskild väg)
+(spanska svängar båda riktningar)
+ Yttre Bodane, Naturreservat
+ Skolmuseum
 					3,8 km/3,7 km	2 min 32 s/2 min 28 s
-T-korsning
- Enskild väg
+T-korsning Slobol (enskild väg)
+(endast skyltad nordgående)
 
-T-korsning Bollsbyn
- Enskild väg
+T-korsning (enskild väg, ej skyltad)
+
+T-korsning Bollsbyn (enskild väg)
+ Skållebyn, Missionshus
 					0,6 km/0,6 km	31 s/31 s
-(Bill's Grill and Mini Mart)
-Korsning Ånimskog	
- Fengerfors, Ånimskogs K:a
+Korsning Ånimskog
+ Ånimskogs K:a, Bygdegård
 					1,6 km/1,6 km	1 min 22 s/1 min 22 s
 Korsning Krusebol
  Ö. Bodane
