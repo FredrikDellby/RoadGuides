@@ -4,9 +4,11 @@ Trafikplats Båberg
  E45 s: Göteborg, Trollhättan
  44 ö: Mariestad, Lidköping
  44 v: Uddevalla
-					1,2 km/0,6 km	48 s/28 s		90
+					1,2 km/0,6 km	48 s/28 s
+Trafikplats Båberg-nord
+
 Trafikplats Möjered
- Trestad Center
+ Trestad Center N
 					0,5 km/0,4 km	20 s/16 s
 Järnvägsviadukt
  Älvsborgsbanan
@@ -14,8 +16,8 @@ Järnvägsviadukt
 Trafikplats Götered
  Öxnered, Vänersborg V
 					1,1 km/1,4 km	44 s/56 s
-Rastplats Karlsro
-Rastplats Botered
+Rastplats Karlsro (nordgående))
+(Rastplats Botered (sydgående)
  Restaurang: Pausgrillen
 					1,6 km/1,0 km	1 min 4 s/0 min 40 s
 Korsning (enskild väg)
@@ -259,54 +261,69 @@ T-korsning Bollsbyn (enskild väg)
  Skållebyn, Missionshus
 					0,6 km/0,6 km	31 s/31 s
 Korsning Ånimskog
- Ånimskogs K:a, Bygdegård
+ Ånimskogs k:a, Bygdegård
+
+T-korsning Ånimskog industri (lokal väg)
+ Ej skyltad
 					1,6 km/1,6 km	1 min 22 s/1 min 22 s
 Korsning Krusebol
- Ö. Bodane
+ Ö. Bodane, Dalslands honung
  Enskild väg
 					0,7 km/0,7 km	32 s/32 s
 Korsning Lilla Bräcke
- Ånimskogs K:a
+ Ö. Bodane
+ Lilla Bräcke Loge, Furusjön (enskild väg)
+ Idrottsplats, Naturreservat (enskild väg)
 					1,5 km/1,5 km	1 min 8 s/1 min 8 s
 Korsning Sannerud
- Ånimskogs K:a
- Enskild väg
+ Bolet, Ånimskogs k:a
+ Skogen (enskild väg)
 					6,4 km/6,4 km	4 min 48 s/4 min 48 s
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
+(spansk sväng/endast förskyltad sydgående)
+ Topperud, Hensbyn
 
-Korsning Skäggebol
- Enskild väg
+Korsning Skäggebol (enskild väg)
+(spanska svängar båda riktningar)
+ Björbyn
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
+(spansk sväng/endast skyltad nordgående)
 
 Korsning Hult (enskild väg)
- Bygdegård
+ Rolfskärr, Slädekärr, Bygdegård
+ Ålerud
 
-T-korsning
- Enskild väg
+T-korsning (enskild väg)
+(spansk sväng/endast skyltad nordgående)
 
-Korsning Västanå
- Enskild väg
+Korsning Västanå (enskild väg)
+(spanska svängar båda riktningar)
+ Tydje stom
 
-Korsning
+Korsning (spanska svängar båda riktningar)
+(endast förskyltad nordgående)
  Sandbol
 					0,5 km/0,7 km	23 s/32 s
-Dubbel T-korsning Torpane
- Enskild väg
+Dubbel T-korsning Torpane (enskild väg)
  Restaurang: Tössestugan
+ Hallebol
 					1,0 km/0,8 km	45 s/36 s
-Bensinstation: Circle-K
+T-korsning (enskild väg)
+(spansk sväng/endast skyltad sydgående)
+Bensinstation: Circle-K (västra sidan)
 T-korsning Tösse kyrka
- Fengerfors
+ Dals Långed, Fengerfors
+ Baldersnäs (sevärdhet), Bergtäkt
 
 Etapp 12: Tösse - Åmål (11,3 km/11,3 km)
 					0,4 km/0,4 km	18 s/18 s
-T-korsning Tösse E45
+TösseMacken (västra sidan)
+T-korsning Tösse E45 (endast skyltad nordgående)
+(ej infart sydgående)
  Tösse
 					1,3 km/1,3 km	59 s/59 s
-T-korsning Tösse N
+T-korsning Tösse N (endast skyltad sydgående)
  Tösse
 					0,3 km/0,3 km	14 s/14 s
 Järnvägsviadukt
