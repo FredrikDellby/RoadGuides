@@ -210,7 +210,7 @@ Korsning (enskild väg)
 T-korsning (enskild väg))
 (nordgående riktning)
  Saxvik
-
+					/)
 Korsning Svärdsviken
  Skållerud, Svankila naturreservat
 					1,0 km/1,1 km	40 s/44 s
@@ -220,6 +220,7 @@ Korsning Köpmannebro S
  Spången (enskild väg)
 					0,9 km/0,8 km	41 s/36 s
 (Mitträcke upphör / börjar)
+					(/
 Bron vid Köpmannebro (260 m))
  Dalslands kanal
 (Mitträcke börjar / upphör)
@@ -318,6 +319,7 @@ T-korsning Tösse kyrka
 
 Etapp 12: Tösse - Åmål (11,3 km/11,3 km)
 					0,4 km/0,4 km	18 s/18 s
+(Mitträcke upphör / börjar)
 TösseMacken (västra sidan)
 T-korsning Tösse E45 (endast skyltad nordgående)
 (ej infart sydgående)
