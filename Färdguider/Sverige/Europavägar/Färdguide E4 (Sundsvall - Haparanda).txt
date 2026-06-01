@@ -1670,6 +1670,8 @@ T-korsning (enskild väg, ej skyltad)
 Korsning (enskild väg, ej skyltad?)
 (spanska svängar båda riktningar)
 
+Luleå / Kalix: ()
+
 Korsning
  Siknäs, Siknäsfortet (sevärdhet)
  Hyttgården Masugnsruin (sevärdhet)
