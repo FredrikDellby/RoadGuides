@@ -14,14 +14,36 @@ Trafikplats Töre-nord
  E4 s: Sundsvall, Luleå
 					/)
 Korsning E10/Köpmanvägen
- Centrum
+ Klippgränd
+ Töre Centrum
  Masugnsruin, Hyttgården
  Bensinstation: OKQ8
  Elbilsladdning: Tesla
 
-Korsning E10/Kyrkvägen
+Korsning E10/Kyrkvägen (lokal väg, ej skyltad)
  Parkering Töre kyrkogård
  Töre kyrka, Industri
 
 T-korsning Töre N
- Töre kyrk
+ Töre kyrka
+
+T-korsning
+ Långsel, Långfors, Törböle
+ Fattenborg (sevärdhet)
+
+(T-korsning (enskild väg))
+ Ytterträsk
+
+Korsning E10/Centralgatan (lokal väg)
+ Lunchrestaurang (vandrarhem)
+ Kyrka
+
+Korsning E10/Lv 356
+ 356: Boden, Niemisel
+ Kalix, Karungi, Viltfarm
+ Lanthandel
+					(/
+Dubbel Järnvägsbro
+ Nya Haparandabanan
+ Gamla Haparandabanan
+
