@@ -20,21 +20,21 @@ Korsning E10/Köpmanvägen
  Bensinstation: OKQ8
  Elbilsladdning: Tesla
 
-Korsning E10/Kyrkvägen (lokal väg, ej skyltad)
+Korsning E10/Kyrkvägen (ej skyltad)
  Parkering Töre kyrkogård
  Töre kyrka, Industri
 
 T-korsning Töre N
  Töre kyrka
 
-T-korsning
+T-korsning Törböle E10
  Långsel, Långfors, Törböle
  Fattenborg (sevärdhet)
 
 (T-korsning (enskild väg))
  Ytterträsk
 
-Korsning E10/Centralgatan (lokal väg)
+Korsning E10/Centralgatan
  Lunchrestaurang (vandrarhem)
  Kyrka
 
@@ -46,4 +46,3 @@ Korsning E10/Lv 356
 Dubbel Järnvägsbro
  Nya Haparandabanan
  Gamla Haparandabanan
-
