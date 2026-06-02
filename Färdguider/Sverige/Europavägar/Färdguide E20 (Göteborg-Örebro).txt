@@ -110,6 +110,7 @@ Hästerydsmotet (93)
 Bodarnamotet (94.1)
  Västra Bodarna
 					1,2 km/1,9 km	0 min 43 s/1 min 8 s
+Motorväg upphör / börjar
 					1,8 km/1,0 km	1 min 5 s/0 min 36 s
 Korsning Hedvigsborg
  Mariedal
@@ -132,7 +133,7 @@ Korsning Götaplan
 
 Etapp 3: Alingsås - Vårgårda (20,6 km/20,6 km)
 					1.0 km/0.3 km	1 min 0 s/0 min 18 s
-(Avfart+Påfart Malmgatan
+(Avfart+Påfart Malmgatan (västgående)
  Bensinstation: Ingo
 					(/0.6 km	(/36 s
 Korsning Kristineholm
@@ -140,6 +141,8 @@ Korsning Kristineholm
  Industri: Borgen, Brandstation
  Bensinstation: Circle-K, OKQ8
 					2,1 km/2,3 km	1 min 16 s/1 min 23 s
+Motorväg börjar / upphör: ()
+
 Bälingemotet (94.5)
  Hol, Bälinge
  Industri: Borgen
@@ -185,7 +188,13 @@ påfart östgående riktning)
 Bro över Nossan: (58.107919,12.8333528)
 					0.7 km/0.6 km	28 s/24 s
 Vårgårda / Essunga: (58.1161235,12.8449856)
+
+(T-korsning (enskild väg, västgående)
+ Änga, Kvistagården
 					2.6 km/2.6 km	1 min 44 s/1 min 44 s
+(Viltbro
+T-korsning (enskild väg, östgående))
+ Änga, Kvistagården
 					0.6 km/0.7 km	24 s/28 s
 Trp Lekåsa
  186: Nossebro, Jonslund
@@ -199,18 +208,48 @@ Trafikplats Eling
  Vedum
  Tumleberg
 					5.3 km/5.5 km	3 min 32 s/3 min 40 s
+(Viltbro)
+
+T-korsning (enskild väg, östgående))
+ Elingstorp, Spjutstorp
+
+T-korsning (enskild väg, östgående))
+ Ringsholm
+(T-korsning (enskild väg, västgående)
+ Elingstorp, Spjutstorp
+
+(T-korsning (enskild väg, västgående)
+ Grönelund, Ringsholm
+
+T-korsning (enskild väg, östgående))
+ Grönelund, Ringsholm
+
+(T-korsning (enskild väg, västgående)
+ Lunden
+
 Vara Motell Motoristen (södra sidan)
+ Bäckebo, Lunden (enskild väg)
  Bensinstation: INGO
  Motell & Restaurang: Motoristen
 					2.4 km/2.2 km	1 min 36 s/1 min 28 s
+Viltbro
+
 Trafikplats Naum
  Nossebro, Arentorp
  Hillebo
  Bensinstation: BA Oil
  Restaurang: Palmas Restaurang & Pizzeria
+
+T-korsning (enskild väg, östgående))
+ Dampetorp
 					2.7 km/2.6 km	1 min 48 s/1 min 44 s
+Trp 
+ Hålltorp, Ridanläggning
+ Huttla kvarn (sevärdhet)
+
 Järnvägsbro
  Älvsborgsbanan
+(Bro över ... (ej skyltad))
 					0.7 km/0.6 km	28 s/24 s
 Trafikplats Vara
  187: Lidköping
